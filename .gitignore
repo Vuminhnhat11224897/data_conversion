@@ -1,0 +1,36 @@
+# Bí mật: chỉ giữ file mẫu
+.env
+.env.*
+!.env.example
+
+# Nhật ký, cache model, kết quả từng lượt (chứa toàn văn và câu trả lời model)
+work/
+*.log
+
+# Tài liệu cũ và dữ liệu mẫu, chỉ giữ cục bộ
+archive/
+
+# Ứng dụng so sánh Gốc · v3 · v4: công cụ cục bộ, không thuộc luồng sản phẩm (dữ liệu chụp từ ES ~15 MB)
+frontend/
+
+# Đánh giá: chỉ giữ code, rubric, danh sách bộ và nhãn đã khóa.
+# Gói gán nhãn chứa toàn văn, tạo lại bằng python -m eval.packets; bản nháp phân xử đã gộp vào eval/gold/*-adj.
+eval/packets/
+eval/tmp/
+eval/adjudication/
+
+# Môi trường Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+*.egg-info/
+
+# Editor, hệ điều hành
+.vscode/
+.idea/
+*.swp
+.DS_Store
