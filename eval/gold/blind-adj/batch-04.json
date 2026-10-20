@@ -1,0 +1,254 @@
+[
+ {
+  "doc_id": "623885",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn chỉ đạo; 'hướng dẫn người dân', 'tiếp tục triển khai Công văn 2487/ATTP-NĐTT, 557/ATTP-NĐTT' không phải tác động lên văn bản."
+ },
+ {
+  "doc_id": "385805",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn truyền đạt ý kiến Thủ tướng, giao nhiệm vụ; không có tác động."
+ },
+ {
+  "doc_id": "681137",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Chỉ yêu cầu thực hiện các văn bản đã có (trích dẫn NĐ 155/2018/NĐ-CP, CT 17/CT-TTg, CT 38/CT-TTg, TTLT 08/2008, 13/2016); không có tác động."
+ },
+ {
+  "doc_id": "46038",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Thông tư hướng dẫn theo chủ đề (căn cứ Điều 182 BLLĐ, NĐ 72/CP), lời dẫn không nêu hướng dẫn văn bản cụ thể nên không ghi. Câu 'Các doanh nghiệp trong quân đội không thực hiện báo cáo ... theo quy định của Thông tư số 16/LĐTBXH-TT' chỉ loại trừ đối tượng, không có từ hành động bãi bỏ/ngưng hiệu lực; không ghi. loi_dan rỗng dù toàn văn có đoạn căn cứ và lời dẫn."
+ },
+ {
+  "doc_id": "266517",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công bố danh mục văn bản hết hiệu lực; các văn bản hết hiệu lực do văn bản khác thay thế/bãi bỏ, văn bản này không tự tuyên bố; không ghi."
+ },
+ {
+  "doc_id": "39763",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quyết định thành lập trường; không có tác động."
+ },
+ {
+  "doc_id": "232177",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Thông tư liên tịch hướng dẫn theo chủ đề (thu, nộp, sử dụng nguồn thu), không nêu văn bản được hướng dẫn; các dẫn chiếu NĐ 21/2012/NĐ-CP là trích dẫn. Không có tác động."
+ },
+ {
+  "doc_id": "262819",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công bố danh mục văn bản hết hiệu lực; lý do hết hiệu lực là văn bản khác; không ghi."
+ },
+ {
+  "doc_id": "425352",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "346/QĐ-BHXH",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA QUY CHẾ QUẢN LÝ VÀ CẤP MÃ SỐ BẢO HIỂM XÃ HỘI CHO NGƯỜI THAM GIA BẢO HIỂM XÃ HỘI, BẢO HIỂM Y TẾ BAN HÀNH KÈM THEO QUYẾT ĐỊNH SỐ 346/QĐ-BHXH NGÀY 28 THÁNG 3 NĂM 2019 CỦA TỔNG GIÁM ĐỐC BẢO HIỂM XÃ HỘI VIỆT NAM"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "346/QĐ-BHXH",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA QUY CHẾ QUẢN LÝ VÀ CẤP MÃ SỐ BẢO HIỂM XÃ HỘI CHO NGƯỜI THAM GIA BẢO HIỂM XÃ HỘI, BẢO HIỂM Y TẾ BAN HÀNH KÈM THEO QUYẾT ĐỊNH SỐ 346/QĐ-BHXH NGÀY 28 THÁNG 3 NĂM 2019 CỦA TỔNG GIÁM ĐỐC BẢO HIỂM XÃ HỘI VIỆT NAM"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "346/QĐ-BHXH",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm 1.1 khoản 1 Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung gạch đầu dòng (-) thứ nhất, Tiết a, Điểm 1.1, Khoản 1, Điều 5 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "346/QĐ-BHXH",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm 1.2 khoản 1 Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung gạch đầu dòng (-) thứ nhất, Tiết b, Điểm 1.2, Khoản 1, Điều 5 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "bo-sung",
+    "target_document": "346/QĐ-BHXH",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm 1.3 khoản 1 Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung Tiết a, Điểm 1.3, Khoản 1, Điều 5 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 4",
+    "action": "bo-sung",
+    "target_document": "346/QĐ-BHXH",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 2 Điều 9"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung Khoản 2, Điều 9 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 5",
+    "action": "bo-sung",
+    "target_document": "346/QĐ-BHXH",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 2 Điều 11"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung Khoản 2, Điều 11 như sau:"
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "loai": "gop_sai",
+    "ghi_chu": "Khoản 4 (Bổ sung Khoản 2, Điều 9) và khoản 5 (Bổ sung Khoản 2, Điều 11) của Điều 1 bị gộp vào noi_dung Khoản 3; quan hệ ghi theo toàn văn là Điều 1 Khoản 4, Điều 1 Khoản 5."
+   }
+  ],
+  "ghi_chu": "Tên văn bản và tên Điều 1 nói rõ Quy chế ban hành kèm theo QĐ 346/QĐ-BHXH nên target_section kem_theo. 'Tiết a/b, gạch đầu dòng' thuộc điểm 1.x nên vi_tri dừng ở điểm. Nội dung trong ngoặc kép (kể cả câu về quy định trước đây) không ghi."
+ },
+ {
+  "doc_id": "133028",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "huong-dan",
+    "target_document": "11/NQ-CP",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "V/v hướng dẫn bổ sung việc mua sắm tài sản thực hiện Nghị quyết số 11/NQ-CP"
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Phần đầu",
+    "loai": "thieu_noi_dung",
+    "ghi_chu": "loi_dan rỗng; đoạn căn cứ và lời dẫn 'Bộ Tài chính hướng dẫn bổ sung việc mua sắm tài sản thực hiện Nghị quyết 11/NQ-CP như sau:' chỉ có trong toan_van."
+   }
+  ],
+  "ghi_chu": "Lời dẫn trong toàn văn cùng hành động hướng dẫn NQ 11/NQ-CP (cùng Phần đầu, không ghi trùng). 'Bổ sung' ở đây là hướng dẫn bổ sung, không sửa văn bản nào. Dẫn chiếu CV 14355/BTC-QLCS, 6817/VPCP-KTTH, QĐ 170/2006/QĐ-TTg là trích dẫn."
+ },
+ {
+  "doc_id": "83418",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công bố xếp loại doanh nghiệp; không có tác động."
+ },
+ {
+  "doc_id": "609889",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "1260/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "thủ tục hành chính số thứ tự 06 tại tiểu mục IV mục A thuộc phần I – Danh mục thủ tục hành chính",
+    "evidence": "Quyết định này có hiệu lực thi hành kể từ ngày ký và thay thế thủ tục hành chính số thứ tự 06 tại tiểu mục IV mục A thuộc phần I – Danh mục thủ tục hành chính được ban hành kèm theo Quyết định số 1260/QĐ-UBND ngày 07/8/2023"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công bố TTHC; Điều 2 tự nói thay thế dòng STT 06 của Danh mục kèm theo QĐ 1260/QĐ-UBND nên ghi; vi_tri để rỗng, ghi doi_tuong."
+ },
+ {
+  "doc_id": "603299",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "353/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực thi hành kể từ ngày ký, thay thế Quyết định số 353/QĐ-UBND ngày 04/3/2024 của UBND tỉnh công bố Danh mục thủ tục hành chính sửa đổi, bổ sung trong lĩnh vực thi đua, khen thưởng; tuyển dụng, sử dụng và quản lý viên chức; chính quyền địa phương thuộc thẩm quyền quản lý và giải quyết của ngành Nội vụ trên địa bàn tỉnh Bình Phước."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Không có toan_van trong gói; đã đối chiếu văn bản nguồn: phụ lục chỉ là bảng TTHC, không có tác động khác."
+ },
+ {
+  "doc_id": "362032",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công bố TTHC được sửa đổi; không tự thay thế/bãi bỏ văn bản nào; không ghi."
+ },
+ {
+  "doc_id": "39820",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "huong-dan",
+    "target_document": "27/CP",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "HƯỚNG DẪN THỰC HIỆN NGHỊ ĐỊNH SỐ 27/CP NGÀY 20-4-1995 CỦA CHÍNH PHỦ VỀ QUẢN LÝ, SẢN XUẤT, CUNG ỨNG VÀ SỬ DỤNG VẬT LIỆU NỔ CÔNG NGHIỆP"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "huong-dan",
+    "target_document": "27/cp-1995",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "HƯỚNG DẪN THỰC HIỆN NGHỊ ĐỊNH SỐ 27/CP NGÀY 20-4-1995 CỦA CHÍNH PHỦ VỀ QUẢN LÝ, SẢN XUẤT, CUNG ỨNG VÀ SỬ DỤNG VẬT LIỆU NỔ CÔNG NGHIỆP.",
+    "nguon": "phan_xu_20261020"
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Phần đầu",
+    "loai": "thieu_noi_dung",
+    "ghi_chu": "loi_dan chỉ là tên mục 'I. QUY ĐỊNH CHUNG'; đoạn căn cứ và lời dẫn 'Bộ Công nghiệp ban hành Thông tư Hướng dẫn thi hành Nghị định 27/CP ...' không có trong phan_dau/loi_dan."
+   },
+   {
+    "source_path": "Điều 2 Khoản 4",
+    "loai": "gop_sai",
+    "ghi_chu": "Tên mục 'II. QUẢN LÝ NHÀ NƯỚC VỀ VẬT LIỆU NỔ CÔNG NGHIỆP' dính vào cuối noi_dung."
+   },
+   {
+    "source_path": "Điều 11 Khoản 2",
+    "loai": "gop_sai",
+    "ghi_chu": "Tên mục 'IV. SỬ DỤNG VẬT LIỆU NỔ CÔNG NGHIỆP' dính vào cuối noi_dung."
+   },
+   {
+    "source_path": "Điều 16 Khoản 2",
+    "loai": "gop_sai",
+    "ghi_chu": "Tên mục 'V. KIỂM TRA, XỬ LÝ VI PHẠM' dính vào cuối noi_dung."
+   },
+   {
+    "source_path": "Điều 19 Khoản 2",
+    "loai": "gop_sai",
+    "ghi_chu": "Tên mục 'VI. ĐIỀU KHOẢN THI HÀNH' dính vào cuối noi_dung."
+   }
+  ],
+  "ghi_chu": "Lời dẫn toàn văn cũng hướng dẫn NĐ 27/CP (cùng Phần đầu, không ghi trùng). Điều 22 'Các quy định trước đây trái với ... đều bãi bỏ' không nêu văn bản cụ thể, không ghi. Điều 19 chỉ dẫn chiếu '(Điều 4-NĐ 27/CP)', không có từ hành động, không ghi riêng. Điều không có tên nên ten_dieu lấy câu đầu của Điều."
+ }
+]

@@ -1,0 +1,180 @@
+[
+ {
+  "doc_id": "427538",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "hop-nhat",
+    "target_document": "127/2014/NĐ-CP",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Văn bản hợp nhất 10/VBHN-BTNMT năm 2019 hợp nhất Nghị định quy định điều kiện của tổ chức hoạt động dịch vụ quan trắc môi trường"
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 8 Khoản 3",
+    "loai": "gop_sai",
+    "ghi_chu": "Khoản 4 (ghi '46.' do dính số chú thích 6) bị gộp vào khoản 3."
+   },
+   {
+    "source_path": "Điều 8 Khoản 3 điểm c",
+    "loai": "gop_sai",
+    "ghi_chu": "Điểm d ('d4)'), điểm đ ('đ)5') và khoản 4 ('46.') bị gộp vào điểm c."
+   },
+   {
+    "source_path": "Điều 9 Khoản 3",
+    "loai": "gop_sai",
+    "ghi_chu": "Khoản 4 (ghi '4.13' do dính số chú thích 13) bị gộp vào khoản 3."
+   },
+   {
+    "source_path": "Điều 9 Khoản 3 điểm c",
+    "loai": "gop_sai",
+    "ghi_chu": "Điểm d ('d)10 (được bãi bỏ)') bị gộp vào điểm c."
+   }
+  ],
+  "ghi_chu": "VBHN: tên văn bản hợp nhất NĐ 127/2014/NĐ-CP (số hiệu lấy ở phần đầu). Phần đầu kể NĐ 136/2018/NĐ-CP, 40/2019/NĐ-CP đã sửa đổi là lịch sử, không ghi. Điều 17 khoản 1 'Nghị định này thay thế Nghị định số 27/2013/NĐ-CP' là nội dung của NĐ 127/2014 được chép lại, không phải tác động của VBHN, không ghi. Các ghi chú '(được bãi bỏ)' là lịch sử."
+ },
+ {
+  "doc_id": "318970",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quyết định công bố TTHC mới/sửa đổi/bãi bỏ theo Thông tư 03/2016/TT-BCT; không tự sửa đổi, thay thế, bãi bỏ văn bản nào. Packet không có toàn văn; đã đọc văn bản nguồn: Điều 2, Điều 3 không có tác động."
+ },
+ {
+  "doc_id": "179298",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quyết định công bố TTHC mới, TTHC bị hủy bỏ/bãi bỏ; không tự tác động lên văn bản nào. Packet không có toàn văn; đã đọc văn bản nguồn: Điều 2, Điều 3 không có tác động."
+ },
+ {
+  "doc_id": "407344",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công bố danh mục VBQPPL hết hiệu lực toàn bộ/một phần. Lý do hết hiệu lực là do văn bản khác thay thế, bãi bỏ hoặc hết thời hạn; quyết định này không tự bãi bỏ văn bản nào, không ghi."
+ },
+ {
+  "doc_id": "573992",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công bố danh mục TTHC sửa đổi, bổ sung và phê duyệt quy trình nội bộ. Điều 3 chỉ nêu thời hạn hiệu lực và từ 01/01/2024 thực hiện theo QĐ 1133/QĐ-UBND; không phải tác động lên văn bản khác."
+ },
+ {
+  "doc_id": "582580",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "1325/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục II"
+    ],
+    "doi_tuong": "Quy trình nội bộ các thủ tục hành chính có số thứ tự 1, 2, 3, 4, 5, 6 tiểu mục III Mục A Phần I Phụ lục II",
+    "evidence": "Quy trình nội bộ các thủ tục hành chính có số thứ tự 1, 2, 3, 4, 5, 6 tiểu mục III Mục A Phần I Phụ lục II ban hành kèm theo Quyết định 1325/QĐ- UBND ngày 05/7/2021 của UBND tỉnh Lạng Sơn về việc công bố Danh mục thủ tục hành chính chuẩn hoá và phê duyệt quy trình nội bộ thuộc thẩm quyền giải quyết của Sở Y tế, UBND cấp huyện, UBND cấp xã tỉnh Lạng Sơn hết hiệu lực kể từ ngày Quyết định này có hiệu lực thi hành."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 2 tự tuyên bố quy trình nội bộ STT 1-6 tại Phụ lục II QĐ 1325/QĐ-UBND hết hiệu lực (bai-bo). Danh mục 06 TTHC bị bãi bỏ ở Phụ lục I chỉ là công bố, không ghi."
+ },
+ {
+  "doc_id": "303960",
+  "relations": [],
+  "loi_cau_truc": [
+   {
+    "source_path": "Mục 1",
+    "loai": "gop_sai",
+    "ghi_chu": "Phần đầu (quốc hiệu, số hiệu, kính gửi, câu trả lời công văn 59/CV-HT) bị gộp vào nội dung Mục 1; loi_dan cũng chứa toàn bộ phần đầu và Mục 1."
+   }
+  ],
+  "ghi_chu": "Công văn trả lời doanh nghiệp, chỉ trích dẫn luật, nghị định, thông tư; 'được sửa đổi, bổ sung tại Khoản 25 Điều 1 Luật số 21/2012/QH13' là lịch sử. Không có tác động."
+ },
+ {
+  "doc_id": "45316",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "02/1998/TTLT-BYT-BTCCBCP",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "VỀ VIỆC BỔ SUNG, SỬA ĐỔI MỘT SỐ ĐIỂM TRONG THÔNG TƯ LIÊN TỊCH SỐ 02/1998/TTLT-BYT-BTCCBCP NGÀY 27/6/1998"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "02/1998/TTLT-BYT-BTCCBCP",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "VỀ VIỆC BỔ SUNG, SỬA ĐỔI MỘT SỐ ĐIỂM TRONG THÔNG TƯ LIÊN TỊCH SỐ 02/1998/TTLT-BYT-BTCCBCP NGÀY 27/6/1998"
+   },
+   {
+    "source_path": "Nội dung",
+    "action": "bo-sung",
+    "target_document": "02/1998/TTLT-BYT-BTCCBCP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm 5 Mục II"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung thêm cụm từ: \"Quản lý các đề tài nghiên cứu khoa học, phổ biến và ứng dụng các tiến bộ kỹ thuật và các lĩnh vực của ngành y tế\" vào điểm 5, mục II của Thông tư liên tịch số 02/1998/TTLT."
+   },
+   {
+    "source_path": "Nội dung",
+    "action": "sua-doi",
+    "target_document": "02/1998/TTLT-BYT-BTCCBCP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm 1 Mục III"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi tiết 1.1, điểm 1, mục III của Thông tư liên tịch số 02/1998/TTLT."
+   },
+   {
+    "source_path": "Nội dung",
+    "action": "sua-doi",
+    "target_document": "02/1998/TTLT-BYT-BTCCBCP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm 1 Mục IV"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi điểm 1, mục IV của Thông tư liên tịch số 02/1998/TTLT."
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Nội dung",
+    "loai": "gop_sai",
+    "ghi_chu": "Toàn văn (phần đầu, mục I các điểm 1- 2- 3-, mục II) gộp vào một đơn vị; phan_dau và loi_dan cũng chứa toàn văn."
+   }
+  ],
+  "ghi_chu": "Văn bản không chia Điều, chia mục La Mã. Câu nêu '02/1998/TTLT', ghi đủ số hiệu 02/1998/TTLT-BYT-BTCCBCP theo tên văn bản. Tiết 1.1 dừng ở điểm 1 Mục III. Lời dẫn 'bổ sung, sửa đổi một số điểm ... như sau' trùng quan hệ Phần đầu. 'các văn bản ... trái với Thông tư này đều bãi bỏ' không nêu văn bản cụ thể, không ghi."
+ },
+ {
+  "doc_id": "579448",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công bố danh mục TTHC sửa đổi, bổ sung. Ghi chú trong danh mục '(Sửa đổi bổ sung TTHC tại Quyết định số 516/QĐ-UBND ...)' chỉ mô tả TTHC, không phải văn bản tự sửa đổi QĐ 516/QĐ-UBND; không ghi."
+ },
+ {
+  "doc_id": "574614",
+  "relations": [],
+  "loi_cau_truc": [
+   {
+    "source_path": "Mục I",
+    "loai": "gop_sai",
+    "ghi_chu": "Phần đầu (quốc hiệu, số hiệu, tên, căn cứ thực hiện, lời dẫn) bị gộp vào nội dung Mục I."
+   },
+   {
+    "source_path": "Mục I",
+    "loai": "thieu_noi_dung",
+    "ghi_chu": "Nội dung Mục I bị cắt tại '(t' trong giai đoạn 02; thiếu phần còn lại của giai đoạn 02 và giai đoạn 03 (có trong toàn văn)."
+   }
+  ],
+  "ghi_chu": "Kế hoạch triển khai, chỉ có căn cứ thực hiện và giao nhiệm vụ; không có tác động lên văn bản khác."
+ }
+]

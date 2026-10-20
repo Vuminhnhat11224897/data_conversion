@@ -1,0 +1,112 @@
+[
+ {
+  "doc_id": "653559",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn trả lời doanh nghiệp; chỉ có căn cứ, không có tác động lên văn bản khác."
+ },
+ {
+  "doc_id": "482214",
+  "relations": [
+   {
+    "source_path": "Điều 4 Khoản 2",
+    "action": "thay-the",
+    "target_document": "03/2018/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này thay thế Quyết định số 03/2018/QĐ-UBND ngày 13/3/2018 của Ủy ban nhân dân tỉnh Tiền Giang quy định về giá tính thuế tài nguyên đối với tài nguyên thiên nhiên trên địa bàn tỉnh Tiền Giang."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Khoản 3 Điều 2 chỉ dẫn chiếu Thông tư 44/2017/TT-BTC, không phải tác động."
+ },
+ {
+  "doc_id": "349558",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "440/2016/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực từ ngày 18/5/2017 và thay thế Quyết định số 440/2016/QĐ-UBND ngày 18/3/2016 của Ủy ban nhân dân thành phố."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Các đơn vị trong Quy chế chỉ chứa từ 'điều chỉnh', 'bổ sung vốn', dẫn chiếu Luật/Nghị định; không phải tác động."
+ },
+ {
+  "doc_id": "372304",
+  "relations": [
+   {
+    "source_path": "Mục 3",
+    "action": "bai-bo",
+    "target_document": "2230/QĐ-TCHQ",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 2230/QĐ-TCHQ ngày 05/07/2017 của Tổng cục Hải quan về việc tạm dừng hoạt động kho ngoại quan hết hiệu lực thi hành."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn tự tuyên bố Quyết định 2230/QĐ-TCHQ hết hiệu lực thi hành → bai-bo."
+ },
+ {
+  "doc_id": "55761",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "huong-dan",
+    "target_document": "174/1999/QĐ-TTg",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "HƯỚNG DẪN THỰC HIỆN QUYẾT ĐỊNH SỐ 174/1999/QĐ-TTG NGÀY 23/8/1999 CỦA THỦ TƯỚNG CHÍNH PHỦ VỀ CHẾ ĐỘ PHỤ CẤP THANH SẮC VÀ BỒI DƯỠNG DỐI VỚI LAO ĐỘNG BIỂU DIỄN NGHỆ THUẬT NGÀNH VĂN HÓA THÔNG TIN"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên và lời dẫn ('Thi hành Quyết định số 174/1999/QĐ-TTg ... hướng dẫn thực hiện như sau') cùng thực hiện hướng dẫn; ghi một quan hệ Phần đầu."
+ },
+ {
+  "doc_id": "147152",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn của Bộ đề nghị Thủ tướng xem xét điều chỉnh tổng mức đầu tư trong Quyết định 801/QĐ-TTg; chỉ là đề nghị, không có tác động trực tiếp."
+ },
+ {
+  "doc_id": "314200",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn trả lời doanh nghiệp; chỉ dẫn chiếu văn bản."
+ },
+ {
+  "doc_id": "341874",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Phê duyệt danh mục dự án kêu gọi FDI; Điều 2 chỉ giao nhiệm vụ đề xuất điều chỉnh, bổ sung danh mục."
+ },
+ {
+  "doc_id": "213707",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công bố định mức dự toán cho một dự án; không có tác động lên văn bản khác."
+ },
+ {
+  "doc_id": "522592",
+  "relations": [
+   {
+    "source_path": "Điều 5",
+    "action": "thay-the",
+    "target_document": "13/2014/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực thi hành kể từ ngày 30 tháng 7 năm 2022 và thay thế Quyết định số 13/2014/QĐ-UBND ngày 16/7/2014 của Ủy ban nhân dân tỉnh Đắk Nông về niên hạn cấp phát trang phục, công cụ hỗ trợ cho lực lượng Bảo vệ dân phố trên địa bàn tỉnh Đắk Nông."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": ""
+ }
+]

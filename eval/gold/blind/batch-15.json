@@ -1,0 +1,360 @@
+[
+ {
+  "doc_id": "434710",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công bố danh mục và quy trình nội bộ TTHC; không có tác động lên văn bản khác."
+ },
+ {
+  "doc_id": "231299",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn đồng ý cấp Giấy chứng nhận đầu tư; không có tác động."
+ },
+ {
+  "doc_id": "694939",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn trả lời chính sách thuế; 'được sửa đổi, bổ sung tại Nghị định số 12/2015/NĐ-CP' là trích dẫn lịch sử, không ghi."
+ },
+ {
+  "doc_id": "336452",
+  "relations": [
+   {
+    "source_path": "Điều 1",
+    "action": "bai-bo",
+    "target_document": "24/2007/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nay bãi bỏ 15 văn bản (Danh mục đính kèm) của Ủy ban nhân dân thành phố có nội dung không còn phù hợp với Luật Phí và lệ phí."
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bai-bo",
+    "target_document": "96/2007/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nay bãi bỏ 15 văn bản (Danh mục đính kèm) của Ủy ban nhân dân thành phố có nội dung không còn phù hợp với Luật Phí và lệ phí."
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bai-bo",
+    "target_document": "63/2008/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nay bãi bỏ 15 văn bản (Danh mục đính kèm) của Ủy ban nhân dân thành phố có nội dung không còn phù hợp với Luật Phí và lệ phí."
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bai-bo",
+    "target_document": "99/2009/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nay bãi bỏ 15 văn bản (Danh mục đính kèm) của Ủy ban nhân dân thành phố có nội dung không còn phù hợp với Luật Phí và lệ phí."
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bai-bo",
+    "target_document": "83/2010/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nay bãi bỏ 15 văn bản (Danh mục đính kèm) của Ủy ban nhân dân thành phố có nội dung không còn phù hợp với Luật Phí và lệ phí."
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bai-bo",
+    "target_document": "91/2010/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nay bãi bỏ 15 văn bản (Danh mục đính kèm) của Ủy ban nhân dân thành phố có nội dung không còn phù hợp với Luật Phí và lệ phí."
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bai-bo",
+    "target_document": "31/2012/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nay bãi bỏ 15 văn bản (Danh mục đính kèm) của Ủy ban nhân dân thành phố có nội dung không còn phù hợp với Luật Phí và lệ phí."
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bai-bo",
+    "target_document": "32/2012/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nay bãi bỏ 15 văn bản (Danh mục đính kèm) của Ủy ban nhân dân thành phố có nội dung không còn phù hợp với Luật Phí và lệ phí."
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bai-bo",
+    "target_document": "42/2012/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nay bãi bỏ 15 văn bản (Danh mục đính kèm) của Ủy ban nhân dân thành phố có nội dung không còn phù hợp với Luật Phí và lệ phí."
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bai-bo",
+    "target_document": "59/2012/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nay bãi bỏ 15 văn bản (Danh mục đính kèm) của Ủy ban nhân dân thành phố có nội dung không còn phù hợp với Luật Phí và lệ phí."
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bai-bo",
+    "target_document": "27/2013/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nay bãi bỏ 15 văn bản (Danh mục đính kèm) của Ủy ban nhân dân thành phố có nội dung không còn phù hợp với Luật Phí và lệ phí."
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bai-bo",
+    "target_document": "4036/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nay bãi bỏ 15 văn bản (Danh mục đính kèm) của Ủy ban nhân dân thành phố có nội dung không còn phù hợp với Luật Phí và lệ phí."
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bai-bo",
+    "target_document": "42/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nay bãi bỏ 15 văn bản (Danh mục đính kèm) của Ủy ban nhân dân thành phố có nội dung không còn phù hợp với Luật Phí và lệ phí."
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bai-bo",
+    "target_document": "17/2014/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nay bãi bỏ 15 văn bản (Danh mục đính kèm) của Ủy ban nhân dân thành phố có nội dung không còn phù hợp với Luật Phí và lệ phí."
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bai-bo",
+    "target_document": "57/2013/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nay bãi bỏ 15 văn bản (Danh mục đính kèm) của Ủy ban nhân dân thành phố có nội dung không còn phù hợp với Luật Phí và lệ phí."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 1 bãi bỏ 15 văn bản; số hiệu lấy từ Danh mục đính kèm (toàn văn). Dòng 13 ghi '42/QĐ-UBND ngày 30/9/2013' (giữ nguyên như văn bản). Tên 'Về việc bãi bỏ văn bản' không nêu văn bản đích nên không ghi quan hệ Phần đầu."
+ },
+ {
+  "doc_id": "622686",
+  "relations": [
+   {
+    "source_path": "Điều 1",
+    "action": "bai-bo",
+    "target_document": "940/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "02 thủ tục hành chính trong lĩnh vực đường bộ",
+    "evidence": "Công bố kèm theo Quyết định này Danh mục 02 thủ tục hành chính bị bãi bỏ trong lĩnh vực đường bộ thuộc thẩm quyền giải quyết của Sở Giao thông vận tải tại Quyết định số 940/QĐ-UBND ngày 10/4/2019 của Ủy ban nhân dân tỉnh (có Phụ lục Danh mục kèm theo)."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Ranh giới: câu công bố danh mục TTHC bị bãi bỏ nhưng nêu rõ các TTHC này thuộc Quyết định số 940/QĐ-UBND (thủ tục số 20, 21 Phần II Phụ lục), nên ghi bai-bo một phần. Tên văn bản không nêu văn bản đích."
+ },
+ {
+  "doc_id": "533695",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Thông báo kết luận của Thường trực HĐND; không có tác động. noi_dung Mục 2 trong don_vi bị cắt ở 'd) Đố'; đã đọc phần còn lại trong toàn văn, không có tác động."
+ },
+ {
+  "doc_id": "690249",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "215/QĐ-BGTVT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "TTHC có mã số 1.002788",
+    "evidence": "Quyết định này có hiệu lực thi hành kể từ ngày ký, thay thế TTHC có mã số 1.002788 được công bố tại Quyết định số 215/QĐ-BGTVT ngày 06/3/2024 của Bộ trưởng Bộ Giao thông vận tải về việc công bố thủ tục hành chính được sửa đổi, bổ sung trong lĩnh vực hàng hải thuộc phạm vi chức năng quản lý của Bộ Giao thông vận tải."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên văn bản (công bố TTHC được sửa đổi, bổ sung) không nêu văn bản đích, không ghi."
+ },
+ {
+  "doc_id": "133431",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "huong-dan",
+    "target_document": "85/2010/QĐ-TTg",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Liên Bộ Giáo dục và Đào tạo - Bộ Tài chính - Bộ Kế hoạch và Đầu tư hướng dẫn thực hiện Quyết định số 85/2010/QĐ-TTg ngày 21 tháng 12 năm 2010 của Thủ tướng Chính phủ ban hành một số chính sách hỗ trợ học sinh bán trú và trường phổ thông dân tộc bán trú như sau:"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên và lời dẫn cùng hướng dẫn QĐ 85/2010/QĐ-TTg, ghi một quan hệ Phần đầu. Các đơn vị trong thân chỉ dẫn chiếu, không có tác động."
+ },
+ {
+  "doc_id": "478385",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "156/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "30 thủ tục hành chính cấp tỉnh lĩnh vực Đầu tư",
+    "evidence": "Bãi bỏ 30 thủ tục hành chính cấp tỉnh lĩnh vực Đầu tư công bố tại Quyết định số 156/QĐ-UBND ngày 24/01/2018 của Chủ tịch Ủy ban nhân dân tỉnh; 02 thủ tục hành chính cấp tỉnh lĩnh vực Đầu tư công bố tại Quyết định số 1269/QĐ-UBND ngày 09/6/2020 của Chủ tịch Ủy ban nhân dân tỉnh Hòa Bình."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "1269/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "02 thủ tục hành chính cấp tỉnh lĩnh vực Đầu tư",
+    "evidence": "Bãi bỏ 30 thủ tục hành chính cấp tỉnh lĩnh vực Đầu tư công bố tại Quyết định số 156/QĐ-UBND ngày 24/01/2018 của Chủ tịch Ủy ban nhân dân tỉnh; 02 thủ tục hành chính cấp tỉnh lĩnh vực Đầu tư công bố tại Quyết định số 1269/QĐ-UBND ngày 09/6/2020 của Chủ tịch Ủy ban nhân dân tỉnh Hòa Bình."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên văn bản không nêu văn bản đích."
+ },
+ {
+  "doc_id": "542598",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "307/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI QUYẾT ĐỊNH SỐ 307/QĐ-UBND NGÀY 23/2/2022 CỦA CHỦ TỊCH UBND TỈNH HÒA BÌNH."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "thay-cum-tu",
+    "target_document": "307/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "mục Thời gian thực hiện đối với 11 thủ tục hành chính",
+    "evidence": "Sửa đổi cụm từ “ngày làm việc” thành “ngày” tại mục Thời gian thực hiện đối với 11 thủ tục hành chính ban hành kèm theo Quyết định số 307/QĐ- UBND ngày 23/02/2022 của Chủ tịch Ủy ban nhân dân tỉnh Hòa Bình."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên Điều 2 là câu dẫn 'Sửa đổi Quyết định số 307/QĐ-UBND ..., cụ thể như sau:'; hành động cụ thể là thay cụm từ, ghi một quan hệ. Điều 1 chỉ công bố danh mục TTHC bị bãi bỏ, không nêu văn bản đích; Phụ lục II có cột 'Quyết định công bố' (2485/QĐ-UBND, 2471/QĐ-UBND, 2850/QĐ-UBND) nhưng là bảng danh mục, không ghi."
+ },
+ {
+  "doc_id": "470836",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "1569/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "02 thủ tục hành chính lĩnh vực Xuất bản, In và Phát hành",
+    "evidence": "Bãi bỏ 02 thủ tục hành chính lĩnh vực Xuất bản, In và Phát hành công bố tại Quyết định số 1569/QĐ-UBND ngày 13/7/2020/QĐ-UBND của Chủ tịch Ủy ban nhân dân tỉnh Hòa Bình."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Phụ lục mục A 'sửa đổi, bổ sung 02 TTHC ... công bố tại Quyết định số 1569/QĐ-UBND' là tên danh mục, không ghi."
+ },
+ {
+  "doc_id": "654702",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Không có toan_van; đã đọc văn bản nguồn: Điều 1 chỉ công bố danh mục 287 TTHC, không có tác động. Điều 3 Khoản 1 là giao nhiệm vụ."
+ },
+ {
+  "doc_id": "485185",
+  "relations": [
+   {
+    "source_path": "Điều 3",
+    "action": "bai-bo",
+    "target_document": "740/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ Quyết định số 740/QĐ-UBND ngày 09/4/2019 của Chủ tịch Ủy ban nhân dân tỉnh; Quyết định số 2461/QĐ-UBND ngày 13/10/2020 của Chủ tịch Ủy ban nhân dân tỉnh."
+   },
+   {
+    "source_path": "Điều 3",
+    "action": "bai-bo",
+    "target_document": "2461/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ Quyết định số 740/QĐ-UBND ngày 09/4/2019 của Chủ tịch Ủy ban nhân dân tỉnh; Quyết định số 2461/QĐ-UBND ngày 13/10/2020 của Chủ tịch Ủy ban nhân dân tỉnh."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Không có toan_van; don_vi đủ Điều 1-4."
+ },
+ {
+  "doc_id": "661618",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "879/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực thi hành kể từ ngày 20 tháng 6 năm 2025 và bãi bỏ Quyết định số 879/QĐ-UBND ngày 04 tháng 5 năm 2024 của Chủ tịch Ủy ban nhân dân tỉnh Tây Ninh ban hành Quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Trung tâm Khuyến nông, trực thuộc Sở Nông nghiệp và Phát triển nông thôn tỉnh Tây Ninh."
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Phụ lục 1 Điều 3 Khoản 3 điểm h",
+    "loai": "gop_sai",
+    "ghi_chu": "Hai đoạn cuối của khoản 3 ('Các trạm trực thuộc ... có con dấu', 'Việc bổ nhiệm, miễn nhiệm ...') bị gộp vào điểm h."
+   }
+  ],
+  "ghi_chu": "Phụ lục 1 Điều 6 Khoản 2 là điều khoản dẫn chiếu chung, không ghi."
+ },
+ {
+  "doc_id": "469839",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "bai-bo",
+    "target_document": "47/2014/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "BÃI BỎ QUYẾT ĐỊNH SỐ 47/2014/QĐ-UBND NGÀY 30/9/2014 CỦA UBND TỈNH QUẢNG NGÃI"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bai-bo",
+    "target_document": "47/2014/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ Quyết định số 47/2014/QĐ-UBND ngày 30/9/2014 của UBND tỉnh Quy định một số mức chi hỗ trợ phổ cập giáo dục mầm non 5 tuổi, xóa mù chữ và chống tái mù chữ, duy trì kết quả phổ cập giáo dục tiểu học, thực hiện phổ cập giáo dục trung học cơ sở đúng độ tuổi và hỗ trợ phổ cập giáo dục trung học trên địa bàn tỉnh Quảng Ngãi."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Lời dẫn 'đề nghị ... ban hành Quyết định bãi bỏ' là đề nghị, không ghi."
+ }
+]

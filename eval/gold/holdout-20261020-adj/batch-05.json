@@ -1,0 +1,966 @@
+[
+ {
+  "doc_id": "209827",
+  "relations": [
+   {
+    "source_path": "Điều 3",
+    "action": "thay-the",
+    "target_document": "09/2008/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị quyết này thay thế Nghị quyết số 09/2008/NQ-HĐND ngày 21/7/2008 của Hội đồng nhân dân tỉnh"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 2 khoản 1 (chuyển tiếp áp dụng NQ 09/2008) không phải hành động."
+ },
+ {
+  "doc_id": "298574",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Không có tác động lên văn bản khác."
+ },
+ {
+  "doc_id": "435101",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Kế hoạch; không có tác động."
+ },
+ {
+  "doc_id": "148715",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn trả lời chính sách thuế; chỉ trích dẫn Thông tư 06/2012/TT-BTC, 60/2012/TT-BTC."
+ },
+ {
+  "doc_id": "182517",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Phần đầu kể lại các Chỉ thị 08/CT-UB, 16/CT-UB, Quyết định 2575/QĐ-UB đã bộc lộ hạn chế; không có hành động bãi bỏ, thay thế."
+ },
+ {
+  "doc_id": "104910",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Không có tác động; Quyết định 58/2008/QĐ-BLĐTBXH chỉ là căn cứ."
+ },
+ {
+  "doc_id": "82565",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn đề nghị báo cáo; không có tác động."
+ },
+ {
+  "doc_id": "124929",
+  "relations": [
+   {
+    "source_path": "Phụ lục 1 Mục 2",
+    "action": "bai-bo",
+    "target_document": "25/NQ-CP",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 7 Mục A Phần V"
+    ],
+    "doi_tuong": null,
+    "evidence": "Đề nghị của Bộ Kế hoạch và Đầu tư về bỏ hướng dẫn rõ khái niệm “vốn nhà nước” và “các vốn khác do nhà nước quản lý” nêu tại Khoản 7, Mục A phần V"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 2",
+    "action": "bai-bo",
+    "target_document": "25/NQ-CP",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 2 Mục A Phần XVI",
+     "khoản 3 Mục A Phần XVI",
+     "khoản 4 Mục A Phần XVI",
+     "khoản 7 Mục A Phần XVI"
+    ],
+    "doi_tuong": null,
+    "evidence": "Về việc bỏ nội dung đơn giản hóa nêu tại gạch đầu dòng thứ 2 , Khoản 2, gạch đầu dòng thứ 2 Khoản 3, gạch đầu dòng thứ 2 Khoản 4, gạch đầu dòng thứ 5 Khoản 7, Mục A, phần XVI Phương án đơn giản hóa kèm theo Nghị quyết số 25/NQ-CP"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 2",
+    "action": "bai-bo",
+    "target_document": "63/NQ-CP",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 2 Phần II"
+    ],
+    "doi_tuong": null,
+    "evidence": "Rút phần trách nhiệm thực thi của Ngân hàng Nhà nước nêu tại Khoản 2, Phần II, Phương án đơn giản hóa kèm theo Nghị quyết số 63/NQ-CP ngày 21 tháng 12 năm 2010"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 2",
+    "action": "bo-sung",
+    "target_document": "51/NQ-CP",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 1 Mục I Phần B"
+    ],
+    "doi_tuong": null,
+    "evidence": "Đề nghị của Bộ Quốc phòng bổ sung quy định về trách nhiệm của các bên liên quan đối với việc đăng ký nghĩa vụ quân sự lần đầu, đăng ký vào ngạch dự bị nêu tại tiết 1, Khoản 1, Mục I, phần B Phương án đơn giản hóa ban hành kèm theo Nghị quyết số 51/NQ-CP ngày 10 tháng 12 năm 2010 như sau"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 2",
+    "action": "bo-sung",
+    "target_document": "57/NQ-CP",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "tiết 51 Mục A Phần I",
+     "tiết 52 Mục A Phần I"
+    ],
+    "doi_tuong": null,
+    "evidence": "Đề nghị của Bộ Nông nghiệp và Phát triển nông thôn về bổ sung quy định về thời hạn thực hiện các nội dung đơn giản hóa nêu tại tiết 51, 52 mục A phần I Phương án đơn giản hóa: trước tháng 06 năm 2012"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 2",
+    "action": "sua-doi",
+    "target_document": "59/NQ-CP",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm b khoản 66 Mục VI Phần A",
+     "điểm b khoản 67 Mục VI Phần A"
+    ],
+    "doi_tuong": null,
+    "evidence": "Đề nghị của Bộ Công Thương không thực hiện “pháp lý hóa văn bản quy định về trình tự, cách thức, hồ sơ thực hiện thủ tục hành chính” nêu tại Điểm c, Khoản 67, Mục VI, Phần A; không thực hiện “pháp lý hóa quy định thành phần hồ sơ” đối với trường hợp thay đổi, bổ sung nội dung đăng ký tổ chức hội chợ, triển lãm nêu tại Điểm a, Khoản 75, Mục VI, Phần A; sửa Điểm b, Khoản 66, Mục VI, Phần A và Điểm b, Khoản 67, Mục VI, Phần A như sau"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 2",
+    "action": "sua-doi",
+    "target_document": "62/NQ-CP",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm a khoản 7 Mục I Phần I"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa Điểm a, Khoản 7, Mục I, Phần I Phương án đơn giản hóa ban hành kèm theo Nghị quyết số 62/NQ-CP ngày 17 tháng 12 năm 2010"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 2",
+    "action": "sua-doi",
+    "target_document": "62/NQ-CP",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm d khoản 7 Mục I Phần I"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa Điểm d, Khoản 7, Mục I, Phần I Phương án đơn giản hóa ban hành kèm theo Nghị quyết số 62/NQ-CP ngày 17 tháng 12 năm 2010"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 2",
+    "action": "sua-doi",
+    "target_document": "62/2010/NQ-CP",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm đ khoản 39 Mục I Phần I"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa Điểm đ, Khoản 39, Mục I, Phần I Phương án đơn giản hóa ban hành kèm theo Nghị quyết 62/2010/NQ-CP"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 2",
+    "action": "sua-doi",
+    "target_document": "63/NQ-CP",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm c khoản 1 Mục V Phần I",
+     "điểm c khoản 2 Mục V Phần I",
+     "điểm c khoản 3 Mục V Phần I",
+     "điểm c khoản 4 Mục V Phần I",
+     "điểm c khoản 5 Mục V Phần I",
+     "điểm c khoản 6 Mục V Phần I"
+    ],
+    "doi_tuong": null,
+    "evidence": "Đồng ý sửa nội dung đơn giản hóa nêu tại Điểm c, Khoản 1-6, Mục V, Phần I, Phương án đơn giản hóa kèm theo Nghị quyết số 63/NQ-CP ngày 21 tháng 12 năm 2010 như sau"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 2",
+    "action": "bo-sung",
+    "target_document": "69/NQ-CP",
+    "target_section": "khong_ro",
+    "vi_tri": [
+     "khoản 2 Mục II Phần B"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung vào Khoản 2 Mục II, Phần B của Nghị quyết số 69/NQ-CP"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 2",
+    "action": "thay-the",
+    "target_document": "69/NQ-CP",
+    "target_section": "khong_ro",
+    "vi_tri": [
+     "tiểu điểm 3 điểm a khoản 1 Mục II Phần B"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế gạch đầu dòng thứ 3, Điểm a, Khoản 1, Mục II, Phần B của Nghị quyết số 69/NQ-CP ngày 27 tháng 12 năm 2010"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 2",
+    "action": "sua-doi",
+    "target_document": "71/NQ-CP",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm b khoản 86 Mục I Phần A",
+     "điểm b khoản 27 Mục I Phần A",
+     "khoản 29 Mục I Phần A",
+     "khoản 30 Mục I Phần A",
+     "khoản 31 Mục I Phần A",
+     "khoản 32 Mục I Phần A"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung, sửa đổi một số nội dung sau đây của phương án đơn giản hóa kèm theo Nghị quyết số 71/NQ-CP"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 2",
+    "action": "bo-sung",
+    "target_document": "71/NQ-CP",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm b khoản 86 Mục I Phần A",
+     "điểm b khoản 27 Mục I Phần A",
+     "khoản 29 Mục I Phần A",
+     "khoản 30 Mục I Phần A",
+     "khoản 31 Mục I Phần A",
+     "khoản 32 Mục I Phần A"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung, sửa đổi một số nội dung sau đây của phương án đơn giản hóa kèm theo Nghị quyết số 71/NQ-CP"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 2",
+    "action": "bai-bo",
+    "target_document": "25/NQ-CP",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm b khoản 2 Mục B Phần V"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bỏ trách nhiệm thực thi của Ngân hàng Nhà nước Việt Nam nêu tại Điểm b, Khoản 2, Mục B, Phần V Phương án đơn giản hóa ban hành kèm theo Nghị quyết số 25/NQ-CP ngày 02 tháng 6 năm 2010"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 2",
+    "action": "bai-bo",
+    "target_document": "70/NQ-CP",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 2 Mục II Phần II"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bỏ trách nhiệm thực thi của Ngân hàng Nhà nước Việt Nam nêu tại Điểm b, Khoản 2, Mục B, Phần V Phương án đơn giản hóa ban hành kèm theo Nghị quyết số 25/NQ-CP ngày 02 tháng 6 năm 2010 và Khoản 2, Mục II, Phần II Phương án đơn giản hóa ban hành kèm theo Nghị quyết số 70/NQ-CP ngày 27 tháng 12 năm 2010"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 2",
+    "action": "bai-bo",
+    "target_document": "25/NQ-CP",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm b khoản 2 Mục B Phần VIII"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bỏ nội dung liên quan đến nhiệm vụ của Bộ Khoa học và Công nghệ sửa đổi Quyết định số 50/2006/QĐ-TTg ngày 07 tháng 3 năm 2006 của Thủ tướng Chính phủ nêu tại Điểm b, Khoản 2, Mục B, Phần VIII Phương án đơn giản hóa ban hành kèm theo Nghị quyết số 25/NQ-CP ngày 02 tháng 6 năm 2010"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 2",
+    "action": "sua-doi",
+    "target_document": "25/NQ-CP",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm c khoản 2 Mục B Phần VII"
+    ],
+    "doi_tuong": null,
+    "evidence": "Tại Điểm c, Khoản 2, Mục B, Phần VII Phương án đơn giản hóa kèm theo Nghị quyết số 25/NQ-CP ngày 02 tháng 6 năm 2010: Giao Bộ Ngoại giao chủ trì"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 2",
+    "action": "sua-doi",
+    "target_document": "25/NQ-CP",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 2 Mục B Phần X"
+    ],
+    "doi_tuong": null,
+    "evidence": "Tại Khoản 2, Mục B, Phần X Phương án đơn giản hóa kèm theo Nghị quyết số 25/NQ-CP ngày 02 tháng 6 năm 2010: Giao Bộ Công Thương chủ trì"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 2",
+    "action": "bai-bo",
+    "target_document": "25/NQ-CP",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục B Phần XVI"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bỏ trách nhiệm thực thi của Ngân hàng Nhà nước Việt Nam về việc sửa đổi Nghị định số 160/2006/NĐ-CP ngày 28 tháng 12 năm 2007 của Chính phủ và Quyết định số 170/1999/QĐ-TTg ngày 19 tháng 8 năm 1999 của Thủ tướng Chính phủ nêu tại mục B, phần XVI, Phương án đơn giản hóa ban hành kèm theo Nghị quyết số 25/NQ-CP ngày 02 tháng 6 năm 2010"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 2",
+    "action": "sua-doi",
+    "target_document": "45/NQ-CP",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục III Phần B"
+    ],
+    "doi_tuong": null,
+    "evidence": "Tại Phần B, Mục III Phương án đơn giản hóa kèm theo Nghị quyết số 45/NQ-CP ngày 16 tháng 11 năm 2010: Giao Bộ Công an chủ trì"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 2",
+    "action": "bo-sung",
+    "target_document": "45/NQ-CP",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục B Phần V"
+    ],
+    "doi_tuong": null,
+    "evidence": "Tại mục B phần V Phương án đơn giản hóa ban hành kèm theo Nghị quyết số 45/NQ-CP ngày 16 tháng 11 năm 2010: Bổ sung trách nhiệm của Bộ Giao thông vận tải"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 2",
+    "action": "sua-doi",
+    "target_document": "48/NQ-CP",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm b khoản 1 Mục II Phần B"
+    ],
+    "doi_tuong": null,
+    "evidence": "Tại Điểm b, Khoản 1, Mục II, Phần B Phương án đơn giản hóa ban hành kèm theo Nghị quyết số 48/NQ-CP ngày 09 tháng 12 năm 2010, sửa đổi"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 2",
+    "action": "bai-bo",
+    "target_document": "50/NQ-CP",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 1 Mục II"
+    ],
+    "doi_tuong": null,
+    "evidence": "Tại Khoản 1, Mục II Phương án đơn giản hóa ban hành kèm theo Nghị quyết số 50/NQ-CP ngày 10/12/2010: bỏ quy định giao trách nhiệm cho Bộ Ngoại giao"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 2",
+    "action": "bo-sung",
+    "target_document": "50/NQ-CP",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 3 Mục II"
+    ],
+    "doi_tuong": null,
+    "evidence": "Tại Khoản 3, Mục II Phương án đơn giản hóa ban hành kèm theo Nghị quyết số 50/NQ-CP ngày 10/12/2010, bổ sung"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 2",
+    "action": "bai-bo",
+    "target_document": "52/NQ-CP",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 3 Mục II Phần 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bỏ trách nhiệm thực thi của Bộ Giao thông vận tải nêu tại Khoản 3, Mục II, Phần 2 Phương án đơn giản hóa kèm theo Nghị quyết số 52/NQ-CP ngày 10 tháng 12 năm 2010."
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 2",
+    "action": "bo-sung",
+    "target_document": "52/NQ-CP",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm a khoản 1 Mục II Phần 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung trách nhiệm thực thi của Bộ Tư pháp nêu tại Điểm a, Khoản 1, Mục II, Phần 2, Phụ lục Nghị quyết số 52/NQ-CP ngày 10 tháng 12 năm 2010 như sau"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 2",
+    "action": "bai-bo",
+    "target_document": "56/NQ-CP",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phần B"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bỏ trách nhiệm thực thi phương án đơn giản hóa của Bộ Tài nguyên và Môi trường nêu tại gạch đầu dòng thứ ba Phần B Phương án đơn giản hóa ban hành kèm theo Nghị quyết số 56/NQ-CP ngày 15 tháng 12 năm 2010"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 2",
+    "action": "sua-doi",
+    "target_document": "57/NQ-CP",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 2 Mục B Phần I"
+    ],
+    "doi_tuong": null,
+    "evidence": "Tại Khoản 2, Mục B, Phần I Phương án đơn giản hóa ban hành kèm theo Nghị quyết số 57/NQ-CP ngày 15 tháng 12 năm 2010: Giao Bộ Công Thương chủ trì"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 2",
+    "action": "thay-cum-tu",
+    "target_document": "57/NQ-CP",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "tiểu điểm 1 điểm a khoản 2 Mục B Phần I"
+    ],
+    "doi_tuong": null,
+    "evidence": "Tại gạch đầu dòng thứ nhất Điểm a, Khoản 2, Mục B, Phần I Phương án đơn giản hóa ban hành kèm theo Nghị quyết số 57/NQ-CP ngày 15 tháng 12 năm 2010: Bỏ Nghị định số 104/2006/NĐ-CP ngày 22 tháng 09 năm 2006 của Chính phủ quy định chi tiết, hướng dẫn thi hành một số điều của Luật Sở hữu trí tuệ về quyền đối với giống cây trồng thay bằng Nghị định số 88/2010/NĐ-CP ngày 16 tháng 8 năm 2010"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 2",
+    "action": "thay-cum-tu",
+    "target_document": "57/NQ-CP",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "tiểu điểm 2 điểm a khoản 2 Mục B Phần I"
+    ],
+    "doi_tuong": null,
+    "evidence": "Tại gạch đầu dòng thứ hai, Điểm a, Khoản 2, Mục B, Phần I Phương án đơn giản hóa ban hành kèm theo Nghị quyết số 57/NQ-CP ngày 15 tháng 12 năm 2010: Bỏ Quyết định số 129/2008/QĐ-BNN ngày 31 tháng 12 năm 2008 của Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn quy định khảo nghiệm, công nhận và đặt tên phân bón mới thay bằng Thông tư số 52/2010/TT-BNNPTNT ngày 09 tháng 9 năm 2010"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 2",
+    "action": "sua-doi",
+    "target_document": "57/NQ-CP",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 1 Mục B Phần II"
+    ],
+    "doi_tuong": null,
+    "evidence": "Tại gạch đầu dòng thứ ba Khoản 1, Mục B, Phần II Phương án đơn giản hóa ban hành kèm theo Nghị quyết số 57/NQ-CP ngày 15 tháng 12 năm 2010, điều chỉnh như sau"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 2",
+    "action": "thay-cum-tu",
+    "target_document": "57/NQ-CP",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "tiểu điểm 3 điểm a khoản 2 Mục B Phần II"
+    ],
+    "doi_tuong": null,
+    "evidence": "Tại gạch đầu dòng thứ ba Điểm a, Khoản 2, Mục B, Phần II Phương án đơn giản hóa ban hành kèm theo Nghị quyết số 57/NQ-CP ngày 15 tháng 12 năm 2010: Bỏ Quyết định số 89/2006/QĐ-BNN ngày 02 tháng 10 năm 2006 của Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn ban hành Quy định về quản lý thuốc bảo vệ thực vật; Quyết định số 50/2003/QĐ-BNN ngày 25 tháng 3 năm 2003 của Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn về việc ban hành quy định kiểm định chất lượng, dư lượng thuốc bảo vệ thực vật và khảo nghiệm thuốc bảo vệ thực vật nhằm mục đích đăng ký tại Việt Nam; Quyết định số 63/2007/QĐ-BNN ngày 02 tháng 7 năm 2007 của Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn về việc sửa đổi, bổ sung một số điều của Quy định về quản lý thuốc bảo vệ thực vật ban hành kèm theo Quyết định số 89/2006/QĐ-BNN ngày 02 tháng 10 năm 2006 của Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn thay bằng Thông tư số 38/2010/TT-BNNPTNT ngày 28 tháng 6 năm 2010"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 2",
+    "action": "bai-bo",
+    "target_document": "57/NQ-CP",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 1 Mục B Phần III"
+    ],
+    "doi_tuong": null,
+    "evidence": "Tại gạch đầu dòng thứ ba Khoản 1, Mục B, Phần III Phương án đơn giản hóa ban hành kèm theo Nghị quyết số 57/NQ-CP ngày 15 tháng 12 năm 2010: Bỏ trách nhiệm của Bộ Nông nghiệp và Phát triển nông thôn về việc sửa đổi Quyết định số 18/2008/QĐ-BNN"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 2",
+    "action": "bo-sung",
+    "target_document": "57/NQ-CP",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 1 Mục B Phần III"
+    ],
+    "doi_tuong": null,
+    "evidence": "Tại gạch đầu dòng thứ ba Khoản 1, Mục B, Phần III Phương án đơn giản hóa ban hành kèm theo Nghị quyết số 57/NQ-CP ngày 15 tháng 12 năm 2010: Bổ sung trách nhiệm của Bộ Nông nghiệp và Phát triển nông thôn về việc sửa đổi Thông tư số 63/2010/TT-BNNPTNT"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 2",
+    "action": "bo-sung",
+    "target_document": "57/NQ-CP",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "tiểu điểm 2 điểm a khoản 2 Mục B Phần IV"
+    ],
+    "doi_tuong": null,
+    "evidence": "Tại gạch đầu dòng thứ hai Điểm a, Khoản 2, Mục B, Phần IV Phương án đơn giản hóa ban hành kèm theo Nghị quyết số 57/NQ-CP ngày 15 tháng 12 năm 2010: Bổ sung trách nhiệm của Bộ Nông nghiệp và Phát triển nông thôn về việc sửa đổi Quyết định số 126/2008/QĐ-BNN"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 2",
+    "action": "bai-bo",
+    "target_document": "57/NQ-CP",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "tiểu điểm 3 điểm a khoản 2 Mục B Phần IV"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bỏ trách nhiệm của Bộ Nông nghiệp và Phát triển nông thôn về việc sửa đổi Quyết định số 15/2006/QĐ-BTS ngày 08 tháng 9 năm 2006 của Bộ trưởng Bộ Thuỷ sản (nay là Bộ Nông nghiệp và Phát triển nông thôn) ban hành Quy chế quản lý nhập khẩu, xuất khẩu hàng hoá chuyên ngành thuỷ sản nêu tại gạch đầu dòng thứ ba Điểm a, Khoản 2, Mục B, Phần IV Phương án đơn giản hóa ban hành kèm theo Nghị quyết số 57/NQ-CP ngày 15 tháng 12 năm 2010"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 2",
+    "action": "bo-sung",
+    "target_document": "57/NQ-CP",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm a khoản 2 Mục B Phần IV"
+    ],
+    "doi_tuong": null,
+    "evidence": "Tại Điểm a, Khoản 2, Mục B, Phần IV Phương án đơn giản hóa ban hành kèm theo Nghị quyết số 57/NQ-CP ngày 15 tháng 12 năm 2010, bổ sung quy định"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 2",
+    "action": "bo-sung",
+    "target_document": "57/NQ-CP",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục B Phần X"
+    ],
+    "doi_tuong": null,
+    "evidence": "Tại Mục B, Phần X Phương án đơn giản hóa ban hành kèm theo Nghị quyết số 57/NQ-CP ngày 15 tháng 12 năm 2010, bổ sung quy định"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 2",
+    "action": "bo-sung",
+    "target_document": "59/NQ-CP",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 3 Mục II Phần B"
+    ],
+    "doi_tuong": null,
+    "evidence": "Tại Khoản 3, Mục II, Phần B Phương án đơn giản ban hành kèm theo Nghị quyết số 59/NQ-CP ngày 17 tháng 12 năm 2010: bổ sung trách nhiệm của Bộ Công Thương"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 2",
+    "action": "bai-bo",
+    "target_document": "64/NQ-CP",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 6 Mục II"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bỏ trách nhiệm thực thi của Bộ Nông nghiệp và Phát triển nông thôn nêu tại Khoản 6, Mục II Phương án đơn giản hóa ban hành kèm theo Nghị quyết số 64/NQ-CP ngày 21 tháng 12 năm 2010"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 2",
+    "action": "bo-sung",
+    "target_document": "59/NQ-CP",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 3 Mục II Phần B"
+    ],
+    "doi_tuong": null,
+    "evidence": "Tại Khoản 3, Mục II, Phần B Phương án đơn giản hóa ban hành kèm theo Nghị quyết số 59/NQ-CP ngày 17 tháng 12 năm 2010: Bổ sung trách nhiệm thực thi của Bộ Công Thương"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 2",
+    "action": "bai-bo",
+    "target_document": "59/NQ-CP",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 1 Mục II Phần B",
+     "khoản 2 Mục II Phần B",
+     "khoản 3 Mục II Phần B"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bỏ trách nhiệm thực thi giao cho Bộ Công Thương nêu tại gạch đầu dòng thứ 2 và gạch đầu dòng thứ 15 Khoản 1, gạch đầu dòng thứ 2 Khoản 2, gạch đầu dòng thứ 4 và thứ 5 Khoản 3, Mục II, Phần B Phương án đơn giản hóa ban hành kèm theo Nghị quyết số 59/NQ-CP ngày 17 tháng 12 năm 2010"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 2",
+    "action": "bo-sung",
+    "target_document": "59/NQ-CP",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 5 Mục II Phần B"
+    ],
+    "doi_tuong": null,
+    "evidence": "Tại Khoản 5, Mục II, Phần B Phương án đơn giản hóa ban hành kèm theo Nghị quyết số 59/NQ-CP ngày 17 tháng 12 năm 2010: bổ sung thêm Quyết định số 3806/QĐ-BTM"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 2",
+    "action": "bai-bo",
+    "target_document": "61/NQ-CP",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm c khoản 2 Mục II Phần B"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bỏ trách nhiệm thực thi giao cho Bộ Công Thương nêu tại Điểm c, Khoản 2, Mục II, Phần B Phương án đơn giản hóa kèm theo Nghị quyết số 61/NQ-CP ngày 17 tháng 12 năm 2010"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 2",
+    "action": "bai-bo",
+    "target_document": "64/NQ-CP",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "tiểu điểm 1 điểm a khoản 4 Mục II"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bỏ trách nhiệm thực thi của Bộ Tài chính về việc sửa đổi, bổ sung, thay thế hoặc bãi bỏ, huỷ bỏ các quy định có liên quan tại Quyết định số 51/2008/QĐ-TTg ngày 24 tháng 4 năm 2008 của Thủ tướng Chính phủ về chính sách hỗ trợ của Nhà nước đối với cơ sở sản xuất kinh doanh dành riêng cho người lao động là người tàn tật (nêu tại gạch đầu dòng thứ nhất Điểm a, Khoản 4, Mục II Phương án đơn giản hóa kèm theo Nghị quyết số 64/NQ-CP ngày 21 tháng 12 năm 2010"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 2",
+    "action": "sua-doi",
+    "target_document": "66/NQ-CP",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm b khoản 2 Phần B"
+    ],
+    "doi_tuong": null,
+    "evidence": "Tại Điểm b, Khoản 2, Phần B Phương án đơn giản hóa ban hành kèm theo Nghị quyết số 66/NQ-CP ngày 23 tháng 12 năm 2010: Giao Bộ Giáo dục và Đào tạo chủ trì"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 2",
+    "action": "sua-doi",
+    "target_document": "68/NQ-CP",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm b khoản 4 Mục II Phần II"
+    ],
+    "doi_tuong": null,
+    "evidence": "Tại Điểm b, Khoản 4, Mục II, Phần II của Phương án đơn giản hóa ban hành kèm theo Nghị quyết số 68/NQ-CP ngày 27 tháng 12 năm 2010: Giao Bộ Tài chính chủ trì"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 2",
+    "action": "sua-doi",
+    "target_document": "69/NQ-CP",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm b khoản 1 Mục II Phần B"
+    ],
+    "doi_tuong": null,
+    "evidence": "Tại Điểm b, Khoản 1, Mục II, Phần B Phương án đơn giản hóa ban hành kèm theo Nghị quyết số 69/NQ-CP ngày 27 tháng 12 năm 2010, điều chỉnh"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 2",
+    "action": "bai-bo",
+    "target_document": "70/NQ-CP",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 25 Mục I Phần I"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bỏ nội dung đơn giản hóa thủ tục nêu tại Khoản 25, Mục I, Phần I."
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 2",
+    "action": "bai-bo",
+    "target_document": "70/NQ-CP",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm a khoản 1 Mục I Phần II"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bỏ trách nhiệm của Bộ Kế hoạch và Đầu tư chủ trì, phối hợp với Bộ Tư pháp, Văn phòng Chính phủ và các bộ, ngành liên quan xây dựng dự thảo Nghị định sửa đổi, bổ sung một số điều của Nghị định số 151/2007/NĐ-CP ngày 10 tháng 10 năm 2007 của Chính phủ và Nghị định số 28/2005/NĐ-CP ngày 09 tháng 3 năm 2005 của Chính phủ nêu tại Điểm a, Khoản 1, Mục I, Phần II."
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 2",
+    "action": "sua-doi",
+    "target_document": "71/NQ-CP",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 1 Phần B",
+     "khoản 4 Phần B"
+    ],
+    "doi_tuong": null,
+    "evidence": "Tại đoạn 10 Khoản 1 và đoạn 3 Khoản 4, Phần B Phương án đơn giản hóa ban hành kèm theo Nghị quyết số 71/NQ-CP ngày 27 tháng 12 năm 2010, điều chỉnh"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 2",
+    "action": "sua-doi",
+    "target_document": "71/NQ-CP",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 3 Phần B"
+    ],
+    "doi_tuong": null,
+    "evidence": "Tại đoạn 9 Khoản 3, Phần B Phương án đơn gián hóa ban hành kèm theo Nghị quyết số 71/NQ-CP ngày 27 tháng 12 năm 2010 của Chính phủ: Giao Bộ Văn hóa Thể thao và Du lịch chủ trì"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 2",
+    "action": "sua-doi",
+    "target_document": "71/NQ-CP",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 4 Phần B"
+    ],
+    "doi_tuong": null,
+    "evidence": "Tại đoạn 2 Khoản 4, Phần B Phương án đơn giản hóa ban hành kèm theo Nghị quyết số 71/NQ-CP ngày 27 tháng 12 năm 2010 của Chính phủ: Giao Bộ Văn hóa Thể thao và Du lịch xây dựng"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 2",
+    "action": "bai-bo",
+    "target_document": "48/NQ-CP",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 4 Mục II Phần B"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bỏ Khoản 4, Mục II, Phần B Phương án đơn giản hóa ban hành kèm theo Nghị quyết số 48/NQ-CP ngày 09 tháng 12 năm 2010."
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 2",
+    "action": "sua-doi",
+    "target_document": "52/NQ-CP",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm a khoản 1 Mục I Phần II"
+    ],
+    "doi_tuong": null,
+    "evidence": "Tại đoạn cuối cùng của Điểm a, Khoản 1, Mục I, Phần II Phương án đơn giản hóa ban hành kèm theo Nghị quyết số 52/NQ-CP ngày 10 tháng 12 năm 2010: để thực hiện"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 2",
+    "action": "bo-sung",
+    "target_document": "52/NQ-CP",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm a khoản 1 Mục II Phần II"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sau đoạn \"Nghị định số 32/2002/NĐ-CP ngày 27 tháng 3 năm 2002 của Chính phủ quy định việc áp dụng Luật Hôn nhân và Gia đình đối với đồng bào dân tộc thiểu số\" nêu tại Điểm a, Khoản 1, Mục II, Phần II Phương án đơn giản hóa ban hành kèm theo Nghị quyết số 52/NQ-CP ngày 10 tháng 12 năm 2010, bổ sung: Nghị định số 02/2008/NĐ-CP"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 2",
+    "action": "sua-doi",
+    "target_document": "52/NQ-CP",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm a khoản 1 Mục II Phần II"
+    ],
+    "doi_tuong": null,
+    "evidence": "Tại đoạn cuối cùng của Điểm a, Khoản 1, Mục II, Phần II Phương án đơn giản hóa ban hành kèm theo Nghị quyết số 52/NQ-CP ngày 10 tháng 12 năm 2010, điều chỉnh"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 2",
+    "action": "sua-doi",
+    "target_document": "52/NQ-CP",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm d khoản 1 Mục II Phần II"
+    ],
+    "doi_tuong": null,
+    "evidence": "Tại đoạn cuối cùng của Điểm d, Khoản 1, Mục II, Phần II Phương án đơn giản hóa ban hành kèm theo Nghị quyết số 52/NQ-CP ngày 10 tháng 12 năm 2010, điều chỉnh"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 2",
+    "action": "sua-doi",
+    "target_document": "52/NQ-CP",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 3 Mục I Phần II"
+    ],
+    "doi_tuong": null,
+    "evidence": "Tại Khoản 3, Mục I, Phần II Phương án đơn giản hóa ban hành kèm theo Nghị quyết số 52/NQ-CP ngày 10 tháng 12 năm 2010: Giao Bộ Xây dựng"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 2",
+    "action": "sua-doi",
+    "target_document": "57/NQ-CP",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 1 Mục B Phần XII"
+    ],
+    "doi_tuong": null,
+    "evidence": "Tại Khoản 1, Mục B, Phần XII Phương án đơn giản hóa ban hành kèm theo Nghị quyết số 57/NQ-CP ngày 15 tháng 12 năm 2010: chuyển tiết 27 và tiết 72 tại gạch đầu dòng thứ nhất xuống đoạn cuối cùng của gạch đầu dòng thứ hai"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 2",
+    "action": "sua-doi",
+    "target_document": "59/NQ-CP",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 1 Mục I Phần B",
+     "khoản 2 Mục I Phần B",
+     "khoản 3 Mục I Phần B"
+    ],
+    "doi_tuong": null,
+    "evidence": "Tại các khoản 1, 2, 3 Mục I, Phần B Phương án đơn giản hóa ban hành kèm theo Nghị quyết số 59/NQ-CP ngày 17 tháng 12 năm 2010: dẫn chiếu các khoản 76, 77, 78, 82, 83 Mục VII, Phần A của Phương án đơn giản hóa"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 2",
+    "action": "bo-sung",
+    "target_document": "59/NQ-CP",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 1 Mục II Phần B"
+    ],
+    "doi_tuong": null,
+    "evidence": "Tại Khoản 1, Mục II, Phần B Phương án đơn giản hóa ban hành kèm theo Nghị quyết số 59/NQ-CP ngày 17 tháng 12 năm 2010, bổ sung"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 2",
+    "action": "sua-doi",
+    "target_document": "59/NQ-CP",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 2 Mục II Phần B"
+    ],
+    "doi_tuong": null,
+    "evidence": "Tại gạch đầu dòng thứ nhất Khoản 2, Mục II, phần B Phương án đơn giản hóa ban hành kèm theo Nghị quyết số 59/NQ-CP ngày 17 tháng 12 năm 2010, điều chỉnh"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 2",
+    "action": "bo-sung",
+    "target_document": "60/NQ-CP",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 3 Mục II Phần B"
+    ],
+    "doi_tuong": null,
+    "evidence": "Tại Khoản 3, Mục II, phần B Phương án đơn giản hóa ban hành kèm theo Nghị quyết 60/NQ-CP ngày 17 tháng 12 năm 2010, bổ sung"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 2",
+    "action": "bo-sung",
+    "target_document": "60/NQ-CP",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 5 Mục II Phần B"
+    ],
+    "doi_tuong": null,
+    "evidence": "Tại Khoản 5, Mục II, Phần B Phương án đơn giản hóa ban hành kèm theo Nghị quyết 60/NQ-CP ngày 17 tháng 12 năm 2010, bổ sung"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 2",
+    "action": "sua-doi",
+    "target_document": "60/NQ-CP",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 3 Mục II Phần B"
+    ],
+    "doi_tuong": null,
+    "evidence": "Tại gạch đầu dòng thứ tư Khoản 3, Mục II, Phần B Phương án đơn giản hóa ban hành kèm theo Nghị quyết 60/NQ-CP ngày 17 tháng 12 năm 2010, điều chỉnh"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 2",
+    "action": "sua-doi",
+    "target_document": "60/NQ-CP",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 3 Mục II Phần B"
+    ],
+    "doi_tuong": null,
+    "evidence": "Tại gạch đầu dòng thứ năm Khoản 3, Mục II, Phần B Phương án đơn giản hóa ban hành kèm theo Nghị quyết 60/NQ-CP ngày 17 tháng 12 năm 2010, điều chỉnh"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 2",
+    "action": "sua-doi",
+    "target_document": "60/NQ-CP",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 3 Mục II Phần B"
+    ],
+    "doi_tuong": null,
+    "evidence": "Tại gạch đầu dòng thứ sáu Khoản 3, Mục II, Phần B Phương án đơn giản hóa ban hành kèm theo Nghị quyết 60/NQ-CP ngày 17 tháng 12 năm 2010, điều chỉnh"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 2",
+    "action": "sua-doi",
+    "target_document": "60/NQ-CP",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 3 Mục II Phần B"
+    ],
+    "doi_tuong": null,
+    "evidence": "Tại gạch đầu dòng thứ chín Khoản 3, Mục II, Phần B Phương án đơn giản hóa ban hành kèm theo Nghị quyết 60/NQ-CP ngày 17 tháng 12 năm 2010, điều chỉnh"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 2",
+    "action": "sua-doi",
+    "target_document": "60/NQ-CP",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 3 Mục II Phần B"
+    ],
+    "doi_tuong": null,
+    "evidence": "Tại gạch đầu dòng thứ mười Khoản 3, Mục II, Phần B Phương án đơn giản hóa ban hành kèm theo Nghị quyết 60/NQ-CP ngày 17 tháng 12 năm 2010, điều chỉnh"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 2",
+    "action": "sua-doi",
+    "target_document": "60/NQ-CP",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 3 Mục II Phần B"
+    ],
+    "doi_tuong": null,
+    "evidence": "Tại gạch đầu dòng thứ mười ba Khoản 3, Mục II, Phần B Phương án đơn giản hóa ban hành kèm theo Nghị quyết 60/NQ-CP ngày 17 tháng 12 năm 2010, điều chỉnh"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 2",
+    "action": "sua-doi",
+    "target_document": "60/NQ-CP",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 3 Mục II Phần B"
+    ],
+    "doi_tuong": null,
+    "evidence": "Tại gạch đầu dòng thứ mười bốn Khoản 3, Mục II, Phần B Phương án đơn giản hóa ban hành kèm theo Nghị quyết 60/NQ-CP ngày 17 tháng 12 năm 2010, điều chỉnh"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 2",
+    "action": "sua-doi",
+    "target_document": "60/NQ-CP",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 4 Mục II Phần B"
+    ],
+    "doi_tuong": null,
+    "evidence": "Tại gạch đầu dòng thứ hai Khoản 4, Mục II, Phần B Phương án đơn giản hóa ban hành kèm theo Nghị quyết 60/NQ-CP ngày 17 tháng 12 năm 2010, điều chỉnh"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 2",
+    "action": "sua-doi",
+    "target_document": "60/NQ-CP",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 5 Mục II Phần B"
+    ],
+    "doi_tuong": null,
+    "evidence": "Tại gạch đầu dòng thứ 12 Khoản 5, Mục II, Phần B Phương án đơn giản hóa ban hành kèm theo Nghị quyết 60/NQ-CP ngày 17 tháng 12 năm 2010, điều chỉnh"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 2",
+    "action": "sua-doi",
+    "target_document": "60/NQ-CP",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 5 Mục II Phần B"
+    ],
+    "doi_tuong": null,
+    "evidence": "Tại gạch đầu dòng thứ 20 Khoản 5, Mục II, Phần B Phương án đơn giản hóa ban hành kèm theo Nghị quyết 60/NQ-CP ngày 17 tháng 12 năm 2010, điều chỉnh"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 2",
+    "action": "sua-doi",
+    "target_document": "60/NQ-CP",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 5 Mục II Phần B"
+    ],
+    "doi_tuong": null,
+    "evidence": "Tại gạch đầu dòng thứ 24 Khoản 5, Mục II, Phần B Phương án đơn giản hóa ban hành kèm theo Nghị quyết 60/NQ-CP ngày 17 tháng 12 năm 2010, điều chỉnh"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 2",
+    "action": "sua-doi",
+    "target_document": "66/NQ-CP",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm c khoản 1 Phần B"
+    ],
+    "doi_tuong": null,
+    "evidence": "Tại đoạn cuối cùng của Điểm c, Khoản 1, Phần B Phương án đơn giản hóa ban hành kèm theo Nghị quyết số 66/NQ-CP ngày 23 tháng 12 năm 2010, điều chỉnh"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 2",
+    "action": "sua-doi",
+    "target_document": "68/NQ-CP",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 6 Mục II Phần II"
+    ],
+    "doi_tuong": null,
+    "evidence": "Tại Khoản 6, Mục II, Phần II Phương án đơn giản hóa phần I Phương án đơn giản hóa ban hành kèm theo Nghị quyết số 68/NQ-CP ngày 27 tháng 12 năm 2010, điều chỉnh"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 2",
+    "action": "bo-sung",
+    "target_document": "69/NQ-CP",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm c khoản 1 Mục II Phần B"
+    ],
+    "doi_tuong": null,
+    "evidence": "Tại Điểm c, Khoản 1, Mục II, Phần B Phương án đơn giản hóa ban hành kèm theo Nghị quyết số 69/NQ-CP ngày 27 tháng 12 năm 2010, bổ sung"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Ca khó. Mục 6 thân công văn 'Đồng ý điều chỉnh một số vấn đề về kỹ thuật (tại Phụ lục 1)'; Phụ lục 1 Mục 2 (điểm a, b, c) tự viết hành động bỏ/sửa/bổ sung/thay/điều chỉnh lên vị trí cụ thể của Phương án đơn giản hóa kèm theo các Nghị quyết 25, 45, 48, 50, 51, 52, 56, 57, 59, 60, 61, 62, 63, 64, 66, 68, 69, 70, 71/NQ-CP: ghi mỗi câu một quan hệ, source_path 'Phụ lục 1 Mục 2' (phụ lục văn xuôi, không có STT). Kể cả mục dạng 'Đề nghị của Bộ X về bỏ/sửa/bổ sung…' dưới 'Đồng ý với đề nghị'. Không ghi: mục 'giữ nguyên', 'không thực hiện', 'không phân cấp', 'không chuyển', 'cho phép chưa thực thi', 'không bãi bỏ'; câu 'bãi bỏ thành phần hồ sơ'/'bãi bỏ thủ tục hành chính' (đích là thủ tục, không phải phần văn bản); câu chỉ 'Giao' soạn thảo văn bản sửa đổi; Phụ lục 1 Mục 1 (đồng ý không sửa/sửa Luật) và Phụ lục 2 (tổng hợp nội dung sửa đổi luật, pháp lệnh để phê duyệt, công văn không tự sửa luật). Thân Mục 2 'Thời hạn hiệu lực của các Danh mục bổ sung phân bón … được kéo dài đến hết tháng 12 năm 2012' là gia hạn nhưng không nêu số hiệu văn bản: không ghi quan hệ. Nếu quyết định coi 'Đồng ý' của công văn là không tác động trực tiếp thì bỏ toàn bộ 80 quan hệ."
+ }
+]

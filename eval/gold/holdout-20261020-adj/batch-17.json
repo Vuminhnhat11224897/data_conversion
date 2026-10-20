@@ -1,0 +1,84 @@
+[
+ {
+  "doc_id": "12100",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên và lời dẫn chỉ nói 'hướng dẫn thi hành một số quy định của pháp luật về tạm đình chỉ…', không nêu văn bản đích. Mục 1 chỉ dẫn chiếu BLTTHS, BLHS. Mục 10 khoản 10.1 'Các hướng dẫn trước đây … trái với Thông tư này đều bãi bỏ' là câu chung, không nêu văn bản: không ghi quan hệ."
+ },
+ {
+  "doc_id": "405696",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quyết định công bố danh mục văn bản hết hiệu lực một phần (kết quả rà soát); dòng 03/2017/QĐ-UBND chỉ là tình trạng, không phải hành động."
+ },
+ {
+  "doc_id": "597679",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quyết định công bố danh mục văn bản hết hiệu lực toàn bộ/một phần năm 2023; các dòng chỉ nêu tình trạng do văn bản khác, không ghi quan hệ."
+ },
+ {
+  "doc_id": "646247",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quyết định công bố danh mục văn bản hết hiệu lực và còn hiệu lực năm 2024; các dòng 'Bị thay thế bởi…' là tình trạng do văn bản khác, không ghi quan hệ."
+ },
+ {
+  "doc_id": "189208",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quyết định công bố danh mục văn bản đã hết hiệu lực (tính đến 30/6/2012); lý do ở từng dòng là do văn bản khác hoặc đã thực hiện xong, văn bản không tự bãi bỏ, không ghi quan hệ."
+ },
+ {
+  "doc_id": "466608",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quyết định công bố danh mục văn bản hết hiệu lực, ngưng hiệu lực năm 2020; các dòng chỉ nêu tình trạng do văn bản khác, không ghi quan hệ."
+ },
+ {
+  "doc_id": "92890",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Chỉ thị không tác động lên văn bản khác; chỉ dẫn chiếu 'chỉ thị 13 và 14 của Ủy ban Nhân dân thành phố'."
+ },
+ {
+  "doc_id": "38338",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Mục 6 'Sửa đổi chế độ học bổng ở bậc đại học' không nêu văn bản đích cụ thể, là chủ trương giao các Bộ nghiên cứu: không ghi quan hệ."
+ },
+ {
+  "doc_id": "236876",
+  "relations": [
+   {
+    "source_path": "Mục 4",
+    "action": "thay-the",
+    "target_document": "01/UB.CT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Chỉ thị này thay cho Chỉ thị 01/UB.CT ngày 09 tháng 4 năm 1989./."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Câu thay thế là câu cuối văn bản, sau mục 4, nằm trong đơn vị Mục 4. Chỉ thị 92 TTg chỉ là căn cứ thực hiện, không ghi."
+ },
+ {
+  "doc_id": "236921",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 2 'Quyết định này thay thế cho các quyết định trước đây về bảo vệ, phát triển nguồn lợi thuỷ sản và đăng kiểm tàu cá' không nêu văn bản cụ thể: không ghi quan hệ."
+ },
+ {
+  "doc_id": "36959",
+  "relations": [],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 1",
+    "loai": "gop_sai",
+    "ghi_chu": "Điều 2 ('Hội đồng bộ trưởng … có trách nhiệm thi hành nghị quyết này') và chữ ký bị gộp vào noi_dung Điều 1 do rác 'xml:namespace prefix = u3 /'."
+   }
+  ],
+  "ghi_chu": "Nghị quyết phê chuẩn Nghị định thư I bổ sung Công ước Giơ-ne-vơ (điều ước quốc tế, không có số hiệu); 'phê chuẩn' không thuộc danh sách hành động, không ghi quan hệ."
+ }
+]

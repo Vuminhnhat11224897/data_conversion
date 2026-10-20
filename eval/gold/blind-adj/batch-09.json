@@ -1,0 +1,395 @@
+[
+ {
+  "doc_id": "141184",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "46/2003/QĐ-UB",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "VỀ VIỆC BỔ SUNG MỘT SỐ QUY ĐỊNH CỦA QUYẾT ĐỊNH SỐ 46/2003/QĐ-UB NGÀY 04/06/2003 CỦA UBND TỈNH KHÁNH HOÀ VỀ VIỆC QUY ĐỊNH GIÁ CÁC LOẠI ĐẤT"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bo-sung",
+    "target_document": "46/2003/QĐ-UB",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "xếp loại một số đường có tên trong thành phố Nha Trang và một số đoạn đường ven trục giao thông các huyện Vạn Ninh và Ninh Hòa",
+    "evidence": "Nay quy định bổ sung việc xếp loại một số đường có tên trong thành phố Nha Trang và một số đoạn đường ven trục giao thông các huyện Vạn Ninh và Ninh Hòa như¬ phụ lục đính kèm."
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Phụ lục",
+    "loai": "thieu_noi_dung",
+    "ghi_chu": "Phụ lục kèm theo có tiêu đề 'ĐIỀU CHỈNH PHỤ LỤC 2.4', 'BỔ SUNG PHỤ LỤC 2.5', 'BỔ SUNG PHỤ LỤC 3', 'ĐIỀU CHỈNH PHỤ LỤC 3' nhưng không có trong don_vi."
+   }
+  ],
+  "ghi_chu": "Đích lấy từ tên văn bản (Điều 1 không nêu số hiệu). Phần bổ sung (Phụ lục 2.5, Phụ lục 3) do Điều 1 thực hiện; hai quan hệ sua-doi lấy từ tiêu đề phụ lục trong toan_van. Điều 2 chỉ dẫn chiếu, không tác động."
+ },
+ {
+  "doc_id": "151835",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn cho phép thay thế thuốc Nifedipin trong cơ số thuốc (thuộc tài liệu phê duyệt tại QĐ 5231/QĐ-BYT); 'thay thế' nói về thuốc, không phải thay thế văn bản. Không ghi quan hệ."
+ },
+ {
+  "doc_id": "10598",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quyết định về chức năng, nhiệm vụ Vườn quốc gia Cát Tiên; không tác động lên văn bản khác."
+ },
+ {
+  "doc_id": "54861",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "125/2003/TTLT-BTC-BTNMT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG THÔNG TƯ LIÊN TỊCH SỐ 125/2003/TTLT-BTC-BTNMT NGÀY 18/12/2003 CỦA LIÊN BỘ TÀI CHÍNH - BỘ TÀI NGUYÊN VÀ MÔI TRƯỜNG HƯỚNG DẪN THỰC HIỆN NGHỊ ĐỊNH SỐ 67/2003/NĐ-CP NGÀY 13/6/2003 CỦA CHÍNH PHỦ VỀ PHÍ BẢO VỆ MÔI TRƯỜNG ĐỐI VỚI NƯỚC THẢI"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "125/2003/TTLT-BTC-BTNMT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG THÔNG TƯ LIÊN TỊCH SỐ 125/2003/TTLT-BTC-BTNMT NGÀY 18/12/2003 CỦA LIÊN BỘ TÀI CHÍNH - BỘ TÀI NGUYÊN VÀ MÔI TRƯỜNG HƯỚNG DẪN THỰC HIỆN NGHỊ ĐỊNH SỐ 67/2003/NĐ-CP NGÀY 13/6/2003 CỦA CHÍNH PHỦ VỀ PHÍ BẢO VỆ MÔI TRƯỜNG ĐỐI VỚI NƯỚC THẢI"
+   },
+   {
+    "source_path": "Mục 1",
+    "action": "sua-doi",
+    "target_document": "125/2003/TTLT-BTC-BTNMT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Mục II"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi khoản 2 mục II Thông tư số 125/2003/TTLT-BTC-BTNMT như sau:"
+   },
+   {
+    "source_path": "Mục 2",
+    "action": "sua-doi",
+    "target_document": "125/2003/TTLT-BTC-BTNMT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm b khoản 2 Mục III"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm b khoản 2 mục III và bổ sung điểm c khoản 2 mục III Thông tư số 125/2003/TTLT-BTC-BTNMT như sau:"
+   },
+   {
+    "source_path": "Mục 2",
+    "action": "bo-sung",
+    "target_document": "125/2003/TTLT-BTC-BTNMT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm b khoản 2 Mục III",
+     "điểm c khoản 2 Mục III"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm b khoản 2 mục III và bổ sung điểm c khoản 2 mục III Thông tư số 125/2003/TTLT-BTC-BTNMT như sau:"
+   },
+   {
+    "source_path": "Mục 3",
+    "action": "sua-doi",
+    "target_document": "125/2003/TTLT-BTC-BTNMT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm c khoản 1 Mục IV",
+     "điểm d khoản 1 Mục IV"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm c, điểm d khoản 1 mục IV Thông tư số 125/2003/TTLT-BTC-BTNMT như sau:"
+   },
+   {
+    "source_path": "Mục 3",
+    "action": "bo-sung",
+    "target_document": "125/2003/TTLT-BTC-BTNMT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm c khoản 1 Mục IV",
+     "điểm d khoản 1 Mục IV"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm c, điểm d khoản 1 mục IV Thông tư số 125/2003/TTLT-BTC-BTNMT như sau:"
+   },
+   {
+    "source_path": "Mục 4",
+    "action": "sua-doi",
+    "target_document": "125/2003/TTLT-BTC-BTNMT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Mục IV"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 mục IV Thông tư số 125/2003/TTLT-BTC-BTNMT như sau:"
+   },
+   {
+    "source_path": "Mục 4",
+    "action": "bo-sung",
+    "target_document": "125/2003/TTLT-BTC-BTNMT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Mục IV"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 mục IV Thông tư số 125/2003/TTLT-BTC-BTNMT như sau:"
+   },
+   {
+    "source_path": "Mục 5",
+    "action": "sua-doi",
+    "target_document": "125/2003/TTLT-BTC-BTNMT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Mục V"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 mục V Thông tư số 125/2003/TTLT-BTC-BTNMT như sau:"
+   },
+   {
+    "source_path": "Mục 5",
+    "action": "bo-sung",
+    "target_document": "125/2003/TTLT-BTC-BTNMT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Mục V"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 mục V Thông tư số 125/2003/TTLT-BTC-BTNMT như sau:"
+   },
+   {
+    "source_path": "Mục 6",
+    "action": "bo-sung",
+    "target_document": "125/2003/TTLT-BTC-BTNMT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm c khoản 3 Mục V"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung điểm c khoản 3 mục V Thông tư số 125/2003/TTLT-BTC-BTNMT như sau:"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Văn bản đích chia theo mục La Mã (Mục II, III, IV, V) và khoản; không chia Điều. Lời dẫn cũng nêu 'hướng dẫn sửa đổi, bổ sung' cùng đích, đã gộp vào quan hệ Phần đầu. Mục 8 'hướng dẫn bổ sung' không phải tác động."
+ },
+ {
+  "doc_id": "220326",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn truyền đạt ý kiến chỉ đạo; không tác động lên văn bản khác."
+ },
+ {
+  "doc_id": "19547",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "huong-dan",
+    "target_document": "36-TTg",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "HƯỚNG DẪN THI HÀNH THÔNG TƯ SỐ 36-TTG CỦA THỦ TƯỚNG CHÍNH PHỦ VỀ VIỆC QUẢN LÝ VÀ KIỂM SOÁT CHỈ TIÊU QUỸ TIỀN LƯƠNG THUỘC KHU VỰC KHÔNG SẢN XUẤT"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Không có toan_van; noi_dung Mục I, Mục II bị cắt. Đã đối chiếu văn bản nguồn: không có câu bãi bỏ, sửa đổi. Phần đầu ghi nhầm 'thông tư số 39-TTg' nhưng tên và thân văn bản đều là 36-TTg. 'thay thế', 'bổ sung' trong Mục I, II là nội dung nghiệp vụ, không phải tác động."
+ },
+ {
+  "doc_id": "191212",
+  "relations": [
+   {
+    "source_path": "Điều 1",
+    "action": "sua-doi",
+    "target_document": "49/2011/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "phân bổ dự toán chi xây dựng cơ bản có mục tiêu năm 2012 cho các huyện, thành phố Tân An",
+    "evidence": "Điều chỉnh phân bổ dự toán chi xây dựng cơ bản có mục tiêu năm 2012 cho các huyện, thành phố Tân An kèm theo Quyết định số 49/2011/QĐ-UBND ngày 09/12/2011 của UBND tỉnh, cụ thể như sau:"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "'Điều chỉnh' phân bổ dự toán kèm theo QĐ 49/2011/QĐ-UBND ghi là sua-doi. Tên văn bản có 'điều chỉnh' nhưng không nêu văn bản đích nên không ghi Phần đầu. Điều 2 là giao nhiệm vụ."
+ },
+ {
+  "doc_id": "423116",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công bố TTHC được sửa đổi, bổ sung; không tự nói thay thế, bãi bỏ văn bản nào. Không ghi quan hệ."
+ },
+ {
+  "doc_id": "445394",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Bổ sung danh mục công trình, dự án năm 2020 nhưng không nêu số hiệu nghị quyết có danh mục gốc; không ghi quan hệ."
+ },
+ {
+  "doc_id": "617818",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "24/2018/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 8"
+    ],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG ĐIỀU 8 QUY ĐỊNH BAN HÀNH KÈM THEO QUYẾT ĐỊNH SỐ 24/2018/QĐ-UBND NGÀY 17 THÁNG 10 NĂM 2018 CỦA ỦY BAN NHÂN DÂN TỈNH GIA LAI BAN HÀNH QUY ĐỊNH VỀ CƯỠNG CHẾ THI HÀNH QUYẾT ĐỊNH GIẢI QUYẾT TRANH CHẤP ĐẤT ĐAI TRÊN ĐỊA BÀN TỈNH GIA LAI"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "24/2018/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 8"
+    ],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG ĐIỀU 8 QUY ĐỊNH BAN HÀNH KÈM THEO QUYẾT ĐỊNH SỐ 24/2018/QĐ-UBND NGÀY 17 THÁNG 10 NĂM 2018 CỦA ỦY BAN NHÂN DÂN TỈNH GIA LAI BAN HÀNH QUY ĐỊNH VỀ CƯỠNG CHẾ THI HÀNH QUYẾT ĐỊNH GIẢI QUYẾT TRANH CHẤP ĐẤT ĐAI TRÊN ĐỊA BÀN TỈNH GIA LAI"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "sua-doi",
+    "target_document": "24/2018/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 8"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 8 Quy định ban hành kèm theo Quyết định số 24/2018/QĐ-UBND như sau:"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bo-sung",
+    "target_document": "24/2018/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 8"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 8 Quy định ban hành kèm theo Quyết định số 24/2018/QĐ-UBND như sau:"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": ""
+ },
+ {
+  "doc_id": "310804",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn trả lời doanh nghiệp, chỉ dẫn chiếu TT 38/2015/TT-BTC và CV 18304/BTC-TCHQ; không tác động."
+ },
+ {
+  "doc_id": "17932",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "08/2005/QĐ-BGTVT",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "VỀ VIỆC SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU, KHOẢN TRONG “QUY ĐỊNH VỀ BẾN XE Ô TÔ KHÁCH” BAN HÀNH KÈM THEO QUYẾT ĐỊNH SỐ 08/2005/QĐ-BGTVT NGÀY 10 THÁNG 01 NĂM 2005 CỦA BỘ TRƯỞNG BỘ GIAO THÔNG VẬN TẢI"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "08/2005/QĐ-BGTVT",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "VỀ VIỆC SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU, KHOẢN TRONG “QUY ĐỊNH VỀ BẾN XE Ô TÔ KHÁCH” BAN HÀNH KÈM THEO QUYẾT ĐỊNH SỐ 08/2005/QĐ-BGTVT NGÀY 10 THÁNG 01 NĂM 2005 CỦA BỘ TRƯỞNG BỘ GIAO THÔNG VẬN TẢI"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "sua-doi",
+    "target_document": "08/2005/QĐ-BGTVT",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi bổ sung một số Điều, Khoản trong \"Quy định về bến xe ô tô khách\" ban hành kèm theo Quyết định 08/2005/QĐ-BGTVT ngày 10 tháng 01 năm 2005 của Bộ trưởng Bộ Giao thông vận tải như sau:"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bo-sung",
+    "target_document": "08/2005/QĐ-BGTVT",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi bổ sung một số Điều, Khoản trong \"Quy định về bến xe ô tô khách\" ban hành kèm theo Quyết định 08/2005/QĐ-BGTVT ngày 10 tháng 01 năm 2005 của Bộ trưởng Bộ Giao thông vận tải như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "08/2005/QĐ-BGTVT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 2 Điều 15"
+    ],
+    "doi_tuong": null,
+    "evidence": "Khoản 2 Điều 15 được bổ sung sửa đổi như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "08/2005/QĐ-BGTVT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 2 Điều 15"
+    ],
+    "doi_tuong": null,
+    "evidence": "Khoản 2 Điều 15 được bổ sung sửa đổi như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "08/2005/QĐ-BGTVT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 3 Điều 17"
+    ],
+    "doi_tuong": null,
+    "evidence": "Khoản 3 Điều 17 được bổ sung sửa đổi như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "08/2005/QĐ-BGTVT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 3 Điều 17"
+    ],
+    "doi_tuong": null,
+    "evidence": "Khoản 3 Điều 17 được bổ sung sửa đổi như sau:"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Khoản 1, 2 không nêu số hiệu; đích và phần kèm theo lấy từ câu dẫn Điều 1."
+ },
+ {
+  "doc_id": "494172",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn trả lời, trích dẫn khoản 3 Điều 3 TT 38/2015/TT-BTC (đã sửa đổi tại TT 39/2018/TT-BTC là lịch sử); không tác động."
+ },
+ {
+  "doc_id": "579164",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Hủy bỏ 25 danh mục công trình trong kế hoạch sử dụng đất đã được UBND tỉnh phê duyệt nhưng không nêu số hiệu quyết định phê duyệt; không ghi quan hệ. Không có toan_van."
+ },
+ {
+  "doc_id": "40935",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Chỉ thị về tăng cường thực hiện NĐ 36/CP, 39/CP, 40/CP; không tác động trực tiếp lên văn bản khác."
+ }
+]

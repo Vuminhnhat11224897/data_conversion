@@ -1,0 +1,123 @@
+[
+ {
+  "doc_id": "139618",
+  "relations": [
+   {
+    "source_path": "Điều 3",
+    "action": "thay-the",
+    "target_document": "39/1998/QĐ-UB",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực sau 10 kể từ ngày ký và thay thế Quyết định số 39/1998/QĐ-UB ngày 17/03/1998 của Uỷ ban nhân dân tỉnh Yên Bái về việc thực hiện nếp sống văn minh trong việc cưới, việc tang và lễ hội./."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Câu hiệu lực và thay thế là đoạn cuối, nằm trong đơn vị Điều 3."
+ },
+ {
+  "doc_id": "273292",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "1671/2009/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực sau 10 ngày kể từ ngày ký và thay thế Quyết định số 1671/2009/QĐ-UBND ngày 18/5/2009 của Ủy ban nhân dân tỉnh ban hành Quy chế phát ngôn và cung cấp thông tin cho báo chí trên địa bàn tỉnh Quảng Ninh."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": ""
+ },
+ {
+  "doc_id": "92029",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quyết định bổ nhiệm cán bộ."
+ },
+ {
+  "doc_id": "507000",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Không có câu thay thế, bãi bỏ; các đơn vị chỉ dẫn chiếu văn bản khác."
+ },
+ {
+  "doc_id": "651765",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "2511/QĐ-CHK",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực kể từ ngày ký và thay thế Quyết định số 2511/QĐ-CHK ngày 11/11/2022 của Cục trưởng Cục Hàng không Việt Nam về việc ban hành Sổ tay hướng dẫn giám sát an toàn khai thác cảng hàng không, sân bay."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Bảng 'Trang tu chỉnh' chỉ ghi lịch sử phiên bản, không phải tác động."
+ },
+ {
+  "doc_id": "251069",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn trả lời doanh nghiệp; chỉ trích dẫn Thông tư 64/2013/TT-BTC."
+ },
+ {
+  "doc_id": "590035",
+  "relations": [],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "loai": "gop_sai",
+    "ghi_chu": "Điều 1 chia thành các mục La Mã I–V, mỗi mục đánh số lại 1, 2, 3…; parser coi các số này là khoản của Điều 1 nên số khoản trùng nhau, và Khoản 3 (Phạm vi, Mục II) bị gộp với đề mục III."
+   }
+  ],
+  "ghi_chu": "Phê duyệt Chương trình; 'rà soát, sửa đổi, bổ sung' là nhiệm vụ, không phải tác động."
+ },
+ {
+  "doc_id": "311869",
+  "relations": [],
+  "loi_cau_truc": [
+   {
+    "source_path": "Phụ lục 1 Điều 3 Khoản 3 điểm l",
+    "loai": "gop_sai",
+    "ghi_chu": "Văn bản gốc đánh số trùng '3.' cho đoạn 'Việc bổ nhiệm, bổ nhiệm lại…'; đoạn này bị gộp vào điểm l khoản 3."
+   }
+  ],
+  "ghi_chu": "Không có câu thay thế, bãi bỏ."
+ },
+ {
+  "doc_id": "79100",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Thông báo kết luận; chỉ giao nhiệm vụ."
+ },
+ {
+  "doc_id": "379546",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "492/QĐ-CT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực thi hành kể từ ngày ký và thay thế:\n- Quyết định số 492/QĐ-CT ngày 09/11/2012 của Chủ tịch Ủy ban nhân dân tỉnh Kon Tum về việc công bố Bộ thủ tục hành chính của ngành giáo dục và đào tạo; Ủy ban nhân dân cấp huyện và Ủy ban nhân dân cấp xã trên địa bàn tỉnh Kon Tum."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "606/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "- Quyết định số 606/QĐ-UBND, ngày 12/12/2014 của Chủ tịch Ủy ban nhân dân tỉnh Kon Tum về việc công bố bổ sung các thủ tục hành chính mới ban hành; các thủ tục sửa đổi bổ sung, thay thế thuộc ngành giáo dục và đào tạo áp dụng trên địa bàn tỉnh Kon Tum."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Mục D phụ lục liệt kê TTHC bị bãi bỏ, cột cuối chỉ nêu văn bản QPPL làm căn cứ bãi bỏ; dòng không nêu văn bản đích nên không ghi quan hệ."
+ }
+]

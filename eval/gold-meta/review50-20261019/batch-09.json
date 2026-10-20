@@ -1,0 +1,89 @@
+[
+ {
+  "doc_id": "634166",
+  "la_vbqppl": false,
+  "cap_hieu_luc": null,
+  "ngay_hieu_luc": "2024-12-03",
+  "ngay_het_hieu_luc": null,
+  "ngay_hoi_to": null,
+  "hieu_luc_rieng": [],
+  "trich": {
+   "ngay_hieu_luc": "Điều 3. Quyết định này có hiệu lực kể từ ngày ký ban hành.",
+   "la_vbqppl": "Quyết định cá biệt: phê duyệt quy trình nội bộ giải quyết TTHC",
+   "cap_hieu_luc": "null vì la_vbqppl = false"
+  },
+  "chua_chac": []
+ },
+ {
+  "doc_id": "67430",
+  "la_vbqppl": false,
+  "cap_hieu_luc": null,
+  "ngay_hieu_luc": "2008-05-20",
+  "ngay_het_hieu_luc": null,
+  "ngay_hoi_to": null,
+  "hieu_luc_rieng": [],
+  "trich": {
+   "ngay_hieu_luc": "Không có câu hiệu lực; la_vbqppl = false nên lấy ngay_ban_hanh (Nghị quyết được thông qua ngày 20 tháng 5 năm 2008)",
+   "la_vbqppl": "Nghị quyết Quốc hội phê chuẩn quyết toán ngân sách nhà nước năm 2006: nội dung phê duyệt số liệu cá biệt, không chứa quy tắc xử sự chung; hình thức Nghị quyết QH nên không chắc",
+   "cap_hieu_luc": "null vì la_vbqppl = false (nếu là VBQPPL thì cấp 2)"
+  },
+  "chua_chac": [
+   "la_vbqppl",
+   "cap_hieu_luc",
+   "ngay_hieu_luc"
+  ]
+ },
+ {
+  "doc_id": "7329",
+  "la_vbqppl": false,
+  "cap_hieu_luc": null,
+  "ngay_hieu_luc": "2005-11-29",
+  "ngay_het_hieu_luc": null,
+  "ngay_hoi_to": null,
+  "hieu_luc_rieng": [],
+  "trich": {
+   "ngay_hieu_luc": "Không có câu hiệu lực; la_vbqppl = false nên lấy ngay_ban_hanh (thông qua ngày 29 tháng 11 năm 2005)",
+   "la_vbqppl": "Nghị quyết Quốc hội phê chuẩn một điều ước quốc tế: văn bản cá biệt",
+   "cap_hieu_luc": "null vì la_vbqppl = false (nếu là VBQPPL thì cấp 2)"
+  },
+  "chua_chac": [
+   "la_vbqppl"
+  ]
+ },
+ {
+  "doc_id": "55723",
+  "la_vbqppl": true,
+  "cap_hieu_luc": 9,
+  "ngay_hieu_luc": "1958-01-01",
+  "ngay_het_hieu_luc": null,
+  "ngay_hoi_to": null,
+  "hieu_luc_rieng": [],
+  "trich": {
+   "ngay_hieu_luc": "Điều 4. Nghị định này thi hành từ tháng 01 năm 1958.",
+   "la_vbqppl": "Nghị định luôn true",
+   "cap_hieu_luc": "Nghị định liên bộ của 4 Bộ trưởng (không phải của Chính phủ), tương đương văn bản liên tịch cấp bộ: cấp 9; nếu theo hình thức 'Nghị định' thì cấp 5"
+  },
+  "chua_chac": [
+   "cap_hieu_luc",
+   "ngay_hieu_luc"
+  ]
+ },
+ {
+  "doc_id": "20111",
+  "la_vbqppl": true,
+  "cap_hieu_luc": 9,
+  "ngay_hieu_luc": null,
+  "ngay_het_hieu_luc": null,
+  "ngay_hoi_to": null,
+  "hieu_luc_rieng": [],
+  "trich": {
+   "ngay_hieu_luc": "Không có câu hiệu lực của chính Thông tư liên bộ (các ngày 01-8-1962 là ngày hiệu lực của Nghị định 83-CP, 84-CP, nằm trong ngoặc kép); la_vbqppl = true nên null",
+   "la_vbqppl": "Thông tư liên bộ (liên tịch) luôn true",
+   "cap_hieu_luc": "Thông tư liên bộ Bộ Tài chính - Bộ Giao thông vận tải: cấp 9",
+   "ngay_hoi_to": "'Như vậy các phương tiện vận tải phải đóng phí tổn sửa đường từ 01-8-1962 nếu các địa phương đã thu phí tổn sửa đường tháng 8 theo mức cũ thì nay phải truy thu theo mức mới' - việc truy thu bắt nguồn từ ngày hiệu lực của Nghị định 83-CP, không phải hồi tố của chính Thông tư, nên null"
+  },
+  "chua_chac": [
+   "ngay_hoi_to"
+  ]
+ }
+]

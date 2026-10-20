@@ -1,0 +1,157 @@
+[
+ {
+  "doc_id": "563628",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "bai-bo",
+    "target_document": "08/QĐ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "VỀ VIỆC BÃI BỎ QUYẾT ĐỊNH SỐ 08/QĐ-HĐND NGÀY 06/01/2023 CỦA THƯỜNG TRỰC HĐND TỈNH VỀ VIỆC CÔNG BỐ DANH MỤC VĂN BẢN QUY PHẠM PHÁP LUẬT HẾT HIỆU LỰC TOÀN BỘ DO HĐND TỈNH BAN HÀNH"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bai-bo",
+    "target_document": "08/QĐ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ Quyết định số 08/QĐ-HĐND ngày 06/01/2023 của Thường trực HĐND tỉnh về việc công bố danh mục văn bản quy phạm pháp luật hết hiệu lực toàn bộ do HĐND tỉnh ban hành."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên và Điều 1 cùng bãi bỏ toàn bộ Quyết định 08/QĐ-HĐND; ghi 2 quan hệ riêng."
+ },
+ {
+  "doc_id": "141351",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Không có quan hệ. Điều 2 chỉ bãi bỏ chung 'các quy định trước đây trái với quy định này', không nêu văn bản đích. Số hiệu trong toàn văn là 788/2012/QĐ-UBND, khác số hiệu 778/QĐ-UBND ở dữ liệu vào."
+ },
+ {
+  "doc_id": "376313",
+  "relations": [],
+  "loi_cau_truc": [
+   {
+    "source_path": "Mục I",
+    "loai": "gop_sai",
+    "ghi_chu": "Phần đầu (quốc hiệu, số hiệu, tên, lời dẫn) bị gộp vào nội dung Mục I; phan_dau/loi_dan cũng chứa cả Mục I và một phần Mục II."
+   }
+  ],
+  "ghi_chu": "Kế hoạch thực hiện, không có tác động lên văn bản khác. Phần đầu ghi nhầm loại 'QUYẾT ĐỊNH'."
+ },
+ {
+  "doc_id": "230798",
+  "relations": [],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 1 Khoản 4",
+    "loai": "gop_sai",
+    "ghi_chu": "Khoản 4 (Về quốc phòng an ninh, thuộc mục II) bị gộp cả mục III; các điểm a–e của mục III (Nông nghiệp, Lâm nghiệp, Thủy sản, Nông thôn mới, Dịch vụ khác) bị gán thành điểm của khoản 4. Khoản 6 cũng gộp cả mục IV."
+   }
+  ],
+  "ghi_chu": "Quyết định phê duyệt quy hoạch, không có tác động lên văn bản khác. Không có toan_van; một số đơn vị bị cắt ở 6000 ký tự; đã đối chiếu văn bản nguồn, không thấy hành động."
+ },
+ {
+  "doc_id": "217263",
+  "relations": [
+   {
+    "source_path": "Điều 12 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "23/2005/QĐ-BYT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 23/2005/QĐ-BYT ngày 30 tháng 8 năm 2005 của Bộ trưởng Bộ Y tế về việc ban hành Quy định Phân tuyến kỹ thuật và Danh mục kỹ thuật trong khám bệnh, chữa bệnh hết hiệu lực kể từ ngày Thông tư này có hiệu lực."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên 'Quy định chi tiết phân tuyến chuyên môn kỹ thuật…' không nêu văn bản đích (Luật Khám bệnh, chữa bệnh chỉ ở căn cứ) nên không ghi quy-dinh-chi-tiet. Điều 11 là chuyển tiếp, không ghi."
+ },
+ {
+  "doc_id": "565676",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công bố quy trình giải quyết TTHC, không thay thế hay bãi bỏ văn bản nào."
+ },
+ {
+  "doc_id": "630840",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công bố TTHC nội bộ, không có tác động lên văn bản khác. Không có toan_van; đã đối chiếu văn bản nguồn (Điều 1, 2 không có hành động)."
+ },
+ {
+  "doc_id": "24387",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn trả lời doanh nghiệp, chỉ trích dẫn Thông tư 05/2002/TT-BTC và công văn 887 TCT/NV2; không có tác động trực tiếp."
+ },
+ {
+  "doc_id": "461477",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "quy-dinh-chi-tiet",
+    "target_document": "96/2020/NĐ-CP",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "QUY ĐỊNH CHI TIẾT MỘT SỐ ĐIỀU CỦA NGHỊ ĐỊNH SỐ 96/2020/NĐ-CP NGÀY 24 THÁNG 8 NĂM 2020 CỦA CHÍNH PHỦ QUY ĐỊNH XỬ PHẠT VI PHẠM HÀNH CHÍNH TRONG LĨNH VỰC QUẢN LÝ, BẢO VỆ BIÊN GIỚI QUỐC GIA"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "quy-dinh-chi-tiet",
+    "target_document": "96/2020/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 1 Điều 5",
+     "điểm a khoản 2 Điều 5",
+     "điểm c khoản 2 Điều 5",
+     "khoản 1 Điều 6",
+     "điểm b khoản 2 Điều 6",
+     "điểm a khoản 3 Điều 6",
+     "điểm c khoản 5 Điều 6",
+     "điểm e khoản 5 Điều 6",
+     "khoản 9 Điều 6",
+     "khoản 1 Điều 7",
+     "khoản 1 Điều 8",
+     "khoản 1 Điều 10",
+     "Điều 14",
+     "Điều 16",
+     "Điều 18"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thông tư này quy định chi tiết điểm a khoản 1, điểm a, điểm c khoản 2 Điều 5; khoản 1, điểm b khoản 2, điểm a khoản 3, điểm c, điểm e khoản 5, khoản 9 Điều 6; khoản 1 Điều 7; khoản 1 Điều 8; khoản 1 Điều 10; Điều 14; Điều 16 và Điều 18 Nghị định số 96/2020/NĐ-CP ngày 24 tháng 8 năm 2020 của Chính phủ quy định xử phạt vi phạm hành chính trong lĩnh vực quản lý, bảo vệ biên giới quốc gia"
+   },
+   {
+    "source_path": "Điều 9 Khoản 1",
+    "action": "thay-the",
+    "target_document": "47/2015/TT-BQP",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thông tư này có hiệu lực thi hành kể từ ngày 16 tháng 02 năm 2021 và thay thế Thông tư số 47/2015/TT-BQP ngày 18 tháng 6 năm 2015 của Bộ trưởng Bộ Quốc phòng hướng dẫn thực hiện một số điều của Nghị định số 169/2013/NĐ-CP ngày 12 tháng 11 năm 2013 của Chính phủ quy định xử phạt vi phạm hành chính trong lĩnh vực quản lý, bảo vệ biên giới quốc gia."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên và lời dẫn cùng nêu quy định chi tiết Nghị định 96/2020/NĐ-CP: ghi 1 quan hệ Phần đầu. Tên các Điều 3–8 chỉ nêu phần được chi tiết, đã gói trong Điều 1. Ghi chú '(sửa đổi, bổ sung tại Nghị định số 21/2020/NĐ-CP…)' ở Điều 7 khoản 5 và Điều 9 khoản 2 không phải hành động."
+ },
+ {
+  "doc_id": "136641",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "2036/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực thi hành kể từ ngày ký và thay thế Quyết định số 2036/QĐ-UBND ngày 26 tháng 8 năm 2009 của Ủy ban nhân dân tỉnh Kiên Giang về việc công bố bộ thủ tục hành chính thuộc thẩm quyền giải quyết của Sở Giáo dục và Đào tạo tỉnh Kiên Giang, mã số thủ tục hành chính.SGD&ĐT.01."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên và Điều 1 chỉ công bố TTHC sửa đổi/hủy bỏ, không nêu văn bản đích nên không ghi. Danh mục TTHC nằm ở file đính kèm, không có trong dữ liệu."
+ }
+]

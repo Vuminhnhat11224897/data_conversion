@@ -1,0 +1,159 @@
+[
+ {
+  "doc_id": "331129",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "2093/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực thi hành kể từ ngày ký và thay thế Quyết định số 2093/QĐ-UBND ngày 16 tháng 8 năm 2010 của Ủy ban nhân dân tỉnh phê duyệt Quy chế phối hợp công tác giữa Sở Y tế với Ủy ban nhân dân các huyện, thị xã, thành phố và giữa Trung tâm Y tế, Trung tâm Dân số - Kế hoạch hóa gia đình cấp huyện với Phòng Y tế."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": ""
+ },
+ {
+  "doc_id": "352922",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "34/2016/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực từ ngày 07 tháng 01 năm 2017 và thay thế Quyết định số 34/2016/QĐ-UBND ngày 06 tháng 9 năm 2016 của Ủy ban nhân dân tỉnh Hậu Giang về việc quy định giá tính thuế tài nguyên trên địa bàn tỉnh Hậu Giang."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": ""
+ },
+ {
+  "doc_id": "371891",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": ""
+ },
+ {
+  "doc_id": "145183",
+  "relations": [
+   {
+    "source_path": "Điều 5",
+    "action": "thay-the",
+    "target_document": "43/PCLBTW/QĐ",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này thay thế Quyết định số 43/PCLBTW/QĐ ngày 28-4-1997."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Số hiệu đích chép đúng như câu (43/PCLBTW/QĐ)."
+ },
+ {
+  "doc_id": "526163",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": ""
+ },
+ {
+  "doc_id": "114513",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": ""
+ },
+ {
+  "doc_id": "454382",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Chỉ thị yêu cầu xây dựng kế hoạch: không có quan hệ."
+ },
+ {
+  "doc_id": "529397",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Kế hoạch thực hiện Quyết định 977/QĐ-TTg: không phải hành động. Toàn văn nhảy từ Mục II sang Mục V (có thể thiếu Mục III, IV), phần còn lại không có tác động."
+ },
+ {
+  "doc_id": "212696",
+  "relations": [
+   {
+    "source_path": "Mục 8",
+    "action": "thay-the",
+    "target_document": "06/CT-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Chỉ thị này thay thế Chỉ thị số 06/CT-UBND ngày 19/3/2007 của Ủy ban nhân dân tỉnh Gia Lai"
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Mục 8",
+    "loai": "gop_sai",
+    "ghi_chu": "Đoạn giao Sở Nội vụ và câu thay thế, hiệu lực cuối văn bản không thuộc mục 8 nhưng bị gộp vào Mục 8."
+   }
+  ],
+  "ghi_chu": "source_path theo đơn vị chứa câu (Mục 8) dù câu là điều khoản cuối của Chỉ thị."
+ },
+ {
+  "doc_id": "301792",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "dinh-chinh",
+    "target_document": "27/2015/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Phụ lục"
+    ],
+    "doi_tuong": null,
+    "evidence": "ĐÍNH CHÍNH PHỤ LỤC QUYẾT ĐỊNH SỐ 27/2015/QĐ-UBND NGÀY 21/9/2015 CỦA UBND TỈNH QUY ĐỊNH MỨC THU, CHẾ ĐỘ THU, NỘP, QUẢN LÝ VÀ SỬ DỤNG PHÍ THẨM ĐỊNH CẤP QUYỀN SỬ DỤNG ĐẤT TRÊN ĐỊA BÀN TỈNH THÁI NGUYÊN"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "dinh-chinh",
+    "target_document": "27/2015/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Mục 1 Phụ lục"
+    ],
+    "doi_tuong": null,
+    "evidence": "Đính chính Mục 1 Phụ lục Quyết định số 27/2015/QĐ-UBND ngày 21/9/2015 của UBND tỉnh Quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí thẩm định cấp quyền sử dụng đất trên địa bàn tỉnh Thái Nguyên"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Câu đính chính nằm ở tên Điều 1 (ten_dieu của đơn vị Điều 1 Khoản 1). Phụ lục không đánh số; câu nói 'Phụ lục Quyết định số 27/2015' (không nói 'ban hành kèm theo') nên target_section = quyet_dinh (chưa chắc, có thể là kem_theo). Điều 2 'Các nội dung khác thực hiện theo Quyết định số 27/2015' không phải hành động."
+ },
+ {
+  "doc_id": "392075",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "698/QĐ-BCĐ",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực kể từ ngày ký ban hành và thay thế Quyết định số 698/QĐ-BCĐ ngày 01/4/2013 của Trưởng Ban Vì sự tiến bộ phụ nữ tỉnh Ninh Thuận về việc ban hành Quy chế hoạt động của Ban Vì sự tiến bộ của phụ nữ tỉnh Ninh Thuận."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Phụ lục 1 Điều 16 'Quy chế này được sửa đổi, bổ sung' nói về chính Quy chế: không phải quan hệ."
+ },
+ {
+  "doc_id": "426566",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quyết định phê duyệt kế hoạch mẫu kèm theo Báo cáo 11678/BC-SXD-TT: 'phê duyệt' không phải hành động trong danh sách."
+ },
+ {
+  "doc_id": "113356",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn đồng ý, ủy quyền ký Hiệp định: không phải quan hệ."
+ }
+]

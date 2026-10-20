@@ -1,0 +1,11 @@
+[
+ {"doc_id": "38875", "relations": [], "loi_cau_truc": [],
+  "ghi_chu": "Không có tác động trực tiếp. Luật Tổ chức Chính phủ 1992 chỉ là căn cứ. 'thay muối thường' ở Điều 1 không nói về văn bản. Điều 3, 4, 5 không có trong don_vi, không có hành động."},
+ {"doc_id": "37504", "relations": [],
+  "loi_cau_truc": [
+   {"source_path": "Điều 1 Khoản 2", "loai": "gop_sai", "ghi_chu": "Khoản 2 (mục A.2) gộp cả đề mục 'B. Huyện Quan Hoá' và các mục B.1, B.2; số khoản của mục A và mục B bị trộn."},
+   {"source_path": "Điều 1 Khoản 3", "loai": "nhan_sai_dieu", "ghi_chu": "Khoản 3, 4, 6 thực chất là mục B.3, B.4, B.6 (Huyện Quan Hoá), không phải khoản dưới mục A."},
+   {"source_path": "Điều 1 Khoản 5", "loai": "thieu_noi_dung", "ghi_chu": "Mục B.5 'Chia xã Trung Thành thành 2 xã ...' không có trong don_vi."}
+  ],
+  "ghi_chu": "Quyết định chia tách, phân vạch địa giới xã; không tác động lên văn bản khác. Quyết định 64B-HĐBT chỉ là căn cứ."}
+]

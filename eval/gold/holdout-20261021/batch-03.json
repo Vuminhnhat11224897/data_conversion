@@ -1,0 +1,98 @@
+[
+ {
+  "doc_id": "579076",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Thông báo kết luận; chỉ giao nhiệm vụ, đề xuất (ví dụ bổ sung tuyến cao tốc vào Quy hoạch, điều chỉnh chỉ tiêu tại Quyết định 326/QĐ-TTg): không phải quan hệ."
+ },
+ {
+  "doc_id": "592650",
+  "relations": [
+   {
+    "source_path": "Điều 4",
+    "action": "bai-bo",
+    "target_document": "2069/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 2069/QĐ-UBND ngày 25 tháng 10 năm 2022 của Ủy ban nhân dân tỉnh Bắc Kạn ban hành định mức bình quân diện tích đất sản xuất để thực hiện dự án 1 Chương trình mục tiêu quốc gia phát triển kinh tế - xã hội vùng đồng bào dân tộc thiểu số và miền núi theo Quyết định số 1719/QĐ-TTg ngày 14 tháng 10 năm 2021 của Thủ tướng Chính phủ trên địa bàn tỉnh Bắc Kạn giai đoạn 2021-2025 hết hiệu lực kể từ thời điểm Quyết định này có hiệu lực"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 4 tự tuyên bố Quyết định 2069/QĐ-UBND hết hiệu lực: bai-bo."
+ },
+ {
+  "doc_id": "146666",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Chỉ thực hiện theo Nghị quyết 68/2011/NQ-HĐND và Thông tư liên tịch 122/2011/TTLT-BTC-BTP; không tác động."
+ },
+ {
+  "doc_id": "458048",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Không tác động lên văn bản khác."
+ },
+ {
+  "doc_id": "643292",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Phê duyệt Đề án; không tác động."
+ },
+ {
+  "doc_id": "669756",
+  "relations": [
+   {
+    "source_path": "Điều 14 Khoản 2",
+    "action": "thay-the",
+    "target_document": "08/2014/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này thay thế Quyết định số 08/2014/QĐ-UBND ngày 11 tháng 4 năm 2014 của Ủy ban nhân dân tỉnh"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Khoản 3 Điều 8 chỉ giao tham mưu sửa đổi: không phải quan hệ."
+ },
+ {
+  "doc_id": "45688",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Phê chuẩn đơn vị bầu cử; không tác động."
+ },
+ {
+  "doc_id": "224576",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Phê duyệt Điều lệ Quỹ; các câu sửa đổi Điều lệ (điểm i khoản 3 Điều 15, khoản 1 Điều 22) là thẩm quyền, trình tự: không phải quan hệ. Căn cứ có Quyết định thành lập Quỹ bị để trống số."
+ },
+ {
+  "doc_id": "227113",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "47/2012/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực sau 10 ngày kể từ ngày ký và thay thế Quyết định số 47/2012/QĐ-UBND ngày 30 tháng 11 năm 2012 của Ủy ban nhân dân tỉnh Lâm Đồng"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 19 Quy định chỉ nêu báo cáo để sửa đổi, bổ sung: không phải quan hệ."
+ },
+ {
+  "doc_id": "270570",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn trả lời, chỉ trích Thông tư 78/2014/TT-BTC."
+ },
+ {
+  "doc_id": "690276",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tạm giao biên chế; không tác động."
+ }
+]

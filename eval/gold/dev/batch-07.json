@@ -1,0 +1,108 @@
+[
+ {
+  "doc_id": "685137",
+  "relations": [
+   {
+    "source_path": "Điều 1",
+    "action": "quy-dinh-chi-tiet",
+    "target_document": "73/2019/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 51",
+     "khoản 3 Điều 51"
+    ],
+    "doi_tuong": null,
+    "evidence": "Nghị quyết này quy định thẩm quyền quyết định việc đầu tư, mua sắm đối với các hoạt động ứng dụng công nghệ thông tin sử dụng kinh phí chi thường xuyên nguồn vốn ngân sách nhà nước thuộc phạm vi quản lý của tỉnh Quảng Ngãi, bao gồm các nội dung quy định tại khoản 2, khoản 3 Điều 51 Nghị định số 73/2019/NĐ-CP"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 1 quy định nội dung được giao tại khoản 2, 3 Điều 51 NĐ 73/2019 nên ghi quy-dinh-chi-tiet (câu không dùng chữ 'chi tiết'). 'được sửa đổi, bổ sung bởi khoản 28 Điều 1 NĐ 82/2024' là ghi chú lịch sử, không ghi. Điều 6 khoản 3 là câu chung, không có đích."
+ },
+ {
+  "doc_id": "651260",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn trả lời chính sách thuế: chỉ trích dẫn Pháp lệnh 38/2001 và Luật Phí và lệ phí 97/2015, không có tác động."
+ },
+ {
+  "doc_id": "374902",
+  "relations": [],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 1",
+    "loai": "thieu_noi_dung",
+    "ghi_chu": "Điều 1 'Hủy bỏ 06 Tiêu chuẩn quốc gia sau đây' (TCVN 8021-1:2008, 8021-2:2008, 8021-3:2009, 8021-4:2009, 8021-5:2009, 8021-6:2009) có trong toan_van nhưng không có trong don_vi."
+   }
+  ],
+  "ghi_chu": "don_vi rỗng nên theo tiêu chí không ghi quan hệ. Tên văn bản 'hủy bỏ Tiêu chuẩn quốc gia' không nêu số hiệu đích. Nếu tính Điều 1 thì có 6 quan hệ huy-bo tới 6 TCVN (tiêu chuẩn, không phải văn bản QPPL có số hiệu)."
+ },
+ {
+  "doc_id": "577303",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công bố danh mục TTHC sửa đổi; không tự nói sửa đổi, thay thế, bãi bỏ văn bản nào. Lời dẫn 'đề nghị ... sửa đổi, bổ sung, bãi bỏ' là đề nghị."
+ },
+ {
+  "doc_id": "190268",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Ban hành định mức mới; Điều 3 chỉ là điều khoản thi hành. Không có tác động."
+ },
+ {
+  "doc_id": "8206",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Phân bổ mã truy nhập; 'có thể thay đổi hoặc thu hồi mã' là thẩm quyền. Không có tác động lên văn bản."
+ },
+ {
+  "doc_id": "189527",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 1 hủy bỏ 01 thủ tục hành chính, không nêu văn bản/quyết định công bố bị tác động nên không ghi."
+ },
+ {
+  "doc_id": "322783",
+  "relations": [],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "loai": "gop_sai",
+    "ghi_chu": "Đơn vị gộp cả Điều 4 ('Hội đồng nhân dân tỉnh giao: ...') và câu thông qua, hiệu lực cuối văn bản vào khoản 2 Điều 1."
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "loai": "thieu_noi_dung",
+    "ghi_chu": "Văn bản nguồn nhảy từ Điều 1 sang Điều 4, thiếu Điều 2 và Điều 3."
+   }
+  ],
+  "ghi_chu": "Văn bản thiếu Điều 2, Điều 3 (có thể chứa điều khoản thay thế/bãi bỏ); không đủ chữ để kết luận, không ghi quan hệ."
+ },
+ {
+  "doc_id": "506118",
+  "relations": [],
+  "loi_cau_truc": [
+   {
+    "source_path": "Mục I",
+    "loai": "gop_sai",
+    "ghi_chu": "Đơn vị gộp cả phần đầu, 'Kính gửi', đề mục phần A vào Mục I."
+   },
+   {
+    "source_path": "Mục II",
+    "loai": "gop_sai",
+    "ghi_chu": "Mục II phần A bị gộp với toàn bộ phần B (Mục I, Mục II của phần B đánh số lại)."
+   },
+   {
+    "source_path": "Mục II",
+    "loai": "thieu_noi_dung",
+    "ghi_chu": "noi_dung bị cắt ở 'đã bổ sung có mục tiêu '; thiếu đoạn cuối phần B, 'Tóm lại' và phần C."
+   }
+  ],
+  "ghi_chu": "Công văn thông báo nguồn, nhu cầu kinh phí CCTL và ASXH; chỉ dẫn chiếu văn bản, không có tác động."
+ },
+ {
+  "doc_id": "379181",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công bố danh mục TTHC mới; Điều 2 khoản 2 'nhập bổ sung, sửa đổi các thông tin' là giao nhiệm vụ cập nhật CSDL, không tác động lên văn bản."
+ }
+]

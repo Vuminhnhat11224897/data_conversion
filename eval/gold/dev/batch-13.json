@@ -1,0 +1,120 @@
+[
+ {
+  "doc_id": "383972",
+  "relations": [
+   {
+    "source_path": "Điều 4",
+    "action": "bai-bo",
+    "target_document": "5617/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực thi hành kể từ ngày 15/6/2018 và bãi bỏ Quyết định số 5617/QĐ-UBND ngày 30/12/2016 của UBND tỉnh về việc quy định tạm thời khung giá dịch vụ sử dụng đò, phà trên địa bàn tỉnh Long An."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 4 bãi bỏ toàn bộ Quyết định 5617/QĐ-UBND."
+ },
+ {
+  "doc_id": "601311",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn chuẩn bị phiên họp, không có tác động lên văn bản khác. don_vi rỗng; loi_dan chứa toàn bộ văn bản."
+ },
+ {
+  "doc_id": "447960",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Phê duyệt định mức, đơn giá; không có tác động lên văn bản khác."
+ },
+ {
+  "doc_id": "228097",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tách Sở (tổ chức), không tác động lên văn bản khác."
+ },
+ {
+  "doc_id": "190449",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Ban hành Quy định mới; các câu 'thực hiện theo' Nghị định 53/2006/NĐ-CP, Thông tư 91/2006/TT-BTC là dẫn chiếu, 'hướng dẫn', 'đình chỉ hoạt động' là giao nhiệm vụ/thẩm quyền; không ghi."
+ },
+ {
+  "doc_id": "63150",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Ban hành Kế hoạch phổ biến pháp luật; không có tác động lên văn bản khác."
+ },
+ {
+  "doc_id": "264826",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "bai-bo",
+    "target_document": "11/2004/QĐ-UB",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "VỀ VIỆC BÃI BỎ QUYẾT ĐỊNH SỐ 11/2004/QĐ-UB NGÀY 11/01/2004 CỦA UBND TỈNH QUẢNG NGÃI VỀ VIỆC BAN HÀNH TẬP “ĐỊNH MỨC QUẢN LÝ VÀ BẢO DƯỠNG THƯỜNG XUYÊN CÁC TUYẾN ĐƯỜNG TỈNH, ĐƯỜNG HUYỆN TỈNH QUẢNG NGÃI”"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bai-bo",
+    "target_document": "11/2004/QĐ-UB",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ Quyết định số 11/2004/QĐ-UB ngày 11/01/2004 của UBND tỉnh Quảng Ngãi về việc ban hành Tập “Định mức quản lý và bảo dưỡng thường xuyên các tuyến đường tỉnh, đường huyện tỉnh Quảng Ngãi”."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên văn bản và Điều 1 cùng bãi bỏ Quyết định 11/2004/QĐ-UB. Lời dẫn 'Theo đề nghị ... về việc bãi bỏ' là đề nghị, không ghi. Điều 2 chỉ dẫn áp dụng 3409/QĐ-BGTVT, không ghi."
+ },
+ {
+  "doc_id": "684134",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 3 'Bãi bỏ các quy trình nội bộ đã được phê duyệt trước đây...' không nêu số hiệu văn bản đích nên không ghi quan hệ. Điều 2 là giao nhiệm vụ."
+ },
+ {
+  "doc_id": "640693",
+  "relations": [
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "2231/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục I"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ 28 thủ tục hành chính (số thứ tự 1, 2 Mục I; số thứ tự từ 1 đến 20 Mục II; số thứ tự từ 1 đến 6 Mục III, Phụ lục I) ban hành kèm theo Quyết định số 2231/QĐ-UBND ngày 10 tháng 11 năm 2023 và 02 thủ tục hành chính (số thứ tự 1, 2 Mục II, Phần A) ban hành kèm theo Quyết định số 1823/QĐ-UBND ngày 16 tháng 07 năm 2021 của Chủ tịch Ủy ban nhân dân tỉnh Lâm Đồng."
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "1823/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phần A"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ 28 thủ tục hành chính (số thứ tự 1, 2 Mục I; số thứ tự từ 1 đến 20 Mục II; số thứ tự từ 1 đến 6 Mục III, Phụ lục I) ban hành kèm theo Quyết định số 2231/QĐ-UBND ngày 10 tháng 11 năm 2023 và 02 thủ tục hành chính (số thứ tự 1, 2 Mục II, Phần A) ban hành kèm theo Quyết định số 1823/QĐ-UBND ngày 16 tháng 07 năm 2021 của Chủ tịch Ủy ban nhân dân tỉnh Lâm Đồng."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Bãi bỏ TTHC theo số thứ tự trong danh mục kèm theo 2231/QĐ-UBND (Mục I, II, III Phụ lục I) và 1823/QĐ-UBND (Mục II Phần A). Tên văn bản 'Danh mục thủ tục hành chính bị bãi bỏ' là tên danh mục, không ghi. Packet không có toan_van; đã đối chiếu văn bản nguồn: Điều 2 chỉ là hiệu lực."
+ },
+ {
+  "doc_id": "383453",
+  "relations": [],
+  "loi_cau_truc": [
+   {
+    "source_path": "Mục 1",
+    "loai": "gop_sai",
+    "ghi_chu": "Đơn vị 'Mục 1' gộp phần đầu (quốc hiệu, kính gửi, căn cứ, kết quả kiểm nghiệm) với mục 1 'Đình chỉ lưu hành...'; mục 2-4 không có đơn vị riêng, nằm trong loi_dan."
+   }
+  ],
+  "ghi_chu": "Đình chỉ lưu hành, thu hồi sản phẩm mỹ phẩm; đích không phải văn bản nên không ghi quan hệ."
+ }
+]

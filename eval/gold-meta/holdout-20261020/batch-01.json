@@ -1,0 +1,178 @@
+[
+ {
+  "doc_id": "402960",
+  "la_vbqppl": false,
+  "cap_hieu_luc": null,
+  "ngay_hieu_luc": "2018-12-11",
+  "ngay_het_hieu_luc": null,
+  "ngay_hoi_to": null,
+  "hieu_luc_rieng": [],
+  "trich": {
+   "ngay_hieu_luc": "Không có câu hiệu lực; văn bản không phải VBQPPL nên lấy ngày ban hành.",
+   "la_vbqppl": "Công văn."
+  },
+  "chua_chac": []
+ },
+ {
+  "doc_id": "685077",
+  "la_vbqppl": true,
+  "cap_hieu_luc": 10,
+  "ngay_hieu_luc": "2025-12-21",
+  "ngay_het_hieu_luc": null,
+  "ngay_hoi_to": null,
+  "hieu_luc_rieng": [],
+  "trich": {
+   "ngay_hieu_luc": "Nghị quyết này có hiệu lực thi hành kể từ ngày 21 tháng 12 năm 2025.",
+   "la_vbqppl": "Nghị quyết HĐND cấp tỉnh, số hiệu VBQPPL."
+  },
+  "chua_chac": []
+ },
+ {
+  "doc_id": "463199",
+  "la_vbqppl": false,
+  "cap_hieu_luc": null,
+  "ngay_hieu_luc": "2020-12-15",
+  "ngay_het_hieu_luc": null,
+  "ngay_hoi_to": null,
+  "hieu_luc_rieng": [],
+  "trich": {
+   "ngay_hieu_luc": "Quyết định này có hiệu lực kể từ ngày ký",
+   "la_vbqppl": "Quyết định của Chủ tịch UBND tỉnh ban hành quy chế khen thưởng; Chủ tịch UBND không ban hành VBQPPL theo Luật 2015."
+  },
+  "chua_chac": []
+ },
+ {
+  "doc_id": "101078",
+  "la_vbqppl": true,
+  "cap_hieu_luc": 11,
+  "ngay_hieu_luc": "2009-09-28",
+  "ngay_het_hieu_luc": null,
+  "ngay_hoi_to": null,
+  "hieu_luc_rieng": [],
+  "trich": {
+   "ngay_hieu_luc": "Quyết định này có hiệu lực sau 10 ngày kể từ ngày ký.",
+   "la_vbqppl": "Quyết định của UBND tỉnh ban hành Quy định phân cấp nhiệm vụ chi, số hiệu VBQPPL."
+  },
+  "chua_chac": []
+ },
+ {
+  "doc_id": "684851",
+  "la_vbqppl": false,
+  "cap_hieu_luc": null,
+  "ngay_hieu_luc": "2025-12-10",
+  "ngay_het_hieu_luc": null,
+  "ngay_hoi_to": null,
+  "hieu_luc_rieng": [],
+  "trich": {
+   "ngay_hieu_luc": "Không có câu hiệu lực; Nghị quyết thông qua ngày 10 tháng 12 năm 2025.",
+   "la_vbqppl": "Nghị quyết giám sát chuyên đề của Quốc hội: đánh giá và giao nhiệm vụ, không chứa quy tắc xử sự chung."
+  },
+  "chua_chac": [
+   "la_vbqppl",
+   "cap_hieu_luc",
+   "ngay_hieu_luc"
+  ]
+ },
+ {
+  "doc_id": "190263",
+  "la_vbqppl": true,
+  "cap_hieu_luc": 11,
+  "ngay_hieu_luc": "2011-04-07",
+  "ngay_het_hieu_luc": null,
+  "ngay_hoi_to": null,
+  "hieu_luc_rieng": [],
+  "trich": {
+   "ngay_hieu_luc": "Quyết định này có hiệu lực sau 10 ngày kể từ ngày ký",
+   "la_vbqppl": "Quyết định của UBND tỉnh bổ sung nhiệm vụ quản lý nhà nước cho Sở, số hiệu VBQPPL (Luật 2004); một phần có tính cá biệt (thành lập phòng)."
+  },
+  "chua_chac": [
+   "la_vbqppl"
+  ]
+ },
+ {
+  "doc_id": "204154",
+  "la_vbqppl": false,
+  "cap_hieu_luc": null,
+  "ngay_hieu_luc": "2013-08-12",
+  "ngay_het_hieu_luc": null,
+  "ngay_hoi_to": null,
+  "hieu_luc_rieng": [],
+  "trich": {
+   "ngay_hieu_luc": "Quyết định này có hiệu lực thi hành kể từ ngày ký ban hành.",
+   "la_vbqppl": "Quyết định của Thủ tướng phê duyệt quy hoạch; văn bản cá biệt."
+  },
+  "chua_chac": []
+ },
+ {
+  "doc_id": "261582",
+  "la_vbqppl": true,
+  "cap_hieu_luc": 10,
+  "ngay_hieu_luc": "2014-12-21",
+  "ngay_het_hieu_luc": null,
+  "ngay_hoi_to": null,
+  "hieu_luc_rieng": [],
+  "trich": {
+   "ngay_hieu_luc": "thông qua ngày 11 tháng 12 năm 2014, có hiệu lực thi hành sau 10 ngày kể từ ngày thông qua",
+   "la_vbqppl": "Nghị quyết HĐND tỉnh quy định giá đất, số hiệu VBQPPL."
+  },
+  "chua_chac": []
+ },
+ {
+  "doc_id": "116433",
+  "la_vbqppl": true,
+  "cap_hieu_luc": 8,
+  "ngay_hieu_luc": "1991-10-10",
+  "ngay_het_hieu_luc": null,
+  "ngay_hoi_to": null,
+  "hieu_luc_rieng": [],
+  "trich": {
+   "ngay_hieu_luc": "Quy tắc tổ chức và kỹ thuật nghiệp vụ thanh toán bù trừ giữa các Ngân hàng kèm theo quyết định này có hiệu lực thi hành kể từ ngày ký.",
+   "la_vbqppl": "Quyết định của Thống đốc NHNN (thủ trưởng cơ quan ngang bộ) ban hành quy tắc chung áp dụng cho các ngân hàng; năm 1991 chưa có luật ban hành VBQPPL."
+  },
+  "chua_chac": [
+   "la_vbqppl"
+  ]
+ },
+ {
+  "doc_id": "315319",
+  "la_vbqppl": false,
+  "cap_hieu_luc": null,
+  "ngay_hieu_luc": "2016-06-21",
+  "ngay_het_hieu_luc": null,
+  "ngay_hoi_to": null,
+  "hieu_luc_rieng": [],
+  "trich": {
+   "ngay_hieu_luc": "Không có câu hiệu lực; văn bản không phải VBQPPL nên lấy ngày ban hành.",
+   "la_vbqppl": "Công văn."
+  },
+  "chua_chac": []
+ },
+ {
+  "doc_id": "287413",
+  "la_vbqppl": false,
+  "cap_hieu_luc": null,
+  "ngay_hieu_luc": "2015-02-04",
+  "ngay_het_hieu_luc": null,
+  "ngay_hoi_to": null,
+  "hieu_luc_rieng": [],
+  "trich": {
+   "ngay_hieu_luc": "Không có câu hiệu lực; văn bản không phải VBQPPL nên lấy ngày ban hành.",
+   "la_vbqppl": "Công văn."
+  },
+  "chua_chac": []
+ },
+ {
+  "doc_id": "355650",
+  "la_vbqppl": true,
+  "cap_hieu_luc": 11,
+  "ngay_hieu_luc": "2017-04-15",
+  "ngay_het_hieu_luc": null,
+  "ngay_hoi_to": null,
+  "hieu_luc_rieng": [],
+  "trich": {
+   "ngay_hieu_luc": "Quyết định này có hiệu lực thi hành từ ngày 15 tháng 4 năm 2017",
+   "la_vbqppl": "Quyết định của UBND tỉnh ban hành Quy định, số hiệu VBQPPL."
+  },
+  "chua_chac": []
+ }
+]

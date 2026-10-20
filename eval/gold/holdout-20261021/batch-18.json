@@ -1,0 +1,58 @@
+[
+ {
+  "doc_id": "40110",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "huong-dan",
+    "target_document": "31/CP",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "HƯỚNG DẪN THỰC HIỆN NGHỊ ĐỊNH SỐ 31/CP NGÀY 18/5/1996 CỦA CHÍNH PHỦ VỀ TỔ CHỨC VÀ HOẠT ĐỘNG CÔNG CHỨNG NHÀ NƯỚC"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên và lời dẫn ('Bộ Tư pháp hướng dẫn thực hiện Nghị định số 31/CP ... như sau') cùng hướng dẫn Nghị định 31/CP; ghi một quan hệ Phần đầu. Các dẫn chiếu Điều 21, Điều 31 Nghị định 31/CP, Bộ Luật Dân sự, Pháp lệnh lãnh sự chỉ là trích dẫn."
+ },
+ {
+  "doc_id": "179740",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Chỉ căn cứ, dẫn chiếu QĐ 6982/QĐ-UB-QLĐT, 986/QĐ-UB-KT, văn bản 713/UB-QLĐT, NĐ 48/CP; không có tác động lên văn bản khác."
+ },
+ {
+  "doc_id": "40519",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Nghị quyết phiên họp: thông qua đề án, giao nhiệm vụ, cho ý kiến dự án luật, pháp lệnh; không có tác động trực tiếp lên văn bản đã ban hành."
+ },
+ {
+  "doc_id": "37466",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 10 'Các quy định trước đây trái với Nghị định này đều bị bãi bỏ' là câu chung, không nêu văn bản: không ghi quan hệ. QĐ 516-TCHQ/PC, NĐ 3-CP chỉ là dẫn chiếu, căn cứ."
+ },
+ {
+  "doc_id": "64091",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Đồng ý chưa cưỡng chế một số hàng nhập khẩu; không tác động lên văn bản nào. Công văn 3245 TC/TCT, 3041/TCHQ-KTTT chỉ là đề nghị được xét."
+ },
+ {
+  "doc_id": "43262",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "huong-dan",
+    "target_document": "117/TTg",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thi hành quyết định số 117/TTg ngày 27 tháng 11 năm 1992 của Thủ tướng Chính phủ về trợ cấp tiền học trong tiền lương, Liên Bộ Lao động - Thương binh và Xã hội - Tài chính hướng dấn thực hiện như sau:"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên văn bản không nêu số hiệu; lời dẫn nêu QĐ 117/TTg và hướng dẫn thực hiện. Dẫn chiếu QĐ 202-HĐBT, 203-HĐBT, 111-HĐBT, 76-HĐBT, 176-HĐBT, TT 04-TT/LB, 02-TT/LB ở Mục II chỉ là trích dẫn."
+ }
+]

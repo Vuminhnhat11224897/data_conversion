@@ -1,0 +1,350 @@
+[
+  {
+    "doc_id": "53474",
+    "relations": [],
+    "loi_cau_truc": [],
+    "ghi_chu": "Ban hành Điều lệ mới; nguồn cục bộ có chú thích [1] nhưng không có nội dung Điều lệ kèm theo. Nhãn không quan hệ chỉ áp dụng phần Quyết định đang có.",
+    "annotation_status": "reviewed",
+    "uncertain_cases": [
+      "Thiếu nội dung Điều lệ kèm theo; chưa thể xác nhận không có tác động trong phần thiếu."
+    ]
+  },
+  {
+    "doc_id": "674748",
+    "relations": [
+      {
+        "source_path": "Điều 3 Khoản 2 điểm a",
+        "action": "bai-bo",
+        "target_document": "19/2017/NQ-HĐND",
+        "target_section": "khong_ap_dung",
+        "vi_tri": [],
+        "doi_tuong": null,
+        "evidence": "a) Nghị quyết số 19/2017/NQ-HĐND ngày 17 tháng 7 năm 2017 của Hội đồng nhân dân tỉnh Vĩnh Phúc quy định nội dung, mức chi bồi dưỡng đối với người làm nhiệm vụ tiếp công dân, xử lý đơn khiếu nại, tố cáo, kiến nghị, phản ánh trên địa bàn tỉnh Vĩnh Phúc;"
+      },
+      {
+        "source_path": "Điều 3 Khoản 2 điểm b",
+        "action": "bai-bo",
+        "target_document": "57/2017/NQ-HĐND",
+        "target_section": "khong_ap_dung",
+        "vi_tri": [],
+        "doi_tuong": null,
+        "evidence": "b) Nghị quyết số 57/2017/NQ-HĐND ngày 13 năm 7 năm 2017 của Hội đồng nhân dân tỉnh Hòa Bình quy định nội dung, mức chi cụ thể đối với người làm nhiệm vụ tiếp công dân, xử lý đơn khiếu nại, tố cáo, kiến nghị, phản ánh."
+      },
+      {
+        "source_path": "Điều 3 Khoản 3",
+        "action": "bai-bo",
+        "target_document": "22/2012/NQ-HĐND",
+        "target_section": "khong_ap_dung",
+        "vi_tri": [],
+        "doi_tuong": null,
+        "evidence": "3. Bãi bỏ Nghị quyết số 22/2012/NQ-HĐND ngày 14 tháng 12 năm 2012 của Hội đồng nhân dân tỉnh Phú Thọ quy định chế độ bồi dưỡng đối với cán bộ, công chức làm công tác tiếp công dân, xử lý đơn thư khiếu nại, tố cáo, kiến nghị, phản ánh trên địa bàn tỉnh."
+      }
+    ],
+    "loi_cau_truc": [],
+    "ghi_chu": "Khoản 2 tuyên bố hai Nghị quyết hết hiệu lực từ khi văn bản này có hiệu lực, là tác động trực tiếp; không là ghi chú lịch sử.",
+    "annotation_status": "reviewed",
+    "uncertain_cases": []
+  },
+  {
+    "doc_id": "340080",
+    "relations": [
+      {
+        "source_path": "Phần đầu",
+        "action": "sua-doi",
+        "target_document": "33/2014/QĐ-UBND",
+        "target_section": "kem_theo",
+        "vi_tri": [],
+        "doi_tuong": "Quy định về chính sách khuyến khích đầu tư xây dựng cơ sở giết mổ gia súc, gia cầm tập trung",
+        "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA QUY ĐỊNH BAN HÀNH KÈM THEO QUYẾT ĐỊNH SỐ 33/2014/QĐ-UBND NGÀY 22/12/2014 CỦA ỦY BAN NHÂN DÂN TỈNH VỀ VIỆC BAN HÀNH QUY ĐỊNH VỀ CHÍNH SÁCH KHUYẾN KHÍCH ĐẦU TƯ XÂY DỰNG CƠ SỞ GIẾT MỔ GIA SÚC, GIA CẦM TẬP TRUNG TRÊN ĐỊA BÀN TỈNH BÌNH ĐỊNH, GIAI ĐOẠN 2015 - 2020"
+      },
+      {
+        "source_path": "Phần đầu",
+        "action": "bo-sung",
+        "target_document": "33/2014/QĐ-UBND",
+        "target_section": "kem_theo",
+        "vi_tri": [],
+        "doi_tuong": "Quy định về chính sách khuyến khích đầu tư xây dựng cơ sở giết mổ gia súc, gia cầm tập trung",
+        "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA QUY ĐỊNH BAN HÀNH KÈM THEO QUYẾT ĐỊNH SỐ 33/2014/QĐ-UBND NGÀY 22/12/2014 CỦA ỦY BAN NHÂN DÂN TỈNH VỀ VIỆC BAN HÀNH QUY ĐỊNH VỀ CHÍNH SÁCH KHUYẾN KHÍCH ĐẦU TƯ XÂY DỰNG CƠ SỞ GIẾT MỔ GIA SÚC, GIA CẦM TẬP TRUNG TRÊN ĐỊA BÀN TỈNH BÌNH ĐỊNH, GIAI ĐOẠN 2015 - 2020"
+      },
+      {
+        "source_path": "Điều 1 Khoản 1",
+        "action": "sua-doi",
+        "target_document": "33/2014/QĐ-UBND",
+        "target_section": "kem_theo",
+        "vi_tri": [
+          "khoản 1 Điều 6"
+        ],
+        "doi_tuong": null,
+        "evidence": "1. Khoản 1 Điều 6 được sửa đổi, bổ sung như sau:"
+      },
+      {
+        "source_path": "Điều 1 Khoản 1",
+        "action": "bo-sung",
+        "target_document": "33/2014/QĐ-UBND",
+        "target_section": "kem_theo",
+        "vi_tri": [
+          "khoản 1 Điều 6"
+        ],
+        "doi_tuong": null,
+        "evidence": "1. Khoản 1 Điều 6 được sửa đổi, bổ sung như sau:"
+      },
+      {
+        "source_path": "Điều 1 Khoản 2",
+        "action": "sua-doi",
+        "target_document": "33/2014/QĐ-UBND",
+        "target_section": "kem_theo",
+        "vi_tri": [
+          "khoản 3 Điều 6"
+        ],
+        "doi_tuong": null,
+        "evidence": "2. Khoản 3 Điều 6 được sửa đổi, bổ sung như sau:"
+      },
+      {
+        "source_path": "Điều 1 Khoản 2",
+        "action": "bo-sung",
+        "target_document": "33/2014/QĐ-UBND",
+        "target_section": "kem_theo",
+        "vi_tri": [
+          "khoản 3 Điều 6"
+        ],
+        "doi_tuong": null,
+        "evidence": "2. Khoản 3 Điều 6 được sửa đổi, bổ sung như sau:"
+      },
+      {
+        "source_path": "Điều 3",
+        "action": "sua-doi",
+        "target_document": "33/2014/QĐ-UBND",
+        "target_section": "khong_ro",
+        "vi_tri": [
+          "khoản 1 Điều 6",
+          "khoản 3 Điều 6"
+        ],
+        "doi_tuong": null,
+        "evidence": "Điều 3. Quyết định này có hiệu lực kể từ ngày 29 tháng 12 năm 2016; Sửa đổi, bổ sung và bãi bỏ Khoản 1 và Khoản 3 Điều 6 của Quyết định số 33/2014/QĐ-UBND ngày 22/12/2014 của Ủy ban nhân dân tỉnh về việc ban hành quy định về chính sách khuyến khích đầu tư xây dựng cơ sở giết mổ gia súc, gia cầm tập trung trên địa bàn tỉnh Bình Định, giai đoạn 2015 - 2020."
+      },
+      {
+        "source_path": "Điều 3",
+        "action": "bo-sung",
+        "target_document": "33/2014/QĐ-UBND",
+        "target_section": "khong_ro",
+        "vi_tri": [
+          "khoản 1 Điều 6",
+          "khoản 3 Điều 6"
+        ],
+        "doi_tuong": null,
+        "evidence": "Điều 3. Quyết định này có hiệu lực kể từ ngày 29 tháng 12 năm 2016; Sửa đổi, bổ sung và bãi bỏ Khoản 1 và Khoản 3 Điều 6 của Quyết định số 33/2014/QĐ-UBND ngày 22/12/2014 của Ủy ban nhân dân tỉnh về việc ban hành quy định về chính sách khuyến khích đầu tư xây dựng cơ sở giết mổ gia súc, gia cầm tập trung trên địa bàn tỉnh Bình Định, giai đoạn 2015 - 2020."
+      },
+      {
+        "source_path": "Điều 3",
+        "action": "bai-bo",
+        "target_document": "33/2014/QĐ-UBND",
+        "target_section": "khong_ro",
+        "vi_tri": [
+          "khoản 1 Điều 6",
+          "khoản 3 Điều 6"
+        ],
+        "doi_tuong": null,
+        "evidence": "Điều 3. Quyết định này có hiệu lực kể từ ngày 29 tháng 12 năm 2016; Sửa đổi, bổ sung và bãi bỏ Khoản 1 và Khoản 3 Điều 6 của Quyết định số 33/2014/QĐ-UBND ngày 22/12/2014 của Ủy ban nhân dân tỉnh về việc ban hành quy định về chính sách khuyến khích đầu tư xây dựng cơ sở giết mổ gia súc, gia cầm tập trung trên địa bàn tỉnh Bình Định, giai đoạn 2015 - 2020."
+      }
+    ],
+    "loi_cau_truc": [],
+    "ghi_chu": "Điều 3 viết đồng thời sửa đổi, bổ sung và bãi bỏ: giữ nguyên ba hành động, không tự chữa mâu thuẫn. Điều 1 nói rõ Quy định kèm theo; riêng Điều 3 viết Điều của Quyết định nên chưa ép cùng phần.",
+    "annotation_status": "reviewed",
+    "uncertain_cases": [
+      "Điều 3 có câu sửa đổi, bổ sung và bãi bỏ cùng vị trí; cần kiểm bản gốc để giải quyết mâu thuẫn và phần đích."
+    ]
+  },
+  {
+    "doc_id": "430359",
+    "relations": [
+      {
+        "source_path": "Phần đầu",
+        "action": "sua-doi",
+        "target_document": "38/2016/QĐ-UBND",
+        "target_section": "kem_theo",
+        "vi_tri": [],
+        "doi_tuong": "Quy định ban hành kèm theo",
+        "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA QUY ĐỊNH BAN HÀNH KÈM THEO QUYẾT ĐỊNH SỐ 38/2016/QĐ-UBND NGÀY 05 THÁNG 8 NĂM 2016 CỦA ỦY BAN NHÂN DÂN TỈNH AN GIANG"
+      },
+      {
+        "source_path": "Phần đầu",
+        "action": "bo-sung",
+        "target_document": "38/2016/QĐ-UBND",
+        "target_section": "kem_theo",
+        "vi_tri": [],
+        "doi_tuong": "Quy định ban hành kèm theo",
+        "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA QUY ĐỊNH BAN HÀNH KÈM THEO QUYẾT ĐỊNH SỐ 38/2016/QĐ-UBND NGÀY 05 THÁNG 8 NĂM 2016 CỦA ỦY BAN NHÂN DÂN TỈNH AN GIANG"
+      },
+      {
+        "source_path": "Điều 1",
+        "action": "sua-doi",
+        "target_document": "38/2016/QĐ-UBND",
+        "target_section": "kem_theo",
+        "vi_tri": [
+          "điểm c khoản 2 Điều 3"
+        ],
+        "doi_tuong": null,
+        "evidence": "Điều 1. Sửa đổi, bổ sung điểm c khoản 2 Điều 3 của Quy định về chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Sở Tài chính tỉnh An Giang kèm theo Quyết định số 38/2016/QĐ-UBND ngày 05 tháng 8 năm 2016 của Ủy ban nhân dân tỉnh An Giang, như sau:"
+      },
+      {
+        "source_path": "Điều 1",
+        "action": "bo-sung",
+        "target_document": "38/2016/QĐ-UBND",
+        "target_section": "kem_theo",
+        "vi_tri": [
+          "điểm c khoản 2 Điều 3"
+        ],
+        "doi_tuong": null,
+        "evidence": "Điều 1. Sửa đổi, bổ sung điểm c khoản 2 Điều 3 của Quy định về chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Sở Tài chính tỉnh An Giang kèm theo Quyết định số 38/2016/QĐ-UBND ngày 05 tháng 8 năm 2016 của Ủy ban nhân dân tỉnh An Giang, như sau:"
+      }
+    ],
+    "loi_cau_truc": [],
+    "ghi_chu": "",
+    "annotation_status": "reviewed",
+    "uncertain_cases": []
+  },
+  {
+    "doc_id": "587301",
+    "relations": [
+      {
+        "source_path": "Phụ lục 1 Mục A STT 1",
+        "action": "sua-doi",
+        "target_document": "2074/QĐ-UBND",
+        "target_section": "kem_theo",
+        "vi_tri": [],
+        "doi_tuong": "TTHC 1.009319",
+        "evidence": "| 1 | Thủ tục thẩm định thành lập đơn vị sự nghiệp công lập thuộc thẩm quyền quyết định của Ủy ban nhân dân cấp tỉnh. Mã số TTHC: 1.009319 (Sửa đổi, bổ sung TTHC được công bố tại Quyết định số 2074/QĐ-UBND ngày 21/7/2021 và Quyết định số 3443/QĐ-UBND ngày 15/10/2021 của Chủ tịch UBND tỉnh về việc công bố Danh mục thủ tục hành chính mới ban hành, sửa đổi, bổ sung và thay thế lĩnh vực Việc làm thuộc thẩm quyền giải quyết của Ủy ban nhân dân tỉnh/Sở Nội vụ) | 10 ngày làm việc (kể từ ngày nhận đủ hồ sơ hợp lệ). | Bộ phận Văn thư Sở Nội vụ | Không | - Nghị định số 120/2020/NĐ-CP ngày 07/10/2020 của Chính phủ quy định về thành lập, tổ chức lại, giải thể đơn vị sự nghiệp công lập. - Quyết định số 1067/QĐ-BNV ngày 10/12/2020 của Bộ trưởng Bộ Nội vụ về việc công bố thủ tục hành chính quy định tại nghị định số 120/2020/NĐ-CP ngày 07/10/2020 của Chính phủ về thẩm định thành lập, tổ chức lại, giải thể đơn vị sự nghiệp công lập thuộc chức năng quản lý nhà nước của Bộ Nội vụ. - Quyết định số 572/QĐ-LĐTBXH Ngày 17/5/2021 của Bộ trưởng Bộ Lao động - Thương binh và Xã hội về việc công bố TTHC mới ban hành, sửa đổi, bổ sung và thay thế trong lĩnh vực Việc làm thuộc phạm vi chức năng quản lý nhà nước của Bộ Lao động - Thương binh và Xã hội. |"
+      },
+      {
+        "source_path": "Phụ lục 1 Mục A STT 1",
+        "action": "bo-sung",
+        "target_document": "2074/QĐ-UBND",
+        "target_section": "kem_theo",
+        "vi_tri": [],
+        "doi_tuong": "TTHC 1.009319",
+        "evidence": "| 1 | Thủ tục thẩm định thành lập đơn vị sự nghiệp công lập thuộc thẩm quyền quyết định của Ủy ban nhân dân cấp tỉnh. Mã số TTHC: 1.009319 (Sửa đổi, bổ sung TTHC được công bố tại Quyết định số 2074/QĐ-UBND ngày 21/7/2021 và Quyết định số 3443/QĐ-UBND ngày 15/10/2021 của Chủ tịch UBND tỉnh về việc công bố Danh mục thủ tục hành chính mới ban hành, sửa đổi, bổ sung và thay thế lĩnh vực Việc làm thuộc thẩm quyền giải quyết của Ủy ban nhân dân tỉnh/Sở Nội vụ) | 10 ngày làm việc (kể từ ngày nhận đủ hồ sơ hợp lệ). | Bộ phận Văn thư Sở Nội vụ | Không | - Nghị định số 120/2020/NĐ-CP ngày 07/10/2020 của Chính phủ quy định về thành lập, tổ chức lại, giải thể đơn vị sự nghiệp công lập. - Quyết định số 1067/QĐ-BNV ngày 10/12/2020 của Bộ trưởng Bộ Nội vụ về việc công bố thủ tục hành chính quy định tại nghị định số 120/2020/NĐ-CP ngày 07/10/2020 của Chính phủ về thẩm định thành lập, tổ chức lại, giải thể đơn vị sự nghiệp công lập thuộc chức năng quản lý nhà nước của Bộ Nội vụ. - Quyết định số 572/QĐ-LĐTBXH Ngày 17/5/2021 của Bộ trưởng Bộ Lao động - Thương binh và Xã hội về việc công bố TTHC mới ban hành, sửa đổi, bổ sung và thay thế trong lĩnh vực Việc làm thuộc phạm vi chức năng quản lý nhà nước của Bộ Lao động - Thương binh và Xã hội. |"
+      },
+      {
+        "source_path": "Phụ lục 1 Mục A STT 1",
+        "action": "sua-doi",
+        "target_document": "3443/QĐ-UBND",
+        "target_section": "kem_theo",
+        "vi_tri": [],
+        "doi_tuong": "TTHC 1.009319",
+        "evidence": "| 1 | Thủ tục thẩm định thành lập đơn vị sự nghiệp công lập thuộc thẩm quyền quyết định của Ủy ban nhân dân cấp tỉnh. Mã số TTHC: 1.009319 (Sửa đổi, bổ sung TTHC được công bố tại Quyết định số 2074/QĐ-UBND ngày 21/7/2021 và Quyết định số 3443/QĐ-UBND ngày 15/10/2021 của Chủ tịch UBND tỉnh về việc công bố Danh mục thủ tục hành chính mới ban hành, sửa đổi, bổ sung và thay thế lĩnh vực Việc làm thuộc thẩm quyền giải quyết của Ủy ban nhân dân tỉnh/Sở Nội vụ) | 10 ngày làm việc (kể từ ngày nhận đủ hồ sơ hợp lệ). | Bộ phận Văn thư Sở Nội vụ | Không | - Nghị định số 120/2020/NĐ-CP ngày 07/10/2020 của Chính phủ quy định về thành lập, tổ chức lại, giải thể đơn vị sự nghiệp công lập. - Quyết định số 1067/QĐ-BNV ngày 10/12/2020 của Bộ trưởng Bộ Nội vụ về việc công bố thủ tục hành chính quy định tại nghị định số 120/2020/NĐ-CP ngày 07/10/2020 của Chính phủ về thẩm định thành lập, tổ chức lại, giải thể đơn vị sự nghiệp công lập thuộc chức năng quản lý nhà nước của Bộ Nội vụ. - Quyết định số 572/QĐ-LĐTBXH Ngày 17/5/2021 của Bộ trưởng Bộ Lao động - Thương binh và Xã hội về việc công bố TTHC mới ban hành, sửa đổi, bổ sung và thay thế trong lĩnh vực Việc làm thuộc phạm vi chức năng quản lý nhà nước của Bộ Lao động - Thương binh và Xã hội. |"
+      },
+      {
+        "source_path": "Phụ lục 1 Mục A STT 1",
+        "action": "bo-sung",
+        "target_document": "3443/QĐ-UBND",
+        "target_section": "kem_theo",
+        "vi_tri": [],
+        "doi_tuong": "TTHC 1.009319",
+        "evidence": "| 1 | Thủ tục thẩm định thành lập đơn vị sự nghiệp công lập thuộc thẩm quyền quyết định của Ủy ban nhân dân cấp tỉnh. Mã số TTHC: 1.009319 (Sửa đổi, bổ sung TTHC được công bố tại Quyết định số 2074/QĐ-UBND ngày 21/7/2021 và Quyết định số 3443/QĐ-UBND ngày 15/10/2021 của Chủ tịch UBND tỉnh về việc công bố Danh mục thủ tục hành chính mới ban hành, sửa đổi, bổ sung và thay thế lĩnh vực Việc làm thuộc thẩm quyền giải quyết của Ủy ban nhân dân tỉnh/Sở Nội vụ) | 10 ngày làm việc (kể từ ngày nhận đủ hồ sơ hợp lệ). | Bộ phận Văn thư Sở Nội vụ | Không | - Nghị định số 120/2020/NĐ-CP ngày 07/10/2020 của Chính phủ quy định về thành lập, tổ chức lại, giải thể đơn vị sự nghiệp công lập. - Quyết định số 1067/QĐ-BNV ngày 10/12/2020 của Bộ trưởng Bộ Nội vụ về việc công bố thủ tục hành chính quy định tại nghị định số 120/2020/NĐ-CP ngày 07/10/2020 của Chính phủ về thẩm định thành lập, tổ chức lại, giải thể đơn vị sự nghiệp công lập thuộc chức năng quản lý nhà nước của Bộ Nội vụ. - Quyết định số 572/QĐ-LĐTBXH Ngày 17/5/2021 của Bộ trưởng Bộ Lao động - Thương binh và Xã hội về việc công bố TTHC mới ban hành, sửa đổi, bổ sung và thay thế trong lĩnh vực Việc làm thuộc phạm vi chức năng quản lý nhà nước của Bộ Lao động - Thương binh và Xã hội. |"
+      },
+      {
+        "source_path": "Phụ lục 1 Mục A STT 2",
+        "action": "sua-doi",
+        "target_document": "2074/QĐ-UBND",
+        "target_section": "kem_theo",
+        "vi_tri": [],
+        "doi_tuong": "TTHC 1.009320",
+        "evidence": "| 2 | Thủ tục thẩm định tổ chức lại đơn vị sự nghiệp công lập thuộc thẩm quyền quyết định của Ủy ban nhân dân cấp tỉnh Mã số TTHC: 1.009320 (Sửa đổi, bổ sung TTHC được công bố tại Quyết định số 2074/QĐ-UBND ngày 21/7/2021 và Quyết định số 3443/QĐ-UBND ngày 15/10/2021 của Chủ tịch UBND tỉnh về việc công bố Danh mục thủ tục hành chính mới ban hành, sửa đổi, bổ sung và thay thế lĩnh vực Việc làm thuộc thẩm quyền giải quyết của Ủy ban nhân dân tỉnh/Sở Nội vụ) | 10 ngày làm việc (kể từ ngày nhận đủ hồ sơ hợp lệ). | Bộ phận Văn thư Sở Nội vụ | Không | - Nghị định số 120/2020/NĐ-CP ngày 07/10/2020 của Chính phủ quy định về thành lập, tổ chức lại, giải thể đơn vị sự nghiệp công lập. - Quyết định số 1067/QĐ-BNV ngày 10/12/2020 của Bộ trưởng Bộ Nội vụ về việc công bố thủ tục hành chính quy định tại nghị định số 120/2020/NĐ-CP ngày 07/10/2020 của Chính phủ về thẩm định thành lập, tổ chức lại, giải thể đơn vị sự nghiệp công lập thuộc chức năng quản lý nhà nước của Bộ Nội vụ. - Quyết định số 572/QĐ-LĐTBXH Ngày 17/5/2021 của Bộ trưởng Bộ Lao động - Thương binh và Xã hội về việc công bố TTHC mới ban hành, sửa đổi, bổ sung và thay thế trong lĩnh vực Việc làm thuộc phạm vi chức năng quản lý nhà nước của Bộ Lao động - Thương binh và Xã hội. |"
+      },
+      {
+        "source_path": "Phụ lục 1 Mục A STT 2",
+        "action": "bo-sung",
+        "target_document": "2074/QĐ-UBND",
+        "target_section": "kem_theo",
+        "vi_tri": [],
+        "doi_tuong": "TTHC 1.009320",
+        "evidence": "| 2 | Thủ tục thẩm định tổ chức lại đơn vị sự nghiệp công lập thuộc thẩm quyền quyết định của Ủy ban nhân dân cấp tỉnh Mã số TTHC: 1.009320 (Sửa đổi, bổ sung TTHC được công bố tại Quyết định số 2074/QĐ-UBND ngày 21/7/2021 và Quyết định số 3443/QĐ-UBND ngày 15/10/2021 của Chủ tịch UBND tỉnh về việc công bố Danh mục thủ tục hành chính mới ban hành, sửa đổi, bổ sung và thay thế lĩnh vực Việc làm thuộc thẩm quyền giải quyết của Ủy ban nhân dân tỉnh/Sở Nội vụ) | 10 ngày làm việc (kể từ ngày nhận đủ hồ sơ hợp lệ). | Bộ phận Văn thư Sở Nội vụ | Không | - Nghị định số 120/2020/NĐ-CP ngày 07/10/2020 của Chính phủ quy định về thành lập, tổ chức lại, giải thể đơn vị sự nghiệp công lập. - Quyết định số 1067/QĐ-BNV ngày 10/12/2020 của Bộ trưởng Bộ Nội vụ về việc công bố thủ tục hành chính quy định tại nghị định số 120/2020/NĐ-CP ngày 07/10/2020 của Chính phủ về thẩm định thành lập, tổ chức lại, giải thể đơn vị sự nghiệp công lập thuộc chức năng quản lý nhà nước của Bộ Nội vụ. - Quyết định số 572/QĐ-LĐTBXH Ngày 17/5/2021 của Bộ trưởng Bộ Lao động - Thương binh và Xã hội về việc công bố TTHC mới ban hành, sửa đổi, bổ sung và thay thế trong lĩnh vực Việc làm thuộc phạm vi chức năng quản lý nhà nước của Bộ Lao động - Thương binh và Xã hội. |"
+      },
+      {
+        "source_path": "Phụ lục 1 Mục A STT 2",
+        "action": "sua-doi",
+        "target_document": "3443/QĐ-UBND",
+        "target_section": "kem_theo",
+        "vi_tri": [],
+        "doi_tuong": "TTHC 1.009320",
+        "evidence": "| 2 | Thủ tục thẩm định tổ chức lại đơn vị sự nghiệp công lập thuộc thẩm quyền quyết định của Ủy ban nhân dân cấp tỉnh Mã số TTHC: 1.009320 (Sửa đổi, bổ sung TTHC được công bố tại Quyết định số 2074/QĐ-UBND ngày 21/7/2021 và Quyết định số 3443/QĐ-UBND ngày 15/10/2021 của Chủ tịch UBND tỉnh về việc công bố Danh mục thủ tục hành chính mới ban hành, sửa đổi, bổ sung và thay thế lĩnh vực Việc làm thuộc thẩm quyền giải quyết của Ủy ban nhân dân tỉnh/Sở Nội vụ) | 10 ngày làm việc (kể từ ngày nhận đủ hồ sơ hợp lệ). | Bộ phận Văn thư Sở Nội vụ | Không | - Nghị định số 120/2020/NĐ-CP ngày 07/10/2020 của Chính phủ quy định về thành lập, tổ chức lại, giải thể đơn vị sự nghiệp công lập. - Quyết định số 1067/QĐ-BNV ngày 10/12/2020 của Bộ trưởng Bộ Nội vụ về việc công bố thủ tục hành chính quy định tại nghị định số 120/2020/NĐ-CP ngày 07/10/2020 của Chính phủ về thẩm định thành lập, tổ chức lại, giải thể đơn vị sự nghiệp công lập thuộc chức năng quản lý nhà nước của Bộ Nội vụ. - Quyết định số 572/QĐ-LĐTBXH Ngày 17/5/2021 của Bộ trưởng Bộ Lao động - Thương binh và Xã hội về việc công bố TTHC mới ban hành, sửa đổi, bổ sung và thay thế trong lĩnh vực Việc làm thuộc phạm vi chức năng quản lý nhà nước của Bộ Lao động - Thương binh và Xã hội. |"
+      },
+      {
+        "source_path": "Phụ lục 1 Mục A STT 2",
+        "action": "bo-sung",
+        "target_document": "3443/QĐ-UBND",
+        "target_section": "kem_theo",
+        "vi_tri": [],
+        "doi_tuong": "TTHC 1.009320",
+        "evidence": "| 2 | Thủ tục thẩm định tổ chức lại đơn vị sự nghiệp công lập thuộc thẩm quyền quyết định của Ủy ban nhân dân cấp tỉnh Mã số TTHC: 1.009320 (Sửa đổi, bổ sung TTHC được công bố tại Quyết định số 2074/QĐ-UBND ngày 21/7/2021 và Quyết định số 3443/QĐ-UBND ngày 15/10/2021 của Chủ tịch UBND tỉnh về việc công bố Danh mục thủ tục hành chính mới ban hành, sửa đổi, bổ sung và thay thế lĩnh vực Việc làm thuộc thẩm quyền giải quyết của Ủy ban nhân dân tỉnh/Sở Nội vụ) | 10 ngày làm việc (kể từ ngày nhận đủ hồ sơ hợp lệ). | Bộ phận Văn thư Sở Nội vụ | Không | - Nghị định số 120/2020/NĐ-CP ngày 07/10/2020 của Chính phủ quy định về thành lập, tổ chức lại, giải thể đơn vị sự nghiệp công lập. - Quyết định số 1067/QĐ-BNV ngày 10/12/2020 của Bộ trưởng Bộ Nội vụ về việc công bố thủ tục hành chính quy định tại nghị định số 120/2020/NĐ-CP ngày 07/10/2020 của Chính phủ về thẩm định thành lập, tổ chức lại, giải thể đơn vị sự nghiệp công lập thuộc chức năng quản lý nhà nước của Bộ Nội vụ. - Quyết định số 572/QĐ-LĐTBXH Ngày 17/5/2021 của Bộ trưởng Bộ Lao động - Thương binh và Xã hội về việc công bố TTHC mới ban hành, sửa đổi, bổ sung và thay thế trong lĩnh vực Việc làm thuộc phạm vi chức năng quản lý nhà nước của Bộ Lao động - Thương binh và Xã hội. |"
+      },
+      {
+        "source_path": "Phụ lục 1 Mục A STT 3",
+        "action": "sua-doi",
+        "target_document": "2074/QĐ-UBND",
+        "target_section": "kem_theo",
+        "vi_tri": [],
+        "doi_tuong": "TTHC 1.009321",
+        "evidence": "| 3 | Thủ tục thẩm định giải thể đơn vị sự nghiệp công lập thuộc thẩm quyền quyết định của Ủy ban nhân dân cấp tỉnh. Mã số TTHC: 1.009321 (Sửa đổi, bổ sung TTHC được công bố tại Quyết định số 2074/QĐ-UBND ngày 21/7/2021 và Quyết định số 3443/QĐ-UBND ngày 15/10/2021 của Chủ tịch UBND tỉnh về việc công bố Danh mục thủ tục hành chính mới ban hành, sửa đổi, bổ sung và thay thế lĩnh vực Việc làm thuộc thẩm quyền giải quyết của Ủy ban nhân dân tỉnh/Sở Nội vụ) | 10 ngày làm việc (kể từ ngày nhận đủ hồ sơ hợp lệ). | Bộ phận Văn thư Sở Nội vụ | Không | - Nghị định số 120/2020/NĐ-CP ngày 07/10/2020 của Chính phủ quy định về thành lập, tổ chức lại, giải thể đơn vị sự nghiệp công lập. - Quyết định số 1067/QĐ-BNV ngày 10/12/2020 của Bộ trưởng Bộ Nội vụ về việc công bố thủ tục hành chính quy định tại nghị định số 120/2020/NĐ-CP ngày 07/10/2020 của Chính phủ về thẩm định thành lập, tổ chức lại, giải thể đơn vị sự nghiệp công lập thuộc chức năng quản lý nhà nước của Bộ Nội vụ. - Quyết định số 572/QĐ-LĐTBXH Ngày 17/5/2021 của Bộ trưởng Bộ Lao động - Thương binh và Xã hội về việc công bố TTHC mới ban hành, sửa đổi, bổ sung và thay thế trong lĩnh vực Việc làm thuộc phạm vi chức năng quản lý nhà nước của Bộ Lao động - Thương binh và Xã hội. |"
+      },
+      {
+        "source_path": "Phụ lục 1 Mục A STT 3",
+        "action": "bo-sung",
+        "target_document": "2074/QĐ-UBND",
+        "target_section": "kem_theo",
+        "vi_tri": [],
+        "doi_tuong": "TTHC 1.009321",
+        "evidence": "| 3 | Thủ tục thẩm định giải thể đơn vị sự nghiệp công lập thuộc thẩm quyền quyết định của Ủy ban nhân dân cấp tỉnh. Mã số TTHC: 1.009321 (Sửa đổi, bổ sung TTHC được công bố tại Quyết định số 2074/QĐ-UBND ngày 21/7/2021 và Quyết định số 3443/QĐ-UBND ngày 15/10/2021 của Chủ tịch UBND tỉnh về việc công bố Danh mục thủ tục hành chính mới ban hành, sửa đổi, bổ sung và thay thế lĩnh vực Việc làm thuộc thẩm quyền giải quyết của Ủy ban nhân dân tỉnh/Sở Nội vụ) | 10 ngày làm việc (kể từ ngày nhận đủ hồ sơ hợp lệ). | Bộ phận Văn thư Sở Nội vụ | Không | - Nghị định số 120/2020/NĐ-CP ngày 07/10/2020 của Chính phủ quy định về thành lập, tổ chức lại, giải thể đơn vị sự nghiệp công lập. - Quyết định số 1067/QĐ-BNV ngày 10/12/2020 của Bộ trưởng Bộ Nội vụ về việc công bố thủ tục hành chính quy định tại nghị định số 120/2020/NĐ-CP ngày 07/10/2020 của Chính phủ về thẩm định thành lập, tổ chức lại, giải thể đơn vị sự nghiệp công lập thuộc chức năng quản lý nhà nước của Bộ Nội vụ. - Quyết định số 572/QĐ-LĐTBXH Ngày 17/5/2021 của Bộ trưởng Bộ Lao động - Thương binh và Xã hội về việc công bố TTHC mới ban hành, sửa đổi, bổ sung và thay thế trong lĩnh vực Việc làm thuộc phạm vi chức năng quản lý nhà nước của Bộ Lao động - Thương binh và Xã hội. |"
+      },
+      {
+        "source_path": "Phụ lục 1 Mục A STT 3",
+        "action": "sua-doi",
+        "target_document": "3443/QĐ-UBND",
+        "target_section": "kem_theo",
+        "vi_tri": [],
+        "doi_tuong": "TTHC 1.009321",
+        "evidence": "| 3 | Thủ tục thẩm định giải thể đơn vị sự nghiệp công lập thuộc thẩm quyền quyết định của Ủy ban nhân dân cấp tỉnh. Mã số TTHC: 1.009321 (Sửa đổi, bổ sung TTHC được công bố tại Quyết định số 2074/QĐ-UBND ngày 21/7/2021 và Quyết định số 3443/QĐ-UBND ngày 15/10/2021 của Chủ tịch UBND tỉnh về việc công bố Danh mục thủ tục hành chính mới ban hành, sửa đổi, bổ sung và thay thế lĩnh vực Việc làm thuộc thẩm quyền giải quyết của Ủy ban nhân dân tỉnh/Sở Nội vụ) | 10 ngày làm việc (kể từ ngày nhận đủ hồ sơ hợp lệ). | Bộ phận Văn thư Sở Nội vụ | Không | - Nghị định số 120/2020/NĐ-CP ngày 07/10/2020 của Chính phủ quy định về thành lập, tổ chức lại, giải thể đơn vị sự nghiệp công lập. - Quyết định số 1067/QĐ-BNV ngày 10/12/2020 của Bộ trưởng Bộ Nội vụ về việc công bố thủ tục hành chính quy định tại nghị định số 120/2020/NĐ-CP ngày 07/10/2020 của Chính phủ về thẩm định thành lập, tổ chức lại, giải thể đơn vị sự nghiệp công lập thuộc chức năng quản lý nhà nước của Bộ Nội vụ. - Quyết định số 572/QĐ-LĐTBXH Ngày 17/5/2021 của Bộ trưởng Bộ Lao động - Thương binh và Xã hội về việc công bố TTHC mới ban hành, sửa đổi, bổ sung và thay thế trong lĩnh vực Việc làm thuộc phạm vi chức năng quản lý nhà nước của Bộ Lao động - Thương binh và Xã hội. |"
+      },
+      {
+        "source_path": "Phụ lục 1 Mục A STT 3",
+        "action": "bo-sung",
+        "target_document": "3443/QĐ-UBND",
+        "target_section": "kem_theo",
+        "vi_tri": [],
+        "doi_tuong": "TTHC 1.009321",
+        "evidence": "| 3 | Thủ tục thẩm định giải thể đơn vị sự nghiệp công lập thuộc thẩm quyền quyết định của Ủy ban nhân dân cấp tỉnh. Mã số TTHC: 1.009321 (Sửa đổi, bổ sung TTHC được công bố tại Quyết định số 2074/QĐ-UBND ngày 21/7/2021 và Quyết định số 3443/QĐ-UBND ngày 15/10/2021 của Chủ tịch UBND tỉnh về việc công bố Danh mục thủ tục hành chính mới ban hành, sửa đổi, bổ sung và thay thế lĩnh vực Việc làm thuộc thẩm quyền giải quyết của Ủy ban nhân dân tỉnh/Sở Nội vụ) | 10 ngày làm việc (kể từ ngày nhận đủ hồ sơ hợp lệ). | Bộ phận Văn thư Sở Nội vụ | Không | - Nghị định số 120/2020/NĐ-CP ngày 07/10/2020 của Chính phủ quy định về thành lập, tổ chức lại, giải thể đơn vị sự nghiệp công lập. - Quyết định số 1067/QĐ-BNV ngày 10/12/2020 của Bộ trưởng Bộ Nội vụ về việc công bố thủ tục hành chính quy định tại nghị định số 120/2020/NĐ-CP ngày 07/10/2020 của Chính phủ về thẩm định thành lập, tổ chức lại, giải thể đơn vị sự nghiệp công lập thuộc chức năng quản lý nhà nước của Bộ Nội vụ. - Quyết định số 572/QĐ-LĐTBXH Ngày 17/5/2021 của Bộ trưởng Bộ Lao động - Thương binh và Xã hội về việc công bố TTHC mới ban hành, sửa đổi, bổ sung và thay thế trong lĩnh vực Việc làm thuộc phạm vi chức năng quản lý nhà nước của Bộ Lao động - Thương binh và Xã hội. |"
+      },
+      {
+        "source_path": "Phụ lục 1 Mục B STT 1",
+        "action": "bai-bo",
+        "target_document": "3443/QĐ-UBND",
+        "target_section": "kem_theo",
+        "vi_tri": [],
+        "doi_tuong": "TTHC 2.000164",
+        "evidence": "| 1. | Thủ tục Thành lập Trung tâm dịch vụ việc làm do Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương quyết định | 2.000164 | Quyết định số 3443/QĐ-UBND ngày 15/10/2021 của Chủ tịch UBND tỉnh về việc công bố Danh mục thủ tục hành chính mới ban hành, sửa đổi, bổ sung và thay thế lĩnh vực việc làm thuộc thẩm quyền giải quyết của Ủy ban nhân dân tỉnh/Sở Nội vụ. | - Nghị định số 120/2020/NĐ-CP ngày 07/10/2020 của Chính phủ quy định về thành lập, tổ chức lại, giải thể đơn vị sự nghiệp công lập; - Quyết định số 572/QĐ-LĐTBXH ngày 17/5/2021 của Bộ Lao động - Thương binh và Xã hội về việc công bố các thủ tục hành chính mới ban hành, sửa đổi, bổ sung và thay thế trong lĩnh vực việc làm thuộc phạm vi chức năng quản lý nhà nước của Bộ Lao động - Thương binh và Xã hội. |"
+      },
+      {
+        "source_path": "Phụ lục 1 Mục B STT 2",
+        "action": "bai-bo",
+        "target_document": "3443/QĐ-UBND",
+        "target_section": "kem_theo",
+        "vi_tri": [],
+        "doi_tuong": "TTHC 1.000386",
+        "evidence": "| 2. | Tổ chức lại, giải thể Trung tâm dịch vụ việc làm do Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương quyết định | 1.000386 | Quyết định số 3443/QĐ-UBND ngày 15/10/2021 của Chủ tịch UBND tỉnh về việc công bố Danh mục thủ tục hành chính mới ban hành, sửa đổi, bổ sung và thay thế lĩnh vực việc làm thuộc thẩm quyền giải quyết của Ủy ban nhân dân tỉnh/Sở Nội vụ. | - Nghị định số 120/2020/NĐ-CP ngày 07/10/2020 của Chính phủ quy định về thành lập, tổ chức lại, giải thể đơn vị sự nghiệp công lập; - Quyết định số 572/QĐ-LĐTBXH ngày 17/5/2021 của Bộ Lao động - Thương binh và Xã hội về việc công bố các thủ tục hành chính mới ban hành, sửa đổi, bổ sung và thay thế trong lĩnh vực việc làm thuộc phạm vi chức năng quản lý nhà nước của Bộ Lao động - Thương binh và Xã hội. |"
+      },
+      {
+        "source_path": "Phụ lục 1 Mục B STT 3",
+        "action": "bai-bo",
+        "target_document": "2074/QĐ-UBND",
+        "target_section": "kem_theo",
+        "vi_tri": [],
+        "doi_tuong": "TTHC 2.001946",
+        "evidence": "| 3. | Thủ tục thẩm định thành lập đơn vị sự nghiệp công lập | 2.001946 | Quyết định số 2074/QĐ-UBND ngày 21/7/2021 của Chủ tịch UBND tỉnh về việc công bố Danh mục thủ tục hành chính lĩnh vực nội vụ thuộc thẩm quyền giải quyết của Ủy ban nhân dân tỉnh Khánh Hòa | - Nghị định số 120/2020/NĐ-CP ngày 07/10/2020 của Chính phủ quy định về thành lập, tổ chức lại, giải thể đơn vị sự nghiệp công lập; - Quyết định số 1067/QĐ-BNV ngày 10/12/2020 của Bộ trưởng Bộ Nội vụ về việc công bố thủ tục hành chính quy định tại nghị định số 120/2020/NĐ-CP ngày 07/10/2020 của Chính phủ về thẩm định thành lập, tổ chức lại, giải thể đơn vị sự nghiệp công lập thuộc chức năng quản lý nhà nước của Bộ Nội vụ. |"
+      }
+    ],
+    "loi_cau_truc": [],
+    "ghi_chu": "Ở bảng này các hàng chỉ rõ sửa đổi/bổ sung TTHC công bố tại Quyết định cũ và cột Quyết định ban hành TTHC; giữ tác động lên phần TTHC đó. Các Nghị định và Quyết định Bộ ở cột căn cứ không là đích. Quy ước nguồn theo phụ lục/mục/STT, dù parser hiện bỏ qua bảng.",
+    "annotation_status": "reviewed",
+    "uncertain_cases": []
+  }
+]

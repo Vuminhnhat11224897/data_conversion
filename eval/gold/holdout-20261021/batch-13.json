@@ -1,0 +1,122 @@
+[
+ {
+  "doc_id": "264607",
+  "relations": [
+   {
+    "source_path": "Điều 2 Khoản 1",
+    "action": "thay-the",
+    "target_document": "315/QĐ-BGTVT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực thi hành sau 15 ngày kể từ ngày ký và thay thế Quyết định số 315/QĐ-BGTVT ngày 23 tháng 02 năm 2011 của Bộ trưởng Bộ Giao thông vận tải"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 2 khoản 2 chỉ là quy định chuyển tiếp cho dự án đang làm theo Hướng dẫn kèm QĐ 315. Phụ lục hướng dẫn kỹ thuật chỉ dẫn chiếu TCVN và QĐ 3230/QĐ-BGTVT."
+ },
+ {
+  "doc_id": "212671",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "huong-dan",
+    "target_document": "128/2013/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm b khoản 2 Điều 27"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bộ Tài chính hướng dẫn thực hiện điểm b khoản 2 Điều 27 Thông tư số 128/2013/TT-BTC như sau."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Trích yếu 'V/v Hướng dẫn thực hiện Điều 27 Thông tư 128/2013/TT-BTC' và lời dẫn cùng một hành động; lấy vị trí cụ thể ở lời dẫn (điểm b khoản 2 Điều 27)."
+ },
+ {
+  "doc_id": "339762",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "hop-nhat",
+    "target_document": "99/2006/TT-BNN",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thông tư số 99/2006/TT-BNN ngày 06 tháng 11 năm 2006 của Bộ Nông nghiệp và Phát triển nông thôn hướng dẫn thực hiện một số điều của Quy chế quản lý rừng ban hành kèm theo Quyết định số 186/2006/QĐ-TTg, ngày 14/8/2006 của Thủ tướng Chính phủ, có hiệu lực kể từ ngày 01 tháng 12 năm 2006, được sửa đổi, bổ sung bởi:"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "hop-nhat",
+    "target_document": "57/2007/TT-BNN",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "1. Thông tư số 57/2007/TT-BNN ngày 13 tháng 6 năm 2007"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "hop-nhat",
+    "target_document": "25/2011/TT-BNNPTNT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "2. Thông tư số 25/2011/TT-BNNPTNT ngày 06 tháng 4 năm 2011"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "hop-nhat",
+    "target_document": "23/2013/TT-BNNPTNT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "3. Thông tư số 23/2013/TT-BNNPTNT ngày 04 tháng 5 năm 2013"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "hop-nhat",
+    "target_document": "20/2016/TT-BNNPTNT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "4. Thông tư số 20/2016/TT-BNNPTNT ngày 27 tháng 6 năm 2016"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "huong-dan",
+    "target_document": "186/2006/QĐ-TTg",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "HƯỚNG DẪN THỰC HIỆN MỘT SỐ ĐIỀU CỦA QUY CHẾ QUẢN LÝ RỪNG BAN HÀNH KÈM THEO QUYẾT ĐỊNH SỐ 186/2006/QĐ-TTG, NGÀY 14/8/2006 CỦA THỦ TƯỚNG CHÍNH PHỦ"
+   },
+   {
+    "source_path": "Mục 4",
+    "action": "huong-dan",
+    "target_document": "186/2006/QĐ-TTg",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thông tư này hướng dẫn chi tiết một số điều theo quy định tại Quy chế quản lý rừng ban hành kèm theo Quyết định số 186/2006/QĐ-TTg ngày 14/8/2006 của Thủ tướng Chính phủ."
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Mục 1",
+    "loai": "nhan_sai_dieu",
+    "ghi_chu": "Các mục 1-4 là danh sách văn bản sửa đổi trong phần đầu của văn bản hợp nhất, bị nhận thành Mục 1, 2, 4 (mục 3 - TT 23/2013 - không có trong don_vi)."
+   },
+   {
+    "source_path": "Mục 4",
+    "loai": "gop_sai",
+    "ghi_chu": "Mục 4 gộp mục 4 của danh sách sửa đổi với căn cứ, lời dẫn, Mục I (Quy định chung) và các điểm 1-4 Mục II."
+   },
+   {
+    "source_path": "Mục 11",
+    "loai": "gop_sai",
+    "ghi_chu": "Mục 11 Mục II '(được bãi bỏ)' gộp với Mục III Tổ chức thực hiện."
+   }
+  ],
+  "ghi_chu": "Văn bản hợp nhất (XÁC THỰC VĂN BẢN HỢP NHẤT): quan hệ hop-nhat với TT 99/2006 và 4 văn bản sửa đổi nêu ở phần đầu (đọc phần đầu và danh sách là một câu). Không ghi sua-doi/bai-bo cho danh sách 'được sửa đổi, bổ sung bởi' và các chú thích 'được sửa đổi/bãi bỏ theo...' (lịch sử). Tên, lời dẫn và Mục I.1 chép lại từ TT 99 nêu hướng dẫn Quy chế kèm QĐ 186/2006: ghi huong-dan nhưng không chắc có nên tính cho văn bản hợp nhất. Mục I.1 nằm trong đơn vị 'Mục 4' do parser gộp sai."
+ }
+]

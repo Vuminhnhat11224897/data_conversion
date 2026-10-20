@@ -1,0 +1,159 @@
+[
+ {
+  "doc_id": "321786",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Phê duyệt Chương trình KH&CN; câu 'Chương trình đã hết hiệu lực thi hành' (QĐ 255/QĐ-UBND) là kể lại, không phải tác động."
+ },
+ {
+  "doc_id": "293660",
+  "relations": [
+   {
+    "source_path": "Điều 1",
+    "action": "bai-bo",
+    "target_document": "219/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "thủ tục “Danh hiệu Gia đình văn hóa” lĩnh vực Thi đua khen thưởng",
+    "evidence": "Bãi bỏ thủ tục “Danh hiệu Gia đình văn hóa” lĩnh vực Thi đua khen thưởng trong bộ thủ tục hành chính chung áp dụng tại cấp xã trên địa bàn tỉnh Sóc Trăng ban hành kèm theo Quyết định số 219/QĐ-UBND ngày 15/9/2009 của UBND tỉnh Sóc Trăng."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên văn bản không nêu số hiệu đích; lấy 219/QĐ-UBND từ Điều 1."
+ },
+ {
+  "doc_id": "88458",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Báo cáo công tác CCHC; chỉ kể lại, không có tác động."
+ },
+ {
+  "doc_id": "627274",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 1 điều chỉnh diện tích và hủy bỏ dự án trong danh mục tại 'các Nghị quyết HĐND tỉnh thông qua giai đoạn 2014-2020', không nêu số hiệu; các biểu 01-08 kèm theo không có trong dữ liệu (kể cả bản nguồn). Không xác định được văn bản đích nên không ghi quan hệ."
+ },
+ {
+  "doc_id": "37615",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Thành lập Viện; không có tác động lên văn bản khác."
+ },
+ {
+  "doc_id": "624835",
+  "relations": [
+   {
+    "source_path": "Điều 1",
+    "action": "sua-doi",
+    "target_document": "1179/qđ-ubnd",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Điều 1. Công bố kèm theo Quyết định này 02 thủ tục hành chính được sửa đổi (Mã TTHC: 1.000028; 1.004883) lĩnh vực đường bộ, đường sắt tại Quyết định số 1179/QĐ-UBND ngày 16 tháng 05 năm 2023",
+    "nguon": "phan_xu_20261020"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công bố 02 TTHC được sửa đổi (thuộc QĐ 1179/QĐ-UBND); văn bản không tự nói sửa đổi/thay thế/bãi bỏ QĐ 1179 nên không ghi theo quy tắc công bố TTHC."
+ },
+ {
+  "doc_id": "265729",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Thành lập phố mới; không có tác động."
+ },
+ {
+  "doc_id": "259894",
+  "relations": [
+   {
+    "source_path": "Điều 4",
+    "action": "thay-the",
+    "target_document": "02/2013/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực thi hành kể từ ngày 20/11/2014 và thay thế Quyết định số 02/2013/QĐ-UBND ngày 21/01/2013 về việc ban hành Đơn giá sản phẩm: Đo đạc thành lập bản đồ địa chính, đăng ký quyền sử dụng đất, cấp giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất, lập hồ sơ địa chính trên địa bàn tỉnh Tuyên Quang."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 3 khoản 2 là giao nhiệm vụ, không ghi."
+ },
+ {
+  "doc_id": "40400",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "huong-dan",
+    "target_document": "71/CP",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "HƯỚNG DẪN THỰC HIỆN NGHỊ ĐỊNH 71/CP VỀ GIÁO DỤC QUỐC PHÒNG TRONG HỆ THỐNG CÁC TRƯỜNG CHÍNH TRỊ, HÀNH CHÍNH VÀ ĐOÀN THỂ"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Lời dẫn cũng nêu 'hướng dẫn thực hiện' NĐ 71/CP (cùng Phần đầu, gộp 1 quan hệ). Toàn văn nguồn bị thiếu chữ: Mục II khoản 3 cụt, mất khoản 4 và toàn bộ Mục III; không ảnh hưởng quan hệ."
+ },
+ {
+  "doc_id": "612613",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "hop-nhat",
+    "target_document": "98/2010/NĐ-CP",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị định số 98/2010/NĐ-CP ngày 21 tháng 9 năm 2010 của Chính phủ quy định chi tiết thi hành một số điều của Luật di sản văn hóa và Luật sửa đổi, bổ sung một số điều của Luật di sản văn hóa, có hiệu lực thi hành kể từ ngày 16 tháng 11 năm 2010, được sửa đổi, bổ sung bởi:"
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 26 Khoản 4",
+    "loai": "gop_sai",
+    "ghi_chu": "Nội dung cũ ('a) Chủ cửa hàng phải gửi hồ sơ ... bảo vật quốc') và nội dung đã sửa đổi của khoản 4 bị gộp chung trong một đơn vị."
+   }
+  ],
+  "ghi_chu": "Văn bản hợp nhất: chỉ ghi hop-nhat với văn bản gốc 98/2010/NĐ-CP. Văn bản sửa đổi được hợp nhất (01/2012/NĐ-CP, 31/2024/NĐ-CP) và câu 'thay thế Nghị định số 92/2002/NĐ-CP' tại Điều 35 là chép lại, không ghi. Không có toàn văn."
+ },
+ {
+  "doc_id": "432581",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Danh mục phân công soạn thảo văn bản quy định chi tiết; các mục 'Nghị định thay thế Nghị định số ...' trong danh mục là kế hoạch, không phải tác động."
+ },
+ {
+  "doc_id": "390614",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn trả lời, chỉ trích dẫn quy định hiện hành; không có tác động."
+ },
+ {
+  "doc_id": "145870",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn trả lời, chỉ trích dẫn; không có tác động."
+ },
+ {
+  "doc_id": "55308",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tạm đình chỉ công tác một cá nhân, không phải văn bản."
+ },
+ {
+  "doc_id": "96076",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "142/1999/QĐ-UBNDT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực thi hành kể từ ngày 01 tháng 01 năm 2009 và thay thế Quyết định số 142/1999/QĐ-UBNDT ngày 15 tháng 10 năm 1999 của Ủy ban nhân dân tỉnh Sóc Trăng về ban hành Quy định chế độ bồi dưỡng, khen thưởng trong rèn luyện, thi đấu thể dục thể thao trên địa bàn tỉnh Sóc Trăng."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": ""
+ }
+]

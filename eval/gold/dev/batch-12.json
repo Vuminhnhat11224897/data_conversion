@@ -1,0 +1,1192 @@
+[
+ {
+  "doc_id": "527839",
+  "relations": [],
+  "loi_cau_truc": [
+   {
+    "source_path": "Mục I",
+    "loai": "gop_sai",
+    "ghi_chu": "Phần đầu (quốc hiệu, tên Kế hoạch, câu 'Thực hiện Quyết định số 3404/QĐ-BVHTTDL...') bị gộp vào noi_dung của Mục I."
+   }
+  ],
+  "ghi_chu": "Kế hoạch triển khai Đề án theo Quyết định 3404/QĐ-BVHTTDL; không có tác động trực tiếp lên văn bản khác. noi_dung Mục III bị cắt (giới hạn dữ liệu vào), toan_van đủ."
+ },
+ {
+  "doc_id": "515757",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn ban hành tài liệu 'Khung phát triển phần mềm an toàn (phiên bản 1.0)' – không phải văn bản có số hiệu; không có quan hệ."
+ },
+ {
+  "doc_id": "375703",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công bố và công bố lại lộ giới; Phụ lục có cột 'Lộ giới theo 2678/2004/QĐ-UB' nhưng văn bản không tự nói thay thế, sửa đổi hay bãi bỏ 2678/2004/QĐ-UB. Điều 2 chỉ giao nhiệm vụ hướng dẫn. Không ghi quan hệ."
+ },
+ {
+  "doc_id": "361845",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "hop-nhat",
+    "target_document": "66/2014/QĐ-TTg",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 66/2014/QĐ-TTg ngày 25 tháng 11 năm 2014 của Thủ tướng Chính phủ về việc phê duyệt Danh mục công nghệ cao được ưu tiên đầu tư phát triển và Danh mục sản phẩm công nghệ cao được khuyến khích phát triển, có hiệu lực kể từ ngày 15 tháng 01 năm 2015, được sửa đổi, bổ sung bởi:"
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 2",
+    "loai": "gop_sai",
+    "ghi_chu": "Nội dung Điều 2 nằm ở ten_dieu; noi_dung của đơn vị Điều 2 là Điều 3 (ghi 'Điều 32' do số chú thích 2 dính vào số Điều) – Điều 3 bị gộp vào Điều 2."
+   }
+  ],
+  "ghi_chu": "Văn bản hợp nhất: chỉ ghi hop-nhat với văn bản gốc 66/2014/QĐ-TTg (văn bản sửa đổi được hợp nhất: 13/2017/QĐ-TTg). Câu 'thay thế Quyết định số 49/2010/QĐ-TTg' là chép lại từ văn bản gốc, không ghi."
+ },
+ {
+  "doc_id": "632484",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "23/2024/NĐ-CP",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Chính phủ ban hành Nghị định sửa đổi, bổ sung một số điều của các Nghị định quy định chi tiết một số điều và biện pháp thi hành Luật Đấu thầu."
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "23/2024/NĐ-CP",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Chính phủ ban hành Nghị định sửa đổi, bổ sung một số điều của các Nghị định quy định chi tiết một số điều và biện pháp thi hành Luật Đấu thầu."
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "24/2024/NĐ-CP",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Chính phủ ban hành Nghị định sửa đổi, bổ sung một số điều của các Nghị định quy định chi tiết một số điều và biện pháp thi hành Luật Đấu thầu."
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "24/2024/NĐ-CP",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Chính phủ ban hành Nghị định sửa đổi, bổ sung một số điều của các Nghị định quy định chi tiết một số điều và biện pháp thi hành Luật Đấu thầu."
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "115/2024/NĐ-CP",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Chính phủ ban hành Nghị định sửa đổi, bổ sung một số điều của các Nghị định quy định chi tiết một số điều và biện pháp thi hành Luật Đấu thầu."
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "115/2024/NĐ-CP",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Chính phủ ban hành Nghị định sửa đổi, bổ sung một số điều của các Nghị định quy định chi tiết một số điều và biện pháp thi hành Luật Đấu thầu."
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bo-sung",
+    "target_document": "23/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3a Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung khoản 3a vào sau khoản 3 Điều 1 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "24/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm g khoản 1 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm g khoản 1 Điều 1 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "24/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm g khoản 1 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm g khoản 1 Điều 1 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "24/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 2a"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung Điều 2a vào sau Điều 2 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 3",
+    "action": "bo-sung",
+    "target_document": "24/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 12 Điều 12"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung khoản 12 vào sau khoản 11 Điều 12 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 4 điểm a",
+    "action": "sua-doi",
+    "target_document": "24/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm b khoản 2 Điều 16"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm b khoản 2 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 4 điểm a",
+    "action": "bo-sung",
+    "target_document": "24/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm b khoản 2 Điều 16"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm b khoản 2 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 4 điểm b",
+    "action": "sua-doi",
+    "target_document": "24/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm đ khoản 2 Điều 16"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm đ khoản 2 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 4 điểm b",
+    "action": "bo-sung",
+    "target_document": "24/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm đ khoản 2 Điều 16"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm đ khoản 2 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 4 điểm c",
+    "action": "sua-doi",
+    "target_document": "24/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 4 Điều 16"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm a khoản 4 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 4 điểm c",
+    "action": "bo-sung",
+    "target_document": "24/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 4 Điều 16"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm a khoản 4 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 4 điểm d",
+    "action": "bo-sung",
+    "target_document": "24/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 7 Điều 16"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung khoản 7 vào sau khoản 6 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 5",
+    "action": "bo-sung",
+    "target_document": "24/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm đ khoản 1 Điều 18",
+     "điểm e khoản 1 Điều 18",
+     "điểm g khoản 1 Điều 18",
+     "điểm h khoản 1 Điều 18"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung các điểm đ, e, g và h vào sau điểm d khoản 1 Điều 18 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 6",
+    "action": "sua-doi",
+    "target_document": "24/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 20"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 Điều 20 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 6",
+    "action": "bo-sung",
+    "target_document": "24/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 20"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 Điều 20 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 7 điểm a",
+    "action": "bo-sung",
+    "target_document": "24/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3a Điều 22"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung khoản 3a vào sau khoản 3 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 7 điểm b",
+    "action": "bo-sung",
+    "target_document": "24/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 6 Điều 22"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung khoản 6 vào sau khoản 5 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 8 điểm a",
+    "action": "sua-doi",
+    "target_document": "24/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm b khoản 1 Điều 24"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm b khoản 1 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 8 điểm a",
+    "action": "bo-sung",
+    "target_document": "24/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm b khoản 1 Điều 24"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm b khoản 1 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 8 điểm b",
+    "action": "sua-doi",
+    "target_document": "24/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm d khoản 3 Điều 24"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm d khoản 3 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 8 điểm b",
+    "action": "bo-sung",
+    "target_document": "24/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm d khoản 3 Điều 24"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm d khoản 3 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 9 điểm a",
+    "action": "sua-doi",
+    "target_document": "24/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm b khoản 4 Điều 30"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm b khoản 4 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 9 điểm a",
+    "action": "bo-sung",
+    "target_document": "24/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm b khoản 4 Điều 30"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm b khoản 4 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 9 điểm b",
+    "action": "sua-doi",
+    "target_document": "24/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 5 Điều 30",
+     "khoản 6 Điều 30"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 5 và khoản 6 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 9 điểm b",
+    "action": "bo-sung",
+    "target_document": "24/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 5 Điều 30",
+     "khoản 6 Điều 30"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 5 và khoản 6 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 10",
+    "action": "bo-sung",
+    "target_document": "24/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 8 Điều 34"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung khoản 8 vào sau khoản 7 Điều 34 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 11",
+    "action": "sua-doi",
+    "target_document": "24/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm b khoản 3 Điều 42"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm b khoản 3 Điều 42 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 11",
+    "action": "bo-sung",
+    "target_document": "24/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm b khoản 3 Điều 42"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm b khoản 3 Điều 42 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 12",
+    "action": "sua-doi",
+    "target_document": "24/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 6 Điều 43"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 6 Điều 43 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 12",
+    "action": "bo-sung",
+    "target_document": "24/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 6 Điều 43"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 6 Điều 43 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 13",
+    "action": "bo-sung",
+    "target_document": "24/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 8 Điều 59"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung khoản 8 vào sau khoản 7 Điều 59 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 14",
+    "action": "sua-doi",
+    "target_document": "24/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm b khoản 1 Điều 61"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm b khoản 1 Điều 61 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 14",
+    "action": "bo-sung",
+    "target_document": "24/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm b khoản 1 Điều 61"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm b khoản 1 Điều 61 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 15 điểm a",
+    "action": "sua-doi",
+    "target_document": "24/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 2 Điều 76"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm a như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 15 điểm a",
+    "action": "bo-sung",
+    "target_document": "24/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 2 Điều 76"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm a như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 15 điểm b",
+    "action": "sua-doi",
+    "target_document": "24/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm c khoản 2 Điều 76"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm c như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 15 điểm b",
+    "action": "bo-sung",
+    "target_document": "24/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm c khoản 2 Điều 76"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm c như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 16 điểm a",
+    "action": "sua-doi",
+    "target_document": "24/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 2 Điều 77"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm a như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 16 điểm a",
+    "action": "bo-sung",
+    "target_document": "24/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 2 Điều 77"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm a như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 16 điểm b",
+    "action": "sua-doi",
+    "target_document": "24/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm c khoản 2 Điều 77"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm c như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 16 điểm b",
+    "action": "bo-sung",
+    "target_document": "24/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm c khoản 2 Điều 77"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm c như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 17",
+    "action": "sua-doi",
+    "target_document": "24/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 78"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung đoạn đầu khoản 3 Điều 78 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 17",
+    "action": "bo-sung",
+    "target_document": "24/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 78"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung đoạn đầu khoản 3 Điều 78 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 18 điểm a",
+    "action": "sua-doi",
+    "target_document": "24/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm b khoản 1 Điều 79"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm b khoản 1 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 18 điểm a",
+    "action": "bo-sung",
+    "target_document": "24/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm b khoản 1 Điều 79"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm b khoản 1 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 18 điểm b",
+    "action": "sua-doi",
+    "target_document": "24/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm đ khoản 3 Điều 79"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm đ khoản 3 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 18 điểm b",
+    "action": "bo-sung",
+    "target_document": "24/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm đ khoản 3 Điều 79"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm đ khoản 3 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 18 điểm c",
+    "action": "sua-doi",
+    "target_document": "24/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 4 Điều 79"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 4 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 18 điểm c",
+    "action": "bo-sung",
+    "target_document": "24/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 4 Điều 79"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 4 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 19 điểm a",
+    "action": "sua-doi",
+    "target_document": "24/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm b khoản 2 Điều 80"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm b khoản 2 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 19 điểm a",
+    "action": "bo-sung",
+    "target_document": "24/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm b khoản 2 Điều 80"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm b khoản 2 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 19 điểm b",
+    "action": "sua-doi",
+    "target_document": "24/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 6 Điều 80"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 6 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 19 điểm b",
+    "action": "bo-sung",
+    "target_document": "24/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 6 Điều 80"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 6 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 20",
+    "action": "sua-doi",
+    "target_document": "24/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 82"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 82 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 20",
+    "action": "bo-sung",
+    "target_document": "24/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 82"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 82 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 21",
+    "action": "sua-doi",
+    "target_document": "24/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 83"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 83 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 21",
+    "action": "bo-sung",
+    "target_document": "24/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 83"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 83 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 22",
+    "action": "sua-doi",
+    "target_document": "24/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 88"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 Điều 88 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 22",
+    "action": "bo-sung",
+    "target_document": "24/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 88"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 Điều 88 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 23 điểm a",
+    "action": "sua-doi",
+    "target_document": "24/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 97"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 23 điểm a",
+    "action": "bo-sung",
+    "target_document": "24/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 97"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 23 điểm b",
+    "action": "bo-sung",
+    "target_document": "24/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 5a Điều 97"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung khoản 5a vào sau khoản 5 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 24 điểm a",
+    "action": "sua-doi",
+    "target_document": "24/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 3 Điều 98",
+     "điểm b khoản 3 Điều 98"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm a và điểm b như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 24 điểm a",
+    "action": "bo-sung",
+    "target_document": "24/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 3 Điều 98",
+     "điểm b khoản 3 Điều 98"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm a và điểm b như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 24 điểm b",
+    "action": "bo-sung",
+    "target_document": "24/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm d khoản 3 Điều 98"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung điểm d vào sau điểm c như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 25 điểm a",
+    "action": "sua-doi",
+    "target_document": "24/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 1 Điều 101"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi điểm a khoản 1 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 25 điểm b",
+    "action": "sua-doi",
+    "target_document": "24/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 101"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi khoản 3 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 25 điểm c",
+    "action": "bo-sung",
+    "target_document": "24/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm c khoản 5 Điều 101"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung điểm c vào sau điểm b khoản 5 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 25 điểm d",
+    "action": "sua-doi",
+    "target_document": "24/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 6 Điều 101"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi khoản 6 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 26",
+    "action": "sua-doi",
+    "target_document": "24/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 102"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi khoản 1 Điều 102 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 27",
+    "action": "sua-doi",
+    "target_document": "24/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 126"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 Điều 126 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 27",
+    "action": "bo-sung",
+    "target_document": "24/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 126"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 Điều 126 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 28",
+    "action": "sua-doi",
+    "target_document": "24/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 2 Điều 128"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm a khoản 2 Điều 128 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 28",
+    "action": "bo-sung",
+    "target_document": "24/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 2 Điều 128"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm a khoản 2 Điều 128 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 29",
+    "action": "sua-doi",
+    "target_document": "24/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 4 Điều 130"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm a khoản 4 Điều 130 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 29",
+    "action": "bo-sung",
+    "target_document": "24/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 4 Điều 130"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm a khoản 4 Điều 130 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 30 điểm a",
+    "action": "sua-doi",
+    "target_document": "24/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 5 Điều 131"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm a khoản 5 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 30 điểm a",
+    "action": "bo-sung",
+    "target_document": "24/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 5 Điều 131"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm a khoản 5 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 30 điểm b",
+    "action": "sua-doi",
+    "target_document": "24/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 22 Điều 131",
+     "điểm b khoản 22 Điều 131",
+     "điểm d khoản 22 Điều 131"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung các điểm a, b và d khoản 22 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 30 điểm b",
+    "action": "bo-sung",
+    "target_document": "24/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 22 Điều 131",
+     "điểm b khoản 22 Điều 131",
+     "điểm d khoản 22 Điều 131"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung các điểm a, b và d khoản 22 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 30 điểm c",
+    "action": "sua-doi",
+    "target_document": "24/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 24 Điều 131"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 24 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 30 điểm c",
+    "action": "bo-sung",
+    "target_document": "24/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 24 Điều 131"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 24 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 30 điểm d",
+    "action": "bo-sung",
+    "target_document": "24/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 28a Điều 131",
+     "khoản 28b Điều 131",
+     "khoản 28c Điều 131",
+     "khoản 28d Điều 131"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung các khoản 28a, 28b, 28c và 28d sau khoản 28 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 30 điểm đ",
+    "action": "sua-doi",
+    "target_document": "24/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 29 Điều 131"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 29 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 30 điểm đ",
+    "action": "bo-sung",
+    "target_document": "24/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 29 Điều 131"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 29 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 31",
+    "action": "thay-cum-tu",
+    "target_document": "24/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Phạm vi công việc thiết kế trong gói thầu EPC, EP, EC thuộc dự án đầu tư xây dựng quy định tại khoản này có thể là thiết kế FEED hoặc thiết kế cơ sở; không hình thành gói thầu EPC, EP, EC khi đã có thiết kế kỹ thuật hoặc công trình thiết kế hai bước theo quy định của pháp luật về xây dựng” bằng cụm từ “Gói thầu EPC, EP, EC được hình thành căn cứ vào thiết kế cơ sở, thiết kế FEED; trường hợp đã có thiết kế kỹ thuật thì không hình thành gói thầu EPC, EP, EC” tại khoản 3 Điều 3."
+   },
+   {
+    "source_path": "Điều 2 Khoản 32",
+    "action": "thay-cum-tu",
+    "target_document": "24/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm d khoản 2 Điều 16"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “trường hợp có nhiều hơn 01 báo giá thì lấy giá trung bình của các báo giá” bằng cụm từ “trường hợp có nhiều hơn 01 báo giá thì được lấy giá trung bình của các báo giá” tại điểm d khoản 2 Điều 16."
+   },
+   {
+    "source_path": "Điều 2 Khoản 33",
+    "action": "bo-sung",
+    "target_document": "24/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 4 Điều 35"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung cụm từ “Đối với gói thầu đấu thầu trước quy định tại Điều 42 của Luật Đấu thầu, nhà thầu không phải thực hiện biện pháp bảo đảm dự thầu nhưng phải cam kết trong đơn dự thầu về trách nhiệm tham dự thầu” vào điểm a khoản 4 Điều 35."
+   },
+   {
+    "source_path": "Điều 3 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "115/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm d khoản 1 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm d khoản 1 Điều 1 như sau:"
+   },
+   {
+    "source_path": "Điều 3 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "115/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm d khoản 1 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm d khoản 1 Điều 1 như sau:"
+   },
+   {
+    "source_path": "Điều 3 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "115/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Chương IVa"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung Chương IVa gồm các Điều 44a và 44b vào sau Chương IV như sau:"
+   },
+   {
+    "source_path": "Điều 4",
+    "action": "sua-doi",
+    "target_document": "95/2020/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 2 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm a khoản 2 Điều 3 như sau:"
+   },
+   {
+    "source_path": "Điều 4",
+    "action": "bo-sung",
+    "target_document": "95/2020/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 2 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm a khoản 2 Điều 3 như sau:"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Phần đầu (tên và lời dẫn 'sửa đổi, bổ sung một số điều của các Nghị định quy định chi tiết một số điều và biện pháp thi hành Luật Đấu thầu') ghi cho 23/2024, 24/2024, 115/2024 (đúng tên gọi đó); không ghi Phần đầu cho 95/2020/NĐ-CP vì 95/2020 là Nghị định hướng dẫn đấu thầu theo CPTPP, không chắc thuộc nhóm tên nêu. Câu dẫn khoản ('Sửa đổi, bổ sung một số điểm, khoản của Điều 16...') không ghi riêng; hành động ghi ở từng điểm. noi_dung Điều 2 Khoản 20, 21 và Điều 3 Khoản 2 bị cắt ở 6000 ký tự (chỉ phần nội dung mới trong ngoặc kép, không ảnh hưởng quan hệ). Điều 5 Khoản 2 (chuyển tiếp) chỉ dẫn chiếu, không có tác động."
+ },
+ {
+  "doc_id": "559718",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "hop-nhat",
+    "target_document": "126/2020/NĐ-CP",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị định số 126/2020/NĐ-CP ngày 19 tháng 10 năm 2020 của Chính phủ quy định chi tiết một số điều của Luật Quản lý thuế, có hiệu lực kể từ ngày 05 tháng 12 năm 2020 được sửa đổi, bổ sung bởi:"
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 43 Khoản 3",
+    "loai": "gop_sai",
+    "ghi_chu": "Khoản 4 Điều 43 (ghi '4.11' do số chú thích 11 dính vào số khoản, nội dung do 91/2022/NĐ-CP bổ sung) bị gộp vào noi_dung khoản 3."
+   }
+  ],
+  "ghi_chu": "Văn bản hợp nhất: chỉ ghi hop-nhat với văn bản gốc 126/2020/NĐ-CP (văn bản sửa đổi được hợp nhất: 91/2022/NĐ-CP). Các câu 'hết hiệu lực', sửa đổi, bổ sung trong thân (ví dụ Điều 42 Khoản 2) là chép lại từ văn bản gốc, không ghi. Các đơn vị 'Phụ lục 3 Văn bản kèm theo …' là Điều của mẫu biểu trong phụ lục."
+ },
+ {
+  "doc_id": "199159",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn thông báo để thực hiện Thông tư 06/2013/TT-BTNMT và 63/2013/TTLT-BTC-BTNMT; chỉ dẫn chiếu, không có tác động."
+ },
+ {
+  "doc_id": "147416",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn thông tin tuyển chọn; không có tác động lên văn bản khác."
+ },
+ {
+  "doc_id": "22786",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quyết định công bố danh mục 72 văn bản hết hiệu lực (Điều 1 'Công bố Danh mục ... hết hiệu lực thi hành'). Theo tiêu chí, công bố danh mục chỉ ghi khi văn bản tự nói bãi bỏ, thay thế, sửa đổi; văn bản chỉ công bố tình trạng hết hiệu lực nên không ghi quan hệ."
+ },
+ {
+  "doc_id": "466463",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Ban hành Kế hoạch tổ chức Hội nghị triển khai Luật sửa đổi, bổ sung Luật Xử lý vi phạm hành chính; 'sửa đổi, bổ sung' là tên luật, không có tác động."
+ }
+]

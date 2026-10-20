@@ -1,0 +1,308 @@
+[
+ {
+  "doc_id": "666255",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quyết định công bố TTHC; Điều 1 chỉ công bố TTHC được sửa đổi, bổ sung, thay thế; bảng danh mục không nêu văn bản đích. Không có quan hệ."
+ },
+ {
+  "doc_id": "414006",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công bố danh mục TTHC sửa đổi, bổ sung; dòng bảng chỉ nêu căn cứ pháp lý (Nghị định 124/2018/NĐ-CP), không nêu quyết định công bố trước. Không có quan hệ."
+ },
+ {
+  "doc_id": "388112",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "290/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Các Quyết định sau đây hết hiệu lực thi hành"
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "1060/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Các Quyết định sau đây hết hiệu lực thi hành"
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "265/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "nội dung thuộc chức năng, nhiệm vụ, quyền hạn của Sở Khoa học và Công nghệ",
+    "evidence": "Các Quyết định sau đây hết hiệu lực thi hành"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 2 tự tuyên bố 3 quyết định hết hiệu lực (bai-bo). QĐ 265/QĐ-UBND chỉ phần nội dung thuộc Sở KH&CN (doi_tuong)."
+ },
+ {
+  "doc_id": "512062",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công bố TTHC được thay thế; dòng bảng chỉ nêu Thông tư 02/2022/TT-BGDĐT là VBQPPL quy định nội dung, không nêu quyết định công bố trước. Phụ lục còn lại là nội dung trích từ Thông tư. Không có quan hệ."
+ },
+ {
+  "doc_id": "122660",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công bố bộ TTHC; câu về sửa đổi, bãi bỏ TTHC là quy tắc chung, không nêu văn bản đích."
+ },
+ {
+  "doc_id": "656783",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công bố danh mục TTHC sửa đổi, bổ sung, thay thế; dòng bảng không nêu quyết định công bố trước. Toàn văn có vẻ bị cắt (Điều 1 nói 26 TTHC, bảng chỉ có 5 dòng)."
+ },
+ {
+  "doc_id": "127831",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "34/2010/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "VỀ VIỆC SỬA ĐỔI, BỔ SUNG QUYẾT ĐỊNH SỐ 34/2010/QĐ-UBND"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "34/2010/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "VỀ VIỆC SỬA ĐỔI, BỔ SUNG QUYẾT ĐỊNH SỐ 34/2010/QĐ-UBND"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "34/2010/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "bảng giá đất năm 2011 (giá đất ở thuộc 13 tuyến đường)",
+    "evidence": "Bổ sung giá đất ở thuộc 13 tuyến đường vào bảng giá đất năm 2011 ban hành kèm theo quyết định số 34/2010/QĐ-UBND"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "34/2010/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục 7 Phần IX Phụ lục IV"
+    ],
+    "doi_tuong": null,
+    "evidence": "Giá đất đề nghị sửa đổi tại mục số 7, phần IX, Phụ lục IV ban hành kèm theo Quyết định số 34/2010/QĐ-UBND"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên văn bản nêu QĐ 34/2010 nên có quan hệ Phần đầu. Khoản 1 bổ sung vào bảng giá đất (chỉ nêu bằng tên); khoản 2 sửa mục 7 phần IX Phụ lục IV."
+ },
+ {
+  "doc_id": "37831",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "188-CT",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "mức thu quốc doanh",
+    "evidence": "VỀ VIỆC SỬA ĐỔI MỨC THU QUỐC DOANH BAN HÀNHxml:namespace prefix = u1 / KÈM THEO QUYẾT ĐỊNH SỐ 188-CT"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Chỉ tên văn bản nêu sửa đổi mức thu quốc doanh kèm theo QĐ 188-CT. Mục 1 chỉ ủy quyền cho Bộ trưởng Bộ Tài chính xem xét và sửa đổi (thẩm quyền), không phải quan hệ. Mục 2 giữ nguyên hiệu lực các quy định khác. Tên văn bản có rác 'xml:namespace prefix = u1 /' giữa chữ; evidence chép nguyên văn."
+ },
+ {
+  "doc_id": "657402",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công bố danh mục TTHC được sửa đổi cơ quan có thẩm quyền; dòng bảng không nêu quyết định công bố trước. Không có quan hệ. Bảng có STT 66 lặp (dòng sau 62)."
+ },
+ {
+  "doc_id": "459121",
+  "relations": [],
+  "loi_cau_truc": [
+   {
+    "source_path": "Phụ lục 1 Điều 12 Khoản 3",
+    "loai": "gop_sai",
+    "ghi_chu": "Điều 12 Điều lệ có hai khoản số 3; khoản 3 thứ hai bị gộp vào khoản 3 thứ nhất."
+   }
+  ],
+  "ghi_chu": "Công nhận Điều lệ (sửa đổi, bổ sung) của Quỹ; không nêu văn bản đích (không nêu số hiệu Điều lệ hay quyết định cũ). Các chữ 'sửa đổi, bổ sung Điều lệ' trong Điều lệ là thẩm quyền. Không có quan hệ."
+ },
+ {
+  "doc_id": "406724",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "59/2017/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA QUY ĐỊNH VỀ XÂY DỰNG, LẮP ĐẶT CÁC PHƯƠNG TIỆN TUYÊN TRUYỀN, QUẢNG CÁO NGOÀI TRỜI TRÊN ĐỊA BÀN TỈNH NGHỆ AN BAN HÀNH KÈM THEO QUYẾT ĐỊNH SỐ 59/2017/QĐ-UBND"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "59/2017/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA QUY ĐỊNH VỀ XÂY DỰNG, LẮP ĐẶT CÁC PHƯƠNG TIỆN TUYÊN TRUYỀN, QUẢNG CÁO NGOÀI TRỜI TRÊN ĐỊA BÀN TỈNH NGHỆ AN BAN HÀNH KÈM THEO QUYẾT ĐỊNH SỐ 59/2017/QĐ-UBND"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "59/2017/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm b khoản 1 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm b, khoản 1 Điều 1, như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "59/2017/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm b khoản 1 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm b, khoản 1 Điều 1, như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "59/2017/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 4 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 4 Điều 3, như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "59/2017/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 4 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 4 Điều 3, như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "sua-doi",
+    "target_document": "59/2017/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 2 Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 Điều 5, như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "bo-sung",
+    "target_document": "59/2017/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 2 Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 Điều 5, như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 4",
+    "action": "sua-doi",
+    "target_document": "59/2017/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 3 Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 3 Điều 7, như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 4",
+    "action": "bo-sung",
+    "target_document": "59/2017/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 3 Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 3 Điều 7, như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 5 điểm a",
+    "action": "sua-doi",
+    "target_document": "59/2017/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 1 Điều 8"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 8, như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 5 điểm a",
+    "action": "bo-sung",
+    "target_document": "59/2017/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 1 Điều 8"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 8, như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 5 điểm b",
+    "action": "bai-bo",
+    "target_document": "59/2017/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 2 Điều 8"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bỏ khoản 2."
+   },
+   {
+    "source_path": "Điều 1 Khoản 6",
+    "action": "sua-doi",
+    "target_document": "59/2017/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm a khoản 4 Điều 10"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi điểm a, khoản 4 Điều 10 như sau:"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Câu dẫn Điều 1 ('Sửa đổi, bổ sung một số điều của Quy định ... kèm theo QĐ 59/2017') không ghi riêng, vì các khoản đã nêu từng vị trí. Khoản 5 điểm a sửa khoản 1 Điều 8 (theo câu dẫn 'Sửa đổi, bổ sung Điều 8'); điểm b bỏ khoản 2 Điều 8. Khoản 6 chỉ 'Sửa đổi'."
+ },
+ {
+  "doc_id": "324165",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn UBND trình Thường trực HĐND đề nghị cho phép sửa đổi khoản 3 Điều 7 và hủy bỏ điểm 2.2 khoản 2 Điều 7 Quy định kèm theo QĐ 94/2007/QĐ-UBND: là đề nghị, không phải quan hệ."
+ }
+]

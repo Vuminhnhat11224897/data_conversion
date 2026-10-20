@@ -1,0 +1,73 @@
+[
+ {
+  "doc_id": "522016",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Mục 1.5 'Tham mưu sửa đổi, bổ sung, thay thế Quyết định số 24/2018/QĐ-UBND' là giao nhiệm vụ, không phải hành động."
+ },
+ {
+  "doc_id": "623479",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Chỉ thị yêu cầu lập kế hoạch đầu tư công; chỉ thực hiện Chỉ thị 25/CT-TTg; không có tác động."
+ },
+ {
+  "doc_id": "536333",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Kế hoạch thực hiện QĐ 964/QĐ-TTg; không có tác động. Mục IV ghi 'Có phụ lục kèm theo' nhưng phụ lục không có trong toàn văn."
+ },
+ {
+  "doc_id": "255100",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 1 và Điều 1 Quy định chỉ loại trừ trường hợp đã quy định tại QĐ 10/2013/QĐ-UBND, không phải hành động."
+ },
+ {
+  "doc_id": "564426",
+  "relations": [
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bai-bo",
+    "target_document": "2319/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "03 Danh mục thủ tục hành chính cấp tỉnh lĩnh vực kinh tế hợp tác (Số thứ tự 05 Mục V, Phần A và số thứ tự 02, 03 Mục I Phần B)",
+    "evidence": "Bãi bỏ 03 Danh mục thủ tục hành chính cấp tỉnh lĩnh vực kinh tế hợp tác (Số thứ tự 05 Mục V, Phần A và số thứ tự 02, 03 Mục I Phần B) tại Quyết định số 2319/QĐ-UBND ngày 23/9/2021 của Chủ tịch UBND tỉnh Sơn La"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "2129/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "03 quy trình nội bộ (Số thứ tự 04 Mục A, Phần I và số 04, 05 Mục I, Phần II)",
+    "evidence": "Bãi bỏ 03 quy trình nội bộ (Số thứ tự 04 Mục A, Phần I và số 04, 05 Mục I, Phần II) tại Quyết định số 2129/QĐ-UBND ngày 29/8/2019 của Chủ tịch UBND tỉnh Sơn La"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên văn bản không nêu số hiệu văn bản đích: không ghi Phần đầu. Tên phụ lục nêu QĐ 2319 nhưng dòng bảng không nêu quyết định công bố; hành động đã ghi ở Điều 1 Khoản 1, không ghi thêm dòng bảng. Cột 'Tên VBQPPL quy định việc bãi bỏ' (TT 21/2022/TT-BNNPTNT, TT 19/TT-BNNPTNT) là căn cứ, không phải đích."
+ },
+ {
+  "doc_id": "645097",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "09/2021/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực kể từ ngày 01 tháng 3 năm 2025 và thay thế Quyết định số 09/2021/QĐ-UBND ngày 18 tháng 3 năm 2021 của Ủy ban nhân dân tỉnh Nam Định về việc quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Sở Tư pháp tỉnh Nam Định."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Các khoản 'hướng dẫn', 'hủy bỏ giấy tờ hộ tịch' trong Quy định là nhiệm vụ, thẩm quyền: không ghi."
+ },
+ {
+  "doc_id": "296664",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn trả lời, trích dẫn các NĐ, TT; nêu BTC đang trình sửa đổi NĐ 164/2013/NĐ-CP (không phải hành động)."
+ }
+]

@@ -1,0 +1,78 @@
+[
+ {
+  "doc_id": "426827",
+  "la_vbqppl": false,
+  "cap_hieu_luc": null,
+  "ngay_hieu_luc": "2019-09-18",
+  "ngay_het_hieu_luc": null,
+  "ngay_hoi_to": null,
+  "hieu_luc_rieng": [],
+  "trich": {
+   "ngay_hieu_luc": "Điều 2. Quyết định này có hiệu lực thi hành kể từ ngày ký và bãi bỏ các thủ tục hành chính ...",
+   "la_vbqppl": "Quyết định công bố thủ tục hành chính (văn bản cá biệt)",
+   "cap_hieu_luc": "null vì la_vbqppl = false"
+  },
+  "chua_chac": []
+ },
+ {
+  "doc_id": "603858",
+  "la_vbqppl": false,
+  "cap_hieu_luc": null,
+  "ngay_hieu_luc": "2024-03-25",
+  "ngay_het_hieu_luc": null,
+  "ngay_hoi_to": null,
+  "hieu_luc_rieng": [],
+  "trich": {
+   "ngay_hieu_luc": "Điều 3. Quyết định này có hiệu lực kể từ ngày ký ban hành.",
+   "la_vbqppl": "Quyết định công bố thủ tục hành chính (văn bản cá biệt)",
+   "cap_hieu_luc": "null vì la_vbqppl = false"
+  },
+  "chua_chac": []
+ },
+ {
+  "doc_id": "228768",
+  "la_vbqppl": false,
+  "cap_hieu_luc": null,
+  "ngay_hieu_luc": "2013-01-18",
+  "ngay_het_hieu_luc": null,
+  "ngay_hoi_to": null,
+  "hieu_luc_rieng": [],
+  "trich": {
+   "ngay_hieu_luc": "Điều 2. Quyết định này có hiệu lực kể từ ngày ký ban hành.",
+   "la_vbqppl": "Quyết định công bố danh mục VBQPPL hết hiệu lực một phần: văn bản cá biệt, không chứa quy tắc xử sự chung",
+   "cap_hieu_luc": "null vì la_vbqppl = false"
+  },
+  "chua_chac": []
+ },
+ {
+  "doc_id": "262819",
+  "la_vbqppl": false,
+  "cap_hieu_luc": null,
+  "ngay_hieu_luc": "2014-12-26",
+  "ngay_het_hieu_luc": null,
+  "ngay_hoi_to": null,
+  "hieu_luc_rieng": [],
+  "trich": {
+   "ngay_hieu_luc": "Điều 2. Quyết định này có hiệu lực thi hành kể từ ngày ký.",
+   "la_vbqppl": "Quyết định công bố danh mục VBQPPL hết hiệu lực: văn bản cá biệt, không chứa quy tắc xử sự chung",
+   "cap_hieu_luc": "null vì la_vbqppl = false"
+  },
+  "chua_chac": []
+ },
+ {
+  "doc_id": "19180",
+  "la_vbqppl": true,
+  "cap_hieu_luc": 8,
+  "ngay_hieu_luc": null,
+  "ngay_het_hieu_luc": null,
+  "ngay_hoi_to": null,
+  "hieu_luc_rieng": [],
+  "trich": {
+   "ngay_hieu_luc": "Không có câu hiệu lực của chính Thông tư; la_vbqppl = true nên null",
+   "la_vbqppl": "Thông tư luôn true",
+   "cap_hieu_luc": "Thông tư của Bộ trưởng Bộ Lao động: cấp 8",
+   "ngay_het_hieu_luc": "Câu 'tiếp tục hưởng cho đến hết năm 1963' nói về thời hạn hưởng phụ cấp, không phải ngày hết hiệu lực của Thông tư"
+  },
+  "chua_chac": []
+ }
+]

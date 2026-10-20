@@ -1,0 +1,213 @@
+[
+ {
+  "doc_id": "423743",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn trả lời, chỉ nêu công văn 1426/BTC-CST; không có tác động lên văn bản khác."
+ },
+ {
+  "doc_id": "53201",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quyết định ban hành tiêu chuẩn TCXDVN 324:2004; không thay thế, bãi bỏ văn bản nào."
+ },
+ {
+  "doc_id": "375596",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quyết định ban hành Quy chế phối hợp; không có tác động lên văn bản khác. Các đơn vị trong don_vi chỉ có từ \"bổ sung\" theo nghĩa thông thường."
+ },
+ {
+  "doc_id": "670461",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công bố TTHC mới và phê duyệt quy trình nội bộ; không nói thay thế, bãi bỏ văn bản nào. Các cụm \"sửa đổi, bổ sung\" chỉ ở căn cứ và tên thủ tục."
+ },
+ {
+  "doc_id": "269264",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "1023/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "VỀ VIỆC SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA QUYẾT ĐỊNH SỐ 1023/QĐ-UBND NGÀY 30/7/2009 CỦA UBND TỈNH LAI CHÂU VỀ VIỆC THÀNH LẬP QUỸ BẢO VỆ VÀ PHÁT TRIỂN RỪNG TỈNH LAI CHÂU"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "1023/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "VỀ VIỆC SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA QUYẾT ĐỊNH SỐ 1023/QĐ-UBND NGÀY 30/7/2009 CỦA UBND TỈNH LAI CHÂU VỀ VIỆC THÀNH LẬP QUỸ BẢO VỆ VÀ PHÁT TRIỂN RỪNG TỈNH LAI CHÂU"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "1023/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi Khoản 1, Điều 1 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "1023/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 5 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung Khoản 5 Điều 1 (chức năng hoạt động) như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "sua-doi",
+    "target_document": "1023/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm 6.3 khoản 6 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi Điểm 6.3, Khoản 6, Điều 1 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 4",
+    "action": "bo-sung",
+    "target_document": "1023/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 2 Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung Điểm a, Khoản 2, Điều 2 như sau:"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Trường ten chỉ ghi \"sửa đổi một số điều\", phần đầu ghi \"sửa đổi, bổ sung\"; dùng phần đầu. Điều 2 \"vẫn giữ nguyên giá trị pháp lý\" không phải hành động."
+ },
+ {
+  "doc_id": "292482",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn trả lời vướng mắc thuế; chỉ trích dẫn TT 156/2013/TT-BTC, TT 39/2014/TT-BTC. Không có tác động."
+ },
+ {
+  "doc_id": "322528",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Packet không có don_vi và toan_van; đã đọc văn bản nguồn (GET legal-docs): Điều 1-4 chỉ ban hành danh mục 404 thuốc đợt 154, không có tác động lên văn bản khác."
+ },
+ {
+  "doc_id": "98695",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "67/2006/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "VỀ VIỆC SỬA ĐỔI, BỔ SUNG NGHỊ QUYẾT SỐ 67/2006/NQ-HĐND CỦA HỘI ĐỒNG NHÂN DÂN TỈNH VỀ DANH MỤC, KHUNG MỨC THU, TỶ LỆ ĐIỀU TIẾT CÁC LOẠI PHÍ, LỆ PHÍ THUỘC THẨM QUYỀN QUYẾT ĐỊNH CỦA HỘI ĐỒNG NHÂN DÂN TỈNH TRÊN ĐỊA BÀN TỈNH LÂM ĐỒNG"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "67/2006/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "VỀ VIỆC SỬA ĐỔI, BỔ SUNG NGHỊ QUYẾT SỐ 67/2006/NQ-HĐND CỦA HỘI ĐỒNG NHÂN DÂN TỈNH VỀ DANH MỤC, KHUNG MỨC THU, TỶ LỆ ĐIỀU TIẾT CÁC LOẠI PHÍ, LỆ PHÍ THUỘC THẨM QUYỀN QUYẾT ĐỊNH CỦA HỘI ĐỒNG NHÂN DÂN TỈNH TRÊN ĐỊA BÀN TỈNH LÂM ĐỒNG"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "sua-doi",
+    "target_document": "67/2006/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "nhất trí tán thành việc sửa đổi, bổ sung Nghị quyết số 67/2006/NQ-HĐND của Hội đồng nhân dân tỉnh về quy định mới khung mức thu, tỷ lệ điều tiết các loại phí, lệ phí thuộc thẩm quyền quyết định của Hội đồng nhân dân tỉnh trên địa bàn tỉnh Lâm Đồng theo bản chi tiết đính kèm."
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bo-sung",
+    "target_document": "67/2006/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "nhất trí tán thành việc sửa đổi, bổ sung Nghị quyết số 67/2006/NQ-HĐND của Hội đồng nhân dân tỉnh về quy định mới khung mức thu, tỷ lệ điều tiết các loại phí, lệ phí thuộc thẩm quyền quyết định của Hội đồng nhân dân tỉnh trên địa bàn tỉnh Lâm Đồng theo bản chi tiết đính kèm."
+   },
+   {
+    "source_path": "Phụ lục 1",
+    "action": "bai-bo",
+    "target_document": "67/2006/NQ-HĐND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Phí dự thi tốt nghiệp THPT, BTVH",
+    "evidence": "| 3.1 | Phí dự thi tốt nghiệp THPT, BTVH | Bãi bỏ | Giữ nguyên |"
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Phụ lục 1",
+    "loai": "thieu_noi_dung",
+    "ghi_chu": "Danh mục kèm theo Nghị quyết (bản chi tiết đính kèm Điều 1) không có trong don_vi; dòng 3.1 ghi \"Bãi bỏ\" phí dự thi tốt nghiệp THPT, BTVH."
+   }
+  ],
+  "ghi_chu": "Tên danh mục kèm theo (\"... SỬA ĐỔI, BỔ SUNG, BÃI BỎ VÀ QUY ĐỊNH MỚI\") và tiêu đề mục A \"SỬA ĐỔI BỔ SUNG\" là tên, không ghi. Quan hệ bãi bỏ lấy từ ô bảng dòng 3.1 của danh mục kèm theo (không có trong don_vi, source_path đặt \"Phụ lục 1\"); vị trí trong NQ 67 không nêu nên ghi doi_tuong. Điều 2 đoạn 2 \"Những nội dung khác ...\" không phải hành động."
+ },
+ {
+  "doc_id": "136701",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn xác nhận nợ thuế; không có tác động."
+ },
+ {
+  "doc_id": "664548",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn giao nhiệm vụ tạm thời; QĐ 1733/QĐ-BTC sửa đổi QĐ 391/QĐ-BTC chỉ là trích dẫn ở phần mở đầu. Không có tác động."
+ },
+ {
+  "doc_id": "497319",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quyết định phê duyệt kế hoạch thanh tra năm 2022; không có tác động."
+ },
+ {
+  "doc_id": "303189",
+  "relations": [],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 2",
+    "loai": "tach_sai",
+    "ghi_chu": "Đoạn đầu của Điều 2 (Điều không có tên) bị đưa vào ten_dieu; noi_dung chỉ còn đoạn 2. Không ảnh hưởng quan hệ."
+   }
+  ],
+  "ghi_chu": "Phê duyệt Đề án kiện toàn Trung tâm; \"Nghị định 115/2005/NĐ-CP đã được sửa đổi tại Nghị định số 96/2010/NĐ-CP\" là ghi chú lịch sử, không ghi."
+ },
+ {
+  "doc_id": "476555",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quy định mức chi bầu cử; NQ 01/2021/NQ-HĐND, TT 102/2020/TT-BTC chỉ là căn cứ, văn bản không tự nói quy định chi tiết hay hướng dẫn. Điều 3 khoản 3 là quy tắc dẫn chiếu, không phải hành động."
+ },
+ {
+  "doc_id": "567189",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Kế hoạch triển khai thực hiện NĐ 120/2020/NĐ-CP; là kế hoạch tổ chức thực hiện, không tự nói hướng dẫn hoặc quy định chi tiết, không ghi quan hệ."
+ },
+ {
+  "doc_id": "537798",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Hướng dẫn nghiệp vụ lưu trữ sổ hộ tịch theo chỉ đạo tại Công văn 11067/VP-PCNC; không nêu hướng dẫn một văn bản cụ thể, các luật, nghị định chỉ là cơ sở pháp lý. Không có tác động."
+ }
+]

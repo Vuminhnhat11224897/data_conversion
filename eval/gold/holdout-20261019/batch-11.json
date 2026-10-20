@@ -1,0 +1,82 @@
+[
+ {
+  "doc_id": "210109",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Đình chỉ lưu hành một lô thuốc (SĐK VN-7968-09), không phải văn bản pháp luật nên không ghi quan hệ."
+ },
+ {
+  "doc_id": "212964",
+  "relations": [
+   {
+    "source_path": "Điều 15 Khoản 2",
+    "action": "thay-the",
+    "target_document": "07/2009/QĐ-TTg",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này thay thế Quyết định số 07/2009/QĐ-TTg ngày 15 tháng 01 năm 2009 của Thủ tướng Chính phủ"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": ""
+ },
+ {
+  "doc_id": "596830",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quyết định công bố danh mục VBQPPL hết hiệu lực, ngưng hiệu lực, còn hiệu lực (kết quả rà soát) của Quận 10. Điều 1 chỉ \"công bố\"; văn bản không tự bãi bỏ, hủy bỏ, thay thế hay tự tuyên bố hết hiệu lực văn bản nào. Các văn bản trong danh mục hết hiệu lực do văn bản khác (cột lý do). Theo rubric sửa 19/10/2026: không ghi quan hệ."
+ },
+ {
+  "doc_id": "313836",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quyết định công bố danh mục VBQPPL hết hiệu lực toàn bộ hoặc một phần (kết quả rà soát, Mẫu số 03 Thông tư 09/2013/TT-BTP). Điều 1 chỉ \"công bố\"; văn bản không tự bãi bỏ, hủy bỏ, thay thế hay tự tuyên bố hết hiệu lực. Các văn bản hết hiệu lực do văn bản khác hoặc hết thời hạn. Theo rubric sửa 19/10/2026: không ghi quan hệ."
+ },
+ {
+  "doc_id": "468558",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quyết định công bố danh mục VBQPPL hết hiệu lực, ngưng hiệu lực toàn bộ hoặc một phần năm 2020. Điều 1 chỉ \"công bố kèm theo\"; văn bản không tự bãi bỏ, hủy bỏ, thay thế hay tự tuyên bố hết hiệu lực. Các văn bản hết hiệu lực do văn bản khác (cột lý do). Theo rubric sửa 19/10/2026: không ghi quan hệ."
+ },
+ {
+  "doc_id": "597063",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quyết định công bố danh mục VBQPPL hết hiệu lực năm 2023 và còn hiệu lực của Quận 7. Điều 1 chỉ \"công bố\"; văn bản không tự bãi bỏ, hủy bỏ, thay thế hay tự tuyên bố hết hiệu lực. Các văn bản hết hiệu lực do văn bản khác (cột lý do). Theo rubric sửa 19/10/2026: không ghi quan hệ."
+ },
+ {
+  "doc_id": "97645",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 3 'Những quyết định trước đây trái với bản quy định kèm theo quyết định này đều bãi bỏ' không xác định văn bản đích nên không ghi. Quy định số 80/QĐ-UB, Quyết định 33/CT-UB, 111/HĐBT chỉ được dẫn chiếu."
+ },
+ {
+  "doc_id": "44202",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "huong-dan",
+    "target_document": "314-CP",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thi hành Quyết định số 314-CP ngày 1/10/1980 của Hội đồng Chính phủ, liên Bộ Tài chính - Giao thông vận tải hướng dẫn việc trợ cấp hoặc giảm giá cước đối với công nhân, viên chức đang làm việc, đã về nghỉ hưu trí, học sinh và thương binh đi lại về việc riêng như sau:"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Lời dẫn hướng dẫn thi hành Quyết định 314-CP. Nghị định 28-TTg chỉ được dẫn chiếu."
+ },
+ {
+  "doc_id": "43606",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quyết định ban hành tiêu chuẩn TCVN 4059-85; đích không phải văn bản có số hiệu nên không ghi quan hệ."
+ },
+ {
+  "doc_id": "21571",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quyết định thành lập tổ chức; Nghị định 36/CP và Quyết định 1128/QĐ-TTg chỉ được dẫn chiếu."
+ }
+]

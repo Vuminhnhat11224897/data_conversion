@@ -1,0 +1,95 @@
+[
+ {
+  "doc_id": "40110",
+  "la_vbqppl": true,
+  "cap_hieu_luc": 8,
+  "ngay_hieu_luc": null,
+  "ngay_het_hieu_luc": null,
+  "ngay_hoi_to": null,
+  "hieu_luc_rieng": [],
+  "trich": {
+   "ngay_hieu_luc": "Không có câu hiệu lực",
+   "la_vbqppl": "Thông tư luôn là VBQPPL",
+   "cap_hieu_luc": "Thông tư của Bộ Tư pháp"
+  },
+  "chua_chac": []
+ },
+ {
+  "doc_id": "179740",
+  "la_vbqppl": true,
+  "cap_hieu_luc": 11,
+  "ngay_hieu_luc": null,
+  "ngay_het_hieu_luc": null,
+  "ngay_hoi_to": null,
+  "hieu_luc_rieng": [],
+  "trich": {
+   "ngay_hieu_luc": "Không có câu hiệu lực",
+   "la_vbqppl": "Chỉ thị UBND cấp tỉnh (hình thức VBQPPL theo Luật 1996), có quy tắc chung: 'Tuyệt đối không được, xây dựng mới nhà ở và các loại công trình khác trong phạm vi lộ giới nói trên'",
+   "cap_hieu_luc": "Chỉ thị của UBND TP Hồ Chí Minh"
+  },
+  "chua_chac": [
+   "la_vbqppl",
+   "cap_hieu_luc",
+   "ngay_hieu_luc"
+  ]
+ },
+ {
+  "doc_id": "40519",
+  "la_vbqppl": false,
+  "cap_hieu_luc": null,
+  "ngay_hieu_luc": "1997-03-27",
+  "ngay_het_hieu_luc": null,
+  "ngay_hoi_to": null,
+  "hieu_luc_rieng": [],
+  "trich": {
+   "ngay_hieu_luc": "Nghị quyết này đã được Chính phủ thông qua hồi 11 giờ, ngày 27 tháng 3 năm 1997 và có hiệu lực thi hành từ ngày ban hành.",
+   "la_vbqppl": "Nghị quyết phiên họp thường kỳ: thông qua đề án, giao nhiệm vụ, không chứa quy tắc xử sự chung"
+  },
+  "chua_chac": []
+ },
+ {
+  "doc_id": "37466",
+  "la_vbqppl": true,
+  "cap_hieu_luc": 5,
+  "ngay_hieu_luc": "1987-08-27",
+  "ngay_het_hieu_luc": null,
+  "ngay_hoi_to": null,
+  "hieu_luc_rieng": [],
+  "trich": {
+   "ngay_hieu_luc": "Nghị định này có hiệu lực kể từ ngày ban hành.",
+   "la_vbqppl": "Nghị định luôn là VBQPPL",
+   "cap_hieu_luc": "Nghị định của Hội đồng Bộ trưởng"
+  },
+  "chua_chac": []
+ },
+ {
+  "doc_id": "64091",
+  "la_vbqppl": false,
+  "cap_hieu_luc": null,
+  "ngay_hieu_luc": "1999-07-19",
+  "ngay_het_hieu_luc": null,
+  "ngay_hoi_to": null,
+  "hieu_luc_rieng": [],
+  "trich": {
+   "ngay_hieu_luc": "Không có câu hiệu lực; văn bản không phải VBQPPL nên lấy ngày ban hành",
+   "la_vbqppl": "Công văn"
+  },
+  "chua_chac": []
+ },
+ {
+  "doc_id": "43262",
+  "la_vbqppl": true,
+  "cap_hieu_luc": 9,
+  "ngay_hieu_luc": "1992-11-01",
+  "ngay_het_hieu_luc": null,
+  "ngay_hoi_to": "1992-11-01",
+  "hieu_luc_rieng": [],
+  "trich": {
+   "ngay_hieu_luc": "1. Thông tư này có hiệu lực từ ngày 1-11-1992.",
+   "ngay_hoi_to": "Ngày 1-11-1992 trước ngày ban hành 31/12/1992",
+   "la_vbqppl": "Thông tư liên tịch (liên bộ) luôn là VBQPPL",
+   "cap_hieu_luc": "Thông tư liên bộ LĐTBXH - Tài chính"
+  },
+  "chua_chac": []
+ }
+]

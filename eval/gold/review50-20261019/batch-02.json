@@ -1,0 +1,44 @@
+[
+  {
+    "doc_id": "110900",
+    "relations": [],
+    "loi_cau_truc": [],
+    "ghi_chu": "Phê duyệt kế hoạch nghiên cứu sửa đổi, giao nhiệm vụ thống kê; không trực tiếp sửa Quyết định 312/QĐ-TTg hoặc một văn bản xác định.",
+    "annotation_status": "reviewed",
+    "uncertain_cases": []
+  },
+  {
+    "doc_id": "390614",
+    "relations": [],
+    "loi_cau_truc": [],
+    "ghi_chu": "Nhắc các công văn hướng dẫn đã ban hành, trích quy định và áp dụng chính sách cho thuê tài chính; không ghi lịch sử/viện dẫn thành hành động mới.",
+    "annotation_status": "reviewed",
+    "uncertain_cases": [
+      "Có thể dùng định nghĩa hướng dẫn rộng hơn cho toàn công văn; bộ này chỉ chấp nhận câu trực tiếp tuyên bố hướng dẫn một văn bản xác định."
+    ]
+  },
+  {
+    "doc_id": "212854",
+    "relations": [],
+    "loi_cau_truc": [],
+    "ghi_chu": "Cho thôi quốc tịch; Hiến pháp đã sửa đổi chỉ nằm trong căn cứ.",
+    "annotation_status": "reviewed",
+    "uncertain_cases": []
+  },
+  {
+    "doc_id": "103711",
+    "relations": [],
+    "loi_cau_truc": [],
+    "ghi_chu": "Giao nhiệm vụ thực hiện Nghị định/Công điện và thu hủy pháo; không hủy bỏ văn bản.",
+    "annotation_status": "reviewed",
+    "uncertain_cases": []
+  },
+  {
+    "doc_id": "447087",
+    "relations": [],
+    "loi_cau_truc": [],
+    "ghi_chu": "Phụ lục là phương án và kiến nghị thực thi; các câu Sửa đổi Luật/Nghị định là kiến nghị, không phải tác động có hiệu lực do Quyết định này thực hiện.",
+    "annotation_status": "reviewed",
+    "uncertain_cases": []
+  }
+]

@@ -1,0 +1,544 @@
+[
+ {
+  "doc_id": "607047",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "01/2022/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA QUY CHẾ PHỐI HỢP QUẢN LÝ NGƯỜI LAO ĐỘNG NƯỚC NGOÀI LÀM VIỆC TRÊN ĐỊA BÀN TỈNH KON TUM BAN HÀNH KÈM THEO QUYẾT ĐỊNH SỐ 01/2022/QĐ-UBND NGÀY 04 THÁNG 01 NĂM 2022 CỦA ỦY BAN NHÂN DÂN TỈNH KON TUM"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "01/2022/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA QUY CHẾ PHỐI HỢP QUẢN LÝ NGƯỜI LAO ĐỘNG NƯỚC NGOÀI LÀM VIỆC TRÊN ĐỊA BÀN TỈNH KON TUM BAN HÀNH KÈM THEO QUYẾT ĐỊNH SỐ 01/2022/QĐ-UBND NGÀY 04 THÁNG 01 NĂM 2022 CỦA ỦY BAN NHÂN DÂN TỈNH KON TUM"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "01/2022/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 3 Điều 4"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 3, Điều 4 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "01/2022/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 3 Điều 4"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 3, Điều 4 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "01/2022/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm a khoản 1 Điều 7",
+     "điểm b khoản 1 Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung các điểm a, b khoản 1, Điều 7 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "01/2022/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm a khoản 1 Điều 7",
+     "điểm b khoản 1 Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung các điểm a, b khoản 1, Điều 7 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 1",
+    "action": "bai-bo",
+    "target_document": "01/2022/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 2 Điều 7",
+     "điểm đ khoản 13 Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ khoản 2 và điểm đ khoản 13, Điều 7."
+   },
+   {
+    "source_path": "Điều 2 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "01/2022/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm c khoản 1 Điều 7",
+     "điểm a khoản 7 Điều 7",
+     "điểm a khoản 13 Điều 7"
+    ],
+    "doi_tuong": "cụm từ “Ban Quản lý Khu kinh tế tỉnh”",
+    "evidence": "Bãi bỏ cụm từ “Ban Quản lý Khu kinh tế tỉnh” tại điểm c khoản 1, điểm a khoản 7 và điểm a khoản 13 Điều 7."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Sửa đổi, bổ sung và bãi bỏ một số quy định của Quy chế kèm theo QĐ 01/2022/QĐ-UBND."
+ },
+ {
+  "doc_id": "176111",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "46/2012/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục 01",
+     "Phụ lục 02"
+    ],
+    "doi_tuong": null,
+    "evidence": "VỀ VIỆC SỬA ĐỔI PHỤ LỤC SỐ 01, 02 BAN HÀNH KÈM THEO QUYẾT ĐỊNH SỐ 46/2012/QĐ-UBND NGÀY 20/12/2012 CỦA UBND TỈNH BÀ RỊA-VŨNG TÀU QUY ĐỊNH VỀ VIỆC BAN HÀNH BẢNG GIÁ CÁC LOẠI ĐẤT NĂM 2013 TRÊN ĐỊA BÀN TỈNH"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "sua-doi",
+    "target_document": "46/2012/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục 01",
+     "Phụ lục 02"
+    ],
+    "doi_tuong": "một số tuyến đường",
+    "evidence": "Sửa đổi một số tuyến đường quy định tại Phụ lục số 01, 02 ban hành kèm theo Quyết định số 46/2012/QĐ-UBND ngày 20/12/2012 của UBND tỉnh Bà Rịa - Vũng Tàu quy định về việc ban hành bảng giá các loại đất năm 2013 trên địa bàn tỉnh (có phụ lục sửa đổi kèm theo)."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Lời dẫn chỉ nêu tờ trình đề nghị sửa đổi: không ghi. Bảng phụ lục chỉ là nội dung giá mới, không có chữ hành động ở dòng. target_section kem_theo vì câu nói rõ Phụ lục ban hành kèm theo QĐ 46/2012."
+ },
+ {
+  "doc_id": "543811",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "67/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG NGHỊ QUYẾT CỦA HỘI ĐỒNG NHÂN DÂN THÀNH PHỐ VỀ VIỆC QUYẾT ĐỊNH DỰ TOÁN THU NGÂN SÁCH NHÀ NƯỚC TRÊN ĐỊA BÀN, THU, CHI NGÂN SÁCH ĐỊA PHƯƠNG NĂM 2022"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "67/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG NGHỊ QUYẾT CỦA HỘI ĐỒNG NHÂN DÂN THÀNH PHỐ VỀ VIỆC QUYẾT ĐỊNH DỰ TOÁN THU NGÂN SÁCH NHÀ NƯỚC TRÊN ĐỊA BÀN, THU, CHI NGÂN SÁCH ĐỊA PHƯƠNG NĂM 2022"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "67/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 1 Nghị quyết số 67/NQ-HĐND ngày 08 tháng 12 năm 2021 của Hội đồng nhân dân thành phố về việc quyết định dự toán thu ngân sách nhà nước trên địa bàn, thu, chi ngân sách địa phương năm 2022 và Điều 1 Nghị quyết số 16/NQ-HĐND ngày 08 tháng 7 năm 2022"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "67/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 1 Nghị quyết số 67/NQ-HĐND ngày 08 tháng 12 năm 2021 của Hội đồng nhân dân thành phố về việc quyết định dự toán thu ngân sách nhà nước trên địa bàn, thu, chi ngân sách địa phương năm 2022 và Điều 1 Nghị quyết số 16/NQ-HĐND ngày 08 tháng 7 năm 2022"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "16/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 1 Nghị quyết số 67/NQ-HĐND ngày 08 tháng 12 năm 2021 của Hội đồng nhân dân thành phố về việc quyết định dự toán thu ngân sách nhà nước trên địa bàn, thu, chi ngân sách địa phương năm 2022 và Điều 1 Nghị quyết số 16/NQ-HĐND ngày 08 tháng 7 năm 2022"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "16/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 1 Nghị quyết số 67/NQ-HĐND ngày 08 tháng 12 năm 2021 của Hội đồng nhân dân thành phố về việc quyết định dự toán thu ngân sách nhà nước trên địa bàn, thu, chi ngân sách địa phương năm 2022 và Điều 1 Nghị quyết số 16/NQ-HĐND ngày 08 tháng 7 năm 2022"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên văn bản không nêu số hiệu; NQ đích xác định là 67/NQ-HĐND theo tên trùng khớp ở căn cứ. Điểm a, b khoản 1 là nội dung sửa đổi, không ghi riêng. Phụ lục chỉ là số liệu tổng hợp."
+ },
+ {
+  "doc_id": "604988",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quyết định công bố TTHC mới, sửa đổi, bãi bỏ theo QĐ 290/QĐ-BGTVT. Dòng bảng không nêu văn bản đích bị sửa/bãi bỏ; cột 'Tên VBQPPL quy định việc bãi bỏ' là căn cứ pháp lý (NĐ 19/2024/NĐ-CP), không phải đích."
+ },
+ {
+  "doc_id": "130547",
+  "relations": [
+   {
+    "source_path": "Điều 1",
+    "action": "sua-doi",
+    "target_document": "1672/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "04 thủ tục hành chính thuộc thẩm quyền giải quyết của Sở Xây dựng (Cấp Chứng chỉ kỹ sư định giá xây dựng hạng 2; Cấp Chứng chỉ kỹ sư định giá xây dựng hạng 1 (nâng hạng); Cấp Chứng chỉ kỹ sư định giá xây dựng hạng 1; Cấp lại Chứng chỉ kỹ sư định giá xây dựng)",
+    "evidence": "Công bố kèm theo Quyết định này 04 thủ tục hành chính được sửa đổi, bổ sung thuộc thẩm quyền giải quyết của Sở Xây dựng tại Quyết định số 1672/QĐ-UBND ngày 24 tháng 6 năm 2010 (có danh mục kèm theo)."
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bo-sung",
+    "target_document": "1672/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "04 thủ tục hành chính thuộc thẩm quyền giải quyết của Sở Xây dựng (Cấp Chứng chỉ kỹ sư định giá xây dựng hạng 2; Cấp Chứng chỉ kỹ sư định giá xây dựng hạng 1 (nâng hạng); Cấp Chứng chỉ kỹ sư định giá xây dựng hạng 1; Cấp lại Chứng chỉ kỹ sư định giá xây dựng)",
+    "evidence": "Công bố kèm theo Quyết định này 04 thủ tục hành chính được sửa đổi, bổ sung thuộc thẩm quyền giải quyết của Sở Xây dựng tại Quyết định số 1672/QĐ-UBND ngày 24 tháng 6 năm 2010 (có danh mục kèm theo)."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Không chắc: Điều 1 là câu công bố nhưng tự nêu rõ văn bản đích (TTHC tại QĐ 1672/QĐ-UBND được sửa đổi, bổ sung), nên ghi sửa đổi + bổ sung. Bảng danh mục (STT 5-8) không có chữ hành động riêng ở dòng."
+ },
+ {
+  "doc_id": "659220",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Chỉ công bố danh mục TTHC sửa đổi, bổ sung; không nêu văn bản đích bị sửa đổi. Cột căn cứ pháp lý không phải đích."
+ },
+ {
+  "doc_id": "370293",
+  "relations": [
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "17/2015/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 1 Điều 1",
+     "khoản 2 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi Điểm a, Khoản 1 và Khoản 2, Điều 1 của Nghị quyết số 17/2015/NQ-HĐND ngày 10/12/2015 của Hội đồng nhân dân tỉnh như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "36/2016/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi Khoản 1, Điều 1 của Nghị quyết số 36/2016/NQ-HĐND ngày 22/3/2016 của Hội đồng nhân dân tỉnh như sau:"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên văn bản chỉ nói sửa đổi, bổ sung 'kế hoạch vốn', không nêu văn bản: không ghi Phần đầu. Khoản 3 'Điều chỉnh kế hoạch vốn ... đợt 3 (theo thỏa thuận số 78/HĐND-KTNS)' tác động lên kế hoạch vốn, không ghi quan hệ với thỏa thuận 78. Tên phụ biểu 'ĐC GIAM NQ 17' chỉ là tên bảng."
+ },
+ {
+  "doc_id": "182967",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Văn bản sửa đổi, bổ sung khoản 3 Điều 26 và khoản 3 Điều 27 Điều lệ Tổ chức và hoạt động của Quỹ Bảo vệ môi trường Thanh Hóa, nhưng không nêu số hiệu văn bản ban hành Điều lệ (căn cứ chỉ có QĐ 4022/QĐ-UBND thành lập Quỹ, không nói Điều lệ kèm theo QĐ đó). Theo tiêu chí, đích không có số hiệu và không phải luật nên không ghi quan hệ. Nếu chấp nhận đích theo tên: sua-doi + bo-sung (Phần đầu và Điều 1), vi_tri khoản 3 Điều 26, khoản 3 Điều 27."
+ },
+ {
+  "doc_id": "424427",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "09/2016/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA QUY CHẾ LÀM VIỆC CỦA ỦY BAN NHÂN DÂN TỈNH BAN HÀNH KÈM THEO QUYẾT ĐỊNH SỐ 09/2016/QĐ-UBND NGÀY 07/11/2016 CỦA ỦY BAN NHÂN DÂN TỈNH"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "09/2016/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA QUY CHẾ LÀM VIỆC CỦA ỦY BAN NHÂN DÂN TỈNH BAN HÀNH KÈM THEO QUYẾT ĐỊNH SỐ 09/2016/QĐ-UBND NGÀY 07/11/2016 CỦA ỦY BAN NHÂN DÂN TỈNH"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "09/2016/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 9 Điều 8"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung khoản 9 Điều 8 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "09/2016/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm a khoản 1 Điều 10"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm a khoản 1 Điều 10 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "09/2016/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm a khoản 1 Điều 10"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm a khoản 1 Điều 10 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "sua-doi",
+    "target_document": "09/2016/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 3 Điều 10"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 3 Điều 10 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "bo-sung",
+    "target_document": "09/2016/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 3 Điều 10"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 3 Điều 10 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 4",
+    "action": "sua-doi",
+    "target_document": "09/2016/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 1 Điều 15"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 Điều 15 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 4",
+    "action": "bo-sung",
+    "target_document": "09/2016/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 1 Điều 15"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 Điều 15 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 5",
+    "action": "sua-doi",
+    "target_document": "09/2016/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 2 Điều 16"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 Điều 16 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 5",
+    "action": "bo-sung",
+    "target_document": "09/2016/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 2 Điều 16"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 Điều 16 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 6",
+    "action": "sua-doi",
+    "target_document": "09/2016/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 21"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 21 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 6",
+    "action": "bo-sung",
+    "target_document": "09/2016/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 21"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 21 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 7",
+    "action": "sua-doi",
+    "target_document": "09/2016/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm d khoản 2 Điều 23"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi điểm d khoản 2 Điều 23 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 8",
+    "action": "sua-doi",
+    "target_document": "09/2016/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 3 Điều 25"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi khoản 3 Điều 25 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 9",
+    "action": "sua-doi",
+    "target_document": "09/2016/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 26"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 26 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 9",
+    "action": "bo-sung",
+    "target_document": "09/2016/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 26"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 26 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 10",
+    "action": "sua-doi",
+    "target_document": "09/2016/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "tên Điều 27",
+     "khoản 1 Điều 27"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi tên điều và khoản 1 Điều 27 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 11",
+    "action": "sua-doi",
+    "target_document": "09/2016/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 28"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 28 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 11",
+    "action": "bo-sung",
+    "target_document": "09/2016/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 28"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 28 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 12",
+    "action": "sua-doi",
+    "target_document": "09/2016/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 4 Điều 30"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi khoản 4 Điều 30 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 13",
+    "action": "sua-doi",
+    "target_document": "09/2016/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 3 Điều 39"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi khoản 3 Điều 39 như sau:"
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "loai": "gop_sai",
+    "ghi_chu": "Do ngoặc kép không đóng ở điểm a mới, khoản 3, 4, 5 của Điều 1 bị gộp vào Điều 1 Khoản 2; khoản 3, 4, 5 không có đơn vị riêng."
+   },
+   {
+    "source_path": "Điều 1 Khoản 2 điểm a",
+    "loai": "nhan_sai_dieu",
+    "ghi_chu": "Các 'Điều 1 Khoản 2 điểm a..e' thực chất là điểm a-e của khoản 2 Điều 16 mới (nội dung trong ngoặc kép của khoản 5), bị nhận sai là điểm của khoản 2."
+   },
+   {
+    "source_path": "Điều 1 Khoản 7",
+    "loai": "gop_sai",
+    "ghi_chu": "Do ngoặc kép không đóng ở điểm d mới, khoản 8, 9, 10 của Điều 1 bị gộp vào Điều 1 Khoản 7; khoản 8, 9, 10 không có đơn vị riêng."
+   },
+   {
+    "source_path": "Điều 1 Khoản 7 điểm a",
+    "loai": "nhan_sai_dieu",
+    "ghi_chu": "'Điều 1 Khoản 7 điểm a, b, c' là điểm a-c của khoản 3 Điều 25 mới (nội dung trong ngoặc kép của khoản 8), bị nhận sai là điểm của khoản 7."
+   }
+  ],
+  "ghi_chu": "Sửa đổi, bổ sung Quy chế làm việc kèm theo QĐ 09/2016/QĐ-UBND. Quan hệ của khoản 3, 4, 5, 8, 9, 10 ghi theo toàn văn vì parser gộp sai."
+ },
+ {
+  "doc_id": "613989",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công bố danh mục TTHC sửa đổi, bổ sung. Dòng bảng ghi 'Sửa đổi tên TTHC...' nhưng không nêu văn bản đích (cột 'Tên VBQPPL sửa đổi, bổ sung' là căn cứ QĐ 1613/QĐ-BYT). Điều 3 chỉ nói danh mục tại QĐ 1381/QĐ-UBND không bị bãi bỏ giữ nguyên hiệu lực: không phải hành động."
+ }
+]

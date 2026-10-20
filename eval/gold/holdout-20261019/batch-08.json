@@ -1,0 +1,523 @@
+[
+ {
+  "doc_id": "413436",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "45/2016/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA QUY CHẾ THEO DÕI, ĐÔN ĐỐC, KIỂM TRA VIỆC THỰC HIỆN NHIỆM VỤ DO ỦY BAN NHÂN DÂN TỈNH, CHỦ TỊCH ỦY BAN NHÂN DÂN TỈNH GIAO BAN HÀNH KÈM THEO QUYẾT ĐỊNH SỐ 45/2016/QĐ-UBND NGÀY 30 THÁNG 12 NĂM 2016"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "45/2016/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA QUY CHẾ THEO DÕI, ĐÔN ĐỐC, KIỂM TRA VIỆC THỰC HIỆN NHIỆM VỤ DO ỦY BAN NHÂN DÂN TỈNH, CHỦ TỊCH ỦY BAN NHÂN DÂN TỈNH GIAO BAN HÀNH KÈM THEO QUYẾT ĐỊNH SỐ 45/2016/QĐ-UBND NGÀY 30 THÁNG 12 NĂM 2016"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "45/2016/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 1 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Khoản 1 Điều 1 được sửa đổi, bổ sung như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "45/2016/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 1 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Khoản 1 Điều 1 được sửa đổi, bổ sung như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "45/2016/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 2 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Khoản 2 Điều 3 được sửa đổi như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "sua-doi",
+    "target_document": "45/2016/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 4"
+    ],
+    "doi_tuong": null,
+    "evidence": "Điều 4 được sửa đổi, bổ sung như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "bo-sung",
+    "target_document": "45/2016/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 4"
+    ],
+    "doi_tuong": null,
+    "evidence": "Điều 4 được sửa đổi, bổ sung như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 4",
+    "action": "sua-doi",
+    "target_document": "45/2016/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 1 Điều 5",
+     "khoản 2 Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Khoản 1 và Khoản 2 Điều 5 được sửa đổi, bổ sung như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 4",
+    "action": "bo-sung",
+    "target_document": "45/2016/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 1 Điều 5",
+     "khoản 2 Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Khoản 1 và Khoản 2 Điều 5 được sửa đổi, bổ sung như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 5",
+    "action": "sua-doi",
+    "target_document": "45/2016/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 1 Điều 6",
+     "khoản 2 Điều 6"
+    ],
+    "doi_tuong": null,
+    "evidence": "Khoản 1 và Khoản 2 Điều 6 được sửa đổi, bổ sung như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 5",
+    "action": "bo-sung",
+    "target_document": "45/2016/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 1 Điều 6",
+     "khoản 2 Điều 6"
+    ],
+    "doi_tuong": null,
+    "evidence": "Khoản 1 và Khoản 2 Điều 6 được sửa đổi, bổ sung như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 6",
+    "action": "bo-sung",
+    "target_document": "45/2016/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 3 Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "Khoản 3 Điều 7 được bổ sung như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 7 điểm a",
+    "action": "sua-doi",
+    "target_document": "45/2016/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm a khoản 1 Điều 9"
+    ],
+    "doi_tuong": null,
+    "evidence": "Điểm a Khoản 1 được sửa đổi như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 7 điểm b",
+    "action": "bo-sung",
+    "target_document": "45/2016/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm d khoản 1 Điều 9"
+    ],
+    "doi_tuong": null,
+    "evidence": "Điểm d Khoản 1 được bổ sung:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 8",
+    "action": "bo-sung",
+    "target_document": "45/2016/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 4 Điều 12"
+    ],
+    "doi_tuong": null,
+    "evidence": "Khoản 4 Điều 12 được bổ sung như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 9",
+    "action": "sua-doi",
+    "target_document": "45/2016/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 2 Điều 19"
+    ],
+    "doi_tuong": null,
+    "evidence": "Khoản 2 Điều 19 được sửa đổi như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 10",
+    "action": "sua-doi",
+    "target_document": "45/2016/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 1 Điều 20",
+     "Điều 21"
+    ],
+    "doi_tuong": null,
+    "evidence": "Khoản 1 Điều 20, Điều 21 được sửa đổi như sau:"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Khoản 7: câu dẫn 'Điều 9 được sửa đổi, bổ sung' được thực hiện qua điểm a, b nên ghi ở điểm. Khoản 4 điểm a, b chỉ là nội dung mới trong ngoặc kép; hành động ở câu dẫn khoản 4. Khoản 10 nêu cả Điều 21 nhưng chỉ có nội dung khoản 1 Điều 20."
+ },
+ {
+  "doc_id": "127065",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "39/2004/QĐ-BGTVT",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG ĐỊNH MỨC KINH TẾ KỸ THUẬT QUẢN LÝ, BẢO TRÌ ĐƯỜNG THỦY NỘI ĐỊA BAN HÀNH KÈM THEO QUYẾT ĐỊNH SỐ 39/2004/QĐ-BGTVT NGÀY 31 THÁNG 12 NĂM 2004 CỦA BỘ TRƯỞNG BỘ GIAO THÔNG VẬN TẢI"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "39/2004/QĐ-BGTVT",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG ĐỊNH MỨC KINH TẾ KỸ THUẬT QUẢN LÝ, BẢO TRÌ ĐƯỜNG THỦY NỘI ĐỊA BAN HÀNH KÈM THEO QUYẾT ĐỊNH SỐ 39/2004/QĐ-BGTVT NGÀY 31 THÁNG 12 NĂM 2004 CỦA BỘ TRƯỞNG BỘ GIAO THÔNG VẬN TẢI"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "thay-cum-tu",
+    "target_document": "39/2004/QĐ-BGTVT",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "tên các cơ quan quản lý đường thủy nội địa",
+    "evidence": "Trạm Quản lý đường sông, Đoạn Quản lý đường sông, Chi cục Đường sông, Cục Đường sông Việt Nam được sửa thành Trạm Quản lý đường thủy nội địa, Đơn vị Quản lý đường thủy nội địa, Chi cục Đường thủy nội địa khu vực, Cục Đường thủy nội địa Việt Nam."
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "39/2004/QĐ-BGTVT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 4 Chương I"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi khoản 4, Chương I như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "sua-doi",
+    "target_document": "39/2004/QĐ-BGTVT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 1 Mục I Phần A Chương II",
+     "khoản 2 Mục I Phần A Chương II",
+     "khoản 3 Mục I Phần A Chương II"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1, 2, 3 mục I phần A Chương II như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "bo-sung",
+    "target_document": "39/2004/QĐ-BGTVT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 1 Mục I Phần A Chương II",
+     "khoản 2 Mục I Phần A Chương II",
+     "khoản 3 Mục I Phần A Chương II"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1, 2, 3 mục I phần A Chương II như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 4",
+    "action": "bo-sung",
+    "target_document": "39/2004/QĐ-BGTVT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm 2.6 khoản 2 Mục II Phần A Chương II"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung điểm 2.6 khoản 2 mục II phần A Chương II như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 5",
+    "action": "sua-doi",
+    "target_document": "39/2004/QĐ-BGTVT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phần B Chương II"
+    ],
+    "doi_tuong": "một số hạng mục công việc",
+    "evidence": "Điều chỉnh, bổ sung một số hạng mục công việc tại phần B Chương II như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 5",
+    "action": "bo-sung",
+    "target_document": "39/2004/QĐ-BGTVT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phần B Chương II"
+    ],
+    "doi_tuong": "một số hạng mục công việc",
+    "evidence": "Điều chỉnh, bổ sung một số hạng mục công việc tại phần B Chương II như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 6",
+    "action": "bo-sung",
+    "target_document": "39/2004/QĐ-BGTVT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 23 Mục II Phần B Chương III",
+     "khoản 3 Mục III Phần B Chương III"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung khoản 23 mục II và khoản 3 mục III phần B Chương III như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 7",
+    "action": "bo-sung",
+    "target_document": "39/2004/QĐ-BGTVT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục I"
+    ],
+    "doi_tuong": "Phụ lục danh mục phân loại đường thủy nội địa quốc gia quản lý",
+    "evidence": "Bổ sung mục I, Phụ lục danh mục phân loại đường thủy nội địa quốc gia quản lý như sau:"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Khoản 1 đổi tên cơ quan ('được sửa thành') ghi là thay-cum-tu; có thể coi là sua-doi. Khoản 5 'Điều chỉnh' ghi sua-doi. Khoản 7: phụ lục đích không có số, chỉ nêu tên. QĐ 970/QĐ-BGTVT chỉ được nêu 'đã được công bố tại', không phải đích. Phụ lục I-III là nội dung mới, không có chữ hành động lên văn bản khác."
+ },
+ {
+  "doc_id": "393183",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Đổi tên Hội và công nhận Điều lệ (sửa đổi, bổ sung); không nêu văn bản đích có số hiệu nào bị sửa đổi hoặc thay thế. Chữ 'sửa đổi, bổ sung' trong Điều lệ chỉ là thẩm quyền."
+ },
+ {
+  "doc_id": "389301",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "bai-bo",
+    "target_document": "44/2016/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "VỀ VIỆC BÃI BỎ CÁC QUYẾT ĐỊNH CỦA UBND TỈNH: SỐ 44/2016/QĐ-UBND NGÀY 17/11/2016; SỐ 11/2017/QĐ-UBND NGÀY 23/5/2017; SỐ 31/2017/QĐ-UBND NGÀY 25/9/2017"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bai-bo",
+    "target_document": "11/2017/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "VỀ VIỆC BÃI BỎ CÁC QUYẾT ĐỊNH CỦA UBND TỈNH: SỐ 44/2016/QĐ-UBND NGÀY 17/11/2016; SỐ 11/2017/QĐ-UBND NGÀY 23/5/2017; SỐ 31/2017/QĐ-UBND NGÀY 25/9/2017"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bai-bo",
+    "target_document": "31/2017/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "VỀ VIỆC BÃI BỎ CÁC QUYẾT ĐỊNH CỦA UBND TỈNH: SỐ 44/2016/QĐ-UBND NGÀY 17/11/2016; SỐ 11/2017/QĐ-UBND NGÀY 23/5/2017; SỐ 31/2017/QĐ-UBND NGÀY 25/9/2017"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bai-bo",
+    "target_document": "44/2016/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 44/2016/QĐ-UBND ngày 17/11/2016 của UBND tỉnh về việc ban hành Quy chế Bảo vệ môi trường làng nghề, khu dân cư, cụm công nghiệp và khu kinh doanh dịch vụ làng nghề trên địa bàn tỉnh Bắc Ninh."
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "11/2017/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 11/2017/QĐ-UBND ngày 23/5/2017 của UBND tỉnh về việc ban hành Quy định trách nhiệm người đứng đầu trong công tác bảo vệ môi trường trên địa bàn tỉnh Bắc Ninh."
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "bai-bo",
+    "target_document": "31/2017/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 31/2017/QĐ-UBND ngày 25/9/2017 của UBND tỉnh Bắc Ninh về việc ban hành Quy định trách nhiệm người đứng đầu các cơ quan đơn vị để xảy ra tình trạng khai thác, tập kết, vận chuyển trái phép về cát, sỏi lòng sông, đất đá, đất sét, các loại vật liệu và khoáng sản khác trên địa bàn tỉnh Bắc Ninh."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Hành động 'Bãi bỏ' nằm ở tên Điều 1; mỗi khoản nêu một quyết định đích."
+ },
+ {
+  "doc_id": "350100",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "bai-bo",
+    "target_document": "19/2015/CT-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "BÃI BỎ CHỈ THỊ SỐ 19/2015/CT-UBND NGÀY 17 THÁNG 9 NĂM 2015 CỦA ỦY BAN NHÂN DÂN TỈNH VỀ TĂNG CƯỜNG CÔNG TÁC KIỂM TRA VÀ XỬ LÝ VĂN BẢN QUY PHẠM PHÁP LUẬT TRÊN ĐỊA BÀN TỈNH NINH THUẬN"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bai-bo",
+    "target_document": "19/2015/CT-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ Chỉ thị số 19/2015/CT-UBND ngày 17 tháng 9 năm 2015 của Ủy ban nhân dân tỉnh về tăng cường công tác kiểm tra và xử lý văn bản quy phạm pháp luật trên địa bàn tỉnh Ninh Thuận."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": ""
+ },
+ {
+  "doc_id": "662397",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "bai-bo",
+    "target_document": "44/2022/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Hội đồng nhân dân ban hành Nghị quyết bãi bỏ Nghị quyết số 44/2022/NQ-HĐND ngày 09 tháng 12 năm 2022 của Hội đồng nhân dân tỉnh Gia Lai"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bai-bo",
+    "target_document": "44/2022/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ Nghị quyết số 44/2022/NQ-HĐND ngày 09 tháng 12 năm 2022 của Hội đồng nhân dân tỉnh Gia Lai"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Phần đầu: tên văn bản ('BÃI BỎ NGHỊ QUYẾT SỐ 44/2022/NQ-HĐND...') và lời dẫn cùng hành động, ghi một quan hệ. Điều 1 'bãi bỏ toàn bộ' cả văn bản nên vi_tri rỗng. Nội dung Điều 1 ghi sai chữ '44/2022/NQ-HĐNĐ'."
+ },
+ {
+  "doc_id": "102593",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "bai-bo",
+    "target_document": "3138/TCHQ-GSQL",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "địa điểm kiểm tra hải quan của Đại lý DHL",
+    "evidence": "V/v bãi bỏ địa điểm kiểm tra hải quan của Đại lý DHL tại công văn số 3138/TCHQ-GSQL ngày 10/6/1999 của Tổng cục Hải quan"
+   },
+   {
+    "source_path": "Nội dung",
+    "action": "bai-bo",
+    "target_document": "3138/TCHQ-GSQL",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "nội dung công nhận địa điểm kiểm tra hải quan của Đại lý DHL",
+    "evidence": "Tổng cục Hải quan bãi bỏ nội dung công nhận địa điểm kiểm tra hải quan của Đại lý DHL tại công văn số 3138/TCHQ-GSQL ngày 10/6/1999 của Tổng cục Hải quan"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn không chia Điều; đơn vị duy nhất 'Nội dung' gồm cả phần đầu. Bãi bỏ một phần nội dung nêu bằng tên, không có vị trí. Công văn 373/TCHQ-GSQL chỉ được nhắc 'Tiếp theo', không phải đích."
+ },
+ {
+  "doc_id": "237527",
+  "relations": [
+   {
+    "source_path": "Điều 1",
+    "action": "bai-bo",
+    "target_document": "3498/2005/QĐ-UB",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ Quyết định số 3498/2005/QĐ-UB ngày 04 tháng 8 năm 2005 của Ủy ban nhân dân quận Bình Tân về việc thành lập Hội đồng thẩm định đề án Chương trình hỗ trợ lãi vay cho hộ nông dân phát triển sản xuất nông nghiệp trên địa bàn quận Bình Tân."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên 'BÃI BỎ VĂN BẢN QUY PHẠM PHÁP LUẬT' không nêu văn bản đích nên không ghi Phần đầu. Điều 2 (hiệu lực) không có trong don_vi nhưng không có hành động."
+ },
+ {
+  "doc_id": "475858",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "bai-bo",
+    "target_document": "94/2006/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "BÃI BỎ QUYẾT ĐỊNH SỐ 94/2006/QĐ-UBND NGÀY 19 THÁNG 9 NĂM 2006 CỦA ỦY BAN NHÂN DÂN TỈNH BAN HÀNH QUY CHẾ TỔ CHỨC VÀ HOẠT ĐỘNG CỦA TRUNG TÂM KỸ THUẬT ĐỊA CHÍNH THUỘC SỞ TÀI NGUYÊN VÀ MÔI TRƯỜNG TỈNH BÌNH PHƯỚC"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bai-bo",
+    "target_document": "94/2006/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ Quyết định số 94/2006/QĐ-UBND ngày 19 tháng 9 năm 2006 của Ủy ban nhân dân tỉnh ban hành Quy chế tổ chức và hoạt động của Trung tâm Kỹ thuật Địa chính thuộc Sở Tài nguyên và Môi trường tỉnh Bình Phước."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "QĐ 1218-QĐ/TU, 999-QĐ/TU chỉ là lý do, không phải đích."
+ },
+ {
+  "doc_id": "628643",
+  "relations": [
+   {
+    "source_path": "Điều 4 Khoản 2",
+    "action": "thay-the",
+    "target_document": "15/2024/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này thay thế Quyết định số 15/2024/QĐ-UBND ngày 11 tháng 6 năm 2024 của Ủy ban nhân dân tỉnh Cao Bằng"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 3 chuyển tiếp chỉ cho tiếp tục áp dụng QĐ 15/2024/QĐ-UBND, không phải hành động."
+ }
+]

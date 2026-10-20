@@ -1,0 +1,14 @@
+[
+ {"doc_id": "38875", "la_vbqppl": true, "cap_hieu_luc": 6, "ngay_hieu_luc": "1994-09-08", "ngay_het_hieu_luc": null,
+  "ngay_hoi_to": null, "hieu_luc_rieng": [],
+  "trich": {"ngay_hieu_luc": "Quyết định này có hiệu lực kể từ ngày ban hành.",
+            "la_vbqppl": "Quyết định của Thủ tướng Chính phủ chứa quy tắc chung (muối iốt phải sản xuất theo tiêu chuẩn, ghi nhãn; cấp, trợ giá muối iốt), áp dụng nhiều lần.",
+            "cap_hieu_luc": "Quyết định của Thủ tướng Chính phủ → cấp 6."},
+  "chua_chac": ["la_vbqppl"]},
+ {"doc_id": "37504", "la_vbqppl": false, "cap_hieu_luc": null, "ngay_hieu_luc": "1988-02-29", "ngay_het_hieu_luc": null,
+  "ngay_hoi_to": null, "hieu_luc_rieng": [],
+  "trich": {"ngay_hieu_luc": "Không có câu hiệu lực; la_vbqppl = false → ngay_ban_hanh.",
+            "la_vbqppl": "Quyết định cá biệt chia tách, phân vạch địa giới hành chính một số xã, thực hiện một lần, không chứa quy tắc xử sự chung.",
+            "cap_hieu_luc": "null vì la_vbqppl = false."},
+  "chua_chac": ["la_vbqppl", "cap_hieu_luc", "ngay_hieu_luc"]}
+]

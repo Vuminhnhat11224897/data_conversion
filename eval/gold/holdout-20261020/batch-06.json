@@ -1,0 +1,117 @@
+[
+ {
+  "doc_id": "123096",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quyết định phê duyệt kế hoạch EMP; không có tác động lên văn bản khác."
+ },
+ {
+  "doc_id": "444795",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quyết định công bố danh mục văn bản hết hiệu lực, ngưng hiệu lực năm 2019 (kết quả hệ thống hóa). Các dòng chỉ ghi lý do hết hiệu lực do văn bản khác (Nghị quyết 111/2019, Quyết định 23/2019…); văn bản này không tự bãi bỏ hay tuyên bố hết hiệu lực. Không ghi quan hệ."
+ },
+ {
+  "doc_id": "458532",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn trả lời về mã HS; chỉ trích dẫn Thông tư 65/2017/TT-BTC. Không có tác động."
+ },
+ {
+  "doc_id": "336843",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Nghị quyết quy định lệ phí CMND; không có tác động lên văn bản khác."
+ },
+ {
+  "doc_id": "559801",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quyết định phê duyệt kế hoạch tuyển sinh; không có tác động."
+ },
+ {
+  "doc_id": "101382",
+  "relations": [
+   {
+    "source_path": "Điều 3",
+    "action": "thay-the",
+    "target_document": "45/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "thay thế Quyết định số 45/QĐ-UBND ngày 15/01/2009 của UBND Thành phố"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 3 thay thế toàn bộ Quyết định 45/QĐ-UBND."
+ },
+ {
+  "doc_id": "81166",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn trả lời, chỉ căn cứ Quyết định 704/2003/QĐ-BKH. Không có tác động."
+ },
+ {
+  "doc_id": "243160",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 5 chỉ dẫn áp dụng Thông tư 22/2011, Nghị định 105/2006, 119/2010, Thông tư 15/2012 (\"được thực hiện theo\"), không phải tác động. Văn bản không tự nói hướng dẫn hay quy định chi tiết văn bản nào."
+ },
+ {
+  "doc_id": "528191",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn trả lời Hiệp hội Dệt May; nêu kiến nghị sửa đổi Nghị định 18/2021/NĐ-CP (đề nghị của người khác), không phải tác động."
+ },
+ {
+  "doc_id": "41783",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "huong-dan",
+    "target_document": "957/1997/QĐ-TTg",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "HƯỚNG DẪN VIỆC THỰC HIỆN QUYẾT ĐỊNH SỐ 957/1997/QĐ-TTG NGÀY 11/11/1997 CỦA THỦ TƯỚNG CHÍNH PHỦ"
+   },
+   {
+    "source_path": "Mục II",
+    "action": "sua-doi",
+    "target_document": "163/NG/TT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a điểm 1 Mục II"
+    ],
+    "doi_tuong": null,
+    "evidence": "Đoạn đầu điểm (1) (a) Mục II được sửa lại như sau:"
+   },
+   {
+    "source_path": "Mục II",
+    "action": "sua-doi",
+    "target_document": "02/TT-BNV",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thủ tục cấp, gia hạn hộ chiếu phổ thông thực hiện theo hướng dẫn tại Thông tư số 02/TT-BNV (A18) ngày 30/4/1995 của Bộ Nội vụ với một số điểm điều chỉnh, bổ sung cụ thể sau đây:"
+   },
+   {
+    "source_path": "Mục II",
+    "action": "bo-sung",
+    "target_document": "02/TT-BNV",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thủ tục cấp, gia hạn hộ chiếu phổ thông thực hiện theo hướng dẫn tại Thông tư số 02/TT-BNV (A18) ngày 30/4/1995 của Bộ Nội vụ với một số điểm điều chỉnh, bổ sung cụ thể sau đây:"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên văn bản (trong toàn văn; phan_dau của gói bị cắt) nêu hướng dẫn Quyết định 957/1997/QĐ-TTg; lời dẫn \"Thực hiện Quyết định số 957/1997/QĐ-TTg … hướng dẫn như sau\" cùng hành động, gộp vào quan hệ Phần đầu. Mục II điểm 1: sửa đoạn đầu điểm (1)(a) Mục II Thông tư 163/NG/TT (đích lấy từ câu trước). Mục II điểm 2: \"điều chỉnh, bổ sung\" hướng dẫn của Thông tư 02/TT-BNV, không nêu vị trí; ghi sua-doi + bo-sung, có thể tranh luận. Mục VIII khoản 4 \"Những hướng dẫn trước đây … trái với Thông tư này đều bãi bỏ\" là câu chung, không ghi."
+ },
+ {
+  "doc_id": "686215",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn đề xuất phương án nghỉ Tết; không có tác động."
+ }
+]

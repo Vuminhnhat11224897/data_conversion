@@ -1,0 +1,211 @@
+[
+ {
+  "doc_id": "109171",
+  "relations": [
+   {
+    "source_path": "Mục PHẦN I",
+    "action": "sua-doi",
+    "target_document": "112/2003/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG NGHỊ QUYẾT SỐ 112/2003/NQ-HĐND NGÀY 20/8/2003 CỦA HĐND TỈNH KHOÁ VI KỲ HỌP THỨ 9 VÀ NGHỊ QUYẾT SỐ 02/2006/NQ-HĐND NGÀY 17/4/2006 CỦA HĐND TỈNH KHOÁ VII KỲ HỌP CHUYÊN ĐỀ THÁNG 4/2006"
+   },
+   {
+    "source_path": "Mục PHẦN I",
+    "action": "bo-sung",
+    "target_document": "112/2003/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG NGHỊ QUYẾT SỐ 112/2003/NQ-HĐND NGÀY 20/8/2003 CỦA HĐND TỈNH KHOÁ VI KỲ HỌP THỨ 9 VÀ NGHỊ QUYẾT SỐ 02/2006/NQ-HĐND NGÀY 17/4/2006 CỦA HĐND TỈNH KHOÁ VII KỲ HỌP CHUYÊN ĐỀ THÁNG 4/2006"
+   },
+   {
+    "source_path": "Mục PHẦN I",
+    "action": "sua-doi",
+    "target_document": "02/2006/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG NGHỊ QUYẾT SỐ 112/2003/NQ-HĐND NGÀY 20/8/2003 CỦA HĐND TỈNH KHOÁ VI KỲ HỌP THỨ 9 VÀ NGHỊ QUYẾT SỐ 02/2006/NQ-HĐND NGÀY 17/4/2006 CỦA HĐND TỈNH KHOÁ VII KỲ HỌP CHUYÊN ĐỀ THÁNG 4/2006"
+   },
+   {
+    "source_path": "Mục PHẦN I",
+    "action": "bo-sung",
+    "target_document": "02/2006/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG NGHỊ QUYẾT SỐ 112/2003/NQ-HĐND NGÀY 20/8/2003 CỦA HĐND TỈNH KHOÁ VI KỲ HỌP THỨ 9 VÀ NGHỊ QUYẾT SỐ 02/2006/NQ-HĐND NGÀY 17/4/2006 CỦA HĐND TỈNH KHOÁ VII KỲ HỌP CHUYÊN ĐỀ THÁNG 4/2006"
+   },
+   {
+    "source_path": "Mục PHẦN I",
+    "action": "bai-bo",
+    "target_document": "112/2003/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "mức thu phí thẩm định cấp quyền sử dụng đất đối với đất sử dụng vào mục đích khác",
+    "evidence": "Bỏ mức thu đối với đất sử dụng vào mục đích khác vì không phù hợp với Thông tư số 97/2006/TT-BTC ngày 16 tháng 10 năm 2006 của Bộ Tài chính."
+   },
+   {
+    "source_path": "Mục PHẦN I",
+    "action": "bai-bo",
+    "target_document": "02/2006/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "mức thu phí thẩm định cấp quyền sử dụng đất đối với đất sử dụng vào mục đích khác",
+    "evidence": "Bỏ mức thu đối với đất sử dụng vào mục đích khác vì không phù hợp với Thông tư số 97/2006/TT-BTC ngày 16 tháng 10 năm 2006 của Bộ Tài chính."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên Phần I nêu 2 NQ đích (112/2003, 02/2006). Mục V.1 'Bỏ mức thu...' không nói thuộc NQ nào, nên lấy đích theo tên Phần I (ghi cả 2). Các câu 'Bổ sung mức thu...' (VI, VII, VIII, X) đã gồm trong quan hệ bo-sung/sua-doi của Phần I. Tên văn bản và lời dẫn 'Sửa đổi, bổ sung, quy định khung mức thu...' không nêu văn bản đích nên không ghi Phần đầu. Phần II là phí mới; noi_dung Phần II trong packet bị cắt ở 6000 ký tự, toàn văn đủ, không có tác động. Phần III.1 chỉ dẫn chiếu."
+ },
+ {
+  "doc_id": "257549",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công bố TTHC mới, sửa đổi, bãi bỏ; không nói thay thế, bãi bỏ văn bản nào. Packet không có toàn văn; đã đọc văn bản nguồn: Điều 2 chỉ quy định hiệu lực."
+ },
+ {
+  "doc_id": "619669",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "579/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "Kế hoạch sử dụng đất năm 2024 huyện Cẩm Xuyên",
+    "evidence": "VỀ VIỆC PHÊ DUYỆT BỔ SUNG KẾ HOẠCH SỬ DỤNG ĐẤT NĂM 2024 HUYỆN CẨM XUYÊN"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "579/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "Kế hoạch sử dụng đất năm 2024 huyện Cẩm Xuyên",
+    "evidence": "Phê duyệt bổ sung Kế hoạch sử dụng đất năm 2024 huyện Cẩm Xuyên, với các nội dung chủ yếu như sau:"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Phê duyệt bổ sung Kế hoạch sử dụng đất năm 2024 huyện Cẩm Xuyên; kế hoạch này được duyệt tại QĐ số 579 ngày 04/3/2024 (căn cứ ghi '579/QĐ/UBND'). Hành động nằm ở tên Điều 1, gắn vào Khoản 1 (danh mục công trình bổ sung); Khoản 2 chỉ là số liệu tổng hợp sau bổ sung."
+ },
+ {
+  "doc_id": "442277",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn trả lời; chỉ dẫn chiếu TT 38/2015/TT-BTC 'được sửa đổi, bổ sung tại' TT 39/2018/TT-BTC (ghi chú lịch sử), không có tác động."
+ },
+ {
+  "doc_id": "282452",
+  "relations": [
+   {
+    "source_path": "Điều 17 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "29/2011/TT-BLĐTBXH",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "Các quy định về đăng ký hoạt động dạy nghề trình độ sơ cấp nghề",
+    "evidence": "Các quy định về đăng ký hoạt động dạy nghề trình độ sơ cấp nghề quy định tại Thông tư số 29/2011/TT-BLĐTBXH ngày 24/10/2011 của Bộ trưởng Bộ Lao động - Thương binh và Xã hội Quy định về đăng ký hoạt động dạy nghề hết hiệu lực thi hành kể từ ngày Thông tư này có hiệu lực."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Packet không có toàn văn; đã đọc văn bản nguồn. 'bổ sung', 'đình chỉ' trong thân là nội dung nghiệp vụ (đăng ký bổ sung, đình chỉ hoạt động), không phải tác động lên văn bản."
+ },
+ {
+  "doc_id": "125236",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "'Danh mục bổ sung phân bón' và 'Danh mục phân bón thay thế các loại phân bón đã có trong Danh mục...' là tên danh mục; danh mục gốc không nêu số hiệu văn bản, nên không ghi quan hệ."
+ },
+ {
+  "doc_id": "512600",
+  "relations": [
+   {
+    "source_path": "Điều 10 Khoản 4",
+    "action": "thay-the",
+    "target_document": "41/2017/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị quyết này thay thế Nghị quyết số 41/2017/NQ-HĐND ngày 07 tháng 12 năm 2017 của Hội đồng nhân dân tỉnh về cơ chế khuyến khích, bảo tồn, phát triển Sâm Ngọc Linh trên địa bàn tỉnh Quảng Nam, giai đoạn 2018 - 2025."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 9 (chuyển tiếp) chỉ dẫn chiếu khoản 1, 2 Điều 5 NQ 41/2017; Điều 10 Khoản 3 là quy định chung về văn bản dẫn chiếu."
+ },
+ {
+  "doc_id": "86942",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều chỉnh dự toán xây dựng công trình bằng hệ số; chỉ áp dụng cho dự toán lập theo các Bộ đơn giá (QĐ 1662/2006, 1659/2006, 1660/2006, 2295/2006), không nói sửa đổi các QĐ đó, nên không ghi quan hệ."
+ },
+ {
+  "doc_id": "501906",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Ban hành Chương trình khung; không có tác động lên văn bản khác."
+ },
+ {
+  "doc_id": "175611",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công bố danh mục văn bản hết hiệu lực; lý do hết hiệu lực do văn bản khác thay thế, bãi bỏ hoặc hết thời hạn. Văn bản này không tự tuyên bố, nên không ghi."
+ },
+ {
+  "doc_id": "249450",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "bai-bo",
+    "target_document": "191/2012/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "VỀ VIỆC BÃI BỎ QUYẾT ĐỊNH SỐ 191/2012/QĐ-UBND NGÀY 27/6/2012 BAN HÀNH QUY ĐỊNH VỀ CẤP GIẤY CHỨNG NHẬN QUYỀN SỬ DỤNG ĐẤT, QUYỀN SỞ HỮU NHÀ Ở VÀ TÀI SẢN KHÁC GẮN LIỀN VỚI ĐẤT ĐỐI VỚI MỘT SỐ TRƯỜNG HỢP VƯỚNG MẮC, TỒN TẠI TRƯỚC NGÀY 01 THÁNG 01 NĂM 2012 CHO HỘ GIA ĐÌNH, CÁ NHÂN ĐANG SỬ DỤNG ĐẤT TRÊN ĐỊA BÀN TỈNH BẮC GIANG"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bai-bo",
+    "target_document": "191/2012/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ Quyết định số 191/2012/QĐ-UBND ngày 27/6/2012 Ban hành Quy định về cấp giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất đối với một số trường hợp vướng mắc, tồn tại trước ngày 01 tháng 01 năm 2012 cho hộ gia đình, cá nhân đang sử dụng đất trên địa bàn tỉnh Bắc Giang."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên văn bản và Điều 1 cùng bãi bỏ QĐ 191/2012/QĐ-UBND; ghi 2 quan hệ riêng."
+ },
+ {
+  "doc_id": "97782",
+  "relations": [],
+  "loi_cau_truc": [
+   {
+    "source_path": "Nội dung",
+    "loai": "gop_sai",
+    "ghi_chu": "Đơn vị 'Nội dung' gộp cả phần đầu (quốc hiệu, số hiệu, kính gửi); loi_dan lại chứa đoạn thân công văn."
+   }
+  ],
+  "ghi_chu": "Công văn trả lời; chỉ trích dẫn TT 160/2009, TT 27/2009, CV 1823/BTC-TCT, không có tác động."
+ },
+ {
+  "doc_id": "395724",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Phê duyệt kế hoạch dạy học tiếng Anh năm 2018; không có tác động lên văn bản khác."
+ },
+ {
+  "doc_id": "386202",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Kế hoạch hành động; chỉ dẫn chiếu TT 45/2014, TT 51/2014, QĐ 66/QĐ-UBND, không có tác động. noi_dung Mục IV trong packet gần giới hạn 6000 ký tự, toàn văn đủ."
+ },
+ {
+  "doc_id": "195673",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quy định mức thu học thêm; không nêu văn bản bị thay thế hoặc sửa đổi. Khoản 5 là giao thẩm quyền điều chỉnh mức thu."
+ }
+]

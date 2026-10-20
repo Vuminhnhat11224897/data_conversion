@@ -1,0 +1,78 @@
+[
+ {
+  "doc_id": "669744",
+  "la_vbqppl": false,
+  "cap_hieu_luc": null,
+  "ngay_hieu_luc": "2025-08-13",
+  "ngay_het_hieu_luc": null,
+  "ngay_hoi_to": null,
+  "hieu_luc_rieng": [],
+  "trich": {
+   "ngay_hieu_luc": "Điều 3. Quyết định này có hiệu lực thi hành kể từ ngày ký.",
+   "la_vbqppl": "Quyết định công bố thủ tục hành chính (văn bản cá biệt)",
+   "cap_hieu_luc": "null vì la_vbqppl = false"
+  },
+  "chua_chac": []
+ },
+ {
+  "doc_id": "487140",
+  "la_vbqppl": false,
+  "cap_hieu_luc": null,
+  "ngay_hieu_luc": "2021-06-02",
+  "ngay_het_hieu_luc": null,
+  "ngay_hoi_to": null,
+  "hieu_luc_rieng": [],
+  "trich": {
+   "ngay_hieu_luc": "Điều 2. Quyết định này có hiệu lực thi hành kể từ ngày ký.",
+   "la_vbqppl": "Quyết định công bố thủ tục hành chính (văn bản cá biệt)",
+   "cap_hieu_luc": "null vì la_vbqppl = false"
+  },
+  "chua_chac": []
+ },
+ {
+  "doc_id": "584225",
+  "la_vbqppl": false,
+  "cap_hieu_luc": null,
+  "ngay_hieu_luc": "2023-10-26",
+  "ngay_het_hieu_luc": null,
+  "ngay_hoi_to": null,
+  "hieu_luc_rieng": [],
+  "trich": {
+   "ngay_hieu_luc": "Không có câu hiệu lực; la_vbqppl = false nên lấy ngay_ban_hanh",
+   "la_vbqppl": "Công văn hành chính trả lời/hướng dẫn, không phải VBQPPL (Cục Quản lý Dược đình chỉ, thu hồi một lô mỹ phẩm, cá biệt)",
+   "cap_hieu_luc": "null vì la_vbqppl = false"
+  },
+  "chua_chac": []
+ },
+ {
+  "doc_id": "55308",
+  "la_vbqppl": false,
+  "cap_hieu_luc": null,
+  "ngay_hieu_luc": "2007-09-17",
+  "ngay_het_hieu_luc": null,
+  "ngay_hoi_to": null,
+  "hieu_luc_rieng": [],
+  "trich": {
+   "ngay_hieu_luc": "Điều 2: Quyết định này có hiệu lực kể từ ngày ký.",
+   "la_vbqppl": "Quyết định cá biệt: tạm đình chỉ công tác một cá nhân",
+   "cap_hieu_luc": "null vì la_vbqppl = false"
+  },
+  "chua_chac": []
+ },
+ {
+  "doc_id": "655647",
+  "la_vbqppl": false,
+  "cap_hieu_luc": null,
+  "ngay_hieu_luc": "2025-04-11",
+  "ngay_het_hieu_luc": null,
+  "ngay_hoi_to": "2025-04-11",
+  "hieu_luc_rieng": [],
+  "trich": {
+   "ngay_hieu_luc": "Điều 3. Quyết định này có hiệu lực kể từ ngày 11/4/2025.",
+   "ngay_hoi_to": "Điều 3. Quyết định này có hiệu lực kể từ ngày 11/4/2025. (ngày ban hành 18/4/2025, ngày hiệu lực trước ngày ban hành)",
+   "la_vbqppl": "Quyết định công bố thủ tục hành chính (văn bản cá biệt) (công bố chuẩn hóa TTHC)",
+   "cap_hieu_luc": "null vì la_vbqppl = false"
+  },
+  "chua_chac": []
+ }
+]

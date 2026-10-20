@@ -1,0 +1,195 @@
+[
+ {
+  "doc_id": "210832",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "hop-nhat",
+    "target_document": "226/2010/TT-BTC",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thông tư số 226/2010/TT-BTC ngày 31 tháng 12 năm 2010 của Bộ Tài chính quy định chỉ tiêu an toàn tài chính và biện pháp xử lý đối với các tổ chức kinh doanh chứng khoán không đáp ứng chỉ tiêu an toàn tài chính, có hiệu lực kể từ ngày 01 tháng 4 năm 2011, được sửa đổi, bổ sung bởi:"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "hop-nhat",
+    "target_document": "165/2012/TT-BTC",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thông tư số 165/2012/TT-BTC ngày 09 tháng 10 năm 2012 của Bộ Tài chính sửa đổi, bổ sung một số điều của Thông tư số 226/2010/TT-BTC ngày 31 tháng 12 năm 2010 của Bộ Tài chính quy định chỉ tiêu an toàn tài chính và biện pháp xử lý đối với các tổ chức kinh doanh chứng khoán không đáp ứng chỉ tiêu an toàn tài chính, có hiệu lực kể từ ngày 01 tháng 12 năm 2012."
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 16 Khoản 3",
+    "loai": "gop_sai",
+    "ghi_chu": "Khoản 4 Điều 16 (bắt đầu '4.8 Trong thời gian tổ chức kinh doanh chứng khoán tạm ngừng hoạt động...', số 8 là chú thích) bị gộp vào cuối khoản 3."
+   },
+   {
+    "source_path": "Điều 16 Khoản 3 điểm f",
+    "loai": "gop_sai",
+    "ghi_chu": "Điểm f chứa cả toàn bộ khoản 4 Điều 16 (các điểm a-e của khoản 4)."
+   }
+  ],
+  "ghi_chu": "Văn bản hợp nhất: chỉ ghi hop-nhat (Thông tư gốc 226/2010 và Thông tư sửa đổi 165/2012). Câu 'được sửa đổi, bổ sung bởi' là lịch sử, không ghi sua-doi/bo-sung. Điều 18 Khoản 4 bãi bỏ quy định 'tại các văn bản hướng dẫn trước đây' không nêu văn bản đích nên không ghi. Các đơn vị còn lại chỉ chứa từ 'bổ sung', 'thay thế', 'hợp nhất', 'gia hạn'... theo nghĩa thường."
+ },
+ {
+  "doc_id": "81247",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Không có tác động trực tiếp. 'Thực hiện ý kiến chỉ đạo tại công văn số 1378/VPCP-KTTH ... Bộ Tài chính hướng dẫn thực hiện như sau' là căn cứ/chỉ đạo, không hướng dẫn một văn bản quy phạm; 'áp dụng chính thức mức giá theo thông báo số 4545/TB-TCHQ' là áp dụng, không phải hành động trong danh sách."
+ },
+ {
+  "doc_id": "452082",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn trả lời; chỉ trích dẫn Nghị định 218/2013/NĐ-CP, Thông tư 78/2014/TT-BTC, Nghị quyết 81/2017/NQ-HĐND. Không có tác động."
+ },
+ {
+  "doc_id": "40744",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "huong-dan",
+    "target_document": "105/CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 1 Mục V",
+     "Điều 2 Mục V"
+    ],
+    "doi_tuong": null,
+    "evidence": "HƯỚNG DẪN BỔ SUNGTHỰC HIỆN ĐIỀU 1-2 MỤC V NGHỊ ĐỊNH 105/CP NGÀY 22/6/1965 CỦA HỘI ĐỒNG CHÍNH PHỦ (NAY LÀ CHÍNH PHỦ) VỀ CHẾ ĐỘ ĐỐI VỚI VỢ (CHỒNG) CÁN BỘ NGOẠI GIAO ĐƯỢC CỬ ĐI CÔNG TÁC DÀI HẠN Ở NƯỚC NGOÀI"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "'Những hướng dẫn trước đây trái với Thông tư này đều bãi bỏ' không nêu văn bản đích nên không ghi. Câu 'điểm 2 nêu trong Thông tư 76 TT/LB ... và các điểm khác nêu trong Thông tư 19/TT/LB ... vẫn còn hiệu lực' chỉ xác nhận hiệu lực, không tác động trực tiếp."
+ },
+ {
+  "doc_id": "645275",
+  "relations": [
+   {
+    "source_path": "Điều 1",
+    "action": "bai-bo",
+    "target_document": "24/2016/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [
+     "toàn bộ"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ Nghị quyết số 24/2016/NQ-HĐND ngày 04 tháng 8 năm 2016 của Hội đồng nhân dân tỉnh về thu tiền bảo vệ, phát triển đất trồng lúa trên địa bàn tỉnh Nghệ An."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên văn bản nêu cùng hành động; chỉ ghi một lần ở Điều 1."
+ },
+ {
+  "doc_id": "417402",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "158/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "107 thủ tục hành chính (cấp tỉnh 83 TTHC, cấp huyện 24 TTHC) chi tiết tại Phụ lục II kèm theo Quyết định này",
+    "evidence": "Bãi bỏ 107 thủ tục hành chính (cấp tỉnh 83 TTHC, cấp huyện 24 TTHC) được ban hành tại Quyết định số 158/QĐ-UBND ngày 13/02/2018 của Chủ tịch UBND tỉnh Ninh Bình"
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "537/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "107 thủ tục hành chính (cấp tỉnh 83 TTHC, cấp huyện 24 TTHC) chi tiết tại Phụ lục II kèm theo Quyết định này",
+    "evidence": "Bãi bỏ 107 thủ tục hành chính (cấp tỉnh 83 TTHC, cấp huyện 24 TTHC) được ban hành tại Quyết định số 158/QĐ-UBND ngày 13/02/2018 của Chủ tịch UBND tỉnh Ninh Bình về việc công bố danh mục thủ tục hành chính thuộc thẩm quyền giải quyết của sở Kế hoạch và Đầu tư, UBND cấp huyện, UBND cấp xã trên địa bàn tỉnh Ninh Bình; Quyết định số 537/QĐ-UBND ngày 06/11/2018 của Chủ tịch UBND tỉnh Ninh Bình về việc công bố danh mục thủ tục hành chính thuộc thẩm quyền giải quyết của sở Kế hoạch và Đầu tư tỉnh Ninh Bình (Chi tiết tại Phụ lục II kèm theo Quyết định này)."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 1 chỉ công bố danh mục, không ghi. Điều 2 bãi bỏ TTHC đã công bố tại 2 Quyết định; câu không nói TTHC thuộc phần nào của văn bản đích nên khong_ro; 107 TTHC là tổng của cả hai văn bản đích. Không có toàn văn/Phụ lục II để tách số TTHC theo từng văn bản."
+ },
+ {
+  "doc_id": "87411",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "huong-dan",
+    "target_document": "04/2008/TT-BYT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "V/v hướng dẫn thực hiện Thông tư số 04/2008/TT-BYT ngày 12/5/2008 hướng dẫn ghi nhãn thuốc"
+   },
+   {
+    "source_path": "Mục 1",
+    "action": "huong-dan",
+    "target_document": "04/2008/TT-BYT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm 0 khoản 3 Mục I"
+    ],
+    "doi_tuong": null,
+    "evidence": "Về khái niệm xuất xứ của thuốc quy định tại điểm 0 khoản 3 phần I:"
+   },
+   {
+    "source_path": "Mục 9",
+    "action": "huong-dan",
+    "target_document": "04/2008/TT-BYT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm b khoản 9 Mục III"
+    ],
+    "doi_tuong": null,
+    "evidence": "Về cách ghi dấu hiệu lưu ý và khuyến cáo trong tờ hướng dẫn sử dụng thuốc tại điểm b khoản 9 phần III:"
+   },
+   {
+    "source_path": "Mục 10",
+    "action": "huong-dan",
+    "target_document": "04/2008/TT-BYT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Mục IV"
+    ],
+    "doi_tuong": null,
+    "evidence": "Về cách hiểu thuốc đã đưa ra lưu thông trên thị trường trước thời điểm Thông tư số 04/2008/TT-BYT có hiệu lực quy định tại khoản 2 phần IV như sau:"
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Mục 1",
+    "loai": "gop_sai",
+    "ghi_chu": "Đơn vị Mục 1 chứa cả phần đầu công văn (quốc hiệu, số hiệu, V/v, kính gửi, lời dẫn) trước nội dung mục 1."
+   }
+  ],
+  "ghi_chu": "Lời dẫn 'hướng dẫn các đơn vị triển khai cụ thể đối với một số nội dung của Thông tư này như sau:' là câu dẫn của các mục 1-12; mục 1, 9, 10 có trong don_vi và nêu vị trí cụ thể nên ghi riêng. Mục 2-8 không có trong don_vi nên không ghi. 'phần I/III/IV' của Thông tư không chia Điều ghi thành 'Mục'. 'điểm 0' chép đúng văn bản (có thể là lỗi gõ của 'điểm o'). Mục 11, 12 hướng dẫn chung, đã gộp vào quan hệ Phần đầu."
+ },
+ {
+  "doc_id": "70172",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "don_vi rỗng. Phê duyệt kế hoạch triển khai Nghị định 66/2008/NĐ-CP: 'triển khai' không phải hành động trong danh sách; Nghị định 66 chỉ là căn cứ."
+ },
+ {
+  "doc_id": "412342",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 1 chỉ công bố danh mục văn bản hết hiệu lực (do rà soát), văn bản không tự tuyên bố bãi bỏ hay hết hiệu lực văn bản nào. Không có toàn văn, danh mục kèm theo không có trong dữ liệu."
+ },
+ {
+  "doc_id": "331915",
+  "relations": [
+   {
+    "source_path": "Điều 3",
+    "action": "thay-the",
+    "target_document": "1848/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này thay thế Quyết định số 1848/QĐ-UBND ngày 19/9/2013 của UBND tỉnh Lâm Đồng về việc ban hành đơn giá để làm cơ sở lập dự toán, thanh toán, quyết toán kinh phí phòng cháy, chữa cháy rừng mùa khô 2013 -2014 trên địa bàn tỉnh Lâm Đồng"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 2 là giao nhiệm vụ hướng dẫn thực hiện, không ghi."
+ }
+]

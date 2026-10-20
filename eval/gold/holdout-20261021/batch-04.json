@@ -1,0 +1,61 @@
+[
+ {
+  "doc_id": "488746",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Kế hoạch thực hiện Quyết định 468/QĐ-TTg: không phải hành động lên văn bản khác. Phụ lục STT 14 chỉ là nhiệm vụ rà soát, đề nghị sửa đổi: không phải quan hệ."
+ },
+ {
+  "doc_id": "294172",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn trả lời, chỉ trích dẫn Thông tư 134/2008/TT-BTC và 129/2008/TT-BTC: không có quan hệ."
+ },
+ {
+  "doc_id": "374405",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "74/QĐ-VKSTC",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực thi hành kể từ ngày ký; thay thế Quyết định số 74/QĐ-VKSTC ngày 14/4/2007 của viện trưởng Viện kiểm sát nhân dân tối cao (ban hành kèm theo Quy chế về công tác văn thư trong ngành Kiểm sát nhân dân) và Quyết định số 75/QĐ-VKSTC ngày 14/4/2007 của Viện trưởng Viện kiểm sát nhân dân tối cao (ban hành kèm theo Quy chế về công tác lưu trữ trong ngành Kiểm sát nhân dân)."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "75/QĐ-VKSTC",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực thi hành kể từ ngày ký; thay thế Quyết định số 74/QĐ-VKSTC ngày 14/4/2007 của viện trưởng Viện kiểm sát nhân dân tối cao (ban hành kèm theo Quy chế về công tác văn thư trong ngành Kiểm sát nhân dân) và Quyết định số 75/QĐ-VKSTC ngày 14/4/2007 của Viện trưởng Viện kiểm sát nhân dân tối cao (ban hành kèm theo Quy chế về công tác lưu trữ trong ngành Kiểm sát nhân dân)."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Phụ lục 1 Điều 58 'các quy định trước đây về công tác văn thư, lưu trữ trái với Quy chế này đều bãi bỏ' là câu chung, không nêu văn bản: không ghi quan hệ. Các dẫn chiếu 'thực hiện theo' Thông tư 01/2011/TT-BNV, Quyết định 393/QĐ-VKSTC... không phải hành động."
+ },
+ {
+  "doc_id": "599654",
+  "relations": [
+   {
+    "source_path": "Điều 4",
+    "action": "thay-the",
+    "target_document": "11/2021/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này thay thế Quyết định số 11/2021/QĐ-UBND ngày 21 tháng 7 năm 2021 của UBND thành phố Hà Nội ban hành tiêu chuẩn, định mức sử dụng xe ô tô chuyên dùng tại các cơ quan, tổ chức, đơn vị thuộc phạm vi quản lý của thành phố Hà Nội."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": ""
+ },
+ {
+  "doc_id": "82759",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn kể lại nội dung Quyết định 01/2007/QĐ-BTS (bãi bỏ chế độ kiểm tra tăng cường tại Quyết định 29/2005/QĐ-BTS): đó là hành động của văn bản khác, không ghi."
+ }
+]

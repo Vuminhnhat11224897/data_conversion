@@ -1,0 +1,2182 @@
+[
+ {
+  "doc_id": "167221",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "06/2007/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "VỀ VIỆC SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA QUYẾT ĐỊNH SỐ 06/2007/QĐ-UBND NGÀY 22/6/2007 CỦA UBND TỈNH ĐIỆN BIÊN"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "06/2007/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "VỀ VIỆC SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA QUYẾT ĐỊNH SỐ 06/2007/QĐ-UBND NGÀY 22/6/2007 CỦA UBND TỈNH ĐIỆN BIÊN"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "06/2007/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 5 Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung khoản 5, Điều 2 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "06/2007/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi Điều 3 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "sua-doi",
+    "target_document": "06/2007/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 3 Điều 5",
+     "điểm b khoản 3 Điều 5",
+     "điểm đ khoản 3 Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "3. Sửa đổi mục a, b, đ, Khoản 3, Điều 5 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 4",
+    "action": "sua-doi",
+    "target_document": "06/2007/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 6"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi Khoản 2, Điều 6 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 5",
+    "action": "sua-doi",
+    "target_document": "06/2007/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi Khoản 2, Điều 7 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 6",
+    "action": "sua-doi",
+    "target_document": "06/2007/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "tiểu điểm 1 điểm a khoản 1 Điều 8"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi nội dung thứ 2, gạch đầu dòng thứ nhất mục a, khoản 1, Điều 8 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 7",
+    "action": "sua-doi",
+    "target_document": "06/2007/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 11"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2, Điều 11 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 7",
+    "action": "bo-sung",
+    "target_document": "06/2007/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 11"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2, Điều 11 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 8",
+    "action": "sua-doi",
+    "target_document": "06/2007/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 1 Điều 12",
+     "khoản 3 Điều 12",
+     "khoản 6 Điều 12"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi mục a, khoản 1, khoản 3 và khoản 6, Điều 12 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 9",
+    "action": "sua-doi",
+    "target_document": "06/2007/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 13",
+     "khoản 3 Điều 13",
+     "khoản 5 Điều 13"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1, khoản 3, khoản 5, Điều 13 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 9",
+    "action": "bo-sung",
+    "target_document": "06/2007/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 13",
+     "khoản 3 Điều 13",
+     "khoản 5 Điều 13"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1, khoản 3, khoản 5, Điều 13 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 10",
+    "action": "thay-the",
+    "target_document": "06/2007/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 14"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế Điều 14 về hỗ trợ sản xuất như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 11",
+    "action": "sua-doi",
+    "target_document": "06/2007/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 16"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi khoản 1, Điều 16 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 12",
+    "action": "sua-doi",
+    "target_document": "06/2007/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 18"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 3, Điều 18 về hỗ trợ khác như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 12",
+    "action": "bo-sung",
+    "target_document": "06/2007/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 18"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 3, Điều 18 về hỗ trợ khác như sau:"
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "loai": "tach_sai",
+    "ghi_chu": "Đoạn đầu của Điều 1 Khoản 3 ('3. Giá đất để tính bồi thường...' và đoạn tiếp) là khoản 3 của Điều 3 mới trong Điều 1 Khoản 2; parser cắt khoản 2 tại '3.' nên phần này rơi sang Khoản 3."
+   }
+  ],
+  "ghi_chu": "QĐ 06/2007/QĐ-UBND tự chứa các Điều (văn bản dẫn 'Điều 23 – Quyết định số 06/2007/QĐ-UBND', 'Điều 2 Quyết định này') nên ghi quyet_dinh. 'mục a' = điểm a. Câu dẫn Điều 1 ('Sửa đổi, bổ sung một số điều... như sau') không ghi riêng; các khoản ghi chi tiết. Điều 2 là chuyển tiếp, không có tác động."
+ },
+ {
+  "doc_id": "113984",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "80/2008/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "VỀ VIỆC SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA QUY ĐỊNH VỀ CÔNG NHẬN LÀNG CÓ NGHỀ, LÀNG NGHỀ VÀ CHÍNH SÁCH KHUYẾN KHÍCH PHÁT TRIỂN TIỂU THỦ CÔNG NGHIỆP VÀ LÀNG NGHỀ TRÊN ĐỊA BÀN TỈNH NGHỆ AN BAN HÀNH KÈM THEO QUYẾT ĐỊNH SỐ 80/2008/QĐ-UBND NGÀY 18/12/2008 CỦA UBND TỈNH"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "80/2008/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "VỀ VIỆC SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA QUY ĐỊNH VỀ CÔNG NHẬN LÀNG CÓ NGHỀ, LÀNG NGHỀ VÀ CHÍNH SÁCH KHUYẾN KHÍCH PHÁT TRIỂN TIỂU THỦ CÔNG NGHIỆP VÀ LÀNG NGHỀ TRÊN ĐỊA BÀN TỈNH NGHỆ AN BAN HÀNH KÈM THEO QUYẾT ĐỊNH SỐ 80/2008/QĐ-UBND NGÀY 18/12/2008 CỦA UBND TỈNH"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "80/2008/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 5 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung khoản 5, Điều 1 như sau"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "80/2008/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm h khoản 2 Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung mục h, khoản 2, Điều 5 như sau"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "sua-doi",
+    "target_document": "80/2008/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 4 Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 4, Điều 7 như sau"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "bo-sung",
+    "target_document": "80/2008/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 4 Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 4, Điều 7 như sau"
+   },
+   {
+    "source_path": "Điều 1 Khoản 4",
+    "action": "bo-sung",
+    "target_document": "80/2008/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 5 Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung khoản 5, Điều 7 như sau"
+   },
+   {
+    "source_path": "Điều 1 Khoản 5",
+    "action": "sua-doi",
+    "target_document": "80/2008/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 4 Điều 8"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi khoản 4, Điều 8 như sau"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên Điều 1 nói rõ Quy định ban hành kèm theo QĐ 80/2008 nên ghi kem_theo. 'mục h' = điểm h. Điều 2 (áp dụng chính sách cho dự án đã có chủ trương) không có tác động."
+ },
+ {
+  "doc_id": "94738",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "106/2005/QĐ-UB",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm a khoản 3 Điều 2",
+     "Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "VỀ VIỆC SỬA ĐỔI ĐIỂM A/ KHOẢN 3 ĐIỀU 2 VÀ ĐIỀU 5 CỦA QUY ĐỊNH BAN HÀNH KÈM THEO QUYẾT ĐỊNH SỐ 106/2005/QĐ-UB NGÀY 20/7/2005 CỦA UBND THÀNH PHỐ"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "26/2005/QĐ-UB",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 2 Điều 34"
+    ],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI KHOẢN 2 ĐIỀU 34 CỦA QUY ĐỊNH BAN HÀNH KÈM THEO QUYẾT ĐỊNH SỐ 26/2005/QĐ-UB NGÀY 18/02/2005 CỦA UBND THÀNH PHỐ"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "sua-doi",
+    "target_document": "106/2005/QĐ-UB",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm a khoản 3 Điều 2",
+     "Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi điểm a/ khoản 3 điều 2 và điều 5 của quy định ban hành kèm theo Quyết định số 106/2005/QĐ-UB ngày 20/7/2005 của UBND Thành phố"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "sua-doi",
+    "target_document": "26/2005/QĐ-UB",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 2 Điều 34"
+    ],
+    "doi_tuong": null,
+    "evidence": "sửa đổi khoản 2 điều 34 của quy định ban hành kèm theo Quyết định số 26/2005/QĐ-UB ngày 18/02/2005 của UBND Thành phố"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Một Điều sửa hai văn bản. Nội dung mới không chỉ rõ đoạn nào thay vị trí nào. Câu 'Các Điều, Khoản khác của QĐ 106/2005 vẫn giữ nguyên hiệu lực' ở Điều 2 không phải tác động."
+ },
+ {
+  "doc_id": "430359",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "38/2016/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA QUY ĐỊNH BAN HÀNH KÈM THEO QUYẾT ĐỊNH SỐ 38/2016/QĐ-UBND NGÀY 05 THÁNG 8 NĂM 2016 CỦA ỦY BAN NHÂN DÂN TỈNH AN GIANG"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "38/2016/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA QUY ĐỊNH BAN HÀNH KÈM THEO QUYẾT ĐỊNH SỐ 38/2016/QĐ-UBND NGÀY 05 THÁNG 8 NĂM 2016 CỦA ỦY BAN NHÂN DÂN TỈNH AN GIANG"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "sua-doi",
+    "target_document": "38/2016/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm c khoản 2 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm c khoản 2 Điều 3 của Quy định về chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Sở Tài chính tỉnh An Giang kèm theo Quyết định số 38/2016/QĐ-UBND"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bo-sung",
+    "target_document": "38/2016/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm c khoản 2 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm c khoản 2 Điều 3 của Quy định về chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Sở Tài chính tỉnh An Giang kèm theo Quyết định số 38/2016/QĐ-UBND"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Văn bản ngắn, một tác động."
+ },
+ {
+  "doc_id": "187185",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "02/2006/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "VỀ VIỆC SỬA ĐỔI QUYẾT ĐỊNH SỐ 02/2006/QĐ-UBND NGÀY 12 THÁNG 01 NĂM 2006 CỦA ỦY BAN NHÂN DÂN TỈNH"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "sua-doi",
+    "target_document": "02/2006/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 2 Mục 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi khoản 2 Mục 2 về mức chi thù lao hòa giải viên tại Quy định ban hành kèm theo Quyết định số 02/2006/QĐ-UBND ngày 12 tháng 01 năm 2006"
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 1",
+    "loai": "thieu_noi_dung",
+    "ghi_chu": "noi_dung Điều 1 dừng ở 'Khoản 2 Mục 2 về mức chi thù lao hòa giải viên, như sau:'; mất hai dòng nội dung mới '1. Tăng mức thù lao...' và '2. Giữ nguyên mức thù lao...' (không có tác động mới)."
+   }
+  ],
+  "ghi_chu": "Quy định kèm theo QĐ 02/2006 chia theo Mục, nên vi_tri ghi 'khoản 2 Mục 2'. Phần đầu nêu cả QĐ, không có vị trí."
+ },
+ {
+  "doc_id": "185522",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "71/2011/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "VỀ VIỆC SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA QUY ĐỊNH VỀ MỘT SỐ VẤN ĐỀ LIÊN QUAN ĐẾN THỦ TỤC CẤP GIẤY CHỨNG NHẬN QUYỀN SỬ DỤNG ĐẤT, QUYỀN SỞ HỮU NHÀ Ở KÈM THEO QUYẾT ĐỊNH SỐ 71/2011/QĐ-UBND NGÀY 20/12/2011 CỦA ỦY BAN NHÂN DÂN TỈNH BÌNH DƯƠNG"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "71/2011/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "VỀ VIỆC SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA QUY ĐỊNH VỀ MỘT SỐ VẤN ĐỀ LIÊN QUAN ĐẾN THỦ TỤC CẤP GIẤY CHỨNG NHẬN QUYỀN SỬ DỤNG ĐẤT, QUYỀN SỞ HỮU NHÀ Ở KÈM THEO QUYẾT ĐỊNH SỐ 71/2011/QĐ-UBND NGÀY 20/12/2011 CỦA ỦY BAN NHÂN DÂN TỈNH BÌNH DƯƠNG"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "thay-cum-tu",
+    "target_document": "71/2011/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 7",
+     "Điều 16",
+     "Điều 17",
+     "Điều 18",
+     "Điều 19",
+     "Điều 26",
+     "Điều 30",
+     "Điều 31",
+     "Điều 32",
+     "Điều 33",
+     "Điều 34",
+     "Điều 35",
+     "Điều 36"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay cụm từ “Ủy ban nhân dân xã, phường, thị trấn” bằng cụm từ “Ủy ban nhân dân xã, thị trấn” tại các Điều 7, Điều 16, Điều 17, Điều 18, Điều 19, Điều 26, Điều 30, Điều 31, Điều 32, Điều 33, Điều 34, Điều 35 và Điều 36 của Quy định ban hành kèm theo Quyết định số 71/2011/QĐ-UBND."
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "71/2011/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 2 Điều 37"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Khoản 2 Điều 37 của Quy định ban hành kèm theo Quyết định số 71/2011/QĐ-UBND"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "71/2011/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 2 Điều 37"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Khoản 2 Điều 37 của Quy định ban hành kèm theo Quyết định số 71/2011/QĐ-UBND"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "thay-cum-tu",
+    "target_document": "71/2011/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay cụm từ “huyện, thị xã” bằng cụm từ “huyện, thị xã, thành phố” tại Điều 3 của Quyết định số 71/2011/QĐ-UBND"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "thay-cum-tu",
+    "target_document": "71/2011/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 5",
+     "Điều 7",
+     "Điều 8",
+     "Điều 16",
+     "Điều 17",
+     "Điều 18",
+     "Điều 19",
+     "Điều 29",
+     "Điều 30",
+     "Điều 31",
+     "Điều 32",
+     "Điều 33",
+     "Điều 34",
+     "Điều 36",
+     "Điều 40"
+    ],
+    "doi_tuong": null,
+    "evidence": "các Điều 5, Điều 7, Điều 8, Điều 16, Điều 17, Điều 18, Điều 19, Điều 29, Điều 30, Điều 31, Điều 32, Điều 33, Điều 34, Điều 36, Điều 40 của Quy định ban hành kèm theo Quyết định số 71/2011/QĐ-UBND"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 1 Khoản 3 thay cụm từ ở hai phần: Điều 3 của chính QĐ 71/2011 (quyet_dinh) và các Điều của Quy định kèm theo (kem_theo), tách 2 quan hệ. Điều 2 Khoản 1 'rà soát, bãi bỏ các quy định của địa phương trái...' là giao nhiệm vụ, không ghi."
+ },
+ {
+  "doc_id": "340080",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "33/2014/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA QUY ĐỊNH BAN HÀNH KÈM THEO QUYẾT ĐỊNH SỐ 33/2014/QĐ-UBND NGÀY 22/12/2014 CỦA ỦY BAN NHÂN DÂN TỈNH"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "33/2014/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA QUY ĐỊNH BAN HÀNH KÈM THEO QUYẾT ĐỊNH SỐ 33/2014/QĐ-UBND NGÀY 22/12/2014 CỦA ỦY BAN NHÂN DÂN TỈNH"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "33/2014/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 1 Điều 6"
+    ],
+    "doi_tuong": null,
+    "evidence": "Khoản 1 Điều 6 được sửa đổi, bổ sung như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "33/2014/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 1 Điều 6"
+    ],
+    "doi_tuong": null,
+    "evidence": "Khoản 1 Điều 6 được sửa đổi, bổ sung như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "33/2014/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 3 Điều 6"
+    ],
+    "doi_tuong": null,
+    "evidence": "Khoản 3 Điều 6 được sửa đổi, bổ sung như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "33/2014/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 3 Điều 6"
+    ],
+    "doi_tuong": null,
+    "evidence": "Khoản 3 Điều 6 được sửa đổi, bổ sung như sau:"
+   },
+   {
+    "source_path": "Điều 3",
+    "action": "sua-doi",
+    "target_document": "33/2014/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [
+     "khoản 1 Điều 6",
+     "khoản 3 Điều 6"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung và bãi bỏ Khoản 1 và Khoản 3 Điều 6 của Quyết định số 33/2014/QĐ-UBND ngày 22/12/2014 của Ủy ban nhân dân tỉnh"
+   },
+   {
+    "source_path": "Điều 3",
+    "action": "bo-sung",
+    "target_document": "33/2014/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [
+     "khoản 1 Điều 6",
+     "khoản 3 Điều 6"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung và bãi bỏ Khoản 1 và Khoản 3 Điều 6 của Quyết định số 33/2014/QĐ-UBND ngày 22/12/2014 của Ủy ban nhân dân tỉnh"
+   },
+   {
+    "source_path": "Điều 3",
+    "action": "bai-bo",
+    "target_document": "33/2014/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [
+     "khoản 1 Điều 6",
+     "khoản 3 Điều 6"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung và bãi bỏ Khoản 1 và Khoản 3 Điều 6 của Quyết định số 33/2014/QĐ-UBND ngày 22/12/2014 của Ủy ban nhân dân tỉnh"
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 3",
+    "loai": "gop_sai",
+    "ghi_chu": "Câu hiệu lực và câu 'Sửa đổi, bổ sung và bãi bỏ Khoản 1 và Khoản 3 Điều 6...' của Điều 3 bị đặt vào ten_dieu; noi_dung là đoạn trách nhiệm thi hành (không đánh số Điều)."
+   }
+  ],
+  "ghi_chu": "Điều 3 tự tuyên bố 'Sửa đổi, bổ sung và bãi bỏ Khoản 1 và Khoản 3 Điều 6 của Quyết định số 33/2014' nhưng không nói thuộc Quy định kèm theo nên ghi khong_ro (Điều 1 cho thấy thực tế là Quy định kèm theo)."
+ },
+ {
+  "doc_id": "434339",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "27/2017/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA QUY ĐỊNH BAN HÀNH KÈM THEO QUYẾT ĐỊNH SỐ 27/2017/QĐ-UBND NGÀY 16 THÁNG 10 NĂM 2017 CỦA ỦY BAN NHÂN DÂN TỈNH HẢI DƯƠNG"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "27/2017/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA QUY ĐỊNH BAN HÀNH KÈM THEO QUYẾT ĐỊNH SỐ 27/2017/QĐ-UBND NGÀY 16 THÁNG 10 NĂM 2017 CỦA ỦY BAN NHÂN DÂN TỈNH HẢI DƯƠNG"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "thay-cum-tu",
+    "target_document": "27/2017/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "phần tên của Quy định",
+    "evidence": "Sửa cụm từ “QUY ĐỊNH TẠM THỜI” thành “QUY ĐỊNH” tại phần tên của Quy định (dưới cụm từ Quốc hiệu và tiêu ngữ)."
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "thay-cum-tu",
+    "target_document": "27/2017/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm a khoản 1 Điều 4",
+     "điểm a khoản 2 Điều 4"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Bộ phận Tiếp nhận và trả kết quả thuộc Sở Tài nguyên và Môi trường” tại Điểm a Khoản 1, Điểm a Khoản 2 Điều 4 bằng cụm từ “Trung tâm Phục vụ hành chính công của tỉnh.”."
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "sua-doi",
+    "target_document": "27/2017/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 3 Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Khoản 3 Điều 7 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "bo-sung",
+    "target_document": "27/2017/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 3 Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Khoản 3 Điều 7 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 4",
+    "action": "sua-doi",
+    "target_document": "27/2017/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 6 Điều 7",
+     "khoản 3 Điều 8",
+     "khoản 3 Điều 11",
+     "khoản 7 Điều 7",
+     "điểm c khoản 4 Điều 12"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi thời hạn quy định tại Khoản 6 Điều 7, Khoản 3 Điều 8 và Khoản 3 Điều 11 từ 05 (năm) ngày xuống còn 02 (hai) ngày; sửa đổi thời hạn quy định tại Khoản 7 Điều 7 từ 05 ngày xuống còn 03 (ba) ngày; sửa đổi thời hạn quy định tại Điểm c, Khoản 4 Điều 12 từ 07 (bẩy) ngày xuống còn 04 (bốn) ngày."
+   },
+   {
+    "source_path": "Điều 1 Khoản 5",
+    "action": "sua-doi",
+    "target_document": "27/2017/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 4 Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Khoản 4 Điều 7 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 5",
+    "action": "bo-sung",
+    "target_document": "27/2017/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 4 Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Khoản 4 Điều 7 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 6",
+    "action": "sua-doi",
+    "target_document": "27/2017/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 8 Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Khoản 8, Điều 7 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 6",
+    "action": "bo-sung",
+    "target_document": "27/2017/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 8 Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Khoản 8, Điều 7 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 7",
+    "action": "sua-doi",
+    "target_document": "27/2017/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 1 Điều 8"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi Khoản 1, Điều 8 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 8",
+    "action": "sua-doi",
+    "target_document": "27/2017/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm c khoản 2 Điều 10",
+     "điểm d khoản 2 Điều 10"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điểm c, d, c, d, Khoản 2 Điều 10 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 8",
+    "action": "bo-sung",
+    "target_document": "27/2017/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm c khoản 2 Điều 10",
+     "điểm d khoản 2 Điều 10"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điểm c, d, c, d, Khoản 2 Điều 10 như sau:"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Câu dẫn Điều 1 (đơn vị 'Điều 1') nói rõ Quy định ban hành kèm theo QĐ 27/2017 nên các khoản ghi kem_theo; câu dẫn này không ghi quan hệ riêng. Khoản 1 'Sửa cụm từ X thành Y' ghi thay-cum-tu, đối tượng là tên Quy định. Khoản 8 ghi 'Điểm c, d, c, d' (lỗi đánh máy); nội dung mới có c), d), đ), e) nên có thể văn bản muốn nói c, d, đ, e; chỉ ghi c, d như câu nêu."
+ },
+ {
+  "doc_id": "683672",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "27/2019/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG QUYẾT ĐỊNH SỐ 27/2019/QĐ-UBND NGÀY 22/5/2019 VÀ QUYẾT ĐỊNH SỐ 03/2018/QĐ-UBND NGÀY 26/01/2018 CỦA ỦY BAN NHÂN DÂN TỈNH"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "27/2019/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG QUYẾT ĐỊNH SỐ 27/2019/QĐ-UBND NGÀY 22/5/2019 VÀ QUYẾT ĐỊNH SỐ 03/2018/QĐ-UBND NGÀY 26/01/2018 CỦA ỦY BAN NHÂN DÂN TỈNH"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "03/2018/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG QUYẾT ĐỊNH SỐ 27/2019/QĐ-UBND NGÀY 22/5/2019 VÀ QUYẾT ĐỊNH SỐ 03/2018/QĐ-UBND NGÀY 26/01/2018 CỦA ỦY BAN NHÂN DÂN TỈNH"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "03/2018/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG QUYẾT ĐỊNH SỐ 27/2019/QĐ-UBND NGÀY 22/5/2019 VÀ QUYẾT ĐỊNH SỐ 03/2018/QĐ-UBND NGÀY 26/01/2018 CỦA ỦY BAN NHÂN DÂN TỈNH"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "thay-cum-tu",
+    "target_document": "27/2019/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Chánh Văn phòng Đoàn đại biểu Quốc hội, Hội đồng nhân dân và Ủy ban nhân dân tỉnh” thành cụm từ “Chánh Văn phòng Ủy ban nhân dân tỉnh”."
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "27/2019/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ cụm từ “Chủ tịch Ủy ban nhân dân các huyện, thành phố, thị xã”."
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "thay-cum-tu",
+    "target_document": "27/2019/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Chủ tịch Ủy ban nhân dân các xã, phường, thị trấn” thành cụm từ “Chủ tịch Ủy ban nhân dân các xã, phường”."
+   },
+   {
+    "source_path": "Điều 1 Khoản 4",
+    "action": "thay-cum-tu",
+    "target_document": "27/2019/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Chủ tịch Hội đồng thành viên, Giám đốc các Công ty TNHH một thành viên thủy lợi” thành cụm từ “Chủ tịch Hội đồng thành viên, Giám đốc Công ty TNHH một thành viên Thủy lợi Hà Tĩnh”."
+   },
+   {
+    "source_path": "Điều 2 Khoản 1 điểm a",
+    "action": "sua-doi",
+    "target_document": "27/2019/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 3 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 3 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 1 điểm a",
+    "action": "bo-sung",
+    "target_document": "27/2019/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 3 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 3 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 1 điểm b",
+    "action": "sua-doi",
+    "target_document": "27/2019/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 8 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 8 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 1 điểm b",
+    "action": "bo-sung",
+    "target_document": "27/2019/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 8 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 8 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 1 điểm c",
+    "action": "bai-bo",
+    "target_document": "27/2019/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 7 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ khoản 7."
+   },
+   {
+    "source_path": "Điều 2 Khoản 1 điểm d",
+    "action": "bo-sung",
+    "target_document": "27/2019/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 10 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung khoản 10 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 2 điểm a",
+    "action": "sua-doi",
+    "target_document": "27/2019/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 5 Điều 4"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 5 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 2 điểm a",
+    "action": "bo-sung",
+    "target_document": "27/2019/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 5 Điều 4"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 5 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 2 điểm b",
+    "action": "bo-sung",
+    "target_document": "27/2019/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 12 Điều 4"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung khoản 12 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 2 điểm c",
+    "action": "bo-sung",
+    "target_document": "27/2019/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 13 Điều 4"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung khoản 13 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 3",
+    "action": "sua-doi",
+    "target_document": "27/2019/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 1 Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "a) Sửa đổi, bổ sung khoản 1 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 3",
+    "action": "bo-sung",
+    "target_document": "27/2019/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 1 Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "a) Sửa đổi, bổ sung khoản 1 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 3",
+    "action": "bai-bo",
+    "target_document": "27/2019/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 3 Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "b) Bãi bỏ khoản 3 Điều 5."
+   },
+   {
+    "source_path": "Điều 2 Khoản 4",
+    "action": "thay-cum-tu",
+    "target_document": "27/2019/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 2 Điều 5",
+     "khoản 5 Điều 5",
+     "Điều 9",
+     "khoản 3 Điều 8"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Sở Nông nghiệp và Phát triển nông thôn” thành cụm từ “Sở Nông nghiệp và Môi trường” tại khoản 2 Điều 5, khoản 5 Điều 5 và Điều 9; cụm từ “Sở Giao thông Vận tải” thành cụm từ “Sở Xây dựng” tại khoản 2 Điều 5; cụm từ “Ủy ban nhân dân cấp huyện, cấp xã” thành cụm từ “Ủy ban nhân dân cấp xã” tại khoản 2 Điều 5; cụm từ “phòng Tài nguyên và Môi trường cấp huyện” thành cụm từ “phòng Kinh tế hoặc Phòng Kinh tế, Hạ tầng và Đô thị cấp xã” tại khoản 3 Điều 8."
+   },
+   {
+    "source_path": "Điều 2 Khoản 5",
+    "action": "bai-bo",
+    "target_document": "27/2019/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 6"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ Điều 6."
+   },
+   {
+    "source_path": "Điều 2 Khoản 6",
+    "action": "sua-doi",
+    "target_document": "27/2019/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 7 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 6",
+    "action": "bo-sung",
+    "target_document": "27/2019/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 7 như sau:"
+   },
+   {
+    "source_path": "Điều 3",
+    "action": "sua-doi",
+    "target_document": "03/2018/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 6"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi khoản 1 Điều 6 như sau:"
+   },
+   {
+    "source_path": "Điều 4 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "03/2018/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 Điều 7 như sau:"
+   },
+   {
+    "source_path": "Điều 4 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "03/2018/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 Điều 7 như sau:"
+   },
+   {
+    "source_path": "Điều 4 Khoản 2",
+    "action": "thay-cum-tu",
+    "target_document": "03/2018/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Sở Nông nghiệp và Phát triển nông thôn” tại khoản 3 Điều 7 thành cụm từ “Sở Nông nghiệp và Môi trường”."
+   },
+   {
+    "source_path": "Điều 5 Khoản 1",
+    "action": "thay-cum-tu",
+    "target_document": "03/2018/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 8"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Chủ tịch Ủy ban nhân dân các xã, phường, thị trấn” thành cụm từ “Chủ tịch Ủy ban nhân dân các xã, phường”."
+   },
+   {
+    "source_path": "Điều 5 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "03/2018/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 8"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ cụm từ “Chủ tịch Ủy ban nhân dân các huyện, thành phố, thị xã”."
+   },
+   {
+    "source_path": "Điều 6 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "41/2023/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Kể từ ngày Quyết định này có hiệu lực thi hành thì Quyết định số 41/2023/QĐ-UBND ngày 13/10/2023 của Ủy ban nhân dân tỉnh sửa đổi, bổ sung một số điều của Quy định phạm vi vùng phụ cận đối với công trình thủy lợi khác trên địa bàn tỉnh Hà Tĩnh ban hành kèm theo Quyết định số 27/2019/QĐ-UBND ngày 22/5/2019 của Ủy ban nhân dân tỉnh hết hiệu lực thi hành."
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 2 Khoản 3",
+    "loai": "gop_sai",
+    "ghi_chu": "Điểm a) (sửa đổi, bổ sung khoản 1 Điều 5) và điểm b) (bãi bỏ khoản 3 Điều 5) không tách thành đơn vị điểm, gộp cả vào Điều 2 Khoản 3 (điểm a nằm cùng dòng với câu dẫn khoản)."
+   }
+  ],
+  "ghi_chu": "Chương I: Điều 1 sửa Điều 2 của chính QĐ 27/2019 (quyet_dinh); Điều 2 sửa Quy định kèm theo QĐ 27/2019 (kem_theo). Chương II sửa QĐ 03/2018: các Điều 6, 7, 8 thuộc chính QĐ (Điều 8 là điều thi hành, có 'Chủ tịch UBND các xã...'), nên ghi quyet_dinh. 'Bãi bỏ cụm từ' ghi bai-bo. Câu dẫn khoản/Điều có điểm con (vd 'Sửa đổi, bổ sung Điều 3 như sau:') không ghi riêng; ghi ở từng điểm. Điều 6 Khoản 2 tuyên bố QĐ 41/2023 hết hiệu lực."
+ },
+ {
+  "doc_id": "355881",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "11/2014/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "V/V ĐIỀU CHỈNH, BỔ SUNG QUYẾT ĐỊNH SỐ 11/2014/QĐ-UBND NGÀY 10/9/2014 CỦA UBND TỈNH"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "11/2014/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "V/V ĐIỀU CHỈNH, BỔ SUNG QUYẾT ĐỊNH SỐ 11/2014/QĐ-UBND NGÀY 10/9/2014 CỦA UBND TỈNH"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "12/2015/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI QUYẾT ĐỊNH SỐ 12/2015/QĐ-UBND NGÀY 14/9/2015 CỦA UBND TỈNH PHÚ THỌ"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bo-sung",
+    "target_document": "11/2014/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 4a",
+     "Điều 4b"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung Điều 4a, Điều 4b của Quy định ban hành kèm theo Quyết định số 11/2014/QĐ-UBND ngày 10/9/2014 của UBND tỉnh như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "12/2015/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi Khoản 1 Điều 1 Quyết định số 12/2015/QĐ-UBND ngày 14/9/2015 của UBND tỉnh Phú Thọ như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "12/2015/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm 9 khoản 3 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi Điểm 9 Khoản 3 Điều 1 Quyết định số 12/2015/QĐ-UBND ngày 14/9/2015 của UBND tỉnh như sau:"
+   },
+   {
+    "source_path": "Điều 3 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "11/2014/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "đơn giá bồi thường về vật kiến trúc",
+    "evidence": "Sửa đổi một số đơn giá công tác xây dựng trong phần đơn giá bồi thường về vật kiến trúc như sau:"
+   },
+   {
+    "source_path": "Điều 3 Khoản 2 điểm a",
+    "action": "bo-sung",
+    "target_document": "11/2014/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "đơn giá bồi thường về vật kiến trúc",
+    "evidence": "Công tác xây dựng:\n\n- Bổ sung một số công tác xây dựng vào phần A (Phần móng).\n\n- Bổ sung một số công tác xây dựng vào phần E (Nền, Ốp, Lát).\n\n- Bổ sung một số công tác xây dựng vào phần F (Sàn, Trần, Mái lợp)."
+   },
+   {
+    "source_path": "Điều 3 Khoản 2 điểm b",
+    "action": "bo-sung",
+    "target_document": "11/2014/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "đơn giá bồi thường về vật kiến trúc",
+    "evidence": "Công tác lắp đặt:\n\n- Bổ sung một số công tác lắp đặt vào phần A (Điện trong nhà).\n\n- Bổ sung một số công tác lắp đặt vào phần D (Nước ngoài nhà)."
+   },
+   {
+    "source_path": "Điều 3 Khoản 2 điểm c",
+    "action": "bo-sung",
+    "target_document": "11/2014/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "đơn giá bồi thường về vật kiến trúc",
+    "evidence": "Bổ sung một số nội dung vào phần chi phí nhân công tháo dỡ, lắp dựng, các kết cấu, các bộ phận của nhà gỗ (xây dựng không có giấy phép hoặc xây dựng sau thời điểm thu hồi đất)."
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "loai": "tach_sai",
+    "ghi_chu": "Điều 1 Khoản 1 và Khoản 2 thực ra là khoản 1, 2 của Điều 4b mới (nội dung trong ngoặc kép), bị nhận thành khoản của Điều 1."
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "loai": "tach_sai",
+    "ghi_chu": "Như trên: khoản 2 của Điều 4b mới trong ngoặc kép."
+   }
+  ],
+  "ghi_chu": "'Điều chỉnh' ghi sua-doi. QĐ 12/2015 là QĐ sửa đổi, vị trí Điều 1 thuộc chính QĐ. Nội dung trong ngoặc kép '1. Sửa đổi Điều 4 như sau' là nội dung mới, không ghi. Điều 3 sửa, bổ sung Đơn giá bồi thường vật kiến trúc (phần kèm theo QĐ 11/2014 theo tên văn bản); câu không nêu số hiệu nên lấy từ tên văn bản; vị trí là mục/phần của bảng đơn giá (mục 6 phần A, mục 24 phần B, mục 1 phần D, mục 1 phần G...) nên để vi_tri rỗng, ghi doi_tuong. Điều 3 Khoản 2 ghi ở từng điểm a, b, c. Tên Điều 3 'Ban hành kèm theo Bảng Đơn giá...' là ban hành mới, không ghi."
+ },
+ {
+  "doc_id": "432073",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "27/2018/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU KHOẢN TẠI QUY ĐỊNH BAN HÀNH KÈM THEO QUYẾT ĐỊNH SỐ 27/2018/QĐ-UBND NGÀY 20 THÁNG 7 NĂM 2018 CỦA ỦY BAN NHÂN DÂN TỈNH"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "27/2018/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU KHOẢN TẠI QUY ĐỊNH BAN HÀNH KÈM THEO QUYẾT ĐỊNH SỐ 27/2018/QĐ-UBND NGÀY 20 THÁNG 7 NĂM 2018 CỦA ỦY BAN NHÂN DÂN TỈNH"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "27/2018/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 4 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung khoản 4 vào Điều 1 về “Phạm vi điều chỉnh”, với nội dung như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "27/2018/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 10 Điều 4"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ khoản 10 Điều 4 về “Phê duyệt đề án sử dụng tài sản công vào mục đích kinh doanh, cho thuê”."
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "bai-bo",
+    "target_document": "27/2018/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 11 Điều 4"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ khoản 11 Điều 4 về “Phê duyệt đề án sử dụng tài sản công vào mục đích liên doanh, liên kết”."
+   },
+   {
+    "source_path": "Điều 1 Khoản 4",
+    "action": "sua-doi",
+    "target_document": "27/2018/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm a khoản 1 Điều 11"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi nội dung điểm a khoản 1 Điều 11 về “Thẩm quyền quyết định thanh lý tài sản công” như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 5",
+    "action": "bai-bo",
+    "target_document": "27/2018/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 14"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ Điều 14 về “Thẩm quyền phê duyệt đề án sử dụng tài sản công vào mục đích kinh doanh, cho thuê”."
+   },
+   {
+    "source_path": "Điều 1 Khoản 6",
+    "action": "bai-bo",
+    "target_document": "27/2018/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 15"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ Điều 15 về “Thẩm quyền phê duyệt đề án sử dụng tài sản công vào mục đích liên doanh, liên kết”."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "sua-doi",
+    "target_document": "27/2018/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "sửa đổi, bổ sung Quyết định số 27/2018/QĐ-UBND ngày 20 tháng 7 năm 2018 của Ủy ban nhân dân tỉnh"
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bo-sung",
+    "target_document": "27/2018/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "sửa đổi, bổ sung Quyết định số 27/2018/QĐ-UBND ngày 20 tháng 7 năm 2018 của Ủy ban nhân dân tỉnh"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Câu dẫn Điều 1 (đơn vị 'Điều 1') không ghi quan hệ riêng; các khoản ghi chi tiết, kem_theo theo câu dẫn. Điều 2 tự nêu 'sửa đổi, bổ sung Quyết định số 27/2018' (cả văn bản) nên ghi riêng, khong_ap_dung."
+ },
+ {
+  "doc_id": "591876",
+  "relations": [
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "09/2020/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 2 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 Điều 1 quy định ban hành kèm theo Quyết định số 09/2020/QĐ-UBND như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "09/2020/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 2 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 Điều 1 quy định ban hành kèm theo Quyết định số 09/2020/QĐ-UBND như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "12/2022/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 Điều 1 của Quyết định số 12/2022/QĐ-UBND"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "12/2022/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 Điều 1 của Quyết định số 12/2022/QĐ-UBND"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "sua-doi",
+    "target_document": "12/2022/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 4 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 4 Điều 1 của Quyết định số 12/2022/QĐ-UBND"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "bo-sung",
+    "target_document": "12/2022/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 4 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 4 Điều 1 của Quyết định số 12/2022/QĐ-UBND"
+   },
+   {
+    "source_path": "Điều 1 Khoản 4",
+    "action": "sua-doi",
+    "target_document": "12/2022/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 5 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 5 Điều 1 của Quyết định số 12/2022/QĐ-UBND"
+   },
+   {
+    "source_path": "Điều 1 Khoản 4",
+    "action": "bo-sung",
+    "target_document": "12/2022/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 5 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 5 Điều 1 của Quyết định số 12/2022/QĐ-UBND"
+   },
+   {
+    "source_path": "Điều 1 Khoản 5",
+    "action": "sua-doi",
+    "target_document": "09/2020/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm d khoản 1 Điều 9"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm d, khoản 1 Điều 9 quy định ban hành kèm theo Quyết định số 09/2020/QĐ-UBND, như sau"
+   },
+   {
+    "source_path": "Điều 1 Khoản 5",
+    "action": "bo-sung",
+    "target_document": "09/2020/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm d khoản 1 Điều 9"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm d, khoản 1 Điều 9 quy định ban hành kèm theo Quyết định số 09/2020/QĐ-UBND, như sau"
+   },
+   {
+    "source_path": "Điều 1 Khoản 7",
+    "action": "sua-doi",
+    "target_document": "07/2021/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "giá đất thương mại, dịch vụ trong Bảng giá đất giai đoạn 2020-2024",
+    "evidence": "Sửa đổi giá đất thương mại, dịch vụ trong Bảng giá đất giai đoạn 2020-2024 ban hành kèm theo Quyết định số 07/2021/QĐ-UBND ngày 27/03/2021"
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "07/2021/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "giá đất thương mại, dịch vụ",
+    "evidence": "Bãi bỏ giá đất thương mại, dịch vụ ban hành kèm theo các Quyết định số 07/2021/QĐ-UBND ngày 27/3/2021; Quyết định số 12/2022/QĐ-UBND ngày 24/6/2022; Quyết định số 30/2022/QĐ-UBND ngày 20/12/2022 và Quyết định số 28/2023/QĐ-UBND ngày 11/8/2023 của UBND thành phố Đà Nẵng."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "12/2022/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "giá đất thương mại, dịch vụ",
+    "evidence": "Bãi bỏ giá đất thương mại, dịch vụ ban hành kèm theo các Quyết định số 07/2021/QĐ-UBND ngày 27/3/2021; Quyết định số 12/2022/QĐ-UBND ngày 24/6/2022; Quyết định số 30/2022/QĐ-UBND ngày 20/12/2022 và Quyết định số 28/2023/QĐ-UBND ngày 11/8/2023 của UBND thành phố Đà Nẵng."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "30/2022/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "giá đất thương mại, dịch vụ",
+    "evidence": "Bãi bỏ giá đất thương mại, dịch vụ ban hành kèm theo các Quyết định số 07/2021/QĐ-UBND ngày 27/3/2021; Quyết định số 12/2022/QĐ-UBND ngày 24/6/2022; Quyết định số 30/2022/QĐ-UBND ngày 20/12/2022 và Quyết định số 28/2023/QĐ-UBND ngày 11/8/2023 của UBND thành phố Đà Nẵng."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "28/2023/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "giá đất thương mại, dịch vụ",
+    "evidence": "Bãi bỏ giá đất thương mại, dịch vụ ban hành kèm theo các Quyết định số 07/2021/QĐ-UBND ngày 27/3/2021; Quyết định số 12/2022/QĐ-UBND ngày 24/6/2022; Quyết định số 30/2022/QĐ-UBND ngày 20/12/2022 và Quyết định số 28/2023/QĐ-UBND ngày 11/8/2023 của UBND thành phố Đà Nẵng."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Gói vào không có toan_van (văn bản dài vì Phụ lục bảng giá). Tên văn bản và Điều 1 Khoản 6 ('Sửa đổi giá đất đối với 02 tuyến đường tại bảng giá đất') tác động lên 'Bảng giá các loại đất ... giai đoạn 2020-2024' nhưng không nêu số hiệu văn bản ban hành bảng giá (có thể là QĐ 09/2020/QĐ-UBND hoặc văn bản sửa đổi); không đoán nên không ghi quan hệ cho Phần đầu và Khoản 6. Phần ngoặc '(được sửa đổi, bổ sung cho khoản 3 Điều 3 Quyết định 09/2020/QĐ-UBND)' là ghi chú lịch sử, không ghi. Khoản 2-4 sửa khoản của Điều 1 QĐ 12/2022 (điều khoản sửa đổi trong thân QĐ) nên ghi quyet_dinh. Phụ lục I, II, III ở Khoản 7 là phụ lục của chính QĐ 57/2023, không phải vị trí đích."
+ },
+ {
+  "doc_id": "274123",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "31/2011/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI MỘT SỐ ĐIỀU CỦA QUYẾT ĐỊNH SỐ 31/2011/QĐ-UBND NGÀY 26 THÁNG 10 NĂM 2011 CỦA ỦY BAN NHÂN DÂN TỈNH KHÁNH HÒA"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "sua-doi",
+    "target_document": "31/2011/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 1 Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi Khoản 1 Điều 7 Quy định ban hành kèm theo Quyết định số 31/2011/QĐ-UBND ngày 26 tháng 10 năm 2011"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên văn bản nói 'một số điều của Quyết định' (không vị trí) nên Phần đầu ghi khong_ap_dung; Điều 1 nói rõ Quy định ban hành kèm theo."
+ },
+ {
+  "doc_id": "590471",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "18/2020/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA QUY ĐỊNH BAN HÀNH KÈM THEO QUYẾT ĐỊNH SỐ 18/2020/QĐ-UBND NGÀY 04/9/2020 CỦA UBND THÀNH PHỐ HÀ NỘI"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "18/2020/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA QUY ĐỊNH BAN HÀNH KÈM THEO QUYẾT ĐỊNH SỐ 18/2020/QĐ-UBND NGÀY 04/9/2020 CỦA UBND THÀNH PHỐ HÀ NỘI"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "18/2020/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 1 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 Điều 1 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "18/2020/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 1 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 Điều 1 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2 điểm a",
+    "action": "sua-doi",
+    "target_document": "18/2020/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 1 Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 Điều 2 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2 điểm a",
+    "action": "bo-sung",
+    "target_document": "18/2020/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 1 Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 Điều 2 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2 điểm b",
+    "action": "bo-sung",
+    "target_document": "18/2020/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 5 Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung khoản 5 Điều 2 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3 điểm a",
+    "action": "sua-doi",
+    "target_document": "18/2020/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 1 Điều 4"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 Điều 4 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3 điểm a",
+    "action": "bo-sung",
+    "target_document": "18/2020/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 1 Điều 4"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 Điều 4 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3 điểm b",
+    "action": "sua-doi",
+    "target_document": "18/2020/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 2 Điều 4"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi khoản 2 Điều 4 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3 điểm c",
+    "action": "bo-sung",
+    "target_document": "18/2020/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 3 Điều 4"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung khoản 3 Điều 4 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3 điểm d",
+    "action": "bo-sung",
+    "target_document": "18/2020/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 4 Điều 4"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung khoản 4 Điều 4 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3 điểm d",
+    "action": "bo-sung",
+    "target_document": "18/2020/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 5 Điều 4"
+    ],
+    "doi_tuong": null,
+    "evidence": "d) Bổ sung khoản 5 Điều 4 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 4 điểm a",
+    "action": "sua-doi",
+    "target_document": "18/2020/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 1 Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 Điều 5 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 4 điểm a",
+    "action": "bo-sung",
+    "target_document": "18/2020/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 1 Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 Điều 5 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 4 điểm b",
+    "action": "sua-doi",
+    "target_document": "18/2020/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 2 Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 Điều 5 như sau"
+   },
+   {
+    "source_path": "Điều 1 Khoản 4 điểm b",
+    "action": "bo-sung",
+    "target_document": "18/2020/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 2 Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 Điều 5 như sau"
+   },
+   {
+    "source_path": "Điều 1 Khoản 4 điểm c",
+    "action": "sua-doi",
+    "target_document": "18/2020/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 5 Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi khoản 5 Điều 5 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 4 điểm d",
+    "action": "bo-sung",
+    "target_document": "18/2020/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 6 Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung khoản 6 Điều 5 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 5 điểm a",
+    "action": "sua-doi",
+    "target_document": "18/2020/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 1 Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi khoản 1 Điều 7 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 5 điểm b",
+    "action": "bo-sung",
+    "target_document": "18/2020/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 3 Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung khoản 3 Điều 7 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 5 điểm c",
+    "action": "sua-doi",
+    "target_document": "18/2020/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 4 Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi khoản 4 Điều 7 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 6",
+    "action": "bo-sung",
+    "target_document": "18/2020/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 8a"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung Điều 8a như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 7 điểm a",
+    "action": "bo-sung",
+    "target_document": "18/2020/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 1 Điều 8"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung khoản 1 Điều 8 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 7 điểm b",
+    "action": "sua-doi",
+    "target_document": "18/2020/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 2 Điều 8"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 Điều 8 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 7 điểm b",
+    "action": "bo-sung",
+    "target_document": "18/2020/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 2 Điều 8"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 Điều 8 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 7 điểm c",
+    "action": "sua-doi",
+    "target_document": "18/2020/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 3 Điều 8"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 3 Điều 8 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 7 điểm c",
+    "action": "bo-sung",
+    "target_document": "18/2020/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 3 Điều 8"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 3 Điều 8 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 7 điểm d",
+    "action": "sua-doi",
+    "target_document": "18/2020/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 4 Điều 8"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 4 Điều 8 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 7 điểm d",
+    "action": "bo-sung",
+    "target_document": "18/2020/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 4 Điều 8"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 4 Điều 8 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 8",
+    "action": "bo-sung",
+    "target_document": "18/2020/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 3 Điều 11"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung khoản 3 Điều 11 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 9",
+    "action": "bo-sung",
+    "target_document": "18/2020/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 12a"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung Điều 12a như sau"
+   },
+   {
+    "source_path": "Điều 1 Khoản 10",
+    "action": "sua-doi",
+    "target_document": "18/2020/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 2 Điều 12"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi khoản 2 Điều 12 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 11 điểm a",
+    "action": "sua-doi",
+    "target_document": "18/2020/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 1 Điều 14"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 Điều 14 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 11 điểm a",
+    "action": "bo-sung",
+    "target_document": "18/2020/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 1 Điều 14"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 Điều 14 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 11 điểm b",
+    "action": "sua-doi",
+    "target_document": "18/2020/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 2 Điều 14"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi khoản 2 Điều 14 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 12",
+    "action": "sua-doi",
+    "target_document": "18/2020/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 2 Điều 17"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 Điều 17 như sau"
+   },
+   {
+    "source_path": "Điều 1 Khoản 12",
+    "action": "bo-sung",
+    "target_document": "18/2020/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 2 Điều 17"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 Điều 17 như sau"
+   },
+   {
+    "source_path": "Điều 1 Khoản 13 điểm a",
+    "action": "sua-doi",
+    "target_document": "18/2020/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 1 Điều 22"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 Điều 22 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 13 điểm a",
+    "action": "bo-sung",
+    "target_document": "18/2020/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 1 Điều 22"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 Điều 22 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 13 điểm b",
+    "action": "sua-doi",
+    "target_document": "18/2020/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 3 Điều 22"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi khoản 3 Điều 22 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 13 điểm c",
+    "action": "sua-doi",
+    "target_document": "18/2020/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 4 Điều 22"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 4 Điều 22 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 13 điểm c",
+    "action": "bo-sung",
+    "target_document": "18/2020/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 4 Điều 22"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 4 Điều 22 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 13 điểm d",
+    "action": "sua-doi",
+    "target_document": "18/2020/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm a khoản 5 Điều 22",
+     "điểm b khoản 5 Điều 22"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi điểm a, b khoản 5 Điều 22 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "18/2020/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 10",
+     "khoản 1 Điều 11",
+     "khoản 3 Điều 11",
+     "khoản 1 Điều 13",
+     "khoản 2 Điều 20",
+     "khoản 1 Điều 21",
+     "khoản 6 Điều 21"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung cụm từ “(được sửa đổi, bổ sung tại Nghị định số 107/2021/NĐ-CP ngày 06/12/2021 của Chính phủ)” sau cụm từ “Nghị định số 61/2018/NĐ-CP ngày 23/4/2018 của Chính phủ tại Điều 10, khoản 1, khoản 3 Điều 11, khoản 1 Điều 13, khoản 2 Điều 20, khoản 1, khoản 6 Điều 21 Quyết định này."
+   },
+   {
+    "source_path": "Điều 2 Khoản 2",
+    "action": "thay-cum-tu",
+    "target_document": "18/2020/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 2 Điều 12",
+     "khoản 1 Điều 14",
+     "khoản 2 Điều 14",
+     "khoản 2 Điều 17",
+     "khoản 3 Điều 17",
+     "khoản 5 Điều 18",
+     "khoản 3 Điều 21",
+     "điểm a khoản 1 Điều 22"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “giải quyết thủ tục hành chính” cho cụm từ “Một cửa dùng chung 3 cấp” tại khoản 2 Điều 12, khoản 1, khoản 2 Điều 14, khoản 2, 3 Điều 17, khoản 5 Điều 18, khoản 3 Điều 21 và điểm a khoản 1 Điều 22 Quyết định này."
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 1 Khoản 3 điểm d",
+    "loai": "gop_sai",
+    "ghi_chu": "Văn bản đánh trùng chữ 'd)': điểm 'd) Bổ sung khoản 5 Điều 4' bị gộp vào điểm d (Bổ sung khoản 4 Điều 4)."
+   },
+   {
+    "source_path": "Điều 1 Khoản 4 điểm d",
+    "loai": "gop_sai",
+    "ghi_chu": "Khoản 5 (sửa Điều 7), khoản 6 (bổ sung Điều 8a) và một phần khoản 7 của Điều 1 bị gộp vào điểm d Khoản 4; noi_dung bị cắt ở 6000 ký tự."
+   },
+   {
+    "source_path": "Điều 1 Khoản 5",
+    "loai": "thieu_noi_dung",
+    "ghi_chu": "Các khoản 5 đến 13 của Điều 1 (và các điểm của chúng) không có đơn vị riêng trong don_vi; khoản 8-13 không có trong dữ liệu vào. Quan hệ ghi theo toàn văn nguồn (legal-docs/_doc/590471)."
+   },
+   {
+    "source_path": "Điều 1 Khoản 4",
+    "loai": "thieu_noi_dung",
+    "ghi_chu": "noi_dung Khoản 4 bị cắt ở 6000 ký tự."
+   }
+  ],
+  "ghi_chu": "Gói vào bị cắt (không có toan_van; Khoản 4 và Khoản 4 điểm d dừng ở 6000 ký tự). Đã đọc văn bản nguồn ở legal-docs/_doc/590471 để ghi Khoản 5-13; evidence các khoản này chép nguyên văn từ văn bản nguồn. Câu dẫn khoản có điểm con ('Sửa đổi, bổ sung khoản 1 và bổ sung khoản 5 Điều 2 như sau:') không ghi riêng; ghi ở từng điểm. Khoản 5 điểm b văn bản ghi 'Bổ sung khoản 3 Điều 7' (câu dẫn ghi sửa đổi, bổ sung) nên ghi bo-sung. Điều 2 'Quyết định này' trong câu thực chỉ Quy định kèm theo (tên Điều 2 nói rõ) nên ghi kem_theo."
+ },
+ {
+  "doc_id": "291090",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "28/2013/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG QUYẾT ĐỊNH SỐ 28/2013/QĐ-UBND NGÀY 26/7/2013 CỦA ỦY BAN NHÂN DÂN TỈNH"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "28/2013/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG QUYẾT ĐỊNH SỐ 28/2013/QĐ-UBND NGÀY 26/7/2013 CỦA ỦY BAN NHÂN DÂN TỈNH"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "28/2013/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm c khoản 2 Điều 6"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm c, khoản 2, Điều 6 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "28/2013/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm c khoản 2 Điều 6"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm c, khoản 2, Điều 6 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "28/2013/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm b khoản 3 Điều 11"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi điểm b, khoản 3, Điều 11 như sau:"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Văn bản về thủ tục hành chính nhưng sửa trực tiếp Quy định kèm theo QĐ 28/2013 (tên Điều 1 nói rõ)."
+ }
+]

@@ -1,0 +1,226 @@
+[
+ {
+  "doc_id": "447081",
+  "la_vbqppl": false,
+  "cap_hieu_luc": null,
+  "ngay_hieu_luc": "2020-07-03",
+  "ngay_het_hieu_luc": null,
+  "ngay_hoi_to": null,
+  "hieu_luc_rieng": [],
+  "trich": {
+   "ngay_hieu_luc": "Không có câu hiệu lực; công văn → ngày ban hành",
+   "la_vbqppl": "Công văn"
+  },
+  "chua_chac": []
+ },
+ {
+  "doc_id": "118573",
+  "la_vbqppl": false,
+  "cap_hieu_luc": null,
+  "ngay_hieu_luc": "2011-02-09",
+  "ngay_het_hieu_luc": null,
+  "ngay_hoi_to": null,
+  "hieu_luc_rieng": [],
+  "trich": {
+   "ngay_hieu_luc": "Quyết định này có hiệu lực kể từ ngày ký ban hành.",
+   "la_vbqppl": "Quyết định ban hành chương trình (kế hoạch) xây dựng VBQPPL, không chứa quy tắc xử sự chung"
+  },
+  "chua_chac": []
+ },
+ {
+  "doc_id": "368519",
+  "la_vbqppl": true,
+  "cap_hieu_luc": 10,
+  "ngay_hieu_luc": "2017-11-01",
+  "ngay_het_hieu_luc": null,
+  "ngay_hoi_to": null,
+  "hieu_luc_rieng": [],
+  "trich": {
+   "ngay_hieu_luc": "Nghị quyết này đã được Hội đồng nhân dân thành phố Cần Thơ khóa IX, kỳ họp thứ sáu thông qua ngày 06 tháng 10 năm 2017 và có hiệu lực từ ngày 01 tháng 11 năm 2017./.",
+   "la_vbqppl": "Nghị quyết HĐND thành phố trực thuộc trung ương quy định mức chi",
+   "cap_hieu_luc": "Nghị quyết HĐND cấp tỉnh"
+  },
+  "chua_chac": []
+ },
+ {
+  "doc_id": "676752",
+  "la_vbqppl": false,
+  "cap_hieu_luc": null,
+  "ngay_hieu_luc": "2023-02-10",
+  "ngay_het_hieu_luc": null,
+  "ngay_hoi_to": null,
+  "hieu_luc_rieng": [],
+  "trich": {
+   "ngay_hieu_luc": "Không có câu hiệu lực; văn bản không phải QPPL → ngày ban hành",
+   "la_vbqppl": "Công văn của Ban Tổ chức Trung ương (văn bản của Đảng)"
+  },
+  "chua_chac": []
+ },
+ {
+  "doc_id": "67171",
+  "la_vbqppl": true,
+  "cap_hieu_luc": 11,
+  "ngay_hieu_luc": "2008-06-05",
+  "ngay_het_hieu_luc": null,
+  "ngay_hoi_to": null,
+  "hieu_luc_rieng": [],
+  "trich": {
+   "ngay_hieu_luc": "Quyết định có hiệu lực thi hành sau 10 ngày, kể từ ngày ký.",
+   "la_vbqppl": "Quyết định UBND thành phố số hiệu 42/2008/QĐ-UBND, ban hành theo hình thức QPPL",
+   "cap_hieu_luc": "Quyết định UBND cấp tỉnh"
+  },
+  "chua_chac": [
+   "la_vbqppl"
+  ]
+ },
+ {
+  "doc_id": "231485",
+  "la_vbqppl": true,
+  "cap_hieu_luc": 11,
+  "ngay_hieu_luc": "2014-05-25",
+  "ngay_het_hieu_luc": null,
+  "ngay_hoi_to": null,
+  "hieu_luc_rieng": [],
+  "trich": {
+   "ngay_hieu_luc": "Quyết định này có hiệu lực sau 10 ngày kể từ ngày ký.",
+   "la_vbqppl": "Quyết định UBND tỉnh sửa đổi quyết định QPPL về giá tính lệ phí trước bạ",
+   "cap_hieu_luc": "Quyết định UBND cấp tỉnh"
+  },
+  "chua_chac": []
+ },
+ {
+  "doc_id": "425117",
+  "la_vbqppl": false,
+  "cap_hieu_luc": null,
+  "ngay_hieu_luc": "2019-03-11",
+  "ngay_het_hieu_luc": null,
+  "ngay_hoi_to": null,
+  "hieu_luc_rieng": [],
+  "trich": {
+   "ngay_hieu_luc": "Quyết định này có hiệu lực kể từ ngày ký ban hành.",
+   "la_vbqppl": "Quyết định sửa quy chế nội bộ về xử lý văn bản tại Văn phòng Chính phủ; số hiệu không theo dạng QPPL, chỉ áp dụng trong cơ quan"
+  },
+  "chua_chac": [
+   "la_vbqppl"
+  ]
+ },
+ {
+  "doc_id": "587453",
+  "la_vbqppl": false,
+  "cap_hieu_luc": null,
+  "ngay_hieu_luc": "2023-11-21",
+  "ngay_het_hieu_luc": null,
+  "ngay_hoi_to": null,
+  "hieu_luc_rieng": [],
+  "trich": {
+   "ngay_hieu_luc": "Quyết định này có hiệu lực thi hành kể từ ngày ký.",
+   "la_vbqppl": "Quyết định công bố thủ tục hành chính, phê duyệt quy trình nội bộ"
+  },
+  "chua_chac": []
+ },
+ {
+  "doc_id": "357621",
+  "la_vbqppl": true,
+  "cap_hieu_luc": 10,
+  "ngay_hieu_luc": "2017-08-01",
+  "ngay_het_hieu_luc": null,
+  "ngay_hoi_to": null,
+  "hieu_luc_rieng": [],
+  "trich": {
+   "ngay_hieu_luc": "Nghị quyết này đã được Hội đồng nhân dân tỉnh Quảng Bình khóa XVII, Kỳ họp thứ 05 thông qua ngày 13 tháng 7 năm 2017 và có hiệu lực thi hành từ ngày 01 tháng 8 năm 2017./.",
+   "la_vbqppl": "Nghị quyết HĐND tỉnh về phí, lệ phí, học phí",
+   "cap_hieu_luc": "Nghị quyết HĐND cấp tỉnh"
+  },
+  "chua_chac": []
+ },
+ {
+  "doc_id": "254772",
+  "la_vbqppl": true,
+  "cap_hieu_luc": 11,
+  "ngay_hieu_luc": "2014-11-03",
+  "ngay_het_hieu_luc": null,
+  "ngay_hoi_to": null,
+  "hieu_luc_rieng": [],
+  "trich": {
+   "ngay_hieu_luc": "Quyết định này có hiệu lực thi hành kể từ ngày 03 tháng 11 năm 2014, đăng Báo Cần Thơ chậm nhất là ngày 28 tháng 10 năm 2014.",
+   "la_vbqppl": "Quyết định UBND thành phố sửa đổi quy định QPPL về tiêu chuẩn, thủ tục công nhận danh hiệu",
+   "cap_hieu_luc": "Quyết định UBND cấp tỉnh"
+  },
+  "chua_chac": []
+ },
+ {
+  "doc_id": "358860",
+  "la_vbqppl": true,
+  "cap_hieu_luc": 10,
+  "ngay_hieu_luc": "2017-07-25",
+  "ngay_het_hieu_luc": null,
+  "ngay_hoi_to": null,
+  "hieu_luc_rieng": [],
+  "trich": {
+   "ngay_hieu_luc": "Nghị quyết này đã được Hội đồng nhân dân tỉnh Tiền Giang Khóa IX, Kỳ họp thứ 4 thông qua ngày 14 tháng 7 năm 2017 và có hiệu lực từ ngày 25 tháng 7 năm 2017./.",
+   "la_vbqppl": "Nghị quyết HĐND tỉnh số hiệu 23/2017/NQ-HĐND sửa đổi nghị quyết QPPL",
+   "cap_hieu_luc": "Nghị quyết HĐND cấp tỉnh"
+  },
+  "chua_chac": []
+ },
+ {
+  "doc_id": "499274",
+  "la_vbqppl": true,
+  "cap_hieu_luc": 10,
+  "ngay_hieu_luc": "2022-01-01",
+  "ngay_het_hieu_luc": null,
+  "ngay_hoi_to": null,
+  "hieu_luc_rieng": [],
+  "trich": {
+   "ngay_hieu_luc": "Nghị quyết này đã được Hội đồng nhân dân tỉnh Lào Cai Khoá XVI, Kỳ họp thứ ba thông qua ngày 08 tháng 12 năm 2021 có hiệu lực thi hành từ ngày 01 tháng 01 năm 2022./.",
+   "la_vbqppl": "Nghị quyết HĐND tỉnh về phí, lệ phí",
+   "cap_hieu_luc": "Nghị quyết HĐND cấp tỉnh"
+  },
+  "chua_chac": []
+ },
+ {
+  "doc_id": "32771",
+  "la_vbqppl": false,
+  "cap_hieu_luc": null,
+  "ngay_hieu_luc": "2004-08-13",
+  "ngay_het_hieu_luc": null,
+  "ngay_hoi_to": null,
+  "hieu_luc_rieng": [],
+  "trich": {
+   "ngay_hieu_luc": "Không có câu hiệu lực của chính công văn (\"Sửa đổi nêu trên có hiệu lực kể từ ngày 19 tháng 8 năm 2004\" nói về sửa đổi Hiệp định) → ngày ban hành",
+   "la_vbqppl": "Công văn thông báo về điều ước quốc tế"
+  },
+  "chua_chac": []
+ },
+ {
+  "doc_id": "369680",
+  "la_vbqppl": true,
+  "cap_hieu_luc": 11,
+  "ngay_hieu_luc": "2017-01-27",
+  "ngay_het_hieu_luc": null,
+  "ngay_hoi_to": null,
+  "hieu_luc_rieng": [],
+  "trich": {
+   "ngay_hieu_luc": "Quyết định này có hiệu lực thi hành kể từ ngày 27/01/2017.",
+   "la_vbqppl": "Quyết định UBND tỉnh sửa đổi quy định QPPL về chế độ đào tạo, bồi dưỡng",
+   "cap_hieu_luc": "Quyết định UBND cấp tỉnh"
+  },
+  "chua_chac": []
+ },
+ {
+  "doc_id": "650218",
+  "la_vbqppl": false,
+  "cap_hieu_luc": null,
+  "ngay_hieu_luc": "2025-03-27",
+  "ngay_het_hieu_luc": null,
+  "ngay_hoi_to": null,
+  "hieu_luc_rieng": [],
+  "trich": {
+   "ngay_hieu_luc": "Quyết định này có hiệu lực kể từ ngày ký./.",
+   "la_vbqppl": "Quyết định triển khai thực hiện nghị quyết HĐND, số hiệu không theo dạng QPPL"
+  },
+  "chua_chac": [
+   "la_vbqppl"
+  ]
+ }
+]

@@ -1,0 +1,447 @@
+[
+ {
+  "doc_id": "140282",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "huy-bo",
+    "target_document": "08/2007/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm 1 Mục V Phần I"
+    ],
+    "doi_tuong": null,
+    "evidence": "VỀ VIỆC HỦY BỎ, THAY THẾ NỘI DUNG ĐIỂM 1 CỦA MỤC V, PHẦN I NGHỊ QUYẾT SỐ 08/2007/NQ-HĐND NGÀY 11/5/2007 CỦA HĐND TỈNH KHÓA VII"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "thay-the",
+    "target_document": "08/2007/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm 1 Mục V Phần I"
+    ],
+    "doi_tuong": null,
+    "evidence": "VỀ VIỆC HỦY BỎ, THAY THẾ NỘI DUNG ĐIỂM 1 CỦA MỤC V, PHẦN I NGHỊ QUYẾT SỐ 08/2007/NQ-HĐND NGÀY 11/5/2007 CỦA HĐND TỈNH KHÓA VII"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "huy-bo",
+    "target_document": "08/2007/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm 1 Mục V Phần I"
+    ],
+    "doi_tuong": null,
+    "evidence": "Hủy bỏ nội dung điểm 1 của mục V, phần I Nghị quyết số 08/2007/NQ-HĐND ngày 11/5/2007 của HĐND tỉnh khóa VII"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "thay-the",
+    "target_document": "08/2007/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm 1 Mục V Phần I"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế nội dung của điểm 1, mục V, phần I Nghị quyết số 08/2007/NQ-HĐND ngày 11/5/2007 của HĐND tỉnh khóa VII ở khoản 1 Điều này như sau:"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên văn bản tự nêu hủy bỏ, thay thế điểm 1 mục V phần I NQ 08/2007 nên có 2 quan hệ Phần đầu. Lời dẫn (Tờ trình về việc sửa đổi, bổ sung) không phải hành động."
+ },
+ {
+  "doc_id": "190627",
+  "relations": [
+   {
+    "source_path": "Điều 3",
+    "action": "thay-the",
+    "target_document": "166/2004/QĐ-UB",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này thay thế Quyết định số 166/2004/QĐ-UB, ngày 05/02/2004 của Uỷ ban nhân dân tỉnh"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 1 bãi bỏ một khoản thu, không nêu văn bản đích: không ghi. Căn cứ NQ 61/NQ-HĐND bãi bỏ NQ 54/2003 là căn cứ, không ghi."
+ },
+ {
+  "doc_id": "192235",
+  "relations": [
+   {
+    "source_path": "Điều 1",
+    "action": "huy-bo",
+    "target_document": "1124/QĐ-CT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Huỷ bỏ 34 văn bản quy phạm pháp luật và văn bản có chứa quy phạm pháp luật do UBND tỉnh, Chủ tịch UBND tỉnh ban hành từ ngày 01/01/1997 đến ngày 31/12/2009. (Có Danh sách kèm theo)."
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "huy-bo",
+    "target_document": "24/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Huỷ bỏ 34 văn bản quy phạm pháp luật và văn bản có chứa quy phạm pháp luật do UBND tỉnh, Chủ tịch UBND tỉnh ban hành từ ngày 01/01/1997 đến ngày 31/12/2009. (Có Danh sách kèm theo)."
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "huy-bo",
+    "target_document": "170/2001/QĐ-UB",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Huỷ bỏ 34 văn bản quy phạm pháp luật và văn bản có chứa quy phạm pháp luật do UBND tỉnh, Chủ tịch UBND tỉnh ban hành từ ngày 01/01/1997 đến ngày 31/12/2009. (Có Danh sách kèm theo)."
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "huy-bo",
+    "target_document": "103/2007/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Huỷ bỏ 34 văn bản quy phạm pháp luật và văn bản có chứa quy phạm pháp luật do UBND tỉnh, Chủ tịch UBND tỉnh ban hành từ ngày 01/01/1997 đến ngày 31/12/2009. (Có Danh sách kèm theo)."
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "huy-bo",
+    "target_document": "33/1998/QĐ-CT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Huỷ bỏ 34 văn bản quy phạm pháp luật và văn bản có chứa quy phạm pháp luật do UBND tỉnh, Chủ tịch UBND tỉnh ban hành từ ngày 01/01/1997 đến ngày 31/12/2009. (Có Danh sách kèm theo)."
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "huy-bo",
+    "target_document": "133/1998/QĐ-CT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Huỷ bỏ 34 văn bản quy phạm pháp luật và văn bản có chứa quy phạm pháp luật do UBND tỉnh, Chủ tịch UBND tỉnh ban hành từ ngày 01/01/1997 đến ngày 31/12/2009. (Có Danh sách kèm theo)."
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "huy-bo",
+    "target_document": "134/1998/QĐ-CT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Huỷ bỏ 34 văn bản quy phạm pháp luật và văn bản có chứa quy phạm pháp luật do UBND tỉnh, Chủ tịch UBND tỉnh ban hành từ ngày 01/01/1997 đến ngày 31/12/2009. (Có Danh sách kèm theo)."
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "huy-bo",
+    "target_document": "96/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Huỷ bỏ 34 văn bản quy phạm pháp luật và văn bản có chứa quy phạm pháp luật do UBND tỉnh, Chủ tịch UBND tỉnh ban hành từ ngày 01/01/1997 đến ngày 31/12/2009. (Có Danh sách kèm theo)."
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "huy-bo",
+    "target_document": "106/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Huỷ bỏ 34 văn bản quy phạm pháp luật và văn bản có chứa quy phạm pháp luật do UBND tỉnh, Chủ tịch UBND tỉnh ban hành từ ngày 01/01/1997 đến ngày 31/12/2009. (Có Danh sách kèm theo)."
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "huy-bo",
+    "target_document": "1187/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Huỷ bỏ 34 văn bản quy phạm pháp luật và văn bản có chứa quy phạm pháp luật do UBND tỉnh, Chủ tịch UBND tỉnh ban hành từ ngày 01/01/1997 đến ngày 31/12/2009. (Có Danh sách kèm theo)."
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "huy-bo",
+    "target_document": "36/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Huỷ bỏ 34 văn bản quy phạm pháp luật và văn bản có chứa quy phạm pháp luật do UBND tỉnh, Chủ tịch UBND tỉnh ban hành từ ngày 01/01/1997 đến ngày 31/12/2009. (Có Danh sách kèm theo)."
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "huy-bo",
+    "target_document": "295/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Huỷ bỏ 34 văn bản quy phạm pháp luật và văn bản có chứa quy phạm pháp luật do UBND tỉnh, Chủ tịch UBND tỉnh ban hành từ ngày 01/01/1997 đến ngày 31/12/2009. (Có Danh sách kèm theo)."
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "huy-bo",
+    "target_document": "296/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Huỷ bỏ 34 văn bản quy phạm pháp luật và văn bản có chứa quy phạm pháp luật do UBND tỉnh, Chủ tịch UBND tỉnh ban hành từ ngày 01/01/1997 đến ngày 31/12/2009. (Có Danh sách kèm theo)."
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "huy-bo",
+    "target_document": "2192/QĐ-CT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Huỷ bỏ 34 văn bản quy phạm pháp luật và văn bản có chứa quy phạm pháp luật do UBND tỉnh, Chủ tịch UBND tỉnh ban hành từ ngày 01/01/1997 đến ngày 31/12/2009. (Có Danh sách kèm theo)."
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "huy-bo",
+    "target_document": "129/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Huỷ bỏ 34 văn bản quy phạm pháp luật và văn bản có chứa quy phạm pháp luật do UBND tỉnh, Chủ tịch UBND tỉnh ban hành từ ngày 01/01/1997 đến ngày 31/12/2009. (Có Danh sách kèm theo)."
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "huy-bo",
+    "target_document": "61/2005/QĐ-UB",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Huỷ bỏ 34 văn bản quy phạm pháp luật và văn bản có chứa quy phạm pháp luật do UBND tỉnh, Chủ tịch UBND tỉnh ban hành từ ngày 01/01/1997 đến ngày 31/12/2009. (Có Danh sách kèm theo)."
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "huy-bo",
+    "target_document": "22/2006/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Huỷ bỏ 34 văn bản quy phạm pháp luật và văn bản có chứa quy phạm pháp luật do UBND tỉnh, Chủ tịch UBND tỉnh ban hành từ ngày 01/01/1997 đến ngày 31/12/2009. (Có Danh sách kèm theo)."
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "huy-bo",
+    "target_document": "10/2009/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Huỷ bỏ 34 văn bản quy phạm pháp luật và văn bản có chứa quy phạm pháp luật do UBND tỉnh, Chủ tịch UBND tỉnh ban hành từ ngày 01/01/1997 đến ngày 31/12/2009. (Có Danh sách kèm theo)."
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "huy-bo",
+    "target_document": "540/UBND-NN",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Huỷ bỏ 34 văn bản quy phạm pháp luật và văn bản có chứa quy phạm pháp luật do UBND tỉnh, Chủ tịch UBND tỉnh ban hành từ ngày 01/01/1997 đến ngày 31/12/2009. (Có Danh sách kèm theo)."
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "huy-bo",
+    "target_document": "1066/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Huỷ bỏ 34 văn bản quy phạm pháp luật và văn bản có chứa quy phạm pháp luật do UBND tỉnh, Chủ tịch UBND tỉnh ban hành từ ngày 01/01/1997 đến ngày 31/12/2009. (Có Danh sách kèm theo)."
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "huy-bo",
+    "target_document": "1527/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Huỷ bỏ 34 văn bản quy phạm pháp luật và văn bản có chứa quy phạm pháp luật do UBND tỉnh, Chủ tịch UBND tỉnh ban hành từ ngày 01/01/1997 đến ngày 31/12/2009. (Có Danh sách kèm theo)."
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "huy-bo",
+    "target_document": "1984/QĐ-CT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Huỷ bỏ 34 văn bản quy phạm pháp luật và văn bản có chứa quy phạm pháp luật do UBND tỉnh, Chủ tịch UBND tỉnh ban hành từ ngày 01/01/1997 đến ngày 31/12/2009. (Có Danh sách kèm theo)."
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "huy-bo",
+    "target_document": "1911/QĐ-CT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Huỷ bỏ 34 văn bản quy phạm pháp luật và văn bản có chứa quy phạm pháp luật do UBND tỉnh, Chủ tịch UBND tỉnh ban hành từ ngày 01/01/1997 đến ngày 31/12/2009. (Có Danh sách kèm theo)."
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "huy-bo",
+    "target_document": "1912/QĐ-CT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Huỷ bỏ 34 văn bản quy phạm pháp luật và văn bản có chứa quy phạm pháp luật do UBND tỉnh, Chủ tịch UBND tỉnh ban hành từ ngày 01/01/1997 đến ngày 31/12/2009. (Có Danh sách kèm theo)."
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "huy-bo",
+    "target_document": "136/2004/QĐ-UB",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Huỷ bỏ 34 văn bản quy phạm pháp luật và văn bản có chứa quy phạm pháp luật do UBND tỉnh, Chủ tịch UBND tỉnh ban hành từ ngày 01/01/1997 đến ngày 31/12/2009. (Có Danh sách kèm theo)."
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "huy-bo",
+    "target_document": "753/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Huỷ bỏ 34 văn bản quy phạm pháp luật và văn bản có chứa quy phạm pháp luật do UBND tỉnh, Chủ tịch UBND tỉnh ban hành từ ngày 01/01/1997 đến ngày 31/12/2009. (Có Danh sách kèm theo)."
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "huy-bo",
+    "target_document": "2362/QĐ-CT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Huỷ bỏ 34 văn bản quy phạm pháp luật và văn bản có chứa quy phạm pháp luật do UBND tỉnh, Chủ tịch UBND tỉnh ban hành từ ngày 01/01/1997 đến ngày 31/12/2009. (Có Danh sách kèm theo)."
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "huy-bo",
+    "target_document": "138/QĐ-CT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Huỷ bỏ 34 văn bản quy phạm pháp luật và văn bản có chứa quy phạm pháp luật do UBND tỉnh, Chủ tịch UBND tỉnh ban hành từ ngày 01/01/1997 đến ngày 31/12/2009. (Có Danh sách kèm theo)."
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "huy-bo",
+    "target_document": "491/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Huỷ bỏ 34 văn bản quy phạm pháp luật và văn bản có chứa quy phạm pháp luật do UBND tỉnh, Chủ tịch UBND tỉnh ban hành từ ngày 01/01/1997 đến ngày 31/12/2009. (Có Danh sách kèm theo)."
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "huy-bo",
+    "target_document": "2369/UBND-NC",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Huỷ bỏ 34 văn bản quy phạm pháp luật và văn bản có chứa quy phạm pháp luật do UBND tỉnh, Chủ tịch UBND tỉnh ban hành từ ngày 01/01/1997 đến ngày 31/12/2009. (Có Danh sách kèm theo)."
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "huy-bo",
+    "target_document": "231/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Huỷ bỏ 34 văn bản quy phạm pháp luật và văn bản có chứa quy phạm pháp luật do UBND tỉnh, Chủ tịch UBND tỉnh ban hành từ ngày 01/01/1997 đến ngày 31/12/2009. (Có Danh sách kèm theo)."
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "huy-bo",
+    "target_document": "1247/QĐ-CT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Huỷ bỏ 34 văn bản quy phạm pháp luật và văn bản có chứa quy phạm pháp luật do UBND tỉnh, Chủ tịch UBND tỉnh ban hành từ ngày 01/01/1997 đến ngày 31/12/2009. (Có Danh sách kèm theo)."
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "huy-bo",
+    "target_document": "1327/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Huỷ bỏ 34 văn bản quy phạm pháp luật và văn bản có chứa quy phạm pháp luật do UBND tỉnh, Chủ tịch UBND tỉnh ban hành từ ngày 01/01/1997 đến ngày 31/12/2009. (Có Danh sách kèm theo)."
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "huy-bo",
+    "target_document": "644/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Huỷ bỏ 34 văn bản quy phạm pháp luật và văn bản có chứa quy phạm pháp luật do UBND tỉnh, Chủ tịch UBND tỉnh ban hành từ ngày 01/01/1997 đến ngày 31/12/2009. (Có Danh sách kèm theo)."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 1 hủy bỏ 34 văn bản liệt kê ở Danh sách kèm theo (Phụ lục 1, 34 dòng): mỗi văn bản một quan hệ. Dòng 8 ghi '96 /QĐ-UBND', chuẩn hóa '96/QĐ-UBND'. Dòng 19, 30 là công văn có số hiệu. Tên văn bản không nêu số hiệu đích."
+ },
+ {
+  "doc_id": "91952",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên và lời dẫn 'quy định chi tiết việc xét công nhận...' không nêu số hiệu văn bản đích (QĐ 174/2008/QĐ-TTg chỉ ở căn cứ): không ghi Phần đầu. 'Hủy bỏ công nhận' là nội dung về chức danh, không phải hành động lên văn bản."
+ },
+ {
+  "doc_id": "560918",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn hướng dẫn triển khai vốn, không nêu hướng dẫn một văn bản cụ thể; các QĐ 07/2022/QĐ-TTg, 263/QĐ-TTg... chỉ là dẫn chiếu. 5 phụ lục là bảng số liệu và tiêu chí phân bổ, không có hành động."
+ },
+ {
+  "doc_id": "17926",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "huong-dan",
+    "target_document": "287/2006/QĐ-TTg",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "HƯỚNG DẪN VIỆC TÍNH MỨC LƯƠNG HƯU ĐỐI VỚI CÔNG CHỨC, VIÊN CHỨC NGÀNH HẢI QUAN NGHỈ HƯU THEO QUY ĐỊNH TẠI QUYẾT ĐỊNH SỐ 287/2006/QĐ-TTG NGÀY 27 THÁNG 12 NĂM 2006 CỦA THỦ TƯỚNG CHÍNH PHỦ"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên văn bản và lời dẫn ('Căn cứ QĐ 287/2006/QĐ-TTg ..., Bộ ... hướng dẫn thực hiện như sau') cùng nêu hướng dẫn QĐ 287/2006: một quan hệ Phần đầu. Các Nghị định điều chỉnh lương hưu chỉ là dẫn chiếu."
+ },
+ {
+  "doc_id": "221835",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn trả lời doanh nghiệp, không có hành động lên văn bản khác."
+ },
+ {
+  "doc_id": "144450",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn trả lời doanh nghiệp, chỉ trích dẫn Thông tư 134/2008/TT-BTC."
+ },
+ {
+  "doc_id": "301016",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "huong-dan",
+    "target_document": "1193/QĐ-TTg",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "HƯỚNG DẪN CƠ CHẾ, CHÍNH SÁCH ƯU ĐÃI VỀ HỖ TRỢ NGÂN SÁCH NHÀ NƯỚC, THUẾ VÀ TÍN DỤNG ĐẦU TƯ PHÁT TRIỂN CỦA NHÀ NƯỚC THEO QUY ĐỊNH TẠI QUYẾT ĐỊNH SỐ 1193/QĐ-TTG NGÀY 30/7/2015"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "huong-dan",
+    "target_document": "1193/QĐ-TTg",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thông tư này hướng dẫn cơ chế, chính sách ưu đãi về hỗ trợ ngân sách nhà nước, thuế và tín dụng đầu tư phát triển của Nhà nước theo quy định tại Quyết định số 1193/QĐ-TTg ngày 30/7/2015"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên và lời dẫn ('Bộ trưởng ... ban hành Thông tư hướng dẫn ... theo quy định tại Quyết định số 1193/QĐ-TTg') cho một quan hệ Phần đầu; Điều 1 một quan hệ riêng. Điều 9 khoản 2 là câu chung về văn bản dẫn chiếu được sửa đổi, không phải quan hệ."
+ }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "doc_id": "669744",
+    "relations": [
+      {
+        "source_path": "Điều 3",
+        "action": "bai-bo",
+        "target_document": "2191/QĐ-UBND",
+        "target_section": "kem_theo",
+        "vi_tri": [],
+        "doi_tuong": "03 thủ tục hành chính số thứ tự 64, 65, 66 thuộc Danh mục",
+        "evidence": "Bãi bỏ:\n\n- 03 thủ tục hành chính số thứ tự 64, 65, 66 thuộc Danh mục ban hành kèm theo Quyết định số 2191/QĐ-UBND ngày 05/11/2024 của Chủ tịch Ủy ban nhân dân tỉnh Phú Thọ."
+      },
+      {
+        "source_path": "Điều 3",
+        "action": "bai-bo",
+        "target_document": "2140/QĐ-UBND",
+        "target_section": "kem_theo",
+        "vi_tri": [],
+        "doi_tuong": "03 thủ tục hành chính số thứ tự 8, 9, 10 thuộc Danh mục",
+        "evidence": "- 03 thủ tục hành chính số thứ tự 8, 9, 10 thuộc Danh mục ban hành kèm theo Quyết định số 2140/QĐ-UBND ngày 30/10/2024 của Chủ tịch Ủy ban nhân dân tỉnh Phú Thọ."
+      }
+    ],
+    "loi_cau_truc": [],
+    "ghi_chu": "Lệnh Bãi bỏ ở câu dẫn Điều 3 áp dụng cho cả hai gạch đầu dòng; bảng TTHC không làm bãi bỏ các văn bản ở cột căn cứ.",
+    "annotation_status": "reviewed",
+    "uncertain_cases": []
+  },
+  {
+    "doc_id": "487140",
+    "relations": [],
+    "loi_cau_truc": [],
+    "ghi_chu": "Công bố danh mục TTHC; cột VBQPPL quy định nội dung thay thế/bãi bỏ nêu văn bản căn cứ, không phải đích bị Quyết định này thay/bãi bỏ.",
+    "annotation_status": "reviewed",
+    "uncertain_cases": []
+  },
+  {
+    "doc_id": "584225",
+    "relations": [],
+    "loi_cau_truc": [],
+    "ghi_chu": "Đình chỉ lô mỹ phẩm, không đình chỉ hiệu lực văn bản hoặc số công bố sản phẩm.",
+    "annotation_status": "reviewed",
+    "uncertain_cases": []
+  },
+  {
+    "doc_id": "55308",
+    "relations": [],
+    "loi_cau_truc": [],
+    "ghi_chu": "Đình chỉ công tác cá nhân, không đình chỉ văn bản.",
+    "annotation_status": "reviewed",
+    "uncertain_cases": []
+  },
+  {
+    "doc_id": "655647",
+    "relations": [],
+    "loi_cau_truc": [],
+    "ghi_chu": "Có lệnh thay nội dung TTHC nhưng không định danh các Quyết định cũ. Không đoán đích từ văn bản căn cứ trong bảng.",
+    "annotation_status": "reviewed",
+    "uncertain_cases": [
+      "Điều 3 có tác động thay thế thật nhưng văn bản đích không xác định từ nguồn: phải giữ unresolved, không tạo cạnh validated."
+    ]
+  }
+]

@@ -1,0 +1,345 @@
+[
+ {
+  "doc_id": "619366",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "12/2022/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "VỀ VIỆC SỬA ĐỔI, BỔ SUNG ĐIỀU 2 QUYẾT ĐỊNH SỐ 12/2022/QĐ-UBND"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "12/2022/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "VỀ VIỆC SỬA ĐỔI, BỔ SUNG ĐIỀU 2 QUYẾT ĐỊNH SỐ 12/2022/QĐ-UBND"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "sua-doi",
+    "target_document": "12/2022/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 2 Quyết định số 12/2022/QĐ-UBND"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bo-sung",
+    "target_document": "12/2022/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 2 Quyết định số 12/2022/QĐ-UBND"
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 2",
+    "loai": "nhan_sai_dieu",
+    "ghi_chu": "Câu hiệu lực bị nhận thành tên Điều 2 (ten_dieu)."
+   }
+  ],
+  "ghi_chu": "Phụ lục I chỉ là mẫu văn bản có nhắc QĐ 12/2022 (căn cứ), không phải quan hệ."
+ },
+ {
+  "doc_id": "343188",
+  "relations": [
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bai-bo",
+    "target_document": "3888/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ các Quyết định sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "3915/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ các Quyết định sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "bai-bo",
+    "target_document": "3155/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ các Quyết định sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 4",
+    "action": "bai-bo",
+    "target_document": "588/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ các Quyết định sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 5",
+    "action": "bai-bo",
+    "target_document": "724/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ các Quyết định sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 6",
+    "action": "bai-bo",
+    "target_document": "08/2008/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ các Quyết định sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 7",
+    "action": "bai-bo",
+    "target_document": "3666/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ các Quyết định sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 8",
+    "action": "bai-bo",
+    "target_document": "5149/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ các Quyết định sau:"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên văn bản không nêu số hiệu nên không có quan hệ Phần đầu. 8 quyết định thành lập bị bãi bỏ, mỗi khoản một văn bản."
+ },
+ {
+  "doc_id": "379665",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "bai-bo",
+    "target_document": "2186/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "VỀ VIỆC BÃI BỎ QUYẾT ĐỊNH SỐ 2186/QĐ-UBND"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bai-bo",
+    "target_document": "2186/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ Quyết định số 2186/QĐ-UBND ngày 03 tháng 8 năm 2015"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": ""
+ },
+ {
+  "doc_id": "616667",
+  "relations": [
+   {
+    "source_path": "Điều 1",
+    "action": "bai-bo",
+    "target_document": "2606/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "02 TTHC số 04, 05 (Cấp phát thuốc Methadone cho người bệnh điều trị đặc biệt tại nhà; tại cơ sở khám, chữa bệnh)",
+    "evidence": "bãi bỏ 02 TTHC số 04, 05 ban hành kèm theo Quyết định số 2606/QĐ-UBND"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 1 tự nói bãi bỏ 2 TTHC số 04, 05 kèm theo QĐ 2606/QĐ-UBND nên ghi quan hệ. Dòng bảng chỉ nêu QĐ 312/QĐ-BYT ở cột VBQPPL quy định việc bãi bỏ (căn cứ), không phải đích. Tên văn bản không nêu số hiệu."
+ },
+ {
+  "doc_id": "628298",
+  "relations": [
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bai-bo",
+    "target_document": "29/2020/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ các quyết định sau đây:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "11/2021/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ các quyết định sau đây:"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên văn bản 'BÃI BỎ CÁC QUYẾT ĐỊNH CỦA ỦY BAN NHÂN DÂN TỈNH BÌNH ĐỊNH' không nêu số hiệu nên không có quan hệ Phần đầu."
+ },
+ {
+  "doc_id": "375349",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "bai-bo",
+    "target_document": "02/2012/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "BÃI BỎ QUYẾT ĐỊNH SỐ 02/2012/QĐ-UBND"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bai-bo",
+    "target_document": "02/2012/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ Quyết định số 02/2012/QĐ-UBND ngày 10 tháng 9 năm 2012"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "QĐ 02/2012/QĐ-UBND của UBND Quận 11."
+ },
+ {
+  "doc_id": "194135",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "bai-bo",
+    "target_document": "288/2006/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "nội dung thu cơ sở vật chất trường học",
+    "evidence": "VỀ VIỆC BÃI BỎ NỘI DUNG THU CƠ SỞ VẬT CHẤT TRƯỜNG HỌC ĐÃ BAN HÀNH TẠI QUYẾT ĐỊNH SỐ 288/2006/QĐ-UBND"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bai-bo",
+    "target_document": "288/2006/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 1"
+    ],
+    "doi_tuong": "quy định về thu xây dựng cơ sở vật chất trường học (phần B)",
+    "evidence": "Bãi bỏ quy định về thu xây dựng cơ sở vật chất trường học đã ban hành tại phần B, Điều 1 của Quyết định số 288/2006/QĐ-UBND"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Phần B trong Điều 1: vi_tri dừng ở Điều 1, ghi doi_tuong. Điều 3 'bãi bỏ các quy định có liên quan ... trái với quy định này' là câu chung, không phải quan hệ."
+ },
+ {
+  "doc_id": "322075",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "bai-bo",
+    "target_document": "47/2015/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "VỀ VIỆC BÃI BỎ QUYẾT ĐỊNH SỐ 47/2015/QĐ-UBND"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bai-bo",
+    "target_document": "47/2015/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ Quyết định số 47/2015/QĐ-UBND ngày 27 tháng 7 năm 2015"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": ""
+ },
+ {
+  "doc_id": "687573",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Kế hoạch; 'thay thế' chỉ là thuốc thay thế. Không có quan hệ."
+ },
+ {
+  "doc_id": "371663",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn trả lời về thuế; 'thay thế' là hàng hóa thay thế bảo hành. Không có quan hệ."
+ },
+ {
+  "doc_id": "183795",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công bố TTHC mới thay thế và TTHC bị thay thế; dòng Phụ lục 2 không nêu quyết định đã công bố TTHC cũ (chỉ kể lại luật thay thế luật cũ). Không có quan hệ."
+ },
+ {
+  "doc_id": "220238",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Chỉ thị; 'trồng rừng thay thế' không phải hành động pháp lý. Không có quan hệ."
+ },
+ {
+  "doc_id": "456169",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "thay-the",
+    "target_document": "896/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Phụ lục đơn giá",
+    "evidence": "VỀ VIỆC THAY THẾ PHỤ LỤC ĐƠN GIÁ BAN HÀNH KÈM THEO QUYẾT ĐỊNH SỐ 896/QĐ-UBND"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "thay-the",
+    "target_document": "896/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "các phụ lục (đơn giá cơ sở dữ liệu địa chính; thống kê, kiểm kê đất đai; quy hoạch, kế hoạch sử dụng đất; giá đất)",
+    "evidence": "Ban hành kèm theo Quyết định này là các phụ lục thay thế các phụ lục kèm theo Quyết định số 896/QĐ-UBND"
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "huy-bo",
+    "target_document": "3936/UBND-NNTN",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "hủy bỏ Công văn số 3936/UBND-NNTN ngày 24/8/2020 của UBND tỉnh"
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 2",
+    "loai": "gop_sai",
+    "ghi_chu": "Điều 4 (điều khoản thi hành) bị gộp vào Điều 2; văn bản không có Điều 3."
+   }
+  ],
+  "ghi_chu": "Điều 1 không nêu số của các phụ lục cũ nên vi_tri rỗng, ghi doi_tuong. Phần đầu ghi năm ban hành 2019 nhưng nội dung dẫn văn bản tháng 9/2020 (lỗi đánh máy năm)."
+ }
+]

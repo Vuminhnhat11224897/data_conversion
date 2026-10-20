@@ -1,0 +1,212 @@
+[
+ {
+  "doc_id": "642433",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "1143/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực kể từ ngày ký và thay thế Quyết định số 1143/QĐ-UBND ngày 05 tháng 5 năm 2024 của Chủ tịch Ủy ban nhân dân tỉnh Kiên Giang"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Toàn văn là QĐ 1681/QĐ-UBND ngày 06/6/2024 của Chủ tịch UBND tỉnh (về Sở Tư pháp), khác tên và ngày trong gói (2022, Sở Y tế). Gán theo toàn văn. Cột Ghi chú của bảng phụ lục trống."
+ },
+ {
+  "doc_id": "557690",
+  "relations": [
+   {
+    "source_path": "Điều 1",
+    "action": "sua-doi",
+    "target_document": "705/QĐ-BXD",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "05 thủ tục hành chính trong lĩnh vực nhà ở liên quan đến bãi bỏ thành phần hồ sơ về xuất trình sổ hộ khẩu giấy",
+    "evidence": "Công bố kèm theo Quyết định này sửa đổi, bổ sung 05 thủ tục hành chính trong lĩnh vực nhà ở liên quan đến bãi bỏ thành phần hồ sơ về xuất trình sổ hộ khẩu giấy thuộc phạm vi và chức năng quản lý của Bộ Xây dựng đã được ban hành tại Quyết định số 705/QĐ-BXD ngày 11 tháng 6 năm 2021"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bo-sung",
+    "target_document": "705/QĐ-BXD",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "05 thủ tục hành chính trong lĩnh vực nhà ở liên quan đến bãi bỏ thành phần hồ sơ về xuất trình sổ hộ khẩu giấy",
+    "evidence": "Công bố kèm theo Quyết định này sửa đổi, bổ sung 05 thủ tục hành chính trong lĩnh vực nhà ở liên quan đến bãi bỏ thành phần hồ sơ về xuất trình sổ hộ khẩu giấy thuộc phạm vi và chức năng quản lý của Bộ Xây dựng đã được ban hành tại Quyết định số 705/QĐ-BXD ngày 11 tháng 6 năm 2021"
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Phụ lục 5 Điều 7 Khoản 3",
+    "loai": "gop_sai",
+    "ghi_chu": "Phụ lục 2 và 5 là mẫu hợp đồng (Thông tư 19/2016/TT-BXD) bị chia thành Điều/Khoản; nội dung thủ tục 3, 4, 5 của Phần II bị gộp vào Phụ lục 5 Điều 7 Khoản 3, 4, 5"
+   }
+  ],
+  "ghi_chu": "Ca khó: Điều 1 là câu công bố TTHC nhưng tự nêu sửa đổi, bổ sung 05 TTHC đã ban hành tại QĐ 705/QĐ-BXD, nên ghi quan hệ. Bảng phụ lục chỉ nêu Nghị định 104/2022/NĐ-CP là văn bản quy định nội dung sửa đổi (căn cứ pháp lý), không phải đích."
+ },
+ {
+  "doc_id": "444909",
+  "relations": [
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bai-bo",
+    "target_document": "2544/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Thủ tục chấp thuận vận tải hành khách, hành lý, bao gởi theo tuyến cố định đối với tổ chức, cá nhân Việt Nam",
+    "evidence": "Thủ tục chấp thuận vận tải hành khách, hành lý, bao gởi theo tuyến cố định đối với tổ chức, cá nhân Việt Nam (số thứ tự 81, Mục II, Phần A được ban hành tại Quyết định số 2544/QĐ-UBND ngày 24/7/2018"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "2544/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Thủ tục chấp thuận vận tải hành khách ngang sông",
+    "evidence": "Thủ tục chấp thuận vận tải hành khách ngang sông (số thứ tự 83, Mục II, Phần A được ban hành tại Quyết định số 2544/QĐ-UBND ngày 24/7/2018"
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 1",
+    "loai": "thieu_noi_dung",
+    "ghi_chu": "don_vi Điều 1 chỉ có câu dẫn \"Bãi bỏ 02 thủ tục hành chính ... như sau:\"; khoản 1 và khoản 2 (nêu QĐ 2544/QĐ-UBND) bị mất"
+   }
+  ],
+  "ghi_chu": "Chữ hành động \"Bãi bỏ\" ở câu dẫn Điều 1; đích nêu ở khoản 1, 2 (dòng STT 81, 83 Mục II Phần A của QĐ 2544). Điều 2 \"các nội dung khác ... vẫn giữ nguyên giá trị\" không phải quan hệ."
+ },
+ {
+  "doc_id": "509058",
+  "relations": [
+   {
+    "source_path": "Điều 3",
+    "action": "thay-the",
+    "target_document": "314/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "các quy trình nội bộ số 35, 36 Mục VI; quy trình nội bộ từ số 62 đến 67 khoản VIII, Mục A, phần I, phần II",
+    "evidence": "thay thế các quy trình nội bộ số 35, 36 Mục VI; quy trình nội bộ từ số 62 đến 67 khoản VIII, Mục A, phần I, phần II tại Quyết định số 314/QĐ-UBND ngày 21 tháng 6 năm 2021"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Vị trí trong QĐ 314 là số thứ tự quy trình trong danh mục kèm theo, không nêu phụ lục: để vi_tri rỗng, ghi doi_tuong. Bảng phụ lục không có ghi chú tác động."
+ },
+ {
+  "doc_id": "641337",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "sua-doi",
+    "target_document": "3533/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này sửa đổi, bổ sung Quyết định số 3533/QĐ-UBND ngày 23 tháng 9 năm 2023"
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bo-sung",
+    "target_document": "3533/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này sửa đổi, bổ sung Quyết định số 3533/QĐ-UBND ngày 23 tháng 9 năm 2023"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên văn bản không nêu số hiệu đích nên không có quan hệ Phần đầu."
+ },
+ {
+  "doc_id": "153969",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "27/2008/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "VỀ VIỆC SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA QUY ĐỊNH THẨM QUYỀN TUYỂN DỤNG, SỬ DỤNG VÀ QUẢN LÝ CÁN BỘ, VIÊN CHỨC TRONG CÁC ĐƠN VỊ SỰ NGHIỆP CỦA NHÀ NƯỚC TRÊN ĐỊA BÀN TỈNH TIỀN GIANG BAN HÀNH KÈM THEO QUYẾT ĐỊNH SỐ 27/2008/QĐ-UBND"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "27/2008/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "VỀ VIỆC SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA QUY ĐỊNH THẨM QUYỀN TUYỂN DỤNG, SỬ DỤNG VÀ QUẢN LÝ CÁN BỘ, VIÊN CHỨC TRONG CÁC ĐƠN VỊ SỰ NGHIỆP CỦA NHÀ NƯỚC TRÊN ĐỊA BÀN TỈNH TIỀN GIANG BAN HÀNH KÈM THEO QUYẾT ĐỊNH SỐ 27/2008/QĐ-UBND"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "sua-doi",
+    "target_document": "27/2008/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung một số điều của Quy định thẩm quyền tuyển dụng, sử dụng và quản lý cán bộ, viên chức trong các đơn vị sự nghiệp của Nhà nước trên địa bàn tỉnh ban hành kèm theo Quyết định số 27/2008/QĐ-UBND"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bo-sung",
+    "target_document": "27/2008/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung một số điều của Quy định thẩm quyền tuyển dụng, sử dụng và quản lý cán bộ, viên chức trong các đơn vị sự nghiệp của Nhà nước trên địa bàn tỉnh ban hành kèm theo Quyết định số 27/2008/QĐ-UBND"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "27/2008/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm b khoản 1 Điều 5",
+     "điểm c khoản 1 Điều 5",
+     "khoản 2 Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm b, điểm c khoản 1 và khoản 2 Điều 5"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "27/2008/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm b khoản 1 Điều 5",
+     "điểm c khoản 1 Điều 5",
+     "khoản 2 Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm b, điểm c khoản 1 và khoản 2 Điều 5"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "27/2008/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 1 Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 Điều 7"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "27/2008/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 1 Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 Điều 7"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": ""
+ }
+]

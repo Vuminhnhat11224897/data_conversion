@@ -1,0 +1,157 @@
+[
+ {
+  "doc_id": "137546",
+  "la_vbqppl": false,
+  "cap_hieu_luc": null,
+  "ngay_hieu_luc": "2007-01-11",
+  "ngay_het_hieu_luc": null,
+  "ngay_hoi_to": null,
+  "hieu_luc_rieng": [],
+  "trich": {
+   "ngay_hieu_luc": "Không có câu hiệu lực; văn bản không phải VBQPPL nên lấy ngày ban hành",
+   "la_vbqppl": "Hướng dẫn của Liên Sở, không phải hình thức VBQPPL",
+   "cap_hieu_luc": "null vì không phải VBQPPL"
+  },
+  "chua_chac": []
+ },
+ {
+  "doc_id": "506236",
+  "la_vbqppl": false,
+  "cap_hieu_luc": null,
+  "ngay_hieu_luc": "2022-01-28",
+  "ngay_het_hieu_luc": null,
+  "ngay_hoi_to": null,
+  "hieu_luc_rieng": [],
+  "trich": {
+   "ngay_hieu_luc": "Công văn không có câu hiệu lực của chính nó (câu 'có hiệu lực thi hành kể từ ngày 01 tháng 7 năm 2022' thuộc dự thảo Thông tư); lấy ngày ban hành",
+   "la_vbqppl": "Công văn lấy ý kiến dự thảo",
+   "cap_hieu_luc": "null vì không phải VBQPPL"
+  },
+  "chua_chac": []
+ },
+ {
+  "doc_id": "253059",
+  "la_vbqppl": false,
+  "cap_hieu_luc": null,
+  "ngay_hieu_luc": "2014-09-09",
+  "ngay_het_hieu_luc": null,
+  "ngay_hoi_to": null,
+  "hieu_luc_rieng": [],
+  "trich": {
+   "ngay_hieu_luc": "Điều 3. Quyết định có hiệu lực kể từ ngày ký.",
+   "la_vbqppl": "Quyết định cá biệt phê duyệt danh sách tỉnh thí điểm",
+   "cap_hieu_luc": "null vì không phải VBQPPL"
+  },
+  "chua_chac": []
+ },
+ {
+  "doc_id": "360762",
+  "la_vbqppl": false,
+  "cap_hieu_luc": null,
+  "ngay_hieu_luc": "2017-08-15",
+  "ngay_het_hieu_luc": null,
+  "ngay_hoi_to": null,
+  "hieu_luc_rieng": [],
+  "trich": {
+   "ngay_hieu_luc": "Điều 3. Quyết định này có hiệu lực thi hành kể từ ngày ký.",
+   "la_vbqppl": "Quyết định công bố danh sách thủ tục hành chính",
+   "cap_hieu_luc": "null vì không phải VBQPPL"
+  },
+  "chua_chac": []
+ },
+ {
+  "doc_id": "213287",
+  "la_vbqppl": false,
+  "cap_hieu_luc": null,
+  "ngay_hieu_luc": "2013-11-14",
+  "ngay_het_hieu_luc": null,
+  "ngay_hoi_to": null,
+  "hieu_luc_rieng": [],
+  "trich": {
+   "ngay_hieu_luc": "Điều 3. Quyết định có hiệu lực kể từ ngày ký.",
+   "la_vbqppl": "Quyết định cá biệt hủy bỏ một điều của các quyết định thành lập, đổi tên đơn vị; số hiệu không theo dạng VBQPPL",
+   "cap_hieu_luc": "null vì không phải VBQPPL"
+  },
+  "chua_chac": []
+ },
+ {
+  "doc_id": "189628",
+  "la_vbqppl": false,
+  "cap_hieu_luc": null,
+  "ngay_hieu_luc": "2007-10-22",
+  "ngay_het_hieu_luc": null,
+  "ngay_hoi_to": null,
+  "hieu_luc_rieng": [],
+  "trich": {
+   "ngay_hieu_luc": "Quyết định này có hiệu lực kể từ ngày ký./.",
+   "la_vbqppl": "Quyết định cá biệt hủy bỏ quyết định thành lập một trung tâm; số hiệu không theo dạng VBQPPL",
+   "cap_hieu_luc": "null vì không phải VBQPPL"
+  },
+  "chua_chac": [
+   "la_vbqppl"
+  ]
+ },
+ {
+  "doc_id": "96244",
+  "la_vbqppl": false,
+  "cap_hieu_luc": null,
+  "ngay_hieu_luc": "2009-10-19",
+  "ngay_het_hieu_luc": null,
+  "ngay_hoi_to": "2009-10-01",
+  "hieu_luc_rieng": [],
+  "trich": {
+   "ngay_hieu_luc": "Không có câu hiệu lực; công văn không phải VBQPPL nên lấy ngày ban hành",
+   "ngay_hoi_to": "Từ ngày 01/10/2009 đề nghị các Sở Lao động – Thương binh và Xã hội ngừng việc cấp phát thẻ khám bệnh, chữa bệnh không phải trả tiền cho trẻ em dưới 6 tuổi",
+   "la_vbqppl": "Công văn",
+   "cap_hieu_luc": "null vì không phải VBQPPL"
+  },
+  "chua_chac": [
+   "ngay_hoi_to"
+  ]
+ },
+ {
+  "doc_id": "350968",
+  "la_vbqppl": false,
+  "cap_hieu_luc": null,
+  "ngay_hieu_luc": "2016-01-11",
+  "ngay_het_hieu_luc": null,
+  "ngay_hoi_to": null,
+  "hieu_luc_rieng": [],
+  "trich": {
+   "ngay_hieu_luc": "Không có câu hiệu lực; công văn không phải VBQPPL nên lấy ngày ban hành",
+   "la_vbqppl": "Công văn",
+   "cap_hieu_luc": "null vì không phải VBQPPL"
+  },
+  "chua_chac": []
+ },
+ {
+  "doc_id": "52531",
+  "la_vbqppl": false,
+  "cap_hieu_luc": null,
+  "ngay_hieu_luc": "2004-11-03",
+  "ngay_het_hieu_luc": null,
+  "ngay_hoi_to": null,
+  "hieu_luc_rieng": [],
+  "trich": {
+   "ngay_hieu_luc": "Không có câu hiệu lực; công văn không phải VBQPPL nên lấy ngày ban hành",
+   "la_vbqppl": "Công văn hướng dẫn của Tổng cục Hải quan",
+   "cap_hieu_luc": "null vì không phải VBQPPL"
+  },
+  "chua_chac": []
+ },
+ {
+  "doc_id": "52012",
+  "la_vbqppl": true,
+  "cap_hieu_luc": 9,
+  "ngay_hieu_luc": null,
+  "ngay_het_hieu_luc": null,
+  "ngay_hoi_to": null,
+  "hieu_luc_rieng": [],
+  "trich": {
+   "ngay_hieu_luc": "Thông tư này có hiệu lực thi hành sau 15 ngày kể từ ngày đăng công báo.",
+   "la_vbqppl": "Thông tư liên tịch luôn là VBQPPL",
+   "cap_hieu_luc": "Thông tư liên tịch"
+  },
+  "chua_chac": []
+ }
+]

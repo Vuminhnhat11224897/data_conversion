@@ -1,0 +1,79 @@
+[
+ {
+  "doc_id": "639729",
+  "la_vbqppl": false,
+  "cap_hieu_luc": null,
+  "ngay_hieu_luc": "2024-12-03",
+  "ngay_het_hieu_luc": null,
+  "ngay_hoi_to": null,
+  "hieu_luc_rieng": [],
+  "trich": {
+   "ngay_hieu_luc": "Quyết định này có hiệu lực thi hành kể từ ngày ký.",
+   "la_vbqppl": "Quyết định của Chủ tịch UBND tỉnh phê duyệt quy trình nội bộ giải quyết thủ tục hành chính"
+  },
+  "chua_chac": []
+ },
+ {
+  "doc_id": "428475",
+  "la_vbqppl": true,
+  "cap_hieu_luc": 11,
+  "ngay_hieu_luc": "2019-11-20",
+  "ngay_het_hieu_luc": null,
+  "ngay_hoi_to": null,
+  "hieu_luc_rieng": [],
+  "trich": {
+   "ngay_hieu_luc": "Quyết định này có hiệu lực từ ngày 20 tháng 11 năm 2019.",
+   "la_vbqppl": "Quyết định của UBND tỉnh, số hiệu năm/QĐ-UBND, chứa quy tắc xử sự chung (sửa đổi Quyết định QPPL 20/2016/QĐ-UBND)",
+   "cap_hieu_luc": "Quyết định của UBND tỉnh Hải Dương"
+  },
+  "chua_chac": []
+ },
+ {
+  "doc_id": "249450",
+  "la_vbqppl": false,
+  "cap_hieu_luc": null,
+  "ngay_hieu_luc": "2014-08-26",
+  "ngay_het_hieu_luc": null,
+  "ngay_hoi_to": null,
+  "hieu_luc_rieng": [],
+  "trich": {
+   "ngay_hieu_luc": "Quyết định này có hiệu lực thi hành kể từ ngày ký.",
+   "la_vbqppl": "Quyết định của Chủ tịch UBND tỉnh (số hiệu 1271/QĐ-UBND, không có năm) bãi bỏ một Quyết định QPPL; theo Luật ban hành VBQPPL của HĐND, UBND 2004, Chủ tịch UBND tỉnh không có thẩm quyền ban hành VBQPPL"
+  },
+  "chua_chac": [
+   "la_vbqppl",
+   "ngay_hieu_luc"
+  ]
+ },
+ {
+  "doc_id": "496680",
+  "la_vbqppl": false,
+  "cap_hieu_luc": null,
+  "ngay_hieu_luc": "2021-10-15",
+  "ngay_het_hieu_luc": null,
+  "ngay_hoi_to": null,
+  "hieu_luc_rieng": [],
+  "trich": {
+   "ngay_hieu_luc": "Quyết định này có hiệu lực thi hành kể từ ngày ký.",
+   "la_vbqppl": "Quyết định của Chủ tịch UBND thành phố bãi bỏ quyết định công bố danh mục thủ tục hành chính"
+  },
+  "chua_chac": []
+ },
+ {
+  "doc_id": "127128",
+  "la_vbqppl": true,
+  "cap_hieu_luc": 10,
+  "ngay_hieu_luc": "2010-07-19",
+  "ngay_het_hieu_luc": null,
+  "ngay_hoi_to": null,
+  "hieu_luc_rieng": [],
+  "trich": {
+   "ngay_hieu_luc": "Nghị quyết này đã được Hội đồng nhân dân tỉnh Sóc Trăng khóa VII, kỳ họp thứ 18 thông qua và có hiệu lực sau 10 ngày. (ngày thông qua lấy theo ngày ghi trên văn bản: Sóc Trăng, ngày 09 tháng 7 năm 2010; 09/7/2010 + 10 ngày)",
+   "la_vbqppl": "Nghị quyết của HĐND tỉnh, số hiệu 07/2010/NQ-HĐND, quy định mức thu phí, lệ phí",
+   "cap_hieu_luc": "Nghị quyết của HĐND cấp tỉnh"
+  },
+  "chua_chac": [
+   "ngay_hieu_luc"
+  ]
+ }
+]

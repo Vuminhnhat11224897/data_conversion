@@ -1,0 +1,80 @@
+[
+ {
+  "doc_id": "427247",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "quy-dinh-chi-tiet",
+    "target_document": "Luật Thi hành án hình sự",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "QUY ĐỊNH CHI TIẾT THI HÀNH MỘT SỐ ĐIỀU CỦA LUẬT THI HÀNH ÁN HÌNH SỰ"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "quy-dinh-chi-tiet",
+    "target_document": "Luật Thi hành án hình sự",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 4 Điều 17",
+     "Điều 31",
+     "Điều 33",
+     "Điều 34",
+     "Điều 35",
+     "Điều 43",
+     "Điều 47",
+     "Điều 48",
+     "Điều 49",
+     "Điều 51",
+     "Điều 55",
+     "Điều 74",
+     "Điều 75",
+     "Điều 149",
+     "Điều 151"
+    ],
+    "doi_tuong": null,
+    "evidence": "Nghị định này quy định chi tiết khoản 4 Điều 17, Điều 31, Điều 33, Điều 34, Điều 35, Điều 43, Điều 47, Điều 48, Điều 49, Điều 51, Điều 55, Điều 74, Điều 75, Điều 149 và Điều 151 của Luật Thi hành án hình sự năm 2019."
+   },
+   {
+    "source_path": "Điều 36",
+    "action": "thay-the",
+    "target_document": "117/2011/NĐ-CP",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "thay thế Nghị định số 117/2011/NĐ-CP ngày 15 tháng 12 năm 2011 quy định về tổ chức quản lý phạm nhân và chế độ ăn, mặc, ở, sinh hoạt, chăm sóc y tế đối với phạm nhân"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Luật Thi hành án hình sự 2019 không được nêu số hiệu trong văn bản nên ghi theo tên. Phần đầu: tên và lời dẫn cùng nêu 'quy định chi tiết thi hành một số điều của Luật Thi hành án hình sự', ghi một quan hệ. Nghị định 90/2015/NĐ-CP ở Điều 36 chỉ là ghi chú lịch sử sửa đổi của NĐ 117/2011, không ghi quan hệ."
+ },
+ {
+  "doc_id": "647940",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "huong-dan",
+    "target_document": "266/2025/QĐ-CTN",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "VỀ VIỆC TRIỂN KHAI THỰC HIỆN QUYẾT ĐỊNH SỐ 266/2025/QĐ-CTN NGÀY 03/3/2025 CỦA CHỦ TỊCH NƯỚC VỀ ĐẶC XÁ NĂM 2025"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Văn bản hướng dẫn (không phải VBQPPL) triển khai QĐ 266/2025/QĐ-CTN; tên văn bản nêu số hiệu nên ghi một quan hệ Phần đầu. Hướng dẫn 21/HD-HĐTVĐX, NĐ 52/2019/NĐ-CP, Luật Đặc xá chỉ được trích dẫn, không ghi."
+ },
+ {
+  "doc_id": "185152",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn truyền đạt ý kiến Phó Thủ tướng, giao Bộ GDĐT hoàn thiện dự thảo Quyết định; không tác động lên văn bản nào. 'đình chỉ hoạt động đào tạo' là nội dung của dự thảo."
+ },
+ {
+  "doc_id": "201041",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Mục 1 đình chỉ lưu hành 17 sản phẩm mỹ phẩm (số tiếp nhận phiếu công bố); đích không phải văn bản có số hiệu hoặc luật, không ghi quan hệ."
+ }
+]

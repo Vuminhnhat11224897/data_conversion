@@ -1,0 +1,248 @@
+[
+ {
+  "doc_id": "137546",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "huong-dan",
+    "target_document": "50/2005/TTLT/BTC-BNV",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "VỀ TIÊU CHUẨN, ĐIỀU KIỆN, THỦ TỤC BỔ NHIỆM, BÃI NHIỆM, THAY THẾ VÀ XẾP PHỤ CẤP KẾ TOÁN TRƯỞNG, PHỤ TRÁCH KẾ TOÁN TRONG CÁC ĐƠN VỊ KẾ TOÁN THUỘC LĨNH VỰC KẾ TOÁN NHÀ NƯỚC THEO THÔNG TƯ LIÊN TỊCH SỐ 50/2005/TTLT/BTC-BNV NGÀY 15/6/2005 CỦA LIÊN BỘ TÀI CHÍNH-BỘ NỘI VỤ."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Văn bản hướng dẫn của Liên Sở thực hiện TTLT 50/2005/TTLT/BTC-BNV; ghi huong-dan ở Phần đầu (tên 'HƯỚNG DẪN ... THEO THÔNG TƯ LIÊN TỊCH SỐ 50/2005'). Các Mục chỉ trích dẫn TTLT, NĐ 128/2004, NĐ 204/2004, không tác động. Không chắc có nên coi là quan hệ hướng dẫn."
+ },
+ {
+  "doc_id": "506236",
+  "relations": [],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 4 Khoản 2",
+    "loai": "nhan_sai_dieu",
+    "ghi_chu": "Điều 4 thuộc dự thảo Thông tư gửi kèm công văn lấy ý kiến, không phải Điều của công văn."
+   },
+   {
+    "source_path": "Điều 4 Khoản 3",
+    "loai": "nhan_sai_dieu",
+    "ghi_chu": "Thuộc dự thảo Thông tư gửi kèm."
+   }
+  ],
+  "ghi_chu": "Công văn lấy ý kiến dự thảo Thông tư thay thế TT 65/2017/TT-BTC và TT 09/2019/TT-BTC. Câu 'Thông tư này thay thế...' nằm trong dự thảo, chưa ban hành; công văn không tự thay thế văn bản nào. Không ghi quan hệ."
+ },
+ {
+  "doc_id": "253059",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Phê duyệt danh sách tỉnh thí điểm thực hiện QĐ 29/2014/QĐ-TTg; không tác động lên văn bản khác."
+ },
+ {
+  "doc_id": "360762",
+  "relations": [
+   {
+    "source_path": "Phụ lục 1 STT 1",
+    "action": "huy-bo",
+    "target_document": "1692/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "Kê khai giá của các doanh nghiệp thuộc phạm vi cấp tỉnh",
+    "evidence": "THỦ TỤC HÀNH CHÍNH BỊ HỦY BỎ, KHÔNG THỰC HIỆN THEO CƠ CHẾ MỘT CỬA, MỘT CỬA LIÊN THÔNG TẠI SỞ TÀI CHÍNH"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 1 chỉ 'công bố' nên không là hành động. Chữ 'bị hủy bỏ' nằm ở tên danh sách kèm theo; dòng STT 1 nêu thủ tục và văn bản đã công bố thủ tục theo cơ chế một cửa (QĐ 1692/QĐ-UBND) nên ghi ở Phụ lục 1 STT 1. QĐ 369/QĐ-UBND ở cột 'Văn bản quy định bãi bỏ' là căn cứ, không phải đích. Không chắc: dòng không có chữ hành động riêng. Điều 2 chỉ giao Sở Tài chính sửa đổi quy định."
+ },
+ {
+  "doc_id": "213287",
+  "relations": [
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "huy-bo",
+    "target_document": "242/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 242/QĐ-UBND ngày 30/7/2012 của UBND tỉnh thành lập Đội Quản lý trật tự giao thông, xây dựng và môi trường huyện Lạng Giang;"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "huy-bo",
+    "target_document": "243/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 243/QĐ-UBND ngày 30/7/2012 của UBND tỉnh thành lập Đội Quản lý trật tự giao thông, xây dựng và môi trường huyện Hiệp Hòa;"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "huy-bo",
+    "target_document": "244/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 244/QĐ-UBND ngày 30/7/2012 của UBND tỉnh thành lập Đội Quản lý trật tự giao thông, xây dựng và môi trường huyện Yên Thế;"
+   },
+   {
+    "source_path": "Điều 1 Khoản 4",
+    "action": "huy-bo",
+    "target_document": "245/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 245/QĐ-UBND ngày 30/7/2012 của UBND tỉnh thành lập Đội Quản lý trật tự giao thông, xây dựng và môi trường huyện Lục Ngạn;"
+   },
+   {
+    "source_path": "Điều 1 Khoản 5",
+    "action": "huy-bo",
+    "target_document": "246/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 246/QĐ-UBND ngày 30/7/2012 của UBND tỉnh thành lập Đội Quản lý trật tự giao thông, xây dựng và môi trường huyện Lục Nam;"
+   },
+   {
+    "source_path": "Điều 1 Khoản 6",
+    "action": "huy-bo",
+    "target_document": "247/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 247/QĐ-UBND ngày 30/7/2012 của UBND tỉnh thành lập Đội Quản lý trật tự giao thông, xây dựng và môi trường huyện Yên Dũng;"
+   },
+   {
+    "source_path": "Điều 1 Khoản 7",
+    "action": "huy-bo",
+    "target_document": "248/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 248/QĐ-UBND ngày 30/7/2012 của UBND tỉnh thành lập Đội Quản lý trật tự giao thông, xây dựng và môi trường huyện Tân Yên;"
+   },
+   {
+    "source_path": "Điều 1 Khoản 8",
+    "action": "huy-bo",
+    "target_document": "249/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 249/QĐ-UBND ngày 30/7/2012 của UBND tỉnh thành lập Đội Quản lý trật tự giao thông, xây dựng và môi trường huyện Sơn Động;"
+   },
+   {
+    "source_path": "Điều 1 Khoản 9",
+    "action": "huy-bo",
+    "target_document": "250/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 250/QĐ-UBND ngày 30/7/2012 của UBND tỉnh đổi tên Đội Thanh tra Giao thông - Xây dựng thành phố Bắc Giang và sửa đổi, bổ sung chức năng, nhiệm vụ, cơ cấu tổ chức của Đội;"
+   },
+   {
+    "source_path": "Điều 1 Khoản 10",
+    "action": "huy-bo",
+    "target_document": "251/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 251/QĐ-UBND ngày 30/7/2012 của UBND tỉnh đổi tên Đội Thanh tra Giao thông - Xây dựng huyện Việt Yên và sửa đổi, bổ sung chức năng, nhiệm vụ, cơ cấu tổ chức của Đội."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Câu dẫn Điều 1 'Hủy bỏ Điều 3 của các Quyết định sau:'; mỗi khoản nêu một quyết định đích. Tên văn bản 'HỦY BỎ ĐIỀU 3 QUYẾT ĐỊNH THÀNH LẬP VÀ QUYẾT ĐỊNH ĐỔI TÊN ĐỘI...' không nêu số hiệu nên không ghi Phần đầu."
+ },
+ {
+  "doc_id": "189628",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "huy-bo",
+    "target_document": "81/2004/QĐ-UB",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "V/V HUỶ BỎ QUYẾT ĐỊNH SỐ 81/2004/QĐ-UB NGÀY 12/10/2004 CỦA UBND TỈNH QUẢNG NAM VỀ VIỆC THÀNH LẬP TRUNG TÂM SÁT HẠCH LÁI XE QUẢNG NAM TRỰC THUỘC SỞ GIAO THÔNG - VẬN TẢI TỈNH QUẢNG NAM"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "huy-bo",
+    "target_document": "81/2004/QĐ-UB",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Huỷ bỏ Quyết định số 81/2004/QĐ-UB ngày 12/10/2004 của UBND tỉnh Quảng Nam về việc thành lập Trung tâm Sát hạch lái xe Quảng Nam trực thuộc Sở Giao thông - Vận tải tỉnh Quảng Nam"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn 996/UB-KTN chỉ là lý do. Câu hiệu lực ở Điều 2 không có trong don_vi nhưng không có hành động."
+ },
+ {
+  "doc_id": "96244",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn đề nghị Sở LĐTBXH triển khai; 'ngừng việc cấp phát thẻ' là ngừng một hoạt động, không tác động lên văn bản. NĐ 62/2009/NĐ-CP, TTLT 09/2009 chỉ được trích dẫn."
+ },
+ {
+  "doc_id": "350968",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn gửi tài liệu hướng dẫn kỹ thuật; không tác động lên văn bản nào. Luật, QĐ 1250/QĐ-TTg, TT 29/2014/TT-BTNMT chỉ là căn cứ thực hiện."
+ },
+ {
+  "doc_id": "52531",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "huong-dan",
+    "target_document": "69/2004/QĐ-BTC",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "VỀ VIỆC HƯỚNG DẪN KIỂM TRA ĐỊNH MỨC VÀ GIẢI THÍCH MỘT SỐ ĐIỂM TẠI QĐ BAN HÀNH KÈM THEO QUYẾT ĐỊNH 69/2004/QĐ-BTC"
+   },
+   {
+    "source_path": "Mục II",
+    "action": "huong-dan",
+    "target_document": "69/2004/QĐ-BTC",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm 3 Phần 1",
+     "điểm 10.4 Phần 1",
+     "điểm 10.5 Phần 1",
+     "điểm 11.4 Phần 1",
+     "điểm 11.6 Phần 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "GIẢI THÍCH MỘT SỐ ĐIỂM KHÁC NÊU TẠI QUY ĐỊNH"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Phần đầu: tên và lời dẫn ('Tổng cục Hải quan hướng dẫn một số điểm như sau') cùng hướng dẫn Quy định ban hành kèm theo QĐ 69/2004/QĐ-BTC; ghi một quan hệ. Mục II giải thích các điểm cụ thể của Quy định; ghi huong-dan, không chắc. Mục I chỉ hướng dẫn kiểm tra định mức theo Điểm 9.1, tiêu đề không có chữ hành động nên không ghi riêng. Văn bản 6466/TCHQ-GSQL, TT 44/2001 chỉ được dẫn chiếu."
+ },
+ {
+  "doc_id": "52012",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Thông tư liên tịch hướng dẫn nội dung và mức chi; tên chỉ mô tả nội dung. Các TTLT 109/2003, TT 25/2001, 45/2001, 100/2000, 121/2000, 94/2001, QĐ 112/2001 chỉ được dẫn chiếu để áp dụng mức chi."
+ }
+]

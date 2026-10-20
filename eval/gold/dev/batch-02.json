@@ -1,0 +1,183 @@
+[
+ {
+  "doc_id": "561167",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "hop-nhat",
+    "target_document": "09/2018/TT-NHNN",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "hợp nhất Thông tư quy định về mạng lưới hoạt động của tổ chức tín dụng là hợp tác xã"
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 18 Khoản 1",
+    "loai": "gop_sai",
+    "ghi_chu": "Khoản 2, 3, 4 (số khoản có chú thích '2.[11]', '4.[14]') bị gộp vào khoản 1."
+   },
+   {
+    "source_path": "Điều 18 Khoản 1 điểm b",
+    "loai": "gop_sai",
+    "ghi_chu": "Điểm b chứa luôn khoản 2, 3, 4 của Điều 18."
+   }
+  ],
+  "ghi_chu": "VBHN của Thông tư 09/2018/TT-NHNN; chỉ ghi hop-nhat từ tên văn bản. Điều 47 Khoản 2 điểm a, b, c (hết hiệu lực một phần 24/2006/QĐ-NHNN kèm theo, 26/2008/QĐ-NHNN, 05/2007/QĐ-NHNN kèm theo) là câu của Thông tư 09/2018 được chép lại ('Thông tư này' = 09/2018), không phải tác động của VBHN nên không ghi. 27/2022/TT-NHNN chỉ được nêu là văn bản sửa đổi (lịch sử). Chú thích '(được bãi bỏ)' tại Điều 33 Khoản 2 là ghi chú VBHN."
+ },
+ {
+  "doc_id": "695877",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "hop-nhat",
+    "target_document": "10/2025/TT-NHNN",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "hợp nhất Thông tư quy định về tổ chức lại, thu hồi Giấy phép và thanh lý tài sản của quỹ tín dụng nhân dân"
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 7 Khoản 3",
+    "loai": "gop_sai",
+    "ghi_chu": "Khoản 4 ('4.[2]') bị gộp vào khoản 3; 'Điều 7 Khoản 3 điểm a/b/c' thực chất là điểm a, b, c khoản 4."
+   },
+   {
+    "source_path": "Điều 12 Khoản 2 điểm d",
+    "loai": "gop_sai",
+    "ghi_chu": "Các điểm đ)[3], e)[4], g … r bị gộp vào điểm d."
+   },
+   {
+    "source_path": "Điều 13 Khoản 1 điểm b",
+    "loai": "gop_sai",
+    "ghi_chu": "Điểm c)[5] bị gộp vào điểm b."
+   },
+   {
+    "source_path": "Điều 13 Khoản 1 điểm d",
+    "loai": "gop_sai",
+    "ghi_chu": "Điểm đ)[6] bị gộp vào điểm d."
+   },
+   {
+    "source_path": "Điều 14 Khoản 5",
+    "loai": "gop_sai",
+    "ghi_chu": "Khoản 6 ('6.[8]') và khoản 7 ('7.[9]') bị gộp vào khoản 5; 'Điều 14 Khoản 5 điểm a/b' thực chất là điểm a, b khoản 7, câu dẫn bị gán sai."
+   },
+   {
+    "source_path": "Điều 14 Khoản 9",
+    "loai": "gop_sai",
+    "ghi_chu": "Khoản 10 ('10.[10]') bị gộp vào khoản 9; 'Điều 14 Khoản 9 điểm a/b' thực chất thuộc khoản 10."
+   },
+   {
+    "source_path": "Điều 23 Khoản 1",
+    "loai": "gop_sai",
+    "ghi_chu": "Khoản 2 ('2.[13]') bị gộp vào khoản 1."
+   },
+   {
+    "source_path": "Điều 33 Khoản 1 điểm đ",
+    "loai": "gop_sai",
+    "ghi_chu": "Điểm e)[14] bị gộp vào điểm đ."
+   },
+   {
+    "source_path": "Phụ lục 5 Điều 5",
+    "loai": "gop_sai",
+    "ghi_chu": "Phần xác thực VBHN và toàn bộ chú thích cuối văn bản (gồm trích Điều 15, 16 Thông tư 63/2025/TT-NHNN) bị gộp vào đơn vị này."
+   }
+  ],
+  "ghi_chu": "VBHN của Thông tư 10/2025/TT-NHNN; chỉ ghi hop-nhat từ tên văn bản. Điều 36 Khoản 2 điểm a, b, c (bãi bỏ 23/2018/TT-NHNN, Điều 3 13/2019/TT-NHNN, Điều 6 24/2023/TT-NHNN) là câu của Thông tư 10/2025 được chép lại, không ghi. 63/2025/TT-NHNN chỉ được nêu là văn bản sửa đổi; câu bãi bỏ 08/2025/TT-NHNN nằm trong chú thích trích dẫn, không ghi. Mẫu quyết định ở Phụ lục ('Giấy phép … hết hiệu lực') không phải tác động."
+ },
+ {
+  "doc_id": "685346",
+  "relations": [
+   {
+    "source_path": "Điều 3 Khoản 1",
+    "action": "thay-the",
+    "target_document": "1182/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định có hiệu lực thi hành kể từ ngày ký và thay thế Quyết định số 1182/QĐ-UBND ngày 18 tháng 5 năm 2023 của Chủ tịch Ủy ban nhân dân tỉnh Vĩnh Long về việc phê duyệt quy trình nội bộ thủ tục hành chính lĩnh vực Bảo trợ xã hội thuộc phạm vi chức năng quản lý nhà nước của Sở Lao động - Thương binh và Xã hội tỉnh Vĩnh Long; Quyết định số 1208/QĐ-UBND ngày 24 tháng 6 năm 2025 của Chủ tịch Ủy ban nhân dân tỉnh Vĩnh Long phê duyệt quy trình nội bộ giải quyết thủ tục hành chính lĩnh vực Giảm nghèo thuộc phạm vi chức năng quản lý của Sở Nông nghiệp và Môi trường tỉnh Vĩnh Long; Quyết định số 1425/QĐ-UBND ngày 30 tháng 6 năm 2025 của Chủ tịch Ủy ban nhân dân tỉnh Vĩnh Long phê duyệt quy trình nội bộ giải quyết thủ tục hành chính lĩnh vực Kinh tế hợp tác và Phát triển nông thôn thuộc phạm vi chức năng quản lý của Sở Nông nghiệp và Môi trường tỉnh Vĩnh Long."
+   },
+   {
+    "source_path": "Điều 3 Khoản 1",
+    "action": "thay-the",
+    "target_document": "1208/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định có hiệu lực thi hành kể từ ngày ký và thay thế Quyết định số 1182/QĐ-UBND ngày 18 tháng 5 năm 2023 của Chủ tịch Ủy ban nhân dân tỉnh Vĩnh Long về việc phê duyệt quy trình nội bộ thủ tục hành chính lĩnh vực Bảo trợ xã hội thuộc phạm vi chức năng quản lý nhà nước của Sở Lao động - Thương binh và Xã hội tỉnh Vĩnh Long; Quyết định số 1208/QĐ-UBND ngày 24 tháng 6 năm 2025 của Chủ tịch Ủy ban nhân dân tỉnh Vĩnh Long phê duyệt quy trình nội bộ giải quyết thủ tục hành chính lĩnh vực Giảm nghèo thuộc phạm vi chức năng quản lý của Sở Nông nghiệp và Môi trường tỉnh Vĩnh Long; Quyết định số 1425/QĐ-UBND ngày 30 tháng 6 năm 2025 của Chủ tịch Ủy ban nhân dân tỉnh Vĩnh Long phê duyệt quy trình nội bộ giải quyết thủ tục hành chính lĩnh vực Kinh tế hợp tác và Phát triển nông thôn thuộc phạm vi chức năng quản lý của Sở Nông nghiệp và Môi trường tỉnh Vĩnh Long."
+   },
+   {
+    "source_path": "Điều 3 Khoản 1",
+    "action": "thay-the",
+    "target_document": "1425/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định có hiệu lực thi hành kể từ ngày ký và thay thế Quyết định số 1182/QĐ-UBND ngày 18 tháng 5 năm 2023 của Chủ tịch Ủy ban nhân dân tỉnh Vĩnh Long về việc phê duyệt quy trình nội bộ thủ tục hành chính lĩnh vực Bảo trợ xã hội thuộc phạm vi chức năng quản lý nhà nước của Sở Lao động - Thương binh và Xã hội tỉnh Vĩnh Long; Quyết định số 1208/QĐ-UBND ngày 24 tháng 6 năm 2025 của Chủ tịch Ủy ban nhân dân tỉnh Vĩnh Long phê duyệt quy trình nội bộ giải quyết thủ tục hành chính lĩnh vực Giảm nghèo thuộc phạm vi chức năng quản lý của Sở Nông nghiệp và Môi trường tỉnh Vĩnh Long; Quyết định số 1425/QĐ-UBND ngày 30 tháng 6 năm 2025 của Chủ tịch Ủy ban nhân dân tỉnh Vĩnh Long phê duyệt quy trình nội bộ giải quyết thủ tục hành chính lĩnh vực Kinh tế hợp tác và Phát triển nông thôn thuộc phạm vi chức năng quản lý của Sở Nông nghiệp và Môi trường tỉnh Vĩnh Long."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên văn bản 'phê duyệt sửa đổi 12 Quy trình nội bộ' không nêu văn bản đích nên không ghi."
+ },
+ {
+  "doc_id": "642317",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Chỉ công bố danh mục văn bản hết hiệu lực, ngưng hiệu lực; văn bản không tự bãi bỏ. Điều 2 Khoản 2 là giao nhiệm vụ rà soát. Danh mục kèm theo không có trong dữ liệu."
+ },
+ {
+  "doc_id": "57168",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Chỉ công bố danh mục 452 văn bản đã hết hiệu lực; không có tác động trực tiếp. Danh mục kèm theo không có trong dữ liệu."
+ },
+ {
+  "doc_id": "36367",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Không có đơn vị hành động. 'Chiểu Sắc lệnh ngày 5-9-45' là căn cứ ban hành."
+ },
+ {
+  "doc_id": "318381",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công bố 01 TTHC mới dưới hình thức sao y Quyết định 14768/QĐ-BCT; không thay thế, bãi bỏ văn bản nào."
+ },
+ {
+  "doc_id": "372606",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn trả lời doanh nghiệp; chỉ trích dẫn căn cứ (130/TT-BTC sửa đổi 219/2013/TT-BTC, 12485/BTC-TCT, 5798/TCT-KK). Trường loi_dan lấy nhầm đoạn cuối văn bản."
+ },
+ {
+  "doc_id": "651222",
+  "relations": [],
+  "loi_cau_truc": [
+   {
+    "source_path": "Mục I",
+    "loai": "gop_sai",
+    "ghi_chu": "Phần đầu (quốc hiệu, tên kế hoạch, căn cứ, lời dẫn) bị gộp vào Mục I."
+   }
+  ],
+  "ghi_chu": "Kế hoạch; không có tác động. noi_dung Mục III bị cắt ở 6000 ký tự, đã đối chiếu toan_van: không có câu hành động. Trường loi_dan lấy nhầm đoạn cuối Mục V."
+ },
+ {
+  "doc_id": "187683",
+  "relations": [
+   {
+    "source_path": "Điều 5",
+    "action": "thay-the",
+    "target_document": "593/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này thay thế Quyết định số 593/QĐ-UBND ngày 31 tháng 3 năm 2009 của Uỷ ban nhân dân tỉnh về việc kiện toàn cơ cấu tổ chức của Văn phòng Uỷ ban nhân dân tỉnh"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 5 vừa giao trách nhiệm thi hành vừa thay thế 593/QĐ-UBND."
+ }
+]

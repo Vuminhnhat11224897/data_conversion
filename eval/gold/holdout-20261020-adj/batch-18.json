@@ -1,0 +1,39 @@
+[
+ {
+  "doc_id": "39074",
+  "relations": [],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 1",
+    "loai": "thieu_noi_dung",
+    "ghi_chu": "don_vi rỗng; câu nằm ở Article 1 của Điều lệ (Regulation) ban hành kèm Nghị định, không phải Article 1 của Nghị định; phu_luc cũng rỗng nên không có đường dẫn riêng cho Điều lệ."
+   }
+  ],
+  "ghi_chu": "Toàn văn là bản dịch tiếng Anh, bị cắt nhiều đoạn (\"Please sign up ...\"). Article 2 Nghị định và Article 51 Điều lệ chỉ bãi bỏ chung 'All previous provisions which are contrary ...', không nêu văn bản cụ thể: không ghi quan hệ. Article 3 giao Bộ hướng dẫn: không phải hành động. Quan hệ quy-dinh-chi-tiet với Bộ luật Lao động dựa trên chữ 'concretizes', Bộ luật không nêu số hiệu; mức tin trung bình. Phần bị cắt có thể còn hành động khác (Article 53 thiếu phần đầu)."
+ },
+ {
+  "doc_id": "41850",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "huong-dan",
+    "target_document": "330/HĐBT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "HƯỚNG DẪN THỰC HIỆN QUYẾT ĐỊNH 330/HĐBT NGÀY 23/10/1991 CỦA HỘI ĐỒNG BỘ TRƯỞNG VỀ GIẢI THỂ DOANH NGHIỆP NHÀ NƯỚC"
+   },
+   {
+    "source_path": "Mục I",
+    "action": "huong-dan",
+    "target_document": "330/HĐBT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thông tư này hướng dẫn thực hiện Quyết định 330/HĐBT ngày 23/10/1991 của Hội đồng Bộ trưởng"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Mục II bãi bỏ phần trái của một văn bản được nêu số hiệu (54/TC-CN) nhưng không nêu Điều cụ thể; ghi quan hệ với vi_tri rỗng, không chắc người chấm có coi là quan hệ. Mục I nêu 'Thông tư số 64/TC-CN ngày 13/11/1990' cùng ngày: có thể 54 là lỗi đánh máy của 64, giữ đúng chữ 54/TC-CN. Mục I chỉ kể lại 315/HĐBT, 64/TC-CN, 176/HĐBT: không ghi."
+ }
+]

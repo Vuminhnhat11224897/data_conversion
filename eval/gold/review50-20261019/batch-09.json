@@ -1,0 +1,121 @@
+[
+  {
+    "doc_id": "634166",
+    "relations": [
+      {
+        "source_path": "Điều 2",
+        "action": "bai-bo",
+        "target_document": "560/QĐ-UBND",
+        "target_section": "kem_theo",
+        "vi_tri": [
+          "Phụ lục I",
+          "Phụ lục II"
+        ],
+        "doi_tuong": null,
+        "evidence": "Các nội dung công bố quy trình nội bộ thuộc thẩm quyền giải quyết của Sở Xây dựng lĩnh vực Nhà ở, Kinh doanh bất động sản tại số thứ tự 1, 2, 3 Mục II, số thứ tự 1, 2 Mục IV Phần A Phụ lục I, số thứ tự 2, 3, 4, 5 Mục I Phụ lục II, số thứ tự 1, 2, 3, 4, 5 Mục II Phụ lục II kèm theo Quyết định số 560/QĐ-UBND ngày 07/3/2022 của Chủ tịch UBND tỉnh; Phụ lục kèm theo Quyết định số 2401/QĐ-UBND ngày 24/10/2022 của Chủ tịch UBND tỉnh; số thứ tự 1 Mục II Phụ lục II kèm theo Quyết định số 1659/QĐ-UBND ngày 07/9/2023 của Chủ tịch UBND tỉnh hết hiệu lực thi hành kể từ ngày Quyết định này có hiệu lực thi hành."
+      },
+      {
+        "source_path": "Điều 2",
+        "action": "bai-bo",
+        "target_document": "2401/QĐ-UBND",
+        "target_section": "kem_theo",
+        "vi_tri": [
+          "Phụ lục"
+        ],
+        "doi_tuong": null,
+        "evidence": "Các nội dung công bố quy trình nội bộ thuộc thẩm quyền giải quyết của Sở Xây dựng lĩnh vực Nhà ở, Kinh doanh bất động sản tại số thứ tự 1, 2, 3 Mục II, số thứ tự 1, 2 Mục IV Phần A Phụ lục I, số thứ tự 2, 3, 4, 5 Mục I Phụ lục II, số thứ tự 1, 2, 3, 4, 5 Mục II Phụ lục II kèm theo Quyết định số 560/QĐ-UBND ngày 07/3/2022 của Chủ tịch UBND tỉnh; Phụ lục kèm theo Quyết định số 2401/QĐ-UBND ngày 24/10/2022 của Chủ tịch UBND tỉnh; số thứ tự 1 Mục II Phụ lục II kèm theo Quyết định số 1659/QĐ-UBND ngày 07/9/2023 của Chủ tịch UBND tỉnh hết hiệu lực thi hành kể từ ngày Quyết định này có hiệu lực thi hành."
+      },
+      {
+        "source_path": "Điều 2",
+        "action": "bai-bo",
+        "target_document": "1659/QĐ-UBND",
+        "target_section": "kem_theo",
+        "vi_tri": [
+          "Phụ lục II"
+        ],
+        "doi_tuong": null,
+        "evidence": "Các nội dung công bố quy trình nội bộ thuộc thẩm quyền giải quyết của Sở Xây dựng lĩnh vực Nhà ở, Kinh doanh bất động sản tại số thứ tự 1, 2, 3 Mục II, số thứ tự 1, 2 Mục IV Phần A Phụ lục I, số thứ tự 2, 3, 4, 5 Mục I Phụ lục II, số thứ tự 1, 2, 3, 4, 5 Mục II Phụ lục II kèm theo Quyết định số 560/QĐ-UBND ngày 07/3/2022 của Chủ tịch UBND tỉnh; Phụ lục kèm theo Quyết định số 2401/QĐ-UBND ngày 24/10/2022 của Chủ tịch UBND tỉnh; số thứ tự 1 Mục II Phụ lục II kèm theo Quyết định số 1659/QĐ-UBND ngày 07/9/2023 của Chủ tịch UBND tỉnh hết hiệu lực thi hành kể từ ngày Quyết định này có hiệu lực thi hành."
+      }
+    ],
+    "loi_cau_truc": [],
+    "ghi_chu": "Hết hiệu lực do chính văn bản này tuyên bố; các số thứ tự/mục dừng ở phụ lục chứa chúng. Không bãi bỏ các Quyết định ở căn cứ.",
+    "annotation_status": "reviewed",
+    "uncertain_cases": []
+  },
+  {
+    "doc_id": "67430",
+    "relations": [],
+    "loi_cau_truc": [],
+    "ghi_chu": "Phê chuẩn quyết toán; sửa Hiến pháp là lịch sử ở căn cứ, sửa Luật ngân sách là giao nghiên cứu và trình sau; không là tác động trực tiếp.",
+    "annotation_status": "reviewed",
+    "uncertain_cases": []
+  },
+  {
+    "doc_id": "7329",
+    "relations": [],
+    "loi_cau_truc": [],
+    "ghi_chu": "Phê chuẩn Hiệp ước, ngoài bộ 13 hành động/loại đích; sửa Hiến pháp chỉ là lịch sử ở căn cứ.",
+    "annotation_status": "reviewed",
+    "uncertain_cases": []
+  },
+  {
+    "doc_id": "55723",
+    "relations": [
+      {
+        "source_path": "Phần đầu",
+        "action": "sua-doi",
+        "target_document": "03-NĐ",
+        "target_section": "khong_ap_dung",
+        "vi_tri": [],
+        "doi_tuong": null,
+        "evidence": "SỬA ĐỔI NGHỊ ĐỊNH SỐ 03-NĐ NGÀY 08-01-1953 CỦA BỘ GIAO THÔNG CÔNG CHÍNH QUY ĐỊNH CHẾ ĐỘ MIỄN BƯU PHÍ THƯ QUÂN NHÂN VÀ THƯƠNG BINH"
+      },
+      {
+        "source_path": "Điều 1",
+        "action": "sua-doi",
+        "target_document": "03-NĐ",
+        "target_section": "khong_ap_dung",
+        "vi_tri": [],
+        "doi_tuong": "chế độ miễn bưu phí thư quân nhân và thương binh gửi và nhận",
+        "evidence": "Điều 1. Nay sửa đổi chế độ miễn bưu phí thư quân nhân và thương binh gửi và nhận quy định trong nghị định số 03-NĐ ngày 08-01-1953 của Bộ Giao thông Công chính như sau:"
+      }
+    ],
+    "loi_cau_truc": [],
+    "ghi_chu": "Lệnh bãi bỏ văn bản trái nghị định tại Điều 4 không nêu văn bản đích: không đoán.",
+    "annotation_status": "reviewed",
+    "uncertain_cases": []
+  },
+  {
+    "doc_id": "20111",
+    "relations": [
+      {
+        "source_path": "Phần đầu",
+        "action": "huong-dan",
+        "target_document": "83-CP",
+        "target_section": "khong_ap_dung",
+        "vi_tri": [],
+        "doi_tuong": null,
+        "evidence": "HƯỚNG DẪN THI HÀNH NGHỊ ĐỊNH SỐ 83-CP VÀ 84-CP NGÀY 01-8-1962 CỦA HỘI ĐỒNG CHÍNH PHỦ VỀ VIỆC SỬA ĐỔI THU PHÍ TỔN SỬA ĐƯỜNG VÀ CƯỚC QUA PHÀ"
+      },
+      {
+        "source_path": "Phần đầu",
+        "action": "huong-dan",
+        "target_document": "84-CP",
+        "target_section": "khong_ap_dung",
+        "vi_tri": [],
+        "doi_tuong": null,
+        "evidence": "HƯỚNG DẪN THI HÀNH NGHỊ ĐỊNH SỐ 83-CP VÀ 84-CP NGÀY 01-8-1962 CỦA HỘI ĐỒNG CHÍNH PHỦ VỀ VIỆC SỬA ĐỔI THU PHÍ TỔN SỬA ĐƯỜNG VÀ CƯỚC QUA PHÀ"
+      }
+    ],
+    "loi_cau_truc": [
+      {
+        "source_path": "Điều 4",
+        "loai": "nhan_sai_dieu",
+        "ghi_chu": "Các đề mục Điều 4/5/2/6 giải thích Điều của Nghị định 83-CP/84-CP bị parser nhận thành Điều của Thông tư không chia Điều."
+      }
+    ],
+    "ghi_chu": "Tên trực tiếp hướng dẫn hai Nghị định; các Điều nêu trong nội dung là Điều của nghị định đích, không là Điều của Thông tư. Sửa đổi Nghị định 145/407 là lịch sử, không là tác động của Thông tư này.",
+    "annotation_status": "reviewed",
+    "uncertain_cases": []
+  }
+]

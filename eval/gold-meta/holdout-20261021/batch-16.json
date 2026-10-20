@@ -1,0 +1,34 @@
+[
+ {
+  "doc_id": "662102",
+  "la_vbqppl": true,
+  "cap_hieu_luc": 11,
+  "ngay_hieu_luc": "2025-05-20",
+  "ngay_het_hieu_luc": null,
+  "ngay_hoi_to": null,
+  "hieu_luc_rieng": [],
+  "trich": {
+   "ngay_hieu_luc": "Quyết định này có hiệu lực thi hành kể từ ngày 20 tháng 5 năm 2025",
+   "la_vbqppl": "Quyết định QPPL của UBND tỉnh ban hành Quy định quản lý (số hiệu /2025/QĐ-UBND)",
+   "cap_hieu_luc": "Quyết định của UBND cấp tỉnh"
+  },
+  "chua_chac": []
+ },
+ {
+  "doc_id": "668633",
+  "la_vbqppl": true,
+  "cap_hieu_luc": 10,
+  "ngay_hieu_luc": "2025-07-30",
+  "ngay_het_hieu_luc": null,
+  "ngay_hoi_to": null,
+  "hieu_luc_rieng": [],
+  "trich": {
+   "ngay_hieu_luc": "Nghị quyết này có hiệu lực thi hành từ ngày 30 tháng 7 năm 2025.",
+   "la_vbqppl": "Nghị quyết HĐND tỉnh số hiệu QPPL, ban hành Quy chế làm việc áp dụng nhiều lần",
+   "cap_hieu_luc": "Nghị quyết của HĐND cấp tỉnh"
+  },
+  "chua_chac": [
+   "la_vbqppl"
+  ]
+ }
+]

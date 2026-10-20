@@ -1,0 +1,45 @@
+[
+ {
+  "doc_id": "286869",
+  "la_vbqppl": false,
+  "cap_hieu_luc": null,
+  "ngay_hieu_luc": null,
+  "ngay_het_hieu_luc": null,
+  "ngay_hoi_to": null,
+  "hieu_luc_rieng": [],
+  "trich": {
+   "la_vbqppl": "Văn bản hợp nhất 01/VBHN-VPQH, không phải VBQPPL",
+   "ngay_hieu_luc": "Văn bản hợp nhất: ngay_hieu_luc = null theo quy tắc"
+  },
+  "chua_chac": []
+ },
+ {
+  "doc_id": "620285",
+  "la_vbqppl": false,
+  "cap_hieu_luc": null,
+  "ngay_hieu_luc": null,
+  "ngay_het_hieu_luc": null,
+  "ngay_hoi_to": null,
+  "hieu_luc_rieng": [],
+  "trich": {
+   "la_vbqppl": "Văn bản hợp nhất 3299/VBHN-BVHTTDL, không phải VBQPPL",
+   "ngay_hieu_luc": "Văn bản hợp nhất: ngay_hieu_luc = null theo quy tắc"
+  },
+  "chua_chac": []
+ },
+ {
+  "doc_id": "358653",
+  "la_vbqppl": true,
+  "cap_hieu_luc": 5,
+  "ngay_hieu_luc": "2018-10-15",
+  "ngay_het_hieu_luc": null,
+  "ngay_hoi_to": null,
+  "hieu_luc_rieng": [],
+  "trich": {
+   "ngay_hieu_luc": "Nghị định này có hiệu lực thi hành từ ngày 15 tháng 10 năm 2018.",
+   "la_vbqppl": "Nghị định của Chính phủ luôn là VBQPPL",
+   "cap_hieu_luc": "Nghị định: cấp 5"
+  },
+  "chua_chac": []
+ }
+]

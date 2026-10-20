@@ -1,0 +1,63 @@
+[
+  {
+    "doc_id": "476555",
+    "relations": [],
+    "loi_cau_truc": [],
+    "ghi_chu": "Các cụm sửa đổi/thay thế ở Điều 3 là điều kiện áp dụng văn bản tương lai; bổ sung hòm phiếu, con dấu không là bổ sung văn bản.",
+    "annotation_status": "reviewed",
+    "uncertain_cases": []
+  },
+  {
+    "doc_id": "54065",
+    "relations": [],
+    "loi_cau_truc": [],
+    "ghi_chu": "Trích Thông tư 05/2005 để trả lời trường hợp cụ thể; gia hạn hợp đồng vay không là gia hạn hiệu lực văn bản.",
+    "annotation_status": "reviewed",
+    "uncertain_cases": []
+  },
+  {
+    "doc_id": "330058",
+    "relations": [],
+    "loi_cau_truc": [],
+    "ghi_chu": "Bổ sung kinh phí, không bổ sung văn bản được dẫn làm căn cứ.",
+    "annotation_status": "reviewed",
+    "uncertain_cases": []
+  },
+  {
+    "doc_id": "309842",
+    "relations": [
+      {
+        "source_path": "Phần đầu",
+        "action": "bo-sung",
+        "target_document": "23/2013/QĐ-UBND",
+        "target_section": "khong_ap_dung",
+        "vi_tri": [],
+        "doi_tuong": null,
+        "evidence": "QUY ĐỊNH BỔ SUNG ĐƠN GIÁ THUÊ ĐẤT TẠI QUYẾT ĐỊNH SỐ 23/2013/QĐ-UBND NGÀY 17 THÁNG 10 NĂM 2013 CỦA UBND TỈNH KHÁNH HÒA QUY ĐỊNH ĐƠN GIÁ THUÊ ĐẤT TRẢ TIỀN THUÊ ĐẤT HÀNG NĂM, GIÁ THUÊ MẶT NƯỚC TRÊN ĐỊA BÀN TỈNH KHÁNH HÒA"
+      },
+      {
+        "source_path": "Điều 1",
+        "action": "bo-sung",
+        "target_document": "23/2013/QĐ-UBND",
+        "target_section": "kem_theo",
+        "vi_tri": [
+          "Phụ lục 1.2"
+        ],
+        "doi_tuong": null,
+        "evidence": "Điều 1. Quy định bổ sung đơn giá thuê đất tại số thứ tự 2 (2.3) Phụ lục 1.2 ban hành kèm theo Quyết định số 23/2013/QĐ-UBND ngày 17 tháng 10 năm 2013 của UBND tỉnh Khánh Hòa quy định đơn giá thuê đất trả tiền thuê đất hàng năm, giá thuê mặt nước trên địa bàn tỉnh Khánh Hòa như sau:"
+      }
+    ],
+    "loi_cau_truc": [],
+    "ghi_chu": "Số thứ tự 2 (2.3) là dòng bảng trong Phụ lục 1.2; không tạo vị trí Điều hoặc node dòng bảng.",
+    "annotation_status": "reviewed",
+    "uncertain_cases": []
+  },
+  {
+    "doc_id": "68176",
+    "relations": [],
+    "loi_cau_truc": [],
+    "ghi_chu": "Tổ chức thực hiện/quán triệt quy hoạch và giao nhiệm vụ; không tự sửa Quyết định 589/QĐ-TTg. Tổ chức thực hiện không tự chuyển thành hướng dẫn trong bộ 13 hành động.",
+    "annotation_status": "reviewed",
+    "uncertain_cases": []
+  }
+]

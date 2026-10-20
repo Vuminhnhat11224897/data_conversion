@@ -1,0 +1,235 @@
+[
+ {
+  "doc_id": "435979",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Kế hoạch; không có tác động."
+ },
+ {
+  "doc_id": "270131",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công điện đề nghị; không có tác động."
+ },
+ {
+  "doc_id": "432180",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Phê duyệt Đề án; không có tác động."
+ },
+ {
+  "doc_id": "389880",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Phê duyệt điều chỉnh quy hoạch sử dụng đất; quy hoạch không phải văn bản có số hiệu được nêu nên không ghi quan hệ."
+ },
+ {
+  "doc_id": "618569",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "34/2023/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "hệ số điều chỉnh giá đất một số vị trí, khu đất",
+    "evidence": "SỬA ĐỔI HỆ SỐ ĐIỀU CHỈNH GIÁ ĐẤT MỘT SỐ VỊ TRÍ, KHU ĐẤT TẠI QUYẾT ĐỊNH SỐ 34/2023/QĐ-UBND NGÀY 20 THÁNG 12 NĂM 2023 CỦA ỦY BAN NHÂN DÂN TỈNH QUY ĐỊNH HỆ SỐ ĐIỀU CHỈNH GIÁ ĐẤT NĂM 2024 TRÊN ĐỊA BÀN TỈNH BẮC KẠN"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "sua-doi",
+    "target_document": "34/2023/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "hệ số điều chỉnh giá đất một số vị trí, khu đất",
+    "evidence": "Sửa đổi hệ số điều chỉnh giá đất một số vị trí, khu đất tại Quyết định số 34/2023/QĐ-UBND ngày 20 tháng 12 năm 2023 của Ủy ban nhân dân tỉnh quy định hệ số điều chỉnh giá đất năm 2024 trên địa bàn tỉnh Bắc Kạn , theo Phụ lục kèm Quyết định này."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 1 sửa đổi theo Phụ lục; dòng phụ lục không có chữ hành động riêng nên không ghi quan hệ theo dòng."
+ },
+ {
+  "doc_id": "342794",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn hướng dẫn triển khai công tác; không có tác động lên văn bản khác."
+ },
+ {
+  "doc_id": "213840",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn truyền đạt ý kiến; không có tác động."
+ },
+ {
+  "doc_id": "689693",
+  "relations": [
+   {
+    "source_path": "Điều 2 Khoản 2 điểm a",
+    "action": "bai-bo",
+    "target_document": "31/2021/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Các Quyết định sau đây hết hiệu lực kể từ ngày Quyết định này có hiệu lực thi hành:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 2 điểm a",
+    "action": "bai-bo",
+    "target_document": "22/2022/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Các Quyết định sau đây hết hiệu lực kể từ ngày Quyết định này có hiệu lực thi hành:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 2 điểm b",
+    "action": "bai-bo",
+    "target_document": "17/2021/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Các Quyết định sau đây hết hiệu lực kể từ ngày Quyết định này có hiệu lực thi hành:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 2 điểm c",
+    "action": "bai-bo",
+    "target_document": "30/2022/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Các Quyết định sau đây hết hiệu lực kể từ ngày Quyết định này có hiệu lực thi hành:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 2 điểm d",
+    "action": "bai-bo",
+    "target_document": "29/2022/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Các Quyết định sau đây hết hiệu lực kể từ ngày Quyết định này có hiệu lực thi hành:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 2 điểm d",
+    "action": "bai-bo",
+    "target_document": "27/2024/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Các Quyết định sau đây hết hiệu lực kể từ ngày Quyết định này có hiệu lực thi hành:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 2 điểm đ",
+    "action": "bai-bo",
+    "target_document": "33/2022/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Các Quyết định sau đây hết hiệu lực kể từ ngày Quyết định này có hiệu lực thi hành:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 2 điểm e",
+    "action": "bai-bo",
+    "target_document": "21/2023/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Các Quyết định sau đây hết hiệu lực kể từ ngày Quyết định này có hiệu lực thi hành:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 2 điểm e",
+    "action": "bai-bo",
+    "target_document": "15/2023/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Các Quyết định sau đây hết hiệu lực kể từ ngày Quyết định này có hiệu lực thi hành:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 2 điểm g",
+    "action": "bai-bo",
+    "target_document": "15/2024/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Các Quyết định sau đây hết hiệu lực kể từ ngày Quyết định này có hiệu lực thi hành:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 2 điểm g",
+    "action": "bai-bo",
+    "target_document": "35/2020/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Các Quyết định sau đây hết hiệu lực kể từ ngày Quyết định này có hiệu lực thi hành:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 2 điểm h",
+    "action": "bai-bo",
+    "target_document": "42/2016/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Các Quyết định sau đây hết hiệu lực kể từ ngày Quyết định này có hiệu lực thi hành:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 2 điểm h",
+    "action": "bai-bo",
+    "target_document": "45/2015/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Các Quyết định sau đây hết hiệu lực kể từ ngày Quyết định này có hiệu lực thi hành:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 2 điểm i",
+    "action": "bai-bo",
+    "target_document": "28/2022/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Các Quyết định sau đây hết hiệu lực kể từ ngày Quyết định này có hiệu lực thi hành:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 2 điểm k",
+    "action": "bai-bo",
+    "target_document": "21/2017/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Các Quyết định sau đây hết hiệu lực kể từ ngày Quyết định này có hiệu lực thi hành:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 2 điểm k",
+    "action": "bai-bo",
+    "target_document": "04/2012/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Các Quyết định sau đây hết hiệu lực kể từ ngày Quyết định này có hiệu lực thi hành:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 2 điểm l",
+    "action": "bai-bo",
+    "target_document": "22/2017/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Các Quyết định sau đây hết hiệu lực kể từ ngày Quyết định này có hiệu lực thi hành:"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 2 khoản 2 tuyên bố 18 quyết định hết hiệu lực (Quảng Bình và Quảng Trị); mỗi quyết định một quan hệ theo điểm chứa nó."
+ },
+ {
+  "doc_id": "620023",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "'Tán thành Báo cáo' không là tác động."
+ },
+ {
+  "doc_id": "264382",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn trả lời doanh nghiệp; không có tác động."
+ }
+]

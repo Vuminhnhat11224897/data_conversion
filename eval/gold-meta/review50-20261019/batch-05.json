@@ -1,0 +1,77 @@
+[
+ {
+  "doc_id": "174921",
+  "la_vbqppl": false,
+  "cap_hieu_luc": null,
+  "ngay_hieu_luc": "2013-02-25",
+  "ngay_het_hieu_luc": null,
+  "ngay_hoi_to": null,
+  "hieu_luc_rieng": [],
+  "trich": {
+   "ngay_hieu_luc": "Điều 2. Quyết định này có hiệu lực kể từ ngày ký.",
+   "la_vbqppl": "Quyết định công bố thủ tục hành chính (văn bản cá biệt)",
+   "cap_hieu_luc": "null vì la_vbqppl = false"
+  },
+  "chua_chac": []
+ },
+ {
+  "doc_id": "292482",
+  "la_vbqppl": false,
+  "cap_hieu_luc": null,
+  "ngay_hieu_luc": "2015-09-23",
+  "ngay_het_hieu_luc": null,
+  "ngay_hoi_to": null,
+  "hieu_luc_rieng": [],
+  "trich": {
+   "ngay_hieu_luc": "Không có câu hiệu lực; la_vbqppl = false nên lấy ngay_ban_hanh",
+   "la_vbqppl": "Công văn hành chính trả lời/hướng dẫn, không phải VBQPPL (Tổng cục Thuế trả lời doanh nghiệp)",
+   "cap_hieu_luc": "null vì la_vbqppl = false"
+  },
+  "chua_chac": []
+ },
+ {
+  "doc_id": "81725",
+  "la_vbqppl": false,
+  "cap_hieu_luc": null,
+  "ngay_hieu_luc": "2008-11-04",
+  "ngay_het_hieu_luc": null,
+  "ngay_hoi_to": null,
+  "hieu_luc_rieng": [],
+  "trich": {
+   "ngay_hieu_luc": "Không có câu hiệu lực; la_vbqppl = false nên lấy ngay_ban_hanh",
+   "la_vbqppl": "Công văn hành chính trả lời/hướng dẫn, không phải VBQPPL (Tổng cục TĐC hướng dẫn thủ tục)",
+   "cap_hieu_luc": "null vì la_vbqppl = false"
+  },
+  "chua_chac": []
+ },
+ {
+  "doc_id": "232177",
+  "la_vbqppl": true,
+  "cap_hieu_luc": 9,
+  "ngay_hieu_luc": "2014-06-24",
+  "ngay_het_hieu_luc": null,
+  "ngay_hoi_to": null,
+  "hieu_luc_rieng": [],
+  "trich": {
+   "ngay_hieu_luc": "1. Thông tư này có hiệu lực kể từ ngày 24 tháng 6 năm 2014;",
+   "la_vbqppl": "Thông tư liên tịch luôn true",
+   "cap_hieu_luc": "Thông tư liên tịch Bộ Tài chính - Bộ Giao thông vận tải: cấp 9"
+  },
+  "chua_chac": []
+ },
+ {
+  "doc_id": "133028",
+  "la_vbqppl": false,
+  "cap_hieu_luc": null,
+  "ngay_hieu_luc": "2011-12-15",
+  "ngay_het_hieu_luc": null,
+  "ngay_hoi_to": null,
+  "hieu_luc_rieng": [],
+  "trich": {
+   "ngay_hieu_luc": "Không có câu hiệu lực; la_vbqppl = false nên lấy ngay_ban_hanh",
+   "la_vbqppl": "Công văn hành chính trả lời/hướng dẫn, không phải VBQPPL (Bộ Tài chính hướng dẫn bổ sung)",
+   "cap_hieu_luc": "null vì la_vbqppl = false"
+  },
+  "chua_chac": []
+ }
+]

@@ -1,0 +1,358 @@
+[
+ {
+  "doc_id": "634627",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "3086/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "các nội dung công bố",
+    "evidence": "Bãi bỏ các nội dung công bố tại Quyết định số 3086/QĐ-UBND ngày 19/10/2022 của Chủ tịch UBND tỉnh về việc công bố Danh mục thủ tục hành chính được sửa đổi, bổ sung lĩnh vực thú y thuộc phạm vi chức năng quản lý của Sở Nông nghiệp và Phát triển nông thôn."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công bố danh mục TTHC bị bãi bỏ (tên danh mục, không ghi). Điều 2 tự bãi bỏ toàn bộ nội dung công bố tại QĐ 3086/QĐ-UBND: ghi bai-bo, khong_ap_dung vì tác động lên toàn bộ nội dung công bố."
+ },
+ {
+  "doc_id": "600292",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Chỉ công bố danh mục TTHC bị bãi bỏ; Điều 2 giao Sở Y tế xóa TTHC khỏi CSDL. Không có tác động trực tiếp lên văn bản khác."
+ },
+ {
+  "doc_id": "584231",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "3066/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực kể từ ngày ký và bãi bỏ Quyết định số 3066/QĐ-UBND ngày 29/12/2021 của Chủ tịch Ủy ban nhân dân tỉnh công bố Danh mục thủ tục hành chính thuộc thẩm quyền giải quyết của sở, ban, ngành, Ủy ban nhân dân cấp huyện, Ủy ban nhân dân cấp xã đủ điều kiện thực hiện dịch vụ công trực tuyến mức độ 3, mức độ 4; Quyết định số 1384/QĐ-UBND ngày 31/5/2023 của của Chủ tịch Ủy ban nhân dân tỉnh Phê duyệt danh mục thủ tục hành chính thuộc thẩm quyền giải quyết của sở, ban, ngành, Ủy ban nhân dân cấp huyện, Ủy ban nhân dân cấp xã thực hiện dịch vụ công trực tuyến, dịch vụ cung cấp thông tin trực tuyến."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "1384/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực kể từ ngày ký và bãi bỏ Quyết định số 3066/QĐ-UBND ngày 29/12/2021 của Chủ tịch Ủy ban nhân dân tỉnh công bố Danh mục thủ tục hành chính thuộc thẩm quyền giải quyết của sở, ban, ngành, Ủy ban nhân dân cấp huyện, Ủy ban nhân dân cấp xã đủ điều kiện thực hiện dịch vụ công trực tuyến mức độ 3, mức độ 4; Quyết định số 1384/QĐ-UBND ngày 31/5/2023 của của Chủ tịch Ủy ban nhân dân tỉnh Phê duyệt danh mục thủ tục hành chính thuộc thẩm quyền giải quyết của sở, ban, ngành, Ủy ban nhân dân cấp huyện, Ủy ban nhân dân cấp xã thực hiện dịch vụ công trực tuyến, dịch vụ cung cấp thông tin trực tuyến."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 2 bãi bỏ cả 2 quyết định (cùng một câu). Các gạch đầu dòng giao nhiệm vụ (\"thay thế, bổ sung cho phù hợp\") không ghi."
+ },
+ {
+  "doc_id": "616700",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "sua-doi",
+    "target_document": "773/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục"
+    ],
+    "doi_tuong": "thủ tục hành chính thứ tự số 1, Mục 1; thứ tự số 1, 2, 3, 4, 5, Mục 2",
+    "evidence": "Sửa đổi, bổ sung thủ tục hành chính thứ tự số 1, Mục 1; thứ tự số 1, 2, 3, 4, 5, Mục 2; phụ lục ban hành kèm theo theo Quyết định số 773/QĐ-UBND ngày 14 tháng 4 năm 2021 của Ủy ban nhân dân tỉnh về việc Công bố danh mục thủ tục hành chính được công bố mới, sửa đổi lĩnh vực đường bộ thuộc thẩm quyền giải quyết của Sở Giao thông vận tải tỉnh An Giang."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bo-sung",
+    "target_document": "773/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục"
+    ],
+    "doi_tuong": "thủ tục hành chính thứ tự số 1, Mục 1; thứ tự số 1, 2, 3, 4, 5, Mục 2",
+    "evidence": "Sửa đổi, bổ sung thủ tục hành chính thứ tự số 1, Mục 1; thứ tự số 1, 2, 3, 4, 5, Mục 2; phụ lục ban hành kèm theo theo Quyết định số 773/QĐ-UBND ngày 14 tháng 4 năm 2021 của Ủy ban nhân dân tỉnh về việc Công bố danh mục thủ tục hành chính được công bố mới, sửa đổi lĩnh vực đường bộ thuộc thẩm quyền giải quyết của Sở Giao thông vận tải tỉnh An Giang."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "sua-doi",
+    "target_document": "1430/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục"
+    ],
+    "doi_tuong": "thủ tục hành chính thứ tự số 2, 5, 6",
+    "evidence": "Sửa đổi, bổ sung thủ tục hành chính thứ tự số 2, 5, 6 phụ lục ban hành kèm theo theo Quyết định số 1430/QĐ-UBND ngày 19 tháng 6 năm 2020 của Ủy ban nhân dân tỉnh Về việc Công bố danh mục thủ tục hành chính được sửa đổi lĩnh vực đường bộ thuộc thẩm quyền giải quyết của Sở Giao thông vận tải tỉnh An Giang."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bo-sung",
+    "target_document": "1430/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục"
+    ],
+    "doi_tuong": "thủ tục hành chính thứ tự số 2, 5, 6",
+    "evidence": "Sửa đổi, bổ sung thủ tục hành chính thứ tự số 2, 5, 6 phụ lục ban hành kèm theo theo Quyết định số 1430/QĐ-UBND ngày 19 tháng 6 năm 2020 của Ủy ban nhân dân tỉnh Về việc Công bố danh mục thủ tục hành chính được sửa đổi lĩnh vực đường bộ thuộc thẩm quyền giải quyết của Sở Giao thông vận tải tỉnh An Giang."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "sua-doi",
+    "target_document": "2350/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục"
+    ],
+    "doi_tuong": "thủ tục hành chính thứ tự số 2; Mục VI; Phần A",
+    "evidence": "Sửa đổi, bổ sung thủ tục hành chính thứ tự số 2; Mục VI; Phần A; Phụ lục công bố kèm theo Quyết định số 2350/QĐ-UBND ngày 19 tháng 8 năm 2016 của Chủ tịch Ủy ban nhân dân tỉnh An Giang Về việc công bố bộ thủ tục hành chính thuộc thẩm quyền giải quyết của Sở Giao thông Vận tải tỉnh An Giang."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bo-sung",
+    "target_document": "2350/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục"
+    ],
+    "doi_tuong": "thủ tục hành chính thứ tự số 2; Mục VI; Phần A",
+    "evidence": "Sửa đổi, bổ sung thủ tục hành chính thứ tự số 2; Mục VI; Phần A; Phụ lục công bố kèm theo Quyết định số 2350/QĐ-UBND ngày 19 tháng 8 năm 2016 của Chủ tịch Ủy ban nhân dân tỉnh An Giang Về việc công bố bộ thủ tục hành chính thuộc thẩm quyền giải quyết của Sở Giao thông Vận tải tỉnh An Giang."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "sua-doi",
+    "target_document": "1848/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục"
+    ],
+    "doi_tuong": "thủ tục hành chính thứ tự số 1, 2, 3, 4, 5, 6, 7, 8, 9; Phần A",
+    "evidence": "Sửa đổi, bổ sung thủ tục hành chính thứ tự số 1, 2, 3, 4, 5, 6, 7, 8, 9; Phần A; phụ lục ban hành kèm theo Quyết định số 1848/QĐ-UBND ngày 29 tháng 7 năm 2019 của Ủy ban nhân dân tỉnh về việc công bố Danh mục thủ tục hành chính mới, bãi bỏ lĩnh vực đường bộ thuộc thẩm quyền giải quyết của Sở Giao thông vận tải tỉnh An Giang."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bo-sung",
+    "target_document": "1848/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục"
+    ],
+    "doi_tuong": "thủ tục hành chính thứ tự số 1, 2, 3, 4, 5, 6, 7, 8, 9; Phần A",
+    "evidence": "Sửa đổi, bổ sung thủ tục hành chính thứ tự số 1, 2, 3, 4, 5, 6, 7, 8, 9; Phần A; phụ lục ban hành kèm theo Quyết định số 1848/QĐ-UBND ngày 29 tháng 7 năm 2019 của Ủy ban nhân dân tỉnh về việc công bố Danh mục thủ tục hành chính mới, bãi bỏ lĩnh vực đường bộ thuộc thẩm quyền giải quyết của Sở Giao thông vận tải tỉnh An Giang."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "sua-doi",
+    "target_document": "1012/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục I"
+    ],
+    "doi_tuong": "thủ tục hành chính thứ tự số 22, 48, 30, 50, 49, 47, 46, 45, 44, 43, 73, 72, 71, 69, 70, 68, 67, 66, 65; Mục 4",
+    "evidence": "Sửa đổi, bổ sung thủ tục hành chính thứ tự số 22, 48, 30, 50, 49, 47, 46, 45, 44, 43, 73, 72, 71, 69, 70, 68, 67, 66, 65; Mục 4; Phụ lục I công bố kèm theo Quyết định số 1012/QĐ-UBND ngày 29 tháng 6 năm 2023 của Chủ tịch Ủy ban nhân dân tỉnh An Giang về việc công bố Danh mục thủ tục hành chính thực hiện và không thực hiện tiếp nhận tại Trung tâm Phục vụ hành chính công tỉnh An Giang."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bo-sung",
+    "target_document": "1012/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục I"
+    ],
+    "doi_tuong": "thủ tục hành chính thứ tự số 22, 48, 30, 50, 49, 47, 46, 45, 44, 43, 73, 72, 71, 69, 70, 68, 67, 66, 65; Mục 4",
+    "evidence": "Sửa đổi, bổ sung thủ tục hành chính thứ tự số 22, 48, 30, 50, 49, 47, 46, 45, 44, 43, 73, 72, 71, 69, 70, 68, 67, 66, 65; Mục 4; Phụ lục I công bố kèm theo Quyết định số 1012/QĐ-UBND ngày 29 tháng 6 năm 2023 của Chủ tịch Ủy ban nhân dân tỉnh An Giang về việc công bố Danh mục thủ tục hành chính thực hiện và không thực hiện tiếp nhận tại Trung tâm Phục vụ hành chính công tỉnh An Giang."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Văn bản công bố TTHC nhưng Điều 2 tự sửa đổi, bổ sung các dòng TTHC trong phụ lục kèm theo 5 quyết định: mỗi đích 2 quan hệ (sua-doi, bo-sung). Dòng số thứ tự: vi_tri là phụ lục chứa danh mục (phụ lục không đánh số ghi \"Phụ lục\"), chi tiết dòng ở doi_tuong."
+ },
+ {
+  "doc_id": "580966",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "5613/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "04 thủ tục hành chính (TTHC số thứ tự 01, 03, 04, 06)",
+    "evidence": "Bãi bỏ 04 thủ tục hành chính (TTHC số thứ tự 01, 03, 04, 06) được công bố tại Quyết định số 5613/QĐ-UBND ngày 13 tháng 12 năm 2017 của Chủ tịch UBND tỉnh Lào Cai về việc công bố 06 thủ tục hành chính lĩnh vực Hoạt động khoa học và công nghệ thuộc thẩm quyền giải quyết của Sở Khoa học và Công nghệ tỉnh Lào Cai."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên văn bản là tên danh mục (\"TTHC được sửa đổi, bổ sung\"), không ghi. Điều 2 bãi bỏ các dòng TTHC công bố tại QĐ 5613; câu không nói rõ thuộc danh mục kèm theo nên khong_ro."
+ },
+ {
+  "doc_id": "141181",
+  "relations": [],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "loai": "gop_sai",
+    "ghi_chu": "Văn bản gốc đánh số trùng \"2.\" hai lần; đơn vị Điều 1 Khoản 2 gộp cả khoản 2 và khoản (thực chất là khoản 3) về danh mục TTHC của UBND thành phố Huế và các huyện."
+   }
+  ],
+  "ghi_chu": "Văn bản cũ (2007) ban hành danh mục TTHC. Các câu \"đề xuất bãi bỏ\", \"cập nhật để bổ sung, thay thế và hủy bỏ\" là giao nhiệm vụ, không ghi."
+ },
+ {
+  "doc_id": "687629",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Dữ liệu vào không có don_vi và toan_van. Đã đọc văn bản nguồn (legal-docs): Điều 1 công bố TTHC mới và quy trình nội bộ, Điều 2 hiệu lực, Điều 3 thi hành; không có tác động lên văn bản khác."
+ },
+ {
+  "doc_id": "587301",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Chỉ công bố danh mục TTHC sửa đổi, bổ sung, bãi bỏ (tên danh mục). Danh mục kèm theo có ghi chú TTHC đã công bố tại QĐ 2074/QĐ-UBND, 3443/QĐ-UBND nhưng thân văn bản không tự sửa đổi, bãi bỏ quyết định đó: không ghi."
+ },
+ {
+  "doc_id": "35171",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Văn bản cũ (2003). Điều 1 \"Công bố bãi bỏ 147 văn bản quy phạm pháp luật ... (có Danh mục đính kèm), do hết hiệu lực thi hành\" có hành động bãi bỏ nhưng không nêu số hiệu đích; danh mục 147 văn bản chỉ có trong phụ lục ở văn bản nguồn, không có trong dữ liệu vào nên không ghi quan hệ. Tên văn bản là tên danh mục, không ghi."
+ },
+ {
+  "doc_id": "480197",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "903/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ Quyết định số 903/QĐ-UBND ngày 20/4/2018 của Chủ tịch UBND tỉnh về công bố thủ tục hành chính thuộc thẩm quyền giải quyết của UBND cấp huyện; thủ tục hành chính thuộc thẩm quyền giải quyết của UBND cấp xã thuộc phạm vi, chức năng quản lý của ngành Nội vụ"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 2 còn bãi bỏ \"các quyết định ... trước đó đã công bố danh mục TTHC\" nhưng không nêu số hiệu: không ghi."
+ },
+ {
+  "doc_id": "513188",
+  "relations": [
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bai-bo",
+    "target_document": "2664/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "một số thủ tục hành chính",
+    "evidence": "Bãi bỏ một số thủ tục hành chính ban hành kèm theo Quyết định số 2664/QĐ-UBND ngày 16/9/2019 của Chủ tịch Ủy ban nhân dân tỉnh về việc công bố thủ tục hành chính sửa đổi, bổ sung, lĩnh vực Thú y thuộc phạm vi quản lý của Sở Nông nghiệp và Phát triển nông thôn tỉnh Sóc Trăng."
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "1211/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 1211/QĐ-UBND ngày 20/5/2016 về việc công bố thủ tục hành chính mới ban hành, thủ tục hành chính được sửa đổi, bổ sung thuộc phạm vi quản lý của Sở Nông nghiệp và Phát triển nông thôn tỉnh Sóc Trăng;"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "974/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 974/QĐ-UBND ngày 28/4/2017 về việc công bố thủ tục hành chính mới ban hành thuộc phạm vi quản lý của Sở Nông nghiệp và Phát triển nông thôn tỉnh Sóc Trăng;"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "865/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 865/QĐ-UBND ngày 22/3/2019 về việc công bố thủ tục hành chính sửa đổi, bổ sung lĩnh vực Bảo vệ thực vật thuộc thẩm quyền giải quyết của Sở Nông nghiệp và Phát triển nông thôn tỉnh Sóc Trăng;"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "885/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 885/QĐ-UBND ngày 03/4/2020 về việc công bố thủ tục hành chính mới ban hành, lĩnh vực Chăn nuôi thuộc thẩm quyền giải quyết của Sở Nông nghiệp và Phát triển nông thôn tỉnh Sóc Trăng."
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "2926/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 2926/QĐ-UBND ngày 05/11/2018 về việc công bố Danh mục thủ tục hành chính thuộc thẩm quyền giải quyết và phạm vi quản lý của Sở Nông nghiệp và Phát triển nông thôn tiếp nhận hồ sơ tại Trung tâm Phục vụ hành chính công tỉnh Sóc Trăng."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên văn bản \"bãi bỏ một số TTHC\" không nêu văn bản đích nên không ghi Phần đầu. Khoản 2 bãi bỏ cả 5 quyết định công bố (câu dẫn \"Bãi bỏ các Quyết định công bố ...\"); evidence là gạch đầu dòng nêu đích."
+ },
+ {
+  "doc_id": "624218",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Phê duyệt phương án đơn giản hóa TTHC. Phụ lục chỉ kiến nghị ban hành quyết định sửa đổi thời hạn TTHC tại QĐ 1751/QĐ-UBND (đề nghị), không ghi."
+ },
+ {
+  "doc_id": "649918",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "170/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "thủ tục hành chính có số thứ tự 41, 42 điểm A6 mục A thủ tục hành chính cấp tỉnh",
+    "evidence": "đồng thời bãi bỏ thủ tục hành chính có số thứ tự 41, 42 điểm A6 mục A thủ tục hành chính cấp tỉnh ban hành kèm theo Quyết định số 170/QĐ-UBND ngày 16 tháng 01 năm 2023 của Chủ tịch Ủy ban nhân dân thành phố"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Dòng số thứ tự trong danh mục kèm theo QĐ 170 (không nêu số phụ lục): vi_tri rỗng, ghi doi_tuong."
+ },
+ {
+  "doc_id": "634166",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "560/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục I",
+     "Phụ lục II"
+    ],
+    "doi_tuong": "quy trình nội bộ số thứ tự 1, 2, 3 Mục II, số thứ tự 1, 2 Mục IV Phần A Phụ lục I, số thứ tự 2, 3, 4, 5 Mục I Phụ lục II, số thứ tự 1, 2, 3, 4, 5 Mục II Phụ lục II",
+    "evidence": "Các nội dung công bố quy trình nội bộ thuộc thẩm quyền giải quyết của Sở Xây dựng lĩnh vực Nhà ở, Kinh doanh bất động sản tại số thứ tự 1, 2, 3 Mục II, số thứ tự 1, 2 Mục IV Phần A Phụ lục I, số thứ tự 2, 3, 4, 5 Mục I Phụ lục II, số thứ tự 1, 2, 3, 4, 5 Mục II Phụ lục II kèm theo Quyết định số 560/QĐ-UBND ngày 07/3/2022 của Chủ tịch UBND tỉnh; Phụ lục kèm theo Quyết định số 2401/QĐ-UBND ngày 24/10/2022 của Chủ tịch UBND tỉnh; số thứ tự 1 Mục II Phụ lục II kèm theo Quyết định số 1659/QĐ-UBND ngày 07/9/2023 của Chủ tịch UBND tỉnh hết hiệu lực thi hành kể từ ngày Quyết định này có hiệu lực thi hành."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "2401/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục"
+    ],
+    "doi_tuong": null,
+    "evidence": "Các nội dung công bố quy trình nội bộ thuộc thẩm quyền giải quyết của Sở Xây dựng lĩnh vực Nhà ở, Kinh doanh bất động sản tại số thứ tự 1, 2, 3 Mục II, số thứ tự 1, 2 Mục IV Phần A Phụ lục I, số thứ tự 2, 3, 4, 5 Mục I Phụ lục II, số thứ tự 1, 2, 3, 4, 5 Mục II Phụ lục II kèm theo Quyết định số 560/QĐ-UBND ngày 07/3/2022 của Chủ tịch UBND tỉnh; Phụ lục kèm theo Quyết định số 2401/QĐ-UBND ngày 24/10/2022 của Chủ tịch UBND tỉnh; số thứ tự 1 Mục II Phụ lục II kèm theo Quyết định số 1659/QĐ-UBND ngày 07/9/2023 của Chủ tịch UBND tỉnh hết hiệu lực thi hành kể từ ngày Quyết định này có hiệu lực thi hành."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "1659/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục II"
+    ],
+    "doi_tuong": "quy trình nội bộ số thứ tự 1 Mục II Phụ lục II",
+    "evidence": "Các nội dung công bố quy trình nội bộ thuộc thẩm quyền giải quyết của Sở Xây dựng lĩnh vực Nhà ở, Kinh doanh bất động sản tại số thứ tự 1, 2, 3 Mục II, số thứ tự 1, 2 Mục IV Phần A Phụ lục I, số thứ tự 2, 3, 4, 5 Mục I Phụ lục II, số thứ tự 1, 2, 3, 4, 5 Mục II Phụ lục II kèm theo Quyết định số 560/QĐ-UBND ngày 07/3/2022 của Chủ tịch UBND tỉnh; Phụ lục kèm theo Quyết định số 2401/QĐ-UBND ngày 24/10/2022 của Chủ tịch UBND tỉnh; số thứ tự 1 Mục II Phụ lục II kèm theo Quyết định số 1659/QĐ-UBND ngày 07/9/2023 của Chủ tịch UBND tỉnh hết hiệu lực thi hành kể từ ngày Quyết định này có hiệu lực thi hành."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 2 tuyên bố nội dung công bố quy trình nội bộ tại phụ lục kèm theo 3 quyết định \"hết hiệu lực thi hành\": ghi bai-bo. Dòng số thứ tự: vi_tri là phụ lục chứa, chi tiết ở doi_tuong."
+ },
+ {
+  "doc_id": "299093",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Dữ liệu vào không có toan_van; đã đọc văn bản nguồn: Điều 1 công bố TTHC mới/thay thế/bãi bỏ/giữ nguyên (công bố danh mục), Điều 2 hiệu lực, Điều 3 thi hành; không tự bãi bỏ, thay thế văn bản nào."
+ }
+]

@@ -1,0 +1,158 @@
+[
+ {
+  "doc_id": "40481",
+  "relations": [],
+  "loi_cau_truc": [
+   {
+    "source_path": "Phụ lục 1 Điều 11",
+    "loai": "gop_sai",
+    "ghi_chu": "Tiêu đề mục \"III - ĐIỀU KHOẢN THI HÀNH:\" của Quy định bị gộp vào cuối nội dung Điều 11."
+   }
+  ],
+  "ghi_chu": "Điều 2 tuyên bố quy định trái tại \"các văn bản khác\" hết hiệu lực, không nêu văn bản cụ thể nên không ghi quan hệ. Điều 13 Quy định chỉ nói thẩm quyền sửa đổi."
+ },
+ {
+  "doc_id": "364851",
+  "relations": [],
+  "loi_cau_truc": [
+   {
+    "source_path": "Mục I",
+    "loai": "gop_sai",
+    "ghi_chu": "Đơn vị Mục I chứa cả phần đầu (quốc hiệu, số hiệu, tên kế hoạch, câu dẫn)."
+   }
+  ],
+  "ghi_chu": "Kế hoạch thực hiện Quyết định 643/QĐ-TTg; không có tác động trực tiếp lên văn bản khác."
+ },
+ {
+  "doc_id": "387012",
+  "relations": [],
+  "loi_cau_truc": [
+   {
+    "source_path": "Mục 1",
+    "loai": "gop_sai",
+    "ghi_chu": "Đơn vị Mục 1 chứa cả phần đầu và đoạn mở đầu công văn."
+   }
+  ],
+  "ghi_chu": "Công văn đề nghị rà soát, đề xuất sửa đổi, bãi bỏ văn bản; là giao nhiệm vụ, không có tác động trực tiếp."
+ },
+ {
+  "doc_id": "50214",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quyết định phê duyệt dự án ODA; không có tác động lên văn bản khác."
+ },
+ {
+  "doc_id": "445655",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Nghị quyết chính sách mới; các văn bản nêu tên (NĐ 92/2009, NQ 164/2019, NĐ 73/2009) chỉ là trích dẫn, căn cứ."
+ },
+ {
+  "doc_id": "507760",
+  "relations": [
+   {
+    "source_path": "Điều 3",
+    "action": "bai-bo",
+    "target_document": "2254/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "TTHC số 01 mục 2",
+    "evidence": "Bãi bỏ TTHC số 01 mục 2 tại Quyết định số 2254/QĐ-UBND ngày 13/9/2021 của Ủy ban nhân tỉnh công bố danh mục thủ tục hành chính mới ban hành, được sửa đổi và bị bãi bỏ thuộc phạm vi chức năng quản lý nhà nước của Sở Xây dựng (bao gồm thẩm quyền giải quyết Sở Giao thông vận tải, Sở Công Thương, Sở Nông nghiệp và Phát triển nông thôn, Sở Tài nguyên và Môi trường và Ban Quản lý Khu kinh tế, công nghiệp tỉnh)."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên và Điều 1 chỉ công bố danh mục TTHC sửa đổi, không nêu văn bản đích nên không ghi. Dòng TTHC trong danh mục: vi_tri rỗng, ghi doi_tuong."
+ },
+ {
+  "doc_id": "560545",
+  "relations": [
+   {
+    "source_path": "Điều 4",
+    "action": "thay-the",
+    "target_document": "1608/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "thủ tục hành chính có số thứ tự 01 tại phần I. Danh mục thủ tục hành chính",
+    "evidence": "Thay thế thủ tục hành chính có số thứ tự 01 tại phần I. Danh mục thủ tục hành chính của phụ lục kèm theo Quyết định số 1608/QĐ-UBND ngày 01/7/2021 của Chủ tịch UBND tỉnh về việc công bố danh mục thủ tục hành chính sửa đổi, bổ sung trong lĩnh vực Bảo trợ xã hội thực hiện theo cơ chế một cửa liên thông từ UBND cấp xã đến UBND cấp huyện áp dụng trên địa bàn tỉnh Thừa Thiên Huế."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Phụ lục của văn bản đích không đánh số nên vi_tri rỗng, ghi doi_tuong."
+ },
+ {
+  "doc_id": "505532",
+  "relations": [
+   {
+    "source_path": "Điều 3",
+    "action": "thay-the",
+    "target_document": "1956/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thay thế Quyết định số 1956/QĐ-UBND ngày 31/7/2020 của Chủ tịch UBND tỉnh Công bố danh mục thủ tục hành chính mới ban hành, sửa đổi, bổ sung trong lĩnh vực vốn hỗ trợ phát triển chính thức (ODA), vốn vay ưu đãi của các nhà tài trợ nước ngoài thuộc thẩm quyền giải quyết của Sở Kế hoạch và Đầu tư tỉnh Thừa Thiên Huế."
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 2",
+    "action": "bai-bo",
+    "target_document": "1956/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "TTHC số 01 mục 1",
+    "evidence": "Bãi bỏ TTHC số 01 mục 1 Quyết định số 1956/QĐ-UBND ngày 31/7/2020 của Chủ tịch UBND tỉnh"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 2",
+    "action": "bai-bo",
+    "target_document": "1956/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "TTHC số 01 mục 2",
+    "evidence": "Bãi bỏ TTHC số 01 mục 2 Quyết định số 1956/QĐ-UBND ngày 31/7/2020 của Chủ tịch UBND tỉnh"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 2",
+    "action": "bai-bo",
+    "target_document": "1956/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "TTHC số 02 mục 2",
+    "evidence": "Bãi bỏ TTHC số 02 mục 2 Quyết định số 1956/QĐ-UBND ngày 31/7/2020 của Chủ tịch UBND tỉnh"
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 3",
+    "loai": "tach_sai",
+    "ghi_chu": "Câu đầu \"Quyết định này có hiệu lực thi hành kể từ ngày ký.\" bị nhận thành tên Điều 3 (ten_dieu); Điều 3 không có tên."
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 2",
+    "loai": "thieu_noi_dung",
+    "ghi_chu": "Danh mục kèm theo (mục 2. Danh mục TTHC bị bãi bỏ, cột Ghi chú có 3 câu \"Bãi bỏ TTHC số ... Quyết định số 1956/QĐ-UBND\") không có trong don_vi; source_path đặt theo toàn văn."
+   }
+  ],
+  "ghi_chu": "Tên và Điều 1 chỉ công bố danh mục, không nêu văn bản đích. 3 quan hệ bãi bỏ lấy từ cột Ghi chú của danh mục TTHC bị bãi bỏ trong toàn văn."
+ },
+ {
+  "doc_id": "181555",
+  "relations": [
+   {
+    "source_path": "Điều 4",
+    "action": "thay-the",
+    "target_document": "412/QĐ-UBDT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực thi hành kể từ ngày ký và thay thế Quyết định số 412/QĐ-UBDT ngày 30/12/2008 của Bộ trưởng, Chủ nhiệm Ủy ban Dân tộc quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Viện Dân tộc."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 2 khoản 4, khoản 9 chỉ là nhiệm vụ nghiên cứu, đề xuất sửa đổi; không ghi."
+ },
+ {
+  "doc_id": "253801",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Ban hành Chương trình mới; không có tác động lên văn bản khác. don_vi rỗng là đúng."
+ }
+]

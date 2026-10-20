@@ -1,0 +1,279 @@
+[
+ {
+  "doc_id": "479949",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "44/2020/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục 01"
+    ],
+    "doi_tuong": "giá tính thuế tinh quặng đồng có hàm lượng Cu ≥20% (mã nhóm tài nguyên I1003)",
+    "evidence": "SỬA ĐỔI GIÁ TÍNH THUẾ TINH QUẶNG ĐỒNG CÓ HÀM LƯỢNG CU ≥20% (MÃ NHÓM TÀI NGUYÊN I1003) TẠI PHỤ LỤC SỐ 01 BAN HÀNH KÈM THEO QUYẾT ĐỊNH SỐ 44/2020/QĐ-UBND NGÀY 31/12/2020 CỦA ỦY BAN NHÂN DÂN TỈNH LÀO CAI BAN HÀNH BẢNG GIÁ TÍNH THUẾ TÀI NGUYÊN TRÊN ĐỊA BÀN TỈNH LÀO CAI"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "sua-doi",
+    "target_document": "44/2020/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục 01"
+    ],
+    "doi_tuong": "giá tính thuế tinh quặng đồng có hàm lượng Cu ≥20% (mã nhóm tài nguyên I1003)",
+    "evidence": "Sửa đổi giá tính thuế đối với tinh quặng đồng có hàm lượng Cu ≥20% (mã nhóm tài nguyên I1003) quy định tại Phụ lục số 01 ban hành kèm theo Quyết định số 44/2020/QĐ-UBND ngày 31/12/2020 của Ủy ban nhân dân tỉnh Lào Cai ban hành Bảng giá tính thuế tài nguyên trên địa bàn tỉnh Lào Cai"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Sửa giá tính thuế dòng I1003 tại Phụ lục số 01 kèm theo QĐ 44/2020; chi tiết ở phụ lục kèm theo QĐ này."
+ },
+ {
+  "doc_id": "411815",
+  "relations": [
+   {
+    "source_path": "Điều 2 Khoản 1",
+    "action": "bai-bo",
+    "target_document": "3086/QĐ-BTNMT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "thủ tục hành chính Cấp giấy phép hoạt động đo đạc và bản đồ",
+    "evidence": "Cấp giấy phép hoạt động đo đạc và bản đồ được công bố tại Quyết định số 3086/QĐ-BTNMT ngày 10 tháng 10 năm 2018 của Bộ trưởng Bộ Tài nguyên và Môi trường;"
+   },
+   {
+    "source_path": "Điều 2 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "1723/QĐ-BTNMT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "thủ tục hành chính: cấp bổ sung nội dung, gia hạn, cấp lại, thu hồi giấy phép hoạt động đo đạc và bản đồ",
+    "evidence": "Cấp bổ sung nội dung giấy phép hoạt động đo đạc và bản đồ; gia hạn giấy phép hoạt động đo đạc và bản đồ; cấp lại giấy phép hoạt động đo đạc và bản đồ; thu hồi giấy phép hoạt động đo đạc và bản đồ được công bố tại Quyết định số 1723/QĐ-BTNMT ngày 30 tháng 6 năm 2015 của Bộ trưởng Bộ Tài nguyên và Môi trường;"
+   },
+   {
+    "source_path": "Điều 2 Khoản 3",
+    "action": "bai-bo",
+    "target_document": "634/QĐ-BTNMT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "thủ tục hành chính Thẩm định việc thể hiện đường địa giới hành chính trên các loại bản đồ trước khi xuất bản",
+    "evidence": "Thẩm định việc thể hiện đường địa giới hành chính trên các loại bản đồ trước khi xuất bản được công bố tại Quyết định số 634/QĐ-BTNMT ngày 29 tháng 3 năm 2016 của Bộ trưởng Bộ Tài nguyên và Môi trường;"
+   },
+   {
+    "source_path": "Điều 2 Khoản 4",
+    "action": "bai-bo",
+    "target_document": "634/QĐ-BTNMT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "thủ tục hành chính Thẩm định việc thể hiện đường biên giới quốc gia trên các loại bản đồ",
+    "evidence": "Thẩm định việc thể hiện đường biên giới quốc gia trên các loại bản đồ được công bố tại Quyết định số 634/QĐ-BTNMT ngày 29 tháng 3 năm 2016 của Bộ trưởng Bộ Tài nguyên và Môi trường."
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 2 Khoản 1",
+    "loai": "thieu_noi_dung",
+    "ghi_chu": "Khoản 1 Điều 2 (bãi bỏ TTHC công bố tại QĐ 3086/QĐ-BTNMT) không có trong don_vi."
+   },
+   {
+    "source_path": "Điều 2 Khoản 3",
+    "loai": "thieu_noi_dung",
+    "ghi_chu": "Khoản 3 Điều 2 (bãi bỏ TTHC công bố tại QĐ 634/QĐ-BTNMT) không có trong don_vi."
+   },
+   {
+    "source_path": "Điều 2 Khoản 4",
+    "loai": "thieu_noi_dung",
+    "ghi_chu": "Khoản 4 Điều 2 (bãi bỏ TTHC công bố tại QĐ 634/QĐ-BTNMT) không có trong don_vi."
+   }
+  ],
+  "ghi_chu": "Không có toan_van; đã đọc legal-docs/_doc/411815. Câu dẫn 'Bãi bỏ các thủ tục hành chính gồm:' nằm trong Điều 2; chỉ khoản 2 có trong don_vi. Evidence khoản 1, 3, 4 chép từ full_content nguồn. 'gia hạn giấy phép' ở khoản 2 là tên TTHC, không phải gia-han."
+ },
+ {
+  "doc_id": "375117",
+  "relations": [
+   {
+    "source_path": "Điều 1",
+    "action": "huy-bo",
+    "target_document": "1648/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "04 thủ tục thuộc lĩnh vực Giáo dục và Đào tạo",
+    "evidence": "Hủy bỏ, bãi bỏ 04 thủ tục thuộc lĩnh vực Giáo dục và Đào tạo tại Quyết định số 1648/QĐ-UBND ngày 20/7/2016 của Chủ tịch UBND tỉnh Phú Yên."
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bai-bo",
+    "target_document": "1648/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "04 thủ tục thuộc lĩnh vực Giáo dục và Đào tạo",
+    "evidence": "Hủy bỏ, bãi bỏ 04 thủ tục thuộc lĩnh vực Giáo dục và Đào tạo tại Quyết định số 1648/QĐ-UBND ngày 20/7/2016 của Chủ tịch UBND tỉnh Phú Yên."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 1 tự nói hủy bỏ, bãi bỏ 04 TTHC tại QĐ 1648/QĐ-UBND; tách 2 hành động."
+ },
+ {
+  "doc_id": "694492",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Nghị quyết quy định mức chi; dẫn chiếu Điều 7 Thông tư 44/2022/TT-BTC (được sửa đổi bởi 95/2025/TT-BTC) là 'theo quy định tại', không có câu 'quy định chi tiết' hay sửa đổi, bãi bỏ."
+ },
+ {
+  "doc_id": "572176",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Ban hành Kế hoạch hành động thực hiện NQ 53/NQ-CP; không có tác động lên văn bản khác."
+ },
+ {
+  "doc_id": "583395",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Phân khai kế hoạch vốn; 'Thực hiện Nghị quyết số ...' là căn cứ. Đã đọc nguồn: Điều 2, 3 không có tác động."
+ },
+ {
+  "doc_id": "85128",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Chỉ thị giao nhiệm vụ; các từ 'hướng dẫn', 'bổ sung', 'sửa đổi' là nhiệm vụ hoặc kiến nghị, không tác động lên văn bản."
+ },
+ {
+  "doc_id": "204855",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Đình chỉ lưu hành thuốc Paracetamol Infusion (SĐK VN-14902-12): đích là thuốc, không phải văn bản; không ghi quan hệ."
+ },
+ {
+  "doc_id": "325091",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Chỉ công bố 55 TTHC bị bãi bỏ; không tự nói bãi bỏ văn bản hoặc phần văn bản nào."
+ },
+ {
+  "doc_id": "372651",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "13/2015/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ NỘI DUNG TẠI QUY ĐỊNH KÈM THEO QUYẾT ĐỊNH SỐ 13/2015/QĐ-UBND NGÀY 13/5/2015 CỦA UBND TỈNH SƠN LA BAN HÀNH QUY ĐỊNH CHI TIẾT THỰC HIỆN ĐIỂM B, KHOẢN 3, ĐIỀU 6, QUYẾT ĐỊNH SỐ 50/2014/QĐ-TTG NGÀY 04/9/2014 CỦA THỦ TƯỚNG CHÍNH PHỦ VỀ CHÍNH SÁCH HỖ TRỢ NÂNG CAO HIỆU QUẢ CHĂN NUÔI NÔNG HỘ GIAI ĐOẠN 2015 - 2020 TRÊN ĐỊA BÀN TỈNH SƠN LA"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "13/2015/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ NỘI DUNG TẠI QUY ĐỊNH KÈM THEO QUYẾT ĐỊNH SỐ 13/2015/QĐ-UBND NGÀY 13/5/2015 CỦA UBND TỈNH SƠN LA BAN HÀNH QUY ĐỊNH CHI TIẾT THỰC HIỆN ĐIỂM B, KHOẢN 3, ĐIỀU 6, QUYẾT ĐỊNH SỐ 50/2014/QĐ-TTG NGÀY 04/9/2014 CỦA THỦ TƯỚNG CHÍNH PHỦ VỀ CHÍNH SÁCH HỖ TRỢ NÂNG CAO HIỆU QUẢ CHĂN NUÔI NÔNG HỘ GIAI ĐOẠN 2015 - 2020 TRÊN ĐỊA BÀN TỈNH SƠN LA"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "sua-doi",
+    "target_document": "13/2015/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "tiểu điểm 4 điểm b khoản 1 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Gạch đầu dòng thứ 4, Điểm b, Khoản 1, Điều 1, Quy định kèm theo Quyết định số 13/2015/QĐ-UBND được sửa đổi, bổ sung như sau:"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bo-sung",
+    "target_document": "13/2015/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "tiểu điểm 4 điểm b khoản 1 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Gạch đầu dòng thứ 4, Điểm b, Khoản 1, Điều 1, Quy định kèm theo Quyết định số 13/2015/QĐ-UBND được sửa đổi, bổ sung như sau:"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Sửa đổi, bổ sung gạch đầu dòng thứ 4 điểm b khoản 1 Điều 1 Quy định kèm theo QĐ 13/2015 (đơn giá liều tinh)."
+ },
+ {
+  "doc_id": "633911",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Chỉ công bố danh mục 19 TTHC sửa đổi, bổ sung; không tác động lên văn bản khác."
+ },
+ {
+  "doc_id": "560701",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Chỉ công bố danh mục TTHC mới; không tác động lên văn bản khác."
+ },
+ {
+  "doc_id": "513937",
+  "relations": [
+   {
+    "source_path": "Phụ lục 1 Mục 2 STT 8",
+    "action": "bai-bo",
+    "target_document": "1628/qđ-ubnd",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "2. Danh mục thủ tục hành chính bãi bỏ ... | 8 | ... Thủ tục số ..., Phần II, Quyết định số 1628/QĐ-UBND ngày 01/6/2016 |",
+    "nguon": "phan_xu_20261020"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 2 STT 5",
+    "action": "bai-bo",
+    "target_document": "1628/qđ-ubnd",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "2. Danh mục thủ tục hành chính bãi bỏ ... | 5 | ... Thủ tục số ..., Phần II, Quyết định số 1628/QĐ-UBND ngày 01/6/2016 |",
+    "nguon": "phan_xu_20261020"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 2 STT 6",
+    "action": "bai-bo",
+    "target_document": "1628/qđ-ubnd",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "2. Danh mục thủ tục hành chính bãi bỏ ... | 6 | ... Thủ tục số ..., Phần II, Quyết định số 1628/QĐ-UBND ngày 01/6/2016 |",
+    "nguon": "phan_xu_20261020"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 2 STT 4",
+    "action": "bai-bo",
+    "target_document": "1628/qđ-ubnd",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "2. Danh mục thủ tục hành chính bãi bỏ ... | 4 | ... Thủ tục số ..., Phần II, Quyết định số 1628/QĐ-UBND ngày 01/6/2016 |",
+    "nguon": "phan_xu_20261020"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 2 STT 7",
+    "action": "bai-bo",
+    "target_document": "1628/qđ-ubnd",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "2. Danh mục thủ tục hành chính bãi bỏ ... | 7 | ... Thủ tục số ..., Phần II, Quyết định số 1628/QĐ-UBND ngày 01/6/2016 |",
+    "nguon": "phan_xu_20261020"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công bố danh mục TTHC mới, bãi bỏ; bảng danh mục bãi bỏ chỉ dẫn số thứ tự TTHC tại QĐ 1628/QĐ-UBND, thân văn bản không tự nói bãi bỏ phần nào của QĐ 1628; không ghi."
+ },
+ {
+  "doc_id": "514540",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Không có toan_van; đã đọc nguồn. Chỉ công bố 08 TTHC sửa đổi, bổ sung; không tác động lên văn bản khác."
+ },
+ {
+  "doc_id": "351305",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Không có toan_van; đã đọc nguồn. Chỉ công bố TTHC chuẩn hóa, bị bãi bỏ; 'Thông tư 85/2011/TT-BNNPTNT hết hiệu lực' trong bảng là ghi chú căn cứ, không phải văn bản này tuyên bố."
+ }
+]

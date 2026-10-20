@@ -1,0 +1,109 @@
+[
+ {
+  "doc_id": "264683",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Giao dự toán ngân sách; không tác động lên văn bản khác. 'hướng dẫn thi hành Quyết định này' là chính văn bản."
+ },
+ {
+  "doc_id": "673548",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "hop-nhat",
+    "target_document": "38/2018/TT-BNNPTNT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thông tư số 38/2018/TT-BNNPTNT ngày 25/12/2018 của Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn quy định việc thẩm định, chứng nhận cơ sở sản xuất, kinh doanh thực phẩm nông, lâm, thủy sản đủ điều kiện an toàn thực phẩm thuộc phạm vi quản lý của Bộ Nông nghiệp và Phát triển nông thôn, có hiệu lực kể từ ngày 07 tháng 02 năm 2019, được sửa đổi, bổ sung bởi:"
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Phụ lục 6 Điều 13",
+    "loai": "nhan_sai_dieu",
+    "ghi_chu": "Điều 13, 14, 15 của Thông tư 17/2025/TT-BNNMT trích trong ngoặc kép (phần chú thích/phụ lục) bị nhận thành Điều của văn bản (các đơn vị Phụ lục 6 Điều 13, Điều 14 Khoản 1-3, Điều 15 Khoản 2)."
+   },
+   {
+    "source_path": "Phụ lục 6 Điều 15 Khoản 2",
+    "loai": "gop_sai",
+    "ghi_chu": "Các chú thích [37]-[41] của văn bản hợp nhất bị gộp vào nội dung khoản 2."
+   }
+  ],
+  "ghi_chu": "Văn bản hợp nhất: chỉ ghi hop-nhat với văn bản gốc 38/2018/TT-BNNPTNT. Câu thay thế 45/2014/TT-BNNPTNT (Điều 25 Khoản 2) và các ghi chú bãi bỏ chép lại từ văn bản gốc/văn bản sửa đổi, không ghi."
+ },
+ {
+  "doc_id": "665118",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "hop-nhat",
+    "target_document": "12/2019/TT-BNNPTNT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thông tư số 12/2019/TT-BNNPTNT ngày 25 tháng 10 năm 2019 của Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn quy định về thống kê ngành lâm nghiệp, có hiệu lực kể từ ngày 15 tháng 12 năm 2019, được sửa đổi, bổ sung bởi:"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Văn bản hợp nhất: chỉ ghi hop-nhat với văn bản gốc 12/2019/TT-BNNPTNT. Câu 'hết hiệu lực' Quyết định 3201/QĐ-BNN-KH (Điều 7 Khoản 2) chép lại từ văn bản gốc, không ghi."
+ },
+ {
+  "doc_id": "54065",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn trả lời doanh nghiệp, trích dẫn và áp dụng điểm 2.1.d Mục II Phần B Thông tư 05/2005/TT-BTC; 'gia hạn' là gia hạn hợp đồng vay. Không có tác động trực tiếp."
+ },
+ {
+  "doc_id": "91944",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Chỉ thị về chương trình nhà ở; 'điều chỉnh' là điều chỉnh nhà ở, nhắc Chỉ thị 216/TTg, QĐ 111/CP để thực hiện. Không có tác động."
+ },
+ {
+  "doc_id": "632682",
+  "relations": [],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 1",
+    "loai": "tach_sai",
+    "ghi_chu": "Câu nội dung của Điều 1 bị đưa vào ten_dieu; noi_dung chỉ còn '(Chi tiết có Phụ lục kèm theo)'."
+   }
+  ],
+  "ghi_chu": "Phê duyệt chủ trương chuyển mục đích sử dụng rừng; không tác động lên văn bản khác."
+ },
+ {
+  "doc_id": "374956",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn giao Bộ Y tế xử lý kiến nghị; không có tác động."
+ },
+ {
+  "doc_id": "416970",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn trả lời; 'được sửa đổi, bổ sung một số điều tại Thông tư số 06/2019/TT-BTC' là kể lại lịch sử. Tên 'hướng dẫn quản lý, sử dụng...' chỉ mô tả nội dung, không nêu văn bản đích. Không ghi."
+ },
+ {
+  "doc_id": "621698",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "1042/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực thi hành kể từ ngày ký và thay thế Quyết định số 1042/QĐ-UBND ngày 18/6/2024 của Chủ tịch Ủy ban nhân dân tỉnh Lâm Đồng về việc công bố danh mục thủ tục hành chính ban hành mới; sửa đổi, bổ sung và quy trình nội bộ giải quyết thủ tục hành chính trong lĩnh vực bảo vệ quyền lợi người tiêu dùng thuộc thẩm quyền giải quyết của cấp tỉnh và cấp xã trên địa bàn tỉnh Lâm Đồng."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên 'công bố danh mục thủ tục hành chính sửa đổi, bổ sung' là tên danh mục TTHC, không phải hành động lên văn bản."
+ },
+ {
+  "doc_id": "217163",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Chỉ thị về phong trào thi đua; không có tác động."
+ }
+]

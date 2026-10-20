@@ -1,0 +1,63 @@
+[
+ {
+  "doc_id": "286869",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "hop-nhat",
+    "target_document": "30/2009/QH12",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Luật quy hoạch đô thị số 30/2009/QH12 ngày 17 tháng 6 năm 2009 của Quốc hội, có hiệu lực kể từ ngày 01 tháng 01 năm 2010, được sửa đổi, bổ sung bởi:"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "hop-nhat",
+    "target_document": "77/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 140",
+     "Điều 141",
+     "Điều 142",
+     "Điều 143"
+    ],
+    "doi_tuong": null,
+    "evidence": "Luật tổ chức chính quyền địa phương số 77/2015/QH13 ngày 19 tháng 6 năm 2015 của Quốc hội, có hiệu lực kể từ ngày 01 tháng 01 năm 2016."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Văn bản hợp nhất của VPQH. vi_tri của 77/2015/QH13 theo chú thích [2] (Điều 140) và [3] (Điều 141-143). Khoản 2 Điều 74 (quy định của Luật xây dựng về quy hoạch xây dựng đô thị được thay thế) là chữ của Luật 30/2009/QH12, không nêu số hiệu; VBHN không phải Luật nên không ghi. Chú thích [3] chép Điều 141 Luật 77/2015 (Luật 11/2003/QH11 hết hiệu lực): lịch sử, không ghi."
+ },
+ {
+  "doc_id": "620285",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "hop-nhat",
+    "target_document": "09/2011/TT-BVHTTDL",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thông tư số 09/2011/TT-BVHTTDL ngày 14 tháng 7 năm 2011 của Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch quy định về nội dung hồ sơ khoa học để xếp hạng di tích lịch sử - văn hóa và danh lam thắng cảnh, có hiệu lực từ ngày 01 tháng 9 năm 2011, được sửa đổi, bổ sung bởi:"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "hop-nhat",
+    "target_document": "18/2022/TT-BVHTTDL",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thông tư số 18/2022/TT-BVHTTDL ngày 28 tháng 12 năm 2022 của Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch sửa đổi, bổ sung một số điều của Thông tư số 09/2011/TT-BVHTTDL"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Văn bản hợp nhất. Thông tư 18/2022/TT-BVHTTDL được hợp nhất toàn bộ (Điều 1, 2 ở thân, Điều 3, 4 ở chú thích [11]). Các chú thích 'được sửa đổi, bổ sung theo …', 'được thay thế bởi cụm từ …' là ghi chú lịch sử, không ghi. Phụ lục 1-4 là mẫu biểu, không có hành động."
+ },
+ {
+  "doc_id": "358653",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Nghị định 109/2018/NĐ-CP không sửa đổi, bãi bỏ, thay thế văn bản nào. Các câu dẫn chiếu Nghị định 107/2016/NĐ-CP, 43/2017/NĐ-CP là áp dụng, không phải hành động. Phụ lục (ghi nhầm 'Kèm theo Quyết định số 109/2018/NĐ-CP') chỉ có mẫu số 01, 02."
+ }
+]

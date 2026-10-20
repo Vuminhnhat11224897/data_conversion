@@ -1,0 +1,579 @@
+[
+ {
+  "doc_id": "429597",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn trả lời vướng mắc của Cục Thuế TP HCM; các luật, thông tư nêu là căn cứ, không có tác động lên văn bản khác."
+ },
+ {
+  "doc_id": "570603",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "sua-doi",
+    "target_document": "3128/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này sửa đổi, bổ sung Quyết định số 3128/QĐ-UBND ngày 28 tháng 07 năm 2021 của Chủ tịch Ủy ban nhân dân tỉnh công bố Danh mục thủ tục hành chính trong lĩnh vực Trợ giúp pháp lý thuộc phạm vi chức năng quản lý của Sở Tư pháp."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bo-sung",
+    "target_document": "3128/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này sửa đổi, bổ sung Quyết định số 3128/QĐ-UBND ngày 28 tháng 07 năm 2021 của Chủ tịch Ủy ban nhân dân tỉnh công bố Danh mục thủ tục hành chính trong lĩnh vực Trợ giúp pháp lý thuộc phạm vi chức năng quản lý của Sở Tư pháp."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 2 tự nói sửa đổi, bổ sung QĐ 3128/QĐ-UBND. Tên văn bản (công bố TTHC được sửa đổi, bổ sung) không ghi."
+ },
+ {
+  "doc_id": "426827",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "2710/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "các thủ tục hành chính trong lĩnh vực việc làm, lao động, tiền lương thuộc phạm vi, chức năng quản lý của Sở Lao động - Thương binh và Xã hội tỉnh Bình Định",
+    "evidence": "bãi bỏ các thủ tục hành chính trong lĩnh vực việc làm, lao động, tiền lương thuộc phạm vi, chức năng quản lý của Sở Lao động - Thương binh và Xã hội tỉnh Bình Định đã được công bố tại Quyết định số 2710/QĐ-UBND ngày 10 tháng 8 năm 2018 và Quyết định số 2234/QĐ-UBND ngày 01 tháng 7 năm 2019 của Chủ tịch Ủy ban nhân dân tỉnh (Phụ lục 2 kèm theo)."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "2234/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "các thủ tục hành chính trong lĩnh vực việc làm, lao động, tiền lương thuộc phạm vi, chức năng quản lý của Sở Lao động - Thương binh và Xã hội tỉnh Bình Định",
+    "evidence": "bãi bỏ các thủ tục hành chính trong lĩnh vực việc làm, lao động, tiền lương thuộc phạm vi, chức năng quản lý của Sở Lao động - Thương binh và Xã hội tỉnh Bình Định đã được công bố tại Quyết định số 2710/QĐ-UBND ngày 10 tháng 8 năm 2018 và Quyết định số 2234/QĐ-UBND ngày 01 tháng 7 năm 2019 của Chủ tịch Ủy ban nhân dân tỉnh (Phụ lục 2 kèm theo)."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 2 bãi bỏ các TTHC đã công bố tại 2 QĐ (chi tiết Phụ lục 2: STT 1-5 thuộc QĐ 2710, STT 6-10 thuộc QĐ 2234). Tên văn bản chỉ mô tả danh mục TTHC, không ghi."
+ },
+ {
+  "doc_id": "584970",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "sua-doi",
+    "target_document": "2059/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này sửa đổi, bổ sung Quyết định số 2059/QĐ-UBND ngày 09 tháng 6 năm 2023 của Chủ tịch Ủy ban nhân dân tỉnh công bố Danh mục thủ tục hành chính trong lĩnh vực Tài nguyên nước thuộc phạm vi chức năng quản lý của Sở Tài nguyên và Môi trường."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bo-sung",
+    "target_document": "2059/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này sửa đổi, bổ sung Quyết định số 2059/QĐ-UBND ngày 09 tháng 6 năm 2023 của Chủ tịch Ủy ban nhân dân tỉnh công bố Danh mục thủ tục hành chính trong lĩnh vực Tài nguyên nước thuộc phạm vi chức năng quản lý của Sở Tài nguyên và Môi trường."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 2 tự nói sửa đổi, bổ sung QĐ 2059/QĐ-UBND."
+ },
+ {
+  "doc_id": "506261",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "sua-doi",
+    "target_document": "393/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này sửa đổi, bổ sung Quyết định số 393/QĐ-UBND ngày 31 tháng 01 năm 2019 và thay thế Quyết định số 5143/QĐ-UBND ngày 16 tháng 12 năm 2020 của Chủ tịch Ủy ban nhân dân tỉnh công bố Danh mục thủ tục hành chính trong lĩnh vực Thủy sản thuộc phạm vi chức năng quản lý của Sở Nông nghiệp và Phát triển nông thôn."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bo-sung",
+    "target_document": "393/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này sửa đổi, bổ sung Quyết định số 393/QĐ-UBND ngày 31 tháng 01 năm 2019 và thay thế Quyết định số 5143/QĐ-UBND ngày 16 tháng 12 năm 2020 của Chủ tịch Ủy ban nhân dân tỉnh công bố Danh mục thủ tục hành chính trong lĩnh vực Thủy sản thuộc phạm vi chức năng quản lý của Sở Nông nghiệp và Phát triển nông thôn."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "5143/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này sửa đổi, bổ sung Quyết định số 393/QĐ-UBND ngày 31 tháng 01 năm 2019 và thay thế Quyết định số 5143/QĐ-UBND ngày 16 tháng 12 năm 2020 của Chủ tịch Ủy ban nhân dân tỉnh công bố Danh mục thủ tục hành chính trong lĩnh vực Thủy sản thuộc phạm vi chức năng quản lý của Sở Nông nghiệp và Phát triển nông thôn."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 2: sửa đổi, bổ sung QĐ 393/QĐ-UBND và thay thế QĐ 5143/QĐ-UBND."
+ },
+ {
+  "doc_id": "683636",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "05/2025/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ các quyết định quy phạm pháp luật trong lĩnh vực Tài chính trên địa bàn tỉnh Tây Ninh bao gồm các văn bản quy phạm pháp luật theo Phụ lục Danh mục II kèm theo Quyết định này."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "72/2017/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ các quyết định quy phạm pháp luật trong lĩnh vực Tài chính trên địa bàn tỉnh Tây Ninh bao gồm các văn bản quy phạm pháp luật theo Phụ lục Danh mục II kèm theo Quyết định này."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "36/2019/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ các quyết định quy phạm pháp luật trong lĩnh vực Tài chính trên địa bàn tỉnh Tây Ninh bao gồm các văn bản quy phạm pháp luật theo Phụ lục Danh mục II kèm theo Quyết định này."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "1905/2003/QĐ-UB",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ các quyết định quy phạm pháp luật trong lĩnh vực Tài chính trên địa bàn tỉnh Tây Ninh bao gồm các văn bản quy phạm pháp luật theo Phụ lục Danh mục II kèm theo Quyết định này."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "2289/2003/QĐ-UB",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ các quyết định quy phạm pháp luật trong lĩnh vực Tài chính trên địa bàn tỉnh Tây Ninh bao gồm các văn bản quy phạm pháp luật theo Phụ lục Danh mục II kèm theo Quyết định này."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "47/2021/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ các quyết định quy phạm pháp luật trong lĩnh vực Tài chính trên địa bàn tỉnh Tây Ninh bao gồm các văn bản quy phạm pháp luật theo Phụ lục Danh mục II kèm theo Quyết định này."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "46/2017/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ các quyết định quy phạm pháp luật trong lĩnh vực Tài chính trên địa bàn tỉnh Tây Ninh bao gồm các văn bản quy phạm pháp luật theo Phụ lục Danh mục II kèm theo Quyết định này."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "11/2025/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ các quyết định quy phạm pháp luật trong lĩnh vực Tài chính trên địa bàn tỉnh Tây Ninh bao gồm các văn bản quy phạm pháp luật theo Phụ lục Danh mục II kèm theo Quyết định này."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "38/2018/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ các quyết định quy phạm pháp luật trong lĩnh vực Tài chính trên địa bàn tỉnh Tây Ninh bao gồm các văn bản quy phạm pháp luật theo Phụ lục Danh mục II kèm theo Quyết định này."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "09/2022/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ các quyết định quy phạm pháp luật trong lĩnh vực Tài chính trên địa bàn tỉnh Tây Ninh bao gồm các văn bản quy phạm pháp luật theo Phụ lục Danh mục II kèm theo Quyết định này."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "44/2017/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ các quyết định quy phạm pháp luật trong lĩnh vực Tài chính trên địa bàn tỉnh Tây Ninh bao gồm các văn bản quy phạm pháp luật theo Phụ lục Danh mục II kèm theo Quyết định này."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "02/2022/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ các quyết định quy phạm pháp luật trong lĩnh vực Tài chính trên địa bàn tỉnh Tây Ninh bao gồm các văn bản quy phạm pháp luật theo Phụ lục Danh mục II kèm theo Quyết định này."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "53/2023/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ các quyết định quy phạm pháp luật trong lĩnh vực Tài chính trên địa bàn tỉnh Tây Ninh bao gồm các văn bản quy phạm pháp luật theo Phụ lục Danh mục II kèm theo Quyết định này."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "11/2021/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ các quyết định quy phạm pháp luật trong lĩnh vực Tài chính trên địa bàn tỉnh Tây Ninh bao gồm các văn bản quy phạm pháp luật theo Phụ lục Danh mục II kèm theo Quyết định này."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "12/2024/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ các quyết định quy phạm pháp luật trong lĩnh vực Tài chính trên địa bàn tỉnh Tây Ninh bao gồm các văn bản quy phạm pháp luật theo Phụ lục Danh mục II kèm theo Quyết định này."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "08/2025/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ các quyết định quy phạm pháp luật trong lĩnh vực Tài chính trên địa bàn tỉnh Tây Ninh bao gồm các văn bản quy phạm pháp luật theo Phụ lục Danh mục II kèm theo Quyết định này."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "33/2025/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ các quyết định quy phạm pháp luật trong lĩnh vực Tài chính trên địa bàn tỉnh Tây Ninh bao gồm các văn bản quy phạm pháp luật theo Phụ lục Danh mục II kèm theo Quyết định này."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "12/2025/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ các quyết định quy phạm pháp luật trong lĩnh vực Tài chính trên địa bàn tỉnh Tây Ninh bao gồm các văn bản quy phạm pháp luật theo Phụ lục Danh mục II kèm theo Quyết định này."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "44/2023/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ các quyết định quy phạm pháp luật trong lĩnh vực Tài chính trên địa bàn tỉnh Tây Ninh bao gồm các văn bản quy phạm pháp luật theo Phụ lục Danh mục II kèm theo Quyết định này."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "41/2018/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ các quyết định quy phạm pháp luật trong lĩnh vực Tài chính trên địa bàn tỉnh Tây Ninh bao gồm các văn bản quy phạm pháp luật theo Phụ lục Danh mục II kèm theo Quyết định này."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "40/2020/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ các quyết định quy phạm pháp luật trong lĩnh vực Tài chính trên địa bàn tỉnh Tây Ninh bao gồm các văn bản quy phạm pháp luật theo Phụ lục Danh mục II kèm theo Quyết định này."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "13/2018/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ các quyết định quy phạm pháp luật trong lĩnh vực Tài chính trên địa bàn tỉnh Tây Ninh bao gồm các văn bản quy phạm pháp luật theo Phụ lục Danh mục II kèm theo Quyết định này."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "37/2024/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ các quyết định quy phạm pháp luật trong lĩnh vực Tài chính trên địa bàn tỉnh Tây Ninh bao gồm các văn bản quy phạm pháp luật theo Phụ lục Danh mục II kèm theo Quyết định này."
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 2",
+    "loai": "tach_sai",
+    "ghi_chu": "Điều 2 không có tên; câu bãi bỏ (nội dung Điều) bị nhận thành ten_dieu, noi_dung chỉ còn '(Phụ lục Danh mục II kèm theo).'"
+   },
+   {
+    "source_path": "Điều 1",
+    "loai": "tach_sai",
+    "ghi_chu": "Điều 1 không có tên; câu nội dung bị nhận thành ten_dieu."
+   }
+  ],
+  "ghi_chu": "Packet không có toàn văn/phụ lục; danh sách đích lấy từ Phụ lục Danh mục II của văn bản nguồn (legal-docs/683636): 25 dòng, 08/2025/QĐ-UBND và 33/2025/QĐ-UBND lặp 2 lần -> 23 văn bản (của UBND tỉnh Long An, Tây Ninh trước hợp nhất). Tên văn bản 'áp dụng, bãi bỏ các Quyết định QPPL...' không nêu số hiệu đích nên không ghi quan hệ Phần đầu. Điều 1 'áp dụng' không thuộc nhóm hành động. Điều 3 khoản 1 nêu thời điểm hết hiệu lực chung 01/3/2027 của các QĐ ở Phụ lục I theo dạng điều kiện ('hoặc ... hoặc khi có quyết định bãi bỏ'), coi là nhắc quy định, không ghi."
+ },
+ {
+  "doc_id": "54109",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Nghị quyết xét duyệt điều chỉnh quy hoạch và kế hoạch sử dụng đất; 'điều chỉnh quy hoạch' không nêu văn bản đích -> không có quan hệ."
+ },
+ {
+  "doc_id": "81725",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Trường hợp biên: công văn nói việc áp dụng mục 2 Công văn 1119/TĐC-ĐGPH 'chưa khả thi' và 'đề nghị' vẫn áp dụng văn bản hiện hành; không có từ hành động (đình chỉ, ngưng hiệu lực, bãi bỏ) -> không ghi quan hệ."
+ },
+ {
+  "doc_id": "575466",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "2222/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực kể từ ngày ký và thay thế các Quyết định: Quyết định số 2222/QĐ-UBND ngày 13/9/2021 của Chủ tịch UBND tỉnh về việc công bố Danh mục thủ tục hành chính thuộc phạm vi chức năng quản lý Nhà nước của Sở Kế hoạch và Đầu tư, Quyết định số 2232/QĐ-UBND ngày 10/9/2019 của Chủ tịch UBND tỉnh về việc phê duyệt quy trình nội bộ giải quyết thủ tục hành chính thuộc phạm vi chức năng quản lý Nhà nước của Sở Kế hoạch và Đầu tư."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "2232/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực kể từ ngày ký và thay thế các Quyết định: Quyết định số 2222/QĐ-UBND ngày 13/9/2021 của Chủ tịch UBND tỉnh về việc công bố Danh mục thủ tục hành chính thuộc phạm vi chức năng quản lý Nhà nước của Sở Kế hoạch và Đầu tư, Quyết định số 2232/QĐ-UBND ngày 10/9/2019 của Chủ tịch UBND tỉnh về việc phê duyệt quy trình nội bộ giải quyết thủ tục hành chính thuộc phạm vi chức năng quản lý Nhà nước của Sở Kế hoạch và Đầu tư."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 2 thay thế 2 QĐ."
+ },
+ {
+  "doc_id": "565339",
+  "relations": [],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 1",
+    "loai": "tach_sai",
+    "ghi_chu": "Điều 1 không có tên; câu phê duyệt (nội dung Điều) bị nhận thành ten_dieu."
+   }
+  ],
+  "ghi_chu": "Phê duyệt kế hoạch sử dụng đất năm 2023; không có tác động lên văn bản khác. Packet không có toàn văn; đã đối chiếu văn bản nguồn, không có câu bãi bỏ/thay thế."
+ },
+ {
+  "doc_id": "625163",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "1755/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "các danh mục thủ tục hành chính, quy trình nội bộ, danh mục dịch vụ công trực tuyến tương ứng lĩnh vực Quản lý giá thuộc thẩm quyền Sở Tài chính",
+    "evidence": "Bãi bỏ các danh mục thủ tục hành chính, quy trình nội bộ, danh mục dịch vụ công trực tuyến tương ứng lĩnh vực Quản lý giá thuộc thẩm quyền Sở Tài chính đã được công bố tại các Quyết định số 1755/QĐ-UBND ngày 18/7/2019; Quyết định số 83/QĐ-CT ngày 15/01/2021; Quyết định số 721/QĐ-CT ngày 14/4/2022; Quyết định số 241/QĐ-CT ngày 06/02/2023 của Chủ tịch UBND tỉnh Vĩnh Phúc."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "83/QĐ-CT",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "các danh mục thủ tục hành chính, quy trình nội bộ, danh mục dịch vụ công trực tuyến tương ứng lĩnh vực Quản lý giá thuộc thẩm quyền Sở Tài chính",
+    "evidence": "Bãi bỏ các danh mục thủ tục hành chính, quy trình nội bộ, danh mục dịch vụ công trực tuyến tương ứng lĩnh vực Quản lý giá thuộc thẩm quyền Sở Tài chính đã được công bố tại các Quyết định số 1755/QĐ-UBND ngày 18/7/2019; Quyết định số 83/QĐ-CT ngày 15/01/2021; Quyết định số 721/QĐ-CT ngày 14/4/2022; Quyết định số 241/QĐ-CT ngày 06/02/2023 của Chủ tịch UBND tỉnh Vĩnh Phúc."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "721/QĐ-CT",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "các danh mục thủ tục hành chính, quy trình nội bộ, danh mục dịch vụ công trực tuyến tương ứng lĩnh vực Quản lý giá thuộc thẩm quyền Sở Tài chính",
+    "evidence": "Bãi bỏ các danh mục thủ tục hành chính, quy trình nội bộ, danh mục dịch vụ công trực tuyến tương ứng lĩnh vực Quản lý giá thuộc thẩm quyền Sở Tài chính đã được công bố tại các Quyết định số 1755/QĐ-UBND ngày 18/7/2019; Quyết định số 83/QĐ-CT ngày 15/01/2021; Quyết định số 721/QĐ-CT ngày 14/4/2022; Quyết định số 241/QĐ-CT ngày 06/02/2023 của Chủ tịch UBND tỉnh Vĩnh Phúc."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "241/QĐ-CT",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "các danh mục thủ tục hành chính, quy trình nội bộ, danh mục dịch vụ công trực tuyến tương ứng lĩnh vực Quản lý giá thuộc thẩm quyền Sở Tài chính",
+    "evidence": "Bãi bỏ các danh mục thủ tục hành chính, quy trình nội bộ, danh mục dịch vụ công trực tuyến tương ứng lĩnh vực Quản lý giá thuộc thẩm quyền Sở Tài chính đã được công bố tại các Quyết định số 1755/QĐ-UBND ngày 18/7/2019; Quyết định số 83/QĐ-CT ngày 15/01/2021; Quyết định số 721/QĐ-CT ngày 14/4/2022; Quyết định số 241/QĐ-CT ngày 06/02/2023 của Chủ tịch UBND tỉnh Vĩnh Phúc."
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 2",
+    "loai": "tach_sai",
+    "ghi_chu": "Điều 2 không có tên; đoạn đầu 'Quyết định này có hiệu lực thi hành kể từ ngày ký.' bị nhận thành ten_dieu."
+   }
+  ],
+  "ghi_chu": "Điều 2 bãi bỏ phần danh mục TTHC, quy trình nội bộ, DVC trực tuyến lĩnh vực Quản lý giá đã công bố tại 4 QĐ."
+ },
+ {
+  "doc_id": "542870",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "1936/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục III Phụ lục 01"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ 01 danh mục thủ tục hành chính số thứ tự 36 Mục III Phụ lục 01 ban hành kèm theo Quyết định số 1936/QĐ-UBND ngày 13/8/2019 của Chủ tịch UBND tỉnh Vĩnh Phúc"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Bãi bỏ dòng STT 36 Mục III Phụ lục 01 kèm theo QĐ 1936/QĐ-UBND; vị trí dừng ở Mục III Phụ lục 01."
+ },
+ {
+  "doc_id": "560443",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "2675/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Danh mục thủ tục hành chính lĩnh vực hộ tịch",
+    "evidence": "Bãi bỏ Danh mục thủ tục hành chính lĩnh vực hộ tịch ban hành kèm theo Quyết định số 2675/QĐ-UBND ngày 14/10/2020"
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 3",
+    "loai": "gop_sai",
+    "ghi_chu": "Văn bản gốc đánh số trùng 'Điều 3' hai lần; Điều 3 thứ hai (trách nhiệm thi hành) bị gộp vào noi_dung của Điều 3 'Tổ chức thực hiện'."
+   }
+  ],
+  "ghi_chu": "Điều 2 bãi bỏ Danh mục TTHC lĩnh vực hộ tịch kèm theo QĐ 2675/QĐ-UBND (chỉ nêu bằng tên)."
+ },
+ {
+  "doc_id": "600990",
+  "relations": [
+   {
+    "source_path": "Điều 3",
+    "action": "sua-doi",
+    "target_document": "456/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục II Phần II Danh mục"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung 01 thủ tục hành chính số 2 mục II, phần II Danh mục kèm theo Quyết định số 456/QĐ-UBND ngày 06/3/2023 của Chủ tịch UBND tỉnh Phú Thọ"
+   },
+   {
+    "source_path": "Điều 3",
+    "action": "bo-sung",
+    "target_document": "456/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục II Phần II Danh mục"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung 01 thủ tục hành chính số 2 mục II, phần II Danh mục kèm theo Quyết định số 456/QĐ-UBND ngày 06/3/2023 của Chủ tịch UBND tỉnh Phú Thọ"
+   },
+   {
+    "source_path": "Điều 3",
+    "action": "sua-doi",
+    "target_document": "446/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục III Phụ lục I",
+     "Mục V Phụ lục I",
+     "Mục I Phụ lục II",
+     "Mục I Phần C Phụ lục II",
+     "Mục IV Phụ lục II",
+     "Mục V Phần A Phụ lục II"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung 16 thủ tục hành chính: số 2, 3 Mục III Phụ lục I; số 3, 4, 5 mục V Phục lục I; số 1 mục I Phụ lục II; số 1, 2, 3, 8, 15, 16, 17, 18 mục I phần C phụ lục II; số 5 Mục IV phụ lục II; số 3 mục V phần A Phụ lục II Danh mục kèm theo Quyết định số 446/QĐ-UBND ngày 06/3/2023 của Chủ tịch UBND tỉnh Phú Thọ"
+   },
+   {
+    "source_path": "Điều 3",
+    "action": "bo-sung",
+    "target_document": "446/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục III Phụ lục I",
+     "Mục V Phụ lục I",
+     "Mục I Phụ lục II",
+     "Mục I Phần C Phụ lục II",
+     "Mục IV Phụ lục II",
+     "Mục V Phần A Phụ lục II"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung 16 thủ tục hành chính: số 2, 3 Mục III Phụ lục I; số 3, 4, 5 mục V Phục lục I; số 1 mục I Phụ lục II; số 1, 2, 3, 8, 15, 16, 17, 18 mục I phần C phụ lục II; số 5 Mục IV phụ lục II; số 3 mục V phần A Phụ lục II Danh mục kèm theo Quyết định số 446/QĐ-UBND ngày 06/3/2023 của Chủ tịch UBND tỉnh Phú Thọ"
+   },
+   {
+    "source_path": "Điều 3",
+    "action": "bai-bo",
+    "target_document": "446/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục VII Phụ lục I",
+     "Mục VII Phần A Phụ lục II",
+     "Mục VI Phần A Phụ lục II"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ 13 thủ tục hành chính: số 1, 2, 3, 4, 5, 6 mục VII phụ lục I; số 1, 2, 3, 4, 5, 6 mục VII phần A phụ lục II; số 1 mục VI phần A phụ lục II Danh mục kèm theo Quyết định số 446/QĐ-UBND ngày 06/3/2023 của Chủ tịch UBND tỉnh Phú Thọ"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Không có toàn văn trong packet; đã đối chiếu văn bản nguồn. Vị trí là các dòng STT trong Danh mục kèm theo QĐ 456 và 446, dừng ở mục/phần/phụ lục chứa dòng ('Phục lục' trong câu là lỗi chính tả của 'Phụ lục')."
+ },
+ {
+  "doc_id": "669744",
+  "relations": [
+   {
+    "source_path": "Điều 3",
+    "action": "bai-bo",
+    "target_document": "2191/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "03 thủ tục hành chính số thứ tự 64, 65, 66 thuộc Danh mục ban hành kèm theo",
+    "evidence": "Bãi bỏ:\n\n- 03 thủ tục hành chính số thứ tự 64, 65, 66 thuộc Danh mục ban hành kèm theo Quyết định số 2191/QĐ-UBND ngày 05/11/2024 của Chủ tịch Ủy ban nhân dân tỉnh Phú Thọ."
+   },
+   {
+    "source_path": "Điều 3",
+    "action": "bai-bo",
+    "target_document": "2140/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "03 thủ tục hành chính số thứ tự 8, 9, 10 thuộc Danh mục ban hành kèm theo",
+    "evidence": "03 thủ tục hành chính số thứ tự 8, 9, 10 thuộc Danh mục ban hành kèm theo Quyết định số 2140/QĐ-UBND ngày 30/10/2024 của Chủ tịch Ủy ban nhân dân tỉnh Phú Thọ."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 3 bãi bỏ các dòng STT trong Danh mục kèm theo 2 QĐ; Danh mục không đánh số phụ lục nên vi_tri rỗng, ghi doi_tuong. Tên văn bản 'được thay thế' chỉ TTHC, không ghi."
+ }
+]

@@ -1,0 +1,166 @@
+[
+ {
+  "doc_id": "17921",
+  "relations": [
+   {
+    "source_path": "Điều 1",
+    "action": "sua-doi",
+    "target_document": "226/2003/QĐ-BCN",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 1",
+     "khoản 3 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi khoản 1, khoản 3 Điều 1 Quyết định số 226/2003/QĐ-BCN ngày 19 tháng 12 năm 2003 của Bộ trưởng Bộ Công nghiệp về việc chuyển Công ty Phương Đông thành Công ty cổ phần Phương Đông như sau :"
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 1",
+    "loai": "thieu_noi_dung",
+    "ghi_chu": "don_vi rỗng. Điều 1 có câu 'Sửa đổi khoản 1, khoản 3 Điều 1 Quyết định số 226/2003/QĐ-BCN' trong toan_van nhưng không có đơn vị nào."
+   }
+  ],
+  "ghi_chu": "don_vi rỗng; quan hệ lấy từ Điều 1 trong toan_van (evidence chép từ toan_van). Tên văn bản cũng nêu cùng tác động, không ghi trùng. Hai đoạn trong ngoặc kép là nội dung mới, không ghi."
+ },
+ {
+  "doc_id": "348325",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Không có tác động. QĐ 3325/QĐ-UBND, QĐ 498/QĐ-TTg, CV 3111/UBND-KTN chỉ là dẫn chiếu."
+ },
+ {
+  "doc_id": "281020",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công bố TTHC mới và bãi bỏ 01 TTHC. Bãi bỏ thủ tục hành chính, không bãi bỏ văn bản hoặc phần văn bản nào; TT 20/2013/TT-BCT trong bảng là văn bản quy định nội dung bãi bỏ (căn cứ), không phải đích. Không ghi quan hệ."
+ },
+ {
+  "doc_id": "38209",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Chỉ thị giao nhiệm vụ triển khai Pháp lệnh Bảo hộ lao động (giao ban hành văn bản hướng dẫn); không có tác động trực tiếp. Văn bản không chia Điều; phan_dau và loi_dan chứa toàn văn."
+ },
+ {
+  "doc_id": "366135",
+  "relations": [],
+  "loi_cau_truc": [
+   {
+    "source_path": "Mục 1",
+    "loai": "gop_sai",
+    "ghi_chu": "Mục 1 gộp cả quốc hiệu, số hiệu, Kính gửi và hai đoạn mở đầu vào nội dung mục 1."
+   },
+   {
+    "source_path": "Mục 2",
+    "loai": "gop_sai",
+    "ghi_chu": "Mục 2 gộp hai đoạn kết chung ('Văn bản đề nghị gửi về...', 'Đề nghị các Bộ ngành...') vào mục 2."
+   }
+  ],
+  "ghi_chu": "Công văn đề nghị góp ý, đề xuất sửa đổi NĐ 66/2014/NĐ-CP; chỉ là đề nghị, không có tác động trực tiếp."
+ },
+ {
+  "doc_id": "45703",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "huong-dan",
+    "target_document": "11/1999/NĐ-CP",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thi hành Nghị định của Chính phủ số 11/1999/ NĐ-CP ngày 03/ 3/ 1999 \"Về hàng hoá cấm lưu thông, dịch vụ thương mại cấm thực hiện, hàng hóa, dịch vụ hạn chế kinh doanh, kinh doanh có điều kiện\" và Chỉ thị của Thủ tướng Chính phủ số 13/1999/CT-TTg ngày 12/ 5/ 1999 \"Về việc chấn chỉnh sắp xếp sản xuất kinh doanh ngành thuốc lá\", sau khi thống nhất với Bộ Công nghiệp và các bộ ngành liên quan Bộ Thương mại hướng dẫn kinh doanh trên thị trường mặt hàng thuốc lá điếu sản xuất tại Việt Nam, như sau:"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "huong-dan",
+    "target_document": "13/1999/CT-TTg",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thi hành Nghị định của Chính phủ số 11/1999/ NĐ-CP ngày 03/ 3/ 1999 \"Về hàng hoá cấm lưu thông, dịch vụ thương mại cấm thực hiện, hàng hóa, dịch vụ hạn chế kinh doanh, kinh doanh có điều kiện\" và Chỉ thị của Thủ tướng Chính phủ số 13/1999/CT-TTg ngày 12/ 5/ 1999 \"Về việc chấn chỉnh sắp xếp sản xuất kinh doanh ngành thuốc lá\", sau khi thống nhất với Bộ Công nghiệp và các bộ ngành liên quan Bộ Thương mại hướng dẫn kinh doanh trên thị trường mặt hàng thuốc lá điếu sản xuất tại Việt Nam, như sau:"
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Mục 1",
+    "loai": "gop_sai",
+    "ghi_chu": "Mục 1 gộp quốc hiệu, tên văn bản, lời dẫn 'Thi hành Nghị định...' và tiêu đề 'I- PHẠM VI ÁP DỤNG' vào khoản 1 Mục I."
+   },
+   {
+    "source_path": "Mục 4",
+    "loai": "gop_sai",
+    "ghi_chu": "Khoản 4 Mục I nuốt toàn bộ Mục II, Mục III (và phần sau); noi_dung bị cắt ở 6000 ký tự. Văn bản chia Mục La Mã I-IV, mỗi Mục có khoản; nhãn 'Mục 1', 'Mục 4' thực chất là khoản của Mục I."
+   }
+  ],
+  "ghi_chu": "Thông tư hướng dẫn thi hành NĐ 11/1999/NĐ-CP và CT 13/1999/CT-TTg ở lời dẫn ('Thi hành ... Bộ Thương mại hướng dẫn ...'); quan hệ với Chỉ thị 13/1999/CT-TTg ít chắc hơn. Khoản 3 Mục IV 'Các quy định trước đây ... trái với Thông tư này đều bãi bỏ' không nêu văn bản đích, không ghi (đơn vị này cũng không có trong don_vi). Mục 4 bị cắt."
+ },
+ {
+  "doc_id": "666708",
+  "relations": [
+   {
+    "source_path": "Điều 3 Khoản 2 điểm a",
+    "action": "bai-bo",
+    "target_document": "04/2021/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị quyết số 04/2021/NQ-HĐND ngày 14 tháng 12 năm 2021 của Hội đồng nhân dân tỉnh Tuyên Quang về Ban hành Quy chế hoạt động của Hội đồng nhân dân tỉnh Tuyên Quang khóa XIX, nhiệm kỳ 2021 - 2026"
+   },
+   {
+    "source_path": "Điều 3 Khoản 2 điểm b",
+    "action": "bai-bo",
+    "target_document": "22/2021/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị quyết số 22/2021/NQ-HĐND ngày 16 tháng 7 năm 2021 của Hội đồng nhân dân tỉnh Hà Giang về Ban hành Quy chế hoạt động của Hội đồng nhân dân tỉnh Hà Giang khóa XVIII, nhiệm kỳ 2021 - 2026"
+   },
+   {
+    "source_path": "Điều 3 Khoản 2 điểm c",
+    "action": "bai-bo",
+    "target_document": "19/2022/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị quyết số 19/2022/NQ-HĐND ngày 14 tháng 12 năm 2022 của Hội đồng nhân dân tỉnh Hà Giang về sửa đổi, bổ sung một số điều của Quy chế hoạt động của Hội đồng nhân dân tỉnh Hà Giang khóa XVIII, nhiệm kỳ 2021 - 2026 ban hành kèm theo Nghị quyết số 22/2021/NQ-HĐND ngày 16 tháng 7 năm 2021 của Hội đồng nhân dân tỉnh Hà Giang"
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 3 Khoản 2 điểm c",
+    "loai": "gop_sai",
+    "ghi_chu": "Câu kết 'Nghị quyết này đã được Hội đồng nhân dân tỉnh Tuyên Quang khóa XIX, kỳ họp thứ nhất thông qua...' bị gộp vào điểm c (và khoản 2)."
+   }
+  ],
+  "ghi_chu": "Câu dẫn khoản 2 Điều 3 'Các nghị quyết sau hết hiệu lực kể từ ngày nghị quyết này có hiệu lực thi hành:' tuyên bố 3 nghị quyết hết hiệu lực -> bai-bo; mỗi điểm một quan hệ. Ở điểm c, NQ 22/2021/NQ-HĐND chỉ là ngữ cảnh. Không có toan_van; Điều 1, Điều 2 không có trong don_vi."
+ },
+ {
+  "doc_id": "468660",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Chỉ công bố Danh mục VBQPPL đã hết hiệu lực năm 2020 (hết hiệu lực do văn bản khác); văn bản này không tự bãi bỏ, thay thế. Không ghi quan hệ."
+ },
+ {
+  "doc_id": "500082",
+  "relations": [
+   {
+    "source_path": "Điều 3",
+    "action": "thay-the",
+    "target_document": "2222/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực từ 00 giờ ngày 09/12/2021 và thay thế Quyết định số 2222/QĐ-UBND ngày 16/10/2021 của Chủ tịch Ủy ban nhân dân tỉnh"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "'tạm dừng thực hiện các nội dung chỉ đạo trước đây trái với nội dung tại Quyết định này' không nêu văn bản đích, không ghi. QĐ 5525/QĐ-BYT ở điểm c khoản 1 Điều 1 chỉ là dẫn chiếu. noi_dung Điều 1 Khoản 2 (bảng) bị cắt ở 6000 ký tự, không ảnh hưởng."
+ },
+ {
+  "doc_id": "125204",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn trả lời, chỉ trích dẫn Luật Thương mại, BLDS, TT 129/2008/TT-BTC, TT 79/2009/TT-BTC; không có tác động. loi_dan trong gói chứa các đoạn cuối của thân văn bản (bất thường của gói, không phải đơn vị)."
+ }
+]

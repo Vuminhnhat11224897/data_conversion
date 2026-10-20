@@ -1,0 +1,227 @@
+[
+ {
+  "doc_id": "258301",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quyết định ban hành Quy định mới; không có câu thay thế, bãi bỏ, sửa đổi văn bản khác. Thông tư 15/2010/TT-BXD chỉ là căn cứ, trích dẫn."
+ },
+ {
+  "doc_id": "324556",
+  "relations": [
+   {
+    "source_path": "Điều 5 Khoản 1",
+    "action": "thay-the",
+    "target_document": "05/2014/TT-BTTTT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thông tư này có hiệu lực thi hành kể từ ngày 01 tháng 10 năm 2017 và thay thế cho Thông tư số 05/2014/TT-BTTTT ngày 19 tháng 3 năm 2014 của Bộ trưởng Bộ Thông tin và Truyền thông Quy định Danh mục sản phẩm, hàng hóa có khả năng gây mất an toàn thuộc trách nhiệm quản lý của Bộ Thông tin và Truyền thông."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 3 Khoản 2 là thẩm quyền (soát xét, sửa đổi danh mục); Điều 4 Khoản 1 chỉ dẫn chiếu Thông tư 30/2011/TT-BTTTT. Không ghi."
+ },
+ {
+  "doc_id": "38836",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 2 bãi bỏ chung 'những quy định trong các văn bản trước đây trái với Nghị định này', không nêu văn bản đích. Không ghi."
+ },
+ {
+  "doc_id": "115981",
+  "relations": [],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 2",
+    "loai": "gop_sai",
+    "ghi_chu": "noi_dung của Điều 2 chứa luôn Điều 3 (\"Điêu 3: Chánh văn phòng UBND tỉnh...\"); chữ \"Điêu\" sai chính tả nên không tách được."
+   }
+  ],
+  "ghi_chu": "Điều 2 bãi bỏ chung 'các quy định trước đây trái với Quy chế', không nêu văn bản đích. Không có quan hệ."
+ },
+ {
+  "doc_id": "312727",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn trả lời doanh nghiệp; chỉ đề nghị căn cứ Điều 74 Thông tư 38/2015/TT-BTC và công văn 18195/BTC-TCHQ để thực hiện. Đây là trích dẫn, không phải tác động trực tiếp."
+ },
+ {
+  "doc_id": "576671",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "5252/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục 2"
+    ],
+    "doi_tuong": "Quy trình nội bộ QT-42",
+    "evidence": "Quy trình nội bộ QT-42 tại Phụ lục 2 kèm theo Quyết định số 5252/QĐ-UBND ngày 20/9/2019 của Chủ tịch UBND thành phố Hà Nội hết hiệu lực."
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 1",
+    "loai": "thieu_noi_dung",
+    "ghi_chu": "Điều 1 (\"Bãi bỏ 01 quy trình nội bộ giải quyết thủ tục hành chính lĩnh vực đường bộ... (Chi tiết tại Phụ lục kèm theo)\") có từ hành động nhưng không có trong don_vi."
+   }
+  ],
+  "ghi_chu": "Theo quy tắc, Điều 1 không có trong don_vi nên không ghi. Điều 2 tuyên bố QT-42 hết hiệu lực: ghi bai-bo. Chọn kem_theo vì câu nói rõ 'Phụ lục 2 kèm theo Quyết định'."
+ },
+ {
+  "doc_id": "683138",
+  "relations": [
+   {
+    "source_path": "Điều 2 Khoản 2 điểm a",
+    "action": "thay-the",
+    "target_document": "19/2016/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 19/2016/QĐ-UBND ngày 29/6/2016 của Ủy ban nhân dân tỉnh tỉnh Phú Thọ về việc ban hành Quy chế phối hợp giữa các cơ quan chức năng trong quản lý nhà nước đối với doanh nghiệp sau đăng ký thành lập."
+   },
+   {
+    "source_path": "Điều 2 Khoản 2 điểm b",
+    "action": "thay-the",
+    "target_document": "16/2017/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 16/2017/QĐ-UBND ngày 09/6/2017 của Ủy ban nhân dân tỉnh Vĩnh Phúc về việc ban hành Quy chế phối hợp giữa các cơ quan chức năng trong quản lý nhà nước đối với doanh nghiệp sau đăng ký thành lập."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Hành động 'thay thế' nằm ở câu dẫn của Khoản 2 ('Quyết định này thay thế các Quyết định sau đây:'); văn bản đích nằm ở điểm a, b. Ghi theo source_path của điểm."
+ },
+ {
+  "doc_id": "471872",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "hop-nhat",
+    "target_document": "25/2020/NĐ-CP",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Văn bản hợp nhất 2187/VBHN-BKHĐT năm 2021 hợp nhất Nghị định hướng dẫn Luật Đấu thầu về lựa chọn nhà đầu tư"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "hop-nhat",
+    "target_document": "35/2021/NĐ-CP",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "1. Nghị định số 35/2021/NĐ-CP ngày 29 tháng 3 năm 2021 của Chính phủ quy định chi tiết và hướng dẫn thi hành Luật Đầu tư theo phương thức đối tác công tư, có hiệu lực thi hành kể từ ngày 29 tháng 3 năm 2021."
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "hop-nhat",
+    "target_document": "31/2021/NĐ-CP",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "2. Nghị định số 31/2021/NĐ-CP ngày 26 tháng 3 năm 2021 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Đầu tư, có hiệu lực thi hành kể từ ngày 26 tháng 3 năm 2021."
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "quy-dinh-chi-tiet",
+    "target_document": "Luật Đấu thầu",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Chính phủ ban hành Nghị định quy định chi tiết thi hành một số điều của Luật Đấu thầu về lựa chọn nhà đầu tư."
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "quy-dinh-chi-tiet",
+    "target_document": "Luật Đấu thầu",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị định này quy định chi tiết thi hành một số điều của Luật Đấu thầu về lựa chọn nhà đầu tư thực hiện dự án, bao gồm:"
+   },
+   {
+    "source_path": "Điều 92 Khoản 2",
+    "action": "thay-the",
+    "target_document": "30/2015/NĐ-CP",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị định này thay thế Nghị định số 30/2015/NĐ-CP ngày 17 tháng 3 năm 2015 của Chính phủ quy định chi tiết thi hành một số điều của Luật Đấu thầu về lựa chọn nhà đầu tư./."
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 24 Khoản 1",
+    "loai": "gop_sai",
+    "ghi_chu": "Khoản 1 chứa luôn khoản 2 (\"2 . Trên cơ sở các căn cứ...\") và khoản 3 (\"3. Hồ sơ trình duyệt...\")."
+   },
+   {
+    "source_path": "Điều 47 Khoản 2 điểm k",
+    "loai": "gop_sai",
+    "ghi_chu": "Điểm k chứa luôn điểm l (bị nhận thành \"1) Dự thảo hợp đồng...\"); Điều 47 Khoản 2 cũng vậy."
+   },
+   {
+    "source_path": "Điều 58 Khoản 4",
+    "loai": "gop_sai",
+    "ghi_chu": "Khoản 4 (và điểm đ) chứa luôn khoản 5 (\"5.48 Trong quá trình đàm phán...\") và khoản 6; số chú thích dính vào số khoản."
+   },
+   {
+    "source_path": "Điều 75",
+    "loai": "gop_sai",
+    "ghi_chu": "Không tách khoản: khoản 1 (\"1.61 (được bãi bỏ)\") và khoản 2 gộp thành một đơn vị Điều 75."
+   },
+   {
+    "source_path": "Điều 79 Khoản 1",
+    "loai": "gop_sai",
+    "ghi_chu": "Khoản 1 chứa luôn khoản 2 (\"2.69\"), 3, 4 (\"4.71\"). Điều 79 Khoản 1 điểm a, b thực ra là điểm của khoản 3, câu dẫn sai."
+   },
+   {
+    "source_path": "Điều 80 Khoản 1",
+    "loai": "gop_sai",
+    "ghi_chu": "Khoản 1 chứa luôn khoản 2, 3, 4, 5, 5a (\"2.72\", \"3.73\", \"4.74\", \"5.75\", \"5a.76\"). Điều 80 Khoản 1 điểm a, b thực ra là điểm của khoản 4."
+   },
+   {
+    "source_path": "Điều 80 Khoản 8",
+    "loai": "gop_sai",
+    "ghi_chu": "Khoản 8 chứa luôn khoản 9 đến 14 (\"9.77\", ..., \"13a.81\", \"14.\"). Điều 80 Khoản 8 điểm a, b thực ra là điểm của khoản 12."
+   },
+   {
+    "source_path": "Điều 88 Khoản 1",
+    "loai": "gop_sai",
+    "ghi_chu": "Khoản 1 chứa luôn khoản 2 (\"2.83\") và khoản 3 (\"3.84\")."
+   },
+   {
+    "source_path": "Điều 89",
+    "loai": "gop_sai",
+    "ghi_chu": "Không tách khoản: khoản 1 (\"1.86\") đến khoản 5 nằm chung một đơn vị Điều 89."
+   },
+   {
+    "source_path": "Điều 90",
+    "loai": "gop_sai",
+    "ghi_chu": "Không tách khoản: khoản 1 (\"1.89\") đến khoản 5 (\"5.91\") nằm chung một đơn vị Điều 90."
+   }
+  ],
+  "ghi_chu": "Văn bản hợp nhất, không có toan_van; chỉ dựa vào don_vi. Hop-nhat lấy từ tên VBHN và danh sách văn bản sửa đổi ở phần đầu. Câu 'quy định chi tiết' và 'thay thế 30/2015/NĐ-CP' là câu của Nghị định 25/2020 được chép lại trong VBHN; vẫn ghi vì câu tự thực hiện hành động. Các mục '(được bãi bỏ)' và chú thích sửa đổi là ghi chú lịch sử: không ghi. Điều 91 Khoản 3 điểm b là giao nhiệm vụ: không ghi. Nhiều khoản bị gộp do số chú thích dính vào số khoản."
+ },
+ {
+  "doc_id": "66810",
+  "relations": [],
+  "loi_cau_truc": [
+   {
+    "source_path": "Mục 1",
+    "loai": "gop_sai",
+    "ghi_chu": "noi_dung của Mục 1 chứa cả phần đầu công văn (quốc hiệu, số hiệu, Kính gửi, câu mở đầu)."
+   }
+  ],
+  "ghi_chu": "Công văn trả lời doanh nghiệp; chỉ liệt kê các văn bản đang áp dụng. Không có tác động trực tiếp."
+ },
+ {
+  "doc_id": "304151",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quyết định công bố danh mục văn bản đã hết hiệu lực do văn bản khác hoặc do hết thời hạn. Văn bản này không tự thay thế, bãi bỏ, sửa đổi văn bản nào. Không ghi."
+ }
+]

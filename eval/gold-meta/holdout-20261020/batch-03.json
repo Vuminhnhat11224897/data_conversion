@@ -1,0 +1,104 @@
+[
+ {
+  "doc_id": "522016",
+  "la_vbqppl": false,
+  "cap_hieu_luc": null,
+  "ngay_hieu_luc": "2022-07-07",
+  "ngay_het_hieu_luc": null,
+  "ngay_hoi_to": null,
+  "hieu_luc_rieng": [],
+  "trich": {
+   "ngay_hieu_luc": "Không có câu hiệu lực; lấy ngày ban hành",
+   "la_vbqppl": "Kế hoạch"
+  },
+  "chua_chac": [
+   "ngay_het_hieu_luc"
+  ]
+ },
+ {
+  "doc_id": "623479",
+  "la_vbqppl": false,
+  "cap_hieu_luc": null,
+  "ngay_hieu_luc": "2024-09-05",
+  "ngay_het_hieu_luc": null,
+  "ngay_hoi_to": null,
+  "hieu_luc_rieng": [],
+  "trich": {
+   "ngay_hieu_luc": "Không có câu hiệu lực; lấy ngày ban hành",
+   "la_vbqppl": "Chỉ thị UBND tỉnh năm 2024 không phải hình thức VBQPPL theo Luật 2015; nội dung chỉ đạo điều hành"
+  },
+  "chua_chac": []
+ },
+ {
+  "doc_id": "536333",
+  "la_vbqppl": false,
+  "cap_hieu_luc": null,
+  "ngay_hieu_luc": "2022-10-25",
+  "ngay_het_hieu_luc": null,
+  "ngay_hoi_to": null,
+  "hieu_luc_rieng": [],
+  "trich": {
+   "ngay_hieu_luc": "Không có câu hiệu lực; lấy ngày ban hành",
+   "la_vbqppl": "Kế hoạch"
+  },
+  "chua_chac": []
+ },
+ {
+  "doc_id": "255100",
+  "la_vbqppl": true,
+  "cap_hieu_luc": 11,
+  "ngay_hieu_luc": "2013-08-31",
+  "ngay_het_hieu_luc": null,
+  "ngay_hoi_to": null,
+  "hieu_luc_rieng": [],
+  "trich": {
+   "ngay_hieu_luc": "Quyết định này có hiệu lực sau 10 ngày, kể từ ngày ký.",
+   "la_vbqppl": "Quyết định UBND tỉnh, số hiệu QPPL, quy định áp dụng chung",
+   "cap_hieu_luc": "Quyết định của UBND cấp tỉnh"
+  },
+  "chua_chac": []
+ },
+ {
+  "doc_id": "564426",
+  "la_vbqppl": false,
+  "cap_hieu_luc": null,
+  "ngay_hieu_luc": "2023-04-20",
+  "ngay_het_hieu_luc": null,
+  "ngay_hoi_to": null,
+  "hieu_luc_rieng": [],
+  "trich": {
+   "ngay_hieu_luc": "Quyết định này có hiệu lực thi hành kể từ ngày ký.",
+   "la_vbqppl": "Quyết định bãi bỏ danh mục và quy trình nội bộ TTHC, cá biệt"
+  },
+  "chua_chac": []
+ },
+ {
+  "doc_id": "645097",
+  "la_vbqppl": true,
+  "cap_hieu_luc": 11,
+  "ngay_hieu_luc": "2025-03-01",
+  "ngay_het_hieu_luc": null,
+  "ngay_hoi_to": null,
+  "hieu_luc_rieng": [],
+  "trich": {
+   "ngay_hieu_luc": "Quyết định này có hiệu lực kể từ ngày 01 tháng 3 năm 2025",
+   "la_vbqppl": "Quyết định UBND tỉnh, số hiệu QPPL",
+   "cap_hieu_luc": "Quyết định của UBND cấp tỉnh"
+  },
+  "chua_chac": []
+ },
+ {
+  "doc_id": "296664",
+  "la_vbqppl": false,
+  "cap_hieu_luc": null,
+  "ngay_hieu_luc": "2015-11-20",
+  "ngay_het_hieu_luc": null,
+  "ngay_hoi_to": null,
+  "hieu_luc_rieng": [],
+  "trich": {
+   "ngay_hieu_luc": "Không có câu hiệu lực; lấy ngày ban hành",
+   "la_vbqppl": "Công văn trả lời"
+  },
+  "chua_chac": []
+ }
+]

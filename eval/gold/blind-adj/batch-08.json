@@ -1,0 +1,350 @@
+[
+ {
+  "doc_id": "373275",
+  "relations": [
+   {
+    "source_path": "Điều 3",
+    "action": "thay-the",
+    "target_document": "168/2012/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực thi hành kể từ ngày 01/01/2018 và thay thế Quyết định số 168/2012/QĐ-UBND ngày 28/12/2012 của UBND tỉnh về việc ban hành Quy định về quản lý tài chính thôn, khu phố trên địa bàn tỉnh Bắc Ninh."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Chỉ Điều 3 thay thế QĐ 168/2012. Quy định kèm theo bị đặt tên 'Phụ lục 1 Điều …' trong don_vi (không ảnh hưởng quan hệ). 'xem xét sửa đổi, bổ sung' ở Điều 12 Quy định là giao nhiệm vụ, không ghi."
+ },
+ {
+  "doc_id": "19180",
+  "relations": [],
+  "loi_cau_truc": [
+   {
+    "source_path": "Mục 3",
+    "loai": "gop_sai",
+    "ghi_chu": "Các đoạn kết chung của Thông tư ('Từ nay về sau…', 'Để đảm bảo…', 'Đối với vấn đề xếp lương…', 'Đó là nội dung…') bị gộp vào Mục 3."
+   }
+  ],
+  "ghi_chu": "Thông tư hướng dẫn theo quyết nghị (không số) của Thường vụ Hội đồng Chính phủ phiên họp 20-21/2/1963; 'Thi hành Nghị quyết 01-CP và Thông tư 03-TT-LB' ở lời dẫn là câu kể tình hình, 'thông tư hướng dẫn bổ sung này' là tự mô tả. Không có đích có số hiệu được hướng dẫn trực tiếp nên không ghi quan hệ."
+ },
+ {
+  "doc_id": "639729",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "549/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục I"
+    ],
+    "doi_tuong": "quy trình số 89 và số 91",
+    "evidence": "Thay thế quy trình số 89 và số 91 tại Mục I ban hành kèm theo Quyết định số 549/QĐ-UBND ngày 12/6/2019 của Chủ tịch Ủy ban nhân dân tỉnh phê duyệt quy trình nội bộ trong giải quyết thủ tục hành chính thuộc thẩm quyền giải quyết của Sở Công Thương, Ủy ban nhân dân cấp huyện trên địa bàn tỉnh Điện Biên."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "'sửa đổi, bổ sung' ở tên văn bản và Điều 1 chỉ mô tả thủ tục hành chính, không phải hành động."
+ },
+ {
+  "doc_id": "487140",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công bố TTHC mới, được thay thế, bị bãi bỏ; văn bản không tự nói thay thế, bãi bỏ văn bản nào nên không ghi quan hệ."
+ },
+ {
+  "doc_id": "270816",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "hop-nhat",
+    "target_document": "56/2004/QĐ-BNN",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Văn bản hợp nhất 03/VBHN-BNNPTNT năm 2015 hợp nhất Quyết định quy định về thẩm quyền, thủ tục cấp giấy phép xả nước thải vào hệ thống công trình thủy lợi do Bộ Nông nghiệp và Phát triển nông thôn ban hành"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Văn bản hợp nhất: chỉ ghi hop-nhat với văn bản gốc QĐ 56/2004/QĐ-BNN (phần đầu nêu số hiệu; văn bản sửa đổi là TT 21/2011/TT-BNNPTNT). Thân văn bản là nội dung chép lại, không ghi. Mẫu giấy phép ở Phụ lục 4-7 có 'Điều 1/2/3' của mẫu được tách thành đơn vị."
+ },
+ {
+  "doc_id": "309842",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "23/2013/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "đơn giá thuê đất",
+    "evidence": "QUY ĐỊNH BỔ SUNG ĐƠN GIÁ THUÊ ĐẤT TẠI QUYẾT ĐỊNH SỐ 23/2013/QĐ-UBND NGÀY 17 THÁNG 10 NĂM 2013 CỦA UBND TỈNH KHÁNH HÒA QUY ĐỊNH ĐƠN GIÁ THUÊ ĐẤT TRẢ TIỀN THUÊ ĐẤT HÀNG NĂM, GIÁ THUÊ MẶT NƯỚC TRÊN ĐỊA BÀN TỈNH KHÁNH HÒA"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bo-sung",
+    "target_document": "23/2013/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục 1.2"
+    ],
+    "doi_tuong": "đơn giá thuê đất tại số thứ tự 2 (2.3)",
+    "evidence": "Quy định bổ sung đơn giá thuê đất tại số thứ tự 2 (2.3) Phụ lục 1.2 ban hành kèm theo Quyết định số 23/2013/QĐ-UBND ngày 17 tháng 10 năm 2013 của UBND tỉnh Khánh Hòa quy định đơn giá thuê đất trả tiền thuê đất hàng năm, giá thuê mặt nước trên địa bàn tỉnh Khánh Hòa như sau:"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên văn bản và Điều 1 cùng bổ sung đơn giá thuê đất của QĐ 23/2013; dòng số thứ tự 2.3 ghi ở doi_tuong."
+ },
+ {
+  "doc_id": "127128",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "bai-bo",
+    "target_document": "19/2007/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "VỀ VIỆC BÃI BỎ NGHỊ QUYẾT SỐ 19/2007/NQ-HĐND VÀ SỬA ĐỔI, BỔ SUNG, BÃI BỎ MỘT SỐ NỘI DUNG CỦA NGHỊ QUYẾT SỐ 13/2008/NQ-HĐND CỦA HỘI ĐỒNG NHÂN DÂN TỈNH SÓC TRĂNG"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "13/2008/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "VỀ VIỆC BÃI BỎ NGHỊ QUYẾT SỐ 19/2007/NQ-HĐND VÀ SỬA ĐỔI, BỔ SUNG, BÃI BỎ MỘT SỐ NỘI DUNG CỦA NGHỊ QUYẾT SỐ 13/2008/NQ-HĐND CỦA HỘI ĐỒNG NHÂN DÂN TỈNH SÓC TRĂNG"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "13/2008/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "VỀ VIỆC BÃI BỎ NGHỊ QUYẾT SỐ 19/2007/NQ-HĐND VÀ SỬA ĐỔI, BỔ SUNG, BÃI BỎ MỘT SỐ NỘI DUNG CỦA NGHỊ QUYẾT SỐ 13/2008/NQ-HĐND CỦA HỘI ĐỒNG NHÂN DÂN TỈNH SÓC TRĂNG"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bai-bo",
+    "target_document": "13/2008/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "VỀ VIỆC BÃI BỎ NGHỊ QUYẾT SỐ 19/2007/NQ-HĐND VÀ SỬA ĐỔI, BỔ SUNG, BÃI BỎ MỘT SỐ NỘI DUNG CỦA NGHỊ QUYẾT SỐ 13/2008/NQ-HĐND CỦA HỘI ĐỒNG NHÂN DÂN TỈNH SÓC TRĂNG"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bai-bo",
+    "target_document": "19/2007/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nhất trí bãi bỏ Nghị quyết số 19/2007/NQ-HĐND ngày 07 tháng 12 năm 2007 và sửa đổi, bổ sung, bãi bỏ một số nội dung của Nghị quyết số 13/2008/NQ-HĐND ngày 23 tháng 7 năm 2008 của Hội đồng nhân dân tỉnh Sóc Trăng như sau:"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "sua-doi",
+    "target_document": "13/2008/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nhất trí bãi bỏ Nghị quyết số 19/2007/NQ-HĐND ngày 07 tháng 12 năm 2007 và sửa đổi, bổ sung, bãi bỏ một số nội dung của Nghị quyết số 13/2008/NQ-HĐND ngày 23 tháng 7 năm 2008 của Hội đồng nhân dân tỉnh Sóc Trăng như sau:"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bo-sung",
+    "target_document": "13/2008/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nhất trí bãi bỏ Nghị quyết số 19/2007/NQ-HĐND ngày 07 tháng 12 năm 2007 và sửa đổi, bổ sung, bãi bỏ một số nội dung của Nghị quyết số 13/2008/NQ-HĐND ngày 23 tháng 7 năm 2008 của Hội đồng nhân dân tỉnh Sóc Trăng như sau:"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bai-bo",
+    "target_document": "13/2008/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nhất trí bãi bỏ Nghị quyết số 19/2007/NQ-HĐND ngày 07 tháng 12 năm 2007 và sửa đổi, bổ sung, bãi bỏ một số nội dung của Nghị quyết số 13/2008/NQ-HĐND ngày 23 tháng 7 năm 2008 của Hội đồng nhân dân tỉnh Sóc Trăng như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "13/2008/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm b khoản 1",
+     "điểm c khoản 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi điểm b và điểm c, khoản 1 phụ lục đính kèm Nghị quyết số 13/2008/NQ-HĐND của Hội đồng nhân dân tỉnh như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "13/2008/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm a khoản 6"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi điểm a, khoản 6 phụ lục đính kèm Nghị quyết số 13/2008/NQ-HĐND của Hội đồng nhân dân tỉnh như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3 điểm a",
+    "action": "bai-bo",
+    "target_document": "19/2007/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ Nghị quyết số 19/2007/NQ-HĐND ngày 07 tháng 12 năm 2007 của Hội đồng nhân dân tỉnh Sóc Trăng về việc quy định mức thu, chế độ thu, nộp, quản lý và sử dụng lệ phí cấp giấy chứng nhận quyền sở hữu nhà ở, giấy chứng nhận quyền sở hữu công trình xây dựng trên địa bàn tỉnh Sóc Trăng."
+   },
+   {
+    "source_path": "Điều 1 Khoản 3 điểm b",
+    "action": "bai-bo",
+    "target_document": "13/2008/NQ-HĐND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "những nội dung liên quan đến việc thu lệ phí địa chính trong trường hợp cấp giấy chứng nhận quyền sử dụng đất; chứng nhận đăng ký biến động về đất đai; cấp lại, cấp đổi giấy chứng nhận quyền sử dụng đất, xác nhận tính pháp lý của các giấy tờ nhà, đất",
+    "evidence": "Bãi bỏ những nội dung liên quan đến việc thu lệ phí địa chính trong trường hợp cấp giấy chứng nhận quyền sử dụng đất; chứng nhận đăng ký biến động về đất đai; cấp lại, cấp đổi giấy chứng nhận quyền sử dụng đất, xác nhận tính pháp lý của các giấy tờ nhà, đất theo Nghị quyết số 13/2008/NQ-HĐND ngày 23 tháng 7 năm 2008 của Hội đồng nhân dân tỉnh Sóc Trăng."
+   },
+   {
+    "source_path": "Điều 1 Khoản 4",
+    "action": "bo-sung",
+    "target_document": "13/2008/NQ-HĐND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "quy định về mức thu, chế độ thu, nộp, quản lý và sử dụng lệ phí cấp giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất",
+    "evidence": "Bổ sung quy định về mức thu, chế độ thu, nộp, quản lý và sử dụng lệ phí cấp giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất trên địa bàn tỉnh Sóc Trăng như sau:"
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 1 Khoản 4 điểm d",
+    "loai": "gop_sai",
+    "ghi_chu": "Điểm g ('g) Quản lý và sử dụng lệ phí…') bị gộp vào điểm d, không thành đơn vị riêng."
+   }
+  ],
+  "ghi_chu": "Khoản 4 không nêu đích; lấy NQ 13/2008 từ câu dẫn Điều 1 và tên văn bản. Vị trí ở Khoản 1, 2 là của phụ lục đính kèm NQ 13/2008. Lời dẫn nhắc Tờ trình về bãi bỏ là kể lại, không ghi."
+ },
+ {
+  "doc_id": "674748",
+  "relations": [
+   {
+    "source_path": "Điều 3 Khoản 2 điểm a",
+    "action": "bai-bo",
+    "target_document": "19/2017/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị quyết số 19/2017/NQ-HĐND ngày 17 tháng 7 năm 2017 của Hội đồng nhân dân tỉnh Vĩnh Phúc quy định nội dung, mức chi bồi dưỡng đối với người làm nhiệm vụ tiếp công dân, xử lý đơn khiếu nại, tố cáo, kiến nghị, phản ánh trên địa bàn tỉnh Vĩnh Phúc;"
+   },
+   {
+    "source_path": "Điều 3 Khoản 2 điểm b",
+    "action": "bai-bo",
+    "target_document": "57/2017/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị quyết số 57/2017/NQ-HĐND ngày 13 năm 7 năm 2017 của Hội đồng nhân dân tỉnh Hòa Bình quy định nội dung, mức chi cụ thể đối với người làm nhiệm vụ tiếp công dân, xử lý đơn khiếu nại, tố cáo, kiến nghị, phản ánh."
+   },
+   {
+    "source_path": "Điều 3 Khoản 3",
+    "action": "bai-bo",
+    "target_document": "22/2012/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ Nghị quyết số 22/2012/NQ-HĐND ngày 14 tháng 12 năm 2012 của Hội đồng nhân dân tỉnh Phú Thọ quy định chế độ bồi dưỡng đối với cán bộ, công chức làm công tác tiếp công dân, xử lý đơn thư khiếu nại, tố cáo, kiến nghị, phản ánh trên địa bàn tỉnh."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 3 Khoản 2: câu dẫn 'Các nghị quyết sau hết hiệu lực kể từ ngày Nghị quyết này có hiệu lực thi hành:' tuyên bố hết hiệu lực NQ 19/2017 (Vĩnh Phúc) và NQ 57/2017 (Hòa Bình) nên ghi bai-bo theo từng điểm."
+ },
+ {
+  "doc_id": "251773",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quyết định cho phép đàm phán Hiệp định thay thế Hiệp định biên giới Việt Nam - Campuchia ký năm 2001; văn bản không tự thay thế văn bản nào, Hiệp định 2001 không có số hiệu. Không ghi quan hệ."
+ },
+ {
+  "doc_id": "175982",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn đồng ý điều chỉnh giá gói thầu; không tác động lên văn bản nào."
+ },
+ {
+  "doc_id": "53474",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Chỉ ban hành Điều lệ bảo quản lương thực (Điều lệ không đăng); don_vi rỗng, không có quan hệ."
+ },
+ {
+  "doc_id": "299279",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "12/2009/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [
+     "khoản 3 Điều 20"
+    ],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI KHOẢN 3, ĐIỀU 20 QUYẾT ĐỊNH SỐ 12/2009/QĐ-UBND NGÀY 26 THÁNG 6 NĂM 2009 CỦA ỦY BAN NHÂN DÂN TỈNH BAN HÀNH QUY ĐỊNH ĐÁNH SỐ VÀ GẮN BIỂN SỐ NHÀ TRÊN ĐỊA BÀN TỈNH CÀ MAU"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "sua-doi",
+    "target_document": "12/2009/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [
+     "khoản 3 Điều 20"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi Khoản 3, Điều 20 Quyết định số 12/2009/QĐ-UBND ngày 26 tháng 6 năm 2009 của Ủy ban nhân dân tỉnh Cà Mau ban hành Quy định đánh số và gắn biển số nhà trên địa bàn tỉnh Cà Mau, như sau:"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Câu ghi 'Khoản 3, Điều 20 Quyết định số 12/2009/QĐ-UBND' mà không nói thuộc Quy định kèm theo nên để khong_ro (Điều 20 thực tế thuộc Quy định ban hành kèm theo)."
+ },
+ {
+  "doc_id": "104073",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 3 giao Bộ Tài chính hướng dẫn là giao nhiệm vụ, không ghi."
+ },
+ {
+  "doc_id": "618971",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Kế hoạch CCHC, không tác động lên văn bản nào. Nội dung don_vi bị cắt (Mục IV, Mục V dừng giữa câu; không có toan_van); đã đối chiếu văn bản nguồn: chỉ có nhiệm vụ rà soát, đề xuất, không có hành động trực tiếp."
+ },
+ {
+  "doc_id": "431345",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "3635/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này thay thế Quyết định số 3635/QĐ-UBND ngày 23/12/2015 của UBND tỉnh Thái Nguyên về việc công bố thủ tục hành chính thuộc thẩm quyền giải quyết của Sở Tài chính tỉnh Thái Nguyên."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "3679/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "danh mục thủ tục hành chính thuộc lĩnh vực tài chính",
+    "evidence": "Bãi bỏ danh mục thủ tục hành chính thuộc lĩnh vực tài chính ban hành tại Quyết định số 3679/QĐ-UBND ngày 28/12/2015 của UBND tỉnh Thái Nguyên về việc công bố thủ tục hành chính thuộc thẩm quyền giải quyết của UBND cấp huyện trên địa bàn tỉnh Thái Nguyên."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Văn bản công bố TTHC nhưng tự nói thay thế QĐ 3635/QĐ-UBND và bãi bỏ một phần danh mục của QĐ 3679/QĐ-UBND nên ghi."
+ }
+]

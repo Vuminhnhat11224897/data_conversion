@@ -1,0 +1,61 @@
+[
+ {
+  "doc_id": "662102",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "47/2022/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực thi hành kể từ ngày 20 tháng 5 năm 2025 và thay thế Quyết định số 47/2022/QĐ-UBND ngày 20 tháng 9 năm 2022"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 16 khoản 1 Quy định là câu chung về văn bản dẫn chiếu được sửa đổi, thay thế: không phải quan hệ."
+ },
+ {
+  "doc_id": "668633",
+  "relations": [
+   {
+    "source_path": "Điều 2 Khoản 6 điểm a",
+    "action": "thay-the",
+    "target_document": "18/2021/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị quyết số 18/2021/NQ-HĐND ngày 09 tháng 12 năm 2021 của Hội đồng nhân dân tỉnh ban hành Quy chế hoạt động của Hội đồng nhân dân tỉnh Vĩnh Long Khóa X"
+   },
+   {
+    "source_path": "Điều 2 Khoản 6 điểm b",
+    "action": "thay-the",
+    "target_document": "04/2025/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị quyết số 04/2025/NQ-HĐND ngày 25 tháng 4 năm 2025 của Hội đồng nhân dân tỉnh sửa đổi, bổ sung Nghị quyết số 18/2021/NQ-HĐND"
+   },
+   {
+    "source_path": "Điều 2 Khoản 6 điểm c",
+    "action": "thay-the",
+    "target_document": "05/2021/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị quyết số 05/2021/NQ-HĐND ngày 29 tháng 6 năm 2021 của Hội đồng nhân dân tỉnh ban hành Quy chế hoạt động của Hội đồng nhân dân tỉnh Trà Vinh Khóa X"
+   },
+   {
+    "source_path": "Điều 2 Khoản 7",
+    "action": "bai-bo",
+    "target_document": "58/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị quyết này bãi bỏ Nghị quyết số 58/NQ-HĐND ngày 24 tháng 8 năm 2021 của Hội đồng nhân dân tỉnh"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Chữ 'thay thế' nằm ở câu dẫn khoản 6 ('Nghị quyết này thay thế các Nghị quyết sau:'); mỗi điểm a, b, c nêu một văn bản đích. Ở điểm b, 18/2021/NQ-HĐND chỉ là mô tả nội dung của 04/2025, không phải đích riêng."
+ }
+]

@@ -1,0 +1,77 @@
+[
+ {
+  "doc_id": "672479",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "hop-nhat",
+    "target_document": "29/2018/QH14",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Luật Bảo vệ bí mật nhà nước số 29/2018/QH14 ngày 15 tháng 11 năm 2018 của Quốc hội, có hiệu lực kể từ ngày 01 tháng 7 năm 2020, được sửa đổi, bổ sung bởi:"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "hop-nhat",
+    "target_document": "81/2025/QH15",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Luật số 81/2025/QH15 ngày 24 tháng 6 năm 2025 của Quốc hội sửa đổi, bổ sung một số điều của Luật Tổ chức Tòa án nhân dân, có hiệu lực kể từ ngày 01 tháng 7 năm 2025."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Văn bản hợp nhất (XÁC THỰC VĂN BẢN HỢP NHẤT): chỉ ghi hop-nhat lên luật gốc 29/2018/QH14 và luật sửa đổi 81/2025/QH15 nêu ở phần đầu. Không ghi các hành động của luật gốc được chép lại trong VBHN (khoản 3 Điều 27: Pháp lệnh 30/2000/PL-UBTVQH10 hết hiệu lực) vì đó là hành động của Luật 29/2018/QH14, không phải của VBHN; chú thích [2],[3] 'được sửa đổi, bổ sung theo...' là ghi chú lịch sử. Nếu quy ước coi hành động chép lại là của VBHN thì thêm: Điều 27 Khoản 3 bai-bo 30/2000/PL-UBTVQH10."
+ },
+ {
+  "doc_id": "604767",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "hop-nhat",
+    "target_document": "61/2019/NĐ-CP",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị định số 61/2019/NĐ-CP ngày 10 tháng 7 năm 2019 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Cảnh sát biển Việt Nam, có hiệu lực kể từ ngày 28 tháng 8 năm 2019, được sửa đổi, bổ sung bởi:"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "hop-nhat",
+    "target_document": "22/2024/NĐ-CP",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị định số 22/2024/NĐ-CP ngày 27 tháng 02 năm 2024 cửa Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 82/2016/NĐ-CP ngày 01 tháng 7 năm 2016 của Chính phủ quy định quân hiệu, cấp hiệu, phù hiệu và trang phục của Quân đội nhân dân Việt Nam và Nghị định số 61/2019/NĐ-CP ngày 10 tháng 7 năm 2019 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Cảnh sát biển Việt Nam, có hiệu lực thi hành kể từ ngày 27 tháng 02 năm 2024."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Văn bản hợp nhất NĐ 61/2019/NĐ-CP và NĐ 22/2024/NĐ-CP: chỉ ghi hop-nhat. Không ghi hành động của NĐ gốc được chép lại: tên 'quy định chi tiết ... Luật Cảnh sát biển Việt Nam' (quy-dinh-chi-tiet), khoản 2 Điều 43 (NĐ 86/2009, 96/2013, 13/2015, 66/2010/NĐ-CP hết hiệu lực); chú thích [2]-[8],[10] ('được sửa đổi, bổ sung/bãi bỏ/thay thế theo ... NĐ 22/2024') là ghi chú lịch sử; Điều 44 (QĐ 25/2012/QĐ-TTg tiếp tục hiệu lực) không phải hành động. Nếu quy ước coi hành động chép lại là của VBHN thì thêm 4 quan hệ bai-bo ở Điều 43 Khoản 2."
+ },
+ {
+  "doc_id": "404051",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "hop-nhat",
+    "target_document": "134/2015/NĐ-CP",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị định số 134/2015/NĐ-CP ngày 29 tháng 12 năm 2015 quy định chi tiết một số điều của Luật Bảo hiểm xã hội về bảo hiểm xã hội tự nguyện, có hiệu lực kể từ ngày 15 tháng 02 năm 2016, được sửa đổi, bổ sung bởi:"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "hop-nhat",
+    "target_document": "140/2018/NĐ-CP",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị định số 140/2018/NĐ-CP ngày 08 tháng 10 năm 2018 sửa đổi, bổ sung các Nghị định liên quan đến điều kiện đầu tư kinh doanh và thủ tục hành chính thuộc phạm vi quản lý nhà nước của Bộ Lao động - Thương binh và Xã hội, có hiệu lực kể từ ngày 08 tháng 10 năm 2018."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Văn bản hợp nhất NĐ 134/2015/NĐ-CP và NĐ 140/2018/NĐ-CP: chỉ ghi hop-nhat. Không ghi hành động của NĐ gốc được chép lại: tên/Điều 1 'quy định chi tiết một số điều của Luật Bảo hiểm xã hội' (quy-dinh-chi-tiet), khoản 3 Điều 17 (NĐ 190/2007/NĐ-CP, 134/2008/NĐ-CP hết hiệu lực); chú thích 2 'Điều này được bãi bỏ theo ... NĐ 140/2018' là ghi chú lịch sử. Số chú thích dính vào chữ ('Điều 15.2', 'Hiệu lực thi hành3', noi_dung Điều 15 '2 (Được bãi bỏ)'). Nếu quy ước coi hành động chép lại là của VBHN thì thêm 2 quan hệ bai-bo ở Điều 17 Khoản 3 điểm a, b."
+ }
+]

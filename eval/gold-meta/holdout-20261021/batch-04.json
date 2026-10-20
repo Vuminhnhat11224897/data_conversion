@@ -1,0 +1,73 @@
+[
+ {
+  "doc_id": "488746",
+  "la_vbqppl": false,
+  "cap_hieu_luc": null,
+  "ngay_hieu_luc": "2021-08-16",
+  "ngay_het_hieu_luc": null,
+  "ngay_hoi_to": null,
+  "hieu_luc_rieng": [],
+  "trich": {
+   "ngay_hieu_luc": "Không có câu hiệu lực; văn bản không phải VBQPPL nên lấy ngày ban hành",
+   "la_vbqppl": "Kế hoạch hành chính, không phải VBQPPL"
+  },
+  "chua_chac": []
+ },
+ {
+  "doc_id": "294172",
+  "la_vbqppl": false,
+  "cap_hieu_luc": null,
+  "ngay_hieu_luc": "2015-10-23",
+  "ngay_het_hieu_luc": null,
+  "ngay_hoi_to": null,
+  "hieu_luc_rieng": [],
+  "trich": {
+   "ngay_hieu_luc": "Không có câu hiệu lực; lấy ngày ban hành",
+   "la_vbqppl": "Công văn trả lời vướng mắc"
+  },
+  "chua_chac": []
+ },
+ {
+  "doc_id": "374405",
+  "la_vbqppl": false,
+  "cap_hieu_luc": null,
+  "ngay_hieu_luc": "2017-10-10",
+  "ngay_het_hieu_luc": null,
+  "ngay_hoi_to": null,
+  "hieu_luc_rieng": [],
+  "trich": {
+   "ngay_hieu_luc": "Quyết định này có hiệu lực thi hành kể từ ngày ký",
+   "la_vbqppl": "Quyết định của Viện trưởng VKSNDTC ban hành quy chế nội bộ ngành; theo Luật BHVBQPPL 2015 Viện trưởng VKSNDTC ban hành Thông tư, Quyết định không phải hình thức VBQPPL"
+  },
+  "chua_chac": []
+ },
+ {
+  "doc_id": "599654",
+  "la_vbqppl": true,
+  "cap_hieu_luc": 11,
+  "ngay_hieu_luc": "2024-03-02",
+  "ngay_het_hieu_luc": null,
+  "ngay_hoi_to": null,
+  "hieu_luc_rieng": [],
+  "trich": {
+   "ngay_hieu_luc": "Quyết định này có hiệu lực kể từ ngày 02 tháng 3 năm 2024.",
+   "la_vbqppl": "Quyết định QPPL của UBND thành phố Hà Nội (số hiệu /2024/QĐ-UBND), quy định tiêu chuẩn, định mức áp dụng chung",
+   "cap_hieu_luc": "Quyết định của UBND cấp tỉnh"
+  },
+  "chua_chac": []
+ },
+ {
+  "doc_id": "82759",
+  "la_vbqppl": false,
+  "cap_hieu_luc": null,
+  "ngay_hieu_luc": "2007-03-05",
+  "ngay_het_hieu_luc": null,
+  "ngay_hoi_to": null,
+  "hieu_luc_rieng": [],
+  "trich": {
+   "ngay_hieu_luc": "Không có câu hiệu lực của chính công văn (câu 'có hiệu lực thi hành kể từ ngày 10/3/2007' nói về Quyết định 01/2007/QĐ-BTS); lấy ngày ban hành",
+   "la_vbqppl": "Công văn hướng dẫn thực hiện"
+  },
+  "chua_chac": []
+ }
+]

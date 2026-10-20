@@ -1,0 +1,431 @@
+[
+ {
+  "doc_id": "2784",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "01/2005/TTLT-BNV-BTC",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG THÔNG TƯ LIÊN TỊCH SỐ 01/2005/TTLT-BNV-BTC NGÀY 05 THÁNG 01 NĂM 2005"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "01/2005/TTLT-BNV-BTC",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG THÔNG TƯ LIÊN TỊCH SỐ 01/2005/TTLT-BNV-BTC NGÀY 05 THÁNG 01 NĂM 2005"
+   },
+   {
+    "source_path": "Mục I",
+    "action": "bo-sung",
+    "target_document": "01/2005/TTLT-BNV-BTC",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nay bổ sung hướng dẫn chuyển xếp lương cũ sang lương mới đối với cán bộ chuyên trách và công chức cấp xã như sau:"
+   },
+   {
+    "source_path": "Mục II",
+    "action": "bo-sung",
+    "target_document": "01/2005/TTLT-BNV-BTC",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nay bổ sung hướng dẫn cách chuyển xếp lương cũ sang hệ số lương mới vào ngạch công chức hành chính đối với các chức danh bầu cử này như sau:"
+   },
+   {
+    "source_path": "Mục III",
+    "action": "sua-doi",
+    "target_document": "01/2005/TTLT-BNV-BTC",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "bảng chuyển xếp số 5",
+    "evidence": "1- Sửa đổi bảng chuyển xếp số 5 đối với các ngạch công chức, viên chức có hệ số lương cũ bậc 1 là 3,26 (thuộc loại A2, nhóm 2) như sau:"
+   },
+   {
+    "source_path": "Mục III",
+    "action": "bo-sung",
+    "target_document": "01/2005/TTLT-BNV-BTC",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "2-Bổ sung hướng dẫn chuyển xếp lương mới đối với các trường hợp trước ngày chuyển xếp lương cũ sang lương mới đã có quyết định của cơ quan có thẩm quyền nâng ngạch, chuyển ngạch theo hệ số lương cũ như sau:"
+   },
+   {
+    "source_path": "Mục IV",
+    "action": "sua-doi",
+    "target_document": "01/2005/TTLT-BNV-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 6 Mục II"
+    ],
+    "doi_tuong": null,
+    "evidence": "1- Sửa đổi điểm a khoản 6 mục II Thông tư liên tịch số 01/2005/TTLT về chuyển xếp lương cũ sang lương mới đối với trường hợp thay đổi chức danh hoặc thay đổi công việc như sau:"
+   },
+   {
+    "source_path": "Mục IV",
+    "action": "bo-sung",
+    "target_document": "01/2005/TTLT-BNV-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm b khoản 6 Mục II"
+    ],
+    "doi_tuong": null,
+    "evidence": "2- Bổ sung hướng dẫn điểm b khoản 6 mục II Thông tư liên tịch số 01/2005/TTLT về thời gian bảo lưu lương và hệ số chêch lệch bảo lưu"
+   },
+   {
+    "source_path": "Mục IV",
+    "action": "sua-doi",
+    "target_document": "01/2005/TTLT-BNV-BTC",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "ví dụ 11",
+    "evidence": "sửa đổi hệ số chêch lệch bảo lưu của ông Q tại ví dụ 11"
+   },
+   {
+    "source_path": "Mục IV",
+    "action": "bo-sung",
+    "target_document": "01/2005/TTLT-BNV-BTC",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "3- Bổ sung hướng dẫn về chuyển xếp lương cũ sang lương mới đối với cán bộ, công chức, viên chức được cử biệt phải như sau"
+   },
+   {
+    "source_path": "Mục V",
+    "action": "thay-the",
+    "target_document": "34/2004/TTLT/BNV-BTC-BLĐTBXH",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 4 Mục II",
+     "điểm 1.1 khoản 1 Mục III",
+     "điểm 1.2 khoản 1 Mục III",
+     "điểm 1.3 khoản 1 Mục III",
+     "điểm 1.4 khoản 1 Mục III",
+     "khoản 7 Mục IV"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thông tư này thay thế các quy định tại khoản 4 mục II; các điểm 1.1, 1.2, 1.3 và 1.4 khoản 1 mục III và khoản 7 mục IV Thông tư liên tịch số 34/2004/TTLT/BNV-BTC-BLĐTBXH"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Văn bản không chia Điều; đơn vị là Mục I-V. Lời dẫn (đoạn mở đầu) cũng nói 'hướng dẫn sửa đổi, bổ sung Thông tư liên tịch số 01/2005/TTLT' - cùng quan hệ Phần đầu với tên. Mục I, II: 'bổ sung hướng dẫn' không nêu vị trí đích (chỉ nêu khoản 1, 5, 2 mục II TTLT 01 làm bối cảnh) nên vi_tri rỗng. Mục IV mục 4 (bổ sung hướng dẫn xếp lương bác sĩ nội trú) cũng là bo-sung không vị trí, gộp vào quan hệ bo-sung không vị trí của Mục IV. Mục IV.1 đoạn 'các ví dụ 8, 9 và 10 ... không nhất thiết phải có quyết định' là giải thích hệ quả, không ghi riêng. Số hiệu TTLT 34/2004 chép như văn bản nêu."
+ },
+ {
+  "doc_id": "643246",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "2434/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực kể từ ngày ký và thay thế Quyết định số 2434/QĐ-UBND ngày 04 tháng 9 năm 2024 của Chủ tịch Ủy ban nhân dân tỉnh Kiên Giang."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "QĐ 2575/QĐ-UBND chỉ là căn cứ."
+ },
+ {
+  "doc_id": "43682",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên 'sửa đổi một số chính sách đãi ngộ' và điểm 2 'Quy định lại chế độ phụ cấp về người phục vụ' không nêu văn bản đích có số hiệu; QĐ 128-HĐBT chỉ xác định đối tượng, NĐ 235-HĐBT là căn cứ/dẫn chiếu. Không ghi quan hệ."
+ },
+ {
+  "doc_id": "569211",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Nghị quyết chỉ 'thống nhất với nội dung sửa đổi, bổ sung hệ số điều chỉnh giá đất' theo Tờ trình và giao UBND tỉnh ban hành quyết định sau: đồng ý đề xuất sẽ thực hiện bằng văn bản khác, không nêu văn bản đích - không phải quan hệ."
+ },
+ {
+  "doc_id": "110107",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "121/2008/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA QUY ĐỊNH BAN HÀNH KÈM THEO QUYẾT ĐỊNH SỐ 121/2008/QĐ-UBND NGÀY 19/11/2008"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "121/2008/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA QUY ĐỊNH BAN HÀNH KÈM THEO QUYẾT ĐỊNH SỐ 121/2008/QĐ-UBND NGÀY 19/11/2008"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "121/2008/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi Điều 2 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "121/2008/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm a khoản 1 Điều 9",
+     "điểm b khoản 1 Điều 9"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi điểm a, điểm b khoản 1 Điều 9, bổ sung điểm c khoản 1 Điều 9 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "121/2008/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm c khoản 1 Điều 9"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi điểm a, điểm b khoản 1 Điều 9, bổ sung điểm c khoản 1 Điều 9 như sau:"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": ""
+ },
+ {
+  "doc_id": "655301",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "118/2019/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG, BÃI BỎ MỘT SỐ ĐIỀU TẠI QUY ĐỊNH PHÂN CẤP QUẢN LÝ TÀI SẢN CÔNG TRÊN ĐỊA BÀN TỈNH SƠN LA BAN HÀNH KÈM THEO NGHỊ QUYẾT SỐ 118/2019/NQ-HĐND"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "118/2019/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG, BÃI BỎ MỘT SỐ ĐIỀU TẠI QUY ĐỊNH PHÂN CẤP QUẢN LÝ TÀI SẢN CÔNG TRÊN ĐỊA BÀN TỈNH SƠN LA BAN HÀNH KÈM THEO NGHỊ QUYẾT SỐ 118/2019/NQ-HĐND"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bai-bo",
+    "target_document": "118/2019/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG, BÃI BỎ MỘT SỐ ĐIỀU TẠI QUY ĐỊNH PHÂN CẤP QUẢN LÝ TÀI SẢN CÔNG TRÊN ĐỊA BÀN TỈNH SƠN LA BAN HÀNH KÈM THEO NGHỊ QUYẾT SỐ 118/2019/NQ-HĐND"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "sua-doi",
+    "target_document": "118/2019/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 1 của Quy định phân cấp quản lý tài sản công trên địa bàn tỉnh Sơn La ban hành kèm theo Nghị quyết số 118/2019/NQ-HĐND"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bo-sung",
+    "target_document": "118/2019/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 1 của Quy định phân cấp quản lý tài sản công trên địa bàn tỉnh Sơn La ban hành kèm theo Nghị quyết số 118/2019/NQ-HĐND"
+   },
+   {
+    "source_path": "Điều 2 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "118/2019/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "tên Điều 2",
+     "điểm a khoản 2.1 Điều 2",
+     "điểm b khoản 2.1 Điều 2",
+     "điểm c khoản 2.1 Điều 2",
+     "điểm d khoản 2.1 Điều 2",
+     "điểm a khoản 2.2 Điều 2",
+     "điểm b khoản 2.2 Điều 2",
+     "điểm c khoản 2.2 Điều 2",
+     "điểm d khoản 2.2 Điều 2",
+     "khoản 2.3 Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung cụm từ “, vật tiêu hao” vào sau cụm từ “tài sản” tại tên Điều 2 và tại điểm a, b, c, d khoản 2.1; điểm a, b, c, d khoản 2.2; khoản 2.3 Điều 2."
+   },
+   {
+    "source_path": "Điều 2 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "118/2019/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 2 Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung cụm từ “, vật tiêu hao” vào sau cụm từ “tài sản công” tại tên khoản 2 Điều 2."
+   },
+   {
+    "source_path": "Điều 2 Khoản 3",
+    "action": "bai-bo",
+    "target_document": "118/2019/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 1 Điều 6"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bỏ cụm từ “- Trụ sở làm việc, cơ sở hoạt động sự nghiệp.” tại khoản 1 Điều 6."
+   },
+   {
+    "source_path": "Điều 2 Khoản 4",
+    "action": "bai-bo",
+    "target_document": "118/2019/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Chương III",
+     "Chương IV"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ Chương III, Chương IV của Quy định về phân cấp quản lý tài sản công trên địa bàn tỉnh Sơn La ban hành kèm theo Nghị quyết số 118/2019/NQ-HĐND"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Lời dẫn 'Hội đồng nhân dân ban hành Nghị quyết sửa đổi, bổ sung, bãi bỏ ...' trùng quan hệ Phần đầu với tên. NQ 14/2021/NQ-HĐND chỉ được nêu là văn bản đã sửa Quy định trước đây (lịch sử), không phải đích. Điều 2 khoản 1-2 là thêm cụm từ nên ghi bo-sung (không phải thay-cum-tu); 'tên khoản 2 Điều 2' ghi dừng ở khoản. Điều 4 khoản 2 là quy tắc dẫn chiếu chung."
+ },
+ {
+  "doc_id": "37271",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "5-TT/LB",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Mục V"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bộ Y tế sửa lại các mức phụ cấp đối với cán bộ nhân viên y tế làm công tác phẫu thuật, thường trực và chống dịch quy định tại mục V thông tư số 5-TT/LB ngày 30-1-1986"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Câu hành động nằm ở đoạn mở đầu trước mục 1 (lời dẫn) nên source_path = Phần đầu; tên văn bản không nêu số hiệu đích. Các mục 1-3 là nội dung mức phụ cấp mới. Câu cuối 'Các điểm khác ... chưa sửa đổi ... vẫn còn giá trị' không phải hành động; TT 31-TT/LB chỉ dẫn chiếu."
+ },
+ {
+  "doc_id": "363847",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Chỉ công bố danh mục TTHC qua bưu chính công ích; không tác động văn bản khác. Điều 1 ghi 'Ngành Xây dựng' trong khi tên và phụ lục là Khoa học và Công nghệ (lỗi nguồn)."
+ },
+ {
+  "doc_id": "121333",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công bố bộ TTHC; khoản 1 Điều 1 và Điều 2 nói chung về cập nhật khi TTHC được sửa đổi, không nêu văn bản đích."
+ },
+ {
+  "doc_id": "273699",
+  "relations": [
+   {
+    "source_path": "Điều 1",
+    "action": "sua-doi",
+    "target_document": "1620/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "29 (hai mươi chín) thủ tục hành chính thuộc thẩm quyền giải quyết của Sở Văn hóa, Thể thao và Du lịch",
+    "evidence": "sửa đổi, bổ sung 29 (hai mươi chín) thủ tục hành chính đã được công bố theo Quyết định số 1620/QĐ-UBND ngày 24/8/2009, Quyết định số 2056/QĐ-UBND ngày 07/12/2011, Quyết định số 2057/QĐ-UBND ngày 07/12/2011 của UBND tỉnh, Quyết định số 1380/QĐ-UBND ngày 25/8/2014"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bo-sung",
+    "target_document": "1620/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "29 (hai mươi chín) thủ tục hành chính thuộc thẩm quyền giải quyết của Sở Văn hóa, Thể thao và Du lịch",
+    "evidence": "sửa đổi, bổ sung 29 (hai mươi chín) thủ tục hành chính đã được công bố theo Quyết định số 1620/QĐ-UBND ngày 24/8/2009, Quyết định số 2056/QĐ-UBND ngày 07/12/2011, Quyết định số 2057/QĐ-UBND ngày 07/12/2011 của UBND tỉnh, Quyết định số 1380/QĐ-UBND ngày 25/8/2014"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "sua-doi",
+    "target_document": "2056/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "29 (hai mươi chín) thủ tục hành chính thuộc thẩm quyền giải quyết của Sở Văn hóa, Thể thao và Du lịch",
+    "evidence": "sửa đổi, bổ sung 29 (hai mươi chín) thủ tục hành chính đã được công bố theo Quyết định số 1620/QĐ-UBND ngày 24/8/2009, Quyết định số 2056/QĐ-UBND ngày 07/12/2011, Quyết định số 2057/QĐ-UBND ngày 07/12/2011 của UBND tỉnh, Quyết định số 1380/QĐ-UBND ngày 25/8/2014"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bo-sung",
+    "target_document": "2056/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "29 (hai mươi chín) thủ tục hành chính thuộc thẩm quyền giải quyết của Sở Văn hóa, Thể thao và Du lịch",
+    "evidence": "sửa đổi, bổ sung 29 (hai mươi chín) thủ tục hành chính đã được công bố theo Quyết định số 1620/QĐ-UBND ngày 24/8/2009, Quyết định số 2056/QĐ-UBND ngày 07/12/2011, Quyết định số 2057/QĐ-UBND ngày 07/12/2011 của UBND tỉnh, Quyết định số 1380/QĐ-UBND ngày 25/8/2014"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "sua-doi",
+    "target_document": "2057/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "29 (hai mươi chín) thủ tục hành chính thuộc thẩm quyền giải quyết của Sở Văn hóa, Thể thao và Du lịch",
+    "evidence": "sửa đổi, bổ sung 29 (hai mươi chín) thủ tục hành chính đã được công bố theo Quyết định số 1620/QĐ-UBND ngày 24/8/2009, Quyết định số 2056/QĐ-UBND ngày 07/12/2011, Quyết định số 2057/QĐ-UBND ngày 07/12/2011 của UBND tỉnh, Quyết định số 1380/QĐ-UBND ngày 25/8/2014"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bo-sung",
+    "target_document": "2057/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "29 (hai mươi chín) thủ tục hành chính thuộc thẩm quyền giải quyết của Sở Văn hóa, Thể thao và Du lịch",
+    "evidence": "sửa đổi, bổ sung 29 (hai mươi chín) thủ tục hành chính đã được công bố theo Quyết định số 1620/QĐ-UBND ngày 24/8/2009, Quyết định số 2056/QĐ-UBND ngày 07/12/2011, Quyết định số 2057/QĐ-UBND ngày 07/12/2011 của UBND tỉnh, Quyết định số 1380/QĐ-UBND ngày 25/8/2014"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "sua-doi",
+    "target_document": "1380/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "29 (hai mươi chín) thủ tục hành chính thuộc thẩm quyền giải quyết của Sở Văn hóa, Thể thao và Du lịch",
+    "evidence": "sửa đổi, bổ sung 29 (hai mươi chín) thủ tục hành chính đã được công bố theo Quyết định số 1620/QĐ-UBND ngày 24/8/2009, Quyết định số 2056/QĐ-UBND ngày 07/12/2011, Quyết định số 2057/QĐ-UBND ngày 07/12/2011 của UBND tỉnh, Quyết định số 1380/QĐ-UBND ngày 25/8/2014"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bo-sung",
+    "target_document": "1380/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "29 (hai mươi chín) thủ tục hành chính thuộc thẩm quyền giải quyết của Sở Văn hóa, Thể thao và Du lịch",
+    "evidence": "sửa đổi, bổ sung 29 (hai mươi chín) thủ tục hành chính đã được công bố theo Quyết định số 1620/QĐ-UBND ngày 24/8/2009, Quyết định số 2056/QĐ-UBND ngày 07/12/2011, Quyết định số 2057/QĐ-UBND ngày 07/12/2011 của UBND tỉnh, Quyết định số 1380/QĐ-UBND ngày 25/8/2014"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 1 tự nói 'sửa đổi, bổ sung 29 thủ tục hành chính đã được công bố theo' 4 quyết định nêu số hiệu: ghi sua-doi và bo-sung cho từng quyết định (8 quan hệ), vi_tri rỗng, doi_tuong là các TTHC; target_section khong_ro vì câu không nói TTHC nằm ở phần kèm theo hay không. Phụ lục không nêu văn bản đích ở dòng; cột 'Tên VBQPPL quy định nội dung sửa đổi' là căn cứ pháp lý, không phải đích. Không chắc chắn hoàn toàn đây có được tính là hành động hay chỉ là công bố."
+ },
+ {
+  "doc_id": "616666",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công bố 03 TTHC nội bộ; phụ lục gồm quy trình và mẫu biểu; không tác động văn bản khác."
+ }
+]

@@ -1,0 +1,54 @@
+[
+ {
+  "doc_id": "253142",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Kế hoạch; 'Rà soát, sửa đổi, bổ sung các văn bản...' là nhiệm vụ chung, không nêu văn bản đích."
+ },
+ {
+  "doc_id": "141213",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Không có tác động."
+ },
+ {
+  "doc_id": "361547",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Phê duyệt đơn giá thực hiện chính sách theo QĐ 05/2016/QĐ-UBND; không phải hướng dẫn hay sửa đổi văn bản đó."
+ },
+ {
+  "doc_id": "527796",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quy trình nội bộ; dẫn QĐ 1447/QĐ-TCT 'và các văn bản sửa đổi, bổ sung, thay thế (nếu có)' chỉ là dẫn chiếu."
+ },
+ {
+  "doc_id": "547432",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Nghị quyết giám sát kiến nghị cử tri; dẫn QĐ 25/2019/QĐ-UBND để yêu cầu thực hiện, không có tác động."
+ },
+ {
+  "doc_id": "356510",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Thông qua điều chỉnh quy hoạch sử dụng đất; quy hoạch không phải văn bản có số hiệu được nêu, không ghi quan hệ."
+ },
+ {
+  "doc_id": "559846",
+  "relations": [
+   {
+    "source_path": "Điều 2 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "04/2014/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 04/2014/QĐ-UBND ngày 24 tháng 01 năm 2014 của Ủy ban nhân dân tỉnh Bà Rịa - Vũng Tàu ban hành Quy định thẩm quyền tuyển dụng, sử dụng và quản lý viên chức trong các cơ quan hành chính, đơn vị sự nghiệp công lập thuộc tỉnh Bà Rịa - Vũng Tàu hết hiệu lực thi hành kể từ ngày Quyết định này có hiệu lực"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Văn bản tự tuyên bố QĐ 04/2014 hết hiệu lực → bai-bo."
+ }
+]

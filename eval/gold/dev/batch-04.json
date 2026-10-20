@@ -1,0 +1,129 @@
+[
+ {
+  "doc_id": "473316",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn đề nghị cung cấp thông tin; không có tác động lên văn bản khác."
+ },
+ {
+  "doc_id": "316806",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn trả lời; chỉ trích dẫn NĐ 45/2014 và TT 76/2014, không có tác động."
+ },
+ {
+  "doc_id": "36220",
+  "relations": [],
+  "loi_cau_truc": [
+   {
+    "source_path": "Nội dung",
+    "loai": "gop_sai",
+    "ghi_chu": "Văn bản có Điều thứ 1 đến Điều thứ 4 nhưng toàn bộ (cả phần đầu) gộp vào một đơn vị 'Nội dung'."
+   }
+  ],
+  "ghi_chu": "Sắc lệnh điều động cán bộ; 'Chiểu Sắc lệnh 47-SL' là căn cứ. Số hiệu metadata 229-SLM, trong văn bản ghi số 299."
+ },
+ {
+  "doc_id": "319181",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Giao chỉ tiêu cho doanh nghiệp; không có tác động."
+ },
+ {
+  "doc_id": "404789",
+  "relations": [
+   {
+    "source_path": "Điều 1",
+    "action": "bai-bo",
+    "target_document": "32/2012/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ Quyết định số 32/2012/QĐ-UBND ngày 13/12/2012 của Ủy ban nhân dân tỉnh ban hành Quy định về quản lý hoạt động giết mổ, vận chuyển, kinh doanh động vật, sản phẩm động vật."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Bãi bỏ toàn bộ QĐ 32/2012; tên văn bản lặp lại cùng hành động, chỉ ghi ở Điều 1."
+ },
+ {
+  "doc_id": "45832",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "huong-dan",
+    "target_document": "Luật Thuế giá trị gia tăng",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "HƯỚNG DẪN THỰC HIỆN LUẬT THUẾ GIÁ TRỊ GIA TĂNG (GTGT) ĐỐI VỚI CƠ QUAN ĐẠI DIỆN NGOẠI GIAO, CƠ QUAN LÃNH SỰ VÀ CƠ QUAN ĐẠI DIỆN CỦA TỔ CHỨC QUỐC TẾ TẠI VIỆT NAM"
+   },
+   {
+    "source_path": "Mục III",
+    "action": "thay-the",
+    "target_document": "43/1999/TT-BTC",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thông tư này thay thế Thông tư số 43/1999/TT-BTC ngày 20/4/1999"
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Mục I",
+    "loai": "gop_sai",
+    "ghi_chu": "noi_dung Mục I gộp cả phần đầu (quốc hiệu, tên, căn cứ) vào Mục I."
+   }
+  ],
+  "ghi_chu": "phan_dau/loi_dan bị cắt giữa Mục I; Mục I điểm 4 kết thúc bằng dấu phẩy (nguồn thiếu chữ). 'hướng dẫn tại Thông tư 04/TTLB' là dẫn chiếu, không ghi."
+ },
+ {
+  "doc_id": "481223",
+  "relations": [],
+  "loi_cau_truc": [
+   {
+    "source_path": "Mục I",
+    "loai": "gop_sai",
+    "ghi_chu": "noi_dung Mục I gộp cả phần đầu (quốc hiệu, tên, lời dẫn) vào Mục I."
+   }
+  ],
+  "ghi_chu": "Kế hoạch truyền thông; chỉ giao nhiệm vụ. phan_dau/loi_dan bị cắt giữa Mục II."
+ },
+ {
+  "doc_id": "292225",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 2 khoản 1 chỉ nói người bệnh cũ vẫn áp dụng giá theo NQ 13/2013 và QĐ 30/2014 (chuyển tiếp), không phải tác động; khoản 2 là giao nhiệm vụ."
+ },
+ {
+  "doc_id": "562132",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "1762/QĐ-BTTTT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "thay thế Quyết định số 1762/QĐ-BTTTT ngày 21 tháng 9 năm 2022 của Bộ trưởng Bộ Thông tin và Truyền thông ban hành Kế hoạch hành động triển khai thực hiện Chiến lược An toàn, An ninh mạng quốc gia, chủ động ứng phó với các thách thức từ không gian mạng đến năm 2025, tầm nhìn 2030"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Không có toan_van; chỉ dựa trên don_vi."
+ },
+ {
+  "doc_id": "515237",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "3164/QĐ-TTCP",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "thủ tục hành chính trong lĩnh vực tiếp công dân",
+    "evidence": "Bãi bỏ các thủ tục hành chính trong lĩnh vực tiếp công dân quy định tại Quyết định số 3164/QĐ-TTCP ngày 26 tháng 12 năm 2017 của Thanh tra Chính phủ."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 1 chỉ công bố TTHC được thay thế, không nêu văn bản đích nên không ghi. Không có toan_van."
+ }
+]

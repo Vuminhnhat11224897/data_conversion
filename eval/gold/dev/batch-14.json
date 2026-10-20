@@ -1,0 +1,260 @@
+[
+ {
+  "doc_id": "583441",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "1339/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "thủ tục \"Gia hạn, điều chỉnh nội dung giấy phép hành nghề khoan nước dưới đất quy mô vừa và nhỏ\"",
+    "evidence": "bãi bỏ thủ tục \"Gia hạn, điều chỉnh nội dung giấy phép hành nghề khoan nước dưới đất quy mô vừa và nhỏ\" được công bố tại Quyết định số 1339/QĐ-UBND ngày 05/6/2023 của Chủ tịch Ủy ban nhân dân tỉnh"
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Phụ lục 1 Điều 4",
+    "loai": "nhan_sai_dieu",
+    "ghi_chu": "Điều 4 của mẫu Giấy phép (biểu mẫu trong phần thủ tục kèm theo) bị nhận thành đơn vị của văn bản; câu 'thay thế Giấy phép số ....' là chỗ trống của mẫu, không phải quan hệ."
+   }
+  ],
+  "ghi_chu": "Điều 2 bãi bỏ 1 thủ tục đã công bố tại QĐ 1339/QĐ-UBND; vị trí chỉ nêu bằng tên thủ tục."
+ },
+ {
+  "doc_id": "682968",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Ban hành danh mục thuốc; chỉ dẫn chiếu Nghị định 163/2025/NĐ-CP, Thông tư 29/2025/TT-BYT, không có tác động."
+ },
+ {
+  "doc_id": "562826",
+  "relations": [],
+  "loi_cau_truc": [
+   {
+    "source_path": "Mục I",
+    "loai": "gop_sai",
+    "ghi_chu": "Phần đầu (quốc hiệu, tên, căn cứ) bị gộp vào Mục I."
+   }
+  ],
+  "ghi_chu": "Kế hoạch triển khai QĐ 897/QĐ-TTg; không có tác động lên văn bản khác. loi_dan lấy nhầm đoạn Mục IV; noi_dung Mục II, Mục IV bị cắt. Đã đối chiếu văn bản nguồn: không có câu bãi bỏ, thay thế, sửa đổi."
+ },
+ {
+  "doc_id": "376286",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Chỉ công bố danh mục VBQPPL hết hiệu lực; văn bản không tự tuyên bố bãi bỏ, thay thế nên không ghi quan hệ."
+ },
+ {
+  "doc_id": "352838",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Ban hành Kế hoạch; toàn văn và văn bản nguồn không có nội dung Kế hoạch kèm theo, chỉ kết luận trên phần Quyết định: không có tác động."
+ },
+ {
+  "doc_id": "600584",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "11/2021/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA QUY ĐỊNH VỀ QUẢN LÝ ĐẦU TƯ CÔNG TRÊN ĐỊA BÀN TỈNH BẮC NINH BAN HÀNH KÈM THEO QUYẾT ĐỊNH SỐ 11/2021/QĐ-UBND NGÀY 19/5/2021 CỦA UBND TỈNH BẮC NINH"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "11/2021/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA QUY ĐỊNH VỀ QUẢN LÝ ĐẦU TƯ CÔNG TRÊN ĐỊA BÀN TỈNH BẮC NINH BAN HÀNH KÈM THEO QUYẾT ĐỊNH SỐ 11/2021/QĐ-UBND NGÀY 19/5/2021 CỦA UBND TỈNH BẮC NINH"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "11/2021/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 8"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi Điều 8 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "11/2021/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 3 Điều 9",
+     "khoản 4 Điều 9"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 3 và khoản 4 Điều 9 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "11/2021/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 3 Điều 9",
+     "khoản 4 Điều 9"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 3 và khoản 4 Điều 9 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "sua-doi",
+    "target_document": "11/2021/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 2 Điều 25"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 Điều 25 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "bo-sung",
+    "target_document": "11/2021/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 2 Điều 25"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 Điều 25 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 4",
+    "action": "sua-doi",
+    "target_document": "11/2021/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 26"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi Điều 26 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 5",
+    "action": "sua-doi",
+    "target_document": "11/2021/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 28"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi Điều 28 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 6",
+    "action": "sua-doi",
+    "target_document": "11/2021/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 29"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi Điều 29 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 7",
+    "action": "sua-doi",
+    "target_document": "11/2021/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 30"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi Điều 30 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 8",
+    "action": "sua-doi",
+    "target_document": "11/2021/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 34"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi Điều 34 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 1",
+    "action": "bai-bo",
+    "target_document": "11/2021/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm c khoản 1 Điều 9"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ điểm c khoản 1 Điều 9;"
+   },
+   {
+    "source_path": "Điều 2 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "11/2021/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 19"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ Điều 19;"
+   },
+   {
+    "source_path": "Điều 2 Khoản 3",
+    "action": "thay-the",
+    "target_document": "11/2021/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Phụ lục Phân cấp quản lý và đầu tư một số lĩnh vực hạ tầng, kinh tế - xã hội trên địa bàn tỉnh",
+    "evidence": "Thay thế Phụ lục Phân cấp quản lý và đầu tư một số lĩnh vực hạ tầng, kinh tế - xã hội trên địa bàn tỉnh ban hành kèm theo Quyết định số 11/2021/QĐ-UBND"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Sửa đổi, bổ sung, bãi bỏ Quy định kèm theo QĐ 11/2021/QĐ-UBND; Phụ lục bị thay thế không đánh số nên ghi bằng tên. Điều 3 khoản 2 là chuyển tiếp, không ghi."
+ },
+ {
+  "doc_id": "295130",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn trả lời, chỉ dẫn chiếu khoản 3 Điều 53 Thông tư 38/2015/TT-BTC; không có tác động. loi_dan lấy nhầm 2 đoạn cuối."
+ },
+ {
+  "doc_id": "524435",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Chỉ công bố danh mục nghị quyết hết hiệu lực toàn bộ; văn bản không tự tuyên bố bãi bỏ nên không ghi quan hệ."
+ },
+ {
+  "doc_id": "104588",
+  "relations": [
+   {
+    "source_path": "Điều 3",
+    "action": "bai-bo",
+    "target_document": "55/2007/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm f khoản 1.1 Mục 1",
+     "điểm b khoản 1.2 Mục 1",
+     "điểm e khoản 1.3 Mục 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ các khoản thu lệ phí cấp bản sao giấy tờ hộ tịch từ sổ hộ tịch, từ bản gốc quy định tại các điểm f khoản 1.1, điểm b khoản 1.2, điểm e khoản 1.3, Mục 1 - Danh mục và mức thu lệ phí ban hành kèm theo Quyết định số 55/2007/QĐ-UBND ngày 27/9/2007 của UBND tỉnh"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Bãi bỏ một số điểm thuộc Mục 1 của Danh mục và mức thu lệ phí kèm theo QĐ 55/2007/QĐ-UBND."
+ },
+ {
+  "doc_id": "487533",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công bố TTHC mới, được sửa đổi, bổ sung; không tự tuyên bố bãi bỏ, thay thế văn bản hoặc thủ tục nào nên không ghi quan hệ."
+ }
+]

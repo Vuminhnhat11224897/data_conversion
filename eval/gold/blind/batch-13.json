@@ -1,0 +1,266 @@
+[
+ {
+  "doc_id": "479298",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công bố danh mục TTHC mới ban hành, sửa đổi, bổ sung, thay thế; văn bản không tự nói thay thế, bãi bỏ văn bản nào. Không có quan hệ."
+ },
+ {
+  "doc_id": "642382",
+  "relations": [
+   {
+    "source_path": "Điều 3",
+    "action": "bai-bo",
+    "target_document": "3638/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ Quyết định số 3638/QĐ-UBND ngày 03/11/2023 của Chủ tịch Ủy ban nhân dân thành phố về việc công bố Danh mục thủ tục hành chính được sửa đổi, bổ sung, thay thế trong lĩnh vực xây dựng trên địa bàn thành phố Hải Phòng."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công bố TTHC được thay thế; Điều 3 bãi bỏ QĐ 3638/QĐ-UBND."
+ },
+ {
+  "doc_id": "615952",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "07/QĐ-BCT",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Kế hoạch phổ biến, giáo dục pháp luật và tổ chức truyền thông chính sách có tác động lớn đến xã hội trong quá trình xây dựng văn bản quy phạm pháp luật trong lĩnh vực công thương năm 2024",
+    "evidence": "VỀ VIỆC ĐIỀU CHỈNH KẾ HOẠCH PHỔ BIẾN, GIÁO DỤC PHÁP LUẬT VÀ TỔ CHỨC TRUYỀN THÔNG CHÍNH SÁCH CÓ TÁC ĐỘNG LỚN ĐẾN XÃ HỘI TRONG QUÁ TRÌNH XÂY DỰNG VĂN BẢN QUY PHẠM PHÁP LUẬT TRONG LĨNH VỰC CÔNG THƯƠNG NĂM 2024"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "07/QĐ-BCT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục V Phụ lục I"
+    ],
+    "doi_tuong": "hình thức phổ biến",
+    "evidence": "Điều chỉnh hình thức phổ biến tại Mục V Phụ lục I như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "07/QĐ-BCT",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "các hoạt động phổ biến pháp luật",
+    "evidence": "Bổ sung các hoạt động phổ biến pháp luật trong Kế hoạch theo Phụ lục đính kèm."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Kế hoạch đích ban hành kèm theo QĐ 07/QĐ-BCT (nêu ở tên Điều 1). Tên văn bản 'điều chỉnh Kế hoạch' ghi sua-doi ở Phần đầu, số hiệu lấy từ tên Điều 1."
+ },
+ {
+  "doc_id": "575020",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "623/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "Quy hoạch sử dụng đất thời kỳ 2021-2030 của huyện Nậm Nhùn",
+    "evidence": "VỀ VIỆC PHÊ DUYỆT ĐIỀU CHỈNH VỀ QUY MÔ, ĐỊA ĐIỂM VÀ SỐ LƯỢNG DỰ ÁN, CÔNG TRÌNH TRONG QUY HOẠCH SỬ DỤNG ĐẤT THỜI KỲ 2021-2030 CỦA HUYỆN NẬM NHÙN"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "623/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "Quy hoạch sử dụng đất thời kỳ 2021-2030 của huyện Nậm Nhùn",
+    "evidence": "Điều chỉnh về quy mô, địa điểm tăng diện tích đối với 04 dự án, công trình."
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "623/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "Quy hoạch sử dụng đất thời kỳ 2021-2030 của huyện Nậm Nhùn",
+    "evidence": "Điều chỉnh về quy mô, địa điểm giảm diện tích đối với 04 dự án, công trình."
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "sua-doi",
+    "target_document": "623/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "Quy hoạch sử dụng đất thời kỳ 2021-2030 của huyện Nậm Nhùn",
+    "evidence": "Điều chỉnh về quy mô, địa điểm nhưng không thay đổi về diện tích đối với 01 dự án, công trình."
+   },
+   {
+    "source_path": "Điều 1 Khoản 4",
+    "action": "sua-doi",
+    "target_document": "623/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "Quy hoạch sử dụng đất thời kỳ 2021-2030 của huyện Nậm Nhùn",
+    "evidence": "Điều chỉnh tăng về số lượng dự án, công trình đối với 17 dự án, công trình."
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 1 Khoản 4",
+    "loai": "gop_sai",
+    "ghi_chu": "Hai đoạn cuối của Điều 1 ('(Có Biểu chi tiết...)' và 'Các nội dung khác không điều chỉnh... vẫn giữ nguyên theo Quyết định số 1610/QĐ-UBND') bị gộp vào khoản 4."
+   }
+  ],
+  "ghi_chu": "Khó: điều chỉnh quy hoạch sử dụng đất, câu chỉ nêu Quy hoạch bằng tên; số hiệu 623/QĐ-UBND lấy từ Điều 3 ('là một phần của Quyết định số 623/QĐ-UBND') và căn cứ. 'Cập nhật vào Kế hoạch sử dụng đất năm 2023' (QĐ 2990/QĐ-UBND) không ghi vì câu không nêu số hiệu và không phải từ hành động rõ. Câu 'vẫn giữ nguyên theo QĐ 1610/QĐ-UBND' không phải hành động."
+ },
+ {
+  "doc_id": "469481",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Nghị quyết cho phép tiếp tục triển khai dự án; không có tác động lên văn bản khác."
+ },
+ {
+  "doc_id": "86864",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Thông báo kết luận; 'bổ sung vốn', 'bổ sung vào danh mục/quy hoạch' không tác động lên văn bản có số hiệu."
+ },
+ {
+  "doc_id": "242407",
+  "relations": [
+   {
+    "source_path": "Điều 3",
+    "action": "thay-the",
+    "target_document": "67/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực thi hành kể từ ngày ký và thay thế Quyết định số 67/QĐ-UBND ngày 07 tháng 5 năm 2012 của Ủy ban nhân dân tỉnh Quảng Ngãi."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công bố lại bộ TTHC; Điều 3 tự nói thay thế QĐ 67/QĐ-UBND nên ghi. Điều 1 khoản 1 chỉ nêu khả năng sửa đổi/bãi bỏ TTHC, không ghi."
+ },
+ {
+  "doc_id": "154187",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "bai-bo",
+    "target_document": "28/2009/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "VỀ VIỆC BÃI BỎ QUYẾT ĐỊNH SỐ 28/2009/QĐ-UBND NGÀY 09/01/2009 CỦA ỦY BAN NHÂN DÂN THÀNH PHỐ HÀ NỘI VỀ VIỆC THU PHÍ DỰ THI, DỰ TUYỂN TRÊN ĐỊA BÀN THÀNH PHỐ HÀ NỘI"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bai-bo",
+    "target_document": "28/2009/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ Quyết định số 28/2009/QĐ-UBND ngày 09/01/2009 của Ủy ban nhân dân thành phố Hà Nội về việc thu phí dự thi, dự tuyển trên địa bàn thành phố Hà Nội."
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 1",
+    "loai": "tach_sai",
+    "ghi_chu": "Câu bãi bỏ (câu đầu nội dung Điều 1) bị nhận thành ten_dieu; Điều 1 không có tên."
+   }
+  ],
+  "ghi_chu": "Evidence Điều 1 lấy từ ten_dieu."
+ },
+ {
+  "doc_id": "54823",
+  "relations": [
+   {
+    "source_path": "Mục IX",
+    "action": "thay-the",
+    "target_document": "10/2005/TT-BCA",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thông tư này có hiệu lực sau 15 ngày, kể từ ngày đăng Công báo và thay thế Thông tư số 10/2005/TT-BCA (V24) ngày 26 tháng 9 năm 2005 của Bộ trưởng Bộ Công an hướng dẫn giải quyết khiếu nại, tố cáo trong Công an nhân dân."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Không có toan_van; đã đối chiếu văn bản nguồn. Tên và lời dẫn 'hướng dẫn giải quyết khiếu nại, tố cáo trong CAND' không nêu văn bản cụ thể nên không ghi huong-dan. Mục VIII không có trong don_vi, không có hành động."
+ },
+ {
+  "doc_id": "641086",
+  "relations": [],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 2",
+    "loai": "tach_sai",
+    "ghi_chu": "Câu đầu nội dung Điều 2 bị nhận thành ten_dieu."
+   }
+  ],
+  "ghi_chu": "Ban hành Kế hoạch du lịch 2025; không có tác động lên văn bản khác."
+ },
+ {
+  "doc_id": "132739",
+  "relations": [],
+  "loi_cau_truc": [
+   {
+    "source_path": "Phụ lục 1 Điều 5 Khoản 1 điểm c",
+    "loai": "gop_sai",
+    "ghi_chu": "Các mục 1.2, 1.3 của khoản 1 bị gộp vào điểm c (thuộc mục 1.1)."
+   }
+  ],
+  "ghi_chu": "Điều 2 'Bãi bỏ các văn bản, quy định đã ban hành trái với Quyết định này' không nêu văn bản cụ thể nên không ghi. Quy định kèm theo được đánh nhãn 'Phụ lục 1'."
+ },
+ {
+  "doc_id": "309280",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn trao đổi, chỉ trích dẫn TTLT 03/2006/TTLT-BTM-BGTVT-BTC-BCA; không có tác động."
+ },
+ {
+  "doc_id": "39412",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Chỉ thị giao nhiệm vụ; không có tác động lên văn bản khác."
+ },
+ {
+  "doc_id": "185942",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "bai-bo",
+    "target_document": "1445/2007/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "VỀ VIỆC BÃI BỎ QUYẾT ĐỊNH SỐ 1445/2007/QĐ-UBND NGÀY 05/6/2007 CỦA UBND TỈNH HÀ GIANG"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bai-bo",
+    "target_document": "1445/2007/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ Quyết định số 1445/2007/QĐ-UBND ngày 05/6/2007 của UBND tỉnh ban hành quy định tạm thời về quản lý phương tiện vận tải hàng hoá, hành khách bằng ô tô qua cửa khẩu Thanh Thuỷ tỉnh Hà Giang."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Lý do nêu TT 23/2012/TT-BGTVT chỉ là trích dẫn, không ghi."
+ },
+ {
+  "doc_id": "37675",
+  "relations": [],
+  "loi_cau_truc": [
+   {
+    "source_path": "Phụ lục 1 Điều 17 Khoản 2",
+    "loai": "gop_sai",
+    "ghi_chu": "Tiêu đề mục 'B. BẢO VỆ CÁC QUYỀN ĐỐI VỚI GIẢI PHÁP HỮU ÍCH' bị gộp vào khoản 2 Điều 17; ten_dieu của Điều 18 trở đi vẫn mang mục A."
+   }
+  ],
+  "ghi_chu": "Điều 2 'Những quy định trước đây trái với Điều lệ này đều bị bãi bỏ' không nêu văn bản cụ thể nên không ghi. Điều 29 chỉ dẫn Điều lệ kèm NĐ 31-CP, không phải hành động."
+ }
+]

@@ -1,0 +1,151 @@
+[
+ {
+  "doc_id": "275981",
+  "relations": [
+   {
+    "source_path": "Điều 10",
+    "action": "thay-the",
+    "target_document": "47/2011/TTLT-BGDĐT-BNV",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thông tư liên tịch này có hiệu lực thi hành kể từ ngày 12 tháng 7 năm 2015 và thay thế Thông tư liên tịch số 47/2011/TTLT-BGDĐT-BNV ngày 19 tháng 10 năm 2011 của Bộ Giáo dục và Đào tạo và Bộ Nội vụ"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Chỉ Điều 10 thay thế TTLT 47/2011. Tên và lời dẫn 'hướng dẫn về chức năng, nhiệm vụ...' không nêu số hiệu văn bản được hướng dẫn nên không ghi huong-dan; các Nghị định 24/2014, 37/2014 chỉ ở căn cứ."
+ },
+ {
+  "doc_id": "550044",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quyết định phê duyệt tài liệu chuyên môn; không có tác động lên văn bản khác. Các văn bản ở 'Tài liệu tham khảo' và căn cứ chỉ là trích dẫn."
+ },
+ {
+  "doc_id": "528005",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Ban hành 05 quy trình; các Thông tư 11/2021, 26/2019, 27/2019/TT-BKHCN chỉ được dẫn làm cơ sở các bước công việc, không phải hướng dẫn/sửa đổi."
+ },
+ {
+  "doc_id": "111858",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "gia-han",
+    "target_document": "12/2010/TT-BKHCN",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "GIA HẠN HIỆU LỰC ÁP DỤNG THÔNG TƯ SỐ 12/2010/TT-BKHCN"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "gia-han",
+    "target_document": "12/2010/TT-BKHCN",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Gia hạn hiệu lực áp dụng Thông tư số 12/2010/TT-BKHCN ngày 30 tháng 7 năm 2010 của Bộ trưởng Bộ Khoa học và Công nghệ hướng dẫn về quản lý chất lượng, đo lường trong kinh doanh khí dầu mỏ hóa lỏng đến hết ngày 30 tháng 12 năm 2010."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Gia hạn hiệu lực áp dụng Thông tư 12/2010/TT-BKHCN đến hết 30/12/2010; Thông tư này cũng ở căn cứ (không tính)."
+ },
+ {
+  "doc_id": "352228",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn trả lời về thủ tục đầu tư một dự án; chỉ dẫn quy định của NĐ 59/2015, TT 03/2016, TT 18/2016, không tác động lên văn bản nào."
+ },
+ {
+  "doc_id": "141639",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "31/2011/TT-BYT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA THÔNG TƯ SỐ 31/2011/TT-BYT"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "31/2011/TT-BYT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA THÔNG TƯ SỐ 31/2011/TT-BYT"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "sua-doi",
+    "target_document": "31/2011/TT-BYT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung một số điều của Thông tư số 31/2011/TT-BYT như sau:"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bo-sung",
+    "target_document": "31/2011/TT-BYT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung một số điều của Thông tư số 31/2011/TT-BYT như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "31/2011/TT-BYT",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Danh mục thuốc tân dược",
+    "evidence": "Danh mục thuốc tân dược ban hành kèm theo Thông tư này được sửa đổi, bổ sung một số điểm như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "31/2011/TT-BYT",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Danh mục thuốc tân dược",
+    "evidence": "Danh mục thuốc tân dược ban hành kèm theo Thông tư này được sửa đổi, bổ sung một số điểm như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1 điểm a",
+    "action": "sua-doi",
+    "target_document": "31/2011/TT-BYT",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "thuốc số thứ tự 1116 trong Danh mục thuốc tân dược",
+    "evidence": "Hiệu chỉnh tên hoạt chất “acid glycerophosphic” trong thành phần của thuốc số thứ tự 1116 trong Danh mục thuốc tân dược thành “acid glycerophosphoric”."
+   },
+   {
+    "source_path": "Điều 1 Khoản 1 điểm b",
+    "action": "sua-doi",
+    "target_document": "31/2011/TT-BYT",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Danh mục thuốc tân dược",
+    "evidence": "Điều chỉnh tuyến sử dụng đối với một số thuốc:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "31/2011/TT-BYT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 7a"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung Điều 7a sau Điều 7 như sau:"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Lời dẫn 'Bộ Y tế hướng dẫn sửa đổi, bổ sung một số điều của Thông tư số 31/2011/TT-BYT' trùng hành động với tên, gộp vào quan hệ Phần đầu. 'Danh mục thuốc tân dược ban hành kèm theo Thông tư này' = danh mục kèm theo TT 31/2011 (kem_theo). Điểm a 'hiệu chỉnh tên hoạt chất X thành Y' ghi sua-doi (có thể xem là thay-cum-tu/dinh-chinh). Điểm b nêu nhiều số thứ tự (553, 580, 87, 93, 583, 923, 992, 12, 1076) của Danh mục: vi_tri rỗng, ghi doi_tuong. Nội dung Điều 7a trong ngoặc kép (QĐ 05/2008, TT 02/2010) không tính."
+ }
+]

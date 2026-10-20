@@ -1,0 +1,294 @@
+[
+ {
+  "doc_id": "52682",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "huong-dan",
+    "target_document": "205/2004/NĐ-CP",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thi hành Nghị định số 205/2004/NĐ-CP ngày 14 tháng 12 năm 2004 của Chính phủ quy định hệ thống thang lư­ơng bảng l­ương và chế độ phụ cấp lư­ơng trong các công ty nhà nước, liên tịch Bộ Lao động – Thư­ơng binh và Xã hội, Bộ Nội vụ hướng dẫn chuyển xếp lư­ơng cũ sang lư­ơng mới như sau:"
+   },
+   {
+    "source_path": "Mục I",
+    "action": "huong-dan",
+    "target_document": "205/2004/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 1",
+     "khoản 2 Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Phạm vi và đối tượng áp dụng chuyển xếp l­ương cũ sang l­ương mới theo khoản 1 Điều 1 và khoản 2 Điều 2 Nghị định số 205/2004/NĐ-CP được quy định cụ thể như sau:"
+   },
+   {
+    "source_path": "Mục V",
+    "action": "bai-bo",
+    "target_document": "06/1998/TTLT-TCCP-BLĐTBXH-BTC",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ Thông tư số 06/1998/TTLT-TCCP-BLĐTBXH-BTC ngày 20 tháng 10 năm 1998"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên và lời dẫn hướng dẫn Nghị định 205/2004/NĐ-CP (ghi một quan hệ Phần đầu, evidence lấy lời dẫn). Mục I nói rõ quy định cụ thể khoản 1 Điều 1 và khoản 2 Điều 2 Nghị định 205/2004/NĐ-CP: ghi huong-dan, không chắc có cần ghi riêng. Quyết định 83/1998/QĐ-TTg chỉ được dẫn chiếu."
+ },
+ {
+  "doc_id": "560926",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn trả lời; chỉ kể lại Công văn 2184/BGDĐT-GDDT và các Quyết định đã ban hành, không có tác động trực tiếp."
+ },
+ {
+  "doc_id": "355032",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "hop-nhat",
+    "target_document": "28/2009/TT-BGDĐT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thông tư số 28/2009/TT-BGDĐT ngày 21 tháng 10 năm 2009 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành quy định về chế độ làm việc đối với giáo viên phổ thông, có hiệu lực kể từ ngày 06 tháng 12 năm 2009, được sửa đổi, bổ sung bởi:"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "hop-nhat",
+    "target_document": "15/2017/TT-BGDĐT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thông tư số 15/2017/TT-BGDĐT ngày 09 tháng 6 năm 2017 của Bộ trưởng Bộ Giáo dục và Đào tạo sửa đổi, bổ sung một số điều của Quy định chế độ làm việc đối với giáo viên phổ thông ban hành kèm theo Thông tư số 28/2009/TT-BGDĐT"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Văn bản hợp nhất: chỉ ghi hop-nhat với văn bản gốc và văn bản sửa đổi nêu ở phần đầu. Câu 'thay thế Thông tư số 49/TT' ở Điều 2 và các chú thích 'được sửa đổi/bổ sung theo...' là nội dung chép lại của văn bản gốc, không phải hành động của văn bản hợp nhất nên không ghi."
+ },
+ {
+  "doc_id": "230614",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "hop-nhat",
+    "target_document": "1022/2004/QĐ-NHNN",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 1022/2004/QĐ-NHNN ngày 17 tháng 8 năm 2004 của Thống đốc Ngân hàng Nhà nước Việt Nam về việc ban hành Quy chế lưu ký giấy tờ có giá tại Ngân hàng Nhà nước, có hiệu lực kể từ ngày 16 tháng 9 năm 2004, được sửa đổi, bổ sung bởi:"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "hop-nhat",
+    "target_document": "42/2006/QĐ-NHNN",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 42/2006/QĐ-NHNN ngày 28 tháng 8 năm 2006 của Thống đốc Ngân hàng Nhà nước Việt Nam về việc sửa đổi, bổ sung một số điều của Quy chế lưu ký giấy tờ có giá tại Ngân hàng Nhà nước"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Văn bản hợp nhất: chỉ ghi hop-nhat. Câu 'thay thế cho Quyết định số 171/2000/QĐ-NHNN13' ở Điều 2 là nội dung chép lại của Quyết định 1022/2004/QĐ-NHNN, không ghi."
+ },
+ {
+  "doc_id": "688178",
+  "relations": [
+   {
+    "source_path": "Điều 6 Khoản 2 điểm a",
+    "action": "bai-bo",
+    "target_document": "19/2019/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 19/2019/QĐ-UBND ngày 28 tháng 8 năm 2019 của Ủy ban nhân dân tỉnh Lai Châu quy định tiêu chuẩn, định mức sử dụng diện tích chuyên dùng"
+   },
+   {
+    "source_path": "Điều 6 Khoản 2 điểm b",
+    "action": "bai-bo",
+    "target_document": "59/2024/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Điều 2 Quyết định số 59/2024/QĐ-UBND ngày 07 tháng 11 năm 2024 của Ủy ban nhân dân tỉnh"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Câu dẫn khoản 2 Điều 6: 'Quyết định này bãi bỏ các Quyết định:'. Quyết định 32/2018 và 19/2019 trong điểm b chỉ là tên của Quyết định 59/2024."
+ },
+ {
+  "doc_id": "512054",
+  "relations": [
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "15/2021/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [
+     "Điều 9"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 9 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "15/2021/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [
+     "Điều 9"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 9 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "15/2021/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Phụ lục đơn giá bồi thường, hỗ trợ về nhà và công trình (gạch đầu dòng thứ nhất điểm f mục 3 phần I)",
+    "evidence": "Sửa đổi nội dung tại gạch đầu dòng (-) thứ nhất của điểm f mục 3 phần I Phụ lục đơn giá bồi thường, hỗ trợ về nhà và công trình như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "26/2021/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 11"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 11 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "26/2021/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 11"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 11 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "26/2021/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 25"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi Điều 25 như sau:"
+   },
+   {
+    "source_path": "Điều 3 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "29/2021/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [
+     "Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 5 như sau:"
+   },
+   {
+    "source_path": "Điều 3 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "29/2021/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [
+     "Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 5 như sau:"
+   },
+   {
+    "source_path": "Điều 3 Khoản 2 điểm a",
+    "action": "sua-doi",
+    "target_document": "29/2021/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [
+     "Phụ lục 02"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung nội dung tại số thứ tự 8 Mục I như sau:"
+   },
+   {
+    "source_path": "Điều 3 Khoản 2 điểm a",
+    "action": "bo-sung",
+    "target_document": "29/2021/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [
+     "Phụ lục 02"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung nội dung tại số thứ tự 8 Mục I như sau:"
+   },
+   {
+    "source_path": "Điều 3 Khoản 2 điểm b",
+    "action": "sua-doi",
+    "target_document": "29/2021/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [
+     "Phụ lục 02"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi nội dung tại điểm 2.3, điểm 2.4 thuộc Số thứ tự 2 Mục II như sau:"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên văn bản 'sửa đổi, bổ sung một số Quyết định' không nêu số hiệu nên không ghi quan hệ Phần đầu. Đích lấy từ câu dẫn Điều 1, 2, 3. Khoản 2 Điều 3 chỉ là câu dẫn cho điểm a, b (Phụ lục số 02 của Quyết định 29/2021), không ghi riêng. Điều 2 nói rõ Quy định ban hành kèm theo Quyết định 26/2021 nên kem_theo."
+ },
+ {
+  "doc_id": "680759",
+  "relations": [
+   {
+    "source_path": "Điều 1",
+    "action": "quy-dinh-chi-tiet",
+    "target_document": "140/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 6"
+    ],
+    "doi_tuong": null,
+    "evidence": "Nghị quyết này quy định thẩm quyền quyết định thanh lý rừng trồng thuộc sở hữu toàn dân trên địa bàn tỉnh Đồng Nai theo quy định tại khoản 2 Điều 6 Nghị định số 140/2024/NĐ-CP quy định về thanh lý rừng trồng."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 1 quy định nội dung được giao tại khoản 2 Điều 6 Nghị định 140/2024/NĐ-CP; không chắc nên ghi quy-dinh-chi-tiet (câu dùng 'theo quy định tại')."
+ },
+ {
+  "doc_id": "209177",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "huong-dan",
+    "target_document": "05/2013/QĐ-TTg",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Để triển khai Quyết định 05/2013/QĐ-TTg, Bộ Giáo dục và Đào tạo hướng dẫn một số vấn đề cụ thể sau:"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn tự nêu hướng dẫn thực hiện Quyết định 05/2013/QĐ-TTg; câu nằm trước mục 1 nên ghi Phần đầu. Các Điều 10, 11, 12 của Quyết định 05/2013 chỉ được dẫn chiếu."
+ },
+ {
+  "doc_id": "354919",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn trả lời doanh nghiệp; chỉ trích dẫn căn cứ, không có tác động trực tiếp."
+ },
+ {
+  "doc_id": "291764",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Đình chỉ lưu hành một sản phẩm mỹ phẩm (phiếu công bố 90/13/CBMP-ĐN), không phải văn bản pháp luật nên không ghi quan hệ."
+ }
+]

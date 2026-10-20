@@ -1,0 +1,568 @@
+[
+ {
+  "doc_id": "469700",
+  "relations": [],
+  "loi_cau_truc": [
+   {
+    "source_path": "Mục 4",
+    "loai": "thieu_noi_dung",
+    "ghi_chu": "Đoạn kết sau Mục 4 ('Chỉ thị này thay thế Chỉ thị số 17/CT-UBND...; Chỉ thị số 28/CT-UBND...') có trong toan_van nhưng không có trong don_vi."
+   }
+  ],
+  "ghi_chu": "Câu thay thế nằm ở đoạn kết không đánh số, ngay sau Mục 4; ghi source_path 'Mục 4' theo toàn văn."
+ },
+ {
+  "doc_id": "336335",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Chỉ thị triển khai thực hiện Chỉ thị 26/CT-TTg; không có tác động trực tiếp."
+ },
+ {
+  "doc_id": "291370",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Chỉ ban hành Quy định kèm theo; không có bãi bỏ, thay thế. Dữ liệu không có nội dung Quy định kèm theo."
+ },
+ {
+  "doc_id": "203529",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "huong-dan",
+    "target_document": "4374/TCHQ-TXNK",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "V/v hướng dẫn tiếp CV 4374/TCHQ-TXNK"
+   },
+   {
+    "source_path": "Mục 1",
+    "action": "huong-dan",
+    "target_document": "4374/TCHQ-TXNK",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Mục 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Nội dung hướng dẫn tại điểm 2 công văn số 4374/TCHQ-TXNK được áp dụng đối với số tiền thuế ấn định, không áp dụng đối với tiền thuế do doanh nghiệp tự khai báo."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn hướng dẫn tiếp CV 4374/TCHQ-TXNK; Mục 1 làm rõ phạm vi áp dụng điểm 2 của CV 4374 (ghi vi_tri 'Mục 2' vì CV không chia Điều). Mục 2 chỉ dẫn chiếu CV 8356/BTC-TCHQ, không ghi."
+ },
+ {
+  "doc_id": "496680",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "bai-bo",
+    "target_document": "1487/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "VỀ VIỆC BÃI BỎ QUYẾT ĐỊNH CÔNG BỐ DANH MỤC THỦ TỤC HÀNH CHÍNH ÁP DỤNG CHUNG TRÊN ĐỊA BÀN THÀNH PHỐ CẦN THƠ"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bai-bo",
+    "target_document": "1487/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ Quyết định số 1487/QĐ-UBND ngày 27 tháng 7 năm 2020 của Chủ tịch Ủy ban nhân dân thành phố Cần Thơ về việc công bố Danh mục thủ tục hành chính áp dụng chung trên địa bàn thành phố Cần Thơ."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên văn bản không nêu số hiệu; số hiệu đích lấy từ Điều 1."
+ },
+ {
+  "doc_id": "516942",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Kế hoạch triển khai QĐ 1452/QĐ-TTg; chỉ có giao nhiệm vụ, đề xuất sửa đổi pháp luật; không có tác động trực tiếp."
+ },
+ {
+  "doc_id": "44853",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 7 'Mọi quy định trước đây trái với Quyết định này đều bãi bỏ' không nêu văn bản cụ thể; không ghi quan hệ."
+ },
+ {
+  "doc_id": "418406",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn hướng dẫn tổ chức Tuần sinh hoạt công dân; chỉ trích dẫn văn bản, không có tác động trực tiếp."
+ },
+ {
+  "doc_id": "310636",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "26/2014/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "VỀ VIỆC SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU TẠI BẢN QUY ĐỊNH MỘT SỐ CHÍNH SÁCH BỒI THƯỜNG, HỖ TRỢ VÀ TÁI ĐỊNH CƯ KHI NHÀ NƯỚC THU HỒI ĐẤT TRÊN ĐỊA BÀN TỈNH NINH BÌNH BAN HÀNH KÈM THEO QUYẾT ĐỊNH SỐ 26/2014/QĐ-UBND NGÀY 19/9/2014 CỦA UBND TỈNH NINH BÌNH"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "26/2014/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "VỀ VIỆC SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU TẠI BẢN QUY ĐỊNH MỘT SỐ CHÍNH SÁCH BỒI THƯỜNG, HỖ TRỢ VÀ TÁI ĐỊNH CƯ KHI NHÀ NƯỚC THU HỒI ĐẤT TRÊN ĐỊA BÀN TỈNH NINH BÌNH BAN HÀNH KÈM THEO QUYẾT ĐỊNH SỐ 26/2014/QĐ-UBND NGÀY 19/9/2014 CỦA UBND TỈNH NINH BÌNH"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "26/2014/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 4"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 4 thành:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "26/2014/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 4"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 4 thành:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "26/2014/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 1 Điều 16"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 Điều 16 thành:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "26/2014/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 1 Điều 16"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 Điều 16 thành:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "sua-doi",
+    "target_document": "26/2014/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 24"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 24 thành:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "bo-sung",
+    "target_document": "26/2014/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 24"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 24 thành:"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": ""
+ },
+ {
+  "doc_id": "332393",
+  "relations": [],
+  "loi_cau_truc": [
+   {
+    "source_path": "Nội dung",
+    "loai": "gop_sai",
+    "ghi_chu": "Phần đầu (quốc hiệu, số hiệu, trích yếu, kính gửi) bị gộp vào đơn vị 'Nội dung'."
+   }
+  ],
+  "ghi_chu": "Công văn trả lời doanh nghiệp, chưa hướng dẫn; không có tác động trực tiếp."
+ },
+ {
+  "doc_id": "334688",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quyết định phê duyệt kinh phí; không có tác động trực tiếp."
+ },
+ {
+  "doc_id": "426288",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Ban hành Kế hoạch thực hiện NĐ 09/2019/NĐ-CP; không có tác động trực tiếp (không phải hướng dẫn)."
+ },
+ {
+  "doc_id": "636935",
+  "relations": [
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "huy-bo",
+    "target_document": "200/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "danh mục công trình, dự án chuyển mục đích sử dụng đất trồng lúa, đất rừng phòng hộ và đất rừng đặc dụng",
+    "evidence": "Hủy bỏ 44 công trình, dự án đã được Hội đồng nhân dân tỉnh thông qua nhu cầu chuyển mục đích sử dụng đất trồng lúa, đất rừng phòng hộ và đất rừng đặc dụng tại các Nghị quyết: số 200/NQ-HĐND ngày 15/7/2015, số 26/NQ-HĐND ngày 27/7/2016, số 44/NQ-HĐND ngày 07/12/2016, số 64/NQ-HĐND ngày 07/7/2017, số 89/NQ-HĐND ngày 13/12/2017, số 149/NQ-HĐND ngày 07/12/2018, số 192/NQ-HĐND ngày 30/7/2019, số 212/NQ-HĐND ngày 26/10/2019, số 228/NQ-HĐND ngày 07/12/2019, số 243/NQ-HĐND ngày 31/3/2020, số 272/NQ-HĐND ngày 09/7/2020 và số 333/NQ-HĐND ngày 24/3/2021."
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "huy-bo",
+    "target_document": "26/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "danh mục công trình, dự án chuyển mục đích sử dụng đất trồng lúa, đất rừng phòng hộ và đất rừng đặc dụng",
+    "evidence": "Hủy bỏ 44 công trình, dự án đã được Hội đồng nhân dân tỉnh thông qua nhu cầu chuyển mục đích sử dụng đất trồng lúa, đất rừng phòng hộ và đất rừng đặc dụng tại các Nghị quyết: số 200/NQ-HĐND ngày 15/7/2015, số 26/NQ-HĐND ngày 27/7/2016, số 44/NQ-HĐND ngày 07/12/2016, số 64/NQ-HĐND ngày 07/7/2017, số 89/NQ-HĐND ngày 13/12/2017, số 149/NQ-HĐND ngày 07/12/2018, số 192/NQ-HĐND ngày 30/7/2019, số 212/NQ-HĐND ngày 26/10/2019, số 228/NQ-HĐND ngày 07/12/2019, số 243/NQ-HĐND ngày 31/3/2020, số 272/NQ-HĐND ngày 09/7/2020 và số 333/NQ-HĐND ngày 24/3/2021."
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "huy-bo",
+    "target_document": "44/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "danh mục công trình, dự án chuyển mục đích sử dụng đất trồng lúa, đất rừng phòng hộ và đất rừng đặc dụng",
+    "evidence": "Hủy bỏ 44 công trình, dự án đã được Hội đồng nhân dân tỉnh thông qua nhu cầu chuyển mục đích sử dụng đất trồng lúa, đất rừng phòng hộ và đất rừng đặc dụng tại các Nghị quyết: số 200/NQ-HĐND ngày 15/7/2015, số 26/NQ-HĐND ngày 27/7/2016, số 44/NQ-HĐND ngày 07/12/2016, số 64/NQ-HĐND ngày 07/7/2017, số 89/NQ-HĐND ngày 13/12/2017, số 149/NQ-HĐND ngày 07/12/2018, số 192/NQ-HĐND ngày 30/7/2019, số 212/NQ-HĐND ngày 26/10/2019, số 228/NQ-HĐND ngày 07/12/2019, số 243/NQ-HĐND ngày 31/3/2020, số 272/NQ-HĐND ngày 09/7/2020 và số 333/NQ-HĐND ngày 24/3/2021."
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "huy-bo",
+    "target_document": "64/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "danh mục công trình, dự án chuyển mục đích sử dụng đất trồng lúa, đất rừng phòng hộ và đất rừng đặc dụng",
+    "evidence": "Hủy bỏ 44 công trình, dự án đã được Hội đồng nhân dân tỉnh thông qua nhu cầu chuyển mục đích sử dụng đất trồng lúa, đất rừng phòng hộ và đất rừng đặc dụng tại các Nghị quyết: số 200/NQ-HĐND ngày 15/7/2015, số 26/NQ-HĐND ngày 27/7/2016, số 44/NQ-HĐND ngày 07/12/2016, số 64/NQ-HĐND ngày 07/7/2017, số 89/NQ-HĐND ngày 13/12/2017, số 149/NQ-HĐND ngày 07/12/2018, số 192/NQ-HĐND ngày 30/7/2019, số 212/NQ-HĐND ngày 26/10/2019, số 228/NQ-HĐND ngày 07/12/2019, số 243/NQ-HĐND ngày 31/3/2020, số 272/NQ-HĐND ngày 09/7/2020 và số 333/NQ-HĐND ngày 24/3/2021."
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "huy-bo",
+    "target_document": "89/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "danh mục công trình, dự án chuyển mục đích sử dụng đất trồng lúa, đất rừng phòng hộ và đất rừng đặc dụng",
+    "evidence": "Hủy bỏ 44 công trình, dự án đã được Hội đồng nhân dân tỉnh thông qua nhu cầu chuyển mục đích sử dụng đất trồng lúa, đất rừng phòng hộ và đất rừng đặc dụng tại các Nghị quyết: số 200/NQ-HĐND ngày 15/7/2015, số 26/NQ-HĐND ngày 27/7/2016, số 44/NQ-HĐND ngày 07/12/2016, số 64/NQ-HĐND ngày 07/7/2017, số 89/NQ-HĐND ngày 13/12/2017, số 149/NQ-HĐND ngày 07/12/2018, số 192/NQ-HĐND ngày 30/7/2019, số 212/NQ-HĐND ngày 26/10/2019, số 228/NQ-HĐND ngày 07/12/2019, số 243/NQ-HĐND ngày 31/3/2020, số 272/NQ-HĐND ngày 09/7/2020 và số 333/NQ-HĐND ngày 24/3/2021."
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "huy-bo",
+    "target_document": "149/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "danh mục công trình, dự án chuyển mục đích sử dụng đất trồng lúa, đất rừng phòng hộ và đất rừng đặc dụng",
+    "evidence": "Hủy bỏ 44 công trình, dự án đã được Hội đồng nhân dân tỉnh thông qua nhu cầu chuyển mục đích sử dụng đất trồng lúa, đất rừng phòng hộ và đất rừng đặc dụng tại các Nghị quyết: số 200/NQ-HĐND ngày 15/7/2015, số 26/NQ-HĐND ngày 27/7/2016, số 44/NQ-HĐND ngày 07/12/2016, số 64/NQ-HĐND ngày 07/7/2017, số 89/NQ-HĐND ngày 13/12/2017, số 149/NQ-HĐND ngày 07/12/2018, số 192/NQ-HĐND ngày 30/7/2019, số 212/NQ-HĐND ngày 26/10/2019, số 228/NQ-HĐND ngày 07/12/2019, số 243/NQ-HĐND ngày 31/3/2020, số 272/NQ-HĐND ngày 09/7/2020 và số 333/NQ-HĐND ngày 24/3/2021."
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "huy-bo",
+    "target_document": "192/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "danh mục công trình, dự án chuyển mục đích sử dụng đất trồng lúa, đất rừng phòng hộ và đất rừng đặc dụng",
+    "evidence": "Hủy bỏ 44 công trình, dự án đã được Hội đồng nhân dân tỉnh thông qua nhu cầu chuyển mục đích sử dụng đất trồng lúa, đất rừng phòng hộ và đất rừng đặc dụng tại các Nghị quyết: số 200/NQ-HĐND ngày 15/7/2015, số 26/NQ-HĐND ngày 27/7/2016, số 44/NQ-HĐND ngày 07/12/2016, số 64/NQ-HĐND ngày 07/7/2017, số 89/NQ-HĐND ngày 13/12/2017, số 149/NQ-HĐND ngày 07/12/2018, số 192/NQ-HĐND ngày 30/7/2019, số 212/NQ-HĐND ngày 26/10/2019, số 228/NQ-HĐND ngày 07/12/2019, số 243/NQ-HĐND ngày 31/3/2020, số 272/NQ-HĐND ngày 09/7/2020 và số 333/NQ-HĐND ngày 24/3/2021."
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "huy-bo",
+    "target_document": "212/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "danh mục công trình, dự án chuyển mục đích sử dụng đất trồng lúa, đất rừng phòng hộ và đất rừng đặc dụng",
+    "evidence": "Hủy bỏ 44 công trình, dự án đã được Hội đồng nhân dân tỉnh thông qua nhu cầu chuyển mục đích sử dụng đất trồng lúa, đất rừng phòng hộ và đất rừng đặc dụng tại các Nghị quyết: số 200/NQ-HĐND ngày 15/7/2015, số 26/NQ-HĐND ngày 27/7/2016, số 44/NQ-HĐND ngày 07/12/2016, số 64/NQ-HĐND ngày 07/7/2017, số 89/NQ-HĐND ngày 13/12/2017, số 149/NQ-HĐND ngày 07/12/2018, số 192/NQ-HĐND ngày 30/7/2019, số 212/NQ-HĐND ngày 26/10/2019, số 228/NQ-HĐND ngày 07/12/2019, số 243/NQ-HĐND ngày 31/3/2020, số 272/NQ-HĐND ngày 09/7/2020 và số 333/NQ-HĐND ngày 24/3/2021."
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "huy-bo",
+    "target_document": "228/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "danh mục công trình, dự án chuyển mục đích sử dụng đất trồng lúa, đất rừng phòng hộ và đất rừng đặc dụng",
+    "evidence": "Hủy bỏ 44 công trình, dự án đã được Hội đồng nhân dân tỉnh thông qua nhu cầu chuyển mục đích sử dụng đất trồng lúa, đất rừng phòng hộ và đất rừng đặc dụng tại các Nghị quyết: số 200/NQ-HĐND ngày 15/7/2015, số 26/NQ-HĐND ngày 27/7/2016, số 44/NQ-HĐND ngày 07/12/2016, số 64/NQ-HĐND ngày 07/7/2017, số 89/NQ-HĐND ngày 13/12/2017, số 149/NQ-HĐND ngày 07/12/2018, số 192/NQ-HĐND ngày 30/7/2019, số 212/NQ-HĐND ngày 26/10/2019, số 228/NQ-HĐND ngày 07/12/2019, số 243/NQ-HĐND ngày 31/3/2020, số 272/NQ-HĐND ngày 09/7/2020 và số 333/NQ-HĐND ngày 24/3/2021."
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "huy-bo",
+    "target_document": "243/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "danh mục công trình, dự án chuyển mục đích sử dụng đất trồng lúa, đất rừng phòng hộ và đất rừng đặc dụng",
+    "evidence": "Hủy bỏ 44 công trình, dự án đã được Hội đồng nhân dân tỉnh thông qua nhu cầu chuyển mục đích sử dụng đất trồng lúa, đất rừng phòng hộ và đất rừng đặc dụng tại các Nghị quyết: số 200/NQ-HĐND ngày 15/7/2015, số 26/NQ-HĐND ngày 27/7/2016, số 44/NQ-HĐND ngày 07/12/2016, số 64/NQ-HĐND ngày 07/7/2017, số 89/NQ-HĐND ngày 13/12/2017, số 149/NQ-HĐND ngày 07/12/2018, số 192/NQ-HĐND ngày 30/7/2019, số 212/NQ-HĐND ngày 26/10/2019, số 228/NQ-HĐND ngày 07/12/2019, số 243/NQ-HĐND ngày 31/3/2020, số 272/NQ-HĐND ngày 09/7/2020 và số 333/NQ-HĐND ngày 24/3/2021."
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "huy-bo",
+    "target_document": "272/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "danh mục công trình, dự án chuyển mục đích sử dụng đất trồng lúa, đất rừng phòng hộ và đất rừng đặc dụng",
+    "evidence": "Hủy bỏ 44 công trình, dự án đã được Hội đồng nhân dân tỉnh thông qua nhu cầu chuyển mục đích sử dụng đất trồng lúa, đất rừng phòng hộ và đất rừng đặc dụng tại các Nghị quyết: số 200/NQ-HĐND ngày 15/7/2015, số 26/NQ-HĐND ngày 27/7/2016, số 44/NQ-HĐND ngày 07/12/2016, số 64/NQ-HĐND ngày 07/7/2017, số 89/NQ-HĐND ngày 13/12/2017, số 149/NQ-HĐND ngày 07/12/2018, số 192/NQ-HĐND ngày 30/7/2019, số 212/NQ-HĐND ngày 26/10/2019, số 228/NQ-HĐND ngày 07/12/2019, số 243/NQ-HĐND ngày 31/3/2020, số 272/NQ-HĐND ngày 09/7/2020 và số 333/NQ-HĐND ngày 24/3/2021."
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "huy-bo",
+    "target_document": "333/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "danh mục công trình, dự án chuyển mục đích sử dụng đất trồng lúa, đất rừng phòng hộ và đất rừng đặc dụng",
+    "evidence": "Hủy bỏ 44 công trình, dự án đã được Hội đồng nhân dân tỉnh thông qua nhu cầu chuyển mục đích sử dụng đất trồng lúa, đất rừng phòng hộ và đất rừng đặc dụng tại các Nghị quyết: số 200/NQ-HĐND ngày 15/7/2015, số 26/NQ-HĐND ngày 27/7/2016, số 44/NQ-HĐND ngày 07/12/2016, số 64/NQ-HĐND ngày 07/7/2017, số 89/NQ-HĐND ngày 13/12/2017, số 149/NQ-HĐND ngày 07/12/2018, số 192/NQ-HĐND ngày 30/7/2019, số 212/NQ-HĐND ngày 26/10/2019, số 228/NQ-HĐND ngày 07/12/2019, số 243/NQ-HĐND ngày 31/3/2020, số 272/NQ-HĐND ngày 09/7/2020 và số 333/NQ-HĐND ngày 24/3/2021."
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "huy-bo",
+    "target_document": "200/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "danh mục công trình, dự án thu hồi đất",
+    "evidence": "Hủy bỏ 84 công trình, dự án đã được Hội đồng nhân dân tỉnh thông qua danh mục thu hồi đất tại các Nghị quyết: số 200/NQ-HĐND ngày 15/7/2015, số 26/NQ-HĐND ngày 27/7/2016, số 44/NQ-HĐND ngày 07/12/2016, số 64/NQ-HĐND ngày 07/7/2017, số 89/NQ-HĐND ngày 13/12/2017, số 120/NQ-HĐND ngày 13/7/2018, số 149/NQ-HĐND ngày 07/12/2018, số 167/NQ-HĐND ngày 14/3/2019, số 183/NQ-HĐND ngày 05/7/2019, số 192/NQ-HĐND ngày 30/7/2019, số 212/NQ-HĐND ngày 26/10/2019, số 228/NQ-HĐND ngày 07/12/2019, số 243/NQ-HĐND ngày 31/3/2020, số 272/NQ-HĐND ngày 09/7/2020, 28/NQ-HĐND ngày 16/7/2021, số 60/NQ-HĐND ngày 09/12/2021 và số 86/NQ-HĐND ngày 31/3/2022."
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "huy-bo",
+    "target_document": "26/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "danh mục công trình, dự án thu hồi đất",
+    "evidence": "Hủy bỏ 84 công trình, dự án đã được Hội đồng nhân dân tỉnh thông qua danh mục thu hồi đất tại các Nghị quyết: số 200/NQ-HĐND ngày 15/7/2015, số 26/NQ-HĐND ngày 27/7/2016, số 44/NQ-HĐND ngày 07/12/2016, số 64/NQ-HĐND ngày 07/7/2017, số 89/NQ-HĐND ngày 13/12/2017, số 120/NQ-HĐND ngày 13/7/2018, số 149/NQ-HĐND ngày 07/12/2018, số 167/NQ-HĐND ngày 14/3/2019, số 183/NQ-HĐND ngày 05/7/2019, số 192/NQ-HĐND ngày 30/7/2019, số 212/NQ-HĐND ngày 26/10/2019, số 228/NQ-HĐND ngày 07/12/2019, số 243/NQ-HĐND ngày 31/3/2020, số 272/NQ-HĐND ngày 09/7/2020, 28/NQ-HĐND ngày 16/7/2021, số 60/NQ-HĐND ngày 09/12/2021 và số 86/NQ-HĐND ngày 31/3/2022."
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "huy-bo",
+    "target_document": "44/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "danh mục công trình, dự án thu hồi đất",
+    "evidence": "Hủy bỏ 84 công trình, dự án đã được Hội đồng nhân dân tỉnh thông qua danh mục thu hồi đất tại các Nghị quyết: số 200/NQ-HĐND ngày 15/7/2015, số 26/NQ-HĐND ngày 27/7/2016, số 44/NQ-HĐND ngày 07/12/2016, số 64/NQ-HĐND ngày 07/7/2017, số 89/NQ-HĐND ngày 13/12/2017, số 120/NQ-HĐND ngày 13/7/2018, số 149/NQ-HĐND ngày 07/12/2018, số 167/NQ-HĐND ngày 14/3/2019, số 183/NQ-HĐND ngày 05/7/2019, số 192/NQ-HĐND ngày 30/7/2019, số 212/NQ-HĐND ngày 26/10/2019, số 228/NQ-HĐND ngày 07/12/2019, số 243/NQ-HĐND ngày 31/3/2020, số 272/NQ-HĐND ngày 09/7/2020, 28/NQ-HĐND ngày 16/7/2021, số 60/NQ-HĐND ngày 09/12/2021 và số 86/NQ-HĐND ngày 31/3/2022."
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "huy-bo",
+    "target_document": "64/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "danh mục công trình, dự án thu hồi đất",
+    "evidence": "Hủy bỏ 84 công trình, dự án đã được Hội đồng nhân dân tỉnh thông qua danh mục thu hồi đất tại các Nghị quyết: số 200/NQ-HĐND ngày 15/7/2015, số 26/NQ-HĐND ngày 27/7/2016, số 44/NQ-HĐND ngày 07/12/2016, số 64/NQ-HĐND ngày 07/7/2017, số 89/NQ-HĐND ngày 13/12/2017, số 120/NQ-HĐND ngày 13/7/2018, số 149/NQ-HĐND ngày 07/12/2018, số 167/NQ-HĐND ngày 14/3/2019, số 183/NQ-HĐND ngày 05/7/2019, số 192/NQ-HĐND ngày 30/7/2019, số 212/NQ-HĐND ngày 26/10/2019, số 228/NQ-HĐND ngày 07/12/2019, số 243/NQ-HĐND ngày 31/3/2020, số 272/NQ-HĐND ngày 09/7/2020, 28/NQ-HĐND ngày 16/7/2021, số 60/NQ-HĐND ngày 09/12/2021 và số 86/NQ-HĐND ngày 31/3/2022."
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "huy-bo",
+    "target_document": "89/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "danh mục công trình, dự án thu hồi đất",
+    "evidence": "Hủy bỏ 84 công trình, dự án đã được Hội đồng nhân dân tỉnh thông qua danh mục thu hồi đất tại các Nghị quyết: số 200/NQ-HĐND ngày 15/7/2015, số 26/NQ-HĐND ngày 27/7/2016, số 44/NQ-HĐND ngày 07/12/2016, số 64/NQ-HĐND ngày 07/7/2017, số 89/NQ-HĐND ngày 13/12/2017, số 120/NQ-HĐND ngày 13/7/2018, số 149/NQ-HĐND ngày 07/12/2018, số 167/NQ-HĐND ngày 14/3/2019, số 183/NQ-HĐND ngày 05/7/2019, số 192/NQ-HĐND ngày 30/7/2019, số 212/NQ-HĐND ngày 26/10/2019, số 228/NQ-HĐND ngày 07/12/2019, số 243/NQ-HĐND ngày 31/3/2020, số 272/NQ-HĐND ngày 09/7/2020, 28/NQ-HĐND ngày 16/7/2021, số 60/NQ-HĐND ngày 09/12/2021 và số 86/NQ-HĐND ngày 31/3/2022."
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "huy-bo",
+    "target_document": "120/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "danh mục công trình, dự án thu hồi đất",
+    "evidence": "Hủy bỏ 84 công trình, dự án đã được Hội đồng nhân dân tỉnh thông qua danh mục thu hồi đất tại các Nghị quyết: số 200/NQ-HĐND ngày 15/7/2015, số 26/NQ-HĐND ngày 27/7/2016, số 44/NQ-HĐND ngày 07/12/2016, số 64/NQ-HĐND ngày 07/7/2017, số 89/NQ-HĐND ngày 13/12/2017, số 120/NQ-HĐND ngày 13/7/2018, số 149/NQ-HĐND ngày 07/12/2018, số 167/NQ-HĐND ngày 14/3/2019, số 183/NQ-HĐND ngày 05/7/2019, số 192/NQ-HĐND ngày 30/7/2019, số 212/NQ-HĐND ngày 26/10/2019, số 228/NQ-HĐND ngày 07/12/2019, số 243/NQ-HĐND ngày 31/3/2020, số 272/NQ-HĐND ngày 09/7/2020, 28/NQ-HĐND ngày 16/7/2021, số 60/NQ-HĐND ngày 09/12/2021 và số 86/NQ-HĐND ngày 31/3/2022."
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "huy-bo",
+    "target_document": "149/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "danh mục công trình, dự án thu hồi đất",
+    "evidence": "Hủy bỏ 84 công trình, dự án đã được Hội đồng nhân dân tỉnh thông qua danh mục thu hồi đất tại các Nghị quyết: số 200/NQ-HĐND ngày 15/7/2015, số 26/NQ-HĐND ngày 27/7/2016, số 44/NQ-HĐND ngày 07/12/2016, số 64/NQ-HĐND ngày 07/7/2017, số 89/NQ-HĐND ngày 13/12/2017, số 120/NQ-HĐND ngày 13/7/2018, số 149/NQ-HĐND ngày 07/12/2018, số 167/NQ-HĐND ngày 14/3/2019, số 183/NQ-HĐND ngày 05/7/2019, số 192/NQ-HĐND ngày 30/7/2019, số 212/NQ-HĐND ngày 26/10/2019, số 228/NQ-HĐND ngày 07/12/2019, số 243/NQ-HĐND ngày 31/3/2020, số 272/NQ-HĐND ngày 09/7/2020, 28/NQ-HĐND ngày 16/7/2021, số 60/NQ-HĐND ngày 09/12/2021 và số 86/NQ-HĐND ngày 31/3/2022."
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "huy-bo",
+    "target_document": "167/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "danh mục công trình, dự án thu hồi đất",
+    "evidence": "Hủy bỏ 84 công trình, dự án đã được Hội đồng nhân dân tỉnh thông qua danh mục thu hồi đất tại các Nghị quyết: số 200/NQ-HĐND ngày 15/7/2015, số 26/NQ-HĐND ngày 27/7/2016, số 44/NQ-HĐND ngày 07/12/2016, số 64/NQ-HĐND ngày 07/7/2017, số 89/NQ-HĐND ngày 13/12/2017, số 120/NQ-HĐND ngày 13/7/2018, số 149/NQ-HĐND ngày 07/12/2018, số 167/NQ-HĐND ngày 14/3/2019, số 183/NQ-HĐND ngày 05/7/2019, số 192/NQ-HĐND ngày 30/7/2019, số 212/NQ-HĐND ngày 26/10/2019, số 228/NQ-HĐND ngày 07/12/2019, số 243/NQ-HĐND ngày 31/3/2020, số 272/NQ-HĐND ngày 09/7/2020, 28/NQ-HĐND ngày 16/7/2021, số 60/NQ-HĐND ngày 09/12/2021 và số 86/NQ-HĐND ngày 31/3/2022."
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "huy-bo",
+    "target_document": "183/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "danh mục công trình, dự án thu hồi đất",
+    "evidence": "Hủy bỏ 84 công trình, dự án đã được Hội đồng nhân dân tỉnh thông qua danh mục thu hồi đất tại các Nghị quyết: số 200/NQ-HĐND ngày 15/7/2015, số 26/NQ-HĐND ngày 27/7/2016, số 44/NQ-HĐND ngày 07/12/2016, số 64/NQ-HĐND ngày 07/7/2017, số 89/NQ-HĐND ngày 13/12/2017, số 120/NQ-HĐND ngày 13/7/2018, số 149/NQ-HĐND ngày 07/12/2018, số 167/NQ-HĐND ngày 14/3/2019, số 183/NQ-HĐND ngày 05/7/2019, số 192/NQ-HĐND ngày 30/7/2019, số 212/NQ-HĐND ngày 26/10/2019, số 228/NQ-HĐND ngày 07/12/2019, số 243/NQ-HĐND ngày 31/3/2020, số 272/NQ-HĐND ngày 09/7/2020, 28/NQ-HĐND ngày 16/7/2021, số 60/NQ-HĐND ngày 09/12/2021 và số 86/NQ-HĐND ngày 31/3/2022."
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "huy-bo",
+    "target_document": "192/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "danh mục công trình, dự án thu hồi đất",
+    "evidence": "Hủy bỏ 84 công trình, dự án đã được Hội đồng nhân dân tỉnh thông qua danh mục thu hồi đất tại các Nghị quyết: số 200/NQ-HĐND ngày 15/7/2015, số 26/NQ-HĐND ngày 27/7/2016, số 44/NQ-HĐND ngày 07/12/2016, số 64/NQ-HĐND ngày 07/7/2017, số 89/NQ-HĐND ngày 13/12/2017, số 120/NQ-HĐND ngày 13/7/2018, số 149/NQ-HĐND ngày 07/12/2018, số 167/NQ-HĐND ngày 14/3/2019, số 183/NQ-HĐND ngày 05/7/2019, số 192/NQ-HĐND ngày 30/7/2019, số 212/NQ-HĐND ngày 26/10/2019, số 228/NQ-HĐND ngày 07/12/2019, số 243/NQ-HĐND ngày 31/3/2020, số 272/NQ-HĐND ngày 09/7/2020, 28/NQ-HĐND ngày 16/7/2021, số 60/NQ-HĐND ngày 09/12/2021 và số 86/NQ-HĐND ngày 31/3/2022."
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "huy-bo",
+    "target_document": "212/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "danh mục công trình, dự án thu hồi đất",
+    "evidence": "Hủy bỏ 84 công trình, dự án đã được Hội đồng nhân dân tỉnh thông qua danh mục thu hồi đất tại các Nghị quyết: số 200/NQ-HĐND ngày 15/7/2015, số 26/NQ-HĐND ngày 27/7/2016, số 44/NQ-HĐND ngày 07/12/2016, số 64/NQ-HĐND ngày 07/7/2017, số 89/NQ-HĐND ngày 13/12/2017, số 120/NQ-HĐND ngày 13/7/2018, số 149/NQ-HĐND ngày 07/12/2018, số 167/NQ-HĐND ngày 14/3/2019, số 183/NQ-HĐND ngày 05/7/2019, số 192/NQ-HĐND ngày 30/7/2019, số 212/NQ-HĐND ngày 26/10/2019, số 228/NQ-HĐND ngày 07/12/2019, số 243/NQ-HĐND ngày 31/3/2020, số 272/NQ-HĐND ngày 09/7/2020, 28/NQ-HĐND ngày 16/7/2021, số 60/NQ-HĐND ngày 09/12/2021 và số 86/NQ-HĐND ngày 31/3/2022."
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "huy-bo",
+    "target_document": "228/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "danh mục công trình, dự án thu hồi đất",
+    "evidence": "Hủy bỏ 84 công trình, dự án đã được Hội đồng nhân dân tỉnh thông qua danh mục thu hồi đất tại các Nghị quyết: số 200/NQ-HĐND ngày 15/7/2015, số 26/NQ-HĐND ngày 27/7/2016, số 44/NQ-HĐND ngày 07/12/2016, số 64/NQ-HĐND ngày 07/7/2017, số 89/NQ-HĐND ngày 13/12/2017, số 120/NQ-HĐND ngày 13/7/2018, số 149/NQ-HĐND ngày 07/12/2018, số 167/NQ-HĐND ngày 14/3/2019, số 183/NQ-HĐND ngày 05/7/2019, số 192/NQ-HĐND ngày 30/7/2019, số 212/NQ-HĐND ngày 26/10/2019, số 228/NQ-HĐND ngày 07/12/2019, số 243/NQ-HĐND ngày 31/3/2020, số 272/NQ-HĐND ngày 09/7/2020, 28/NQ-HĐND ngày 16/7/2021, số 60/NQ-HĐND ngày 09/12/2021 và số 86/NQ-HĐND ngày 31/3/2022."
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "huy-bo",
+    "target_document": "243/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "danh mục công trình, dự án thu hồi đất",
+    "evidence": "Hủy bỏ 84 công trình, dự án đã được Hội đồng nhân dân tỉnh thông qua danh mục thu hồi đất tại các Nghị quyết: số 200/NQ-HĐND ngày 15/7/2015, số 26/NQ-HĐND ngày 27/7/2016, số 44/NQ-HĐND ngày 07/12/2016, số 64/NQ-HĐND ngày 07/7/2017, số 89/NQ-HĐND ngày 13/12/2017, số 120/NQ-HĐND ngày 13/7/2018, số 149/NQ-HĐND ngày 07/12/2018, số 167/NQ-HĐND ngày 14/3/2019, số 183/NQ-HĐND ngày 05/7/2019, số 192/NQ-HĐND ngày 30/7/2019, số 212/NQ-HĐND ngày 26/10/2019, số 228/NQ-HĐND ngày 07/12/2019, số 243/NQ-HĐND ngày 31/3/2020, số 272/NQ-HĐND ngày 09/7/2020, 28/NQ-HĐND ngày 16/7/2021, số 60/NQ-HĐND ngày 09/12/2021 và số 86/NQ-HĐND ngày 31/3/2022."
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "huy-bo",
+    "target_document": "272/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "danh mục công trình, dự án thu hồi đất",
+    "evidence": "Hủy bỏ 84 công trình, dự án đã được Hội đồng nhân dân tỉnh thông qua danh mục thu hồi đất tại các Nghị quyết: số 200/NQ-HĐND ngày 15/7/2015, số 26/NQ-HĐND ngày 27/7/2016, số 44/NQ-HĐND ngày 07/12/2016, số 64/NQ-HĐND ngày 07/7/2017, số 89/NQ-HĐND ngày 13/12/2017, số 120/NQ-HĐND ngày 13/7/2018, số 149/NQ-HĐND ngày 07/12/2018, số 167/NQ-HĐND ngày 14/3/2019, số 183/NQ-HĐND ngày 05/7/2019, số 192/NQ-HĐND ngày 30/7/2019, số 212/NQ-HĐND ngày 26/10/2019, số 228/NQ-HĐND ngày 07/12/2019, số 243/NQ-HĐND ngày 31/3/2020, số 272/NQ-HĐND ngày 09/7/2020, 28/NQ-HĐND ngày 16/7/2021, số 60/NQ-HĐND ngày 09/12/2021 và số 86/NQ-HĐND ngày 31/3/2022."
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "huy-bo",
+    "target_document": "28/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "danh mục công trình, dự án thu hồi đất",
+    "evidence": "Hủy bỏ 84 công trình, dự án đã được Hội đồng nhân dân tỉnh thông qua danh mục thu hồi đất tại các Nghị quyết: số 200/NQ-HĐND ngày 15/7/2015, số 26/NQ-HĐND ngày 27/7/2016, số 44/NQ-HĐND ngày 07/12/2016, số 64/NQ-HĐND ngày 07/7/2017, số 89/NQ-HĐND ngày 13/12/2017, số 120/NQ-HĐND ngày 13/7/2018, số 149/NQ-HĐND ngày 07/12/2018, số 167/NQ-HĐND ngày 14/3/2019, số 183/NQ-HĐND ngày 05/7/2019, số 192/NQ-HĐND ngày 30/7/2019, số 212/NQ-HĐND ngày 26/10/2019, số 228/NQ-HĐND ngày 07/12/2019, số 243/NQ-HĐND ngày 31/3/2020, số 272/NQ-HĐND ngày 09/7/2020, 28/NQ-HĐND ngày 16/7/2021, số 60/NQ-HĐND ngày 09/12/2021 và số 86/NQ-HĐND ngày 31/3/2022."
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "huy-bo",
+    "target_document": "60/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "danh mục công trình, dự án thu hồi đất",
+    "evidence": "Hủy bỏ 84 công trình, dự án đã được Hội đồng nhân dân tỉnh thông qua danh mục thu hồi đất tại các Nghị quyết: số 200/NQ-HĐND ngày 15/7/2015, số 26/NQ-HĐND ngày 27/7/2016, số 44/NQ-HĐND ngày 07/12/2016, số 64/NQ-HĐND ngày 07/7/2017, số 89/NQ-HĐND ngày 13/12/2017, số 120/NQ-HĐND ngày 13/7/2018, số 149/NQ-HĐND ngày 07/12/2018, số 167/NQ-HĐND ngày 14/3/2019, số 183/NQ-HĐND ngày 05/7/2019, số 192/NQ-HĐND ngày 30/7/2019, số 212/NQ-HĐND ngày 26/10/2019, số 228/NQ-HĐND ngày 07/12/2019, số 243/NQ-HĐND ngày 31/3/2020, số 272/NQ-HĐND ngày 09/7/2020, 28/NQ-HĐND ngày 16/7/2021, số 60/NQ-HĐND ngày 09/12/2021 và số 86/NQ-HĐND ngày 31/3/2022."
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "huy-bo",
+    "target_document": "86/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "danh mục công trình, dự án thu hồi đất",
+    "evidence": "Hủy bỏ 84 công trình, dự án đã được Hội đồng nhân dân tỉnh thông qua danh mục thu hồi đất tại các Nghị quyết: số 200/NQ-HĐND ngày 15/7/2015, số 26/NQ-HĐND ngày 27/7/2016, số 44/NQ-HĐND ngày 07/12/2016, số 64/NQ-HĐND ngày 07/7/2017, số 89/NQ-HĐND ngày 13/12/2017, số 120/NQ-HĐND ngày 13/7/2018, số 149/NQ-HĐND ngày 07/12/2018, số 167/NQ-HĐND ngày 14/3/2019, số 183/NQ-HĐND ngày 05/7/2019, số 192/NQ-HĐND ngày 30/7/2019, số 212/NQ-HĐND ngày 26/10/2019, số 228/NQ-HĐND ngày 07/12/2019, số 243/NQ-HĐND ngày 31/3/2020, số 272/NQ-HĐND ngày 09/7/2020, 28/NQ-HĐND ngày 16/7/2021, số 60/NQ-HĐND ngày 09/12/2021 và số 86/NQ-HĐND ngày 31/3/2022."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Hủy bỏ một số công trình, dự án trong danh mục của nhiều Nghị quyết HĐND tỉnh; mỗi Nghị quyết một quan hệ. Tên văn bản không nêu số hiệu, đích lấy từ Điều 1. Biểu 01, 02 là danh mục kèm theo, không ghi riêng."
+ },
+ {
+  "doc_id": "611746",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "bai-bo",
+    "target_document": "30/2021/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 15"
+    ],
+    "doi_tuong": null,
+    "evidence": "BÃI BỎ ĐIỀU 15 QUY ĐỊNH MỘT SỐ NỘI DUNG VỀ QUẢN LÝ VÀ TRÌNH TỰ THỰC HIỆN ĐẦU TƯ DỰ ÁN KHU ĐÔ THỊ, KHU DÂN CƯ KHÔNG SỬ DỤNG VỐN NHÀ NƯỚC THÔNG QUA HÌNH THỨC ĐẤU GIÁ QUYỀN SỬ DỤNG ĐẤT, ĐẤU THẦU LỰA CHỌN NHÀ ĐẦU TƯ TRÊN ĐỊA BÀN TỈNH BẮC GIANG KÈM THEO QUYẾT ĐỊNH SỐ 30/2021/QĐ-UBND NGÀY 15/7/2021 CỦA UBND TỈNH"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bai-bo",
+    "target_document": "11/2023/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 9 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "BÃI BỎ KHOẢN 9 ĐIỀU 1 QUYẾT ĐỊNH SỐ 11/2023/QĐ-UBND NGÀY 12/4/2023 CỦA UBND TỈNH"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bai-bo",
+    "target_document": "30/2021/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 15"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ Điều 15 Quy định một số nội dung về quản lý và trình tự thực hiện đầu tư dự án khu đô thị, khu dân cư không sử dụng vốn nhà nước thông qua hình thức đấu giá quyền sử dụng đất, đấu thầu lựa chọn nhà đầu tư trên địa bàn tỉnh Bắc Giang kèm theo Quyết định số 30/2021/QĐ-UBND ngày 15/7/2021 của UBND tỉnh"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bai-bo",
+    "target_document": "11/2023/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 9 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "bãi bỏ khoản 9 Điều 1 Quyết định số 11/2023/QĐ-UBND ngày 12/4/2023 của UBND tỉnh"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bai-bo",
+    "target_document": "30/2021/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 15"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ Điều 15 của Quy định ban hành kèm theo Qu yết định số 30/2021/QĐ-UBND."
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "11/2023/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 9 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ khoản 9 Điều 1 của Quyết định số 11/2023/QĐ-UBND."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Câu dẫn Điều 1 tự nêu đủ hai hành động bãi bỏ, khoản 1 và 2 lặp lại; ghi cả ở Điều 1 và từng khoản."
+ },
+ {
+  "doc_id": "583296",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "537/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này thay thế Quyết định số 537/QĐ-UBND ngày 20/01/2012 của Chủ tịch UBND Thành phố về việc phê duyệt Điều lệ Liên đoàn Vovinam - Việt Võ Đạo thành phố Hà Nội nhiệm kỳ II (2011 - 2016)."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Phê duyệt Điều lệ hội (không phải văn bản có số hiệu); các đơn vị Phụ lục 1 là nội dung Điều lệ, không có tác động."
+ }
+]

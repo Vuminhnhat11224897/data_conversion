@@ -1,0 +1,149 @@
+[
+ {
+  "doc_id": "210109",
+  "la_vbqppl": false,
+  "cap_hieu_luc": null,
+  "ngay_hieu_luc": "2013-10-02",
+  "ngay_het_hieu_luc": null,
+  "ngay_hoi_to": null,
+  "hieu_luc_rieng": [],
+  "trich": {
+   "ngay_hieu_luc": null,
+   "la_vbqppl": "Công văn"
+  },
+  "chua_chac": []
+ },
+ {
+  "doc_id": "212964",
+  "la_vbqppl": true,
+  "cap_hieu_luc": 6,
+  "ngay_hieu_luc": "2014-01-01",
+  "ngay_het_hieu_luc": null,
+  "ngay_hoi_to": null,
+  "hieu_luc_rieng": [],
+  "trich": {
+   "ngay_hieu_luc": "Quyết định này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2014.",
+   "la_vbqppl": "Quyết định QPPL của Thủ tướng Chính phủ"
+  },
+  "chua_chac": []
+ },
+ {
+  "doc_id": "596830",
+  "la_vbqppl": false,
+  "cap_hieu_luc": null,
+  "ngay_hieu_luc": "2024-01-04",
+  "ngay_het_hieu_luc": null,
+  "ngay_hoi_to": null,
+  "hieu_luc_rieng": [],
+  "trich": {
+   "ngay_hieu_luc": "Quyết định này có hiệu lực thi hành kể từ ngày ký.",
+   "la_vbqppl": "Quyết định cá biệt công bố danh mục văn bản; cơ quan cấp huyện"
+  },
+  "chua_chac": []
+ },
+ {
+  "doc_id": "313836",
+  "la_vbqppl": false,
+  "cap_hieu_luc": null,
+  "ngay_hieu_luc": "2016-06-02",
+  "ngay_het_hieu_luc": null,
+  "ngay_hoi_to": null,
+  "hieu_luc_rieng": [],
+  "trich": {
+   "ngay_hieu_luc": "Quyết định này có hiệu lực kể từ ngày ký và được đăng tải trên cổng giao tiếp điện tử và Công báo Thành phố.",
+   "la_vbqppl": "Quyết định cá biệt công bố danh mục văn bản hết hiệu lực"
+  },
+  "chua_chac": []
+ },
+ {
+  "doc_id": "468558",
+  "la_vbqppl": false,
+  "cap_hieu_luc": null,
+  "ngay_hieu_luc": "2021-01-25",
+  "ngay_het_hieu_luc": null,
+  "ngay_hoi_to": null,
+  "hieu_luc_rieng": [],
+  "trich": {
+   "ngay_hieu_luc": "Quyết định này có hiệu lực thi hành kể từ ngày ký ban hành.",
+   "la_vbqppl": "Quyết định cá biệt công bố danh mục văn bản hết hiệu lực, ngưng hiệu lực"
+  },
+  "chua_chac": []
+ },
+ {
+  "doc_id": "597063",
+  "la_vbqppl": false,
+  "cap_hieu_luc": null,
+  "ngay_hieu_luc": "2024-01-12",
+  "ngay_het_hieu_luc": null,
+  "ngay_hoi_to": null,
+  "hieu_luc_rieng": [],
+  "trich": {
+   "ngay_hieu_luc": "Quyết định này có hiệu lực kể từ ngày ký.",
+   "la_vbqppl": "Quyết định cá biệt công bố danh mục văn bản; cơ quan cấp huyện"
+  },
+  "chua_chac": []
+ },
+ {
+  "doc_id": "97645",
+  "la_vbqppl": true,
+  "cap_hieu_luc": 11,
+  "ngay_hieu_luc": "1985-08-03",
+  "ngay_het_hieu_luc": null,
+  "ngay_hoi_to": null,
+  "hieu_luc_rieng": [],
+  "trich": {
+   "ngay_hieu_luc": "Quyết định này có hiệu lực kể từ ngày ký.",
+   "la_vbqppl": "Quyết định của UBND thành phố trực thuộc Trung ương ban hành quy định tạm thời chứa quy tắc chung; năm 1985 chưa có luật ban hành VBQPPL"
+  },
+  "chua_chac": [
+   "la_vbqppl",
+   "cap_hieu_luc"
+  ]
+ },
+ {
+  "doc_id": "44202",
+  "la_vbqppl": true,
+  "cap_hieu_luc": 9,
+  "ngay_hieu_luc": null,
+  "ngay_het_hieu_luc": null,
+  "ngay_hoi_to": null,
+  "hieu_luc_rieng": [],
+  "trich": {
+   "ngay_hieu_luc": null,
+   "la_vbqppl": "Thông tư liên tịch (liên bộ) luôn là VBQPPL; văn bản không có câu hiệu lực"
+  },
+  "chua_chac": []
+ },
+ {
+  "doc_id": "43606",
+  "la_vbqppl": false,
+  "cap_hieu_luc": null,
+  "ngay_hieu_luc": "1985-08-22",
+  "ngay_het_hieu_luc": null,
+  "ngay_hoi_to": null,
+  "hieu_luc_rieng": [],
+  "trich": {
+   "ngay_hieu_luc": null,
+   "la_vbqppl": "Quyết định ban hành tiêu chuẩn",
+   "ghi_chu": "Câu 'Tiêu chuẩn trên có hiệu lực từ ngày 1-1-1986' nói về tiêu chuẩn TCVN, không phải câu hiệu lực của Quyết định; nên lấy ngày ban hành."
+  },
+  "chua_chac": [
+   "la_vbqppl",
+   "ngay_hieu_luc"
+  ]
+ },
+ {
+  "doc_id": "21571",
+  "la_vbqppl": false,
+  "cap_hieu_luc": null,
+  "ngay_hieu_luc": "1999-05-08",
+  "ngay_het_hieu_luc": null,
+  "ngay_hoi_to": null,
+  "hieu_luc_rieng": [],
+  "trich": {
+   "ngay_hieu_luc": "Quyết định này có hiệu lực sau 15 ngày kể từ ngày ký ban hành.",
+   "la_vbqppl": "Quyết định cá biệt thành lập Ban Quản lý (23/4/1999 + 15 ngày)"
+  },
+  "chua_chac": []
+ }
+]

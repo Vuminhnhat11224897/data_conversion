@@ -1,0 +1,84 @@
+[
+ {
+  "doc_id": "286996",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Không có quan hệ. Điều 1 'Nhất trí điều chỉnh dự toán thu, chi ngân sách năm 2015' không nêu văn bản đích; khoản 1, 3 chỉ so sánh với dự toán 'đã được HĐND tỉnh thông qua tại Nghị quyết số 24/NQ-HĐND' (không phải câu sửa đổi Nghị quyết 24). Ca khó: có thể coi là sửa đổi dự toán của NQ 24/NQ-HĐND. Phụ lục là bảng số liệu, không có hành động."
+ },
+ {
+  "doc_id": "507582",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Không có quan hệ. Phê duyệt kế hoạch sử dụng đất; các biểu chỉ có số liệu, danh mục công trình."
+ },
+ {
+  "doc_id": "611985",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Không có quan hệ. Công văn đề nghị triển khai; 'Bỏ chức năng tạo lập tài khoản' là chức năng phần mềm, không phải văn bản."
+ },
+ {
+  "doc_id": "35319",
+  "relations": [
+   {
+    "source_path": "Phụ lục 1 Điều 1",
+    "action": "huong-dan",
+    "target_document": "91/2002/QĐ-UB",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Điều lệ này hướng dẫn việc quản lý xây dựng, sử dụng các công trình theo đúng đồ án Quy hoạch chi tiết tỷ lệ 1/500 Khu đô thị mới Pháp Vân - Tứ Hiệp - huyện Thanh Trì - Hà Nội đã được phê duyệt theo Quyết định số 91/2002/QĐ-UB"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Ca khó: Điều lệ hướng dẫn quản lý xây dựng theo đồ án quy hoạch được phê duyệt tại QĐ 91/2002/QĐ-UB; ghi huong-dan vì câu dùng chính từ 'hướng dẫn' và nêu số hiệu. Điều 3 Điều lệ ('Việc điều chỉnh, bổ sung ... phải được UBND Thành phố xem xét') là thẩm quyền, không ghi."
+ },
+ {
+  "doc_id": "138461",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Không có quan hệ. Phê duyệt dự toán, kế hoạch đấu thầu."
+ },
+ {
+  "doc_id": "340315",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Không có quan hệ. Công văn truyền đạt ý kiến chỉ đạo."
+ },
+ {
+  "doc_id": "191043",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Không có quan hệ. 'Hủy bỏ các bút toán' là trích dẫn văn bản khác, đối tượng là bút toán."
+ },
+ {
+  "doc_id": "637699",
+  "relations": [],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 3",
+    "loai": "tach_sai",
+    "ghi_chu": "Câu hiệu lực 'Quyết định này có hiệu lực kể từ ngày ký.' bị nhận thành tên Điều 3; noi_dung là đoạn trách nhiệm thi hành."
+   }
+  ],
+  "ghi_chu": "Không có quan hệ. Thông qua phương án đơn giản hóa TTHC; các QĐ 919/QĐ-UBND, 6680/QĐ-UBND, 3204/QĐ-UBND chỉ được nêu ở phần lý do."
+ },
+ {
+  "doc_id": "227010",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Không có quan hệ. Thông tư ban hành mẫu hợp đồng; các từ 'sửa đổi, bổ sung', 'thay thế', 'đình chỉ' trong mẫu nói về hợp đồng, nhiệm vụ KH&CN."
+ },
+ {
+  "doc_id": "629237",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Không có quan hệ. Công văn trả lời, trích dẫn NĐ 126/2020/NĐ-CP, TT 153/2011/TT-BTC."
+ },
+ {
+  "doc_id": "131277",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Không có quan hệ. 'Bổ sung thành viên thường trực của Phân ban' không nêu văn bản đích; QĐ 410/QĐ-TTg chỉ có ở căn cứ."
+ }
+]

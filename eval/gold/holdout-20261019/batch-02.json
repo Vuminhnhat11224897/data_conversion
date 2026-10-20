@@ -1,0 +1,103 @@
+[
+ {
+  "doc_id": "330874",
+  "relations": [
+   {
+    "source_path": "Phụ lục 1 Mục II STT 1",
+    "action": "bo-sung",
+    "target_document": "14/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "Trường Tiểu học Trà Nóc 2",
+    "evidence": "Dự án đã có trong NQ 14/NQ-HĐND của HĐND TP, nay bổ sung thêm diện tích đất thu hồi của dự án"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục III STT 6",
+    "action": "bo-sung",
+    "target_document": "14/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "Công trình các lộ ra 110kV Trạm Biến áp 220kV Cần Thơ",
+    "evidence": "Dự án đã có trong NQ 14/NQ-HĐND của HĐND TP, nay bổ sung thêm diện tích đất thu hồi của dự án"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Hai dòng bảng ở cột Ghi chú Phụ lục I nói dự án đã có trong NQ 14/NQ-HĐND và nay bổ sung diện tích đất thu hồi: ghi bo-sung, nhưng ranh giới mỏng (bổ sung số liệu dự án, không nói rõ sửa văn bản NQ 14). Các quyết định ở cột nguồn vốn/căn cứ không phải đích."
+ },
+ {
+  "doc_id": "613497",
+  "relations": [],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 1",
+    "loai": "thieu_noi_dung",
+    "ghi_chu": "Điều 1 (ban hành danh mục) không có trong don_vi; không có tác động lên văn bản khác."
+   }
+  ],
+  "ghi_chu": "Ban hành danh mục dịch vụ sự nghiệp công; 'Thực hiện Nghị quyết số 173/NQ-HĐND' là căn cứ, không phải tác động."
+ },
+ {
+  "doc_id": "457990",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Ban hành tiêu chuẩn, định mức xe ô tô chuyên dùng; không tác động lên văn bản khác."
+ },
+ {
+  "doc_id": "444072",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn truyền đạt ý kiến Thủ tướng; không có tác động."
+ },
+ {
+  "doc_id": "683622",
+  "relations": [
+   {
+    "source_path": "Điều 4",
+    "action": "thay-the",
+    "target_document": "7414/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "thay thế Quyết định số 7414/QĐ-UBND ngày 27/6/2025 của UBND tỉnh Long An quy định giá tối đa đối với dịch vụ theo yêu cầu liên quan đến việc công chứng trên địa bàn tỉnh Long An"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "QĐ 51/2025/QĐ-UBND và 5547/QĐ-UBND chỉ là căn cứ."
+ },
+ {
+  "doc_id": "623333",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn truyền đạt ý kiến Phó Thủ tướng; 'bổ sung nhiệm vụ trong kế hoạch' là giao nhiệm vụ, không phải tác động."
+ },
+ {
+  "doc_id": "191186",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Phê duyệt quy hoạch; không tác động lên văn bản khác."
+ },
+ {
+  "doc_id": "91375",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn yêu cầu Bộ Tài chính nghiên cứu ban hành biện pháp; không tác động."
+ },
+ {
+  "doc_id": "545020",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn tuyên truyền; Kế hoạch 1041/KH-STTTT chỉ được nhắc."
+ },
+ {
+  "doc_id": "556232",
+  "relations": [],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 1",
+    "loai": "thieu_noi_dung",
+    "ghi_chu": "don_vi rỗng dù văn bản có Điều 1, Điều 2; không có tác động."
+   }
+  ],
+  "ghi_chu": "Công bố công khai dự toán ngân sách; các biểu không nêu văn bản đích."
+ }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "doc_id": "174921",
+    "relations": [],
+    "loi_cau_truc": [],
+    "ghi_chu": "Hủy/bãi bỏ TTHC, không hủy Nghị định 128/2007/NĐ-CP; chú thích đã hết hiệu lực là lịch sử.",
+    "annotation_status": "reviewed",
+    "uncertain_cases": []
+  },
+  {
+    "doc_id": "292482",
+    "relations": [],
+    "loi_cau_truc": [],
+    "ghi_chu": "Hủy giao dịch, hóa đơn; khai bổ sung thuế. Các câu hướng dẫn Thông tư là dẫn nhập trích nguyên văn, không phải sửa/hủy/hướng dẫn mới của công văn.",
+    "annotation_status": "reviewed",
+    "uncertain_cases": []
+  },
+  {
+    "doc_id": "81725",
+    "relations": [],
+    "loi_cau_truc": [],
+    "ghi_chu": "Nhắc hướng dẫn cũ và đề nghị tiếp tục áp dụng quy định hiện hành; không tự gán hướng dẫn mới cho công văn 1119.",
+    "annotation_status": "reviewed",
+    "uncertain_cases": [
+      "Việc chưa triển khai được mục 2 công văn 1119 có thể được hiểu là tạm dừng áp dụng; nguồn không tuyên bố đình chỉ/ngưng hiệu lực nên không gán quan hệ chắc chắn."
+    ]
+  },
+  {
+    "doc_id": "232177",
+    "relations": [],
+    "loi_cau_truc": [],
+    "ghi_chu": "Hướng dẫn một nghiệp vụ nhưng không tuyên bố hướng dẫn văn bản đích cụ thể. Không tự chọn một trong nhiều Luật/Nghị định ở căn cứ làm đích.",
+    "annotation_status": "reviewed",
+    "uncertain_cases": [
+      "Nếu mở rộng quy ước hướng dẫn theo nghiệp vụ, cần duyệt lại đích; hiện chỉ giữ tác động được định danh trực tiếp."
+    ]
+  },
+  {
+    "doc_id": "133028",
+    "relations": [
+      {
+        "source_path": "Phần đầu",
+        "action": "huong-dan",
+        "target_document": "11/NQ-CP",
+        "target_section": "khong_ap_dung",
+        "vi_tri": [],
+        "doi_tuong": null,
+        "evidence": "Căn cứ quy định tại điểm a mục 2 Nghị quyết số 11/NQ-CP ngày 24/2/2011 của Chính phủ về những giải pháp chủ yếu tập trung kiềm chế lạm phát, ổn định kinh tế vĩ mô, bảo đảm an sinh xã hội; Căn cứ ý kiến chỉ đạo của Thủ tướng Chính phủ tại Công văn số 8908/VPCP-KTTH ngày 14/12/2011 của Văn phòng Chính phủ về bổ sung hướng dẫn mua sắm thực hiện Nghị quyết số 11/NQ-CP của Chính phủ; Bộ Tài chính hướng dẫn bổ sung việc mua sắm tài sản thực hiện Nghị quyết 11/NQ-CP như sau:"
+      }
+    ],
+    "loi_cau_truc": [],
+    "ghi_chu": "Hướng dẫn bổ sung việc thực hiện Nghị quyết, không phải bổ sung nội dung pháp lý Nghị quyết; các công văn khác chỉ là căn cứ/viện dẫn.",
+    "annotation_status": "reviewed",
+    "uncertain_cases": []
+  }
+]

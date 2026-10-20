@@ -1,0 +1,530 @@
+[
+ {
+  "doc_id": "505804",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "28/2020/TT-BCA",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA THÔNG TƯ SỐ 28/2020/TT-BCA NGÀY 26/3/2020 CỦA BỘ TRƯỞNG BỘ CÔNG AN QUY ĐỊNH TRÌNH TỰ, THỦ TỤC TIẾP NHẬN, PHÂN LOẠI, XỬ LÝ, GIẢI QUYẾT TỐ GIÁC, TIN BÁO VỀ TỘI PHẠM, KIẾN NGHỊ KHỞI TỐ CỦA LỰC LƯỢNG CÔNG AN NHÂN DÂN"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "28/2020/TT-BCA",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA THÔNG TƯ SỐ 28/2020/TT-BCA NGÀY 26/3/2020 CỦA BỘ TRƯỞNG BỘ CÔNG AN QUY ĐỊNH TRÌNH TỰ, THỦ TỤC TIẾP NHẬN, PHÂN LOẠI, XỬ LÝ, GIẢI QUYẾT TỐ GIÁC, TIN BÁO VỀ TỘI PHẠM, KIẾN NGHỊ KHỞI TỐ CỦA LỰC LƯỢNG CÔNG AN NHÂN DÂN"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "28/2020/TT-BCA",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 Điều 7 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "28/2020/TT-BCA",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 Điều 7 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "28/2020/TT-BCA",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 16"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 Điều 16 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "28/2020/TT-BCA",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 16"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 Điều 16 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3 điểm a",
+    "action": "thay-cum-tu",
+    "target_document": "28/2020/TT-BCA",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Biên bản tiếp nhận theo mẫu số 09, ban hành kèm theo Thông tư số 61/2017/TT-BCA ngày 14/12/2017 của Bộ trưởng Bộ Công an quy định biểu mẫu, giấy tờ, sổ sách về điều tra hình sự (sau đây viết tắt là Thông tư số 61/2017)” bằng cụm từ “Biên bản tiếp nhận nguồn tin về tội phạm theo mẫu số 01, ban hành kèm theo Thông tư số 119/2021/TT-BCA ngày 08/12/2021 của Bộ trưởng Bộ Công an quy định biểu mẫu, giấy tờ, sổ sách về điều tra hình sự (sau đây viết tắt là Thông tư số 119/2021/TT-BCA)” tại khoản 1 Điều 5."
+   },
+   {
+    "source_path": "Điều 1 Khoản 3 điểm b",
+    "action": "thay-cum-tu",
+    "target_document": "28/2020/TT-BCA",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “(02 bản) theo mẫu số 196 (ban hành kèm theo Thông tư số 61/2017)” bằng cụm từ “(lập 02 bản theo mẫu số 214 ban hành kèm theo Thông tư số 119/2021/TT-BCA)” tại khoản 2 Điều 5."
+   },
+   {
+    "source_path": "Điều 1 Khoản 3 điểm c",
+    "action": "thay-cum-tu",
+    "target_document": "28/2020/TT-BCA",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 8 Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “sổ tiếp nhận nguồn tin về tội phạm theo mẫu số 278 (ban hành theo Thông tư số 61/2017)” bằng cụm từ “sổ theo dõi tiếp nhận, phân loại nguồn tin về tội phạm (theo mẫu số 294 ban hành kèm theo Thông tư số 119/2021/TT-BCA)” tại khoản 8 Điều 5."
+   },
+   {
+    "source_path": "Điều 1 Khoản 3 điểm d",
+    "action": "thay-cum-tu",
+    "target_document": "28/2020/TT-BCA",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 2 Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “theo mẫu số 54 (ban hành kèm theo Thông tư số 61/2017)” bằng cụm từ “(theo mẫu số 69 ban hành kèm theo Thông tư số 119/2021/TT-BCA)” tại điểm a khoản 2 Điều 7."
+   },
+   {
+    "source_path": "Điều 1 Khoản 3 điểm đ",
+    "action": "thay-cum-tu",
+    "target_document": "28/2020/TT-BCA",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 2 Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “theo mẫu số 55 (ban hành kèm theo Thông tư số 61/2017)” bằng cụm từ “(theo mẫu số 70 ban hành kèm theo Thông tư số 119/2021/TT-BCA)” tại điểm a khoản 2 Điều 7."
+   },
+   {
+    "source_path": "Điều 1 Khoản 3 điểm e",
+    "action": "thay-cum-tu",
+    "target_document": "28/2020/TT-BCA",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm b khoản 2 Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “(mẫu số 16 ban hành kèm theo Thông tư số 61/2017)” bằng cụm từ “(theo mẫu số 24 ban hành kèm theo Thông tư số 119/2021/TT-BCA)” tại điểm b khoản 2 Điều 7."
+   },
+   {
+    "source_path": "Điều 1 Khoản 3 điểm g",
+    "action": "thay-cum-tu",
+    "target_document": "28/2020/TT-BCA",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 9"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “theo mẫu số 09 (ban hành kèm theo Thông tư số 61/2017)” bằng cụm từ “(theo mẫu số 01 ban hành kèm theo Thông tư số 119/2021/TT-BCA)” tại khoản 2 Điều 9."
+   },
+   {
+    "source_path": "Điều 1 Khoản 3 điểm h",
+    "action": "thay-cum-tu",
+    "target_document": "28/2020/TT-BCA",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 11"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “biểu mẫu số 11 (Phiếu chuyển tố giác, tin báo về tội phạm hoặc kiến nghị khởi tố) ban hành kèm theo Thông tư số 61/2017” bằng cụm từ “(biểu mẫu số 03 ban hành kèm theo Thông tư số 119/2021/TT-BCA)” tại Điều 11."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 1 Khoản 3 là câu dẫn; quan hệ thay cụm từ ghi theo từng điểm a-h. Phần đầu: tên và lời dẫn cùng nói sửa đổi, bổ sung TT 28/2020/TT-BCA, ghi một lần."
+ },
+ {
+  "doc_id": "696273",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "43/2022/TT-BCA",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA THÔNG TƯ SỐ 43/2022/TT-BCA NGÀY 27 THÁNG 10 NĂM 2022 CỦA BỘ TRƯỞNG BỘ CÔNG AN"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "43/2022/TT-BCA",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA THÔNG TƯ SỐ 43/2022/TT-BCA NGÀY 27 THÁNG 10 NĂM 2022 CỦA BỘ TRƯỞNG BỘ CÔNG AN"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "43/2022/TT-BCA",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 6"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 Điều 6 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "43/2022/TT-BCA",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 6"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 Điều 6 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "43/2022/TT-BCA",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 6"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 Điều 6 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "43/2022/TT-BCA",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 6"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 Điều 6 như sau:"
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "sua-doi",
+    "target_document": "43/2022/TT-BCA",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 Điều 7"
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bo-sung",
+    "target_document": "43/2022/TT-BCA",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 Điều 7"
+   },
+   {
+    "source_path": "Điều 3",
+    "action": "bo-sung",
+    "target_document": "43/2022/TT-BCA",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 13a"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung Điều 13a sau Điều 13"
+   },
+   {
+    "source_path": "Điều 4 Khoản 1",
+    "action": "thay-cum-tu",
+    "target_document": "43/2022/TT-BCA",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 5",
+     "khoản 3 Điều 7",
+     "Điều 10",
+     "khoản 2 Điều 11",
+     "khoản 3 Điều 11"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Tòa án nhân dân cấp huyện” bằng cụm từ “Tòa án nhân dân khu vực” tại khoản 3 Điều 5, khoản 3 Điều 7, Điều 10, khoản 2 và khoản 3 Điều 11."
+   },
+   {
+    "source_path": "Điều 4 Khoản 2",
+    "action": "thay-cum-tu",
+    "target_document": "43/2022/TT-BCA",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 14"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Công an tỉnh, thành phố trực thuộc Trung ương” bằng cụm từ “Công an tỉnh, thành phố” tại khoản 2 Điều 14."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 2, Điều 3 không có khoản; hành động nằm ở tên Điều."
+ },
+ {
+  "doc_id": "299701",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Không có tác động lên văn bản khác. 'Tiêu thức bổ sung' là tên tiêu thức, không phải hành động."
+ },
+ {
+  "doc_id": "47882",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "huong-dan",
+    "target_document": "04/2001/NĐ-CP",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "HƯỚNG DẪN THỰC HIỆN NGHỊ ĐỊNH SỐ 04/2001/NĐ-CP NGÀY 16/01/2001 CỦA CHÍNH PHỦ QUY ĐỊNH CHI TIẾT THI HÀNH MỘT SỐ ĐIỀU CỦA LUẬT SĨ QUAN QUÂN ĐỘI NHÂN DÂN VIỆT NAM NĂM 1999"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Mục C điểm 6 bãi bỏ chung 'các quy định ... trái với Thông tư này', không nêu văn bản đích nên không ghi. noi_dung của Mục B trong gói bị cắt giữa câu; đã đối chiếu toan_van, không có hành động khác."
+ },
+ {
+  "doc_id": "638463",
+  "relations": [
+   {
+    "source_path": "Điều 2 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "314/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục I.2",
+     "Mục II.1"
+    ],
+    "doi_tuong": "Danh mục thủ tục hành chính",
+    "evidence": "Quyết định có hiệu lực kể từ ngày 01 tháng 01 năm 2025 và sửa đổi thủ tục hành chính số 3 Mục I.2; thủ tục hành chính số: 1, 2, 3, 4, 5, 6 Mục II.1"
+   },
+   {
+    "source_path": "Điều 2 Khoản 1",
+    "action": "bai-bo",
+    "target_document": "314/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục II.1"
+    ],
+    "doi_tuong": "Danh mục thủ tục hành chính",
+    "evidence": "bãi bỏ các thủ tục hành chính số: 7, 8, 9, 10, 11, 12, 13, 14, 15, 16 Mục II.1 Danh mục thủ tục hành chính ban hành kèm theo Quyết định số 314/QĐ-UBND ngày 03 tháng 6 năm 2024"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Văn bản tự nói sửa đổi/bãi bỏ các TTHC theo số thứ tự trong Danh mục kèm theo QĐ 314/QĐ-UBND; vi_tri dừng ở Mục chứa các dòng. Tên văn bản và Điều 1 chỉ công bố danh mục, không ghi."
+ },
+ {
+  "doc_id": "449863",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "thay-the",
+    "target_document": "768/QLCL-KĐCLGD",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Bảng hướng dẫn đánh giá",
+    "evidence": "V/v thay thế Bảng hướng dẫn đánh giá ban hành kèm theo Công văn số 768/QLCL-KĐCLGD"
+   },
+   {
+    "source_path": "Nội dung",
+    "action": "thay-the",
+    "target_document": "768/QLCL-KĐCLGD",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Bảng hướng dẫn đánh giá",
+    "evidence": "Cục Quản lý chất lượng ban hành kèm theo Công văn này Bảng hướng dẫn đánh giá để thay thế cho Bảng hướng dẫn đánh giá kèm theo Công văn số 768/QLCL-KĐCLGD ngày 20/4/2018"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn không chia Điều; trích yếu (V/v) ghi Phần đầu, câu thay thế trong thân ghi theo đơn vị 'Nội dung'."
+ },
+ {
+  "doc_id": "360994",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Gói không có toan_van, don_vi chỉ có Điều 3. Đã đọc nguồn legal-docs: Điều 1 ban hành danh mục DVC trực tuyến, Điều 2 hiệu lực từ ngày ký; không có tác động lên văn bản khác."
+ },
+ {
+  "doc_id": "467012",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "50/2016/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "VỀ VIỆC SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA QUY ĐỊNH CHỨC NĂNG, NHIỆM VỤ, QUYỀN HẠN VÀ CƠ CẤU TỔ CHỨC CỦA SỞ TÀI CHÍNH TỈNH NAM ĐỊNH, BAN HÀNH KÈM THEO QUYẾT ĐỊNH SỐ 50/2016/QĐ-UBND NGÀY 22/12/2016 CỦA ỦY BAN NHÂN DÂN TỈNH NAM ĐỊNH"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "50/2016/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "VỀ VIỆC SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA QUY ĐỊNH CHỨC NĂNG, NHIỆM VỤ, QUYỀN HẠN VÀ CƠ CẤU TỔ CHỨC CỦA SỞ TÀI CHÍNH TỈNH NAM ĐỊNH, BAN HÀNH KÈM THEO QUYẾT ĐỊNH SỐ 50/2016/QĐ-UBND NGÀY 22/12/2016 CỦA ỦY BAN NHÂN DÂN TỈNH NAM ĐỊNH"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "sua-doi",
+    "target_document": "50/2016/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung một số điều của Quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Sở Tài chính tỉnh Nam Định ban hành kèm theo Quyết định số 50/2016/QĐ-UBND ngày 22/12/2016 của Ủy ban nhân dân tỉnh Nam Định."
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bo-sung",
+    "target_document": "50/2016/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung một số điều của Quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Sở Tài chính tỉnh Nam Định ban hành kèm theo Quyết định số 50/2016/QĐ-UBND ngày 22/12/2016 của Ủy ban nhân dân tỉnh Nam Định."
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "50/2016/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 3 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "50/2016/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 3 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "50/2016/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 5 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "50/2016/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 5 như sau:"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 1 (câu chung) và các khoản đều nói rõ là Quy định ban hành kèm theo QĐ 50/2016/QĐ-UBND."
+ },
+ {
+  "doc_id": "374475",
+  "relations": [
+   {
+    "source_path": "Điều 5 Khoản 1",
+    "action": "thay-the",
+    "target_document": "37/2008/NĐ-CP",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị định này có hiệu lực thi hành từ ngày ký ban hành và thay thế Nghị định số 37/2008/NĐ-CP ngày 01 tháng 4 năm 2008 của Chính phủ"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Các đơn vị khác chỉ nêu nhiệm vụ (sửa đổi, gia hạn thỏa thuận quốc tế; hướng dẫn...), không phải tác động."
+ },
+ {
+  "doc_id": "491202",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "129/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực thi hành kể từ ngày ký và thay thế Quyết định số 129/QĐ-UBND ngày 25/01/2017 của Chủ tịch Ủy ban nhân dân tỉnh"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Các đơn vị trong Điều lệ chỉ nêu nhiệm vụ, thẩm quyền sửa đổi Điều lệ; không ghi."
+ },
+ {
+  "doc_id": "110900",
+  "relations": [],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 1 Khoản 2 điểm e",
+    "loai": "gop_sai",
+    "ghi_chu": "Điểm e (mục I.2) gộp cả tiêu đề mục II 'Các nhiệm vụ chính' và nhiệm vụ 1, 2 của mục II."
+   },
+   {
+    "source_path": "Điều 1 Khoản 4",
+    "loai": "tach_sai",
+    "ghi_chu": "Điều 1 chia mục I, II, III, mỗi mục đánh số lại từ 1; 'Khoản 4', 'Khoản 5' thực ra là nhiệm vụ 4, 5 của mục II, không phải khoản của Điều 1."
+   }
+  ],
+  "ghi_chu": "Không có tác động lên văn bản khác; 'sửa đổi, bổ sung' trong văn bản là nhiệm vụ, kế hoạch."
+ },
+ {
+  "doc_id": "623636",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công bố 01 TTHC mới; không thay thế, bãi bỏ, sửa đổi văn bản nào. don_vi rỗng."
+ },
+ {
+  "doc_id": "484717",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công bố TTHC được sửa đổi; QĐ 3175/QĐ-UBND chỉ được nêu là nơi đã công bố TTHC, văn bản không tự nói sửa đổi, thay thế QĐ đó."
+ },
+ {
+  "doc_id": "491592",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Thông báo kết luận cuộc họp; không có tác động lên văn bản khác."
+ },
+ {
+  "doc_id": "296756",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công bố bãi bỏ 02 TTHC; không nêu văn bản đích bị bãi bỏ (TT 19/2011/TT-BNNPTNT chỉ là căn cứ ở phụ lục)."
+ }
+]

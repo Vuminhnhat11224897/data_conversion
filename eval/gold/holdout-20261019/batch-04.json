@@ -1,0 +1,158 @@
+[
+ {
+  "doc_id": "247876",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Nghị quyết dự toán, phân bổ ngân sách; không có tác động lên văn bản khác."
+ },
+ {
+  "doc_id": "399707",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Ban hành Quy chế mới; không có tác động lên văn bản khác."
+ },
+ {
+  "doc_id": "17102",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 2 'Các quy định trước đây trái với Quyết định này đều bãi bỏ' không nêu văn bản đích cụ thể nên không ghi."
+ },
+ {
+  "doc_id": "535484",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Phê duyệt Đề cương; không có tác động lên văn bản khác."
+ },
+ {
+  "doc_id": "261594",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "93/2013/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "VỀ VIỆC SỬA ĐỔI KHOẢN 3, ĐIỀU 3 NGHỊ QUYẾT SỐ 93/2013/NQ-HĐND NGÀY 17 THÁNG 7 NĂM 2013 CỦA HỘI ĐỒNG NHÂN DÂN TỈNH NGHỆ AN VỀ MỨC THU VÀ TỶ LỆ TRÍCH NỘP PHÍ SỬ DỤNG ĐƯỜNG BỘ ĐỐI VỚI XE MÔ TÔ TRÊN ĐỊA BÀN TỈNH NGHỆ AN"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "sua-doi",
+    "target_document": "93/2013/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi khoản 3 Điều 3 Nghị quyết số 93/2013/NQ-HĐND ngày 17 tháng 7 năm 2013 của Hội đồng nhân dân tỉnh Nghệ An về mức thu và tỷ lệ trích nộp phí sử dụng đường bộ đối với xe mô tô trên địa bàn tỉnh Nghệ An như sau:"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên văn bản và Điều 1 cùng sửa đổi khoản 3 Điều 3 NQ 93/2013."
+ },
+ {
+  "doc_id": "142628",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn đề nghị, chỉ đạo; không có tác động."
+ },
+ {
+  "doc_id": "173279",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "09/2009/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "VỀ VIỆC SỬA ĐỔI MỘT SỐ ĐIỀU CỦA QUYẾT ĐỊNH SỐ 09/2009/QĐ-UBND NGÀY 09/02/2009 CỦA UBND TỈNH VỀ CHẾ ĐỘ TRỢ CẤP ĐỐI VỚI HỌC SINH, SINH VIÊN LÀ NGƯỜI DÂN TỘC THIỂU SỐ CỦA TỈNH ĐANG HỌC TẠI CÁC TRƯỜNG ĐẠI HỌC, CAO ĐẲNG, TRUNG HỌC CHUYÊN NGHIỆP TRONG CẢ NƯỚC"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "sua-doi",
+    "target_document": "09/2009/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [
+     "Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "I. Sửa đổi Điều 1, Chương I của Quyết định 09 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "sua-doi",
+    "target_document": "09/2009/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [
+     "khoản 1 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "II. Sửa đổi điểm 1, điều 3, Chương II của Quyết định 09 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3 điểm c",
+    "action": "sua-doi",
+    "target_document": "09/2009/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [
+     "Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "III. Sửa đổi Điều 7, Chương III của Quyết định 09 như sau:"
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "loai": "nhan_sai_dieu",
+    "ghi_chu": "Khoản 1-3 của 'Điều 1. Đối tượng áp dụng' (nội dung mới thay vào QĐ 09) bị nhận thành khoản của Điều 1 văn bản này; mục II, III của Điều 1 bị gộp vào Điều 1 Khoản 3."
+   },
+   {
+    "source_path": "Điều 1 Khoản 3 điểm c",
+    "loai": "gop_sai",
+    "ghi_chu": "Điểm a-c là nội dung mới của khoản 1 Điều 3 QĐ 09; mục III (sửa Điều 7) bị gộp vào điểm c."
+   }
+  ],
+  "ghi_chu": "QĐ 09/2009 ban hành Quy định kèm theo; câu chỉ nói 'của Quyết định 09' nên target_section khong_ro. Văn bản gọi 'điểm 1, điều 3' nhưng đó là mục đánh số '1.' của Điều 3, ghi 'khoản 1 Điều 3'. Câu dẫn chung 'Sửa đổi một số điều của Quyết định số 09/2009/QĐ-UBND' ở Điều 1 không ghi riêng vì đã tách theo mục I-III."
+ },
+ {
+  "doc_id": "617507",
+  "relations": [
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "367/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "05 thủ tục hành chính cấp tỉnh lĩnh vực quốc tịch (số 1-5); 15 thủ tục cấp huyện lĩnh vực hộ tịch (số 1-15); 16 thủ tục cấp xã lĩnh vực hộ tịch (số 1-16); 01 thủ tục tại Cơ quan quản lý Cơ sở dữ liệu hộ tịch điện tử (số 1)",
+    "evidence": "Các thủ tục hành chính bị bãi bỏ và thay thế, gồm: 05 thủ tục hành chính (cấp tỉnh) trong lĩnh vực quốc tịch (thủ tục số 1, 2, 3, 4, 5); 15 thủ tục hành chính (cấp huyện) trong lĩnh vực hộ tịch (thủ tục số 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15); 16 thủ tục hành chính (cấp xã) trong lĩnh vực hộ tịch (thủ tục số 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16) và 01 thủ tục hành chính thực hiện tại Cơ quan quản lý Cơ sở dữ liệu hộ tịch điện tử (thủ tục số 1) được công bố tại Quyết định số 367/QĐ-UBND ngày 06 tháng 3 năm 2024 của Chủ tịch Ủy ban nhân dân tỉnh về việc công bố Bộ thủ tục hành chính thuộc phạm vi, chức năng quản lý của ngành Tư pháp tỉnh Tiền Giang (37 thủ tục hành chính)."
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "thay-the",
+    "target_document": "367/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "05 thủ tục hành chính cấp tỉnh lĩnh vực quốc tịch (số 1-5); 15 thủ tục cấp huyện lĩnh vực hộ tịch (số 1-15); 16 thủ tục cấp xã lĩnh vực hộ tịch (số 1-16); 01 thủ tục tại Cơ quan quản lý Cơ sở dữ liệu hộ tịch điện tử (số 1)",
+    "evidence": "Các thủ tục hành chính bị bãi bỏ và thay thế, gồm: 05 thủ tục hành chính (cấp tỉnh) trong lĩnh vực quốc tịch (thủ tục số 1, 2, 3, 4, 5); 15 thủ tục hành chính (cấp huyện) trong lĩnh vực hộ tịch (thủ tục số 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15); 16 thủ tục hành chính (cấp xã) trong lĩnh vực hộ tịch (thủ tục số 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16) và 01 thủ tục hành chính thực hiện tại Cơ quan quản lý Cơ sở dữ liệu hộ tịch điện tử (thủ tục số 1) được công bố tại Quyết định số 367/QĐ-UBND ngày 06 tháng 3 năm 2024 của Chủ tịch Ủy ban nhân dân tỉnh về việc công bố Bộ thủ tục hành chính thuộc phạm vi, chức năng quản lý của ngành Tư pháp tỉnh Tiền Giang (37 thủ tục hành chính)."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 1 Khoản 2 tự nêu 37 TTHC 'bị bãi bỏ và thay thế' được công bố tại QĐ 367/QĐ-UBND (thủ tục số theo danh mục của QĐ 367); vị trí chỉ là số thứ tự TTHC nên vi_tri rỗng, ghi doi_tuong. Câu nằm dưới 'Công bố kèm theo Quyết định này' nên có thể tranh luận là công bố; ghi vì câu nêu rõ văn bản đích. Dòng bảng phụ lục không có ghi chú."
+ },
+ {
+  "doc_id": "173359",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn góp ý; không có tác động."
+ },
+ {
+  "doc_id": "564057",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn trả lời doanh nghiệp, chỉ trích dẫn Thông tư 103/2014/TT-BTC; không có tác động."
+ }
+]

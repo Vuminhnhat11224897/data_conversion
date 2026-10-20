@@ -1,0 +1,365 @@
+[
+ {
+  "doc_id": "442512",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công bố bãi bỏ 01 TTHC (T-DNG-284944-TT); không nêu văn bản đích chứa thủ tục."
+ },
+ {
+  "doc_id": "490123",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công bố danh mục 04 TTHC bãi bỏ; cột 'Tên VBQPPL quy định việc bãi bỏ' (TT 03/2021/TT-BKHCN) là căn cứ, không phải đích; không nêu văn bản công bố trước bị bãi bỏ."
+ },
+ {
+  "doc_id": "668598",
+  "relations": [
+   {
+    "source_path": "Điều 3",
+    "action": "bai-bo",
+    "target_document": "2273/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "bãi bỏ Quyết định số 2273/QĐ-UBND ngày 12/9/2023"
+   },
+   {
+    "source_path": "Điều 3",
+    "action": "bai-bo",
+    "target_document": "491/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Danh mục và Quy trình nội bộ có số thứ tự 01, 03 mục 2 phần II lĩnh vực Trang thiết bị Y tế",
+    "evidence": "bãi bỏ Quyết định số 2273/QĐ-UBND ngày 12/9/2023; Danh mục và Quy trình nội bộ có số thứ tự 01, 03 mục 2 phần II lĩnh vực Trang thiết bị Y tế tại Quyết định số 491/QĐ-UBND ngày 02/3/2022 của Chủ tịch UBND tỉnh."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 1 chỉ công bố danh mục: không ghi. Điều 3 bãi bỏ toàn bộ QĐ 2273/QĐ-UBND và các dòng STT 01, 03 mục 2 phần II của danh mục, quy trình nội bộ tại QĐ 491/QĐ-UBND (vị trí là dòng danh mục nên để vi_tri rỗng, ghi doi_tuong)."
+ },
+ {
+  "doc_id": "293720",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công bố TTHC mới, sửa đổi; không nêu văn bản đích. Cột 'Tên VBQPPL quy định nội dung sửa đổi' là căn cứ (TT 01/2013, 03/2014/TT-BKHĐT). Phần II nội dung chi tiết nằm ở file đính kèm, không có trong toàn văn."
+ },
+ {
+  "doc_id": "214455",
+  "relations": [
+   {
+    "source_path": "Điều 3",
+    "action": "thay-the",
+    "target_document": "1919/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này thay thế Quyết định số 1919/QĐ-UBND ngày 26 tháng 8 năm 2009 của Chủ tịch Ủy ban nhân dân tỉnh An Giang về việc công bố Bộ thủ tục hành chính thuộc thẩm quyền giải quyết của Văn phòng Ủy ban nhân dân tỉnh An Giang."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quyết định công bố bộ TTHC tự nói thay thế QĐ 1919/QĐ-UBND: ghi thay-the. Khoản 1 Điều 1 là quy định chung về cập nhật, không phải hành động."
+ },
+ {
+  "doc_id": "672027",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công bố danh mục 53 TTHC bãi bỏ; cột 'Căn cứ pháp lý/Cơ sở đề xuất bãi bỏ' (QĐ 1085/QĐ-TTg, 311/QĐ-BNV, 117/QĐ-UBND) là căn cứ, không phải đích. Không nêu văn bản công bố trước bị bãi bỏ."
+ },
+ {
+  "doc_id": "295932",
+  "relations": [
+   {
+    "source_path": "Điều 3",
+    "action": "thay-the",
+    "target_document": "304/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này thay thế Quyết định số 304/QĐ-UBND ngày 10/9/2009 của Ủy ban nhân dân tỉnh Tuyên Quang về việc công bố Bộ thủ tục hành chính thuộc thẩm quyền giải quyết của Sở Nông nghiệp và Phát triển nông thôn tỉnh Tuyên Quang."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quyết định công bố bộ TTHC tự nói thay thế QĐ 304/QĐ-UBND. Điều 2 là giao nhiệm vụ cập nhật: không ghi."
+ },
+ {
+  "doc_id": "479032",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "08/2020/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA QUY ĐỊNH QUẢN LÝ HOẠT ĐỘNG DU LỊCH TRÊN ĐỊA BÀN TỈNH LAI CHÂU BAN HÀNH KÈM THEO QUYẾT ĐỊNH SỐ 08/2020/QĐ- UBND NGÀY 26/02/2020 CỦA UBND TỈNH LAI CHÂU"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "08/2020/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA QUY ĐỊNH QUẢN LÝ HOẠT ĐỘNG DU LỊCH TRÊN ĐỊA BÀN TỈNH LAI CHÂU BAN HÀNH KÈM THEO QUYẾT ĐỊNH SỐ 08/2020/QĐ- UBND NGÀY 26/02/2020 CỦA UBND TỈNH LAI CHÂU"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "08/2020/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 4 Điều 4"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản khoản 4 Điều 4 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "08/2020/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 4 Điều 4"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản khoản 4 Điều 4 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "08/2020/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 1 Điều 11"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 Điều 11 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "08/2020/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 1 Điều 11"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 Điều 11 như sau:"
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "08/2020/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm a khoản 2 Điều 10",
+     "điểm g khoản 19 Điều 13"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ điểm a khoản 2 Điều 10 và điểm g khoản 19 Điều 13."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Sửa đổi, bổ sung và bãi bỏ một số quy định của Quy định kèm theo QĐ 08/2020/QĐ-UBND."
+ },
+ {
+  "doc_id": "630312",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "50/2018/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA QUY CHẾ BAN HÀNH KÈM THEO QUYẾT ĐỊNH SỐ 50/2018/QĐ-UBND NGÀY 28 THÁNG 11 NĂM 2018 CỦA ỦY BAN NHÂN DÂN TỈNH AN GIANG BAN HÀNH QUY CHẾ TIẾP NHẬN, XỬ LÝ, PHÁT HÀNH VÀ QUẢN LÝ VĂN BẢN ĐIỆN TỬ GIỮA CÁC CƠ QUAN NHÀ NƯỚC TRÊN ĐỊA BÀN TỈNH AN GIANG"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "50/2018/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA QUY CHẾ BAN HÀNH KÈM THEO QUYẾT ĐỊNH SỐ 50/2018/QĐ-UBND NGÀY 28 THÁNG 11 NĂM 2018 CỦA ỦY BAN NHÂN DÂN TỈNH AN GIANG BAN HÀNH QUY CHẾ TIẾP NHẬN, XỬ LÝ, PHÁT HÀNH VÀ QUẢN LÝ VĂN BẢN ĐIỆN TỬ GIỮA CÁC CƠ QUAN NHÀ NƯỚC TRÊN ĐỊA BÀN TỈNH AN GIANG"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "50/2018/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm a khoản 1 Điều 6"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi điểm a khoản 1 Điều 6 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "50/2018/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm a khoản 2 Điều 8"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi điểm a khoản 2 Điều 8 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "sua-doi",
+    "target_document": "50/2018/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 3 Điều 8"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi khoản 3 Điều 8 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 4",
+    "action": "sua-doi",
+    "target_document": "50/2018/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm b khoản 1 Điều 9"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi điểm b khoản 1 Điều 9 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 5",
+    "action": "sua-doi",
+    "target_document": "50/2018/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm d khoản 2 Điều 9"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm d khoản 2 Điều 9 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 5",
+    "action": "bo-sung",
+    "target_document": "50/2018/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm d khoản 2 Điều 9"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm d khoản 2 Điều 9 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 6",
+    "action": "sua-doi",
+    "target_document": "50/2018/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 1 Điều 10"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi khoản 1 Điều 10 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 7",
+    "action": "sua-doi",
+    "target_document": "50/2018/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 2 Điều 10"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi khoản 2 Điều 10 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 8",
+    "action": "sua-doi",
+    "target_document": "50/2018/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 11"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi Điều 11 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 9",
+    "action": "sua-doi",
+    "target_document": "50/2018/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 1 Điều 12"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi khoản 1 Điều 12 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 10",
+    "action": "sua-doi",
+    "target_document": "50/2018/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 16"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi Điều 16 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 11",
+    "action": "bo-sung",
+    "target_document": "50/2018/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 10 Điều 19"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung khoản 10 Điều 19, như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 12",
+    "action": "bai-bo",
+    "target_document": "50/2018/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 3 Điều 10"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ khoản 3 Điều 10."
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 1",
+    "loai": "tach_sai",
+    "ghi_chu": "Câu dẫn của Điều 1 bị tách thành đơn vị 'Điều 1' riêng; các khoản của Điều 1 có ten_dieu rỗng nên mất ngữ cảnh văn bản đích."
+   }
+  ],
+  "ghi_chu": "Câu dẫn Điều 1 ('Sửa đổi, bổ sung một số điều của Quy chế ...') là câu dẫn chung của các khoản, không ghi quan hệ riêng; các khoản ghi theo vị trí cụ thể."
+ },
+ {
+  "doc_id": "140547",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "46/2010/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "một số mức chi chế độ hội nghị",
+    "evidence": "VỀ SỬA ĐỔI MỘT SỐ MỨC CHI CHẾ ĐỘ HỘI NGHỊ ĐƯỢC BAN HÀNH KÈM THEO QUYẾT ĐỊNH SỐ 46/2010/QĐ-UBND NGÀY 24/12/2010 CỦA ỦY BAN NHÂN DÂN CÁC TỈNH"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "sua-doi",
+    "target_document": "46/2010/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 1 Mục B Phụ lục"
+    ],
+    "doi_tuong": "Phụ lục mức chi chế độ công tác phí, chi tổ chức các cuộc hội nghị",
+    "evidence": "Điều chỉnh Khoản 1, Mục B, Phụ lục mức chi chế độ công tác phí, chi tổ chức các cuộc hội nghị ban hành kèm theo Quyết định số 46/2010/QĐ-UBND ngày 24/12/2010 của Ủy ban nhân dân tỉnh"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "'Điều chỉnh' khoản 1 Mục B Phụ lục kèm theo QĐ 46/2010 được ghi là sua-doi (tên văn bản nói 'sửa đổi'). Phụ lục đích không có số. Điều 2 'các nội dung khác thực hiện theo QĐ 46/2010' không phải hành động."
+ }
+]

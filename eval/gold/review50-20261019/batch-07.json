@@ -1,0 +1,82 @@
+[
+  {
+    "doc_id": "426827",
+    "relations": [
+      {
+        "source_path": "Điều 2",
+        "action": "bai-bo",
+        "target_document": "2710/QĐ-UBND",
+        "target_section": "kem_theo",
+        "vi_tri": [],
+        "doi_tuong": "các thủ tục hành chính trong lĩnh vực việc làm, lao động, tiền lương thuộc phạm vi, chức năng quản lý của Sở Lao động - Thương binh và Xã hội tỉnh Bình Định",
+        "evidence": "Điều 2. Quyết định này có hiệu lực thi hành kể từ ngày ký và bãi bỏ các thủ tục hành chính trong lĩnh vực việc làm, lao động, tiền lương thuộc phạm vi, chức năng quản lý của Sở Lao động - Thương binh và Xã hội tỉnh Bình Định đã được công bố tại Quyết định số 2710/QĐ-UBND ngày 10 tháng 8 năm 2018 và Quyết định số 2234/QĐ-UBND ngày 01 tháng 7 năm 2019 của Chủ tịch Ủy ban nhân dân tỉnh (Phụ lục 2 kèm theo)."
+      },
+      {
+        "source_path": "Điều 2",
+        "action": "bai-bo",
+        "target_document": "2234/QĐ-UBND",
+        "target_section": "kem_theo",
+        "vi_tri": [],
+        "doi_tuong": "các thủ tục hành chính trong lĩnh vực việc làm, lao động, tiền lương thuộc phạm vi, chức năng quản lý của Sở Lao động - Thương binh và Xã hội tỉnh Bình Định",
+        "evidence": "Điều 2. Quyết định này có hiệu lực thi hành kể từ ngày ký và bãi bỏ các thủ tục hành chính trong lĩnh vực việc làm, lao động, tiền lương thuộc phạm vi, chức năng quản lý của Sở Lao động - Thương binh và Xã hội tỉnh Bình Định đã được công bố tại Quyết định số 2710/QĐ-UBND ngày 10 tháng 8 năm 2018 và Quyết định số 2234/QĐ-UBND ngày 01 tháng 7 năm 2019 của Chủ tịch Ủy ban nhân dân tỉnh (Phụ lục 2 kèm theo)."
+      }
+    ],
+    "loi_cau_truc": [],
+    "ghi_chu": "Phụ lục 2 là chi tiết của cùng lệnh ở Điều 2, không đếm thêm mỗi dòng thành tác động độc lập. Không bãi bỏ các Nghị định/Thông tư ở cột căn cứ.",
+    "annotation_status": "reviewed",
+    "uncertain_cases": []
+  },
+  {
+    "doc_id": "603858",
+    "relations": [],
+    "loi_cau_truc": [],
+    "ghi_chu": "Công bố TTHC bị bãi bỏ do văn bản khác quy định; không có lệnh bãi bỏ Quyết định công bố cũ hay Thông tư 29/2015.",
+    "annotation_status": "reviewed",
+    "uncertain_cases": []
+  },
+  {
+    "doc_id": "228768",
+    "relations": [],
+    "loi_cau_truc": [],
+    "ghi_chu": "Danh mục xác nhận lịch sử hết hiệu lực do các Quyết định năm 2012 khác thực hiện; Quyết định 56 năm 2013 không phải nguồn thực hiện các sửa đổi/bãi bỏ này.",
+    "annotation_status": "reviewed",
+    "uncertain_cases": []
+  },
+  {
+    "doc_id": "262819",
+    "relations": [],
+    "loi_cau_truc": [],
+    "ghi_chu": "Công bố danh mục hết hiệu lực tính tới 30/9/2014, liệt kê lý do/thời điểm đã xảy ra; không biến văn bản tổng hợp thành nguồn bãi bỏ hoặc sửa đổi.",
+    "annotation_status": "reviewed",
+    "uncertain_cases": []
+  },
+  {
+    "doc_id": "19180",
+    "relations": [
+      {
+        "source_path": "Phần đầu",
+        "action": "huong-dan",
+        "target_document": "01-CP",
+        "target_section": "khong_ap_dung",
+        "vi_tri": [],
+        "doi_tuong": null,
+        "evidence": "Tình hình nêu trên đã được Thường vụ Hội đồng Chính phủ xét và giải quyết trong phiên họp ngày 20 và 21-2-1963. Căn cứ quyết nghị của Thường vụ Hội đồng Chính phủ, Bộ Lao động hướng dẫn giải quyết vấn đề lương cho quân nhân tình nguyện chuyển ngành như sau:"
+      },
+      {
+        "source_path": "Phần đầu",
+        "action": "huong-dan",
+        "target_document": "03-TT-LB",
+        "target_section": "khong_ap_dung",
+        "vi_tri": [],
+        "doi_tuong": null,
+        "evidence": "Tình hình nêu trên đã được Thường vụ Hội đồng Chính phủ xét và giải quyết trong phiên họp ngày 20 và 21-2-1963. Căn cứ quyết nghị của Thường vụ Hội đồng Chính phủ, Bộ Lao động hướng dẫn giải quyết vấn đề lương cho quân nhân tình nguyện chuyển ngành như sau:"
+      }
+    ],
+    "loi_cau_truc": [],
+    "ghi_chu": "Lời dẫn nêu cụ thể hai văn bản về quân nhân chuyển ngành và Bộ hướng dẫn thực hiện. Không ghi bo-sung chỉ vì cụm thông tư hướng dẫn bổ sung. Nguồn ghi số thông tư không thống nhất ở cuối (03-TT-LĐ).",
+    "annotation_status": "reviewed",
+    "uncertain_cases": [
+      "Nguồn ghi 03-TT-LB ở đầu và 03-TT-LĐ ở cuối; nhãn giữ số ở câu định danh đầu văn bản."
+    ]
+  }
+]

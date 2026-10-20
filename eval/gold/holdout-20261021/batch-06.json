@@ -1,0 +1,136 @@
+[
+ {
+  "doc_id": "666597",
+  "relations": [
+   {
+    "source_path": "Mục 6",
+    "action": "thay-the",
+    "target_document": "994/BTC-QLCS",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "các báo cáo",
+    "evidence": "báo cáo này thay cho các báo cáo theo Công văn số 994/BTC-QLCS ngày 23/01/2025, Công văn số 2950/BTC-QLCS ngày 11/3/2025, Công văn số 7627/BTC-QLCS ngày 02/6/2025, Công văn số 8380/BTC-QLCS ngày 13/6/2025 và Công văn số 8400/BTC-QLCS ngày 14/6/2025 của Bộ Tài chính"
+   },
+   {
+    "source_path": "Mục 6",
+    "action": "thay-the",
+    "target_document": "2950/BTC-QLCS",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "các báo cáo",
+    "evidence": "báo cáo này thay cho các báo cáo theo Công văn số 994/BTC-QLCS ngày 23/01/2025, Công văn số 2950/BTC-QLCS ngày 11/3/2025, Công văn số 7627/BTC-QLCS ngày 02/6/2025, Công văn số 8380/BTC-QLCS ngày 13/6/2025 và Công văn số 8400/BTC-QLCS ngày 14/6/2025 của Bộ Tài chính"
+   },
+   {
+    "source_path": "Mục 6",
+    "action": "thay-the",
+    "target_document": "7627/BTC-QLCS",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "các báo cáo",
+    "evidence": "báo cáo này thay cho các báo cáo theo Công văn số 994/BTC-QLCS ngày 23/01/2025, Công văn số 2950/BTC-QLCS ngày 11/3/2025, Công văn số 7627/BTC-QLCS ngày 02/6/2025, Công văn số 8380/BTC-QLCS ngày 13/6/2025 và Công văn số 8400/BTC-QLCS ngày 14/6/2025 của Bộ Tài chính"
+   },
+   {
+    "source_path": "Mục 6",
+    "action": "thay-the",
+    "target_document": "8380/BTC-QLCS",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "các báo cáo",
+    "evidence": "báo cáo này thay cho các báo cáo theo Công văn số 994/BTC-QLCS ngày 23/01/2025, Công văn số 2950/BTC-QLCS ngày 11/3/2025, Công văn số 7627/BTC-QLCS ngày 02/6/2025, Công văn số 8380/BTC-QLCS ngày 13/6/2025 và Công văn số 8400/BTC-QLCS ngày 14/6/2025 của Bộ Tài chính"
+   },
+   {
+    "source_path": "Mục 6",
+    "action": "thay-the",
+    "target_document": "8400/BTC-QLCS",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "các báo cáo",
+    "evidence": "báo cáo này thay cho các báo cáo theo Công văn số 994/BTC-QLCS ngày 23/01/2025, Công văn số 2950/BTC-QLCS ngày 11/3/2025, Công văn số 7627/BTC-QLCS ngày 02/6/2025, Công văn số 8380/BTC-QLCS ngày 13/6/2025 và Công văn số 8400/BTC-QLCS ngày 14/6/2025 của Bộ Tài chính"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Mục 6: báo cáo theo Mẫu của Công văn này thay cho các báo cáo theo 5 Công văn trước; ghi thay-the một phần (chế độ báo cáo), doi_tuong 'các báo cáo'. Ca khó: có thể coi chỉ là điều chỉnh chế độ báo cáo. Các văn bản khác chỉ được dẫn (căn cứ, thực hiện)."
+ },
+ {
+  "doc_id": "63257",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn trả lời; chỉ dẫn Thông tư 68/2001/TT-BTC, không có tác động."
+ },
+ {
+  "doc_id": "113163",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn trả lời; chỉ dẫn công văn 5588/BTC-TCT, 7250/BTC-TCT."
+ },
+ {
+  "doc_id": "192120",
+  "relations": [
+   {
+    "source_path": "Điều 5",
+    "action": "thay-the",
+    "target_document": "50/2006/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này thay thế Quyết định số 50/2006/QĐ-UBND ngày 21/3/2006 của UBND tỉnh"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": ""
+ },
+ {
+  "doc_id": "403925",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Kế hoạch; 'Rà soát, điều chỉnh, bổ sung Quy hoạch...' là giao nhiệm vụ, không phải quan hệ."
+ },
+ {
+  "doc_id": "330045",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Phê duyệt kế hoạch; chỉ dẫn QĐ 468/QĐ-TTg, 1472/QĐ-BYT, 3382/QĐ-BYT."
+ },
+ {
+  "doc_id": "199973",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 7 Quy định: đơn vị khoán theo QĐ 192/2001/QĐ-TTg thực hiện theo quy định này; không tuyên bố tác động lên văn bản đó."
+ },
+ {
+  "doc_id": "274005",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Kế hoạch kiểm tra; không có tác động."
+ },
+ {
+  "doc_id": "297076",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn chuyển công văn 2171/TĐC-QLCL; không có tác động."
+ },
+ {
+  "doc_id": "131541",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn trả lời; không có tác động."
+ },
+ {
+  "doc_id": "247519",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Chỉ thị; chỉ dẫn các chỉ thị, quyết định, thông tư để thực hiện, không có tác động."
+ },
+ {
+  "doc_id": "268499",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Thay đổi thành viên Hội đồng (nhân sự); không nêu văn bản đích."
+ },
+ {
+  "doc_id": "629139",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Kế hoạch; 'chủ động sửa đổi, bổ sung nhiệm vụ' là giao nhiệm vụ, không nêu văn bản đích."
+ }
+]
