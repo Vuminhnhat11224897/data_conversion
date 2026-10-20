@@ -1,0 +1,197 @@
+{
+  "settings": {
+    "number_of_shards": 1,
+    "number_of_replicas": 0,
+    "analysis": {
+      "analyzer": {
+        "vi_std": {
+          "type": "standard",
+          "max_token_length": "255"
+        }
+      }
+    }
+  },
+  "mappings": {
+    "_meta": {
+      "created": "2026-10-09",
+      "contract": "v3",
+      "copied_mapping_from": "legal-docs"
+    },
+    "properties": {
+      "action": {
+        "type": "keyword"
+      },
+      "can_cu": {
+        "type": "object",
+        "enabled": false
+      },
+      "can_cu_refs": {
+        "type": "keyword"
+      },
+      "content_sha256": {
+        "type": "keyword"
+      },
+      "document_number": {
+        "type": "keyword"
+      },
+      "embedding": {
+        "type": "dense_vector",
+        "dims": 1024,
+        "index": true,
+        "similarity": "cosine"
+      },
+      "full_content": {
+        "type": "text",
+        "analyzer": "vi_std"
+      },
+      "grade": {
+        "type": "keyword"
+      },
+      "has_tail": {
+        "type": "boolean"
+      },
+      "ingest_job_id": {
+        "type": "keyword"
+      },
+      "ingest_revision": {
+        "type": "integer"
+      },
+      "ingested_at": {
+        "type": "date"
+      },
+      "intro": {
+        "type": "text",
+        "analyzer": "vi_std"
+      },
+      "issuance_date": {
+        "type": "date",
+        "format": "yyyy-MM-dd"
+      },
+      "issuing_authority": {
+        "type": "keyword"
+      },
+      "legal_sectors": {
+        "type": "keyword"
+      },
+      "legal_type": {
+        "type": "keyword"
+      },
+      "n_dieu": {
+        "type": "integer"
+      },
+      "noi_nhan": {
+        "type": "object",
+        "enabled": false
+      },
+      "origin": {
+        "type": "keyword"
+      },
+      "pdf_minio_path": {
+        "type": "keyword"
+      },
+      "pdf_vbpl_id": {
+        "type": "keyword"
+      },
+      "phu_luc": {
+        "type": "object",
+        "enabled": false
+      },
+      "signers": {
+        "type": "keyword",
+        "index": false
+      },
+      "text_source": {
+        "type": "keyword"
+      },
+      "title": {
+        "type": "text",
+        "analyzer": "vi_std"
+      },
+      "tom_tat": {
+        "type": "text",
+        "analyzer": "vi_std"
+      },
+      "uploaded_by": {
+        "type": "keyword"
+      },
+      "url": {
+        "type": "keyword",
+        "index": false
+      },
+      "ngay_hieu_luc": {
+        "type": "date",
+        "format": "yyyy-MM-dd"
+      },
+      "ngay_hieu_luc_cach": {
+        "type": "keyword"
+      },
+      "ngay_hieu_luc_trich": {
+        "type": "keyword",
+        "index": false
+      },
+      "la_vbqppl": {
+        "type": "boolean"
+      },
+      "la_vbqppl_cach": {
+        "type": "keyword"
+      },
+      "cap_hieu_luc": {
+        "type": "integer"
+      },
+      "cap_hieu_luc_nhan": {
+        "type": "keyword"
+      },
+      "cap_hieu_luc_ghi_chu": {
+        "type": "keyword"
+      },
+      "ngay_het_hieu_luc": {
+        "type": "date",
+        "format": "yyyy-MM-dd"
+      },
+      "ngay_het_hieu_luc_cach": {
+        "type": "keyword"
+      },
+      "ngay_het_hieu_luc_trich": {
+        "type": "keyword",
+        "index": false
+      },
+      "hoi_to": {
+        "type": "boolean"
+      },
+      "ngay_hoi_to": {
+        "type": "date",
+        "format": "yyyy-MM-dd"
+      },
+      "ngay_hoi_to_trich": {
+        "type": "keyword",
+        "index": false
+      },
+      "hoi_to_vi_tri": {
+        "type": "keyword"
+      },
+      "ngay_hieu_luc_so_ngay": {
+        "type": "integer"
+      },
+      "hieu_luc_rieng": {
+        "properties": {
+          "vi_tri": {
+            "type": "keyword"
+          },
+          "ngay_hieu_luc": {
+            "type": "date"
+          },
+          "ngay_hieu_luc_cach": {
+            "type": "keyword"
+          },
+          "ngay_hieu_luc_so_ngay": {
+            "type": "integer"
+          },
+          "ngay_hieu_luc_trich": {
+            "type": "keyword",
+            "index": false
+          }
+        }
+      }
+    }
+  }
+}

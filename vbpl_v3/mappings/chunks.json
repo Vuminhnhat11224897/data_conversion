@@ -1,0 +1,184 @@
+{
+  "settings": {
+    "number_of_shards": 4,
+    "number_of_replicas": 0,
+    "analysis": {
+      "analyzer": {
+        "vi_std": {
+          "type": "standard",
+          "max_token_length": "255"
+        }
+      }
+    }
+  },
+  "mappings": {
+    "_meta": {
+      "created": "2026-10-09",
+      "contract": "v3",
+      "copied_mapping_from": "legal-chunk-section-v2"
+    },
+    "properties": {
+      "action": {
+        "type": "keyword"
+      },
+      "chunk_type": {
+        "type": "keyword"
+      },
+      "chuong": {
+        "type": "text",
+        "analyzer": "vi_std"
+      },
+      "dieu_uid": {
+        "type": "keyword"
+      },
+      "doc_id": {
+        "type": "keyword"
+      },
+      "document_number": {
+        "type": "keyword"
+      },
+      "embedding": {
+        "type": "dense_vector",
+        "dims": 1024,
+        "index": true,
+        "similarity": "cosine"
+      },
+      "has_table": {
+        "type": "boolean"
+      },
+      "in_phu_luc": {
+        "type": "boolean"
+      },
+      "ingest_job_id": {
+        "type": "keyword"
+      },
+      "ingest_revision": {
+        "type": "integer"
+      },
+      "ingested_at": {
+        "type": "date"
+      },
+      "is_full": {
+        "type": "boolean"
+      },
+      "issuance_date": {
+        "type": "date",
+        "format": "yyyy-MM-dd"
+      },
+      "issuing_authority": {
+        "type": "keyword"
+      },
+      "khoan_uid": {
+        "type": "keyword"
+      },
+      "ky_hieu_dieu": {
+        "type": "keyword"
+      },
+      "ky_hieu_khoan": {
+        "type": "keyword"
+      },
+      "legal_sectors": {
+        "type": "keyword"
+      },
+      "legal_type": {
+        "type": "keyword"
+      },
+      "muc_lon": {
+        "type": "text",
+        "analyzer": "vi_std"
+      },
+      "noi_dung": {
+        "type": "text",
+        "analyzer": "vi_std"
+      },
+      "origin": {
+        "type": "keyword"
+      },
+      "phu_luc_tieu_de": {
+        "type": "text",
+        "analyzer": "vi_std"
+      },
+      "segment": {
+        "type": "integer"
+      },
+      "signers": {
+        "type": "keyword",
+        "index": false
+      },
+      "so_diem": {
+        "type": "keyword"
+      },
+      "so_dieu": {
+        "type": "integer"
+      },
+      "so_khoan": {
+        "type": "integer"
+      },
+      "so_muc": {
+        "type": "keyword"
+      },
+      "so_van_ban_refs": {
+        "type": "keyword"
+      },
+      "tieu_de": {
+        "type": "text",
+        "analyzer": "vi_std"
+      },
+      "title": {
+        "type": "text",
+        "analyzer": "vi_std"
+      },
+      "uploaded_by": {
+        "type": "keyword"
+      },
+      "url": {
+        "type": "keyword",
+        "index": false
+      },
+      "dan_chieu": {
+        "properties": {
+          "loai": {
+            "type": "keyword"
+          },
+          "vi_tri": {
+            "type": "keyword"
+          },
+          "van_ban": {
+            "type": "keyword"
+          },
+          "target_id": {
+            "type": "integer"
+          },
+          "trich": {
+            "type": "keyword",
+            "index": false
+          }
+        }
+      },
+      "so_doan": {
+        "type": "integer"
+      },
+      "diem_uid": {
+        "type": "keyword"
+      },
+      "so_tieu_diem": {
+        "type": "integer"
+      },
+      "ngay_hieu_luc": {
+        "type": "date"
+      },
+      "ngay_hieu_luc_cach": {
+        "type": "keyword"
+      },
+      "ngay_hieu_luc_so_ngay": {
+        "type": "integer"
+      },
+      "ngay_hieu_luc_rieng": {
+        "type": "boolean"
+      },
+      "ngay_hoi_to": {
+        "type": "date"
+      }
+    }
+  }
+}

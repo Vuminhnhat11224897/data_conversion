@@ -1,0 +1,221 @@
+{
+  "settings": {
+    "number_of_shards": 1,
+    "number_of_replicas": 0,
+    "analysis": {
+      "analyzer": {
+        "vi_std": {
+          "type": "standard",
+          "max_token_length": "255"
+        }
+      }
+    }
+  },
+  "mappings": {
+    "_meta": {
+      "created": "2026-10-09",
+      "contract": "v3",
+      "copied_mapping_from": "legal-changed-v2"
+    },
+    "properties": {
+      "action": {
+        "type": "keyword"
+      },
+      "detection_mode": {
+        "type": "text",
+        "fields": {
+          "keyword": {
+            "type": "keyword",
+            "ignore_above": 256
+          }
+        }
+      },
+      "ingest_job_id": {
+        "type": "keyword"
+      },
+      "ingest_revision": {
+        "type": "integer"
+      },
+      "ingested_at": {
+        "type": "date"
+      },
+      "inherited_from_v1": {
+        "type": "boolean"
+      },
+      "llm_hallucination_rejected": {
+        "type": "boolean"
+      },
+      "llm_refined": {
+        "type": "boolean"
+      },
+      "origin": {
+        "type": "keyword"
+      },
+      "scope": {
+        "type": "text",
+        "fields": {
+          "keyword": {
+            "type": "keyword",
+            "ignore_above": 1024
+          }
+        },
+        "analyzer": "vi_std"
+      },
+      "scope_grounding_checked": {
+        "type": "boolean"
+      },
+      "scope_grounding_correct": {
+        "type": "boolean"
+      },
+      "scope_grounding_suggestion": {
+        "type": "text",
+        "fields": {
+          "keyword": {
+            "type": "keyword",
+            "ignore_above": 256
+          }
+        }
+      },
+      "scope_resolution_method": {
+        "type": "keyword"
+      },
+      "source_action": {
+        "type": "keyword"
+      },
+      "source_document_number": {
+        "type": "keyword"
+      },
+      "source_id": {
+        "type": "integer"
+      },
+      "source_in_phu_luc": {
+        "type": "boolean"
+      },
+      "source_issuance_date": {
+        "type": "date",
+        "format": "yyyy-MM-dd||dd/MM/yyyy",
+        "ignore_malformed": true
+      },
+      "source_issuing_authority": {
+        "type": "keyword"
+      },
+      "source_legal_sectors": {
+        "type": "keyword"
+      },
+      "source_legal_type": {
+        "type": "keyword"
+      },
+      "source_path": {
+        "type": "keyword"
+      },
+      "source_title": {
+        "type": "text",
+        "fields": {
+          "keyword": {
+            "type": "keyword",
+            "ignore_above": 512
+          }
+        },
+        "analyzer": "vi_std"
+      },
+      "source_url": {
+        "type": "keyword",
+        "index": false
+      },
+      "target_candidates_count": {
+        "type": "integer"
+      },
+      "target_doc": {
+        "type": "keyword"
+      },
+      "target_issuance_date": {
+        "type": "date",
+        "format": "yyyy-MM-dd"
+      },
+      "target_issuing_authority": {
+        "type": "keyword"
+      },
+      "target_matched_id": {
+        "type": "integer"
+      },
+      "unresolved": {
+        "type": "boolean"
+      },
+      "uploaded_by": {
+        "type": "keyword"
+      },
+      "source_ngay_hieu_luc": {
+        "type": "date",
+        "format": "yyyy-MM-dd"
+      },
+      "hieu_luc_tac_dong": {
+        "type": "keyword"
+      },
+      "vi_tri": {
+        "type": "keyword"
+      },
+      "cum_tu": {
+        "properties": {
+          "cu": {
+            "type": "keyword"
+          },
+          "moi": {
+            "type": "keyword"
+          },
+          "vi_tri": {
+            "type": "keyword"
+          }
+        }
+      },
+      "dinh_chi_tu_ngay": {
+        "type": "date",
+        "format": "yyyy-MM-dd"
+      },
+      "dinh_chi_den_ngay": {
+        "type": "date",
+        "format": "yyyy-MM-dd"
+      },
+      "dinh_chi_den_khi": {
+        "type": "keyword"
+      },
+      "gia_han_den_ngay": {
+        "type": "date",
+        "format": "yyyy-MM-dd"
+      },
+      "gia_han_den_khi": {
+        "type": "keyword"
+      },
+      "cap_quan_he": {
+        "type": "keyword"
+      },
+      "doi_tuong": {
+        "type": "keyword"
+      },
+      "kem_theo": {
+        "type": "boolean"
+      },
+      "target_match_note": {
+        "type": "keyword"
+      },
+      "source_ngay_hoi_to": {
+        "type": "date",
+        "format": "yyyy-MM-dd"
+      },
+      "resolution_status": {
+        "type": "keyword"
+      },
+      "resolution_reason": {
+        "type": "keyword"
+      },
+      "evidence": {
+        "type": "text"
+      },
+      "extraction": {
+        "type": "keyword"
+      },
+      "target_section": {
+        "type": "keyword"
+      }
+    }
+  }
+}
