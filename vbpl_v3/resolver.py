@@ -23,6 +23,24 @@ LAW = re.compile(r'(Bộ\s+luật|Luật|Pháp\s+lệnh)\s+(?!này\b|số\b)\S')
 
 # Numbers written "number-type/body" (party and old government documents): "38-HD/BTCTW", "20-CT/TW", "481-TTg".
 DASHED = re.compile(r'(?<![\w/-])\d{1,6}-[A-ZĐ][A-Za-zĐđ]{1,9}(?:/[A-ZĐ][A-ZĐa-zđ0-9-]*)?(?![\w-])')
+# Q12 (20/10/2026): an act on administrative procedures, not on the document text. The edge still goes to the document that published
+# them; doi_tuong_loai tells the two apart, and ma_thu_tuc keeps the national procedure code ("1.008698") a row states.
+PROCEDURE = re.compile(r'thủ\s+tục\s+hành\s+chính|\bTTHC\b|^\s*(?:các\s+|\d+\s+|\(\d+\)\s+)*thủ\s+tục\b', re.I)
+PROCEDURE_CODE = re.compile(r'(?<![\d.])\d\.\d{6}(?![\d.])')
+
+
+TYPE_ONLY = re.compile(r'(?:toàn\s+bộ\s+|cả\s+)?(?:các\s+)?(?:văn\s+bản|Quyết\s+định|Nghị\s+định|Nghị\s+quyết|Thông\s+tư(?:\s+liên\s+tịch)?|Chỉ\s+thị'
+                       r'|Luật|Pháp\s+lệnh|Công\s+văn|Kế\s+hoạch)(?:\s+(?:này|đó|trên|số))?\.?', re.I)
+
+
+def object_kind(named, heading='', row=False):
+    """'thu_tuc_hanh_chinh' when the part acted on is a procedure: the part is named as one ("107 thủ tục hành chính", "Thủ tục thẩm
+    định …"), or the act is a row of a list of procedures (the appendix title or the heading above the row says so); else 'van_ban'."""
+    if PROCEDURE.search(named or '') or (row and PROCEDURE.search(heading or '')):
+        return 'thu_tuc_hanh_chinh'
+    return 'van_ban'
+
+
 
 
 def target_of(text):
@@ -95,3 +113,9 @@ def resolve_row(row):
     elif row['action'] == 'gia-han':
         out.update(extension(unit))
     return out
+    row_unit = ' STT ' in row['source_path']
+    out['doi_tuong_loai'] = object_kind(out.get('doi_tuong'), lead + ' ' + row['_context'].get('ten_dieu', ''), row_unit)
+    if out['doi_tuong_loai'] == 'thu_tuc_hanh_chinh':
+        code = PROCEDURE_CODE.search(unit if row_unit else row['evidence'])
+        if code:
+            out['ma_thu_tuc'] = code.group()

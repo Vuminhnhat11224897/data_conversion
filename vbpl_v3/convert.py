@@ -17,7 +17,7 @@ from .legal_status import expiry, normative, provision_effects, rank, retroactiv
 from .references import amended_targets, guidance, law_by_name, law_named, link_references
 from .extract import extract
 from .relations import consolidation, detect, lookup_numbers, resolve, row_holders, stamp
-from .resolver import resolve_row
+from .resolver import object_kind, resolve_row
 from .text import language, number_key
 from .validate import validate
 from .structure import APPENDIX, NUMBER, appendix_label, build_chunks, normalize
@@ -66,6 +66,8 @@ def settle(row):
     about the whole document waits for review, whichever path read it (in llm mode a rule relation the QA kept has no status check)."""
     row['cap_quan_he'] = level(row)
     row.setdefault('extraction', 'rules')
+    # A rule relation has no list context: a part named as a procedure is one (Q12).
+    row.setdefault('doi_tuong_loai', object_kind(row.get('doi_tuong')))
     if row['cap_quan_he'] == 'chua_xac_dinh':
         row.update(resolution_status='unresolved', resolution_reason=row.get('resolution_reason') or 'vi_tri_chua_xac_dinh')
     elif 'resolution_status' not in row:
@@ -281,6 +283,9 @@ def model_relations(doc_id, meta, parsed, candidates, root, lookup, provenance, 
                 for record in by_rule[k]:
                     record['_source'].update(extraction='llm+rules', resolution_status='validated', resolution_reason=None,
                                              evidence=row['evidence'], target_section=row['target_section'])
+                    if row.get('doi_tuong_loai') == 'thu_tuc_hanh_chinh':
+                        # The model read the list the act is in; the rule did not (Q12).
+                        record['_source'].update({k: row[k] for k in ('doi_tuong_loai', 'ma_thu_tuc') if k in row})
                     if rule_places <= {'toàn bộ'} and model_places:
                         record['_source'].update(vi_tri=model_places, scope='; '.join(model_places))
                     elif not rule_places and not rule_part and (row.get('doi_tuong') or row.get('vi_tri')):

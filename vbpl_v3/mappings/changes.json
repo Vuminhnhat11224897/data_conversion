@@ -191,6 +191,12 @@
       "doi_tuong": {
         "type": "keyword"
       },
+      "doi_tuong_loai": {
+        "type": "keyword"
+      },
+      "ma_thu_tuc": {
+        "type": "keyword"
+      },
       "kem_theo": {
         "type": "boolean"
       },

@@ -275,19 +275,20 @@ def run(doc_rows, chunks, rels):
         rf'Điều {Y}', rf'khoản {Y} Điều {Y}', rf'điểm {Z} khoản {Y} Điều {Y}', rf'tiểu điểm \d+ điểm {Z} khoản {Y} Điều {Y}',
         rf'tên Điều {Y}', rf'tên Chương {C}', rf'tên Mục \d+(?: Chương {C})?', rf'Chương {C}', rf'Mục \d+(?: Chương {C})?',
         r'Phụ lục', rf'Phụ lục {SYM}', rf'Mục {SYM} Phụ lục(?: {SYM})?', rf'Mục {SYM} Phần {SYM} Phụ lục(?: {SYM})?', 'tên văn bản', 'toàn bộ']) + ')$')
-    SP = re.compile(rf'^(?:(?:Phụ lục \d+ )?(?:Văn bản kèm theo \d+ )?Điều {Y}(?: Khoản {Y}(?: điểm [\wđ.]+)?)?|intro|Tiêu đề|Lời dẫn|Phần đầu|Mục .+|Nội dung)$')
+    SP = re.compile(rf'^(?:(?:Phụ lục \d+ )?(?:Văn bản kèm theo \d+ )?Điều {Y}(?: Khoản {Y}(?: điểm [\wđ.]+)?)?|intro|Tiêu đề|Lời dẫn|Phần đầu|Mục .+|Nội dung'
+                    r'|Phụ lục \d+(?: Mục \S+)?(?: STT \S+)?)$')
     REL_FIELDS = set(['source_id', 'source_document_number', 'source_title', 'source_action', 'source_issuing_authority', 'source_issuance_date',
                       'source_legal_type', 'source_url', 'source_legal_sectors', 'source_path', 'source_in_phu_luc', 'source_ngay_hieu_luc',
                       'source_ngay_hoi_to', 'target_doc', 'target_matched_id', 'target_candidates_count', 'target_issuance_date',
                       'target_issuing_authority', 'target_match_note', 'action', 'scope', 'vi_tri', 'cap_quan_he', 'hieu_luc_tac_dong',
-                      'unresolved', 'doi_tuong', 'kem_theo', 'cum_tu', 'dinh_chi_tu_ngay', 'dinh_chi_den_ngay', 'dinh_chi_den_khi',
+                      'unresolved', 'doi_tuong', 'doi_tuong_loai', 'ma_thu_tuc', 'kem_theo', 'cum_tu', 'dinh_chi_tu_ngay', 'dinh_chi_den_ngay', 'dinh_chi_den_khi',
                       'gia_han_den_ngay', 'gia_han_den_khi', 'detection_mode', 'resolution_status', 'resolution_reason', 'extraction', 'evidence',
                       'target_section', 'scope_resolution_method', 'scope_grounding_checked', 'scope_grounding_correct',
                       'scope_grounding_suggestion', 'llm_refined', 'llm_hallucination_rejected'] + TRACE)
     REL_ALWAYS = ['source_id', 'source_document_number', 'source_title', 'source_action', 'source_issuing_authority', 'source_issuance_date',
                   'source_legal_type', 'source_url', 'source_legal_sectors', 'source_path', 'source_in_phu_luc', 'source_ngay_hieu_luc',
                   'target_doc', 'target_matched_id', 'target_candidates_count', 'action', 'scope', 'vi_tri', 'cap_quan_he', 'hieu_luc_tac_dong',
-                  'unresolved', 'resolution_status', 'extraction'] + TRACE
+                  'unresolved', 'resolution_status', 'extraction', 'doi_tuong_loai'] + TRACE
     extra_rel = Counter()
     numbering = defaultdict(list)
     for r in rels:
@@ -352,6 +353,9 @@ def run(doc_rows, chunks, rels):
         if 'kem_theo' in r or 'doi_tuong' in r:
             rule(f'{S}.5 kem_theo đi cùng doi_tuong', ('kem_theo' in r) == ('doi_tuong' in r), i)
         rule(f'{S}.5 cum_tu ⇔ thay-cum-tu', ('cum_tu' in r) == (a == 'thay-cum-tu'), i)
+        rule(f'{S}.5 doi_tuong_loai là van_ban hoặc thu_tuc_hanh_chinh', r.get('doi_tuong_loai') in ('van_ban', 'thu_tuc_hanh_chinh'), i)
+        if 'ma_thu_tuc' in r:
+            rule(f'{S}.5 ma_thu_tuc chỉ có khi thu_tuc_hanh_chinh', r.get('doi_tuong_loai') == 'thu_tuc_hanh_chinh', i)
         for ct in r.get('cum_tu') or []:
             rule(f'{S}.5 cum_tu cu, moi khác rỗng', bool(ct.get('cu')) and bool(ct.get('moi')), i)
             rule(f'{S}.5 cum_tu[].vi_tri = vi_tri', ct.get('vi_tri') == v, i)
