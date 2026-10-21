@@ -7,7 +7,7 @@ import unittest
 from unittest.mock import patch
 
 from vbpl_v3.relations import detect, lookup_numbers, resolve
-from vbpl_v3.structure import build_chunks, parse
+from vbpl_v3.structure import build_chunks, parse, printed_title, sentence_case
 from vbpl_v3.structure_ai import refine
 
 
@@ -150,3 +150,28 @@ class ParserRegressions(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
+
+
+class PrintedTitle(unittest.TestCase):
+    """Q11 (20/10/2026): relations are read from the title printed in the document, never from the stored `title`."""
+
+    def test_title_block_stops_at_the_issuer(self):
+        # 628298: the stored title adds "29/2020/QĐ-UBND và 11/2021/QĐ-UBND"; the printed one names no number.
+        head = ('ỦY BAN NHÂN DÂN TỈNH BÌNH ĐỊNH | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nSố: 59/2024/QĐ-UBND | Bình Định, ngày 17 tháng 10 năm 2024\n'
+                'QUYẾT ĐỊNH\nBÃI BỎ CÁC QUYẾT ĐỊNH CỦA ỦY BAN NHÂN DÂN TỈNH BÌNH ĐỊNH\nỦY BAN NHÂN DÂN TỈNH BÌNH ĐỊNH')
+        self.assertEqual(printed_title(head), 'QUYẾT ĐỊNH BÃI BỎ CÁC QUYẾT ĐỊNH CỦA ỦY BAN NHÂN DÂN TỈNH BÌNH ĐỊNH')
+
+    def test_letter_subject_and_markup(self):
+        self.assertEqual(printed_title('Số: 2470/TCT-CC V/v Hướng dẫn chính sách thuế đối với Nhà thầu nước ngoài | Hà Nội, ngày 12'),
+                         'Hướng dẫn chính sách thuế đối với Nhà thầu nước ngoài')
+        # 37831: markup left in the source, and a line ending in "CỦA" that goes on with the issuer's name.
+        head = ('QUYẾT ĐỊNH\nVỀ VIỆC SỬA ĐỔI MỨC THU QUỐC DOANH BAN HÀNHxml:namespace prefix = u1 / KÈM THEO QUYẾT ĐỊNH SỐ 188-CT CỦA\n'
+                'CHỦ TỊCH HỘI ĐỒNG BỘ TRƯỞNG\nĐể thực hiện Nghị quyết của Quốc hội;')
+        self.assertEqual(printed_title(head), 'QUYẾT ĐỊNH VỀ VIỆC SỬA ĐỔI MỨC THU QUỐC DOANH BAN HÀNH KÈM THEO QUYẾT ĐỊNH SỐ 188-CT CỦA '
+                                              'CHỦ TỊCH HỘI ĐỒNG BỘ TRƯỞNG')
+        self.assertEqual(printed_title('Số: 12/QĐ-UB | Hà Nội'), '')
+
+    def test_sentence_case_keeps_numbers_and_law_names(self):
+        self.assertEqual(sentence_case('HƯỚNG DẪN THỰC HIỆN NGHỊ ĐỊNH SỐ 31/CP NGÀY 18/5/1996'), 'Hướng dẫn thực hiện Nghị định số 31/CP ngày 18/5/1996')
+        self.assertEqual(sentence_case('QUY ĐỊNH CHI TIẾT MỘT SỐ ĐIỀU CỦA LUẬT ĐẤT ĐAI'), 'Quy định chi tiết một số điều của Luật Đất đai')
+        self.assertEqual(sentence_case('Hướng dẫn chính sách thuế'), 'Hướng dẫn chính sách thuế')

@@ -12,7 +12,7 @@ import re
 
 from .llm import validated_json
 from .text import action_matches
-from .structure import appendix_label
+from .structure import appendix_label, printed_title
 from .prompts import load
 
 ACTIONS = ['sua-doi', 'bo-sung', 'bai-bo', 'thay-the', 'thay-cum-tu', 'huy-bo', 'dinh-chi', 'ngung-hieu-luc', 'dinh-chinh', 'gia-han',
@@ -311,17 +311,17 @@ def units(parsed):
 
 
 def opening(meta, parsed):
-    """The title and the issuing sentence ("Bộ trưởng … ban hành Thông tư sửa đổi …") as one unit, 'Phần đầu'. The title printed in the
-    document comes first: the stored title is a shortened one that may stop before the number it acts on ("… kèm theo Quyết")."""
-    printed = ' '.join((parsed.get('phan_dau') or '').split())[-1500:]
-    text = '\n'.join(x for x in (printed, meta.get('title') or '', parsed.get('intro') or '') if x)
+    """The printed title and the issuing sentence ("Bộ trưởng … ban hành Thông tư sửa đổi …") as one unit, 'Phần đầu'. Only the
+    printed words count (Q11, 20/10/2026): the stored title is the database's description and states acts the document does not
+    ("Công văn … hướng dẫn chính sách thuế" for a reply to a company); it serves search and matching only."""
+    text = '\n'.join(x for x in (printed_title(parsed.get('phan_dau')), parsed.get('intro') or '') if x)
     return {'source_path': 'Phần đầu', 'cau_dan': '', 'noi_dung': text} if SIGNAL.search(text) else None
 
 
 def extract(doc_id, meta, parsed, folder, caller=None, check=None):
     """All acts the model states, one row per act: {source_path, action, performed, target_document, target_from, target_section,
     target_text, target_part, evidence, _unit, _context}. Answers are cached per call, keyed by the model name."""
-    document = {'so_hieu': meta.get('document_number'), 'loai': meta.get('legal_type'), 'ten': meta.get('title')}
+    document = {'so_hieu': meta.get('document_number'), 'loai': meta.get('legal_type'), 'ten': printed_title(parsed.get('phan_dau'))}
     tables = table_units(parsed)
     calls = []
     for key, context, items in units(parsed) + tables + prose_units(parsed):

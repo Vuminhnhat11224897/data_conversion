@@ -5,7 +5,7 @@ from datetime import date
 import re
 
 from .text import action_matches, authority_key, catalog_authority_key, list_tail, number_key
-from .structure import NUMBER, refs
+from .structure import NUMBER, printed_title, refs
 from .temporal import DATE, IN_APPENDIX, SECTION, SUB_POINT, SUSPENSIONS, extension, levels, ordinal, phrase_change, positions, stated_positions, suspension
 
 
@@ -307,7 +307,8 @@ LETTER_ACTIONS={'dinh-chinh','ngung-hieu-luc','gia-han'}
 
 def detect(doc_id,meta,parsed):
     if meta.get('legal_type')=='Văn bản hợp nhất':return []
-    candidates=[];title_actions=action_matches(meta.get('title',''))
+    # The printed title, not the stored one (Q11, 20/10/2026).
+    candidates=[];title_actions=action_matches(printed_title(parsed.get('phan_dau')))
     correction=any(a=='dinh-chinh' for _,_,a in title_actions)
     def add(target,action,path,text,scope_text,mode='',extra_scope=None,in_appendix=False,unit_text=None,parent_text='',stated=False):
         value,unresolved=scope(scope_text)

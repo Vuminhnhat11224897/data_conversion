@@ -98,7 +98,8 @@ class MissedForms(unittest.TestCase):
                          {'45/2013/QH13'})
 
     def test_correction_keeps_its_act_and_names(self):
-        parsed, _ = parse('Điều 1. Đính chính Quyết định số 28/2017/QĐ-UBND\n1. Tại khoản 2 Điều 6, bỏ cụm từ “và”.\n2. Sửa tên gọi của Chương III.')
+        parsed, _ = parse('QUYẾT ĐỊNH\nĐÍNH CHÍNH QUYẾT ĐỊNH 28/2017/QĐ-UBND\n'
+                          'Điều 1. Đính chính Quyết định số 28/2017/QĐ-UBND\n1. Tại khoản 2 Điều 6, bỏ cụm từ “và”.\n2. Sửa tên gọi của Chương III.')
         rows = detect(1, {**META, 'title': 'Quyết định đính chính Quyết định 28/2017/QĐ-UBND'}, parsed)
         self.assertEqual({r['action'] for r in rows}, {'dinh-chinh'})
         self.assertEqual(scope('Sửa tên gọi của Chương III như sau')[0], 'tên Chương III')
@@ -272,7 +273,7 @@ class RoundFourReview(unittest.TestCase):
 
     def test_guided_provision_before_the_number(self):
         # 217132: "… hướng dẫn thực hiện xóa nợ … của Điều 55 Nghị định số 83/2013/NĐ-CP".
-        parsed, _ = parse('Bộ trưởng Bộ Tài chính ban hành Thông tư hướng dẫn thực hiện xóa nợ tiền thuế phát sinh trước ngày 01 tháng 7 năm 2007 '
+        parsed, _ = parse('THÔNG TƯ\nHƯỚNG DẪN THỰC HIỆN XÓA NỢ TIỀN THUẾ\nBộ trưởng Bộ Tài chính ban hành Thông tư hướng dẫn thực hiện xóa nợ tiền thuế phát sinh trước ngày 01 tháng 7 năm 2007 '
                           'của Điều 55 Nghị định số 83/2013/NĐ-CP ngày 22 tháng 7 năm 2013 nêu trên.\nĐiều 1. Phạm vi\nNội dung.\nĐiều 2. Hiệu lực\nA.')
         rows = guidance(9, {**META, 'title': 'Thông tư hướng dẫn thực hiện xóa nợ tiền thuế'}, parsed, lambda numbers: [], lambda name, day: None)
         self.assertEqual([(r['source_path'], r['target_doc'], r['scope']) for r in rows], [('Lời dẫn', '83/2013/NĐ-CP', 'Điều 55')])
@@ -367,8 +368,8 @@ class ConsolidationAndGuidance(unittest.TestCase):
         self.assertEqual(detect(589448, meta, parsed), [])  # its notes restate other acts; it performs none
 
     def test_guidance_keeps_the_provisions_it_names(self):
-        meta = {**META, 'title': 'Nghị định quy định chi tiết khoản 3 Điều 25 và Điều 30 của Luật Đất đai số 31/2024/QH15'}
-        rows = guidance(1, meta, {'intro': '', 'can_cu': []}, lambda numbers: [], lambda name, day: None)
+        head = 'NGHỊ ĐỊNH\nQUY ĐỊNH CHI TIẾT KHOẢN 3 ĐIỀU 25 VÀ ĐIỀU 30 CỦA LUẬT ĐẤT ĐAI SỐ 31/2024/QH15'
+        rows = guidance(1, META, {'phan_dau': head, 'intro': '', 'can_cu': []}, lambda numbers: [], lambda name, day: None)
         self.assertEqual([(r['action'], r['target_doc'], r['scope']) for r in rows],
                          [('quy-dinh-chi-tiet', '31/2024/QH15', 'khoản 3 Điều 25; Điều 30')])
 

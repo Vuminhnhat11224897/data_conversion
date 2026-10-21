@@ -84,7 +84,7 @@ class QuotedReferencesAndPassages(unittest.TestCase):
     def test_this_document_inside_quoted_new_text_is_the_amended_one(self):
         meta = {'document_number': '08/2016/TT-NHNN', 'title': 'Thông tư sửa đổi Thông tư 19/2013/TT-NHNN', 'action': 'sua-doi',
                 'legal_type': 'Thông tư', 'issuing_authority': 'Ngân hàng Nhà nước', 'issuance_date': '2016-06-16', 'legal_sectors': []}
-        parsed, _ = parse('Điều 1. Sửa đổi, bổ sung một số điều của Thông tư số 19/2013/TT-NHNN\n'
+        parsed, _ = parse('THÔNG TƯ\nSỬA ĐỔI THÔNG TƯ 19/2013/TT-NHNN\nĐiều 1. Sửa đổi, bổ sung một số điều của Thông tư số 19/2013/TT-NHNN\n'
                           '1. Bổ sung Điều 15a vào sau Điều 15 như sau:\n“Điều 15a. Gia hạn\n'
                           '1. Theo quy định tại Điều 17b Thông tư này và khoản 2 Điều này.\n2. Nội dung.”\n'
                           '2. Theo quy định tại Điều 3 Thông tư này, đơn vị báo cáo.')

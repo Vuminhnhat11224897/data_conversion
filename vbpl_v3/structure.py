@@ -647,6 +647,58 @@ def build_chunks(doc_id, metadata, parsed):
     return chunks
 
 
+# The type line that opens the printed title ("QUYẾT ĐỊNH", "THÔNG TƯ LIÊN TỊCH", "NGHỊ QUYẾT VỀ …").
+TITLE_TYPE = re.compile(r'^(?:BỘ\s+LUẬT|LUẬT|PHÁP\s+LỆNH|LỆNH|HIẾN\s+PHÁP|SẮC\s+LỆNH|NGHỊ\s+ĐỊNH|NGHỊ\s+QUYẾT(?:\s+LIÊN\s+TỊCH)?'
+                        r'|THÔNG\s+TƯ(?:\s+LIÊN\s+TỊCH)?|THÔNG\s+TRI|QUYẾT\s+ĐỊNH|CHỈ\s+THỊ|VĂN\s+BẢN\s+HỢP\s+NHẤT|KẾ\s+HOẠCH|THÔNG\s+BÁO'
+                        r'|HƯỚNG\s+DẪN|QUY\s+ĐỊNH|QUY\s+CHẾ|ĐIỀU\s+LỆ|CHƯƠNG\s+TRÌNH|ĐỀ\s+ÁN|BÁO\s+CÁO|CÔNG\s+ĐIỆN)\b')
+# A line that names the issuer above the issuing sentence ("ỦY BAN NHÂN DÂN TỈNH BÌNH ĐỊNH", "CHỦ TỊCH HỘI ĐỒNG BỘ TRƯỞNG") ends the title.
+TITLE_ISSUER = re.compile(r'^(?:ỦY\s+BAN|UỶ\s+BAN|UBND|HỘI\s+ĐỒNG|CHÍNH\s+PHỦ|THỦ\s+TƯỚNG|BỘ\s+TRƯỞNG|CHỦ\s+TỊCH|QUỐC\s+HỘI|TỔNG\s+CỤC\s+TRƯỞNG'
+                          r'|CỤC\s+TRƯỞNG|GIÁM\s+ĐỐC|THỐNG\s+ĐỐC|VIỆN\s+TRƯỞNG|CHÁNH\s+ÁN|TỔNG\s+KIỂM\s+TOÁN|BAN\s+CHẤP\s+HÀNH|BỘ\s+CHÍNH\s+TRỊ'
+                          r'|TRƯỞNG\s+BAN|BAN\s+THƯỜNG\s+VỤ)\b')
+
+
+def printed_title(head):
+    """The title printed in the document (Q11, 20/10/2026), from the lines above the legal basis (parse()['phan_dau']).
+    The stored `title` is the database's own description ("… bãi bỏ các Quyết định 29/2020/QĐ-UBND và 11/2021/QĐ-UBND",
+    "Nghị định 31/CP-1996"): relations are read from the printed words only. A letter's title is its "V/v …" line.
+    '' when the opening has no title the parser can read."""
+    # "BAN HÀNHxml:namespace prefix = u1 / KÈM THEO …": markup left in some old source texts.
+    head = re.sub(r'xml:namespace\s+prefix\s*=\s*\w+\s*/', ' ', head or '')
+    lines = [' '.join(line.split()) for line in head.splitlines() if line.strip()]
+    for line in lines:
+        subject = re.search(r'\b(?:V/v|V/V|Về\s+việc)\s*[.:]?\s*([^|]+)', line)
+        if subject and not TITLE_TYPE.match(line):
+            return subject[1].strip(' .;')
+    for n, line in enumerate(lines):
+        if '|' in line or not TITLE_TYPE.match(line):
+            continue
+        title = [line]
+        for following in lines[n + 1:n + 7]:
+            # "… KÈM THEO QUYẾT ĐỊNH SỐ 188-CT CỦA" / "CHỦ TỊCH HỘI ĐỒNG BỘ TRƯỞNG": a line ending in "của", "và" goes on.
+            open_end = re.search(r'\b(?:CỦA|VÀ)$', title[-1])
+            if '|' in following or (TITLE_ISSUER.match(following) and not open_end) \
+                    or not (following.isupper() or following.startswith(('(', 'Về', 'về'))):
+                break
+            title.append(following)
+        return ' '.join(title)[:700].strip(' .;')
+    return ''
+
+
+DOCUMENT_WORDS = re.compile(r'\b(bộ luật|luật|pháp lệnh|hiến pháp|nghị định|nghị quyết|thông tư|quyết định|chỉ thị)\b')
+
+
+def sentence_case(text):
+    """'HƯỚNG DẪN THỰC HIỆN NGHỊ ĐỊNH SỐ 31/CP' -> 'Hướng dẫn thực hiện Nghị định số 31/CP', for rules written on stored titles
+    ("Luật Đất đai" is a law named by name only when "Luật" and the name are capitalized). Numbers keep their case."""
+    letters = [c for c in text if c.isalpha()]
+    if not letters or sum(c.isupper() for c in letters) < 0.8 * len(letters):
+        return text
+    words = [w if re.search(r'\d', w) else w.lower() for w in text.split()]
+    out = DOCUMENT_WORDS.sub(lambda m: m[1][0].upper() + m[1][1:], ' '.join(words))
+    out = re.sub(r'\b(Bộ luật|Luật|Pháp lệnh)\s+(\w)', lambda m: m[1] + ' ' + m[2].upper(), out)
+    return out[:1].upper() + out[1:]
+
+
 def appendix_label(part):
     """'PHỤ LỤC SỐ 01 …' -> '01', 'PHỤ LỤC II' -> 'II'; unlabeled attached documents have none."""
     match = APPENDIX.match(part.get('tieu_de') or '') if part.get('loai') == 'labeled' else None

@@ -3,7 +3,7 @@
 import re
 
 from .relations import DOCUMENT_TYPE, lookup_numbers, resolve
-from .structure import NUMBER
+from .structure import NUMBER, printed_title, sentence_case
 from .temporal import DATE, positions, to_date
 from .text import action_matches, number_key
 
@@ -69,7 +69,8 @@ def law_named(source, index, name, before):
 def guidance(doc_id, meta, parsed, lookup, law_lookup):
     """Title-declared guidance ("Thông tư hướng dẫn Nghị định X", "Nghị định quy định chi tiết Luật Y") as relation candidates.
     Only a title or preamble that names the guided document counts; a line of the legal basis is a citation, not a guidance act."""
-    title = re.sub(r'\s+do\s+[^,;]*ban\s+hành\s*$', '', meta.get('title') or '')
+    # The printed title (Q11, 20/10/2026), in sentence case for the rules below ("Luật Đất đai" needs its capitals).
+    title = sentence_case(printed_title(parsed.get('phan_dau')))
     verb = GUIDE.search(title)
     if not verb or meta.get('legal_type') in ('Công văn', 'Văn bản hợp nhất') or action_matches(title[:verb.start()]):
         return []  # "sửa đổi Thông tư X hướng dẫn Nghị định Y": Y is guided by X, not by this document
@@ -124,7 +125,7 @@ def guidance(doc_id, meta, parsed, lookup, law_lookup):
                 'source_issuance_date': meta.get('issuance_date'), 'source_legal_type': meta.get('legal_type'),
                 'source_legal_sectors': ', '.join(meta.get('legal_sectors') or []), 'source_url': meta.get('url')}
     for number in dict.fromkeys(numbers):
-        candidate = {**row(), 'target_doc': re.sub(r'\s+', '', number), '_evidence': meta.get('title') or ''}
+        candidate = {**row(), 'target_doc': re.sub(r'\s+', '', number), '_evidence': title}
         resolve(candidate, lookup(lookup_numbers([candidate['target_doc']])))
         candidate.pop('_evidence')
         rows.append(candidate)
@@ -214,7 +215,7 @@ def link_references(chunks, doc_id, meta, parsed, lookup, law_lookup, amended=No
     """Attach dan_chieu to each chunk; external targets are resolved once per document.
     amended (from amended_targets) re-targets "… này" inside quoted new text to the document being amended."""
     numbers, names = set(), set()
-    amending = bool(action_matches(meta.get('title') or ''))  # bare positions in an amending text belong to the amended document
+    amending = bool(action_matches(printed_title(parsed.get('phan_dau'))))  # bare positions in an amending text belong to the amended document
     for chunk in chunks:
         refs = cross_references(chunk['_source'], implicit=not amending)
         chunk['_refs'] = refs

@@ -123,7 +123,9 @@ class CorrectionHaltExtensionCheck(unittest.TestCase):
         self.assertEqual(rows['Điều 1 Khoản 3']['vi_tri'], ['khoản 2 Điều 20', 'khoản 3 Điều 20'])
 
     def test_detected_halt_keeps_intro_relation(self):
-        parsed, _ = parse('Thống đốc ban hành Thông tư quy định ngưng hiệu lực thi hành khoản 11 Điều 4 Thông tư số 16/2021/TT-NHNN.\n'
+        parsed, _ = parse('THÔNG TƯ\nQUY ĐỊNH NGƯNG HIỆU LỰC THI HÀNH KHOẢN 11 ĐIỀU 4 THÔNG TƯ 16/2021/TT-NHNN\n'
+                          'Căn cứ Luật Ngân hàng Nhà nước Việt Nam;\n'
+                          'Thống đốc ban hành Thông tư quy định ngưng hiệu lực thi hành khoản 11 Điều 4 Thông tư số 16/2021/TT-NHNN.\n'
                           'Điều 1. Ngưng hiệu lực thi hành từ ngày 24 tháng 4 năm 2023 đến hết ngày 31 tháng 12 năm 2023 '
                           'đối với quy định tại khoản 11 Điều 4 Thông tư số 16/2021/TT-NHNN.\n'
                           'Điều 2. Thông tư này có hiệu lực từ ngày 24 tháng 4 năm 2023.')
@@ -152,17 +154,24 @@ class ReferenceCheck(unittest.TestCase):
         hit = {'_id': '500', '_source': {'document_number': '06/2021/NĐ-CP', 'issuance_date': '2021-01-26', 'issuing_authority': 'Chính phủ'}}
         meta = {**META, 'title': 'Thông tư 10/2026/TT-BXD hướng dẫn Nghị định 06/2021/NĐ-CP do Bộ trưởng Bộ Xây dựng ban hành',
                 'document_number': '10/2026/TT-BXD'}
-        rows = guidance('900', meta, {'can_cu': []}, lambda numbers: [hit], lambda name, day: None)
+        rows = guidance('900', meta, {'phan_dau': 'THÔNG TƯ\nHƯỚNG DẪN NGHỊ ĐỊNH 06/2021/NĐ-CP', 'can_cu': []}, lambda numbers: [hit], lambda name, day: None)
         self.assertEqual([(r['action'], r['target_doc'], r['target_matched_id']) for r in rows], [('huong-dan', '06/2021/NĐ-CP', 500)])
         law = {'_id': '77', '_source': {}}
         meta = {**META, 'title': 'Nghị định quy định chi tiết một số điều của Luật Đất đai'}
-        rows = guidance('901', meta, {'can_cu': ['Căn cứ Luật Đất đai ngày 29 tháng 11 năm 2013;']}, lambda n: [],
+        rows = guidance('901', meta, {'phan_dau': 'NGHỊ ĐỊNH\nQUY ĐỊNH CHI TIẾT MỘT SỐ ĐIỀU CỦA LUẬT ĐẤT ĐAI',
+                                      'can_cu': ['Căn cứ Luật Đất đai ngày 29 tháng 11 năm 2013;']}, lambda n: [],
                         lambda name, day: law if (name, day) == ('Đất đai', '2013-11-29') else None)
         self.assertEqual([(r['action'], r['scope'], r['target_doc'], r['target_matched_id']) for r in rows],
                          [('quy-dinh-chi-tiet', 'một số điều', 'Luật Đất đai', 77)])
         # An amending title's "hướng dẫn" describes the amended document, not this one.
         meta = {**META, 'title': 'Thông tư sửa đổi Thông tư 05/2019/TT-BTC hướng dẫn Nghị định 34/2016/NĐ-CP'}
-        self.assertEqual(guidance('902', meta, {'can_cu': []}, lambda n: [hit], lambda name, day: None), [])
+        head = 'THÔNG TƯ\nSỬA ĐỔI THÔNG TƯ 05/2019/TT-BTC HƯỚNG DẪN NGHỊ ĐỊNH 34/2016/NĐ-CP'
+        self.assertEqual(guidance('902', meta, {'phan_dau': head, 'can_cu': []}, lambda n: [hit], lambda name, day: None), [])
+        # Q11 (20/10/2026): a stored title that states guidance the printed title does not ("Công văn … hướng dẫn chính sách thuế",
+        # 144450, a reply to a company) gives no relation.
+        meta = {**META, 'title': 'Công văn 2470/TCT-CC hướng dẫn chính sách thuế đối với Nhà thầu nước ngoài', 'legal_type': 'Quyết định'}
+        self.assertEqual(guidance('903', meta, {'phan_dau': 'Số: 2470/TCT-CC V/v chính sách thuế | Hà Nội', 'can_cu': []},
+                                  lambda n: [hit], lambda name, day: None), [])
 
     def test_cross_references(self):
         chunk = {'noi_dung': 'Thực hiện theo quy định tại khoản 2 Điều này và Điều 5 Luật này; '
