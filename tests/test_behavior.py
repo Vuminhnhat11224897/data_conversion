@@ -155,6 +155,14 @@ class EvidencePieces(unittest.TestCase):
         self.assertEqual([p['text'] for p in found], ['Bãi bỏ các Quyết định sau:', 'Quyết định số 3155/QĐ-UBND ngày 26 tháng 10 năm 2009'])
 
 
+class UnnumberedAppendix(unittest.TestCase):
+    def test_part_of_an_unnumbered_appendix(self):
+        # "Phần I Phụ lục" has no position of the contract: the holder is unknown, the document is still converted.
+        from vbpl_v3.relations import appendix_of
+        self.assertIsNone(appendix_of('Bãi bỏ các thủ tục hành chính tại Phần I Phụ lục ban hành kèm theo Quyết định số 12/2026/QĐ-UBND'))
+        self.assertEqual(appendix_of('tại Phụ lục V ban hành kèm theo Nghị định số 37/2024/NĐ-CP'), 'Phụ lục V')
+
+
 class QuotedWording(unittest.TestCase):
     def test_act_inside_inserted_wording(self):
         text = HEAD + f'Điều 1. Khoản 2 Điều 3 Quyết định số 99/2020/QĐ-UBND được sửa đổi như sau:\n“2. Bãi bỏ {A}.”\n' + TAIL

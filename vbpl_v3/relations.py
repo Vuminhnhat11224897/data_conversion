@@ -285,8 +285,10 @@ def appendix_of(text):
     "… tại Phụ lục V ban hành kèm theo Nghị định số 37/2024/NĐ-CP" -> "Phụ lục V". None when it names none, or several."""
     text=levels(frame(text or ''))
     chain=IN_APPENDIX.search(text)
-    if chain:
-        return positions(chain.group())[0]
+    found=positions(chain.group()) if chain else []
+    if found:
+        return found[0]
+    # "Phần I Phụ lục" names no numbered appendix: no position, so the label check below decides (21/10/2026, 694280).
     labels=set(re.findall(r'phụ\s+lục\s+(?:số\s+)?([IVXLCDM]+|\d+[A-Za-z]?)\b',text,re.I))
     return f'Phụ lục {labels.pop()}' if len(labels)==1 else None
 
