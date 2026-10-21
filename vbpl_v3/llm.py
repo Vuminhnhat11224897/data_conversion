@@ -14,6 +14,10 @@ import requests
 from .config import required
 
 
+class ReplayMiss(RuntimeError):
+    """A strict replay (LLM_REPLAY=strict) asked for an answer that no earlier run stored."""
+
+
 def setting(name, default):
     return float(os.getenv(name, default))
 
@@ -131,6 +135,14 @@ def validated_json(prompt, text, folder, cache_name, validate, attempts=3, schem
             return payload
         except (ValueError, TypeError, KeyError) as exc:
             error = exc
+    if os.environ.get('LLM_REPLAY') == 'strict':
+        # Replay of a finished run (eval.replay): only stored answers count, so that a measured change comes from the code alone.
+        # A call that failed in that run (attempts kept, no answer) fails the same way, as the caller handled it then; any other
+        # missing answer is an error of the replay.
+        attempts = folder / (cache.stem + '-attempts')
+        if any(attempts.glob('*/error.json')):
+            raise ValueError(f'chạy lại chặt: lời gọi này cũng lỗi ở lượt gốc ({folder / cache_name})')
+        raise ReplayMiss(f'chạy lại chặt: thiếu câu trả lời đã lưu ở {folder / cache_name}')
     attempts_folder = folder / (cache.stem + '-attempts')
     existing = max((int(p.name) for p in attempts_folder.glob('*') if p.is_dir() and p.name.isdigit()), default=0)
     for attempt in range(attempts):
