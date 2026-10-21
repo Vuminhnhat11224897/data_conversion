@@ -1,0 +1,30 @@
+[
+ {
+  "doc_id": "329265",
+  "la_vbqppl": false,
+  "cap_hieu_luc": null,
+  "ngay_hieu_luc": null,
+  "ngay_het_hieu_luc": null,
+  "ngay_hoi_to": null,
+  "hieu_luc_rieng": [],
+  "trich": {
+   "la_vbqppl": "Văn bản hợp nhất (số hiệu VBHN), không phải VBQPPL theo quy tắc",
+   "ngay_hieu_luc": "Văn bản hợp nhất: null theo quy tắc"
+  },
+  "chua_chac": []
+ },
+ {
+  "doc_id": "669808",
+  "la_vbqppl": false,
+  "cap_hieu_luc": null,
+  "ngay_hieu_luc": null,
+  "ngay_het_hieu_luc": null,
+  "ngay_hoi_to": null,
+  "hieu_luc_rieng": [],
+  "trich": {
+   "la_vbqppl": "Văn bản hợp nhất (số hiệu VBHN), không phải VBQPPL theo quy tắc",
+   "ngay_hieu_luc": "Văn bản hợp nhất: null theo quy tắc"
+  },
+  "chua_chac": []
+ }
+]

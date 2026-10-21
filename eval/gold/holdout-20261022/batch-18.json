@@ -1,0 +1,397 @@
+[
+ {
+  "doc_id": "331346",
+  "relations": [
+   {
+    "source_path": "Điều 3",
+    "action": "thay-the",
+    "target_document": "04/2013/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "có hiệu lực thi hành từ ngày 10 tháng 10 năm 2016 và thay thế Nghị quyết số 04/2013/NQ-HĐND ngày 13 tháng 3 năm 2013 của Hội đồng nhân dân tỉnh"
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 3",
+    "loai": "thieu_noi_dung",
+    "ghi_chu": "Điều 3 (Hiệu lực thi hành, có câu thay thế) không có trong don_vi."
+   }
+  ],
+  "ghi_chu": "Điểm e khoản 5 Điều 1 chỉ dẫn chiếu NQ 08/2014/NQ-HĐND, không phải tác động."
+ },
+ {
+  "doc_id": "323481",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Chỉ thị giao nhiệm vụ rà soát, kiến nghị sửa đổi; không có tác động trực tiếp."
+ },
+ {
+  "doc_id": "652509",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn đình chỉ lưu hành, thu hồi thuốc; không tác động lên văn bản. Công văn 6586/QLD-CL, 19359/QLD-CL chỉ được kể lại."
+ },
+ {
+  "doc_id": "553355",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quyết định công bố danh mục VBQPPL hết hiệu lực, ngưng hiệu lực (kết quả hệ thống hóa). Các dòng chỉ nêu văn bản khác đã bãi bỏ, thay thế, sửa đổi; không ghi quan hệ."
+ },
+ {
+  "doc_id": "368910",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "ngung-hieu-luc",
+    "target_document": "33/2017/TT-BTNMT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 5 Điều 6"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bộ trưởng Bộ Tài nguyên và Môi trường ban hành Thông tư quy định ngưng hiệu lực thi hành Khoản 5 Điều 6 Thông tư số 33/2017/TT-BTNMT"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "ngung-hieu-luc",
+    "target_document": "33/2017/TT-BTNMT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 5 Điều 6"
+    ],
+    "doi_tuong": null,
+    "evidence": "Ngưng hiệu lực thi hành Khoản 5 Điều 6 Thông tư số 33/2017/TT-BTNMT ngày 29 tháng 9 năm 2017"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên văn bản và lời dẫn cùng nêu ngưng hiệu lực khoản 5 Điều 6 TT 33/2017/TT-BTNMT: gộp một quan hệ Phần đầu. Ngưng từ 05/12/2017 đến khi có văn bản mới."
+ },
+ {
+  "doc_id": "350389",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "ngung-hieu-luc",
+    "target_document": "13/2015/TT-BKHCN",
+    "target_section": "quyet_dinh",
+    "vi_tri": [],
+    "doi_tuong": "một phần",
+    "evidence": "Bộ trưởng Bộ Khoa học và Công nghệ ban hành Thông tư quy định ngưng hiệu lực một phần Thông tư số 13/2015/TT-BKHCN"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "ngung-hieu-luc",
+    "target_document": "13/2015/TT-BKHCN",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 1",
+     "khoản 2 Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Ngưng hiệu lực thi hành Khoản 1 Điều 1 và Khoản 2 Điều 2 của Thông tư số 13/2015/TT-BKHCN"
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "675/QĐ-BKHCN",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 675/QĐ-BKHCN ngày 31 tháng 3 năm 2016 của Bộ trưởng Bộ Khoa học và Công nghệ về việc gia hạn thời gian áp dụng một số quy định tại Thông tư số 13/2015/TT-BKHCN ngày 21 tháng 7 năm 2015 của Bộ trưởng Bộ Khoa học và Công nghệ sửa đổi, bổ sung Thông tư số 23/2010/TT-BKHCN ngày 29 tháng 12 năm 2010 hướng dẫn bảo đảm an ninh nguồn phóng xạ chấm dứt hiệu lực kể từ ngày Thông tư này có hiệu lực thi hành"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên và lời dẫn chỉ nói 'một phần', không nêu vị trí: vi_tri rỗng, doi_tuong 'một phần'. Điều 2 đoạn 2 tự tuyên bố QĐ 675/QĐ-BKHCN chấm dứt hiệu lực -> bai-bo. Ngưng hiệu lực trong 24 tháng."
+ },
+ {
+  "doc_id": "194555",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quyết định công bố danh mục VBQPPL hết hiệu lực; không bãi bỏ. Điều 2 giao rà soát, kiến nghị bãi bỏ: không phải quan hệ."
+ },
+ {
+  "doc_id": "540183",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quyết định công bố danh mục VBQPPL còn hiệu lực, hết hiệu lực; không có tác động."
+ },
+ {
+  "doc_id": "504423",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quyết định công bố danh mục VBQPPL hết hiệu lực toàn bộ, một phần; các dòng chỉ nêu văn bản khác thay thế, bãi bỏ, sửa đổi."
+ },
+ {
+  "doc_id": "518560",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quyết định công bố danh mục VBQPPL hết hiệu lực toàn bộ (QĐ 42/2018/QĐ-UBND); không có tác động."
+ },
+ {
+  "doc_id": "380045",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quyết định công bố danh mục VBQPPL hết hiệu lực toàn bộ, một phần năm 2015; không có tác động."
+ },
+ {
+  "doc_id": "38166",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 3 'những quy định trước đây trái với Quyết định này đều bãi bỏ' là câu chung, không nêu văn bản: không ghi quan hệ. Điều 4 giao hướng dẫn."
+ },
+ {
+  "doc_id": "97803",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quyết định cho phép thành lập tổ chức; không có tác động."
+ },
+ {
+  "doc_id": "257387",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quyết định ban hành Quy định đăng ký, cấp giấy phép hành nghề công nghiệp; không tác động lên văn bản khác. Đầu Quy định ghi nhầm số 3654/QĐUB."
+ },
+ {
+  "doc_id": "257376",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "288/QĐUB",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "VỀ VIỆC SỬA ĐỔI BỔ SUNG MỘT SỐ ĐIỀU KHOẢN CỦA \"QUY ĐỊNH THỰC HIỆN QUẢN LÝ ĐẦU TƯ VÀ XÂY DỰNG TRÊN ĐỊA BÀN TỈNH NGHỆ AN\" BAN HÀNH KÈM THEO QUYẾT ĐỊNH SỐ 288/QĐUB NGÀY 28/01/1997"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "288/QĐUB",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "VỀ VIỆC SỬA ĐỔI BỔ SUNG MỘT SỐ ĐIỀU KHOẢN CỦA \"QUY ĐỊNH THỰC HIỆN QUẢN LÝ ĐẦU TƯ VÀ XÂY DỰNG TRÊN ĐỊA BÀN TỈNH NGHỆ AN\" BAN HÀNH KÈM THEO QUYẾT ĐỊNH SỐ 288/QĐUB NGÀY 28/01/1997"
+   },
+   {
+    "source_path": "Điều I",
+    "action": "sua-doi",
+    "target_document": "288/QĐUB",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Điều I: Sửa đổi bổ sung một số điều khoản của quy định thực hiện quản lý đầu tư và xây dựng trên địa bàn tỉnh Nghệ An đã ban hành kèm theo Quyết định số 288/QĐUB ngày 28/01/1997"
+   },
+   {
+    "source_path": "Điều I",
+    "action": "bo-sung",
+    "target_document": "288/QĐUB",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Điều I: Sửa đổi bổ sung một số điều khoản của quy định thực hiện quản lý đầu tư và xây dựng trên địa bàn tỉnh Nghệ An đã ban hành kèm theo Quyết định số 288/QĐUB ngày 28/01/1997"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bo-sung",
+    "target_document": "288/QĐUB",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Điều 1: Bổ sung như sau:"
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bo-sung",
+    "target_document": "288/QĐUB",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 2 Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sở xây dựng: Nay bổ sung, sửa đổi như sau:"
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "sua-doi",
+    "target_document": "288/QĐUB",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 2 Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sở xây dựng: Nay bổ sung, sửa đổi như sau:"
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bo-sung",
+    "target_document": "288/QĐUB",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 3 Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung thêm: Hướng dẫn, giúp đỡ, kiểm tra cơ quan tài chính huyện, thành phố, thị xã, phường xã quản lý cấp phát vốn"
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "sua-doi",
+    "target_document": "288/QĐUB",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm 5 khoản 5 Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Điểm 5 sửa đổi như sau:"
+   },
+   {
+    "source_path": "Điều 4",
+    "action": "sua-doi",
+    "target_document": "288/QĐUB",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm d khoản 2 Điều 4"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi điểm d khoản 2 như sau:"
+   },
+   {
+    "source_path": "Điều 5",
+    "action": "sua-doi",
+    "target_document": "288/QĐUB",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi 4 điểm như sau:"
+   },
+   {
+    "source_path": "Điều 6",
+    "action": "sua-doi",
+    "target_document": "288/QĐUB",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 2 Điều 6"
+    ],
+    "doi_tuong": null,
+    "evidence": "Điều 6: Thẩm định và quyết định đầu tư sửa đổi khoản 2 như sau:"
+   },
+   {
+    "source_path": "Điều 11",
+    "action": "sua-doi",
+    "target_document": "288/QĐUB",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 11"
+    ],
+    "doi_tuong": null,
+    "evidence": "Nay sửa đổi, bổ sung như sau:"
+   },
+   {
+    "source_path": "Điều 11",
+    "action": "bo-sung",
+    "target_document": "288/QĐUB",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 11"
+    ],
+    "doi_tuong": null,
+    "evidence": "Nay sửa đổi, bổ sung như sau:"
+   },
+   {
+    "source_path": "Điều 13",
+    "action": "bo-sung",
+    "target_document": "288/QĐUB",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm 2 Điều 13"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung thêm điểm 2 như sau:"
+   },
+   {
+    "source_path": "Điều 14",
+    "action": "bo-sung",
+    "target_document": "288/QĐUB",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm 1 Điều 14"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung sửa đổi điểm 1 như sau:"
+   },
+   {
+    "source_path": "Điều 14",
+    "action": "sua-doi",
+    "target_document": "288/QĐUB",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm 1 Điều 14"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung sửa đổi điểm 1 như sau:"
+   },
+   {
+    "source_path": "Điều 15",
+    "action": "sua-doi",
+    "target_document": "288/QĐUB",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm 1 Điều 15",
+     "điểm 2 Điều 15"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi điểm 1, 2 như sau:"
+   },
+   {
+    "source_path": "Điều 18",
+    "action": "sua-doi",
+    "target_document": "288/QĐUB",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 1 Điều 18"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi khoản 1 như sau:"
+   },
+   {
+    "source_path": "Điều 21",
+    "action": "sua-doi",
+    "target_document": "288/QĐUB",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 21"
+    ],
+    "doi_tuong": null,
+    "evidence": "Điều 21: Quyết toán vốn đầu tư, nay sửa đổi như sau:"
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều I",
+    "loai": "thieu_noi_dung",
+    "ghi_chu": "Điều I (câu sửa đổi, bổ sung Quy định kèm QĐ 288/QĐUB) bị đưa vào loi_dan, không có trong don_vi."
+   },
+   {
+    "source_path": "Điều 1",
+    "loai": "nhan_sai_dieu",
+    "ghi_chu": "Các 'Điều 1, 2, 4, 5, 6, 7, 11, 13, 14, 15, 18, 21' là điều của Quy định kèm QĐ 288/QĐUB được sửa trong Điều I, không phải điều của văn bản này."
+   },
+   {
+    "source_path": "Điều 7",
+    "loai": "gop_sai",
+    "ghi_chu": "Nội dung Điều 11 (Thẩm định phê duyệt TKKT-TDT) bị gộp vào Điều 7; Điều 7 Khoản 1-4 thực chất là khoản 1-4 Điều 11."
+   },
+   {
+    "source_path": "Điều 15",
+    "loai": "gop_sai",
+    "ghi_chu": "Điều 18 và Điều 21 bị gộp vào Điều 15; Điều 15 Khoản 2, 4, 5 thực chất là khoản của Điều 21; Điều II, Điều III bị gộp vào Điều 15 Khoản 5."
+   }
+  ],
+  "ghi_chu": "Đích ghi đúng như văn bản: 288/QĐUB (QĐ ngày 28/01/1997). Điều 2: câu sửa khoản 2 kèm nội dung Điểm 3, Điểm 4 -> vi_tri theo câu là khoản 2 Điều 2. Điều 7 không có từ hành động riêng (thuộc tác động chung của Điều I). source_path Điều 11, 18, 21 theo toàn văn vì bị gộp."
+ }
+]

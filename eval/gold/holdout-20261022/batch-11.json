@@ -1,0 +1,196 @@
+[
+ {
+  "doc_id": "54802",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "02/2007/QĐ-TTg",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA QUY ĐỊNH VỀ BỒI THƯỜNG, HỖ TRỢ VÀ TÁI ĐỊNH CƯ DỰ ÁN THUỶ ĐIỆN SƠN LA, BAN HÀNH KÈM THEO QUYẾT ĐỊNH SỐ 02/2007/QĐ-TTG"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "02/2007/QĐ-TTg",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA QUY ĐỊNH VỀ BỒI THƯỜNG, HỖ TRỢ VÀ TÁI ĐỊNH CƯ DỰ ÁN THUỶ ĐIỆN SƠN LA, BAN HÀNH KÈM THEO QUYẾT ĐỊNH SỐ 02/2007/QĐ-TTG"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "02/2007/QĐ-TTg",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm đ khoản 1 Điều 17"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung điểm đ khoản 1 Điều 17 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "02/2007/QĐ-TTg",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm e khoản 1 Điều 17"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung điểm e khoản 1 Điều 17 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "sua-doi",
+    "target_document": "02/2007/QĐ-TTg",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm b khoản 1 Điều 26"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi điểm b khoản 1 Điều 26 như sau:"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": ""
+ },
+ {
+  "doc_id": "47544",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "08/1999/QĐ-BGD&ĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 6"
+    ],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI ĐIỀU 6 QUY CHẾ TUYỂN SINH VÀO TRƯỜNG TRUNG HỌC CƠ SỞ VÀ TRUNG HỌC PHỔ THÔNG (Ban hành theo Quyết định số 08/1999/QĐ-BGD&ĐT"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "sua-doi",
+    "target_document": "08/1999/QĐ-BGD&ĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 6"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi Điều 6 Quy chế tuyển sinh vào trường trung học cơ sở và trung học phổ thông ban hành kèm theo Quyết định số 08/1999/QĐ-BGD&ĐT"
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "loai": "nhan_sai_dieu",
+    "ghi_chu": "Khoản 1-3 của Điều 1 là nội dung mới của Điều 6 Quy chế (không đặt trong ngoặc kép), không phải khoản của văn bản này."
+   }
+  ],
+  "ghi_chu": ""
+ },
+ {
+  "doc_id": "630651",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công bố TTHC mới; không có tác động lên văn bản khác."
+ },
+ {
+  "doc_id": "637932",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "1586/QĐ-BGTVT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "thay thế Quyết định số 1586/QĐ-BGTVT ngày 06 tháng 12 năm 2023"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Bảng danh mục chỉ liệt kê tên TTHC; tên TTHC có chữ 'bãi bỏ', 'sửa đổi' không phải hành động lên văn bản."
+ },
+ {
+  "doc_id": "267897",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công bố TTHC mới; không có tác động."
+ },
+ {
+  "doc_id": "658938",
+  "relations": [
+   {
+    "source_path": "Điều 3",
+    "action": "thay-the",
+    "target_document": "219/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "TTHC tương ứng",
+    "evidence": "thay thế TTHC tương ứng tại các Quyết định:"
+   },
+   {
+    "source_path": "Điều 3",
+    "action": "thay-the",
+    "target_document": "346/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "TTHC tương ứng",
+    "evidence": "thay thế TTHC tương ứng tại các Quyết định:"
+   },
+   {
+    "source_path": "Điều 3",
+    "action": "thay-the",
+    "target_document": "1498/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "TTHC tương ứng",
+    "evidence": "thay thế TTHC tương ứng tại các Quyết định:"
+   },
+   {
+    "source_path": "Điều 3",
+    "action": "thay-the",
+    "target_document": "316/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "TTHC tương ứng",
+    "evidence": "thay thế TTHC tương ứng tại các Quyết định:"
+   },
+   {
+    "source_path": "Điều 3",
+    "action": "thay-the",
+    "target_document": "2007/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "TTHC tương ứng",
+    "evidence": "thay thế TTHC tương ứng tại các Quyết định:"
+   },
+   {
+    "source_path": "Điều 3",
+    "action": "thay-the",
+    "target_document": "1738/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "TTHC tương ứng",
+    "evidence": "thay thế TTHC tương ứng tại các Quyết định:"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 3 thay thế TTHC tương ứng tại 6 quyết định liệt kê ngay trong Điều 3. Nghị quyết 190/2025/QH15 ở cột 'Tên VBQPPL quy định nội dung sửa đổi, bổ sung, thay thế' là căn cứ, không phải đích."
+ },
+ {
+  "doc_id": "613662",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công bố danh mục TTHC đủ điều kiện dịch vụ công trực tuyến; không có tác động."
+ },
+ {
+  "doc_id": "122456",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công bố bộ TTHC; Điều 1 khoản 1 nói về sửa đổi, bãi bỏ TTHC trong tương lai do cơ quan khác: không phải hành động."
+ }
+]

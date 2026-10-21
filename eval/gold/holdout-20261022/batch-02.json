@@ -1,0 +1,100 @@
+[
+ {
+  "doc_id": "92816",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quyết định công nhận năng lực phòng thí nghiệm; danh mục phép thử chỉ nêu tiêu chuẩn TCVN/ASTM. Không có quan hệ."
+ },
+ {
+  "doc_id": "45461",
+  "relations": [
+   {
+    "source_path": "Mục 2",
+    "action": "huong-dan",
+    "target_document": "254/1998/QĐ-TTg",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 4",
+     "Phụ lục II.A"
+    ],
+    "doi_tuong": null,
+    "evidence": "Đối với việc nhập khẩu một số mặt hàng quy định tại Điều 4 và phụ lục II.A Quyết định số 254/1998/QĐ-TTg ngày 30/12/1998 của Thủ tướng Chính phủ (đã được Bộ Thương mại cụ thể hoá trong danh mục hàng hoá nhập khẩu theo giấy phép của Bộ Thương mại tại Phụ lục 02 Thông tư số 03/1999/TT-BTM ngày 15/01/1999 hướng dẫn thực hiện Quyết định 254/1999/QĐ-TTg ngày 31/12/1998 của Thủ tướng Chính phủ) thực hiện như sau:"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn hướng dẫn bổ sung điều hành nhập khẩu; Mục 2 hướng dẫn thực hiện Điều 4 và phụ lục II.A QĐ 254/1998/QĐ-TTg (không chắc nhãn huong-dan vì là công văn). Phụ lục 02 TT 03/1999/TT-BTM chỉ nêu trong ngoặc và ở 2.8 ('không thay đổi'), không có động từ sửa đổi trực tiếp nên không ghi. 661/CP-KTTH là căn cứ thực hiện."
+ },
+ {
+  "doc_id": "218725",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn trả lời; 'Nghị định này đã được thay thế bằng Nghị định 127/2013/NĐ-CP' là kể lại. Không có quan hệ."
+ },
+ {
+  "doc_id": "465655",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quyết định chủ trương đầu tư; chỉ căn cứ, dẫn chiếu. Không có quan hệ."
+ },
+ {
+  "doc_id": "121248",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Thành lập Nhóm công tác, kèm Danh sách và Quy chế. Không có quan hệ."
+ },
+ {
+  "doc_id": "598569",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Kế hoạch phòng chống ma túy; chỉ dẫn chiếu, triển khai văn bản khác. Không có quan hệ."
+ },
+ {
+  "doc_id": "96078",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 3 ('Các văn bản do Ủy ban nhân dân thành phố ban hành trước đây trái với quy chế này đều bãi bỏ') và Điều 20 Quy chế là câu bãi bỏ chung, không nêu văn bản: không ghi quan hệ."
+ },
+ {
+  "doc_id": "532862",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quyết định thành lập Trung tâm (cấp huyện). Không có quan hệ."
+ },
+ {
+  "doc_id": "152417",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quyết định quy định chính sách theo NQ 37/2011/NQ-HĐND (chỉ là căn cứ). Không có quan hệ."
+ },
+ {
+  "doc_id": "326120",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn trả lời, dẫn công văn 2674/TCNL-CNT. Không có quan hệ."
+ },
+ {
+  "doc_id": "571568",
+  "relations": [
+   {
+    "source_path": "Điều 5 Khoản 1",
+    "action": "thay-the",
+    "target_document": "32/2016/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực thi hành kể từ ngày 01/7/2023 và thay thế Quyết định số 32/2016/QĐ-UBND ngày 06/7/2016 của Ủy ban nhân dân tỉnh về việc quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Sở Thông tin và Truyền thông tỉnh Long An và Quyết định số 15/2018/QĐ-UBND ngày 20/4/2018 của Ủy ban nhân dân tỉnh"
+   },
+   {
+    "source_path": "Điều 5 Khoản 1",
+    "action": "thay-the",
+    "target_document": "15/2018/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực thi hành kể từ ngày 01/7/2023 và thay thế Quyết định số 32/2016/QĐ-UBND ngày 06/7/2016 của Ủy ban nhân dân tỉnh về việc quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Sở Thông tin và Truyền thông tỉnh Long An và Quyết định số 15/2018/QĐ-UBND ngày 20/4/2018 của Ủy ban nhân dân tỉnh"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 4 khoản 3, 4 dẫn chiếu NĐ 107/2020/NĐ-CP sửa đổi NĐ 24/2014/NĐ-CP: chỉ dẫn chiếu."
+ }
+]

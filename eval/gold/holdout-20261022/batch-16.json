@@ -1,0 +1,52 @@
+[
+ {
+  "doc_id": "329265",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "hop-nhat",
+    "target_document": "19/2016/TT-NHNN",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thông tư số 19/2016/TT-NHNN ngày 30 tháng 6 năm 2016 của Thống đốc Ngân hàng Nhà nước Việt Nam quy định về hoạt động thẻ ngân hàng, có hiệu lực kể từ ngày 15 tháng 8 năm 2016, được sửa đổi, bổ sung bởi:"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "hop-nhat",
+    "target_document": "30/2016/TT-NHNN",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thông tư số 30/2016/TT-NHNN ngày 14 tháng 10 năm 2016 của Thống đốc Ngân hàng Nhà nước Việt Nam sửa đổi, bổ sung một số Thông tư quy định về hoạt động cung ứng dịch vụ thanh toán và dịch vụ trung gian thanh toán, có hiệu lực kể từ ngày 28 tháng 11 năm 2016."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Văn bản hợp nhất: chỉ ghi hop-nhat văn bản gốc và văn bản sửa đổi nêu ở phần đầu. Điều 32 khoản 3 (QĐ 20/2007/QĐ-NHNN, 32/2007/QĐ-NHNN, Điều 3 TT 23/2011/TT-NHNN hết hiệu lực) là hành động của TT 19/2016 được chép lại, không phải hành động của VBHN; các chú thích 'được sửa đổi/bãi bỏ theo …' là ghi chú lịch sử. Không ghi quan hệ cho các phần này. Chưa chắc quy ước gán hop-nhat cho cả văn bản sửa đổi."
+ },
+ {
+  "doc_id": "669808",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "hop-nhat",
+    "target_document": "54/2010/QH12",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Luật Trọng tài thương mại số 54/2010/QH12 ngày 17 tháng 6 năm 2010 của Quốc hội, có hiệu lực kể từ ngày 01 tháng 01 năm 2011, được sửa đổi, bổ sung bởi:"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "hop-nhat",
+    "target_document": "81/2025/QH15",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Luật số 81/2025/QH15 ngày 24 tháng 6 năm 2025 của Quốc hội sửa đổi, bổ sung một số điều của Luật Tổ chức Tòa án nhân dân, có hiệu lực kể từ ngày 01 tháng 7 năm 2025."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Văn bản hợp nhất Luật Trọng tài thương mại: chỉ ghi hop-nhat. Điều 81 khoản 2 (Pháp lệnh 03/2003/PL-UBTVQH11 hết hiệu lực) là nội dung của Luật 54/2010 được chép lại, không phải hành động của VBHN. Điều 82 là giao quy định chi tiết, không phải hành động. Chú thích [2], [3] là ghi chú lịch sử. Chưa chắc quy ước gán hop-nhat cho cả văn bản sửa đổi."
+ }
+]

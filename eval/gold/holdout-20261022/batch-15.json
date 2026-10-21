@@ -1,0 +1,61 @@
+[
+ {
+  "doc_id": "70125",
+  "relations": [
+   {
+    "source_path": "Mục IV",
+    "action": "thay-the",
+    "target_document": "33/2005/TT-BGD&ĐT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Mục IV"
+    ],
+    "doi_tuong": "các điểm từ số thứ tự 9 đến số thứ tự 12 khoản 1 mục IV (hệ số phụ cấp chức vụ)",
+    "evidence": "Bảng hệ số phụ cấp chức vụ quy định tại khoản 4 mục II của Thông tư này thay thế các điểm từ số thứ tự 9 đến số thứ tự 12 khoản 1 mục IV Thông tư số 33/2005/TT-BGD&ĐT ngày 08 tháng 12 năm 2005"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Mục IV điểm 3 'Các văn bản quy định khác trái với Thông tư này đều bãi bỏ' là câu chung, không ghi. Văn bản đích chia Mục; dòng số thứ tự dừng ở khoản 1 Mục IV."
+ },
+ {
+  "doc_id": "52779",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "huong-dan",
+    "target_document": "204/2004/NĐ-CP",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "chế độ trả lương làm việc vào ban đêm, làm thêm giờ đối với cán bộ, công chức, viên chức",
+    "evidence": "Thi hành Nghị định số 204/2004/NĐ-CP ngày 14 tháng 12 năm 2004 của Chính phủ về chế độ tiền lương đối với cán bộ, công chức, viên chức và lực lượng vũ trang; sau khi trao đổi ý kiến với các Bộ, ngành liên quan, liên tịch Bộ Nội vụ - Bộ Tài chính hướng dẫn thực hiện chế độ trả lương làm việc vào ban đêm, làm thêm giờ đối với cán bộ, công chức, viên chức như sau:"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Không chắc quan hệ hướng dẫn: lời dẫn 'Thi hành Nghị định 204/2004/NĐ-CP ... hướng dẫn thực hiện chế độ ...'. Mục VI: 'Bãi bỏ các văn bản hướng dẫn thực hiện Nghị định số 25/CP' không nêu văn bản đích cụ thể (không phải NĐ 25/CP), không ghi quan hệ."
+ },
+ {
+  "doc_id": "345314",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "hop-nhat",
+    "target_document": "56/2014/TT-BGTVT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thông tư số 56/2014/TT-BGTVT ngày 24 tháng 10 năm 2014 của Bộ trưởng Bộ Giao thông vận tải quy định thi, kiểm tra, cấp, cấp lại, chuyển đổi giấy chứng nhận khả năng chuyên môn"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "hop-nhat",
+    "target_document": "02/2017/TT-BGTVT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thông tư số 02/2017/TT-BGTVT ngày 20 tháng 01 năm 2017 sửa đổi, bổ sung một số điều của Thông tư số 56/2014/TT-BGTVT"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Văn bản hợp nhất: phần đầu liệt kê 2 văn bản được hợp nhất. Điều 27 chép lại câu bãi bỏ QĐ 19/2008/QĐ-BGTVT và TT 14/2011/TT-BGTVT của TT 56/2014 (hành động của văn bản gốc, không phải của VBHN) nên không ghi; các chú thích 'được sửa đổi/bãi bỏ/thay thế theo quy định tại ... TT 02/2017' là ghi chú, không ghi. Chú thích Phụ lục I ghi '02/2016/TT-BGTVT' (lỗi in) ."
+ }
+]

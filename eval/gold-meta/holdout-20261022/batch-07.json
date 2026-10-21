@@ -1,0 +1,32 @@
+[
+ {
+  "doc_id": "229255",
+  "la_vbqppl": false,
+  "cap_hieu_luc": null,
+  "ngay_hieu_luc": "2013-12-09",
+  "ngay_het_hieu_luc": null,
+  "ngay_hoi_to": null,
+  "hieu_luc_rieng": [],
+  "trich": {
+   "ngay_hieu_luc": "Quyết định này có hiệu lực thi hành kể từ ngày ký.",
+   "la_vbqppl": "Quyết định phê duyệt Đề án của UBND thành phố Hà Nội: văn bản cá biệt (phê duyệt).",
+   "cap_hieu_luc": "null vì không phải VBQPPL"
+  },
+  "chua_chac": []
+ },
+ {
+  "doc_id": "380267",
+  "la_vbqppl": false,
+  "cap_hieu_luc": null,
+  "ngay_hieu_luc": "2018-03-28",
+  "ngay_het_hieu_luc": null,
+  "ngay_hoi_to": null,
+  "hieu_luc_rieng": [],
+  "trich": {
+   "ngay_hieu_luc": "Không có câu hiệu lực; la_vbqppl = false nên lấy ngày ban hành (Kon Tum, ngày 28 tháng 03 năm 2018).",
+   "la_vbqppl": "Kế hoạch của UBND tỉnh Kon Tum tổ chức chương trình đối thoại: kế hoạch, không phải VBQPPL.",
+   "cap_hieu_luc": "null vì không phải VBQPPL"
+  },
+  "chua_chac": []
+ }
+]

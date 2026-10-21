@@ -1,0 +1,108 @@
+[
+ {
+  "doc_id": "382279",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "hop-nhat",
+    "target_document": "10/2014/TT-BGDĐT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thông tư số 10/2014/TT-BGDĐT ngày 11 tháng 4 năm 2014 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy chế quản lý công dân Việt Nam học tập ở nước ngoài, có hiệu lực kể từ ngày 28 tháng 5 năm 2014, được sửa đổi, bổ sung bởi:"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "hop-nhat",
+    "target_document": "34/2017/TT-BGDĐT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thông tư số 34/2017/TT-BGDĐT ngày 25 tháng 12 năm 2017 của Bộ trưởng Bộ Giáo dục và Đào tạo sửa đổi, bổ sung một số điều của Quy chế quản lý công dân Việt Nam học tập ở nước ngoài ban hành kèm theo Thông tư số 10/2014/TT-BGDĐT ngày 11 tháng 4 năm 2014 của Bộ trưởng Bộ Giáo dục và Đào tạo, có hiệu lực kể từ ngày 09 tháng 02 năm 2018."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Văn bản hợp nhất: chỉ ghi hop-nhat. Điều 2 (thay thế Quyết định số 23/2001/QĐ-BGD&ĐT) là hành động của TT 10/2014 được chép lại, không phải của VBHN. Các chú thích 'được sửa đổi/bãi bỏ/cụm từ được sửa đổi theo … TT 34/2017' là ghi chú lịch sử. Chưa chắc quy ước gán hop-nhat cho cả văn bản sửa đổi."
+ },
+ {
+  "doc_id": "152037",
+  "relations": [
+   {
+    "source_path": "Điều 12 Khoản 2",
+    "action": "thay-the",
+    "target_document": "54/2010/TT-BNNPTNT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thông tư này thay thế Thông tư số 54/2010/TT-BNNPTNT ngày 15 tháng 9 năm 2010 của Bộ Nông nghiệp và Phát triển nông thôn về quy định việc kiểm tra, giám sát các chất thuộc nhóm Beta-agonist trong chăn nuôi."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 13 câu 'đề nghị … xem xét sửa đổi, bổ sung' là câu chung, không phải hành động. TCVN, QCVN ở Phụ lục I không phải văn bản đích."
+ },
+ {
+  "doc_id": "308239",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn trả lời chính sách thuế; chỉ trích dẫn TT 39/2014/TT-BTC và TT 96/2015/TT-BTC, không tác động lên văn bản khác."
+ },
+ {
+  "doc_id": "673889",
+  "relations": [
+   {
+    "source_path": "Điều 5 Khoản 2 điểm a",
+    "action": "bai-bo",
+    "target_document": "46/2024/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị quyết số 46/2024/NQ-HĐND ngày 11 tháng 12 năm 2024 của Hội đồng nhân dân Thành phố Hồ Chí Minh Quy định về nội dung chi, mức chi thực hiện các nhiệm vụ thuộc công tác tổ chức các kỳ thi, cuộc thi, hội thi trong lĩnh vực giáo dục - đào tạo trên địa bàn Thành phố Hồ Chí Minh;"
+   },
+   {
+    "source_path": "Điều 5 Khoản 2 điểm b",
+    "action": "bai-bo",
+    "target_document": "01/2022/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị quyết số 01/2022/NQ-HĐND ngày 25 tháng 4 năm 2022 của Hội đồng nhân dân tỉnh Bình Dương Quy định nội dung, mức chi tổ chức các kỳ thi, hội thi trong lĩnh vực giáo dục và đào tạo trên địa bàn tỉnh Bình Dương;"
+   },
+   {
+    "source_path": "Điều 5 Khoản 2 điểm c",
+    "action": "bai-bo",
+    "target_document": "17/2022/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị quyết số 17/2022/NQ-HĐND ngày 12 tháng 12 năm 2022 của Hội đồng nhân dân tỉnh Bình Dương về bổ sung Nghị quyết số 01/2022/NQ-HĐND ngày 25 tháng 4 năm 2022"
+   },
+   {
+    "source_path": "Điều 5 Khoản 2 điểm d",
+    "action": "bai-bo",
+    "target_document": "06/2022/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị quyết số 06/2022/NQ-HĐND ngày 15 tháng 7 năm 2022 của Hội đồng nhân dân tỉnh Bà Rịa - Vũng Tàu về nội dung chi và mức chi tổ chức các kỳ thi, cuộc thi, hội thi trong lĩnh vực giáo dục - đào tạo trên địa bàn tỉnh Bà Rịa - Vũng Tàu."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Chữ hành động ở câu dẫn khoản 2 ('Các Nghị quyết sau đây hết hiệu lực kể từ ngày Nghị quyết này có hiệu lực thi hành:'), văn bản tự tuyên bố hết hiệu lực → bai-bo; mỗi điểm một đích. Ở điểm c, 01/2022 chỉ là mô tả nội dung của 17/2022. Điều 2 khoản 4 chỉ dẫn chiếu TT 69/2021/TT-BTC."
+ },
+ {
+  "doc_id": "660834",
+  "relations": [
+   {
+    "source_path": "Điều 7 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "50/2017/QĐ-TTg",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 50/2017/QĐ-TTg ngày 31 tháng 12 năm 2017 của Thủ tướng Chính phủ quy định tiêu chuẩn, định mức sử dụng máy móc, thiết bị hết hiệu lực kể từ ngày Quyết định này có hiệu lực thi hành."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 7 khoản 3 là câu chung về văn bản dẫn chiếu. Điều 6 khoản 2 điểm a và Điều 9 khoản 1 giao Bộ trưởng BYT, BGDĐT quy định chi tiết: nhiệm vụ, không phải quan hệ."
+ }
+]

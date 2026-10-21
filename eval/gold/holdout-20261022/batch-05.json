@@ -1,0 +1,60 @@
+[
+ {
+  "doc_id": "603735",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Kế hoạch PCCC năm 2024; các câu 'kiến nghị ... sửa đổi bổ sung', 'nghiên cứu bổ sung một số nội dung của tiêu chí khen thưởng theo Kế hoạch số 81/KH-UBND' là nhiệm vụ, không phải hành động trực tiếp."
+ },
+ {
+  "doc_id": "240076",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn VPCP truyền đạt ý kiến Thủ tướng về hỗ trợ vốn; 'Đồng ý với Bộ Tài chính' không sửa, bỏ, thay nội dung văn bản nào."
+ },
+ {
+  "doc_id": "439118",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn trả lời chính sách thuế; chỉ trích dẫn Thông tư 111/2013, 96/2015, 78/2014."
+ },
+ {
+  "doc_id": "664312",
+  "relations": [
+   {
+    "source_path": "Điều 4 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "11/2025/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ Quyết định số 11/2025/QĐ-UBND ngày 01 tháng 3 năm 2025 của Ủy ban nhân dân thành phố Cần Thơ"
+   },
+   {
+    "source_path": "Điều 4 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "15/2025/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 15/2025/QĐ- UBND ngày 28 tháng 02 năm 2025 của Ủy ban nhân dân tỉnh Sóc Trăng"
+   },
+   {
+    "source_path": "Điều 4 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "23/2025/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 23/2025/QĐ-UBND ngày 05 tháng 03 năm 2025 của Ủy ban nhân dân tỉnh Hậu Giang"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 4 khoản 2 bãi bỏ 3 quyết định (Cần Thơ, Sóc Trăng, Hậu Giang). Số hiệu 15/2025/QĐ- UBND trong văn bản có dấu cách, chuẩn hóa thành 15/2025/QĐ-UBND."
+ },
+ {
+  "doc_id": "668614",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quyết định ủy quyền ký; các động từ 'sửa đổi, bổ sung, gia hạn' mô tả nội dung được ủy quyền và 'được sửa đổi, bổ sung tại Nghị định số 65/2025/NĐ-CP' là ghi chú lịch sử; không có quan hệ."
+ }
+]

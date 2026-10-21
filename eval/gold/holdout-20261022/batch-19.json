@@ -1,0 +1,40 @@
+[
+ {
+  "doc_id": "91292",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Chỉ thị yêu cầu thực hiện Pháp lệnh, Nghị định, Thông tư 04/TT-TS; không có tác động."
+ },
+ {
+  "doc_id": "44947",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "huong-dan",
+    "target_document": "177/1998/QĐ-TTg",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Căn cứ Quyết định số 177/1998/QĐ-TTg ngày 15 tháng 9 năm 1998 của Thủ tướng Chính phủ vê việc áp dụng thí điểm một số chính sách tại khu vực của khẩu quốc tế Cầu treo, Tỉnh Hà Tĩnh, Bộ Tài chính hướng dẫn thực hiện các chế độ tài chính áp dụng thí điểm tại khu vực cửa khẩu quốc tế Cầu Treo, tỉnh Hà Tĩnh như sau"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Ca biên: lời dẫn vừa là căn cứ vừa nêu 'hướng dẫn thực hiện' chính sách tài chính thí điểm của QĐ 177/1998/QĐ-TTg; ghi huong-dan. Mục VI câu chung 'Mọi quy định trước đây ... trái với Thông tư này đều bãi bỏ' không nêu văn bản: không ghi."
+ },
+ {
+  "doc_id": "45344",
+  "relations": [
+   {
+    "source_path": "Mục VII",
+    "action": "thay-the",
+    "target_document": "16-TC/TCĐN",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thông tư này có hiệu lực thi hành sau 15 ngày kể từ ngày ký và thay thế Thông tư số 16-TC/TCĐN ngày 31/3/1997 của Bộ Tài chính"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Lời dẫn 'Bộ Tài chính hướng dẫn việc quản lý...' không nêu số hiệu văn bản được hướng dẫn: không ghi."
+ }
+]

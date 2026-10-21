@@ -1,0 +1,60 @@
+[
+ {
+  "doc_id": "294628",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quyết định ban hành Quy định quản lý cây xanh đô thị; chỉ dẫn chiếu Nghị định 64/2010/NĐ-CP (thực hiện theo quy định tại ...), không tác động trực tiếp lên văn bản khác."
+ },
+ {
+  "doc_id": "434039",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn trả lời chính sách thuế; chỉ dẫn chiếu công văn 4216/TCT-CS, không có tác động."
+ },
+ {
+  "doc_id": "577911",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "12/2017/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "thay thế Quyết định số 12/2017/QĐ-UBND ngày 07 tháng 8 năm 2017 của UBND tỉnh Khánh Hòa"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 2 thay thế toàn bộ Quyết định 12/2017/QĐ-UBND."
+ },
+ {
+  "doc_id": "484806",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn chỉ đạo phòng chống COVID-19. Mục 2.1 'Cho phép thêm các nhóm đối tượng sau được hoạt động' mở rộng danh sách đối tượng nhưng không nói sửa đổi, bổ sung Công văn 2468/UBND-VX hay văn bản cụ thể nào: không ghi quan hệ. Các văn bản khác chỉ được dẫn chiếu để thực hiện."
+ },
+ {
+  "doc_id": "560671",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quyết định ban hành Kế hoạch hành động thực hiện Quyết định 339/QĐ-TTg: kế hoạch thực hiện, không phải hướng dẫn hay quy định chi tiết; không có quan hệ. Phần đầu nêu 339/QĐ-TTg nhưng chỉ 'thực hiện'."
+ },
+ {
+  "doc_id": "185801",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Nghị quyết phê chuẩn tổng quyết toán ngân sách 2011; không tác động lên văn bản khác."
+ },
+ {
+  "doc_id": "603956",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn trả lời của Cục Thuế; trích dẫn Thông tư 96/2015/TT-BTC sửa đổi Thông tư 78/2014/TT-BTC là trích dẫn, không phải hành động."
+ },
+ {
+  "doc_id": "188759",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Kế hoạch thực hiện Chương trình MTQG phòng chống ma túy; giao Sở Tư pháp 'đề xuất sửa đổi, bổ sung' là nhiệm vụ, không phải quan hệ."
+ }
+]

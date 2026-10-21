@@ -1,0 +1,89 @@
+[
+ {
+  "doc_id": "503125",
+  "relations": [
+   {
+    "source_path": "Điều 4 Khoản 1",
+    "action": "thay-the",
+    "target_document": "14/2017/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực thi hành kể từ ngày 20 tháng 01 năm 2022 và thay thế các Quyết định: Quyết định số 14/2017/QĐ-UBND ngày 04 tháng 5 năm 2017 của Ủy ban nhân dân tỉnh Phú Thọ về việc quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Sở Văn hoá, Thể thao và Du lịch tỉnh Phú Thọ; Quyết định số 11/2018/QĐ-UBND ngày 18 tháng 6 năm 2018"
+   },
+   {
+    "source_path": "Điều 4 Khoản 1",
+    "action": "thay-the",
+    "target_document": "11/2018/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực thi hành kể từ ngày 20 tháng 01 năm 2022 và thay thế các Quyết định: Quyết định số 14/2017/QĐ-UBND ngày 04 tháng 5 năm 2017 của Ủy ban nhân dân tỉnh Phú Thọ về việc quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Sở Văn hoá, Thể thao và Du lịch tỉnh Phú Thọ; Quyết định số 11/2018/QĐ-UBND ngày 18 tháng 6 năm 2018"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": ""
+ },
+ {
+  "doc_id": "372810",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "78/2013/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này thay thế Quyết định số 78/2013/QĐ-UBND ngày 30/12/2013 của UBND tỉnh Đồng Nai ban hành quy định quản lý hoạt động vận tải khách bằng xe taxi trên địa bàn tỉnh Đồng Nai."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quy định kèm theo chỉ dẫn chiếu NĐ 86/2014, TT 63/2014, TT 60/2015."
+ },
+ {
+  "doc_id": "546074",
+  "relations": [
+   {
+    "source_path": "Điều 5 Khoản 2",
+    "action": "thay-the",
+    "target_document": "15/2017/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị quyết này thay thế Nghị quyết số 15/2017/NQ-HĐND ngày 21 tháng 7 năm 2017 của Hội đồng nhân dân tỉnh Kon Tum quy định mức phân bổ kinh phí đảm bảo công tác xây dựng, hoàn thiện văn bản quy phạm pháp luật của Hội đồng nhân dân, Ủy ban nhân dân các cấp trên địa bàn tỉnh Kon Tum."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Văn bản gốc không có Điều 3 (từ Điều 2 sang Điều 4). Điều 2 khoản 3 chỉ dẫn chiếu TT 338/2016 và TT 42/2022."
+ },
+ {
+  "doc_id": "521259",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn xin ý kiến dự thảo Nghị quyết CP thực hiện NQ 20-NQ/TW (văn bản Đảng); dự thảo kèm theo chưa có số. Phụ lục liệt kê nhiệm vụ 'Luật Hợp tác xã (sửa đổi)'... là nhiệm vụ tương lai. Không có quan hệ."
+ },
+ {
+  "doc_id": "367070",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Nghị quyết thí điểm cơ chế đặc thù; Điều 7 khoản 2 là quy tắc áp dụng ưu tiên, không sửa đổi luật cụ thể; Điều 8 khoản 2 điểm d là nhiệm vụ xây dựng luật. Không có quan hệ."
+ },
+ {
+  "doc_id": "659080",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Kế hoạch triển khai; chỉ dẫn chiếu văn bản khác. Không có quan hệ."
+ },
+ {
+  "doc_id": "276185",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn đề nghị triển khai Luật XLVPHC và NĐ 81/2013/NĐ-CP; không thực hiện hành động lên văn bản. Không có quan hệ."
+ },
+ {
+  "doc_id": "56201",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Chỉ thị thực hiện Chỉ thị 18/2007/CT-TTg và 24/2007/CT-UBND (căn cứ, triển khai). Không có quan hệ."
+ }
+]

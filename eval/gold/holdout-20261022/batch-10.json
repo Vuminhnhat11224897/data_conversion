@@ -1,0 +1,603 @@
+[
+ {
+  "doc_id": "70171",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Không có tác động lên văn bản khác."
+ },
+ {
+  "doc_id": "528427",
+  "relations": [
+   {
+    "source_path": "Phụ lục 1 STT 2",
+    "action": "thay-the",
+    "target_document": "318/QĐ-TTg",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "nội dung 2.4. Tỷ lệ đường trục chính nội đồng đảm bảo vận chuyển hàng hóa thuận tiện quanh năm tại Bộ tiêu chí quốc gia về xã nông thôn mới",
+    "evidence": "Thay thế nội dung 2.4. Tỷ lệ đường trục chính nội đồng đảm bảo vận chuyển hàng hóa thuận tiện quanh năm tại Bộ tiêu chí quốc gia về xã nông thôn mới kèm theo Quyết định số 318/QĐ-TTg"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Ca khó: chữ hành động nằm ở chú thích [1] dưới bảng, gắn với chỉ tiêu 2.4 dòng STT 2 (dưới đề mục II trong bảng; nếu tính đề mục thì 'Phụ lục 1 Mục II STT 2'). UBND tỉnh thay chỉ tiêu quốc gia trong bộ tiêu chí áp dụng ở tỉnh; ghi theo chữ văn bản, cần duyệt."
+ },
+ {
+  "doc_id": "294577",
+  "relations": [
+   {
+    "source_path": "Điều 6 Khoản 1",
+    "action": "thay-the",
+    "target_document": "159/2010/TT-BTC",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thông tư này có hiệu lực thi hành kể từ ngày 26 tháng 10 năm 2015 và thay thế Thông tư số 159/2010/TT-BTC ngày 15 tháng 10 năm 2010 của Bộ Tài chính"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 5 'Thông tư này hướng dẫn cụ thể một số nội dung như sau' nói về việc lập dự toán, không nêu văn bản đích cụ thể: không ghi."
+ },
+ {
+  "doc_id": "81832",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quyết định cá biệt cho nhập quốc tịch; không có tác động."
+ },
+ {
+  "doc_id": "122104",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 11 'Các quy định trước đây trái với quy định này đều bị bãi bỏ' là câu chung, không nêu văn bản: không ghi."
+ },
+ {
+  "doc_id": "71020",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn; 'Đình chỉ lưu hành' áp dụng cho sản phẩm sữa, không phải văn bản."
+ },
+ {
+  "doc_id": "334159",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "03/2016/TT-BNNPTNT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ NỘI DUNG CỦA THÔNG TƯ SỐ 03/2016/TT-BNNPTNT"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "03/2016/TT-BNNPTNT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ NỘI DUNG CỦA THÔNG TƯ SỐ 03/2016/TT-BNNPTNT"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "03/2016/TT-BNNPTNT",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "tên tổ chức xin đăng ký; tên thương phẩm và dạng thuốc; đơn vị tính và hàm lượng hoạt chất thuốc bảo vệ thực vật",
+    "evidence": "Sửa đổi tên tổ chức xin đăng ký; tên thương phẩm và dạng thuốc; đơn vị tính và hàm lượng hoạt chất thuốc bảo vệ thực vật (Phụ lục I ban hành kèm theo Thông tư này)"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "03/2016/TT-BNNPTNT",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Danh mục thuốc bảo vệ thực vật được phép sử dụng tại Việt Nam",
+    "evidence": "Các thuốc bảo vệ thực vật đăng ký chính thức vào Danh mục thuốc bảo vệ thực vật được phép sử dụng tại Việt Nam (Phụ lục II ban hành kèm theo Thông tư này)"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "bo-sung",
+    "target_document": "03/2016/TT-BNNPTNT",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Danh mục thuốc bảo vệ thực vật được phép sử dụng tại Việt Nam",
+    "evidence": "Các thuốc bảo vệ thực vật đăng ký bổ sung vào Danh mục thuốc bảo vệ thực vật được phép sử dụng tại Việt Nam (Phụ lục III ban hành kèm theo Thông tư này)"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên Điều 1 'Sửa đổi, bổ sung một số nội dung của Thông tư số 03/2016/TT-BNNPTNT' là câu dẫn của các khoản; ghi quan hệ ở từng khoản. Khoản 2 (đăng ký chính thức vào Danh mục) xếp là bo-sung theo tên Điều 1. Dòng bảng Phụ lục I chỉ là chi tiết của khoản 1, không ghi riêng."
+ },
+ {
+  "doc_id": "562142",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "18/2022/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm b khoản 1 Điều 1",
+     "điểm a khoản 3 Điều 1",
+     "điểm c khoản 3 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG ĐIỂM B KHOẢN 1 VÀ ĐIỂM A, ĐIỂM C KHOẢN 3 ĐIỀU 1 CỦA NGHỊ QUYẾT SỐ 18/2022/NQ-HDND"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "18/2022/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm b khoản 1 Điều 1",
+     "điểm a khoản 3 Điều 1",
+     "điểm c khoản 3 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG ĐIỂM B KHOẢN 1 VÀ ĐIỂM A, ĐIỂM C KHOẢN 3 ĐIỀU 1 CỦA NGHỊ QUYẾT SỐ 18/2022/NQ-HDND"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "18/2022/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm b khoản 1 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm b khoản 1 Điều 1 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "18/2022/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm b khoản 1 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm b khoản 1 Điều 1 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "18/2022/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 3 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm a khoản 3 Điều 1 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "18/2022/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 3 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm a khoản 3 Điều 1 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "sua-doi",
+    "target_document": "18/2022/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm c khoản 3 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi điểm c khoản 3 Điều 1 như sau:"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên văn bản in '18/2022/NQ-HDND' (lỗi chính tả), chuẩn hóa thành 18/2022/NQ-HĐND."
+ },
+ {
+  "doc_id": "188833",
+  "relations": [
+   {
+    "source_path": "Điều 1",
+    "action": "sua-doi",
+    "target_document": "38/2011/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [
+     "Điều 12"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 12, Chương III, Quyết định số 38/2011/QĐ- UBND ngày 08/8/2011"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bo-sung",
+    "target_document": "38/2011/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [
+     "Điều 12"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 12, Chương III, Quyết định số 38/2011/QĐ- UBND ngày 08/8/2011"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 12 Chương III thực chất thuộc Quy chế ban hành kèm theo QĐ 38/2011 nhưng câu nêu 'Quyết định số 38/2011': khong_ro. Tên văn bản không nêu số hiệu: không ghi Phần đầu."
+ },
+ {
+  "doc_id": "243123",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "15/2008/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG NGHỊ QUYẾT SỐ 15/2008/NQ-HĐND NGÀY 22 THÁNG 7 NĂM 2008, NGHỊ QUYẾT SỐ 13/2005/NQ-HĐND"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "15/2008/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG NGHỊ QUYẾT SỐ 15/2008/NQ-HĐND NGÀY 22 THÁNG 7 NĂM 2008, NGHỊ QUYẾT SỐ 13/2005/NQ-HĐND"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "13/2005/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG NGHỊ QUYẾT SỐ 15/2008/NQ-HĐND NGÀY 22 THÁNG 7 NĂM 2008, NGHỊ QUYẾT SỐ 13/2005/NQ-HĐND"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "13/2005/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG NGHỊ QUYẾT SỐ 15/2008/NQ-HĐND NGÀY 22 THÁNG 7 NĂM 2008, NGHỊ QUYẾT SỐ 13/2005/NQ-HĐND"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "sua-doi",
+    "target_document": "15/2008/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi Điều 1 Nghị quyết số 15/2008/NQ-HĐND ngày 22 tháng 7 năm 2008"
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "sua-doi",
+    "target_document": "13/2005/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục II Phụ lục"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Mục II Phụ lục kèm theo Nghị quyết số 13/2005/NQ-HĐND"
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bo-sung",
+    "target_document": "13/2005/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục II Phụ lục"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Mục II Phụ lục kèm theo Nghị quyết số 13/2005/NQ-HĐND"
+   },
+   {
+    "source_path": "Điều 3",
+    "action": "sua-doi",
+    "target_document": "13/2005/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm 1 Mục III Phụ lục"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm 1 Mục III Phụ lục kèm theo Nghị quyết số 13/2005/NQ-HĐND"
+   },
+   {
+    "source_path": "Điều 3",
+    "action": "bo-sung",
+    "target_document": "13/2005/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm 1 Mục III Phụ lục"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm 1 Mục III Phụ lục kèm theo Nghị quyết số 13/2005/NQ-HĐND"
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 2 Khoản 1",
+    "loai": "nhan_sai_dieu",
+    "ghi_chu": "Khoản 1, 2 của Điều 2 và khoản 1 của Điều 3 là nội dung mới của Phụ lục NQ 13/2005 (không đặt trong ngoặc kép), không phải khoản của văn bản này."
+   }
+  ],
+  "ghi_chu": "Vị trí 'điểm 1 Mục III Phụ lục' ghi theo câu; có thể rút về 'Mục III Phụ lục'."
+ },
+ {
+  "doc_id": "229154",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "52/2007/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI MỘT SỐ ĐIỀU QUY ĐỊNH QUẢN LÝ VÀ ĐIỀU HÀNH NGÂN SÁCH ĐỊA PHƯƠNG BAN HÀNH KÈM THEO QUYẾT ĐỊNH SỐ 52/2007/QĐ-UBND"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "52/2007/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Điều 2 được sửa đổi như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "52/2007/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 25"
+    ],
+    "doi_tuong": null,
+    "evidence": "Điều 25 được sửa đổi như sau:"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Câu dẫn Điều 1 nêu Quy định ban hành kèm theo QĐ 52/2007; quan hệ ghi ở từng khoản."
+ },
+ {
+  "doc_id": "55493",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "217-HĐBT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 20"
+    ],
+    "doi_tuong": null,
+    "evidence": "Hội đòng Bộ trưởng quy định lại nội dung sử dụng tiền trích khấu hao cơ bản tài sản cố định tại các điều 20 (Quyết định số 217-HĐBT) và điều 44 (Nghị định số 50-HĐBT)"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "50-HĐBT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 44"
+    ],
+    "doi_tuong": null,
+    "evidence": "Hội đòng Bộ trưởng quy định lại nội dung sử dụng tiền trích khấu hao cơ bản tài sản cố định tại các điều 20 (Quyết định số 217-HĐBT) và điều 44 (Nghị định số 50-HĐBT)"
+   },
+   {
+    "source_path": "Mục 3",
+    "action": "bai-bo",
+    "target_document": "217-HĐBT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 20"
+    ],
+    "doi_tuong": null,
+    "evidence": "Những quy định trước đây ở điều 20 Quyết định số 217-HĐBT và điều 44 Nghị định số 50-HĐBT và các Thông tư hướng dẫn của các Bộ, các ngành trái với Quyết định này đều bị bãi bỏ."
+   },
+   {
+    "source_path": "Mục 3",
+    "action": "bai-bo",
+    "target_document": "50-HĐBT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 44"
+    ],
+    "doi_tuong": null,
+    "evidence": "Những quy định trước đây ở điều 20 Quyết định số 217-HĐBT và điều 44 Nghị định số 50-HĐBT và các Thông tư hướng dẫn của các Bộ, các ngành trái với Quyết định này đều bị bãi bỏ."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Văn bản không chia Điều; câu 'quy định lại nội dung ... tại các điều 20 ... và điều 44' nằm ở lời dẫn trước mục 1 (sửa đổi). Mục 3 bãi bỏ các quy định ở điều 20 và điều 44 trái với Quyết định này: câu nêu rõ vị trí nên ghi bai-bo; phần 'các Thông tư hướng dẫn ... trái với' là câu chung, không ghi. Điều 44 có thể thuộc Điều lệ kèm NĐ 50-HĐBT; câu nêu thẳng 'điều 44 Nghị định số 50-HĐBT'."
+ },
+ {
+  "doc_id": "375075",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "1931/QĐ-BCT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG QUYẾT ĐỊNH SỐ 1931/QĐ-BCT"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "1931/QĐ-BCT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG QUYẾT ĐỊNH SỐ 1931/QĐ-BCT"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "1931/QĐ-BCT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung thành: “...có mã HS 7210.70.11"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "1931/QĐ-BCT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung thành: “...có mã HS 7210.70.11"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "1931/QĐ-BCT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục 2"
+    ],
+    "doi_tuong": "Thông báo về việc áp dụng biện pháp tự vệ chính thức",
+    "evidence": "Sửa đổi, bổ sung thành: “...Phân loại theo mã HS: 7210.70.11"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "1931/QĐ-BCT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục 2"
+    ],
+    "doi_tuong": "Thông báo về việc áp dụng biện pháp tự vệ chính thức",
+    "evidence": "Sửa đổi, bổ sung thành: “...Phân loại theo mã HS: 7210.70.11"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Câu dẫn Điều 1 nêu cả Điều 1 QĐ 1931 và Mục 2 Thông báo kèm theo QĐ 1931; ghi ở từng khoản. Có thể chấm ở 'Điều 1'."
+ },
+ {
+  "doc_id": "355163",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "1518/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ NỘI DUNG QUYẾT ĐỊNH SỐ 1518/QĐ-UBND"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "1518/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ NỘI DUNG QUYẾT ĐỊNH SỐ 1518/QĐ-UBND"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "1518/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi nội dung khoản 3, Điều 1, Quyết định số 1518/QĐ-UBND ngày 27/4/2015 thành:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "1518/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 8 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung vào khoản 8, Điều 1, Quyết định số 1518/QĐ-UBND ngày 27/4/2015:"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 2 'các nội dung khác ... vẫn còn hiệu lực' không phải hành động."
+ },
+ {
+  "doc_id": "535955",
+  "relations": [
+   {
+    "source_path": "Điều 3",
+    "action": "bai-bo",
+    "target_document": "2579/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "thủ tục hành chính có số thứ tự 1 mục VI- Hoạt động mua bán hàng hóa quốc tế chuyên ngành văn hóa",
+    "evidence": "bãi bỏ thủ tục hành chính có số thứ tự 1 mục VI- Hoạt động mua bán hàng hóa quốc tế chuyên ngành văn hóa tại Quyết định số 2579/QĐ-UBND ngày 24/7/2021"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Bãi bỏ một dòng (số thứ tự 1 mục VI) của danh mục quy trình kèm QĐ 2579; câu không nêu phụ lục nên vi_tri rỗng, ghi doi_tuong."
+ },
+ {
+  "doc_id": "264618",
+  "relations": [
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "34/2010/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm a khoản 2 Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm a khoản 2 Điều 2 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "34/2010/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm a khoản 2 Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm a khoản 2 Điều 2 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "34/2010/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 7 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "34/2010/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 7 như sau:"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Số hiệu đích lấy từ câu dẫn Điều 1 (Quy định ban hành kèm theo QĐ 34/2010/QĐ-UBND). Tên văn bản không nêu số hiệu: không ghi Phần đầu."
+ }
+]

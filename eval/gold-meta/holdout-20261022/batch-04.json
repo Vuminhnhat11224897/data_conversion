@@ -1,0 +1,121 @@
+[
+ {
+  "doc_id": "294628",
+  "la_vbqppl": true,
+  "cap_hieu_luc": 11,
+  "ngay_hieu_luc": "2015-10-30",
+  "ngay_het_hieu_luc": null,
+  "ngay_hoi_to": null,
+  "hieu_luc_rieng": [],
+  "trich": {
+   "ngay_hieu_luc": "Quyết định này có hiệu lực thi hành sau 10 ngày kể từ ngày ký.",
+   "la_vbqppl": "Quyết định QPPL của UBND tỉnh ban hành Quy định quản lý cây xanh đô thị, áp dụng chung",
+   "cap_hieu_luc": "Quyết định của UBND cấp tỉnh"
+  },
+  "chua_chac": []
+ },
+ {
+  "doc_id": "434039",
+  "la_vbqppl": false,
+  "cap_hieu_luc": null,
+  "ngay_hieu_luc": "2019-12-31",
+  "ngay_het_hieu_luc": null,
+  "ngay_hoi_to": null,
+  "hieu_luc_rieng": [],
+  "trich": {
+   "ngay_hieu_luc": "Không có câu hiệu lực; văn bản không phải QPPL: lấy ngày ban hành",
+   "la_vbqppl": "Công văn trả lời của Tổng cục Thuế"
+  },
+  "chua_chac": []
+ },
+ {
+  "doc_id": "577911",
+  "la_vbqppl": true,
+  "cap_hieu_luc": 11,
+  "ngay_hieu_luc": "2023-08-15",
+  "ngay_het_hieu_luc": null,
+  "ngay_hoi_to": null,
+  "hieu_luc_rieng": [],
+  "trich": {
+   "ngay_hieu_luc": "Quyết định này có hiệu lực thi hành từ ngày 15 tháng 8 năm 2023",
+   "la_vbqppl": "Quyết định QPPL của UBND tỉnh ban hành Quy chế phối hợp, áp dụng chung",
+   "cap_hieu_luc": "Quyết định của UBND cấp tỉnh"
+  },
+  "chua_chac": []
+ },
+ {
+  "doc_id": "484806",
+  "la_vbqppl": false,
+  "cap_hieu_luc": null,
+  "ngay_hieu_luc": "2021-08-15",
+  "ngay_het_hieu_luc": null,
+  "ngay_hoi_to": null,
+  "hieu_luc_rieng": [],
+  "trich": {
+   "ngay_hieu_luc": "Không có câu hiệu lực của văn bản; công văn: lấy ngày ban hành. Mục 1 nêu biện pháp áp dụng 'từ 00 giờ 00 ngày 16 tháng 8 đến hết ngày 15 tháng 9 năm 2021'",
+   "la_vbqppl": "Công văn chỉ đạo của UBND Thành phố"
+  },
+  "chua_chac": [
+   "ngay_hieu_luc",
+   "ngay_het_hieu_luc"
+  ]
+ },
+ {
+  "doc_id": "560671",
+  "la_vbqppl": false,
+  "cap_hieu_luc": null,
+  "ngay_hieu_luc": "2023-02-23",
+  "ngay_het_hieu_luc": null,
+  "ngay_hoi_to": null,
+  "hieu_luc_rieng": [],
+  "trich": {
+   "ngay_hieu_luc": "Quyết định này có hiệu lực thi hành kể từ ngày ký./.",
+   "la_vbqppl": "Quyết định ban hành kế hoạch hành động, văn bản cá biệt"
+  },
+  "chua_chac": []
+ },
+ {
+  "doc_id": "185801",
+  "la_vbqppl": false,
+  "cap_hieu_luc": null,
+  "ngay_hieu_luc": "2012-12-20",
+  "ngay_het_hieu_luc": null,
+  "ngay_hoi_to": null,
+  "hieu_luc_rieng": [],
+  "trich": {
+   "ngay_hieu_luc": "Không có câu hiệu lực; văn bản cá biệt: lấy ngày ban hành ('Nghị quyết này đã được HĐND tỉnh Hà Tĩnh khóa XVI, kỳ họp thứ 5 thông qua./.')",
+   "la_vbqppl": "Nghị quyết phê chuẩn tổng quyết toán ngân sách: văn bản cá biệt"
+  },
+  "chua_chac": [
+   "la_vbqppl"
+  ]
+ },
+ {
+  "doc_id": "603956",
+  "la_vbqppl": false,
+  "cap_hieu_luc": null,
+  "ngay_hieu_luc": "2024-03-21",
+  "ngay_het_hieu_luc": null,
+  "ngay_hoi_to": null,
+  "hieu_luc_rieng": [],
+  "trich": {
+   "ngay_hieu_luc": "Không có câu hiệu lực; công văn: lấy ngày ban hành",
+   "la_vbqppl": "Công văn trả lời của Cục Thuế"
+  },
+  "chua_chac": []
+ },
+ {
+  "doc_id": "188759",
+  "la_vbqppl": false,
+  "cap_hieu_luc": null,
+  "ngay_hieu_luc": "2013-02-26",
+  "ngay_het_hieu_luc": null,
+  "ngay_hoi_to": null,
+  "hieu_luc_rieng": [],
+  "trich": {
+   "ngay_hieu_luc": "Không có câu hiệu lực; kế hoạch: lấy ngày ban hành",
+   "la_vbqppl": "Kế hoạch"
+  },
+  "chua_chac": []
+ }
+]

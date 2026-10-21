@@ -1,0 +1,50 @@
+[
+ {
+  "doc_id": "91292",
+  "la_vbqppl": true,
+  "cap_hieu_luc": 11,
+  "ngay_hieu_luc": null,
+  "ngay_het_hieu_luc": null,
+  "ngay_hoi_to": null,
+  "hieu_luc_rieng": [],
+  "trich": {
+   "ngay_hieu_luc": "không có câu hiệu lực",
+   "la_vbqppl": "Chỉ thị UBND thành phố năm 1992 có quy định cấm chung, áp dụng cho mọi tổ chức, cá nhân",
+   "cap_hieu_luc": "Chỉ thị UBND cấp tỉnh"
+  },
+  "chua_chac": [
+   "la_vbqppl",
+   "ngay_hieu_luc"
+  ]
+ },
+ {
+  "doc_id": "44947",
+  "la_vbqppl": true,
+  "cap_hieu_luc": 8,
+  "ngay_hieu_luc": "1999-01-01",
+  "ngay_het_hieu_luc": null,
+  "ngay_hoi_to": null,
+  "hieu_luc_rieng": [],
+  "trich": {
+   "ngay_hieu_luc": "Thông tư này có hiệu lực thi hành từ ngày 01/01/1999.",
+   "la_vbqppl": "Thông tư",
+   "cap_hieu_luc": "Thông tư của Bộ Tài chính"
+  },
+  "chua_chac": []
+ },
+ {
+  "doc_id": "45344",
+  "la_vbqppl": true,
+  "cap_hieu_luc": 8,
+  "ngay_hieu_luc": "1999-06-08",
+  "ngay_het_hieu_luc": null,
+  "ngay_hoi_to": null,
+  "hieu_luc_rieng": [],
+  "trich": {
+   "ngay_hieu_luc": "Thông tư này có hiệu lực thi hành sau 15 ngày kể từ ngày ký",
+   "la_vbqppl": "Thông tư",
+   "cap_hieu_luc": "Thông tư của Bộ Tài chính"
+  },
+  "chua_chac": []
+ }
+]

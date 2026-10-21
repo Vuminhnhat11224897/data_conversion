@@ -1,0 +1,191 @@
+[
+ {
+  "doc_id": "33992",
+  "relations": [],
+  "loi_cau_truc": [
+   {
+    "source_path": "Phụ lục 1 Điều 22",
+    "loai": "nhan_sai_dieu",
+    "ghi_chu": "ten_dieu của Điều 22 chứa toàn bộ nội dung Điều; Chương 7 bị đánh số hai lần trong văn bản."
+   }
+  ],
+  "ghi_chu": "Không có tác động lên văn bản khác. Điều 22 Quy chế là giao Sở Thương mại đề xuất sửa đổi, không phải quan hệ."
+ },
+ {
+  "doc_id": "466794",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Phê duyệt kế hoạch kiểm tra ISO; QĐ 19/2014/QĐ-TTg, TT 26/2014/TT-BKHCN, QĐ 2502, 218, 354/QĐ-UBND chỉ là căn cứ."
+ },
+ {
+  "doc_id": "510266",
+  "relations": [
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "273/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "diện tích thu hồi đất, chuyển mục đích sử dụng đất đối với 02 dự án",
+    "evidence": "Điều chỉnh diện tích thu hồi đất, chuyển mục đích sử dụng đất đối với 02 dự án đã được HĐND tỉnh thông qua tại Nghị quyết số 273/NQ-HĐND ngày 29 tháng 4 năm 2021."
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "sua-doi",
+    "target_document": "109/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "thời gian tiếp tục thực hiện thu hồi, chuyển mục đích sử dụng đất đối với 06 dự án",
+    "evidence": "Điều chỉnh thời gian tiếp tục thực hiện thu hồi, chuyển mục đích sử dụng đất đối với 06 dự án đã được HĐND tỉnh thông qua tại Nghị quyết số 109/NQ-HĐND và Nghị quyết số 110/NQ-HĐND ngày 07 tháng 12 năm 2018"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "sua-doi",
+    "target_document": "110/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "thời gian tiếp tục thực hiện thu hồi, chuyển mục đích sử dụng đất đối với 06 dự án",
+    "evidence": "Điều chỉnh thời gian tiếp tục thực hiện thu hồi, chuyển mục đích sử dụng đất đối với 06 dự án đã được HĐND tỉnh thông qua tại Nghị quyết số 109/NQ-HĐND và Nghị quyết số 110/NQ-HĐND ngày 07 tháng 12 năm 2018"
+   },
+   {
+    "source_path": "Điều 1 Khoản 4",
+    "action": "sua-doi",
+    "target_document": "109/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "diện tích và thời gian tiếp tục thực hiện thu hồi đất của 03 dự án",
+    "evidence": "Điều chỉnh, bổ sung diện tích và điều chỉnh thời gian tiếp tục thực hiện thu hồi đất để thực hiện 03 dự án đã được HĐND tỉnh thông qua tại các Nghị quyết số 109/NQ-HĐND, Nghị quyết số 110/NQ-HĐND ngày 07 tháng 12 năm 2018, Nghị quyết số 60/NQ-HĐND ngày 08 tháng 12 năm 2017."
+   },
+   {
+    "source_path": "Điều 1 Khoản 4",
+    "action": "bo-sung",
+    "target_document": "109/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "diện tích và thời gian tiếp tục thực hiện thu hồi đất của 03 dự án",
+    "evidence": "Điều chỉnh, bổ sung diện tích và điều chỉnh thời gian tiếp tục thực hiện thu hồi đất để thực hiện 03 dự án đã được HĐND tỉnh thông qua tại các Nghị quyết số 109/NQ-HĐND, Nghị quyết số 110/NQ-HĐND ngày 07 tháng 12 năm 2018, Nghị quyết số 60/NQ-HĐND ngày 08 tháng 12 năm 2017."
+   },
+   {
+    "source_path": "Điều 1 Khoản 4",
+    "action": "sua-doi",
+    "target_document": "110/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "diện tích và thời gian tiếp tục thực hiện thu hồi đất của 03 dự án",
+    "evidence": "Điều chỉnh, bổ sung diện tích và điều chỉnh thời gian tiếp tục thực hiện thu hồi đất để thực hiện 03 dự án đã được HĐND tỉnh thông qua tại các Nghị quyết số 109/NQ-HĐND, Nghị quyết số 110/NQ-HĐND ngày 07 tháng 12 năm 2018, Nghị quyết số 60/NQ-HĐND ngày 08 tháng 12 năm 2017."
+   },
+   {
+    "source_path": "Điều 1 Khoản 4",
+    "action": "bo-sung",
+    "target_document": "110/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "diện tích và thời gian tiếp tục thực hiện thu hồi đất của 03 dự án",
+    "evidence": "Điều chỉnh, bổ sung diện tích và điều chỉnh thời gian tiếp tục thực hiện thu hồi đất để thực hiện 03 dự án đã được HĐND tỉnh thông qua tại các Nghị quyết số 109/NQ-HĐND, Nghị quyết số 110/NQ-HĐND ngày 07 tháng 12 năm 2018, Nghị quyết số 60/NQ-HĐND ngày 08 tháng 12 năm 2017."
+   },
+   {
+    "source_path": "Điều 1 Khoản 4",
+    "action": "sua-doi",
+    "target_document": "60/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "diện tích và thời gian tiếp tục thực hiện thu hồi đất của 03 dự án",
+    "evidence": "Điều chỉnh, bổ sung diện tích và điều chỉnh thời gian tiếp tục thực hiện thu hồi đất để thực hiện 03 dự án đã được HĐND tỉnh thông qua tại các Nghị quyết số 109/NQ-HĐND, Nghị quyết số 110/NQ-HĐND ngày 07 tháng 12 năm 2018, Nghị quyết số 60/NQ-HĐND ngày 08 tháng 12 năm 2017."
+   },
+   {
+    "source_path": "Điều 1 Khoản 4",
+    "action": "bo-sung",
+    "target_document": "60/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "diện tích và thời gian tiếp tục thực hiện thu hồi đất của 03 dự án",
+    "evidence": "Điều chỉnh, bổ sung diện tích và điều chỉnh thời gian tiếp tục thực hiện thu hồi đất để thực hiện 03 dự án đã được HĐND tỉnh thông qua tại các Nghị quyết số 109/NQ-HĐND, Nghị quyết số 110/NQ-HĐND ngày 07 tháng 12 năm 2018, Nghị quyết số 60/NQ-HĐND ngày 08 tháng 12 năm 2017."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "'Điều chỉnh' nội dung dự án đã thông qua tại nghị quyết trước được ghi là sua-doi. Khoản 3 (điều chỉnh thời gian tiếp tục thực hiện) cũng có thể hiểu là gia-han; giữ sua-doi theo chữ văn bản. Khoản 4 'Điều chỉnh, bổ sung diện tích' ghi sua-doi và bo-sung (chưa chắc bo-sung). Khoản 1 bổ sung dự án mới, không nêu văn bản đích. Tên văn bản không nêu số hiệu nghị quyết đích: không có Phần đầu. Cột 'Nghị quyết HĐND tỉnh đã thông qua' ở các Biểu chỉ liệt kê, chữ hành động ở khoản."
+ },
+ {
+  "doc_id": "532329",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Phê duyệt kế hoạch sử dụng đất; QĐ 353/QĐ-UBND chỉ là căn cứ."
+ },
+ {
+  "doc_id": "435965",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn trích dẫn Nghị định 100/2016, 146/2017, 209/2013, Thông tư 130/2016, 25/2018, 219/2013 (các câu 'sửa đổi, bổ sung' là kể lại nội dung văn bản khác): không ghi."
+ },
+ {
+  "doc_id": "365917",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quyết định cấp số đăng ký thuốc; không tác động lên văn bản khác."
+ },
+ {
+  "doc_id": "445828",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "bai-bo",
+    "target_document": "78/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "V/V BÃI BỎ QUYẾT ĐỊNH SỐ 78/QĐ-UBND NGÀY 26/4/2013 CỦA UBND TỈNH SÓC TRĂNG VỀ QUY ĐỊNH CƠ CẤU TỔ CHỨC VÀ QUY CHẾ HOẠT ĐỘNG CỦA HỘI ĐỒNG QUẢN LÝ QUỸ BẢO TRÌ ĐƯỜNG BỘ TỈNH SÓC TRĂNG"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bai-bo",
+    "target_document": "78/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ Quyết định số 78/QĐ-UBNĐ ngày 26/4/2013 của UBND tỉnh Sóc Trăng về việc Quy định cơ cấu tổ chức và Quy chế hoạt động của Hội đồng quản lý Quỹ bảo trì đường bộ tỉnh Sóc Trăng."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 1 viết sai '78/QĐ-UBNĐ'; tên văn bản ghi '78/QĐ-UBND' cùng ngày 26/4/2013, nên ghi đích là 78/QĐ-UBND."
+ },
+ {
+  "doc_id": "500121",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 3 'Những quy định tại Nghị quyết số 77/2013/NQ-HĐND17 ... trái với Nghị quyết này đều bị bãi bỏ' là câu chung không nêu phần bị tác động: không phải quan hệ. Các câu '9 khu vực điều chỉnh theo Nghị quyết số 77/2013/NQ-HĐND' chỉ phân loại khu vực quy hoạch, không phải hành động sửa đổi. Tờ trình đề nghị sửa đổi NQ 77 ở phần căn cứ không phải hành động."
+ },
+ {
+  "doc_id": "654505",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quyết định thành lập Đoàn kiểm tra; không tác động lên văn bản khác. Không có đơn vị trong don_vi; văn bản có hai Điều 3."
+ },
+ {
+  "doc_id": "472581",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Phê duyệt quy trình nội bộ cho TTHC 'được công bố tại Quyết định số 2311/QĐ-UBND': chỉ dẫn chiếu, không phải quan hệ. Quy trình kèm theo là file đính kèm, không có trong toàn văn."
+ },
+ {
+  "doc_id": "542116",
+  "relations": [
+   {
+    "source_path": "Điều 3 Khoản 2",
+    "action": "thay-the",
+    "target_document": "30/2022/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này thay thế Quyết định số 30/2022/QĐ-UBND ngày 29 tháng 8 năm 2022 của Ủy ban nhân dân tỉnh về việc xác định giá trị bồi thường cây trồng, vật nuôi khi Nhà nước thu hồi đất trên địa bàn tỉnh Hà Nam."
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 3 Khoản 2",
+    "loai": "gop_sai",
+    "ghi_chu": "Văn bản đánh số hai khoản '2.' trong Điều 3; khoản trách nhiệm thi hành bị gộp vào Điều 3 Khoản 2."
+   }
+  ],
+  "ghi_chu": "Bảng đơn giá kèm theo không có hành động lên văn bản khác."
+ }
+]

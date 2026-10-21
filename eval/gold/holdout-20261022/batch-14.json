@@ -1,0 +1,249 @@
+[
+ {
+  "doc_id": "592133",
+  "relations": [
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "huy-bo",
+    "target_document": "12/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "Dự án Đất cơ sở sản xuất phi nông nghiệp tại xã Việt Hùng (3,28 ha) trong danh mục thông qua tại Nghị quyết số 12/NQ-HĐND ngày 17/7/2021",
+    "evidence": "Hủy bỏ danh mục công trình, dự án chuyển mục đích sử dụng dưới 10 ha đất trồng lúa đã được Hội đồng nhân dân tỉnh thông qua gồm 10 công trình, dự án với tổng diện tích 26,38 ha."
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "huy-bo",
+    "target_document": "61/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "Các dự án thông qua tại Nghị quyết số 61/NQ-HĐND ngày 08/12/2020: Đất cơ sở sản xuất phi nông nghiệp TT Ninh Cường; Đất thương mại dịch vụ xã Việt Hùng; Dự án khu trang trại xã Trực Thanh",
+    "evidence": "Hủy bỏ danh mục công trình, dự án chuyển mục đích sử dụng dưới 10 ha đất trồng lúa đã được Hội đồng nhân dân tỉnh thông qua gồm 10 công trình, dự án với tổng diện tích 26,38 ha."
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "huy-bo",
+    "target_document": "61/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "Dự án Xây dựng trạm xăng dầu số 9 Công ty cổ phần tập đoàn đầu tư phát triển Trường An (xã Trực Nội) thông qua tại Nghị quyết số 61/NQ-HĐND ngày 02/12/2021",
+    "evidence": "Hủy bỏ danh mục công trình, dự án chuyển mục đích sử dụng dưới 10 ha đất trồng lúa đã được Hội đồng nhân dân tỉnh thông qua gồm 10 công trình, dự án với tổng diện tích 26,38 ha."
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "80/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "Dự án xây dựng cơ sở dịch vụ của Công ty cổ phần đầu tư và dịch vụ thương mại T&T (điều chỉnh diện tích 0,52 ha thành 0,60 ha)",
+    "evidence": "Điều chỉnh, chuyển tiếp danh mục công trình, dự án chuyển mục đích sử dụng dưới 10 ha đất trồng lúa gồm 08 công trình, dự án với tổng diện tích 16,19 ha"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "61/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "Dự án xây dựng Đường dây và TBA 110 kV Giao Thanh (Nghị quyết số 61/NQ-HĐND ngày 02/12/2021; điều chỉnh 1,77 ha thành 1,85 ha)",
+    "evidence": "Điều chỉnh, chuyển tiếp danh mục công trình, dự án chuyển mục đích sử dụng dưới 10 ha đất trồng lúa gồm 08 công trình, dự án với tổng diện tích 16,19 ha"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "19/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "Khu tái định cư và khu dân cư tập trung đội 12 xã Nghĩa Phong (điều chỉnh tăng đất trồng lúa, giảm đất phi nông nghiệp)",
+    "evidence": "Điều chỉnh, chuyển tiếp danh mục công trình, dự án chuyển mục đích sử dụng dưới 10 ha đất trồng lúa gồm 08 công trình, dự án với tổng diện tích 16,19 ha"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Ca khó. Khoản 3 hủy bỏ các dự án trong danh mục đã được HĐND tỉnh thông qua; Phụ lục II nêu NQ đã thông qua (12/NQ-HĐND 17/7/2021; 61/NQ-HĐND 08/12/2020; 61/NQ-HĐND 02/12/2021 - hai NQ khác nhau cùng số); 5 dòng Phụ lục II không ghi NQ nên không ghi quan hệ. Cột ghi chú dòng chỉ ghi 'đề nghị hủy bỏ' nên lấy source là Khoản 3. Khoản 2: chỉ ghi các dòng Phụ lục I Mục II nói rõ 'nay điều chỉnh' nội dung của NQ trước (80/NQ-HĐND, 61/NQ-HĐND 2021, 19/NQ-HĐND); các dòng chỉ 'chuyển tiếp' (12/NQ-HĐND, 54/NQ-HĐND, 61/NQ-HĐND 2020) không ghi. Có thể chọn source là dòng bảng thay vì Khoản 2. Tên văn bản không nêu số hiệu đích nên không có Phần đầu."
+ },
+ {
+  "doc_id": "101664",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 1 hủy bỏ 21 tiêu chuẩn TCVN (TCVN 5966:1995 ... TCVN ISO 14050:2000): đích là tiêu chuẩn, không phải văn bản có số hiệu, không ghi quan hệ."
+ },
+ {
+  "doc_id": "189000",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quyết định công bố TTHC; toàn văn không có danh mục kèm theo, không nêu văn bản đích."
+ },
+ {
+  "doc_id": "293900",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "2022/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ Quyết định số 2022/QĐ-UBND ngày 19/10/2012 của Chủ tịch UBND tỉnh Tây Ninh"
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "183/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ Quyết định số 183/QĐ-UBND ngày 31/01/2013 của Chủ tịch UBND tỉnh Tây Ninh"
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "851/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "các thủ tục hành chính thuộc lĩnh vực: Quản lý đầu tư; Quản lý Thương mại; Quản lý Quy hoạch – Xây dựng; Quản lý Môi trường; Quản lý đất đai",
+    "evidence": "Bãi bỏ toàn bộ các thủ tục hành chính thuộc lĩnh vực: Quản lý đầu tư; Quản lý Thương mại; Quản lý Quy hoạch – Xây dựng; Quản lý Môi trường; Quản lý đất đai đã được công bố tại Quyết định số 851/QĐ-UBND ngày 09/5/2012 của Chủ tịch UBND tỉnh Tây Ninh"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Hai quyết định bị bãi bỏ toàn bộ: vi_tri rỗng (cả văn bản). Mục B danh mục TTHC bị hủy bỏ/bãi bỏ không nêu quyết định đã công bố nên không có quan hệ dòng."
+ },
+ {
+  "doc_id": "410807",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Hướng dẫn chung về kiểm tra nghiệm thu, chỉ căn cứ và dẫn chiếu NĐ 46/2015/NĐ-CP, TT 26/2016/TT-BXD; không nêu hướng dẫn thi hành văn bản cụ thể."
+ },
+ {
+  "doc_id": "514380",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn trả lời doanh nghiệp, chỉ căn cứ, không có tác động."
+ },
+ {
+  "doc_id": "521479",
+  "relations": [
+   {
+    "source_path": "Điều 1",
+    "action": "huong-dan",
+    "target_document": "90/QĐ-TTg",
+    "target_section": "quyet_dinh",
+    "vi_tri": [],
+    "doi_tuong": "Tiểu dự án 1 Dự án 3 (nội dung hỗ trợ phát triển sản xuất trong lĩnh vực nông nghiệp)",
+    "evidence": "Thông tư này hướng dẫn thực hiện nội dung hỗ trợ phát triển sản xuất trong lĩnh vực nông nghiệp quy định tại Tiểu dự án 1 Dự án 3 của Quyết định số 90/QĐ-TTg"
+   },
+   {
+    "source_path": "Điều 10 Khoản 2",
+    "action": "thay-the",
+    "target_document": "18/2017/TT-BNNPTNT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thông tư này thay thế Thông tư số 18/2017/TT-BNNPTNT ngày 9/10/2017"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 10 khoản 3 là quy định chuyển tiếp, khoản 4 là câu chung, không phải quan hệ. Tên và lời dẫn không nêu số hiệu đích."
+ },
+ {
+  "doc_id": "495510",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn hướng dẫn khen thưởng tổng kết Chương trình theo QĐ 705/QĐ-TTg; 'Thực hiện Quyết định...' không phải hướng dẫn thi hành văn bản đó."
+ },
+ {
+  "doc_id": "85572",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "39/2005/TTLT/BTC-BKHCN",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU THÔNG TƯ LIÊN TỊCH SỐ 39/2005/TTLT/BTC-BKHCN NGÀY 23/5/2005"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "39/2005/TTLT/BTC-BKHCN",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU THÔNG TƯ LIÊN TỊCH SỐ 39/2005/TTLT/BTC-BKHCN NGÀY 23/5/2005"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "sua-doi",
+    "target_document": "39/2005/TTLT/BTC-BKHCN",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "tiểu điểm 5 điểm 1.1 khoản 1 Mục II"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi nội dung gạch đầu dòng thứ 5, điểm 1.1, khoản 1, Mục II, chi phí vật tư, dụng cụ, nguyên vật liệu thực hiện dự án, như sau:"
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "sua-doi",
+    "target_document": "39/2005/TTLT/BTC-BKHCN",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "tiểu điểm 3 điểm 1.4 khoản 1 Mục II"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi nội dung gạch đầu dòng thứ 3, điểm 1.4, khoản 1, Mục II, chi phí vật tư, dụng cụ, nguyên vật liệu chính thực hiện dự án, như sau:"
+   },
+   {
+    "source_path": "Điều 3",
+    "action": "sua-doi",
+    "target_document": "39/2005/TTLT/BTC-BKHCN",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Mục II"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi nội dung khoản 2, Mục II, chi thù lao trách nhiệm của các thành viên Ban chỉ đạo, như sau:"
+   },
+   {
+    "source_path": "Điều 4",
+    "action": "bo-sung",
+    "target_document": "39/2005/TTLT/BTC-BKHCN",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm 4.1 khoản 4 Mục II"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung vào cuối điểm 4.1, khoản 4, Mục II, giao dự toán, như sau:"
+   },
+   {
+    "source_path": "Điều 5",
+    "action": "sua-doi",
+    "target_document": "39/2005/TTLT/BTC-BKHCN",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm 5.1 khoản 5 Mục II"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung nội dung điểm 5.1, khoản 5, Mục II, về cấp phát và kiểm soát chi đối với các dự án Trung ương quản lý, như sau:"
+   },
+   {
+    "source_path": "Điều 5",
+    "action": "bo-sung",
+    "target_document": "39/2005/TTLT/BTC-BKHCN",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm 5.1 khoản 5 Mục II"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung nội dung điểm 5.1, khoản 5, Mục II, về cấp phát và kiểm soát chi đối với các dự án Trung ương quản lý, như sau:"
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 5 Khoản 3",
+    "loai": "nhan_sai_dieu",
+    "ghi_chu": "Mục 1, 2, 3 trong Điều 5 là nội dung mới của điểm 5.1 khoản 5 Mục II TTLT 39/2005 (không có ngoặc kép), bị nhận thành khoản của Điều 5."
+   }
+  ],
+  "ghi_chu": "Đích các Điều 1-5 lấy từ lời dẫn (TTLT 39/2005). TTLT 39/2005 chia Mục, không chia Điều; gạch đầu dòng của điểm ghi là tiểu điểm. Lời dẫn cũng nêu sửa đổi, bổ sung TTLT 39/2005 (trùng quan hệ Phần đầu của tên)."
+ }
+]

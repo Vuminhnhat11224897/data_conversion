@@ -1,0 +1,214 @@
+[
+ {
+  "doc_id": "559417",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quy chế ban hành mới; chỉ dẫn chiếu NĐ 46/2010, QĐ 02/2008/QĐ-BNV (mẫu 2C), Luật; không có tác động."
+ },
+ {
+  "doc_id": "605591",
+  "relations": [
+   {
+    "source_path": "Điều 3",
+    "action": "thay-the",
+    "target_document": "213/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực thi hành kể từ ngày ký và thay thế Quyết định số 213/QĐ-UBND ngày 29 tháng 01 năm 2021 của Ủy ban nhân dân tỉnh về việc quy định Tiêu chí lựa chọn sách giáo khoa trong cơ sở giáo dục phổ thông trên địa bàn tỉnh Trà Vinh."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": ""
+ },
+ {
+  "doc_id": "494268",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn đề nghị báo cáo; không có tác động."
+ },
+ {
+  "doc_id": "299860",
+  "relations": [
+   {
+    "source_path": "Điều 1 Khoản 1 điểm a",
+    "action": "bai-bo",
+    "target_document": "658/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 658/QĐ-UBND ngày 24/11/2008 của Ủy ban nhân dân tỉnh về việc quy định chức năng, nhiệm vụ, quyền hạn, tổ chức bộ máy của Sở Nông nghiệp và Phát triển nông thôn tỉnh Tuyên Quang."
+   },
+   {
+    "source_path": "Điều 1 Khoản 1 điểm b",
+    "action": "bai-bo",
+    "target_document": "202/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 202/QĐ-UBND ngày 02/6/2011 của Ủy ban nhân dân tỉnh về việc sửa đổi, bổ sung Quyết định số 658/QĐ-UBND"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1 điểm c",
+    "action": "bai-bo",
+    "target_document": "54/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 54/QĐ-UBND ngày 22/02/2011 của Ủy ban nhân dân tỉnh về việc sửa đổi, bổ sung Quyết định số 658/QĐ-UBND"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1 điểm d",
+    "action": "bai-bo",
+    "target_document": "35/2005/QĐ-UB",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 35/2005/QĐ-UB ngày 21/4/2005 của Ủy ban nhân dân tỉnh về chức năng, nhiệm vụ, tổ chức bộ máy, biên chế của Chi cục Thú y thuộc Sở Nông nghiệp và Phát triển nông thôn tỉnh Tuyên Quang."
+   },
+   {
+    "source_path": "Điều 1 Khoản 1 điểm đ",
+    "action": "bai-bo",
+    "target_document": "41/2005/QĐ-UB",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 41/2005/QĐ-UB ngày 21/4/2005 của Ủy ban nhân dân tỉnh về việc thành lập Chi cục Lâm nghiệp thuộc Sở Nông nghiệp và Phát triển nông thôn tỉnh Tuyên Quang."
+   },
+   {
+    "source_path": "Điều 1 Khoản 1 điểm e",
+    "action": "bai-bo",
+    "target_document": "42/2005/QĐ-UB",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 42/2005/QĐ-UB ngày 21/4/2005 của Ủy ban nhân dân tỉnh về chức năng, nhiệm vụ, tổ chức bộ máy, biên chế của Chi cục Bảo vệ thực vật thuộc Sở Nông nghiệp và Phát triển nông thôn tỉnh Tuyên Quang."
+   },
+   {
+    "source_path": "Điều 1 Khoản 2 điểm a",
+    "action": "bai-bo",
+    "target_document": "23/QĐ-UB",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "các quy định về nhiệm vụ, quyền hạn, cơ cấu tổ chức của Trung tâm Thủy sản",
+    "evidence": "Bãi bỏ các quy định về nhiệm vụ, quyền hạn, cơ cấu tổ chức của Trung tâm Thủy sản tại Quyết định số 23/QĐ-UB ngày 05/3/2004"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2 điểm b",
+    "action": "bai-bo",
+    "target_document": "37/2005/QĐ-UB",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "các quy định về nhiệm vụ, quyền hạn, cơ cấu tổ chức của Trung tâm Khuyến nông",
+    "evidence": "Bãi bỏ các quy định về nhiệm vụ, quyền hạn, cơ cấu tổ chức của Trung tâm Khuyến nông tại Quyết định số 37/2005/QĐ-UB ngày 21/4/2005"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2 điểm c",
+    "action": "bai-bo",
+    "target_document": "38/2005/QĐ-UB",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "các quy định về nhiệm vụ, quyền hạn, cơ cấu tổ chức của Trung tâm nước sạch và Vệ sinh môi trường nông thôn",
+    "evidence": "Bãi bỏ các quy định về nhiệm vụ, quyền hạn, cơ cấu tổ chức của Trung tâm nước sạch và Vệ sinh môi trường nông thôn tại Quyết định số 38/2005/QĐ-UB ngày 21/4/2005"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2 điểm d",
+    "action": "bai-bo",
+    "target_document": "40/2005/QĐ-UB",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "các quy định về nhiệm vụ, quyền hạn và cơ cấu tổ chức của Chi cục Thủy lợi",
+    "evidence": "Bãi bỏ các quy định về nhiệm vụ, quyền hạn và cơ cấu tổ chức của Chi cục Thủy lợi tại Quyết định số 40/2005/QĐ-UB ngày 21/4/2005"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2 điểm đ",
+    "action": "bai-bo",
+    "target_document": "142/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "các quy định về nhiệm vụ, quyền hạn và cơ cấu tổ chức của Chi cục Phát triển nông thôn",
+    "evidence": "Bãi bỏ các quy định về nhiệm vụ, quyền hạn và cơ cấu tổ chức của Chi cục Phát triển nông thôn tại Quyết định số 142/QĐ -UBND ngày 02/6/2012"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2 điểm e",
+    "action": "bai-bo",
+    "target_document": "147/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "các quy định về nhiệm vụ, quyền hạn và cơ cấu tổ chức của Chi cục Quản lý Chất lượng Nông lâm sản và Thủy sản",
+    "evidence": "Bãi bỏ các quy định về nhiệm vụ, quyền hạn và cơ cấu tổ chức của Chi cục Quản lý Chất lượng Nông lâm sản và Thủy sản tại Quyết định số 147/QĐ-UBND ngày 07/6/2012"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2 điểm g",
+    "action": "bai-bo",
+    "target_document": "320/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "các quy định về nhiệm vụ, quyền hạn, cơ cấu tổ chức của Ban Quản lý rừng phòng hộ Na Hang",
+    "evidence": "Bãi bỏ các quy định về nhiệm vụ, quyền hạn, cơ cấu tổ chức của Ban Quản lý rừng phòng hộ Na Hang tại Quyết định số 320/QĐ-UBND ngày 10/8/2007"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2 điểm h",
+    "action": "bai-bo",
+    "target_document": "162/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "các quy định về nhiệm vụ, quyền hạn, cơ cấu tổ chức của Ban Quản lý rừng phòng hộ Lâm Bình",
+    "evidence": "Bãi bỏ các quy định về nhiệm vụ, quyền hạn, cơ cấu tổ chức của Ban Quản lý rừng phòng hộ Lâm Bình tại Quyết định số 162/QĐ-UBND ngày 18/6/2012"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2 điểm i",
+    "action": "bai-bo",
+    "target_document": "397/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "các quy định về nhiệm vụ, quyền hạn, cơ cấu tổ chức của Ban Quản lý khai thác công trình thủy lợi Tuyên Quang",
+    "evidence": "Bãi bỏ các quy định về nhiệm vụ, quyền hạn, cơ cấu tổ chức của Ban Quản lý khai thác công trình thủy lợi Tuyên Quang tại Quyết định số 397/QĐ-UBND ngày 31/10/2011"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên văn bản không nêu số hiệu đích nên không có Phần đầu. Khoản 1: bãi bỏ toàn bộ 6 quyết định. Khoản 2: bãi bỏ một phần (chỉ nêu phần bằng tên, vi_tri rỗng, doi_tuong ghi tên phần). Văn bản in '142/QĐ -UBND', chuẩn hóa thành 142/QĐ-UBND. Điểm b, c khoản 1 nhắc 658/QĐ-UBND chỉ để mô tả đích."
+ },
+ {
+  "doc_id": "13493",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn trả lời; chỉ trích dẫn TT 120/2003, TT 120/2002, TT 123/2004 (câu 'hết hiệu lực' nằm trong ngoặc kép, là nội dung của TT 123/2004); không có tác động."
+ },
+ {
+  "doc_id": "144481",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Nghị quyết quy định mức phí mới; không nêu bãi bỏ hay thay thế văn bản nào."
+ },
+ {
+  "doc_id": "533663",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quy chế tiếp công dân ban hành mới; không có tác động."
+ },
+ {
+  "doc_id": "452927",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn; không có tác động."
+ },
+ {
+  "doc_id": "392510",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Kế hoạch triển khai NĐ 102/2017/NĐ-CP; 'triển khai thực hiện' không phải hướng dẫn hay quy định chi tiết; không có tác động."
+ },
+ {
+  "doc_id": "498924",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Nghị quyết quy định diện tích nhà ở tối thiểu (theo thẩm quyền Luật Cư trú) nhưng văn bản không tự nói quy định chi tiết điều nào; không ghi quan hệ."
+ },
+ {
+  "doc_id": "400244",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Kế hoạch thực hiện KH 74-KH/TU, NQ 21-NQ/TW, NQ 137/NQ-CP; 'rà soát, đề nghị cấp có thẩm quyền sửa đổi, bổ sung hoặc bãi bỏ' là giao nhiệm vụ; không có tác động."
+ }
+]

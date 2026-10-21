@@ -1,0 +1,122 @@
+[
+ {
+  "doc_id": "223851",
+  "la_vbqppl": false,
+  "cap_hieu_luc": null,
+  "ngay_hieu_luc": "2014-03-18",
+  "ngay_het_hieu_luc": null,
+  "ngay_hoi_to": null,
+  "hieu_luc_rieng": [],
+  "trich": {
+   "la_vbqppl": "Thông báo kết luận của Phó Thủ tướng, không phải VBQPPL",
+   "ngay_hieu_luc": "Không có câu hiệu lực; văn bản không phải VBQPPL nên lấy ngày ban hành"
+  },
+  "chua_chac": []
+ },
+ {
+  "doc_id": "505111",
+  "la_vbqppl": false,
+  "cap_hieu_luc": null,
+  "ngay_hieu_luc": "2021-11-17",
+  "ngay_het_hieu_luc": null,
+  "ngay_hoi_to": null,
+  "hieu_luc_rieng": [],
+  "trich": {
+   "la_vbqppl": "Kế hoạch của UBND thành phố",
+   "ngay_hieu_luc": "Không có câu hiệu lực; lấy ngày ban hành",
+   "ngay_het_hieu_luc": "Kế hoạch này được triển khai thực hiện trong giai đoạn 2021 - 2025 (là thời gian thực hiện, không phải câu hiệu lực)"
+  },
+  "chua_chac": [
+   "ngay_het_hieu_luc"
+  ]
+ },
+ {
+  "doc_id": "67638",
+  "la_vbqppl": false,
+  "cap_hieu_luc": null,
+  "ngay_hieu_luc": "2008-06-23",
+  "ngay_het_hieu_luc": null,
+  "ngay_hoi_to": null,
+  "hieu_luc_rieng": [],
+  "trich": {
+   "la_vbqppl": "Công văn trả lời",
+   "ngay_hieu_luc": "Không có câu hiệu lực; lấy ngày ban hành"
+  },
+  "chua_chac": []
+ },
+ {
+  "doc_id": "224285",
+  "la_vbqppl": false,
+  "cap_hieu_luc": null,
+  "ngay_hieu_luc": "2014-03-21",
+  "ngay_het_hieu_luc": null,
+  "ngay_hoi_to": null,
+  "hieu_luc_rieng": [],
+  "trich": {
+   "la_vbqppl": "Công văn trả lời doanh nghiệp",
+   "ngay_hieu_luc": "Không có câu hiệu lực; lấy ngày ban hành"
+  },
+  "chua_chac": []
+ },
+ {
+  "doc_id": "180068",
+  "la_vbqppl": false,
+  "cap_hieu_luc": null,
+  "ngay_hieu_luc": "2008-06-20",
+  "ngay_het_hieu_luc": null,
+  "ngay_hoi_to": null,
+  "hieu_luc_rieng": [],
+  "trich": {
+   "la_vbqppl": "Công văn hướng dẫn nghiệp vụ của Tổng cục Thuế",
+   "ngay_hieu_luc": "Không có câu hiệu lực; lấy ngày ban hành"
+  },
+  "chua_chac": []
+ },
+ {
+  "doc_id": "186934",
+  "la_vbqppl": true,
+  "cap_hieu_luc": 11,
+  "ngay_hieu_luc": "2006-04-07",
+  "ngay_het_hieu_luc": null,
+  "ngay_hoi_to": null,
+  "hieu_luc_rieng": [],
+  "trich": {
+   "la_vbqppl": "Quyết định UBND tỉnh, số hiệu dạng VBQPPL (77/2006/QĐ-UBND), ban hành Quy định chức năng, nhiệm vụ, tổ chức và hoạt động; nội dung có phần cá biệt (thành lập lại Trung tâm)",
+   "cap_hieu_luc": "Quyết định của UBND cấp tỉnh",
+   "ngay_hieu_luc": "chịu trách nhiệm thi hành quyết định này sau 10 ngày kể từ ngày ký"
+  },
+  "chua_chac": [
+   "la_vbqppl",
+   "cap_hieu_luc"
+  ]
+ },
+ {
+  "doc_id": "389284",
+  "la_vbqppl": true,
+  "cap_hieu_luc": 8,
+  "ngay_hieu_luc": "2018-09-14",
+  "ngay_het_hieu_luc": null,
+  "ngay_hoi_to": null,
+  "hieu_luc_rieng": [],
+  "trich": {
+   "la_vbqppl": "Thông tư",
+   "cap_hieu_luc": "Thông tư của Bộ trưởng",
+   "ngay_hieu_luc": "Thông tư này có hiệu lực thi hành kể từ ngày 14 tháng 9 năm 2018."
+  },
+  "chua_chac": []
+ },
+ {
+  "doc_id": "509065",
+  "la_vbqppl": false,
+  "cap_hieu_luc": null,
+  "ngay_hieu_luc": "2022-04-04",
+  "ngay_het_hieu_luc": null,
+  "ngay_hoi_to": null,
+  "hieu_luc_rieng": [],
+  "trich": {
+   "la_vbqppl": "Quyết định của Bộ trưởng ban hành kế hoạch triển khai đề án, số hiệu không có năm; văn bản cá biệt",
+   "ngay_hieu_luc": "Quyết định có hiệu lực thi hành từ ngày ký."
+  },
+  "chua_chac": []
+ }
+]

@@ -1,0 +1,85 @@
+[
+ {
+  "doc_id": "482095",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn hướng dẫn đăng ký Thẻ nhận diện; chỉ nêu 'Thực hiện văn bản số 4977/TCĐBVN-VT', không tác động lên văn bản khác."
+ },
+ {
+  "doc_id": "303009",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Chỉ thị giao nhiệm vụ; các Quyết định 51/2011/QĐ-TTg, 823/QĐ-UBND, 1469/QĐ-TTg, 78/2013/QĐ-TTg chỉ được dẫn chiếu."
+ },
+ {
+  "doc_id": "606110",
+  "relations": [
+   {
+    "source_path": "Điều 2 Khoản 2 điểm a",
+    "action": "thay-the",
+    "target_document": "14/2021/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực kể từ ngày 10 tháng 4 năm 2024 và thay thế các Quyết định sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 2 điểm b",
+    "action": "thay-the",
+    "target_document": "05/2023/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực kể từ ngày 10 tháng 4 năm 2024 và thay thế các Quyết định sau:"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Chữ 'thay thế' ở câu dẫn khoản 2; mỗi điểm nêu một quyết định bị thay thế. Quy chế kèm theo chỉ dẫn chiếu Nghị định 138/2020, Thông tư 06/2020/TT-BNV (thực hiện theo), không phải quan hệ. Khoản 1 Điều 67 Quy chế là câu chung về văn bản dẫn chiếu."
+ },
+ {
+  "doc_id": "266284",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 4 'Các quy định trước đây trái với Quyết định này đều bãi bỏ' là câu chung, không nêu văn bản: không ghi. Điều 2 chỉ dẫn chiếu QĐ 119/2003/QĐ-UB và 462/2005/QĐ-UB."
+ },
+ {
+  "doc_id": "406044",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn truyền đạt ý kiến Phó Thủ tướng; không tác động lên văn bản khác."
+ },
+ {
+  "doc_id": "120371",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn gửi mẫu báo cáo thành tích; Nghị định 121/2005/NĐ-CP, Thông tư 01/2007/TT-VPCP chỉ được dẫn chiếu."
+ },
+ {
+  "doc_id": "646983",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "21/2021/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực kể từ ngày ký ban hành và thay thế Quyết định số 21/2021/QĐ-UBND ngày 12 tháng 8 năm 2021 của Ủy ban nhân dân tỉnh Đồng Tháp ban hành Quy định về chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Sở Giáo dục và Đào tạo tỉnh Đồng Tháp."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên văn bản không nêu văn bản đích nên không có quan hệ Phần đầu. Điều 7 Quy định là đề xuất sửa đổi chính Quy định, không phải quan hệ."
+ },
+ {
+  "doc_id": "655611",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Kế hoạch thực hiện; các Quyết định 922/QĐ-TTg, 304/QĐ-UBND, 1456/QĐ-TTg, 703/QĐ-BNN-VPĐP, Kế hoạch 32/KH-UBND chỉ được dẫn chiếu."
+ },
+ {
+  "doc_id": "277657",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn trả lời về việc áp dụng Thông tư 01/2015/TT-BXD (giải thích Bảng 1 Phụ lục 2). Văn bản không tự nêu hành động 'hướng dẫn' Thông tư; không ghi quan hệ huong-dan."
+ }
+]

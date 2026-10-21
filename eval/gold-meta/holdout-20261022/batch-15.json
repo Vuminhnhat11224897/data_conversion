@@ -1,0 +1,47 @@
+[
+ {
+  "doc_id": "70125",
+  "la_vbqppl": true,
+  "cap_hieu_luc": 8,
+  "ngay_hieu_luc": null,
+  "ngay_het_hieu_luc": null,
+  "ngay_hoi_to": null,
+  "hieu_luc_rieng": [],
+  "trich": {
+   "ngay_hieu_luc": "Thông tư này có hiệu lực thi hành sau 15 ngày, kể từ ngày đăng Công báo.",
+   "la_vbqppl": "Thông tư của Bộ trưởng",
+   "cap_hieu_luc": "Thông tư"
+  },
+  "chua_chac": []
+ },
+ {
+  "doc_id": "52779",
+  "la_vbqppl": true,
+  "cap_hieu_luc": 9,
+  "ngay_hieu_luc": null,
+  "ngay_het_hieu_luc": null,
+  "ngay_hoi_to": "2004-10-01",
+  "hieu_luc_rieng": [],
+  "trich": {
+   "ngay_hieu_luc": "Thông tư này có hiệu lực thi hành sau 15 ngày, kể từ ngày đăng Công báo.",
+   "ngay_hoi_to": "Chế độ trả lương làm việc vào ban đêm, làm thêm giờ quy định tại Thông tư này được tính hưởng kể từ ngày 01 tháng 10 năm 2004.",
+   "la_vbqppl": "Thông tư liên tịch",
+   "cap_hieu_luc": "Thông tư liên tịch"
+  },
+  "chua_chac": []
+ },
+ {
+  "doc_id": "345314",
+  "la_vbqppl": false,
+  "cap_hieu_luc": null,
+  "ngay_hieu_luc": null,
+  "ngay_het_hieu_luc": null,
+  "ngay_hoi_to": null,
+  "hieu_luc_rieng": [],
+  "trich": {
+   "ngay_hieu_luc": "Văn bản hợp nhất: null",
+   "la_vbqppl": "Văn bản hợp nhất"
+  },
+  "chua_chac": []
+ }
+]
