@@ -386,7 +386,8 @@ def convert_document(doc_id, config, source, target, run_id, root, qa=True, dry_
                 'cap_hieu_luc': rank_number, 'cap_hieu_luc_nhan': rank_label, 'cap_hieu_luc_ghi_chu': rank_note,
                 **effect, **expiry(full, issued, src.get('legal_type')), **retroactive(full, issued, effect, src.get('legal_type')),
                 'hieu_luc_rieng': provision_effects(full, issued, src.get('legal_type'))}
-    if not document.get('embedding'):
+    # Vectors go to the index only: a dry run's preview leaves them out, so a dry run neither reads nor computes them.
+    if not document.get('embedding') and not dry_run:
         document['embedding'] = embed([src.get('title') or ''], config.embedding_url, config.embedding_batch)[0]
 
     def lookup(numbers):
@@ -401,7 +402,7 @@ def convert_document(doc_id, config, source, target, run_id, root, qa=True, dry_
     candidates = [resolve(c, hits) for c in candidates]
     referenced = link_references(chunks, doc_id, meta, parsed, lookup, law_lookup, amended_targets(candidates))
     old = {}
-    if config.embedding_reuse:
+    if config.embedding_reuse and not dry_run:
         # A chunk whose tieu_de + noi_dung text is unchanged keeps its existing vector.
         for row in source.scan(config.source['chunks'], {'term': {'doc_id': doc_id}}, ['tieu_de', 'noi_dung', 'embedding']):
             if row['_source'].get('embedding'):
@@ -416,7 +417,7 @@ def convert_document(doc_id, config, source, target, run_id, root, qa=True, dry_
             chunk['_source']['embedding'] = vector
         else:
             fresh.append(chunk)
-    for start in range(0, len(fresh), config.embedding_batch):
+    for start in range(0, len(fresh) if not dry_run else 0, config.embedding_batch):
         batch = fresh[start:start + config.embedding_batch]
         for chunk, vector in zip(batch, embed([chunk_input(c['_source']) for c in batch], config.embedding_url, config.embedding_batch)):
             chunk['_source']['embedding'] = vector
@@ -558,6 +559,7 @@ def run(config, source, target, args, caller=None):
         todo = todo[:args.limit]
     mode = 'DRY-RUN, không ghi ES' if args.dry_run else 'ghi ' + ', '.join(config.target.values())
     print(f'Lượt {args.run}: {len(ids)} văn bản đã chọn, {len(done)} đã xong, {len(todo)} sẽ chạy ({mode})', flush=True)
+    source.use_number_index(config.source['documents'], config.workdir)
     lock, failures, started = threading.Lock(), [], time.time()
 
     def work(doc_id):

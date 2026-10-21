@@ -39,6 +39,9 @@ class Memory:
         field, value = next(iter(query['term'].items()))
         return [{'_id': k, '_source': v} for k, v in self.indices[index].items() if v.get(field) == value]
 
+    def use_number_index(self, index, folder):
+        pass  # by_numbers below already matches by number_key
+
     def by_numbers(self, index, numbers):
         keys = {number_key(n) for n in numbers}
         return [{'_id': k, '_source': v} for k, v in self.indices[index].items() if number_key(v.get('document_number')) in keys]
@@ -146,3 +149,26 @@ class ConvertCheck(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
+
+
+class NumberIndex(unittest.TestCase):
+    """The local table of document numbers answers what the tolerant search answers, by number_key."""
+
+    def test_table_matches_by_number_key(self):
+        import tempfile
+        from vbpl_v3.es import Cluster
+        numbers = {'1': '32/2012/QĐ-UBND', '2': '32/2012/QĐ- U BND', '3': '132/2012/QĐ-UBND', '4': '05/2013/TT-BYT', '5': ''}
+        cluster = Cluster('http://127.0.0.1:9')
+        def scan(index, query, source=True, size=500):
+            if 'match_all' in query:
+                return [{'_id': k, '_source': {'document_number': v}} for k, v in numbers.items()]
+            return [{'_id': k, '_source': {'document_number': numbers[k]}} for k in query['ids']['values']]
+        cluster.scan, cluster.count = scan, lambda index, query=None: len(numbers)
+        with tempfile.TemporaryDirectory() as folder:
+            cluster.use_number_index('legal-docs', folder)
+            self.assertEqual(sorted(h['_id'] for h in cluster.by_numbers('legal-docs', ['32/2012/QĐ-UBND'])), ['1', '2'])
+            self.assertEqual([h['_id'] for h in cluster.by_numbers('legal-docs', ['5/2013/TT-BYT'])], ['4'])
+            again = Cluster('http://127.0.0.1:9')
+            again.scan, again.count = scan, lambda index, query=None: len(numbers)
+            again.use_number_index('legal-docs', folder)  # read from the file, not scanned again
+            self.assertEqual(again.numbers[1], cluster.numbers[1])

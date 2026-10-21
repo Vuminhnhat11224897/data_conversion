@@ -1,7 +1,11 @@
 """Elasticsearch clients: the source is read-only; the target may write only the configured v3 indices."""
 
+import gzip
 import json
+import os
+from pathlib import Path
 import re
+import time
 from urllib.parse import quote
 
 import requests
@@ -9,7 +13,9 @@ import requests
 from .text import number_key
 
 READ_POST = re.compile(r'^/[^/_][^/]*/(?:_search|_count|_mget)(?:\?.*)?$|^/_search/scroll$')
+REGEX_LIMIT = 900  # below Elasticsearch's default index.max_regex_length (1000)
 TARGET_FIELDS = ['document_number', 'title', 'issuing_authority', 'issuance_date', 'legal_type', 'legal_sectors', 'pdf_minio_path', 'origin']
+NUMBER_INDEX_AGE = 7 * 86400  # seconds: the local table of document numbers is rebuilt at least weekly
 
 
 class WriteRefused(RuntimeError):
@@ -20,6 +26,12 @@ class Cluster:
     def __init__(self, url, writable=()):
         self.url = url.rstrip('/')
         self.writable = frozenset(writable)
+        # One pool of kept-alive connections for the worker threads: a new connection per request costs a handshake each time.
+        self.session = requests.Session()
+        adapter = requests.adapters.HTTPAdapter(pool_connections=4, pool_maxsize=32)
+        self.session.mount('http://', adapter)
+        self.session.mount('https://', adapter)
+        self.numbers = None  # (index, {number_key: [ids]}) once use_number_index() has run
 
     def allowed(self, method, path, raw):
         if method in ('GET', 'HEAD') or (method == 'POST' and READ_POST.match(path)) or (method == 'DELETE' and path == '/_search/scroll'):
@@ -37,7 +49,7 @@ class Cluster:
             payload = payload.encode('utf-8')
         if not self.allowed(method, path, payload):
             raise WriteRefused(f'Refused {method} {path} on {self.url}')
-        response = requests.request(method, self.url + path, data=payload, timeout=(10, 120),
+        response = self.session.request(method, self.url + path, data=payload, timeout=(10, 120),
             headers={'Content-Type': 'application/x-ndjson' if raw is not None else 'application/json'})
         if missing and response.status_code == 404:
             return None
@@ -57,6 +69,12 @@ class Cluster:
         return self.request('POST', f'/{index}/_count', {'query': query} if query else None)['count']
 
     def scan(self, index, query, source=True, size=500):
+        """Every hit of the query, in index order. One request when the hits fit in one page; a scroll otherwise (a scroll costs two
+        more requests: the empty last page and its release)."""
+        page = self.request('POST', f'/{index}/_search', {'size': size, 'sort': ['_doc'], 'query': query, '_source': source})
+        if len(page['hits']['hits']) < size:
+            yield from page['hits']['hits']
+            return
         result = self.request('POST', f'/{index}/_search?scroll=5m', {'size': size, 'sort': ['_doc'], 'query': query, '_source': source})
         scroll = result.get('_scroll_id')
         try:
@@ -68,8 +86,37 @@ class Cluster:
             if scroll:
                 self.request('DELETE', '/_search/scroll', {'scroll_id': [scroll]})
 
+    def use_number_index(self, index, folder):
+        """Look document numbers up in a local table (number_key -> ids) built from one scan of the index and kept in folder. A
+        tolerant regexp query per number takes 1-2 s on the 518,261 source documents (measured 21/10/2026); the table answers at
+        once. It is rebuilt when the index's document count changes or after NUMBER_INDEX_AGE."""
+        path = Path(folder) / f'number-index-{index}.json.gz'
+        count, table = self.count(index), None
+        if path.exists():
+            try:
+                stored = json.loads(gzip.decompress(path.read_bytes()))
+                if stored['count'] == count and time.time() - stored['built'] < NUMBER_INDEX_AGE:
+                    table = stored['keys']
+            except (OSError, ValueError, KeyError):
+                table = None
+        if table is None:
+            table = {}
+            for hit in self.scan(index, {'match_all': {}}, ['document_number'], size=10000):
+                key = number_key((hit.get('_source') or {}).get('document_number') or '')
+                if key:
+                    table.setdefault(key, []).append(hit['_id'])
+            path.parent.mkdir(parents=True, exist_ok=True)
+            part = path.with_name(f'{path.name}.{os.getpid()}.part')
+            part.write_bytes(gzip.compress(json.dumps({'count': count, 'built': time.time(), 'keys': table}, ensure_ascii=False).encode(), 6))
+            part.replace(path)  # atomic: parallel runs never read a half-written table
+        self.numbers = (index, table)
+
     def by_numbers(self, index, numbers):
         """Documents whose number matches any given number, tolerating legacy case/whitespace/dash variants."""
+        if self.numbers and self.numbers[0] == index:
+            # number_key is the tolerance the search below filters on; the table holds every document by it.
+            ids = list(dict.fromkeys(i for key in dict.fromkeys(number_key(n) for n in numbers) for i in self.numbers[1].get(key, ())))
+            return [hit for start in range(0, len(ids), 500) for hit in self.scan(index, {'ids': {'values': ids[start:start + 500]}}, TARGET_FIELDS)]
         results = {}
         for start in range(0, len(numbers), 500):
             batch = numbers[start:start + 500]
@@ -91,9 +138,21 @@ class Cluster:
                     else:
                         chars.append('\\' + char if char in '.?+*|{}[]()"\\#@&<>~' else char)
                 pattern = gap + ('(0' + gap + ')*' if re.match(r'\d+/', key) else '') + gap.join(chars) + gap
-                for hit in self.scan(index, {'regexp': {'document_number': {'value': pattern}}}, TARGET_FIELDS):
-                    if number_key(hit['_source'].get('document_number')) == key:
-                        results[hit['_id']] = hit
+                if len(pattern) > REGEX_LIMIT:
+                    # A long joint number ("05/2013/TTLT-UBDT-NNPTNT-KHĐT-TC-XD") with the full set of gaps passes the server's
+                    # limit on a regular expression (index.max_regex_length): spaces only between its characters.
+                    short = '[ ]*'
+                    pattern = short + ('(0' + short + ')*' if re.match(r'\d+/', key) else '') + short.join(chars) + short
+                if len(pattern) > REGEX_LIMIT:
+                    continue
+                try:
+                    for hit in self.scan(index, {'regexp': {'document_number': {'value': pattern}}}, TARGET_FIELDS):
+                        if number_key(hit['_source'].get('document_number')) == key:
+                            results[hit['_id']] = hit
+                except requests.HTTPError as error:
+                    if error.response is None or error.response.status_code != 400:
+                        raise
+                    # The server refuses this one expression: the exact search above stands for this number.
         return list(results.values())
 
     # Writes: every one passes allowed(), so only indices in self.writable can change.
