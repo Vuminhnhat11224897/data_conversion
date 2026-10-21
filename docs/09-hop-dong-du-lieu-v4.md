@@ -3,7 +3,8 @@
 Tài liệu này mô tả 3 index v4 trên ES đích `10.1.10.23`. Bên dữ liệu ghi các index này. Bên Graph và bên tìm kiếm đọc.
 
 - v4 là bản thử. Bên Graph duyệt v4. Sau khi duyệt, công cụ ghi lại v3 theo đúng hợp đồng này, chỉ đổi hậu tố `-v4` thành `-v3`.
-- Hợp đồng là dữ liệu mà `convert` ghi bằng code ngày 16/10/2026. Bản ghi v4 hiện có được ghi ngày 14/10/2026. Một số trường mới chưa có trong các bản ghi đó (mục 9.1).
+- Hợp đồng là dữ liệu mà `convert` ghi bằng luồng chốt ngày 20/10/2026 (chế độ `llm`, mặc định). Công cụ ghi bản ghi v4 hiện có ngày 14/10/2026 bằng code cũ hơn. Một số trường mới chưa có trong các bản ghi đó (mục 9.1).
+- So sánh v2, v3, v4 ở [05](05-phien-ban-v2-v3-v4.md). Chất lượng đo được của luồng chốt ở [08, mục 8.8](08-quan-he-4-tang-va-danh-gia.md#88-vòng-3-20102026-và-hold-out-3).
 - Số liệu đo ngày 16/10/2026 trên v4: 532 văn bản, 22.825 chunk, 2.009 quan hệ. Số liệu của luồng 4 tầng lấy từ lượt chạy thử `eval-llm-blind` (290 văn bản, 15/10/2026).
 - Ví dụ viết dạng `<index>/<_id>`. Ví dụ chỉ có trong lượt chạy thử thì ghi tên lượt.
 - Giá trị enum giải thích ở [06-bang-enum.md](06-bang-enum.md). Quyết định đã chốt ở [07, mục 7.4](07-gioi-han-va-can-chot.md#74-quyết-định-đã-chốt). Luồng 4 tầng ở [08](08-quan-he-4-tang-va-danh-gia.md).
@@ -28,7 +29,7 @@ Tiền tố `v3:` là tên công cụ. Tiền tố này không chỉ tên index.
 | 15/10 | 5 trường mới của quan hệ: `resolution_status`, `resolution_reason`, `extraction`, `evidence`, `target_section`. | Mapping v4 chưa có 5 trường này. Bản ghi v4 chưa có. |
 | 15/10 | Tầng cấu trúc mới: số chú thích dính nhãn, phần mở đầu của công văn, câu kết của Nghị quyết, `Điều thứ`, `Điêu`, nhãn `I-`, dàn ý do LLM lập ([08, mục 8.3](08-quan-he-4-tang-va-danh-gia.md#83-tầng-cấu-trúc-quy-tắc-và-llm)). | Ranh giới và nội dung chunk của một số văn bản đổi. |
 | 15/10 | `noi_nhan` rỗng khi văn bản không có mục "Nơi nhận". Trước đó công cụ ghi dòng chữ ký vào `noi_nhan`. | 18/532 văn bản v4 có dòng chữ ký trong `noi_nhan`. |
-| 15/10 | Chế độ dò quan hệ 4 tầng (`--extractor llm`). Chế độ mặc định vẫn là `rules`. | Quan hệ có `detection_mode = llm`. |
+| 15/10 | Chế độ dò quan hệ 4 tầng (`--extractor llm`). Từ 20/10 đây là chế độ mặc định. | Quan hệ có `detection_mode = llm`. |
 | 16/10 | Quan hệ có `cap_quan_he = chua_xac_dinh` luôn có `resolution_status = unresolved`, ở cả hai chế độ. | Không có cạnh nào thiếu node đích. |
 | 19/10 | Dòng bảng của phụ lục không chia Điều được đọc. `source_path` mới `Phụ lục <n> [Mục <m>] STT <k>` (mục 9.6). | Thêm quan hệ từ danh mục thủ tục hành chính và danh sách văn bản. |
 | 19/10 | Vị trí ngoài định dạng chuyển sang `doi_tuong`. Cùng đơn vị nguồn, hành động, văn bản đích thì không có cả vị trí cha lẫn vị trí con. "toàn bộ" bên cạnh vị trí cụ thể thì chỉ giữ vị trí cụ thể. | Hết cạnh thừa lên khoản cha (`661129`) và cạnh "toàn bộ" sai (`634166`). |
@@ -36,6 +37,15 @@ Tiền tố `v3:` là tên công cụ. Tiền tố này không chỉ tên index.
 | 19/10 | `hieu_luc_rieng[].vi_tri` đọc đủ danh sách ngăn bằng `;`. | `628717`: 10 vị trí, trước là 3. |
 | 19/10 | `noi_nhan` không còn khối chữ ký nằm cùng dòng bảng ("Lưu: VT. \| TM. …"). | 338/532 văn bản v4 có lỗi này. Hết sau khi ghi lại. |
 | 19/10 | "Sửa đổi, bổ sung X" luôn cho 2 quan hệ, kể cả khi LLM chỉ nêu một. | — |
+| 20/10 | Điều thực hiện hành động lên "các văn bản tại Phụ lục/Danh mục/Danh sách kèm theo" cho một quan hệ với mỗi văn bản của danh sách. `source_path` là Điều đó. | Thêm quan hệ từ danh sách văn bản bãi bỏ, hủy bỏ (`226447`). |
+| 20/10 | Phụ lục viết thành đoạn văn: đơn vị nguồn `Phụ lục <n> Mục <m>` (mục 9.6). | Thêm quan hệ từ phụ lục văn xuôi. |
+| 20/10 | Hành động ở tên văn bản có quan hệ `intro_` khi tên nêu số hiệu văn bản đích. | Thêm quan hệ cấp văn bản. |
+| 20/10 | Q11: công cụ chỉ đọc tên in trong văn bản để dò quan hệ (nhánh LLM, nhánh quy tắc, quan hệ hướng dẫn). Tên lưu ở nguồn (`title`) chỉ dùng cho tìm kiếm, đối chiếu và trường `source_title`. | Hết quan hệ do tên lưu tự thêm (`144450`, `628298`). Số hiệu đích theo chữ in: `31/CP`, không phải `31/CP-1996` (`40110`). |
+| 20/10 | Q12: trường mới `doi_tuong_loai`, `ma_thu_tuc` (mục 9.10.6). Mapping thêm 2 trường; chạy `init` trước khi ghi. | Tách quan hệ lên thủ tục hành chính khỏi quan hệ lên văn bản. |
+| 20/10 | Văn bản có toàn văn tiếng Anh được bỏ qua (`skipped = tieng_anh`). | `39074` không có bản ghi. |
+| 20/10 | Văn bản không phải Luật, Pháp lệnh, Nghị quyết của Quốc hội, Ủy ban Thường vụ Quốc hội không có quan hệ sửa đổi, bãi bỏ, thay thế lên Luật, Pháp lệnh. | Bớt quan hệ thừa từ câu đề xuất sửa Luật. |
+| 20/10 | Danh sách vị trí lẫn cấp được tách đúng ("khoản 1 và điểm c, điểm đ khoản 3 Điều 15"). | Vị trí đúng hơn (`609183`). |
+| 20/10 | Số hiệu có gạch ("38-HD/BTCTW", "481-TTg") được khớp. "Phụ lục số 07" thành "Phụ lục 07". | — |
 
 ### 9.1.3. Cách đưa v4 về đúng hợp đồng
 
@@ -145,11 +155,12 @@ Quy tắc:
 | `Điều <x> Khoản <y> điểm <z>` | Điểm | `<doc>_d<x>_k<y>_p<z>` | `Điều 1 Khoản 1 điểm a` → `602450_d1_k1_pa` |
 | `Phụ lục <n> ` + một dạng ở trên | Điều trong phụ lục thứ `n`, đếm từ 1 | `<doc>_pl<n−1>_d<x>…` | 1 quan hệ v4 |
 | `… Văn bản kèm theo <s> …` | Điều thuộc chuỗi Điều kèm theo thứ `s` | `…_s<s>_d<x>…` | — |
-| `intro` | Lời dẫn | Node văn bản | `legal-changed-v4/intro_318496_0` |
+| `intro` | Lời dẫn. Chế độ `llm`: lời dẫn hoặc tên in trong văn bản (quy ước Q11). Tên lưu ở nguồn (`title`) không tạo quan hệ. | Node văn bản | `legal-changed-v4/intro_318496_0` |
 | `Tiêu đề`, `Lời dẫn` | Chỉ có ở quan hệ hướng dẫn | Node văn bản | `legal-changed-v4/hd_356281_0` |
 | `Phần đầu` | Phần đầu của văn bản hợp nhất. Phần này nêu văn bản được hợp nhất. | Node văn bản | `legal-changed-v4/hn_589448_0` |
 | `Mục <n>` | Đề mục của văn bản không chia Điều. `<n>` là nhãn như văn bản viết (`1`, `IX`, `PHẦN I`). | `<doc>_m<n>` | `Mục 1` → `318496_m1` |
 | `Nội dung` | Văn bản không chia Điều, không có đề mục | `<doc>_nd` hoặc `<doc>_nd_full` | Lượt chạy thử `eval-llm-blind` |
+| `Phụ lục <n> Mục <m>`, `Phụ lục <n>` | Đề mục `<m>` (`1`, `II`) của phụ lục thứ `n` viết thành đoạn văn, không chia Điều, không phải bảng. `Phụ lục <n>` khi phụ lục không có đề mục. Từ 20/10/2026. | Không có chunk riêng. Node nguồn là phụ lục `<doc>_pl<n−1>`. | `Phụ lục 1 Mục 2` (`124929`, lượt `r3-holdout2`) |
 | `Phụ lục <n> STT <k>`, `Phụ lục <n> Mục <m> STT <k>` | Một dòng bảng của phụ lục thứ `n` (đếm từ 1) không chia Điều. `<m>` là ký hiệu đề mục chứa bảng (`A`, `II`). `<k>` là số ở cột "TT"/"STT", hoặc thứ tự dòng khi cột không có số. Từ 19/10/2026. | Không có chunk riêng. Node nguồn là phụ lục `<doc>_pl<n−1>`. | `Phụ lục 1 Mục A STT 1` (lượt `trace4-fix1`, `587301`) |
 
 Quy tắc của dòng bảng:
@@ -651,6 +662,8 @@ Hai quan hệ của lượt chạy thử `eval-llm-blind` (15/10/2026). Chỉ n�
 | `hieu_luc_tac_dong` | keyword | Luôn | Ý nghĩa thời gian. Tính từ `action` và hồi tố: `ve_sau` 1.865, `khong_ap_dung` 53, `ve_truoc` 44, `tu_dau` 32, `tam_ngung` 15. |
 | `unresolved` | boolean | Luôn | Trường của QA phạm vi. `true`: phạm vi chưa được xác nhận. `scope = chưa xác định` thì `true`. **Không dùng trường này để quyết định cạnh.** Dùng `resolution_status`. |
 | `doi_tuong` | keyword | Có khi câu nguồn nêu phần bị tác động bằng tên, không có số | Tên phần bị tác động. Thường đi với `vi_tri` rỗng. Câu nêu cả phụ lục chứa phần đó ("mẫu Bản cáo bạch tại Phụ lục số 03") thì `vi_tri` là phụ lục đó (`192512_0`). `dinh-chinh` có thể có `phần căn cứ`, `phần Nơi nhận`. |
+| `doi_tuong_loai` | keyword | Luôn (từ 20/10/2026) | Loại đối tượng bị tác động (quy ước Q12). `van_ban`: văn bản đích hoặc một phần của nó. `thu_tuc_hanh_chinh`: một hoặc nhiều thủ tục hành chính do văn bản đích công bố; `doi_tuong` là tên thủ tục. Công cụ gán `thu_tuc_hanh_chinh` khi phần bị tác động có tên là thủ tục ("107 thủ tục hành chính", "Thủ tục thẩm định …"), hoặc khi quan hệ là dòng của danh mục thủ tục (tên phụ lục hoặc đề mục nêu thủ tục). Lượt `q11q12-check`: `587301_0` (`Phụ lục 1 Mục B STT 1`, `bai-bo` lên `3443/QĐ-UBND`). |
+| `ma_thu_tuc` | keyword | Có khi `doi_tuong_loai = thu_tuc_hanh_chinh` và dòng có mã | Mã thủ tục quốc gia như dòng ghi, dạng `<d>.<6 chữ số>`. Ví dụ `2.000164` (`587301`). |
 | `kem_theo` | boolean | Cùng `doi_tuong` | `true`: phần đó ban hành kèm theo văn bản đích (21 quan hệ). `false`: 11 quan hệ. |
 | `cum_tu` | mảng object | Có khi `action = thay-cum-tu` | Khác rỗng. |
 | `cum_tu[].cu`, `cum_tu[].moi` | keyword | Cùng `cum_tu` | Cụm từ cũ, cụm từ mới. Khác rỗng. |
@@ -676,7 +689,7 @@ Ba trường này có ở mọi quan hệ từ ngày 15/10/2026. Bản ghi v4 hi
 | `resolution_reason` | Nghĩa |
 | --- | --- |
 | `vi_tri_chua_xac_dinh` | Câu nêu tác động một phần nhưng không nêu vị trí. Mọi quan hệ có `cap_quan_he = chua_xac_dinh` có lý do này hoặc một lý do cụ thể hơn. |
-| `vi_tri_ngoai_dinh_dang` | Vị trí không đổi được sang định dạng mục 9.5. |
+| `vi_tri_ngoai_dinh_dang` | Vị trí không đổi được sang định dạng mục 9.5. Code không sinh lý do này từ 19/10/2026: vị trí ngoài định dạng chuyển sang `doi_tuong`. |
 | `phan_kem_theo_chua_ro` | "khoản 7 Điều 3" có thể thuộc Quyết định hoặc Quy định kèm theo. Câu không nói rõ. |
 | `van_ban_dich_khong_co_trong_nguon` | Văn bản đích không có trong đoạn nguồn LLM đọc. |
 | `vi_tri_khong_co_trong_nguon` | Số của vị trí không có trong đoạn nguồn. |
@@ -778,6 +791,7 @@ Dựng một node cho mỗi `dieu_uid`, `khoan_uid` và `diem_uid`. Không dựn
 | Văn bản hết hiệu lực | Quan hệ vào văn bản đó | Hết hiệu lực của văn bản quy định chi tiết nó |
 | Thay cụm từ "trong toàn bộ Thông tư" | Một quan hệ có `vi_tri = ["toàn bộ"]` | Danh sách khoản có cụm từ |
 | Công bố thủ tục hành chính | Không có quan hệ | Quan hệ tới văn bản nêu trong bảng thủ tục (`132140`) |
+| Dòng danh mục thủ tục bị sửa đổi, thay thế, bãi bỏ | Mỗi dòng một quan hệ tới quyết định đã công bố thủ tục, `doi_tuong_loai = thu_tuc_hanh_chinh`, `doi_tuong` là tên thủ tục | Quan hệ "sửa đổi, bãi bỏ" lên nội dung của quyết định đó. Cạnh này nói về thủ tục, không về Điều, khoản của quyết định. |
 
 Trạng thái hiệu lực của node (còn, hết một phần, hết toàn bộ, tạm ngừng) do bên Graph tính từ các cạnh. ES không lưu trạng thái này.
 
@@ -816,9 +830,12 @@ Bên đọc dùng bảng này để kiểm dữ liệu. Cột cuối là kết q
 | --- | --- | --- |
 | Phụ lục không chia Điều là một chunk. | Vector chỉ đại diện phần đầu phụ lục. Đo trên mẫu 10.000 văn bản nguồn (15/10): 42% tổng chữ nằm trong các chunk này. | C4 |
 | Dòng bảng chỉ được đọc ở chế độ `llm`. Chế độ `rules` không đọc. | Chế độ `rules` thiếu quan hệ từ danh mục trong phụ lục. | Mục 9.6 |
-| Thủ tục hành chính không có node. | Quan hệ lên thủ tục trỏ vào văn bản đã công bố thủ tục, tên thủ tục ở `doi_tuong`. | Mục 9.6, 9.11.4 |
+| Thủ tục hành chính không có node. | Quan hệ lên thủ tục trỏ vào văn bản đã công bố thủ tục, tên thủ tục ở `doi_tuong`, `doi_tuong_loai = thu_tuc_hanh_chinh`. Bên Graph dùng trường này để tách cạnh lên thủ tục. | Mục 9.6, 9.10.6, 9.11.4 |
 | Quan hệ từ lời dẫn khác nhau giữa hai chế độ. Chế độ `rules` cho `van_ban` và `validated`. Chế độ `llm` cho `unresolved` khi câu không nêu vị trí. | 24 quan hệ của lượt chạy thử `eval-llm-blind`. | Chờ chốt |
 | `la_vbqppl` chỉ có ở văn bản. | Lọc chunk, quan hệ phải nối qua văn bản. | Mục 9.8.6 |
-| Điểm do LLM chấm, chưa có nhãn của người. | Chỉ số quan hệ và metadata có thể lệch. | [08, mục 8.5](08-quan-he-4-tang-va-danh-gia.md) |
+| Nhãn chuẩn do LLM gán, chưa có nhãn của người. | Chỉ số quan hệ và metadata có thể lệch. | [08, mục 8.5](08-quan-he-4-tang-va-danh-gia.md) |
+| Kết quả LLM đổi giữa các lượt chạy, kể cả khi temperature bằng 0. | Cùng code, hai lượt lệch 2–4 điểm ở mức quan hệ. Một dòng bảng có thể có quan hệ ở lượt này, không có ở lượt khác. | [08, mục 8.8.4](08-quan-he-4-tang-va-danh-gia.md#884-chốt-luồng-20102026) |
+| Công văn điều chỉnh phương án đơn giản hóa thủ tục (`124929`) và câu đề nghị, giao nhiệm vụ | LLM chọn sai văn bản đích: lấy văn bản nêu trong nội dung thay cho Nghị quyết chứa phương án. LLM nhận câu đề nghị, giao nhiệm vụ là hành động. | Đang sửa (P1): cải thiện phân loại, không viết quy tắc riêng cho một văn bản |
+| Văn bản có toàn văn tiếng Anh (`39074`: bản dịch của Nghị định 12/CP lưu làm toàn văn) | Công cụ bỏ qua, không ghi văn bản, chunk, quan hệ. Nhật ký ghi `skipped = tieng_anh`. Văn bản đã có ở index đích từ lượt cũ thì vẫn còn. | Đã làm 20/10/2026 |
 
 Các giới hạn khác và quyết định đã chốt ở [07-gioi-han-va-can-chot.md](07-gioi-han-va-can-chot.md).

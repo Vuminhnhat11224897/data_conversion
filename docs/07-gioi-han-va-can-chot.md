@@ -1,6 +1,9 @@
 # 7. Giới hạn, lỗi đã biết và quyết định đã chốt
 
-Số liệu đo trên bản thử `-v4` ngày 14/10/2026: 203 văn bản, 6.610 chunk, 969 quan hệ. v3 sẽ có cùng số sau khi ghi lại.
+- Mục 7.1 đến 7.3: số liệu đo trên bản thử `-v4` ngày 14/10/2026 (203 văn bản, 6.610 chunk, 969 quan hệ).
+- Mục 7.4: quyết định ngày 14/10/2026 (bảng 1) và quy ước ngày 19–20/10/2026 (bảng 2).
+- Mục 7.5: việc còn lại, cập nhật ngày 20/10/2026.
+- Giới hạn của luồng chốt ngày 20/10/2026 ở [09, mục 9.13](09-hop-dong-du-lieu-v4.md#913-giới-hạn-đã-biết).
 
 ## 7.1. Giới hạn của dữ liệu
 
@@ -77,16 +80,41 @@ Nhóm: V = cấp văn bản; C = Chương, Mục, phụ lục; D = Điều, kho�
 | E1 | Tiết, gạch đầu dòng, câu | Có tiểu điểm dưới điểm thì dùng tiểu điểm. Không có thì giữ nguyên ở đơn vị chứa nó. | Thêm chunk `tieu_diem` và vị trí `tiểu điểm <n> điểm …`. Gạch đầu dòng của khoản, câu, đoạn dừng ở khoản hoặc Điều. | Đã chốt 14/10/2026 |
 | E2 | Thay cụm từ "trong toàn bộ Thông tư" | Toàn văn. | Vị trí `toàn bộ`. | Đã chốt 14/10/2026 |
 
+Quy ước ngày 19–20/10/2026. Các quy ước này có trong `eval/rubric-gold.md` và trong prompt của tầng 2. Nhóm Q = cách nhận một quan hệ.
+
+| # | Câu hỏi | Quy ước | Dữ liệu làm | Trạng thái |
+| --- | --- | --- | --- | --- |
+| Q1 | Luồng dò quan hệ nào là luồng sản phẩm? | Chế độ `llm` (luồng 4 tầng). | `RELATION_EXTRACTOR=llm` là mặc định. | Đã chốt 20/10/2026 |
+| Q2 | Tên văn bản có quan hệ riêng khi nào? | Khi chính tên nêu văn bản đích (số hiệu hoặc tên luật). Không lấy số hiệu từ thân văn bản cho tên. | Quan hệ `intro_`. | Đã chốt 20/10/2026 |
+| Q3 | Câu chung "các quy định trái với văn bản này … bãi bỏ" | Không là quan hệ, kể cả khi câu nêu số hiệu. | Tầng 4 loại (`khong_co_van_ban_dich`). | Đã chốt 20/10/2026 |
+| Q4 | Văn bản công bố danh mục văn bản hết hiệu lực (kết quả rà soát) | Không là hành động. Văn bản khác làm các văn bản đó hết hiệu lực. | Tầng 4 loại (`cong_bo_danh_muc`). | Đã chốt 19/10/2026 |
+| Q5 | Dòng danh mục thủ tục hành chính | Quan hệ khi dòng hoặc đề mục nêu hành động, dòng nêu quyết định đã công bố thủ tục, và quyết định đó cùng cơ quan. | `source_path = Phụ lục <n> [Mục <m>] STT <k>`. | Đã chốt 19/10/2026 |
+| Q6 | Dòng bảng chỉ nêu chi tiết hành động của một Điều | Quan hệ thuộc Điều đó. Dòng không có quan hệ riêng. | Gộp vào Điều. | Đã chốt 19/10/2026 |
+| Q7 | Văn bản cấp dưới viết "sửa đổi Điều 12 Luật X" | Không là quan hệ. Chỉ Luật, Pháp lệnh, Nghị quyết của Quốc hội, Ủy ban Thường vụ Quốc hội tác động được lên Luật, Pháp lệnh. | Tầng 4 loại (`vuot_tham_quyen`). | Đã chốt 20/10/2026 |
+| Q8 | "Đồng ý với đề nghị của …" | Là quan hệ khi chính câu nêu văn bản đích và nêu rõ thay đổi. Đồng ý một đề xuất sẽ làm bằng văn bản khác thì không. | Prompt tầng 2. | Đã chốt 20/10/2026 |
+| Q9 | "Kết thúc", "chấm dứt" một văn bản | `bai-bo` khi chấm dứt hẳn. `ngung-hieu-luc` khi chỉ trong một thời gian. Không là hành động khi chỉ kết thúc chương trình, đề án không có số hiệu. | LLM phân loại theo định nghĩa. | Đã chốt 20/10/2026 |
+| Q10 | Vị trí ngoài định dạng hợp đồng | Chuyển sang `doi_tuong`. Không để chờ duyệt. | [09, mục 9.5](09-hop-dong-du-lieu-v4.md#95-vị-trí). | Đã chốt 19/10/2026 |
+| Q11 | Tên văn bản: dùng tên in trong văn bản hay tên lưu ở nguồn? | Tên in để dò quan hệ. Tên lưu (`title`) chỉ để tìm kiếm, đối chiếu. | `structure.printed_title` đọc tên in. Nhánh LLM, nhánh quy tắc, quan hệ hướng dẫn chỉ đọc tên in. Câu trích từ tên lưu bị tầng 4 loại. | Đã chốt 20/10/2026 (P0) |
+| Q12 | Quan hệ của dòng bảng: giữ từng dòng hay tính là phụ lục chứa dòng? | Giữ từng dòng (cách A). Phân biệt quan hệ lên thủ tục và quan hệ lên văn bản. | Trường `doi_tuong_loai` (`van_ban`, `thu_tuc_hanh_chinh`) và `ma_thu_tuc` ([09, mục 9.10.6](09-hop-dong-du-lieu-v4.md#9106-tác-động)). | Đã chốt 20/10/2026 (P0) |
+
 ## 7.5. Việc còn lại ở bên dữ liệu
+
+Cập nhật ngày 20/10/2026.
 
 | Việc | Trạng thái |
 | --- | --- |
-| Bên Graph duyệt bản thử `-v4` | Chờ duyệt |
-| Sau khi duyệt: xóa 3 index `-v4`, ghi lại v3 bằng quy tắc mới (`init`, rồi `convert --redo`) | Chờ duyệt |
-| Sửa các lỗi còn lại ở mục 7.2 | Chưa làm |
-| Danh mục số thứ tự, bảng định mức, mục `1.2.2` (C4) | Chưa làm theo quyết định |
+| Ghi lại 3 index `-v4` bằng luồng chốt (`init`, rồi `convert --redo`) | Chờ bên dữ liệu duyệt. Chưa ghi ES. |
+| Bên Graph duyệt `-v4` sau khi ghi lại | Chờ bước trên |
+| Sau khi duyệt: ghi lại v3 bằng luồng chốt | Chờ duyệt |
+| Đo thời gian và dung lượng trên 1.000 văn bản ngẫu nhiên trước khi chạy toàn kho | Chưa làm |
+| Q11, Q12 | Đã làm trong code 20/10/2026. Chưa ghi ES. |
+| Phân loại hành động và đối tượng bị tác động (`124929`: chọn sai văn bản đích, nhận câu đề nghị, giao nhiệm vụ là hành động). Không viết quy tắc riêng cho một văn bản. | Đang làm (P1) |
+| Văn bản có toàn văn tiếng Anh (`39074`) | Đã làm 20/10/2026: công cụ bỏ qua (`skipped = tieng_anh`) |
+| Nhãn chuẩn của người cho 100–200 văn bản | Chưa làm. Nhãn hiện có do LLM gán. |
+| Lỗi `n_table_rows` của `132723_pl0` | Chưa sửa |
+| Danh mục số thứ tự, bảng định mức, mục `1.2.2` làm node (C4) | Chưa làm theo quyết định |
 | Điền `signers`, `legal_sectors` còn thiếu bằng model, có dẫn chứng | Chưa có lệnh |
 | Chuẩn hóa: số hiệu "không số" (846 văn bản) thành rỗng; gộp nhãn `legal_type` gần trùng (`Điều ước` / `Điều ước quốc tế`, `Văn bản WTO` / `WTO_Văn bản`) | Cần duyệt |
 | Giới hạn 256 token của embedding: tăng `max_length` (đặt `EMBEDDING_REUSE=no`) hoặc thêm chunk con | Cần chốt |
-| Báo bên đọc: ID chunk văn bản kèm theo đổi từ `_s<s>_` sang `_pl<i>_`; mỗi quan hệ chỉ còn một vị trí | Cần báo |
+| Báo bên đọc: ID chunk văn bản kèm theo đổi từ `_s<s>_` sang `_pl<i>_`; mỗi quan hệ chỉ còn một vị trí; chỉ dựng cạnh khi `resolution_status = validated` | Cần báo |
 | Ca parser sai đã biết (`315654`, `128228`) | Duyệt tay sau khi chuyển |

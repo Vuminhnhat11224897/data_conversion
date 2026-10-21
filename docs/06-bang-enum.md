@@ -1,6 +1,8 @@
 # 6. Bảng enum
 
-Tài liệu này giải thích mọi giá trị enum của v2 và v3. Mỗi giá trị có: nghĩa, lúc công cụ gán, ví dụ thật.
+Tài liệu này giải thích mọi giá trị enum của v2, v3 và hợp đồng v4. Mỗi giá trị có: nghĩa, lúc công cụ gán, ví dụ thật.
+
+Các giá trị của luồng 4 tầng (`extraction`, `resolution_status`, `resolution_reason`, `target_section`, `detection_mode = llm`) chỉ có từ hợp đồng v4. Số đếm của chúng lấy từ lượt chạy thử, vì index `-v4` chưa ghi lại.
 
 ## 6.1. Cách đọc bảng
 
@@ -254,6 +256,7 @@ Nơi có câu tác động trong văn bản nguồn. Tiền tố `_id` khớp gi
 | `het_hieu_luc` | 3.365 | Câu "… hết hiệu lực kể từ ngày … này có hiệu lực" trong văn bản nguồn. Hành động `bai-bo` cho mỗi văn bản nêu trong câu, phạm vi `toàn bộ`. Không qua QA. | `hhl_` | 0 | — |
 | `title_guidance` | — | Quan hệ hướng dẫn hoặc quy định chi tiết. Đích lấy từ tiêu đề hoặc lời dẫn. | `hd_` | 28 | `hd_2211_0` |
 | `hop_nhat` | — | Quan hệ hợp nhất. Đích lấy từ phần đầu văn bản hợp nhất. | `hn_` | 8 | `hn_589448_0` |
+| `llm` | — | Chế độ `llm`: chỉ nhánh LLM thấy quan hệ (`extraction = llm`). Câu ở lời dẫn hoặc tên văn bản thì tiền tố là `intro_`. | không có hoặc `intro_` | — (hợp đồng v4) | Lượt `r3-holdout3`, `194135_0` |
 
 ### `scope_resolution_method`
 
@@ -270,6 +273,54 @@ Cách quy tắc xác nhận phạm vi, không cần QA phạm vi.
 | Giá trị | Nghĩa | Số v3 | Ví dụ |
 | --- | --- | --- | --- |
 | `lech_ngay_trich_dan` | Ngày trong câu trích khác ngày ban hành đã lưu. Công cụ nối theo số hiệu có năm, cùng năm ban hành, một đích duy nhất. Với số hiệu địa phương, đích phải cùng cơ quan. | 17 | `186386_0` |
+
+### `extraction` (hợp đồng v4)
+
+| Giá trị | Nghĩa |
+| --- | --- |
+| `llm+rules` | Cả nhánh LLM và nhánh quy tắc thấy quan hệ. Câu trích của LLM; vị trí của quy tắc khi quy tắc nêu vị trí cụ thể. |
+| `llm` | Chỉ nhánh LLM thấy. Quan hệ đã qua tầng 4. |
+| `rules` | Chỉ nhánh quy tắc thấy. QA giữ quan hệ. Chế độ `rules` chỉ có giá trị này. |
+
+Lượt chạy thử `eval-llm-blind` (15/10/2026, 759 quan hệ): `llm+rules` 412, `llm` 264, `rules` 83.
+
+### `resolution_status` và `resolution_reason` (hợp đồng v4)
+
+| `resolution_status` | Nghĩa | Bên Graph |
+| --- | --- | --- |
+| `validated` | Đủ căn cứ. `resolution_reason = null`. | Dựng cạnh |
+| `unresolved` | Hành động có thật, chưa đủ căn cứ. | Không dựng cạnh. Chờ duyệt. |
+
+| `resolution_reason` | Nghĩa | Tầng gán |
+| --- | --- | --- |
+| `vi_tri_chua_xac_dinh` | Câu nêu tác động một phần nhưng không nêu vị trí, không nêu tên phần. | Tầng 3, hoặc bước cấp quan hệ |
+| `phan_kem_theo_chua_ro` | Vị trí có thể thuộc văn bản đích hoặc Quy định kèm theo. Câu không nói rõ. | Tầng 3 |
+| `khong_xac_dinh_van_ban_dich` | LLM không nêu được văn bản đích. | Tầng 3 |
+| `van_ban_dich_khong_co_trong_nguon` | Số hiệu đích không có trong đoạn nguồn LLM đọc. | Tầng 4 |
+| `vi_tri_khong_co_trong_nguon` | Số của vị trí không có trong đoạn nguồn. | Tầng 4 |
+| `vi_tri_ngoai_dinh_dang` | Không sinh từ 19/10/2026. Vị trí ngoài định dạng chuyển sang `doi_tuong`. | — |
+
+Hàng tầng 4 loại hẳn không thành quan hệ. Lý do loại ở [08, mục 8.2.2](08-quan-he-4-tang-va-danh-gia.md#822-trạng-thái-của-quan-hệ).
+
+### `doi_tuong_loai` (hợp đồng v4, từ 20/10/2026)
+
+| Giá trị | Nghĩa | Ví dụ |
+| --- | --- | --- |
+| `van_ban` | Quan hệ tác động lên văn bản đích hoặc một phần của nó (Điều, khoản, phụ lục, phần nêu bằng tên). | `669756_0`: thay thế Quyết định 08/2014/QĐ-UBND |
+| `thu_tuc_hanh_chinh` | Quan hệ tác động lên thủ tục hành chính do văn bản đích công bố. `doi_tuong` là tên thủ tục. `ma_thu_tuc` có khi dòng ghi mã. | `587301`, `Phụ lục 1 Mục B STT 1`: bãi bỏ thủ tục "Thành lập Trung tâm dịch vụ việc làm …" công bố tại `3443/QĐ-UBND`, mã `2.000164` |
+
+Ví dụ lấy từ lượt chạy thử `q11q12-check` (20/10/2026).
+
+### `target_section` (hợp đồng v4)
+
+| Giá trị | Nghĩa | Ví dụ câu |
+| --- | --- | --- |
+| `quyet_dinh` | Vị trí thuộc chính văn bản đích. | "Sửa đổi khoản 2 Điều 3 Quyết định số …" |
+| `kem_theo` | Vị trí thuộc Quy định, Quy chế ban hành kèm theo văn bản đích, và câu nói rõ. | "… Quy định ban hành kèm theo Quyết định số 22/2021/QĐ-UBND" (`609183_0`) |
+| `khong_ro` | Văn bản đích có phần kèm theo, câu không nói vị trí thuộc phần nào. Quan hệ thành `unresolved` với `phan_kem_theo_chua_ro` khi có vị trí số. | "Bãi bỏ quy định … tại phần B, Điều 1 của Quyết định số 288/2006/QĐ-UBND" (`194135_0`) |
+| `khong_ap_dung` | Tác động lên cả văn bản, hoặc hướng dẫn chung. | "Quyết định này thay thế Quyết định số 08/2014/QĐ-UBND" (`669756_0`) |
+
+Ví dụ lấy từ lượt chạy thử `r3-holdout3` (20/10/2026). Index `-v4` chưa có trường này.
 
 ### Giá trị đặc biệt của `scope`
 
@@ -292,12 +343,14 @@ Cách quy tắc xác nhận phạm vi, không cần QA phạm vi.
 
 | Giá trị | Nghĩa | Phía nguồn của cạnh |
 | --- | --- | --- |
-| `intro` | Lời dẫn của văn bản nguồn. | Node văn bản |
+| `intro` | Lời dẫn của văn bản nguồn. Chế độ `llm`: cả tên văn bản. | Node văn bản |
 | `Tiêu đề` | Quan hệ hướng dẫn lấy đích từ tiêu đề. | Node văn bản |
 | `Lời dẫn` | Quan hệ hướng dẫn lấy đích từ lời dẫn. | Node văn bản |
 | `Phần đầu` | Quan hệ hợp nhất lấy đích từ phần đầu văn bản hợp nhất. | Node văn bản |
 | `Mục <n>` | Đề mục của văn bản không chia Điều. | Chunk `<doc>_m<n>` |
 | `Nội dung` | Nội dung của văn bản không chia Điều, không đề mục. | Chunk `<doc>_nd` hoặc `<doc>_nd_full` |
+| `Phụ lục <n> STT <k>`, `Phụ lục <n> Mục <m> STT <k>` | Một dòng bảng của phụ lục thứ `n` (hợp đồng v4, từ 19/10/2026). | Node phụ lục `<doc>_pl<n−1>` |
+| `Phụ lục <n> Mục <m>`, `Phụ lục <n>` | Đề mục của phụ lục viết thành đoạn văn (hợp đồng v4, từ 20/10/2026). | Node phụ lục `<doc>_pl<n−1>` |
 
 ## 6.5. Nhật ký lượt chạy
 

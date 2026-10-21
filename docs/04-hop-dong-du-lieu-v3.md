@@ -4,7 +4,8 @@ Tài liệu này mô tả dữ liệu **đang có** trong 3 index v3 trên ES đ
 
 - Mọi số liệu đo ngày 19/10/2026 trên toàn bộ bản ghi v3: 204 văn bản, 6.291 chunk, 733 quan hệ.
 - Tài liệu ghi đúng dữ liệu, kể cả lỗi. Mỗi lỗi có số lượng và ví dụ. Bảng tóm tắt lỗi ở mục 4.10.
-- v3 được ghi bằng quy tắc ngày 09–13/10/2026. Hợp đồng đích (sau khi ghi lại v3) là [09-hop-dong-du-lieu-v4.md](09-hop-dong-du-lieu-v4.md). Khi ghi lại, công cụ chỉ đổi hậu tố `-v4` thành `-v3`.
+- Công cụ ghi v3 bằng chế độ `rules` ngày 09–13/10/2026. Hợp đồng đích (sau khi ghi lại v3) là [09-hop-dong-du-lieu-v4.md](09-hop-dong-du-lieu-v4.md), luồng chốt ngày 20/10/2026. Khi ghi lại, công cụ chỉ đổi hậu tố `-v4` thành `-v3`.
+- So sánh v2, v3, v4 ở [05](05-phien-ban-v2-v3-v4.md).
 - Ví dụ chính: Nghị định 31/2024/NĐ-CP, `legal-docs-v3/602450`. Ví dụ viết dạng `<index>/<_id>`.
 - Nghĩa của giá trị enum ở [06-bang-enum.md](06-bang-enum.md). Cột "Số v3" của tài liệu 06 đếm trên bản thử v4 ngày 14/10/2026, không phải trên v3. Số đếm của v3 ở tài liệu này.
 - Cách đo lại ở mục 4.11.
@@ -679,11 +680,11 @@ v3 có một số tác động suy ra lên đơn vị cha hoặc đơn vị con 
 
 Hợp đồng đích là [09-hop-dong-du-lieu-v4.md](09-hop-dong-du-lieu-v4.md). Ghi lại v3 cần được duyệt ([09, mục 9.1.3](09-hop-dong-du-lieu-v4.md#913-cách-đưa-v4-về-đúng-hợp-đồng)).
 
-Các dòng 1, 2, 4–15 hết khi ghi lại v3 bằng code hiện tại. Các dòng 3, 16, 17 **không** hết khi ghi lại, vì code ngày 19/10/2026 chưa sửa:
+Các dòng 1–16 hết khi ghi lại v3 bằng luồng chốt ngày 20/10/2026. Dòng 17 **không** hết.
 
-- Dòng 3: công cụ chưa chặn vị trí ngoài định dạng ([09, mục 9.5](09-hop-dong-du-lieu-v4.md#95-vị-trí)). v4 còn 18/1.868 vị trí ngoài định dạng.
-- Dòng 16: code chỉ tách chữ ký khi chữ ký nằm ở dòng riêng. Chữ ký nằm cùng dòng bảng (`Lưu: VT. | TM. …`) vẫn vào `noi_nhan`. Chạy parser hiện tại trên 204 văn bản v3: còn 126 văn bản lỗi. v4 còn 338/532.
-- Dòng 17: v4 còn lỗi ở cùng phần tử `132723_pl0`.
+- Dòng 3: từ 19/10/2026, công cụ chuyển vị trí ngoài định dạng sang `doi_tuong` ([09, mục 9.5](09-hop-dong-du-lieu-v4.md#95-vị-trí)).
+- Dòng 16: từ 19/10/2026, parser tách khối chữ ký nằm cùng dòng bảng (`Lưu: VT. | TM. …`). Chạy parser hiện tại trên 132 văn bản v3 có lỗi: còn 0 (đo 20/10/2026).
+- Dòng 17: parser hiện tại vẫn cho `132723_pl0` cùng giá trị `n_table_rows` như v3 (đo 20/10/2026).
 
 | # | Mục | v3 hiện có | Hợp đồng đích | Số lượng v3 |
 | --- | --- | --- | --- | --- |

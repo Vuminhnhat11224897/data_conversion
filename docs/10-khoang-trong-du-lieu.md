@@ -34,6 +34,18 @@ Cập nhật 19/10/2026 (code, chưa ghi vào index; kết quả ở [08, mục 
 - R1: hold-out mới đạt P 93,4%, R 75,2%. Blind trừ `review50` đạt P 86,7%, R 56,3%.
 - S7: `noi_nhan` hết khối chữ ký nằm cùng dòng bảng (lỗi có ở 338/532 văn bản v4).
 
+Cập nhật 20/10/2026 (luồng chốt, chưa ghi vào index; kết quả ở [08, mục 8.8](08-quan-he-4-tang-va-danh-gia.md#88-vòng-3-20102026-và-hold-out-3)):
+
+| # | Trạng thái mới |
+| --- | --- |
+| R1 | Hold-out 3 (158 văn bản mới): quan hệ P 96,9%, R 93,1%; mức văn bản R 92,6%; mức Điều khoản R 73,7%. Mục tiêu 85% đạt ở mức quan hệ và văn bản, chưa đạt ở mức Điều khoản. |
+| R2 | Đã làm ở chế độ `llm`: Điều "bãi bỏ các văn bản tại Phụ lục, Danh mục, Danh sách kèm theo" cho một quan hệ với mỗi văn bản. Phụ lục viết thành đoạn văn được đọc theo đề mục. |
+| R3 | Dòng danh mục thủ tục có quan hệ lên quyết định đã công bố thủ tục, tên thủ tục ở `doi_tuong` (quy ước Q5, [07](07-gioi-han-va-can-chot.md#74-quyết-định-đã-chốt)). Thực thể thủ tục vẫn chưa có. |
+| R4 | Đã làm: vị trí ngoài định dạng thành `doi_tuong`. |
+| R5 | Vị trí đúng trên hold-out 3: 78,1% (code vòng 3). Sau đó nhánh quy tắc sửa lỗi đọc danh sách vị trí lẫn cấp; chưa có hold-out mới để đo lại. |
+| R6 | Hold-out 3 theo nhóm (quan hệ R): hủy bỏ 100%, thay thế 100%, sửa đổi 96,6%, hướng dẫn 60%, văn bản cũ 0% (2 quan hệ: một lệch dạng số hiệu "31/CP-1996", một bị sót). Mỗi nhóm có 4–12 văn bản. |
+| D1 | Luồng chốt 20/10/2026. Chưa ghi index. Ghi lại cần duyệt. |
+
 ## 10.2. Cấu trúc và chunk
 
 ### S1. Phụ lục không chia Điều là một chunk
@@ -288,9 +300,10 @@ Index `legal-changed` (trước v2) có 164.965 quan hệ trên cả `10.1.10.10
 | --- | --- |
 | v3 | 204 văn bản (0,04% kho), quy tắc ngày 13/10 |
 | v4 | 532 văn bản, ghi ngày 14/10. Chưa có các thay đổi từ 15–16/10 ([09, mục 9.1](09-hop-dong-du-lieu-v4.md#91-trạng-thái-v4)). |
-| Luồng 4 tầng và parser mới | Chỉ chạy thử (dry-run) |
+| Luồng 4 tầng và parser mới | Luồng chốt 20/10/2026, chế độ mặc định. Chỉ chạy thử (dry-run). |
 | Thời gian, chế độ `llm` | Khoảng 12 giây mỗi văn bản ở 3 lời gọi cùng lúc (Blind). Bộ Blind thiên về văn bản có quan hệ, nên đây là cận trên. |
 | Thời gian, chế độ `rules` | Khoảng 1,4 giây mỗi văn bản khi dùng lại cache QA |
+| Thời gian, luồng chốt | Khoảng 4,2 giây mỗi văn bản, `--workers 6`, ban ngày (hold-out 3, 20/10/2026) |
 | Nhãn chuẩn | Chỉ do LLM gán. Chưa có nhãn của người. |
 
 ## 10.6. Thứ tự xử lý đề xuất

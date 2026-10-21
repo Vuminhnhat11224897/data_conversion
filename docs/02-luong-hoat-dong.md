@@ -67,7 +67,7 @@ Kiểm 5 mục. Mỗi mục trả `ok` và kết quả hoặc lỗi. Mã thoát 
 | `--from-date`, `--to-date` | Lọc `issuance_date` (`YYYY-MM-DD`). |
 | `--legal-type` | Lọc `legal_type`. |
 | `--limit N` | Chỉ chạy N văn bản chưa xong. |
-| `--extractor rules\|llm` | Cách dò quan hệ. `rules`: regex và QA (mặc định, `RELATION_EXTRACTOR`). `llm`: 4 tầng, mục 8. |
+| `--extractor llm\|rules` | Cách dò quan hệ. `llm`: luồng 4 tầng, luồng chốt 20/10/2026 (mặc định, `RELATION_EXTRACTOR`). `rules`: regex và QA, cách của v3. |
 | `--workers N` | Số văn bản chạy song song (1..32). Mặc định 10. Số lời gọi LLM cùng lúc không vượt `LLM_CONCURRENCY_DAY` (3) hoặc `LLM_CONCURRENCY_NIGHT` (10, từ 22h đến 6h). |
 | `--no-qa` | Bỏ QA. Công cụ **không ghi** quan hệ và **không xóa** quan hệ cũ. |
 | `--dry-run` | Chạy đủ các bước. Không ghi ES. Kết quả ở `work/<run>/dry-run/<id>.json`. |
@@ -101,17 +101,19 @@ Chỉ đọc ES nguồn. Lệnh không ghi ES và không gọi embedding. Lệnh
 
 ## 2.4. Luồng một văn bản
 
+Luồng dưới đây là chế độ `llm` (mặc định). Chế độ `rules` khác ở bước 8: chỉ có QA ứng viên của nhánh quy tắc.
+
 ```mermaid
 flowchart TD
-  S1[1. Đọc văn bản nguồn] --> S2[2. Parse quy tắc + hybrid AI]
-  S2 --> S3[3. Dựng bản ghi văn bản v3]
+  S1[1. Đọc văn bản nguồn, kiểm năm] --> S2[2. Tầng 1: parse quy tắc + LLM]
+  S2 --> S3[3. Dựng bản ghi văn bản]
   S3 --> S4[4. Dựng chunk]
-  S4 --> S5[5. Dò ứng viên quan hệ + khớp đích]
+  S4 --> S5[5. Nhánh quy tắc: dò ứng viên + khớp đích]
   S5 --> S6[6. Dẫn chiếu trong chunk]
-  S6 --> S7[7. Vector chunk]
-  S7 --> S8[8. QA quan hệ]
-  S8 --> S9[9. Quan hệ hướng dẫn]
-  S9 --> S10[10. Thời gian và cấp quan hệ]
+  S6 --> S7[7. Ngày hiệu lực chunk + vector]
+  S7 --> S8["8. Tầng 2–4: LLM trích, phân giải, kiểm; QA nhánh quy tắc; gộp"]
+  S8 --> S9[9. Luật nêu bằng tên, quan hệ hướng dẫn, quan hệ hợp nhất]
+  S9 --> S10[10. Thời gian, chuẩn hóa vị trí, một vị trí một quan hệ, cấp quan hệ]
   S10 --> S11{--dry-run?}
   S11 -- có --> J[Ghi work/run/dry-run/id.json]
   S11 -- không --> W[11. Ghi ES đích]
@@ -119,17 +121,17 @@ flowchart TD
 
 | # | Bước | Module | Dịch vụ ngoài | Kết quả |
 | --- | --- | --- | --- | --- |
-| 1 | Đọc `legal-docs/<id>`. Không có văn bản hoặc `full_content` rỗng thì báo lỗi. | `convert.py` | ES nguồn | `_source` nguồn |
+| 1 | Đọc `legal-docs/<id>`. Không có văn bản hoặc `full_content` rỗng thì báo lỗi. Công cụ bỏ qua văn bản trước `START_YEAR` (`skipped = truoc_nam_bat_dau`) và văn bản có toàn văn tiếng Anh (`skipped = tieng_anh`), trước mọi lời gọi model. | `convert.py` | ES nguồn | `_source` nguồn |
 | 2 | Chuẩn hóa NFC. Parse bằng quy tắc. Hỏi model LLM ca mơ hồ (mục 2.5.1). | `structure.py`, `structure_ai.py` | LiteLLM | Cấu trúc văn bản |
-| 3 | Chép metadata. Tính `content_sha256`, `la_vbqppl`, `cap_hieu_luc`, ngày hiệu lực, ngày hết hiệu lực, hồi tố, ngày hiệu lực riêng của từng đơn vị (`hieu_luc_rieng`). Nguồn không có `embedding` thì tạo vector của `title`. | `convert.py`, `legal_status.py`, `temporal.py` | Embedding (khi thiếu) | Bản ghi `legal-docs-v3` |
+| 3 | Chép metadata. Tính `content_sha256`, `la_vbqppl`, `cap_hieu_luc`, ngày hiệu lực, ngày hết hiệu lực, hồi tố, ngày hiệu lực riêng của từng đơn vị (`hieu_luc_rieng`). Nguồn không có `embedding` thì tạo vector của `title`. | `convert.py`, `legal_status.py`, `temporal.py` | Embedding (khi thiếu) | Bản ghi văn bản |
 | 4 | Dựng chunk Điều, khoản, điểm, tiểu điểm, phụ lục, đề mục, nội dung. | `structure.py` `build_chunks` | — | Danh sách chunk |
-| 5 | Dò ứng viên (mục 2.5.2). Tra số hiệu đích trong `legal-docs` nguồn. Khớp đích (mục 2.5.3). | `relations.py` | ES nguồn | Ứng viên |
+| 5 | Nhánh quy tắc dò ứng viên (mục 2.5.2). Tra số hiệu đích trong `legal-docs` nguồn. Khớp đích (mục 2.5.3). | `relations.py` | ES nguồn | Ứng viên |
 | 6 | Tìm dẫn chiếu trong từng chunk. Nối văn bản được dẫn. | `references.py` `link_references` | ES nguồn | `dan_chieu` |
 | 7 | Gắn ngày hiệu lực của từng đơn vị vào chunk (mục 2.5.7). Chunk có chuỗi giống chunk nguồn: dùng lại vector nguồn. Chunk khác: gọi embedding theo lô. | `convert.py`, `legal_status.py`, `embedding.py` | ES nguồn, Embedding | `ngay_hieu_luc`, `embedding` |
-| 8 | QA ứng viên và phạm vi (mục 2.5.4). | `qa.py` | LiteLLM | Quan hệ |
-| 9 | Dò quan hệ hướng dẫn từ tiêu đề hoặc lời dẫn (mục 2.5.5). Văn bản hợp nhất: dò quan hệ hợp nhất từ phần đầu. Tra luật nêu bằng tên. | `references.py` `guidance`, `relations.py` `consolidation` | ES nguồn | Quan hệ `hd_`, `hn_` |
-| 10 | Tính `vi_tri`, `source_ngay_hieu_luc`, `hieu_luc_tac_dong`. Tách mỗi vị trí thành một quan hệ. Đánh số lại `_id`. Tính `cap_quan_he` (mục 2.5.6). Quan hệ `chua_xac_dinh` ghi thêm vào `review.jsonl`. | `convert.py`, `temporal.py` | — | Quan hệ hoàn chỉnh |
-| 11 | Ghi ES đích theo thứ tự ở bảng dưới. | `es.py` | ES đích | 3 index v3 |
+| 8 | Chế độ `llm`: tầng 2 trích, tầng 3 phân giải, tầng 4 kiểm (mục 2.5.8). QA ứng viên của nhánh quy tắc (mục 2.5.4). Gộp hai nhánh. Chế độ `rules`: chỉ QA ứng viên. | `extract.py`, `resolver.py`, `validate.py`, `qa.py`, `convert.py` | LiteLLM, ES nguồn | Quan hệ |
+| 9 | Luật nêu bằng tên: tra luật gốc cùng tên. Dò quan hệ hướng dẫn từ tiêu đề hoặc lời dẫn (mục 2.5.5). Văn bản hợp nhất: dò quan hệ hợp nhất từ phần đầu. | `references.py` `guidance`, `relations.py` `consolidation` | ES nguồn | Quan hệ `hd_`, `hn_` |
+| 10 | Tính `source_ngay_hieu_luc`, `hieu_luc_tac_dong`. Chuẩn hóa vị trí: vị trí ngoài định dạng thành `doi_tuong`, bỏ vị trí cha khi có vị trí con. Tách mỗi vị trí thành một quan hệ. Đánh số lại `_id`. Tính `cap_quan_he` (mục 2.5.6). Quan hệ `chua_xac_dinh` ghi thêm vào `review.jsonl`. | `convert.py`, `temporal.py` | — | Quan hệ hoàn chỉnh |
+| 11 | Ghi ES đích theo thứ tự ở bảng dưới. | `es.py` | ES đích | 3 index đích |
 
 Thứ tự ghi ở bước 11:
 
@@ -147,16 +149,21 @@ Lỗi giữa chừng thì văn bản không vào `documents.jsonl`. Chạy lại
 
 Parser quy tắc tách văn bản thành: căn cứ, lời dẫn, Điều, khoản, điểm, phần cuối (chữ ký, Nơi nhận), phụ lục. Văn bản không có Điều được chia theo đề mục hoặc theo đoạn.
 
-Công cụ hỏi model LLM trong 2 trường hợp:
+Công cụ hỏi model LLM trong 3 trường hợp:
 
 | Câu hỏi | Tín hiệu | Model trả | Code kiểm |
 | --- | --- | --- | --- |
 | Chữ sau "Điều N." là tên Điều hay nội dung? Một lần hỏi cho cả văn bản. | Tên dài hơn 90 ký tự; tên kết thúc bằng `.`, `;`, `,`, `:`; tên bắt đầu bằng chủ ngữ ("Quyết định này", "Các Sở …"); tên nằm ở dòng sau. | `{articles: [{line, has_title}]}` | Chỉ chấp nhận dòng đã hỏi, mỗi dòng một lần. |
 | Phụ lục và văn bản kèm theo bắt đầu ở dòng nào? | Có tín hiệu bố cục: `tail_dieu`, `long_noi_nhan`, `segment_in_main`, `unlabeled_without_note`, `empty_labeled_part` ([06, mục 6.5](06-bang-enum.md#65-nhật-ký-lượt-chạy)). | `{parts: [{start_line}]}` | Dòng bắt đầu là dòng tiêu đề, sau Điều đầu tiên. Bố cục mới phải giữ đủ Điều. Bố cục mới không đưa Điều vào phần cuối và không làm Nơi nhận dài thêm. Phụ lục có nhãn dài từ 1.000 ký tự phải giữ riêng. Sai thì giữ bố cục quy tắc. |
+| Văn bản không chia Điều có những đề mục nào, cấp nào? (từ 15/10/2026) | Bố cục nhiều cấp (I/II với 1/2, phần A/B), hoặc một mục chiếm phần lớn văn bản. | Số dòng, nhãn, cấp (`prompts/dan_y_van_ban.txt`) | Nhãn phải có ở đầu dòng. Không đạt thì giữ quy tắc. |
+
+Các ca quy tắc mới từ 15/10/2026 ở [08, mục 8.3](08-quan-he-4-tang-va-danh-gia.md#83-tầng-cấu-trúc-quy-tắc-và-llm).
 
 Model lỗi thì công cụ giữ kết quả quy tắc. Nhật ký văn bản ghi `ai_warnings`.
 
-### 2.5.2. Dò ứng viên quan hệ
+### 2.5.2. Dò ứng viên quan hệ (nhánh quy tắc)
+
+Nhánh quy tắc chạy ở cả hai chế độ. Ở chế độ `llm`, công cụ gộp kết quả của nhánh này với nhánh LLM (mục 2.5.8).
 
 Văn bản hợp nhất chỉ sinh quan hệ hợp nhất (dòng cuối bảng). Ghi chú sửa đổi trong văn bản hợp nhất không là tác động của nó. Các văn bản khác đi qua 5 bộ dò đầu:
 
@@ -206,7 +213,7 @@ Công cụ tra số hiệu trong `legal-docs` nguồn, gồm cả dạng bỏ n�
 
 Còn đúng một đích thì `target_matched_id` là `_id` của đích đó. Còn lại thì `target_matched_id = null`.
 
-### 2.5.4. QA quan hệ
+### 2.5.4. QA quan hệ (nhánh quy tắc)
 
 Công cụ gom ứng viên theo (`source_path`, `target_doc`, `action`).
 
@@ -262,6 +269,17 @@ Với mỗi quan hệ, công cụ tính:
 4. Không có dòng nào chứa chunk thì chunk lấy ngày của văn bản. Chunk phụ lục và văn bản kèm theo lấy ngày của văn bản.
 5. Văn bản hồi tố: chunk nằm trong `hoi_to_vi_tri` (rỗng là mọi chunk) có thêm `ngay_hoi_to`.
 
+### 2.5.8. Nhánh LLM 4 tầng và gộp
+
+Chi tiết ở [08, mục 8.2](08-quan-he-4-tang-va-danh-gia.md#82-bốn-tầng). Tóm tắt:
+
+1. **Chọn đơn vị.** `extract.py` chọn mọi đơn vị có từ chỉ hành động: Điều, khoản, điểm, đề mục, tên in và lời dẫn (`Phần đầu`; tên lưu ở nguồn không dùng, quy ước Q11), dòng bảng phụ lục (`Phụ lục <n> [Mục <m>] STT <k>`), đề mục của phụ lục viết thành đoạn văn (`Phụ lục <n> Mục <m>`).
+2. **Gom ngữ cảnh.** Mỗi đơn vị có câu dẫn, tên Điều, tên Chương. Dòng bảng có tên phụ lục, tên cột và câu của Điều nói về phụ lục. Điều nêu "các văn bản tại Phụ lục …" có danh sách dòng của phụ lục đó (`danh_sach_kem_theo`).
+3. **Hỏi LLM.** Công cụ gom đơn vị theo Điều. Với danh sách từ 8 văn bản, công cụ hỏi theo phần, mỗi phần 5 văn bản. Một lời gọi lỗi không làm mất quan hệ của cả văn bản.
+4. **Phân giải.** `resolver.py` đổi số hiệu và vị trí nguyên văn sang định dạng hợp đồng. Resolver gán `doi_tuong_loai`: `thu_tuc_hanh_chinh` khi quan hệ tác động lên thủ tục (quy ước Q12).
+5. **Kiểm.** `validate.py` loại hàng sai. Hàng có hành động thật nhưng thiếu căn cứ thành `unresolved`.
+6. **Gộp.** Cùng đơn vị nguồn, hành động, văn bản đích: cả hai nhánh thấy thì `extraction = llm+rules`; một nhánh thấy thì `llm` hoặc `rules`.
+
 ## 2.6. Làm tiếp và chạy lại
 
 | Tình huống | Việc cần làm |
@@ -295,11 +313,13 @@ Dòng "AI/vector/quan hệ" cho biết số lần gọi AI, số vector dùng l�
 
 ## 2.8. Thời gian và tải
 
-Đo ngày 09/10/2026:
+| Đo | Chế độ | Kết quả |
+| --- | --- | --- |
+| 09/10/2026 | Parser quy tắc | Khoảng 1,8 giờ cho toàn kho trên 1 lõi. Parser không là điểm nghẽn. |
+| 15/10/2026, Blind 290 văn bản | `llm`, 3 lời gọi LLM cùng lúc | Khoảng 12 giây mỗi văn bản (57 phút) |
+| 15/10/2026 | `rules`, dùng lại cache QA | Khoảng 1,4 giây mỗi văn bản |
+| 20/10/2026, hold-out 3, 158 văn bản | `llm`, `--workers 6`, ban ngày (3 lời gọi cùng lúc), `--dry-run` | 663 giây, khoảng 4,2 giây mỗi văn bản |
 
-- Parser quy tắc không là điểm nghẽn: khoảng 1,8 giờ cho toàn kho trên 1 lõi.
-- Điểm nghẽn là `qwen-legal`, embedding và QA. Với 4 luồng, một văn bản mất 1,05–1,85 giây. Toàn kho mất khoảng 6–11 ngày.
-- Ước tính lượt gọi `qwen-legal` cho toàn kho:
-  - khoảng 244 nghìn lượt hỏi tên Điều (47% văn bản);
-  - khoảng 21 nghìn lượt hỏi bố cục;
-  - QA cho khoảng 20% văn bản có ứng viên quan hệ.
+- Điểm nghẽn là số lời gọi LLM cùng lúc. Chạy toàn kho nên bắt đầu sau 22h (10 lời gọi cùng lúc).
+- Bộ đo thiên về văn bản có quan hệ. Văn bản không có từ chỉ hành động không gọi tầng 2.
+- Ước toàn kho chưa đo lại cho luồng chốt. Đo trên 1.000 văn bản ngẫu nhiên trước khi chạy toàn kho.

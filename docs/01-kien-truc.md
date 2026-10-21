@@ -6,7 +6,9 @@
 
 - Công cụ đọc 3 index v2 trên ES nguồn.
 - Công cụ dựng lại cấu trúc, chunk, quan hệ và metadata pháp lý.
-- Công cụ ghi kết quả vào 3 index v3 trên ES đích.
+- Công cụ ghi kết quả vào 3 index trên ES đích: `-v4` để thử, `-v3` sau khi duyệt.
+
+Ba phiên bản dữ liệu và khác biệt của chúng ở [05](05-phien-ban-v2-v3-v4.md). Từ 20/10/2026, công cụ dò quan hệ bằng luồng 4 tầng (chế độ `llm`).
 
 Công cụ chạy độc lập. Công cụ không dùng code, `.env`, PostgreSQL, MinIO hay cache của luồng realtime. Công cụ không sửa luồng realtime.
 
@@ -20,14 +22,15 @@ flowchart LR
     R2[legal-changed-v2]
   end
   subgraph TOOL["vbpl_v3"]
-    P[Parser quy tắc]
-    H[Hybrid AI]
-    Q[QA quan hệ]
+    P["Tầng 1: parser quy tắc + LLM"]
+    X["Tầng 2: LLM trích"]
+    V["Tầng 3–4: phân giải, kiểm"]
+    Q["Nhánh quy tắc: regex + QA"]
   end
   subgraph DST["ES đích 10.1.10.23"]
-    D3[legal-docs-v3]
-    C3[legal-chunk-section-v3]
-    R3[legal-changed-v3]
+    D3["legal-docs-v3 / -v4"]
+    C3["legal-chunk-section-v3 / -v4"]
+    R3["legal-changed-v3 / -v4"]
   end
   LLM[(LLM qwen3.6-35b)]
   EMB[(Embedding BAAI/bge-m3)]
@@ -36,7 +39,8 @@ flowchart LR
   C2 -- vector cũ --> TOOL
   TOOL -- tra văn bản đích --> D2
   TOOL --> D3 & C3 & R3
-  H <--> LLM
+  P <--> LLM
+  X <--> LLM
   Q <--> LLM
   TOOL <--> EMB
   TOOL <--> WORK
@@ -53,12 +57,16 @@ flowchart LR
 | `__main__.py` | Dòng lệnh: `check`, `init`, `convert`, `report`, `analyze`. | — |
 | `config.py` | Đọc `.env`. Kiểm URL và tên index. | — |
 | `es.py` | Client ES. Chặn mọi lệnh ghi lên nguồn. Chỉ cho ghi 3 index đích. | ES |
-| `convert.py` | Điều phối một lượt và một văn bản. Chạy song song. Làm tiếp khi bị ngắt. | ES |
+| `convert.py` | Điều phối một lượt và một văn bản. Gộp nhánh LLM và nhánh quy tắc. Chuẩn hóa vị trí. Chạy song song. Làm tiếp khi bị ngắt. | ES |
 | `structure.py` | Parser quy tắc: phần đầu, căn cứ, lời dẫn, Điều, khoản, điểm, tiểu điểm, Nơi nhận, phụ lục. Dựng chunk. | — |
 | `structure_ai.py` | Hybrid: hỏi model LLM ca mơ hồ. Kiểm câu trả lời trước khi áp dụng. | LiteLLM |
-| `relations.py` | Dò ứng viên quan hệ và quan hệ hợp nhất. Khớp văn bản đích. | — |
+| `extract.py` | Tầng 2: chọn đơn vị có từ chỉ hành động, gom ngữ cảnh (câu dẫn, tên Điều, dòng bảng, danh sách kèm theo), hỏi LLM, nhận JSON trung gian. | LiteLLM |
+| `resolver.py` | Tầng 3: đổi văn bản đích và vị trí nguyên văn sang định dạng hợp đồng. Không đoán. | — |
+| `validate.py` | Tầng 4: kiểm câu trích, động từ, ngoặc kép, tên danh mục, ghi chú lịch sử, dòng bảng, thẩm quyền. Loại hoặc để chờ duyệt. | — |
+| `prompts/*.txt` | Prompt của LLM: trích quan hệ, dàn ý, bố cục, tên Điều, QA. | — |
+| `relations.py` | Nhánh quy tắc: dò ứng viên quan hệ và quan hệ hợp nhất. Khớp văn bản đích. | ES |
 | `references.py` | Quan hệ hướng dẫn. Dẫn chiếu trong chunk (`dan_chieu`). Tra luật nêu bằng tên. | ES |
-| `qa.py` | QA ứng viên quan hệ và phạm vi. | LiteLLM |
+| `qa.py` | Nhánh quy tắc: QA ứng viên quan hệ và phạm vi. | LiteLLM |
 | `temporal.py` | Ngày hiệu lực. Tách vị trí. Ý nghĩa thời gian của quan hệ. | — |
 | `legal_status.py` | `la_vbqppl`, `cap_hieu_luc`, ngày hết hiệu lực, hồi tố, ngày hiệu lực riêng của từng Điều, khoản, điểm. | — |
 | `text.py` | Khóa số hiệu, khóa cơ quan, nhận diện hành động, kiểm dẫn chứng. | — |
@@ -70,14 +78,15 @@ flowchart LR
 
 ## 1.4. Nguyên tắc thiết kế
 
-1. **Quy tắc quyết định.** Parser quy tắc xử lý mọi văn bản. Model LLM chỉ xử lý ca có tín hiệu rõ.
-2. **Model không viết dữ liệu.** Model trả số dòng hoặc giá trị đóng (`true`/`false`). Code lấy chữ từ chính văn bản.
-3. **Code kiểm mọi câu trả lời.** Câu trả lời sai schema thì công cụ hỏi lại tối đa 2–3 lần. Vẫn sai thì công cụ giữ kết quả quy tắc và ghi cảnh báo.
-4. **Dẫn chứng phải có thật.** Dẫn chứng của model phải có nguyên văn trong văn bản nguồn. Không có thì công cụ loại đề xuất.
-5. **Không đoán.** Không đủ căn cứ thì công cụ để `null` và ghi lý do. Ví dụ: `can_kiem`, `khong_tim_thay`, `chua_xac_dinh`.
-6. **Chỉ tác động trực tiếp.** Công cụ chỉ lưu tác động câu chữ nêu. Công cụ không suy ra tác động lên đơn vị cha, đơn vị con hay văn bản khác.
-7. **Văn bản là đơn vị độc lập.** Ghi lại một văn bản chỉ thay chunk và quan hệ của chính văn bản đó.
-8. **Làm tiếp được.** Nhật ký và cache nằm ở `work/<run>/`. Chạy lại cùng lượt thì công cụ bỏ qua phần đã xong.
+1. **Mỗi tầng một loại lỗi.** Quy tắc tách cấu trúc. LLM đọc nghĩa của câu. Code phân giải và kiểm. Mỗi tầng kiểm thử riêng được.
+2. **Model không tạo ID và không tạo chữ.** Ở tầng cấu trúc, model chỉ trả số dòng hoặc giá trị đóng. Ở tầng trích, model trả câu trích nguyên văn; code đổi câu đó sang ID và vị trí.
+3. **Ca khó thì định nghĩa cho LLM, không ép regex.** Với cách viết mới, công cụ thêm định nghĩa vào prompt. Regex chỉ giữ việc chắc chắn: số hiệu, vị trí, câu trích có trong nguồn.
+4. **Code kiểm mọi câu trả lời.** Câu trả lời sai schema thì công cụ hỏi lại tối đa 2–3 lần. Vẫn sai thì công cụ giữ kết quả quy tắc và ghi cảnh báo.
+5. **Dẫn chứng phải có thật.** Dẫn chứng của model phải có nguyên văn trong văn bản nguồn. Không có thì công cụ loại đề xuất.
+6. **Không đoán.** Không đủ căn cứ thì công cụ để `null` hoặc `unresolved` và ghi lý do. Ví dụ: `can_kiem`, `chua_xac_dinh`, `phan_kem_theo_chua_ro`.
+7. **Chỉ tác động trực tiếp.** Công cụ chỉ lưu tác động câu chữ nêu. Công cụ không suy ra tác động lên đơn vị cha, đơn vị con hay văn bản khác.
+8. **Văn bản là đơn vị độc lập.** Ghi lại một văn bản chỉ thay chunk và quan hệ của chính văn bản đó.
+9. **Làm tiếp được.** Nhật ký và cache nằm ở `work/<run>/`. Chạy lại cùng lượt thì công cụ bỏ qua phần đã xong.
 
 ## 1.5. An toàn dữ liệu
 
@@ -104,7 +113,10 @@ Chép `.env.example` thành `.env`. Đặt quyền `600`. Không đặt dấu nh
 | `TARGET_DOCUMENT_INDEX`, `TARGET_CHUNK_INDEX`, `TARGET_CHANGE_INDEX` | `legal-docs-v3`, `legal-chunk-section-v3`, `legal-changed-v3` | Tên 3 index đích. Cùng đuôi `-v3`, hoặc cùng đuôi `-v4` để ghi thử (mục 2.1). |
 | `LITELLM_BASE_URL`, `LITELLM_API_KEY`, `LITELLM_MODEL` | `http://100.91.202.88:8012/v1`, `EMPTY`, `qwen3.6-35b` | Server LLM Lào Cai (vLLM), từ 15/10/2026. Cache QA và `structure_ai` tách theo tên model: đổi model thì không dùng lại câu trả lời cũ. **Bí mật:** `LITELLM_API_KEY` khi dùng LiteLLM. |
 | `LLM_CONCURRENCY_DAY`, `LLM_CONCURRENCY_NIGHT`, `LLM_NIGHT_HOURS` | `3`, `10`, `22-6` | Số lời gọi LLM cùng lúc trong một tiến trình: 3 ban ngày, 10 từ 22h đến 6h. Lời gọi đang chờ đọc lại giờ, nên lượt chạy qua 22h tự tăng lên 10. Chỉ chạy một tiến trình `convert` một lúc. |
-| `LLM_MAX_TOKENS`, `LLM_TIMEOUT_CONNECT`, `LLM_TIMEOUT_READ`, `LLM_MIN_TOKENS_PER_SECOND` | `4000`, `5`, `30`, `20` | Trần `max_tokens`. Timeout kết nối 5 s. Timeout đọc 30 s; câu trả lời có thể dài thì `max_tokens / 20` giây (ví dụ 2000 token: 100 s). |
+| `LLM_MAX_TOKENS`, `LLM_TIMEOUT_CONNECT`, `LLM_TIMEOUT_READ`, `LLM_MIN_TOKENS_PER_SECOND` | `4000`, `5`, `30`, `20` | Trần `max_tokens`. Timeout kết nối 5 s. Timeout đọc 30 s; câu trả lời có thể dài thì `max_tokens / 20` giây (ví dụ 2000 token: 100 s). Không giảm `LLM_MAX_TOKENS`: danh sách dài cần đủ token. |
+| `LLM_CONNECT_RETRY_WAITS` | `10,20,40,60,90` | Server từ chối kết nối khi bận: công cụ chờ lần lượt các số giây này rồi thử lại. |
+| `RELATION_EXTRACTOR` | `llm` | Cách dò quan hệ. `llm`: luồng 4 tầng, luồng chốt 20/10/2026. `rules`: regex và QA (cách của v3). Tham số `--extractor` ghi đè biến này. |
+| `START_YEAR` | `1980` (1000..2999) | Công cụ chỉ chuyển văn bản có ngày ký, ngày ban hành hoặc ngày hiệu lực từ 1/1 của năm này. Công cụ bỏ qua văn bản sớm hơn, nhật ký ghi `skipped = truoc_nam_bat_dau`. Công cụ kiểm trước mọi lời gọi model. Công cụ cũng bỏ qua văn bản có toàn văn tiếng Anh (`skipped = tieng_anh`): chưa tới 2% chữ có dấu tiếng Việt trong 20.000 ký tự đầu. |
 | `EMBEDDING_URL` | — (bắt buộc cho `convert`) | Dịch vụ `BAAI/bge-m3`, 1.024 chiều. |
 | `EMBEDDING_BATCH` | `64` (1..512) | Số chuỗi trong một lần gọi embedding. |
 | `EMBEDDING_REUSE` | `yes` | `yes`: chunk có cùng chuỗi `tieu_de + " " + noi_dung` với chunk nguồn thì dùng lại vector nguồn. |
@@ -126,12 +138,14 @@ Chép `.env.example` thành `.env`. Đặt quyền `600`. Không đặt dấu nh
 | `work/<run>/report.txt` | Kết quả lệnh `report`. |
 | `work/<run>/dry-run/<id>.json` | Kết quả `--dry-run`. Không có `embedding`, `full_content`. |
 | `work/<run>/cache/<id>/structure_ai/` | Câu hỏi và câu trả lời hybrid (tên Điều, bố cục). |
-| `work/<run>/qa/<id>/` | Câu trả lời QA quan hệ và QA phạm vi. |
+| `work/<run>/qa/<id>/` | Câu trả lời QA quan hệ và QA phạm vi (nhánh quy tắc). |
+| `work/<run>/extract/<id>/` | Câu hỏi và câu trả lời của tầng 2. `rejected.json`: hàng tầng 4 loại, kèm lý do. |
 | `work/analyze-<name>/` | Kết quả `analyze`: `summary.json`, `documents.jsonl`, `failures.json`. |
 
 - Cache chỉ lưu câu trả lời đã qua kiểm tra. Chạy lại không gọi model cho câu hỏi giống hệt.
 - **Dữ liệu nhạy cảm:** `llm_response.json` chứa toàn văn gửi đi và câu trả lời model. `work/` không đưa vào git và không đưa vào image Docker.
-- Dung lượng: khoảng 35 MB cho 1.000 văn bản. Toàn kho cần khoảng 18 GB.
+- Dung lượng, chế độ `rules`: khoảng 35 MB cho 1.000 văn bản (09/10/2026). Toàn kho cần khoảng 18 GB.
+- Dung lượng, chế độ `llm`: 32 MB cho 158 văn bản của hold-out 3, không tính `dry-run/` (20/10/2026). Phần lớn là `extract/` (25 MB). Mẫu này thiên về văn bản có quan hệ và văn bản dài, nên đây là cận trên.
 
 ## 1.8. Triển khai
 
@@ -146,7 +160,7 @@ Chép `.env.example` thành `.env`. Đặt quyền `600`. Không đặt dấu nh
 
 ## 1.9. Index v3
 
-Công cụ tạo 3 index trên `10.1.10.23` ngày 09/10/2026. Định nghĩa nằm ở `vbpl_v3/mappings/`.
+Công cụ tạo 3 index v3 trên `10.1.10.23` ngày 09/10/2026 và 3 index `-v4` ngày 14/10/2026. Định nghĩa nằm ở `vbpl_v3/mappings/`. Index `-v4` dùng cùng mapping, chỉ khác tên.
 
 | Index | Shard / bản sao | Lý do |
 | --- | --- | --- |
