@@ -10,6 +10,7 @@ Nothing is guessed: a row the text does not settle keeps resolution_status = unr
 import re
 
 from .structure import NUMBER
+from .text import number_key
 from .relations import scope
 from .temporal import extension, phrase_change, positions, suspension
 
@@ -22,7 +23,6 @@ LAW = re.compile(r'(Bộ\s+luật|Luật|Pháp\s+lệnh)\s+(?!này\b|số\b)\S')
 
 
 # Numbers written "number-type/body" (party and old government documents): "38-HD/BTCTW", "20-CT/TW", "481-TTg".
-DASHED = re.compile(r'(?<![\w/-])\d{1,6}-[A-ZĐ][A-Za-zĐđ]{1,9}(?:/[A-ZĐ][A-ZĐa-zđ0-9-]*)?(?![\w-])')
 # Q12 (20/10/2026): an act on administrative procedures, not on the document text. The edge still goes to the document that published
 # them; doi_tuong_loai tells the two apart, and ma_thu_tuc keeps the national procedure code ("1.008698") a row states.
 PROCEDURE = re.compile(r'thủ\s+tục\s+hành\s+chính|\bTTHC\b|^\s*(?:các\s+|\d+\s+|\(\d+\)\s+)*thủ\s+tục\b', re.I)
@@ -41,6 +41,7 @@ def object_kind(named, heading='', row=False):
     return 'van_ban'
 
 
+DASHED = re.compile(r'(?<![\w/-])\d{1,6}-[A-ZĐ][A-Za-zĐđ]{1,9}(?:/[A-ZĐ][A-ZĐa-zđ0-9-]*)?(?![\w-])')
 
 
 def target_of(text):
@@ -68,6 +69,13 @@ def resolve_row(row):
         if out['resolution_status'] == 'validated':
             out.update(resolution_status='unresolved', resolution_reason=reason)
     target = target_of(row['target_document'])
+    holder = target_of(row.get('van_ban_chua_noi_dung') or '')
+    if holder and target and number_key(holder) != number_key(target):
+        # The document that holds the changed content is the target, not one named inside that content (P1, 20/10/2026): taken when
+        # the source shows its number.
+        shown = '\n'.join([unit, lead] + [str(row['_context'].get(k) or '') for k in ('ten_dieu', 'cau_dan_dieu', 'chuong', 'phan_dau')])
+        if number_key(holder) in {number_key(m.group()) for m in NUMBER.finditer(shown)}:
+            target = holder
     out['target_doc'] = target or ' '.join((row['target_document'] or '').split())[:200]
     if not target:
         unresolved('khong_xac_dinh_van_ban_dich')
@@ -80,10 +88,15 @@ def resolve_row(row):
     if not part and not places and row['target_text']:
         # A position outside the contract format ("khoản 2 mục II" of an old circular) names a part: it is the part (19/10/2026 rule).
         part = '; '.join(' '.join(t.split()) for t in row['target_text'])[:300]
-    if not part and ' STT ' in row['source_path'] and not places:
-        # A row of a list names a procedure or an item, not a provision: the part is the row's name (rubric, 19/10/2026).
+    whole = row['action'] in WHOLE and row['target_section'] == 'khong_ap_dung'
+    if not part and ' STT ' in row['source_path'] and not places and not whole:
+        # A row of a list names a procedure or an item, not a provision: the part is the row's name (rubric, 19/10/2026). A row of a
+        # list of documents repealed or replaced as a whole names the document itself (336452).
         from .extract import procedure
         part = procedure(unit)
+    if TYPE_ONLY.fullmatch(part):
+        # "Quyết định", "văn bản": the type of the target names no part of it (336452, 20/10/2026).
+        part = ''
     if row['action'] == 'thay-cum-tu':
         pairs, listed = phrase_change(unit)
         places = places or listed
@@ -92,7 +105,7 @@ def resolve_row(row):
         out.update(scope='; '.join(places), vi_tri=places, unresolved=False)
     elif part:
         out.update(scope=part, vi_tri=[], doi_tuong=part, kem_theo=row['target_section'] == 'kem_theo', unresolved=False)
-    elif row['action'] in WHOLE and row['target_section'] == 'khong_ap_dung':
+    elif whole:
         out.update(scope='toàn bộ', vi_tri=['toàn bộ'], unresolved=False)
     elif row['action'] in DOCUMENT_LEVEL and (row['target_section'] == 'khong_ap_dung' or row['action'] in ('huong-dan', 'quy-dinh-chi-tiet')
                                              or row['source_path'] == 'Phần đầu'):
@@ -108,14 +121,14 @@ def resolve_row(row):
         unresolved('phan_kem_theo_chua_ro')
     if row['target_section'] == 'kem_theo':
         out['kem_theo'] = True
-    if row['action'] in ('dinh-chi', 'ngung-hieu-luc'):
-        out.update(suspension(unit))
-    elif row['action'] == 'gia-han':
-        out.update(extension(unit))
-    return out
     row_unit = ' STT ' in row['source_path']
     out['doi_tuong_loai'] = object_kind(out.get('doi_tuong'), lead + ' ' + row['_context'].get('ten_dieu', ''), row_unit)
     if out['doi_tuong_loai'] == 'thu_tuc_hanh_chinh':
         code = PROCEDURE_CODE.search(unit if row_unit else row['evidence'])
         if code:
             out['ma_thu_tuc'] = code.group()
+    if row['action'] in ('dinh-chi', 'ngung-hieu-luc'):
+        out.update(suspension(unit))
+    elif row['action'] == 'gia-han':
+        out.update(extension(unit))
+    return out

@@ -24,6 +24,53 @@ def kept(rows):
     return validate(rows, resolve_row)
 
 
+class ActorAndHolder(unittest.TestCase):
+    """P1 (20/10/2026): the model says who acts and which document holds what is changed (124929-like letters, any document)."""
+
+    def test_a_type_word_is_no_part(self):
+        # 336452: "Nay bãi bỏ 15 văn bản (Danh mục đính kèm)", each listed decision read with target_part "Quyết định".
+        text = 'Nay bãi bỏ 15 văn bản (Danh mục đính kèm) của Ủy ban nhân dân thành phố. Quyết định số 24/2007/QĐ-UBND.'
+        act = {'action': 'bai-bo', 'target_document': '24/2007/QĐ-UBND', 'target_section': 'khong_ap_dung', 'target_text': [],
+               'target_part': 'Quyết định', 'evidence': 'Nay bãi bỏ 15 văn bản (Danh mục đính kèm)', 'chu_the': 'van_ban_nay',
+               'van_ban_chua_noi_dung': '24/2007/QĐ-UBND'}
+        relations, _ = kept([row(text, act)])
+        self.assertEqual([(r['vi_tri'], r.get('doi_tuong')) for r in relations], [(['toàn bộ'], None)])
+        # The same act read from the row of the list: the first cell is the type column, not a procedure's name.
+        listed = {**row('Quyết định | 24/2007/QĐ-UBND | 12/3/2007 | Về việc thu phí', {**act, 'target_part': ''}), 'source_path': 'Phụ lục 1 STT 1'}
+        resolved = resolve_row(listed)
+        self.assertEqual((resolved['vi_tri'], resolved.get('doi_tuong')), (['toàn bộ'], None))
+
+    def test_rows_of_a_plan_are_no_acts(self):
+        # 684851: "DANH MỤC VĂN BẢN … CẦN SỬA ĐỔI, BỔ SUNG, BAN HÀNH MỚI", column "Thời hạn thực hiện": documents to draft later.
+        text = '4 | Nghị định sửa đổi, bổ sung một số điều của Nghị định số 45/2025/NĐ-CP. | X'
+        act = {'action': 'sua-doi', 'target_document': '45/2025/NĐ-CP', 'target_section': 'khong_ro', 'target_text': [],
+               'evidence': 'Nghị định sửa đổi, bổ sung một số điều của Nghị định số 45/2025/NĐ-CP', 'chu_the': 'van_ban_nay',
+               'van_ban_chua_noi_dung': '45/2025/NĐ-CP'}
+        planned = {**row(text, act, lead='TT | Tên văn bản sửa đổi, bổ sung và xây dựng mới | Thời hạn thực hiện',
+                         heading='DANH MỤC VĂN BẢN QUY PHẠM PHÁP LUẬT CẦN SỬA ĐỔI, BỔ SUNG, BAN HÀNH MỚI'), 'source_path': 'Phụ lục 1 STT 4'}
+        relations, rejected = kept([planned])
+        self.assertEqual((relations, [r['reason'] for r in rejected]), ([], ['dong_bang_ke_hoach']))
+
+    def test_proposal_and_task_are_not_acts(self):
+        text = 'Giao Bộ Công an chủ trì xây dựng dự thảo Thông tư để sửa đổi, thay thế Thông tư số 36/2010/TT-BCA.'
+        act = {'action': 'thay-the', 'target_document': '36/2010/TT-BCA', 'target_section': 'khong_ap_dung', 'target_text': [],
+               'evidence': text, 'chu_the': 'giao_nhiem_vu', 'van_ban_chua_noi_dung': '36/2010/TT-BCA'}
+        relations, rejected = kept([row(text, act)])
+        self.assertEqual((relations, [r['reason'] for r in rejected]), ([], ['chu_the_giao_nhiem_vu']))
+
+    def test_the_holder_of_the_changed_content_is_the_target(self):
+        text = ('Bỏ trách nhiệm thực thi của Ngân hàng Nhà nước Việt Nam về việc sửa đổi Nghị định số 160/2006/NĐ-CP nêu tại mục B, phần XVI, '
+                'Phương án đơn giản hóa ban hành kèm theo Nghị quyết số 25/NQ-CP ngày 02 tháng 6 năm 2010.')
+        act = {'action': 'bai-bo', 'target_document': '160/2006/NĐ-CP', 'target_section': 'kem_theo', 'target_text': [],
+               'target_part': 'trách nhiệm thực thi của Ngân hàng Nhà nước Việt Nam', 'evidence': text[:200],
+               'chu_the': 'van_ban_nay', 'van_ban_chua_noi_dung': '25/NQ-CP'}
+        relations, _ = kept([row(text, act)])
+        self.assertEqual([r['target_doc'] for r in relations], ['25/NQ-CP'])
+        # A holder the source does not show is not taken.
+        relations, _ = kept([row(text, {**act, 'van_ban_chua_noi_dung': '99/NQ-CP'})])
+        self.assertEqual([r['target_doc'] for r in relations], ['160/2006/NĐ-CP'])
+
+
 class Validation(unittest.TestCase):
     def test_a_decision_and_the_regulation_it_issues(self):
         # Case A: "khoản 7 Điều 3" with no word on which part: the decision and its Quy định both have an Điều 3.

@@ -27,14 +27,27 @@ UNITS_PER_CALL = 5
 QUOTE_KEEP = 160
 MAX_PARALLEL = 10  # calls of one document in flight; the gate in llm.py sets the real limit
 
+ACTORS = ['van_ban_nay', 'de_nghi', 'giao_nhiem_vu', 'ke_lai', 'trich_dan']
 SCHEMA = {'type': 'object', 'additionalProperties': False, 'required': ['units'], 'properties': {'units': {
     'type': 'array', 'description': 'Một phần tử cho MỖI đơn vị trong don_vi, cùng thứ tự.', 'items': {
         'type': 'object', 'additionalProperties': False, 'required': ['source_path', 'acts'], 'properties': {
             'source_path': {'type': 'string', 'description': 'Chép đúng source_path của đơn vị trong don_vi.'},
             'acts': {'type': 'array', 'description': 'Các hành động pháp lý câu của đơn vị nêu; rỗng nếu không có.', 'items': {
                 'type': 'object', 'additionalProperties': False,
-                'required': ['action', 'performed', 'target_document', 'target_from', 'target_section', 'target_text', 'target_part', 'evidence'],
+                'required': ['chu_the', 'van_ban_chua_noi_dung', 'action', 'performed', 'target_document', 'target_from', 'target_section',
+                             'target_text', 'target_part', 'evidence'],
                 'properties': {
+                    # Asked before the act itself (P1, 20/10/2026): who acts, and which document holds what is changed. The model states
+                    # them first, so it does not take a proposal or a document named inside the changed content for the act or its target.
+                    'chu_the': {'type': 'string', 'enum': ACTORS, 'description': 'Ai làm hành động trong câu. van_ban_nay: chính văn bản này '
+                                'quyết định (kể cả "Đồng ý với đề nghị … bỏ X tại Y" khi câu nêu rõ thay đổi). de_nghi: đề nghị, kiến nghị, đề '
+                                'xuất của cơ quan khác mà câu không quyết. giao_nhiem_vu: giao cơ quan khác sẽ xây dựng, sửa đổi, trình văn bản '
+                                'sau này. ke_lai: kể lại việc văn bản khác đã làm, ghi chú lịch sử. trich_dan: nội dung mới trong ngoặc kép, '
+                                'căn cứ, dẫn chiếu.'},
+                    'van_ban_chua_noi_dung': {'type': 'string', 'maxLength': 120, 'description': 'Số hiệu văn bản CHỨA nội dung bị sửa, bỏ, '
+                                              'thay, như nguồn viết: văn bản có Điều, khoản, mục, phương án, thủ tục bị tác động ("… nêu tại '
+                                              'Mục B Phương án … kèm theo Nghị quyết số 25/NQ-CP" → "25/NQ-CP"). Văn bản chỉ được nhắc trong '
+                                              'nội dung bị tác động ("trách nhiệm sửa đổi Nghị định số 160/2006/NĐ-CP") không phải văn bản này.'},
                     'action': {'type': 'string', 'enum': ACTIONS, 'description': 'Loại hành động. "Sửa đổi, bổ sung X" là hai act: sua-doi và bo-sung.'},
                     'performed': {'type': 'boolean', 'description': 'true khi chính đơn vị thực hiện hành động; false khi chỉ nhắc tới '
                                   '(lịch sử, căn cứ, trích dẫn, nội dung mới trong ngoặc kép, đề nghị, giao nhiệm vụ, tên danh mục).'},

@@ -76,6 +76,8 @@ def lead_states(row):
 HISTORY = re.compile(r'\b(?:đã\s+)?(?:bị|được)\s+(?:sửa\s*đổi|bổ\s*sung|thay\s*thế|b[ãả]i\s*bỏ|h(?:uỷ|ủy|uy)\s*bỏ|đình\s*chỉ|đính\s*chính)'
                      r'(?:\s*,\s*(?:bổ\s*sung|thay\s*thế))?\s+(?:một\s+số\s+\S+\s+)?(?:bởi|tại|theo)\b', re.I)
 TTHC = re.compile(r'thủ\s+tục\s+hành\s+chính|\bTTHC\b', re.I)
+PLANNED = re.compile(r'\b(?:cần|dự\s+kiến|đề\s+nghị|kiến\s+nghị)\s+(?:được\s+|phải\s+)?(?:sửa\s+đổi|bổ\s+sung|bãi\s+bỏ|thay\s+thế|ban\s+hành|xây\s+dựng)'
+                     r'|thời\s+hạn\s+(?:thực\s+hiện|hoàn\s+thành|trình|ban\s+hành)|cơ\s+quan\s+chủ\s+trì|chương\s+trình\s+xây\s+dựng', re.I)
 
 
 LEGISLATIVE = re.compile(r'^(?:Bộ\s+luật|Luật|Pháp\s+lệnh|Hiến\s+pháp)\b|/QH\d*(?:/\d{4})?$|/(?:\d{4}/)?UBTVQH\d*$|/PL-UBTVQH', re.I)
@@ -119,6 +121,10 @@ def table_row(row, evidence):
     # A list of procedures acts on the decision of the same body that published them. "Thủ tục … được công bố tại Quyết định số
     # 636/QĐ-LĐTBXH" in a provincial decision names the ministry's standard procedure, and "… quy định tại Thông tư số 29/2015/TT-BYT"
     # names its basis: a province neither amends nor repeals them.
+    # A list of work to do ("Danh mục văn bản cần sửa đổi, bổ sung, ban hành mới", a column "Thời hạn thực hiện", "Cơ quan chủ trì"):
+    # its rows name documents to be drafted later, not acts of this document (684851, 20/10/2026).
+    if PLANNED.search(unit['cau_dan'] + ' ' + context.get('ten_dieu', '')):
+        return 'reject', 'dong_bang_ke_hoach'
     own = issuer_code((context.get('van_ban') or {}).get('so_hieu') or '')
     if TTHC.search(unit['cau_dan'] + ' ' + context.get('ten_dieu', '') + ' ' + unit['noi_dung'][:300]) and own and issuer_code(target) not in ('', own):
         return 'reject', 'dong_bang_khac_co_quan'
@@ -190,6 +196,12 @@ def validate(rows, resolve_row):
     kept, rejected = [], []
     for row in rows:
         if not row.get('performed'):
+            continue
+        actor = row.get('chu_the') or 'van_ban_nay'
+        if actor != 'van_ban_nay':
+            # A proposal, a task for another body, a retold act or a quotation: the document does not act itself (P1, 20/10/2026).
+            rejected.append({'source_path': row['source_path'], 'action': row['action'], 'target_document': row['target_document'],
+                             'reason': f'chu_the_{actor}', 'evidence': (row.get('evidence') or '')[:300]})
             continue
         resolved = resolve_row(row)
         verdict, reason = check(row, resolved)
