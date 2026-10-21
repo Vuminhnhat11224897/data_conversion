@@ -327,15 +327,15 @@ def convert_document(doc_id, config, source, target, run_id, root, qa=True, dry_
     if not text.strip():
         raise ValueError('Văn bản nguồn không có full_content')
     full = normalize(text)
+    # An English translation stored as the full text ("Article 1.-", 39074): no Vietnamese structure or relation can be read from it.
+    # Skipped before any model call, like a document before START_YEAR (20/10/2026).
+    if language(full) == 'en':
+        return {'doc_id': doc_id, 'skipped': 'tieng_anh', 'ngon_ngu': 'en', 'dry_run': dry_run, 'seconds': round(time.time() - started, 2)}
     issued = src.get('issuance_date')
     is_normative, normative_how = normative(src)
     effect = effective_date(full, src.get('legal_type'), issued, is_normative)
     first_day = f'{config.start_year:04d}-01-01'
     # In scope when signed/issued, or in effect, on or after 1 Jan START_YEAR; checked before any model call.
-    # An English translation stored as the full text ("Article 1.-", 39074): no Vietnamese structure or relation can be read from it.
-    # Skipped before any model call, like a document before START_YEAR (20/10/2026).
-    if language(full) == 'en':
-        return {'doc_id': doc_id, 'skipped': 'tieng_anh', 'ngon_ngu': 'en', 'dry_run': dry_run, 'seconds': round(time.time() - started, 2)}
     if (issued or '') and issued < first_day and not ((effect.get('ngay_hieu_luc') or '') >= first_day):
         return {'doc_id': doc_id, 'skipped': 'truoc_nam_bat_dau', 'start_year': config.start_year, 'issuance_date': issued,
                 'ngay_hieu_luc': effect.get('ngay_hieu_luc'), 'dry_run': dry_run, 'seconds': round(time.time() - started, 2)}
