@@ -303,12 +303,14 @@ def run(doc_rows, chunks, rels):
         rule(f'{S}.2 _id dạng <tiền tố><source_id>_<n>', bool(m), i)
         if m:
             pre = m.group(1) or ''
-            rule(f'{S}.2 tiền tố khớp detection_mode', r.get('detection_mode') == PREFIX[pre], i)
+            # No prefix: a rule relation (no detection_mode) or one the model read (llm), docs/09 §9.10.
+            rule(f'{S}.2 tiền tố khớp detection_mode', r.get('detection_mode') == PREFIX[pre] or (pre == '' and r.get('detection_mode') == 'llm'), i)
             rule(f'{S}.2 _id chứa source_id', str(r.get('source_id')) == m.group(2), i)
             numbering[(pre, m.group(2))].append(int(m.group(3)))
         a = r.get('action')
         rule(f'{S}.5 action thuộc 13 giá trị', a in ACTIONS, i)
-        rule(f'{S}.2 title_guidance ⇔ huong-dan|quy-dinh-chi-tiet', (r.get('detection_mode') == 'title_guidance') == (a in ('huong-dan', 'quy-dinh-chi-tiet')), i)
+        # docs/09: title_guidance when and only when a rule reads huong-dan or quy-dinh-chi-tiet; the model reads them too (llm).
+        rule(f'{S}.2 title_guidance ⇔ huong-dan|quy-dinh-chi-tiet', (r.get('detection_mode') == 'title_guidance') == (a in ('huong-dan', 'quy-dinh-chi-tiet')) or r.get('detection_mode') == 'llm', i)
         rule(f'{S}.2 hop_nhat ⇔ action hop-nhat', (r.get('detection_mode') == 'hop_nhat') == (a == 'hop-nhat'), i)
         sid = str(r.get('source_id'))
         rule(f'{S}.3 source_id số nguyên', isinstance(r.get('source_id'), int), i)

@@ -64,6 +64,13 @@ def level(row):
 def settle(row):
     """cap_quan_he and the edge decision. Graph builds edges from validated relations only. A relation with no position that is not
     about the whole document waits for review, whichever path read it (in llm mode a rule relation the QA kept has no status check)."""
+    # kem_theo goes with doi_tuong (contract 9.10.6): it says whether a part named by name is in the attachment. A position in the
+    # attachment is told by target_section, not by kem_theo.
+    if row.get('doi_tuong'):
+        row['kem_theo'] = bool(row.get('kem_theo'))
+    else:
+        row.pop('kem_theo', None)
+        row.pop('doi_tuong', None)
     row['cap_quan_he'] = level(row)
     row.setdefault('extraction', 'rules')
     # A rule relation has no list context: a part named as a procedure is one (Q12).
@@ -73,6 +80,16 @@ def settle(row):
     elif 'resolution_status' not in row:
         row.update(resolution_status='validated', resolution_reason=None)
     return row
+
+
+# The rule QA's check of the rule's own scope (contract 4.8.6). It goes when the model's reading replaces that scope: it no longer
+# describes the relation (48/3431 relations of v4-1000 kept scope_grounding_correct false on a scope the model read, 21/10/2026).
+RULE_SCOPE_CHECK = ('scope_grounding_checked', 'scope_grounding_correct', 'scope_resolution_method', 'llm_refined', 'llm_hallucination_rejected')
+
+
+def drop_rule_scope_check(row):
+    for name in RULE_SCOPE_CHECK:
+        row.pop(name, None)
 
 
 def rows_into_articles(kept, parsed):
@@ -205,6 +222,12 @@ def one_per_position(relations, doc_id):
     for record in relations:
         row = record['_source']
         places = row.get('vi_tri') or []
+        pairs = row.get('cum_tu') or []
+        paired = list(dict.fromkeys(p for pair in pairs for p in pair.get('vi_tri') or [] if p != 'toàn bộ'))
+        if pairs and all(pair.get('vi_tri') for pair in pairs) and paired and not set(places) <= set(paired):
+            # Every pair says where its phrase is replaced: those are the positions of the act (683793: the act read at Điều 40, its
+            # pairs at Điều 10, 11, 12 and 52). A pair with no position applies at the relation's own positions, which then stand.
+            places = row['vi_tri'] = paired
         if len(places) <= 1:
             if places and row.get('cum_tu'):
                 row['cum_tu'] = [{**pair, 'vi_tri': pair['vi_tri'] or places} for pair in row['cum_tu']]
@@ -320,12 +343,14 @@ def model_relations(doc_id, meta, parsed, candidates, root, lookup, provenance, 
                         record['_source'].update({k: row[k] for k in ('doi_tuong_loai', 'ma_thu_tuc') if k in row})
                     if rule_places <= {'toàn bộ'} and model_places:
                         record['_source'].update(vi_tri=model_places, scope='; '.join(model_places))
+                        drop_rule_scope_check(record['_source'])
                     elif not rule_places and not rule_part and (row.get('doi_tuong') or row.get('vi_tri')):
                         # The rule found the act but not what it acts on ("Hủy bỏ 44 công trình, dự án … tại các Nghị quyết"): the
                         # model's reading (a part, or the whole document) stands, instead of a relation left to review.
                         record['_source'].update(vi_tri=row.get('vi_tri') or [], scope=row['scope'], unresolved=False)
                         if row.get('doi_tuong'):
                             record['_source'].update(doi_tuong=row['doi_tuong'], kem_theo=row.get('kem_theo', False))
+                        drop_rule_scope_check(record['_source'])
                     records.append(record)
                 used.add(k)
             continue

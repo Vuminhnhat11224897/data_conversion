@@ -321,6 +321,14 @@ class OnePerPosition(unittest.TestCase):
         # Both keep the source sentence's scope.
         self.assertEqual({r['_source']['scope'] for r in split[:2]}, {'khoản 5 Điều 3; Điều 12'})
 
+    def test_pairs_say_where_the_phrases_are_replaced(self):
+        row = {'action': 'thay-cum-tu', 'source_path': 'Điều 3', 'scope': 'điểm a khoản 1 Điều 40', 'vi_tri': ['điểm a khoản 1 Điều 40'],
+               'cum_tu': [{'cu': 'a', 'moi': 'b', 'vi_tri': ['Điều 10', 'Điều 11']}, {'cu': 'c', 'moi': 'd', 'vi_tri': ['khoản 2 Điều 52']}]}
+        split = one_per_position([{'_id': '7_0', '_source': row}], 7)
+        self.assertEqual([(r['_source']['vi_tri'], [p['cu'] for p in r['_source']['cum_tu']]) for r in split],
+                         [(['Điều 10'], ['a']), (['Điều 11'], ['a']), (['khoản 2 Điều 52'], ['c'])])
+        self.assertTrue(all(p['vi_tri'] == r['_source']['vi_tri'] for r in split for p in r['_source']['cum_tu']))
+
     def test_level_follows_the_positions_wherever_the_sentence_stands(self):
         self.assertEqual(level({'source_path': 'intro', 'detection_mode': 'intro', 'scope': 'Điều 6', 'vi_tri': ['Điều 6']}), 'vi_tri')
         self.assertEqual(level({'source_path': 'Tiêu đề', 'scope': 'toàn bộ', 'vi_tri': ['toàn bộ']}), 'van_ban')
