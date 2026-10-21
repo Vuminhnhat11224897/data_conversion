@@ -573,3 +573,31 @@ Trạng thái cuối:
 - 3.193 quan hệ có `target_matched_id`. 182 quan hệ có `doi_tuong_loai = thu_tuc_hanh_chinh`. 41 quan hệ có `chi_tiet_vi_tri`.
 - Kiểm hợp đồng v4 lần cuối: 237 luật, 3 luật có lỗi. Cả 3 là lỗi đọc cấu trúc có từ trước: vị trí "Mục I" đứng một mình (9/3.128), nơi nhận có dòng chữ ký (9/1.000), số dòng bảng (1/965).
 - Văn bản rất lớn (tới 2.940 chunk) có thể hết thời gian chờ embedding hoặc ES khi chạy 10 luồng. Chạy lại các văn bản lỗi với ít luồng hơn.
+
+### 8.11.8. Ghi thêm 10.000 văn bản vào v4 (21–22/10/2026)
+
+Lượt `v4-10000` ghi 10.000 văn bản mới nhất tiếp theo (ban hành từ 08/10/2025 đến 30/01/2026), bằng code đến commit `013e897`. Danh sách ở `work/v4-next10000-ids.txt` (thêm 200 ID dự phòng). Script: `work/run-v4-10000.sh`. Script chạy lại một lần các văn bản lỗi với 3 luồng.
+
+| Chỉ số | Kết quả |
+| --- | --- |
+| Thời gian | 17:15 → 23:58 (6 giờ 43 phút) |
+| Tốc độ | 16,3 văn bản/phút ban ngày (3 lời gọi LLM cùng lúc); 45,4 văn bản/phút sau 22:00 (10 lời gọi) |
+| Lời gọi LLM | 83.593 (khoảng 8,4 lời gọi mỗi văn bản) |
+| Lỗi | 5 văn bản hết thời gian kết nối ở lượt chính; chạy lại đạt cả 5 |
+
+Trạng thái `-v4` sau lượt này:
+
+| Index | Số bản ghi | Dung lượng |
+| --- | --- | --- |
+| `legal-docs-v4` | 11.000 | 544 MB |
+| `legal-chunk-section-v4` | 447.589 | 6,5 GB |
+| `legal-changed-v4` | 42.718 (40.428 `validated`, 2.290 `unresolved`) | 20 MB |
+
+- 37.243 quan hệ (87%) có `target_matched_id`. 1.730 quan hệ có `doi_tuong_loai = thu_tuc_hanh_chinh`. 274 quan hệ có `chi_tiet_vi_tri`.
+- Lý do `unresolved`: `vi_tri_chua_xac_dinh` 736, `dich_chua_gan_cau_thuc_hien` 585, `phan_kem_theo_chua_ro` 528, `vi_tri_khong_co_trong_nguon` 325, `van_ban_dich_khong_co_trong_nguon` 116.
+- Kiểm hợp đồng v4 (27 phút): 237 luật, 5 luật có lỗi, mỗi luật dưới 1% số bản ghi:
+  - vị trí ngoài định dạng 198/38.357; 196 trường hợp là "Mục" hoặc "Phần" đứng một mình (ví dụ `Mục IV`);
+  - nơi nhận có dòng chữ ký 48/11.000;
+  - số dòng bảng 3/11.789;
+  - ký hiệu Điều không bắt đầu bằng số Điều 1/20.660;
+  - `scope_grounding_correct = false` mà quan hệ `validated` 1/258 (`677855_0`: quan hệ chỉ do quy tắc đọc, phạm vi là danh sách số thứ tự).
