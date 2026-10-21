@@ -109,6 +109,17 @@ class ConvertCheck(unittest.TestCase):
         self.assertEqual(len(self.target.indices['legal-chunk-section-v3']), len(chunks))
         self.assertEqual(len(self.target.indices['legal-changed-v3']), 1)
 
+    def test_english_full_text_is_skipped(self):
+        # 39074: an English translation stored as the full text. Skipped before any model or embedding call, nothing written.
+        english = ('THE GOVERNMENT\nDECREE\nISSUING THE REGULATION ON SOCIAL INSURANCE\nDECREES:\n'
+                   'Article 1.- To issue together with this Decree the Regulation on Social Insurance applicable to State officials. ' * 8)
+        self.source.indices['legal-docs']['900'] = {**SOURCE_DOC, 'full_content': english}
+        never = lambda *args, **kwargs: self.fail('model called')
+        with patch('vbpl_v3.convert.embed', side_effect=lambda *a: self.fail('embedding called')):
+            record = convert_document('900', config(workdir=self.root), self.source, self.target, 'run1', self.root, caller=never)
+        self.assertEqual((record['skipped'], record['ngon_ngu']), ('tieng_anh', 'en'))
+        self.assertEqual(self.target.indices['legal-docs-v3'], {})
+
     def test_dry_run_writes_only_local_preview(self):
         record = self.convert(dry_run=True)
         self.assertTrue(record['dry_run'])

@@ -38,12 +38,18 @@ def side(cluster, names, ids):
 def report(config, source, target, root):
     # A --redo appends a newer line for the same document; the latest one counts.
     records = list({r['doc_id']: r for r in map(json.loads, (root / 'documents.jsonl').read_text(encoding='utf-8').splitlines())}.values())
-    skipped = sum(1 for r in records if r.get('skipped'))
+    # Skipped documents by reason: truoc_nam_bat_dau (before START_YEAR), tieng_anh (English full text).
+    reasons = {'truoc_nam_bat_dau': 'trước năm bắt đầu', 'tieng_anh': 'toàn văn tiếng Anh'}
+    skipped = {}
+    for r in records:
+        if r.get('skipped'):
+            skipped[r['skipped']] = skipped.get(r['skipped'], 0) + 1
+    note = ', '.join(f'{n} bỏ qua vì {reasons.get(k, k)}' for k, n in sorted(skipped.items()))
     records = [r for r in records if not r.get('skipped')]
     if not records:
-        raise ValueError(f'Lượt này chưa có văn bản nào hoàn tất ({skipped} văn bản bị bỏ qua vì trước năm bắt đầu)')
+        raise ValueError(f'Lượt này chưa có văn bản nào hoàn tất ({note or "0 văn bản bị bỏ qua"})')
     ids = [r['doc_id'] for r in records if not r.get('dry_run')]
-    lines = [f'Lượt {root.name}: {len(records)} văn bản hoàn tất ({len(records) - len(ids)} dry-run)' + (f', {skipped} bỏ qua vì trước năm bắt đầu' if skipped else '')]
+    lines = [f'Lượt {root.name}: {len(records)} văn bản hoàn tất ({len(records) - len(ids)} dry-run)' + (f', {note}' if note else '')]
     if ids:
         old, old_n = side(source, config.source, ids)
         new, new_n = side(target, config.target, ids)

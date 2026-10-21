@@ -45,7 +45,7 @@ class Config:
     workdir: Path
     qa_max_tokens: int
     qa_scope_max_tokens: int
-    extractor: str = 'rules'
+    extractor: str = 'llm'
     start_year: int = 1980
 
     @classmethod
@@ -67,7 +67,7 @@ class Config:
             qa_max_tokens=number('QA_MAX_TOKENS', 512, 128, 4096),
             qa_scope_max_tokens=number('QA_SCOPE_MAX_TOKENS', 1024, 256, 4096),
             # rules: regex detector + model QA (until 15/10/2026). llm: 4 layers, model extraction checked by rules (extract, resolver, validate).
-            extractor=os.getenv('RELATION_EXTRACTOR', 'rules'),
+            extractor=os.getenv('RELATION_EXTRACTOR', 'llm'),
             start_year=number('START_YEAR', 1980, 1000, 2999),
         ).validate()
 

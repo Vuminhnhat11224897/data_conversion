@@ -122,7 +122,7 @@ def main(argv=None):
     # LLM calls stay under LLM_CONCURRENCY_DAY/NIGHT whatever this is; 10 lets the night capacity be used.
     convert.add_argument('--workers', type=int, default=10, help='Số văn bản chạy song song (mặc định 10). Số lời gọi LLM cùng lúc do LLM_CONCURRENCY_DAY/NIGHT giới hạn')
     convert.add_argument('--no-qa', action='store_true', help='Bỏ QA và không ghi quan hệ')
-    convert.add_argument('--extractor', choices=['rules', 'llm'], help='Cách dò quan hệ; mặc định theo RELATION_EXTRACTOR (rules)')
+    convert.add_argument('--extractor', choices=['rules', 'llm'], help='Cách dò quan hệ; mặc định theo RELATION_EXTRACTOR (llm, chốt 20/10/2026)')
     convert.add_argument('--dry-run', action='store_true', help='Chạy đủ các bước nhưng không ghi ES; kết quả ở work/<run>/dry-run')
     convert.add_argument('--redo', action='store_true', help='Chạy lại cả văn bản đã xong trong lượt này (ví dụ sau khi thêm trường mới)')
     summary = commands.add_parser('report', help='So nguồn với v3 cho các văn bản đã chuyển, chỉ đọc')

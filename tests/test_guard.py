@@ -14,7 +14,9 @@ SOURCE = {'documents': 'legal-docs', 'chunks': 'legal-chunk-section-v2', 'change
 def config(**changes):
     values = dict(source_url='http://source:9200', source=SOURCE, target_url='http://target:9200', target=V3,
                   embedding_url='http://embed', embedding_batch=8, embedding_reuse=True, workdir=Path('/tmp/v3'),
-                  qa_max_tokens=512, qa_scope_max_tokens=1024)
+                  qa_max_tokens=512, qa_scope_max_tokens=1024,
+                  # The model in these tests answers the rule QA; the 4-layer path (default since 20/10/2026) has its own tests.
+                  extractor='rules')
     values.update(changes)
     return Config(**values)
 
