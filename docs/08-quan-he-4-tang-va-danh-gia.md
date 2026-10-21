@@ -78,7 +78,8 @@ Tầng 4 loại hẳn (không ghi) các hàng ở bảng dưới. Lý do ở `wo
 | `ten_danh_muc` | Câu trích là tên danh mục, bảng ("Danh mục văn bản cần … bãi bỏ"). |
 | `ghi_chu_lich_su` | Câu trích chỉ là ghi chú "đã được sửa đổi tại …". |
 | `cong_bo_danh_muc` | Văn bản chỉ công bố danh mục (thủ tục, văn bản hết hiệu lực). Câu không nêu văn bản đích bị tác động. |
-| `trich_dan_khong_co_hanh_dong` | Câu trích không có động từ của hành động. |
+| `trich_dan_khong_co_hanh_dong` | Câu trích không có động từ của hành động. Từ 21/10/2026 thay bằng `chua_co_cau_thuc_hien`: không có câu chi phối nêu hành động. |
+| `dich_khong_phai_doi_tuong` | Mục của danh sách tác động lên văn bản mục nêu đầu tiên; đích LLM nêu chỉ nằm trong tên văn bản đó (từ 21/10/2026). |
 | `khong_co_van_ban_dich` | Không có văn bản đích ("các quy định trái với …"). |
 | `chinh_van_ban_nguon` | Đích là chính văn bản nguồn. |
 | `vuot_tham_quyen` | Văn bản không phải Luật, Pháp lệnh, Nghị quyết của Quốc hội hoặc Ủy ban Thường vụ Quốc hội "sửa đổi, bãi bỏ, thay thế" một Luật, Pháp lệnh. Câu đó là đề xuất hoặc nhiệm vụ (từ 20/10/2026). |
@@ -380,3 +381,195 @@ Sau 2 sửa cuối (lượt `r7`, 21/10/2026):
 - Dev: mọi quan hệ thừa của lượt mới đã có ở lượt `r3` hoặc `r4`. Không có loại lỗi mới.
 - Các ca LLM còn không ổn định: danh sách nhiệm vụ (`684851`), câu "công bố" có kèm hành động (`616667`), "kết thúc" (`676752`).
 - Chưa có hold-out độc lập cho code mới. Hold-out 3 đã dùng để sửa vị trí.
+
+## 8.10. Hold-out 4 (21/10/2026)
+
+Bộ `holdout-20261022`: 158 văn bản mới, nhóm chưa dùng, văn bản đến 120.000 ký tự, 80 văn bản ngẫu nhiên. Nhãn do 10 agent độc lập gán, khóa hash trước khi chạy (`eval/gold/holdout-20261022.lock.json`): 302 quan hệ ở 71 văn bản. Code đo: commit `4e0a5c7` (`work/final-20261022-code.json`). Công cụ chạy một lần (lượt `h4-final`).
+
+| Mức | P | R |
+| --- | --- | --- |
+| Văn bản | 92,2% | 67,1% |
+| Quan hệ | 90,5% | 72,7% |
+| Điều khoản | 65,3% | 51,8% |
+
+Metadata: 98,0% theo trường, 92,4% văn bản đúng cả 6 trường. Quan hệ chờ duyệt: 18,2%, trong đó 50,9% là quan hệ thật.
+
+75 quan hệ bị sót theo nguyên nhân:
+
+| Nguyên nhân | Số | Văn bản |
+| --- | --- | --- |
+| Danh sách văn bản dưới câu dẫn ("Bãi bỏ … văn bản sau: 1. Quyết định …; 2. …") | 32 | `426243`, `389284`, `299860`, `658938` |
+| — LLM ghép câu trích từ câu dẫn và mục danh sách, bỏ qua các mục ở giữa: câu trích không còn nguyên văn, tầng 4 loại (`trich_dan_khong_co_trong_nguon`) | 11 | |
+| — Câu trích là mục danh sách, không có động từ; tầng 4 không đọc câu dẫn của Điều (`cau_dan_dieu`) cho khoản (`trich_dan_khong_co_hanh_dong`) | 7 | |
+| — Nhánh quy tắc để mục danh sách chờ duyệt (`vi_tri_chua_xac_dinh`), không coi là toàn bộ văn bản | 12 | |
+| — LLM không đọc ra | 2 | |
+| Văn bản cũ cấu trúc hỏng (`257376`, 1998: parser nhận Điều của Quy định bị sửa là Điều của văn bản) | 16 | `257376` |
+| LLM không đọc ra (tên văn bản, lời dẫn, công văn) | 13 | rải rác |
+| Đơn vị nguồn khác nhãn (dòng bảng hay khoản) | 4 | `592133`, `482544`, `385433` |
+| Khác | 10 | Số hiệu in sai "NQ-HDND" (`562142`), `phan_kem_theo_chua_ro` (`94678`), … |
+
+- Nhóm danh sách văn bản dưới câu dẫn là lỗ hổng tổng quát, có từ trước P1. Hold-out 3 có ít văn bản dạng này. Văn bản bãi bỏ nhiều văn bản theo danh sách thường gặp trong kho.
+- Sau khi xem lỗi, hold-out 4 không còn độc lập cho lần sửa sau.
+
+## 8.11. Rule tổng quát: kiểm sự thật, không kiểm hình thức (21/10/2026)
+
+### 8.11.1. Vấn đề
+
+Sau mỗi hold-out mới, công cụ lại cần vá một cách viết mới. Nguyên nhân: tầng 4 và nhánh quy tắc xét lại câu trả lời của LLM bằng hình thức câu chữ. Ví dụ: câu trích phải liền một đoạn, phải chứa động từ, phải tìm được chuỗi vị trí. Văn bản thật viết một hành động theo nhiều hình thức: câu dẫn và danh sách, dòng bảng, đề mục, tên văn bản. Mỗi hình thức mới làm cổng chặn nhầm hành động thật.
+
+Đo trên 5 bộ (`holdout-20261020-adj`, `holdout-20261021`, `holdout-20261022`, Blind, Dev): 197 quan hệ bị sót. Trong đó 96 (49%) là hành động hệ thống đã tìm ra nhưng code chặn. Tỉ lệ chặn đúng = số ứng viên sai bị chặn / số ứng viên bị chặn. Khoảng tin cậy 95% theo Wilson. Mỗi cổng tính theo lý do chặn đầu tiên, nên cổng sau chỉ được đánh giá trên phần còn lại.
+
+| Cổng | Sai bị chặn | Thật bị chặn nhầm | Chặn đúng | Khoảng 95% |
+| --- | --- | --- | --- | --- |
+| `trich_dan_khong_co_trong_nguon` (hình thức) | 26 | 88 | 23% | 16%–31% |
+| chờ duyệt `vi_tri_chua_xac_dinh` (hình thức) | 19 | 53 | 26% | 18%–38% |
+| `trong_noi_dung_moi` (hình thức) | 0 | 6 | 0% | 0%–39% |
+| `trich_dan_khong_co_hanh_dong` (hình thức) | 117 | 44 | 73% | 65%–79% |
+| `khong_co_van_ban_dich` (sự thật) | 98 | 0 | 100% | 96%–100% |
+| `vuot_tham_quyen` (sự thật) | 62 | 0 | 100% | 94%–100% |
+| `chinh_van_ban_nguon` (sự thật) | 27 | 0 | 100% | 88%–100% |
+| `dong_bang_ke_hoach` (sự thật) | 12 | 0 | 100% | 76%–100% |
+
+### 8.11.2. Phân công
+
+| Thành phần | Trách nhiệm |
+| --- | --- |
+| Parser cấu trúc | Đơn vị, phần cha, danh sách, bảng, ranh giới nội dung mới |
+| LLM | Đọc nghĩa: ai thực hiện, hành động nào, đích nào, phạm vi nào |
+| Code (`governance.py`, `validate.py`, `resolver.py`) | Kiểm vị trí bằng chứng, phân giải ID, chuẩn hóa vị trí, kiểm tính nhất quán. Code không đọc nghĩa. |
+| Quy tắc nghiệp vụ | Điều kiện để quan hệ được dùng trong Graph. Bảng thẩm quyền cần nghiệp vụ duyệt. |
+
+### 8.11.3. Quy tắc
+
+1. **Câu thực hiện do cấu trúc xác định** (`governance.governing`). Câu thực hiện của một đơn vị là chính đơn vị, hoặc câu dẫn mở danh sách chứa đơn vị:
+   - câu dẫn của khoản, cho các điểm;
+   - câu dẫn hoặc tên Điều, cho các khoản;
+   - đề mục của danh mục thủ tục hành chính, hoặc tên cột nêu hành động, cho các dòng bảng;
+   - Điều tác động lên các văn bản của phần kèm theo, cho các dòng của phần đó.
+2. **Câu mở danh sách** (`governance.opens_list`): câu kết thúc bằng dấu hai chấm, nêu một tập ("các văn bản", "15 văn bản", "một số điều", "sau đây"), và không nêu một vị trí cụ thể. Câu "Sửa đổi khoản 2 Điều 3 như sau:" không mở danh sách: các mục dưới nó là nội dung mới.
+3. **Bằng chứng nhiều đoạn nguyên văn** (`governance.pieces`). Mỗi đoạn dài từ 12 ký tự, nằm nguyên văn trong một trường của khung đơn vị. Các đoạn phải phủ ít nhất 90% câu trích. Câu trích không khớp thì code tự lấy câu thực hiện, và lấy thêm mục nêu đích khi câu thực hiện là câu dẫn. Không tìm được câu thực hiện thì loại (`chua_co_cau_thuc_hien`), không chuyển thành `validated`. Từng đoạn, trường và vai trò được ghi ở `work/<run>/extract/<id>/evidence.json`. ES vẫn lưu `evidence` là một chuỗi.
+4. **Ngoặc kép theo vai trò** (`governance.quotes`). `noi_dung_moi`: nội dung chèn vào văn bản đích. `cum_tu`: cụm từ của `thay-cum-tu`, tên văn bản. `trich`: câu kể lại. Chỉ `noi_dung_moi` và `trich` không chứa hành động của văn bản này.
+5. **Đối tượng của mục** (`governance.heads`, `item_object`). Một mục của danh sách tác động lên văn bản mục nêu đầu tiên. Mục cũng tác động lên các văn bản nối với văn bản đó bằng ngày, cơ quan ban hành, "và", dấu phẩy hoặc dấu chấm phẩy ("1307/QĐ-BXD ngày 29/10/2008 và 91/QĐ-BXD …"). Vị trí nêu trước số hiệu ("Khoản 2 Điều 3 Quyết định số X") là phạm vi. Phần sau số hiệu là tên văn bản ("Quyết định X về việc sửa đổi khoản 2 Điều 3 …"), không phải phạm vi, không phải đích (`dich_khong_phai_doi_tuong`). Văn bản đứng sau từ mở đầu tên ("về việc", "quy định", "sửa đổi" …), ở ô khác của dòng bảng hoặc ở dòng khác thuộc tên văn bản.
+6. **Phạm vi theo đối tượng.** Mục nêu cả văn bản với hành động bãi bỏ, thay thế, hủy bỏ: `toàn bộ`. Bỏ quy tắc "một phần thắng toàn bộ" trong `tidy_positions`.
+7. **Giữ giới hạn trong node.** Phần không có node (mẫu biểu, đoạn, câu, gạch đầu dòng của khoản, tiết, dòng số thứ tự) có vị trí là node chứa nó. Phần đó ghi ở trường mới `chi_tiet_vi_tri`. Ví dụ: `vi_tri = ["Phụ lục I"]`, `chi_tiet_vi_tri = "Mẫu số 01"`.
+8. **Đích chỉ nằm trong ghi chú lịch sử** ("… đã được sửa đổi tại Quyết định Y"): loại (`ghi_chu_lich_su`). Cặp "sửa đổi, bổ sung" trong ghi chú lịch sử không tạo cặp quan hệ.
+9. **Thẩm quyền theo hành động.** Chỉ áp cho 6 hành động thay đổi nội dung hoặc hiệu lực. Không biết loại văn bản nguồn thì không kết luận mâu thuẫn.
+10. **B2: chọn đơn vị theo cấu trúc** (`extract.units`). Mục do câu mở danh sách chi phối được gửi cho LLM, kể cả khi mục không có từ chỉ hành động. Đây là thay đổi duy nhất làm đổi đầu vào của LLM; thay đổi này được đo riêng.
+11. **Một hàm kiểm "đoạn văn nêu đích"** (`governance.spans`, `names`, `first_is`, `listed`). Mọi phép kiểm "đoạn này nêu văn bản đích" dùng cùng một hàm. Hàm nhận số hiệu in có dấu cách bên trong ("32/2012/QĐ- U BND", "96 /QĐ-UBND"), chữ "Ð" thay "Đ", gạch ngang dài, số 0 ở đầu. Hàm không nhận số hiệu dài hơn có chứa số hiệu đích ("132/2012/QĐ-UBND", "32/2012/QĐ-UBND-VX").
+12. **Chữ thuộc động từ của hành động khác không được tính** (`validate.VERBS`). "Bỏ" trong "hủy bỏ" không phải động từ của `bai-bo`. "Sửa" trong "sửa đổi" không phải động từ của `dinh-chinh`. "Thay" trong "thay đổi" không phải động từ của `thay-the` và `thay-cum-tu`.
+13. **Bản ghi chờ duyệt không che bản ghi đã kiểm** (`convert.rows_into_articles`, `validate.distinct`). Hai bản ghi trùng đơn vị, hành động, đích, vị trí: giữ bản `validated`. Dòng của phần kèm theo là chi tiết của hành động do Điều nêu. Nếu hành động của Điều là `unresolved` và một dòng đã kiểm (`validated`) cùng hành động, cùng đích, thì hành động của Điều nhận kết quả của dòng đó. Ví dụ: Điều chỉ nêu "các Quyết định … (có danh sách kèm theo)"; dòng có cột "Thu hồi, hủy bỏ Quyết định số:" nêu đích.
+14. **Văn bản nguồn không bao giờ là đích** (`resolver`, `validate`). Phần kèm theo của văn bản nguồn là nội dung của chính văn bản đó. LLM có thể ghi "văn bản chứa nội dung" là văn bản nguồn ("Kèm theo Quyết định số …"). Khi đó code giữ đích LLM nêu. Phép kiểm `chinh_van_ban_nguon` dùng cả đích sau phân giải.
+
+Kiểm thử theo họ cách viết: `tests/test_behavior.py`. Mã kiểm thử không chứa ID văn bản trong điều kiện xử lý.
+
+### 8.11.4. Quy tắc đã đo và không dùng
+
+Trước khi thêm một quy tắc, đo quy tắc đó trên 6 bộ. Quy tắc chặn nhiều quan hệ đúng hơn quan hệ sai thì không dùng. Lỗi còn lại được ghi là lỗi đọc nghĩa của LLM.
+
+| Quy tắc thử | Quan hệ đúng bị chặn | Quan hệ sai bị chặn | Kết luận |
+| --- | --- | --- | --- |
+| Động từ phải đứng trước số hiệu đầu tiên của câu | 70 | 19 | Không dùng. Câu bị động ("Quyết định X … hết hiệu lực") và tên văn bản ("THÔNG TƯ … SỬA ĐỔI …") đặt động từ sau số hiệu. |
+| Câu trích của LLM có động từ của hành động khác, không có động từ của hành động này | 35 | 2 | Không dùng. Ví dụ ca sai còn lại: LLM đọc thêm `bo-sung` từ tên văn bản đích ("… công bố Danh mục thủ tục hành chính mới ban hành, sửa đổi, bổ sung"). |
+| Đơn vị dưới câu dẫn nội dung mới ("Sửa đổi Điều 6 … như sau:") là nội dung, động từ trong đơn vị không tính | 23 | 1 | Không dùng. Các khoản dưới "Sửa đổi, bổ sung Điều 5 … như sau:" thường tự nêu hành động ("Khoản 1 Điều 5 được sửa đổi như sau:"). |
+| Câu nêu đề nghị, kế hoạch (`PLANNED`) áp cho mọi đơn vị, không chỉ dòng bảng | 1 | 0 | Không dùng. Đề nghị không theo một mẫu câu cố định; `chu_the` do LLM đọc. |
+| "Bỏ" sau "hủy" không tính cho `bai-bo` (quy tắc 12) | 0 | 7 | Dùng. |
+
+### 8.11.5. Kết quả đo C′ (21/10/2026)
+
+Một vòng đo trên 6 bộ là một lệnh:
+
+```bash
+.venv/bin/python -m eval.round <tên lượt> --without b2   # chạy lại chặt, 6 bộ song song, khoảng 2 phút
+.venv/bin/python -m eval.round <tên lượt> --allow-new    # có B2, cho gọi LLM, chạy lần lượt từng bộ
+```
+
+Lệnh in bảng chỉ số và bảng thay đổi so với A. Bộ nào không hợp lệ (có câu trả lời thiếu hoặc văn bản lỗi) thì lệnh báo và trả mã lỗi. Trước ngày 21/10/2026, một vòng đo mất khoảng 15 phút; thời gian chủ yếu là chờ ES tra số hiệu (mục 2.5.3 ở docs 02).
+
+C′ là code mới (quy tắc 1–9, 11–14), chạy lại chặt trên đúng các câu trả lời LLM của lượt A. Lượt chạy lại chặt không gọi LLM mới. Mọi thay đổi trong bảng do code tạo ra. B2 (quy tắc 10) chưa bật trong C′; B2 được đo riêng ở lượt C. A là baseline (commit 4e0a5c7). Bản chụp code: `work/C-code-1336.tgz`. 6 bộ đều hợp lệ: 0 câu trả lời thiếu, 0 văn bản lỗi.
+
+Ô ghi "P / R (đúng, sai, sót)". Phát hiện: đúng văn bản nguồn, đích và hành động. Phạm vi: đúng thêm vị trí hoặc phần bị tác động. Quan hệ `unresolved` không tính là cạnh.
+
+| Bộ | A phát hiện | C′ phát hiện | A phạm vi | C′ phạm vi |
+| --- | --- | --- | --- | --- |
+| dev | 0,837 / 0,798 (87, 17, 22) | 0,847 / 0,862 (94, 17, 15) | 0,849 / 0,773 (214, 38, 63) | 0,853 / 0,798 (221, 38, 56) |
+| H2 | 0,930 / 0,820 (132, 10, 29) | 0,944 / 0,839 (135, 8, 26) | 0,791 / 0,543 (170, 45, 143) | 0,781 / 0,546 (171, 48, 142) |
+| H3 | 0,982 / 0,794 (108, 2, 28) | 0,976 / 0,897 (122, 3, 14) | 0,882 / 0,735 (172, 23, 62) | 0,880 / 0,782 (183, 25, 51) |
+| H4 | 0,928 / 0,703 (116, 9, 49) | 0,932 / 0,830 (137, 10, 28) | 0,737 / 0,556 (140, 50, 112) | 0,732 / 0,619 (156, 57, 96) |
+| Blind | 0,894 / 0,910 (193, 23, 19) | 0,902 / 0,910 (193, 21, 19) | 0,812 / 0,732 (273, 63, 100) | 0,815 / 0,732 (273, 62, 100) |
+| review50 | 0,957 / 0,957 (45, 2, 2) | 0,957 / 0,957 (45, 2, 2) | 0,829 / 0,818 (63, 13, 14) | 0,829 / 0,818 (63, 13, 14) |
+
+Thay đổi từ A sang C′, đếm theo cặp hành động và đích trong từng văn bản:
+
+| Bộ | Đúng phục hồi | Đúng bị mất | Sai mới | Sai được loại |
+| --- | --- | --- | --- | --- |
+| dev | 7 | 0 | 0 | 0 |
+| H2 | 4 | 1 | 1 | 3 |
+| H3 | 14 | 0 | 1 | 0 |
+| H4 | 21 | 0 | 1 | 0 |
+| Blind | 0 | 0 | 1 | 3 |
+| review50 | 0 | 0 | 0 | 0 |
+
+Đọc kết quả:
+
+1. Trên 5 bộ hold-out: 39 quan hệ đúng được phục hồi, 1 quan hệ đúng bị mất, 4 quan hệ sai mới, 6 quan hệ sai được loại.
+2. Phạm vi: R tăng ở H3 và H4. P giảm 0,002–0,010 ở H2, H3, H4. Lý do: một phần quan hệ mới tìm ra có vị trí sai (H4: thêm 7 lỗi vị trí).
+3. 4 quan hệ sai mới là lỗi đọc nghĩa của LLM. Code cũ chặn được các quan hệ này nhờ cổng hình thức, không nhờ một sự thật:
+   - LLM đọc động từ từ tên văn bản đích (638463);
+   - LLM đọc động từ từ nội dung mới (47544);
+   - LLM đọc đề nghị thành hành động (579076);
+   - một quan hệ trong văn bản 124929.
+4. Quan hệ đúng bị mất (41783) có câu thực hiện không nêu đích. Đích nằm ở câu trước ("… Mục II Thông tư số 163/NG/TT …. Đoạn đầu điểm (1)(a) Mục II được sửa lại như sau:"). Code không gắn được đích theo cấu trúc, nên quan hệ ở `unresolved`.
+
+### 8.11.6. Kết quả đo C, có B2 (21/10/2026)
+
+C là C′ cộng B2 (quy tắc 10). B2 đổi đầu vào của LLM, nên lượt này gọi LLM cho các Điều có thêm đơn vị: 245 lời gọi mới trên 6 bộ. Các câu trả lời khác dùng lại câu trả lời đã lưu. Lệnh: `.venv/bin/python -m eval.round C --allow-new`, tổng thời gian 7 phút 24 giây. Bản chụp code: `work/C-code-1423.tgz`. 6 bộ đều hợp lệ.
+
+| Bộ | A phát hiện | C phát hiện | A phạm vi | C phạm vi | LLM mới |
+| --- | --- | --- | --- | --- | --- |
+| dev | 0,837 / 0,798 (87, 17, 22) | 0,847 / 0,862 (94, 17, 15) | 0,849 / 0,773 (214, 38, 63) | 0,853 / 0,798 (221, 38, 56) | 24 |
+| H2 | 0,930 / 0,820 (132, 10, 29) | 0,944 / 0,839 (135, 8, 26) | 0,791 / 0,543 (170, 45, 143) | 0,781 / 0,546 (171, 48, 142) | 53 |
+| H3 | 0,982 / 0,794 (108, 2, 28) | 0,976 / 0,912 (124, 3, 12) | 0,882 / 0,735 (172, 23, 62) | 0,881 / 0,791 (185, 25, 49) | 43 |
+| H4 | 0,928 / 0,703 (116, 9, 49) | 0,938 / 0,909 (150, 10, 15) | 0,737 / 0,556 (140, 50, 112) | 0,748 / 0,671 (169, 57, 83) | 44 |
+| Blind | 0,894 / 0,910 (193, 23, 19) | 0,903 / 0,925 (196, 21, 16) | 0,812 / 0,732 (273, 63, 100) | 0,808 / 0,732 (273, 65, 100) | 67 |
+| review50 | 0,957 / 0,957 (45, 2, 2) | 0,957 / 0,957 (45, 2, 2) | 0,829 / 0,818 (63, 13, 14) | 0,829 / 0,818 (63, 13, 14) | 14 |
+
+| Bộ | Đúng phục hồi | Đúng bị mất | Sai mới | Sai được loại |
+| --- | --- | --- | --- | --- |
+| dev | 7 | 0 | 0 | 0 |
+| H2 | 4 | 1 | 1 | 3 |
+| H3 | 16 | 0 | 1 | 0 |
+| H4 | 34 | 0 | 1 | 0 |
+| Blind | 3 | 0 | 1 | 3 |
+| review50 | 0 | 0 | 0 | 0 |
+
+Đọc kết quả:
+
+1. Trên 5 bộ hold-out, so với A: 57 quan hệ đúng được phục hồi, 1 quan hệ đúng bị mất, 4 quan hệ sai mới, 6 quan hệ sai được loại.
+2. B2 thêm 18 quan hệ đúng so với C′ (H3: 2, H4: 13, Blind: 3). B2 không thêm quan hệ sai ở nhóm phát hiện.
+3. Phạm vi ở Blind: thêm 2 lỗi vị trí, nên P giảm 0,004.
+4. Câu trả lời mới của LLM có thể dao động giữa các lượt (mục 8.8.4). Phần tăng của B2 cần được xác nhận lại ở H5.
+
+### 8.11.7. Ghi thử v4 (21/10/2026)
+
+Theo yêu cầu người dùng, 3 index `-v4` được xóa tay và ghi lại bằng code mới nhất (đến commit `013e897`). Phạm vi: 1000 văn bản mới nhất theo ngày ban hành, lấy từ 2026 lùi về 1980. Kết quả là các văn bản ban hành từ 30/01/2026 đến 30/09/2026. Danh sách ở `work/v4-newest-ids.txt`. Lệnh ở docs 02, mục "Ghi thử vào v4".
+
+| Bước | Thời gian | Kết quả |
+| --- | --- | --- |
+| Ghi lần đầu (lượt `v4-1000`, có gọi LLM) | 71 phút, 7.958 lời gọi LLM | 994/1000 văn bản; 4 văn bản lỗi `IndexError`, 2 văn bản hết thời gian kết nối |
+| Sửa lỗi "Phần I Phụ lục" (commit `fb1b206`), chạy lại 6 văn bản | 43 giây | 6/6 |
+| Kiểm hợp đồng v4 lần 1 | | 237 luật, 8 luật có lỗi |
+| Sửa 3 lỗi dữ liệu và 2 luật kiểm lỗi thời (commit `aaf27a2`), ghi lại 1000 văn bản bằng câu trả lời đã lưu (`LLM_REPLAY=strict`) | 19 phút | 993/1000; 7 văn bản rất lớn hết thời gian kết nối, chạy lại với 3 luồng thì đạt |
+| Sửa cặp cụm từ (commit `013e897`), ghi lại 27 văn bản có `thay-cum-tu` | 3 phút | 27/27 |
+
+Trạng thái cuối:
+
+| Index | Số bản ghi |
+| --- | --- |
+| `legal-docs-v4` | 1.000 |
+| `legal-chunk-section-v4` | 61.674 |
+| `legal-changed-v4` | 3.570 (3.380 `validated`, 190 `unresolved`) |
+
+- Lý do `unresolved`: `vi_tri_chua_xac_dinh` 78, `dich_chua_gan_cau_thuc_hien` 59, `phan_kem_theo_chua_ro` 48, `van_ban_dich_khong_co_trong_nguon` 4, `vi_tri_khong_co_trong_nguon` 1.
+- 3.193 quan hệ có `target_matched_id`. 182 quan hệ có `doi_tuong_loai = thu_tuc_hanh_chinh`. 41 quan hệ có `chi_tiet_vi_tri`.
+- Kiểm hợp đồng v4 lần cuối: 237 luật, 3 luật có lỗi. Cả 3 là lỗi đọc cấu trúc có từ trước: vị trí "Mục I" đứng một mình (9/3.128), nơi nhận có dòng chữ ký (9/1.000), số dòng bảng (1/965).
+- Văn bản rất lớn (tới 2.940 chunk) có thể hết thời gian chờ embedding hoặc ES khi chạy 10 luồng. Chạy lại các văn bản lỗi với ít luồng hơn.

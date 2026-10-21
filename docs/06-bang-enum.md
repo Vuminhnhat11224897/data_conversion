@@ -297,6 +297,7 @@ Lượt chạy thử `eval-llm-blind` (15/10/2026, 759 quan hệ): `llm+rules` 4
 | `phan_kem_theo_chua_ro` | Vị trí có thể thuộc văn bản đích hoặc Quy định kèm theo. Câu không nói rõ. | Tầng 3 |
 | `khong_xac_dinh_van_ban_dich` | LLM không nêu được văn bản đích. | Tầng 3 |
 | `van_ban_dich_khong_co_trong_nguon` | Số hiệu đích không có trong đoạn nguồn LLM đọc. | Tầng 4 |
+| `dich_chua_gan_cau_thuc_hien` | Có câu nêu hành động, đích có trong nguồn, nhưng cấu trúc không gắn câu với đích (từ 21/10/2026). | Tầng 4 |
 | `vi_tri_khong_co_trong_nguon` | Số của vị trí không có trong đoạn nguồn. | Tầng 4 |
 | `vi_tri_ngoai_dinh_dang` | Không sinh từ 19/10/2026. Vị trí ngoài định dạng chuyển sang `doi_tuong`. | — |
 
