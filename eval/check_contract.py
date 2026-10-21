@@ -303,8 +303,8 @@ def run(doc_rows, chunks, rels):
         rule(f'{S}.2 _id dạng <tiền tố><source_id>_<n>', bool(m), i)
         if m:
             pre = m.group(1) or ''
-            # No prefix: a rule relation (no detection_mode) or one the model read (llm), docs/09 §9.10.
-            rule(f'{S}.2 tiền tố khớp detection_mode', r.get('detection_mode') == PREFIX[pre] or (pre == '' and r.get('detection_mode') == 'llm'), i)
+            # No prefix or intro_: a rule relation, or one the model read (llm), docs/09 §9.10.3.
+            rule(f'{S}.2 tiền tố khớp detection_mode', r.get('detection_mode') == PREFIX[pre] or (pre in ('', 'intro_') and r.get('detection_mode') == 'llm'), i)
             rule(f'{S}.2 _id chứa source_id', str(r.get('source_id')) == m.group(2), i)
             numbering[(pre, m.group(2))].append(int(m.group(3)))
         a = r.get('action')

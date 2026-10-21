@@ -329,6 +329,15 @@ class OnePerPosition(unittest.TestCase):
                          [(['Điều 10'], ['a']), (['Điều 11'], ['a']), (['khoản 2 Điều 52'], ['c'])])
         self.assertTrue(all(p['vi_tri'] == r['_source']['vi_tri'] for r in split for p in r['_source']['cum_tu']))
 
+    def test_read_at_one_of_its_pairs_positions(self):
+        row = {'action': 'thay-cum-tu', 'source_path': 'Điều 1', 'scope': 'khoản 3 Điều 9', 'vi_tri': ['khoản 3 Điều 9'],
+               'cum_tu': [{'cu': 'a', 'moi': 'b', 'vi_tri': ['khoản 2 Điều 2']}, {'cu': 'c', 'moi': 'd', 'vi_tri': ['khoản 3 Điều 9']},
+                          {'cu': 'e', 'moi': 'f', 'vi_tri': ['tên Mục 5 và', 'khoản 1 Điều 17']}]}
+        split = one_per_position([{'_id': '7_0', '_source': row}], 7)
+        self.assertEqual([(r['_source']['vi_tri'], [p['cu'] for p in r['_source']['cum_tu']]) for r in split],
+                         [(['khoản 2 Điều 2'], ['a']), (['khoản 3 Điều 9'], ['c']), (['khoản 1 Điều 17'], ['e'])])
+        self.assertTrue(all(p['vi_tri'] == r['_source']['vi_tri'] for r in split for p in r['_source']['cum_tu']))
+
     def test_level_follows_the_positions_wherever_the_sentence_stands(self):
         self.assertEqual(level({'source_path': 'intro', 'detection_mode': 'intro', 'scope': 'Điều 6', 'vi_tri': ['Điều 6']}), 'vi_tri')
         self.assertEqual(level({'source_path': 'Tiêu đề', 'scope': 'toàn bộ', 'vi_tri': ['toàn bộ']}), 'van_ban')

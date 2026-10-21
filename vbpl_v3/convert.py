@@ -223,14 +223,18 @@ def one_per_position(relations, doc_id):
         row = record['_source']
         places = row.get('vi_tri') or []
         pairs = row.get('cum_tu') or []
-        paired = list(dict.fromkeys(p for pair in pairs for p in pair.get('vi_tri') or [] if p != 'toàn bộ'))
-        if pairs and all(pair.get('vi_tri') for pair in pairs) and paired and not set(places) <= set(paired):
-            # Every pair says where its phrase is replaced: those are the positions of the act (683793: the act read at Điều 40, its
-            # pairs at Điều 10, 11, 12 and 52). A pair with no position applies at the relation's own positions, which then stand.
-            places = row['vi_tri'] = paired
+        own = [[p for p in pair.get('vi_tri') or [] if p != 'toàn bộ' and in_format(p)] for pair in pairs]
+        if pairs and all(own):
+            # Every pair says, in the contract's format, where its phrase is replaced: those are the positions of the act (683793:
+            # the act read at Điều 40, its pairs at Điều 10, 11, 12 and 52; 694158: read at one of its pairs' positions). A pair with
+            # no such position ("tên Mục 5 và") applies at the relation's own positions, which then stand.
+            places = row['vi_tri'] = list(dict.fromkeys(p for ps in own for p in ps))
+            pairs = row['cum_tu'] = [{**pair, 'vi_tri': ps} for pair, ps in zip(pairs, own)]
         if len(places) <= 1:
-            if places and row.get('cum_tu'):
-                row['cum_tu'] = [{**pair, 'vi_tri': pair['vi_tri'] or places} for pair in row['cum_tu']]
+            if pairs:
+                # A pair's position is the relation's (contract 9.10.6): the pairs at that position, else all of them.
+                here = [{**pair, 'vi_tri': places} for pair in pairs if not pair.get('vi_tri') or set(places) & set(pair['vi_tri'])]
+                row['cum_tu'] = here or [{**pair, 'vi_tri': places} for pair in pairs]
             split.append(record)
             continue
         for place in places:
