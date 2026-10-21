@@ -95,8 +95,13 @@ class Validation(unittest.TestCase):
         quoted = {'action': 'bai-bo', 'target_document': '99/2010/QĐ-UBND', 'target_section': 'khong_ap_dung', 'target_text': [],
                   'evidence': 'Bãi bỏ Quyết định số 99/2010/QĐ-UBND'}
         self.assertEqual(kept([row(text, quoted)])[1][0]['reason'], 'trong_noi_dung_moi')
+        # The act stands inside the inserted wording, whatever the quote says (21/10/2026: the form of the quote decides nothing).
         invented = dict(quoted, evidence='Bãi bỏ toàn bộ Quyết định số 99/2010/QĐ-UBND kể từ ngày ký')
-        self.assertEqual(kept([row(text, invented)])[1][0]['reason'], 'trich_dan_khong_co_trong_nguon')
+        self.assertEqual(kept([row(text, invented)])[1][0]['reason'], 'trong_noi_dung_moi')
+        # A real act with a quote the model rewrote: the code finds the evidence in the source, verbatim.
+        real = 'Bãi bỏ Quyết định số 99/2010/QĐ-UBND ngày 05/3/2010 của Ủy ban nhân dân tỉnh.'
+        (relation,), _ = kept([row(real, invented)])
+        self.assertEqual((relation['resolution_status'], relation['evidence']), ('validated', real))
 
     def test_target_and_position_must_be_in_the_source(self):
         text = 'Bãi bỏ khoản 3 Điều 5.'
@@ -118,10 +123,10 @@ class Validation(unittest.TestCase):
         # The model names an act the quote does not state: rejected, not renamed by rule (the prompt defines the acts, 19/10/2026).
         misnamed = dict(act, action='sua-doi', target_section='quyet_dinh', evidence='Quyết định này thay thế')
         relations, rejected = kept([row(text, misnamed)])
-        self.assertEqual(rejected[0]['reason'], 'trich_dan_khong_co_hanh_dong')
+        self.assertEqual(rejected[0]['reason'], 'chua_co_cau_thuc_hien')
         basis = 'Căn cứ Quyết định số 42/2018/QĐ-UBND ngày 08/11/2018.'
         relations, rejected = kept([row(basis, dict(act, evidence='Quyết định số 42/2018/QĐ-UBND ngày 08/11/2018'))])
-        self.assertEqual(rejected[0]['reason'], 'trich_dan_khong_co_hanh_dong')
+        self.assertEqual(rejected[0]['reason'], 'chua_co_cau_thuc_hien')
 
     def test_act_stated_before_the_listed_item(self):
         # 664270: "Bãi bỏ Quyết định số 71/…; Quyết định số 2687/… và Quyết định số 169/…": the quote may be a later item.

@@ -12,6 +12,7 @@ import re
 
 from .llm import validated_json
 from .text import action_matches
+from .governance import opens_list
 from .structure import appendix_label, printed_title
 from .prompts import load
 
@@ -311,7 +312,12 @@ def units(parsed):
         if path in lists and not any(u['source_path'] == path for u in items):
             items.insert(0, {'source_path': path, 'cau_dan': '', 'noi_dung': article.get('mo_dau') or article['tieu_de'],
                              'danh_sach_kem_theo': lists[path]})
-        signal = [u for u in items if SIGNAL.search(u['noi_dung']) or SIGNAL.search(u['cau_dan']) or u.get('danh_sach_kem_theo')]
+        # An item of a list opened by its lead ("Bãi bỏ 15 văn bản … gồm: 1. Quyết định số …") states no act word of its own: the lead
+        # performs the act on it (governance.opens_list), so it goes to the model with the items that do (21/10/2026).
+        clause_lead = opens_list(context['cau_dan_dieu']) or opens_list(context['ten_dieu'])
+        def governed(u):
+            return ROW_NUMBER.search(u['noi_dung']) and (opens_list(u['cau_dan']) if ' điểm ' in u['source_path'] else clause_lead)
+        signal = [u for u in items if SIGNAL.search(u['noi_dung']) or SIGNAL.search(u['cau_dan']) or u.get('danh_sach_kem_theo') or governed(u)]
         if signal or SIGNAL.search(context['ten_dieu'] + ' ' + context['cau_dan_dieu']):
             groups.append((path, context, signal or items[:1]))
     if not parsed['dieu_luat']:

@@ -9,10 +9,11 @@ Nothing is guessed: a row the text does not settle keeps resolution_status = unr
 
 import re
 
+from . import governance
 from .structure import NUMBER
 from .text import number_key
 from .relations import scope
-from .temporal import extension, phrase_change, positions, suspension
+from .temporal import extension, finer_parts, phrase_change, positions, suspension
 
 # A whole document with no position: the act ends, replaces or halts all of it.
 WHOLE = {'bai-bo', 'thay-the', 'huy-bo', 'dinh-chi', 'ngung-hieu-luc', 'gia-han'}
@@ -41,7 +42,7 @@ def object_kind(named, heading='', row=False):
     return 'van_ban'
 
 
-DASHED = re.compile(r'(?<![\w/-])\d{1,6}-[A-ZĐ][A-Za-zĐđ]{1,9}(?:/[A-ZĐ][A-ZĐa-zđ0-9-]*)?(?![\w-])')
+DASHED = governance.DASHED  # one definition, shared with the evidence check
 
 
 def target_of(text):
@@ -70,7 +71,9 @@ def resolve_row(row):
             out.update(resolution_status='unresolved', resolution_reason=reason)
     target = target_of(row['target_document'])
     holder = target_of(row.get('van_ban_chua_noi_dung') or '')
-    if holder and target and number_key(holder) != number_key(target):
+    own = number_key((row['_context'].get('van_ban') or {}).get('so_hieu') or '')
+    # This document is never the holder: its attachment is its own content, not content it changes (192235).
+    if holder and target and number_key(holder) not in (number_key(target), own):
         # The document that holds the changed content is the target, not one named inside that content (P1, 20/10/2026): taken when
         # the source shows its number.
         shown = '\n'.join([unit, lead] + [str(row['_context'].get(k) or '') for k in ('ten_dieu', 'cau_dan_dieu', 'chuong', 'phan_dau')])
@@ -97,6 +100,23 @@ def resolve_row(row):
     if TYPE_ONLY.fullmatch(part):
         # "Quyết định", "văn bản": the type of the target names no part of it (336452, 20/10/2026).
         part = ''
+    # An item of a list acts on what it names first (C, 21/10/2026): the document itself, or a provision of it. Positions and parts
+    # read from the words after the document's number are its name ("Quyết định X về việc sửa đổi khoản 2 Điều 3"), never this scope.
+    item = governance.item_object(row, out['target_doc']) if target else None
+    if item and item[0] == 'van_ban':
+        places, part = [], ''
+        whole = whole or row['action'] in WHOLE
+    elif item:
+        places, part = [p for p in positions(item[1]) if p != 'toàn bộ'] or places, ''
+    # A part with no node of its own (a form, a paragraph, a sentence, a row) keeps its limit when the edge goes to the node that holds
+    # it (C, 21/10/2026): "Mẫu số 01 Phụ lục I" is Phụ lục I, only the form.
+    detail = {}
+    for text in list(row['target_text'] or []) + ([item[1]] if item and item[0] == 'vi_tri' else []):
+        finer = finer_parts(text)
+        for place in positions(text) if finer else []:
+            detail.setdefault(place, '; '.join(finer))
+    if detail:
+        out['_chi_tiet'] = detail
     if row['action'] == 'thay-cum-tu':
         pairs, listed = phrase_change(unit)
         places = places or listed

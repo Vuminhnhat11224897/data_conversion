@@ -22,7 +22,7 @@ from .text import language, number_key
 from .validate import validate
 from .structure import APPENDIX, NUMBER, appendix_label, build_chunks, normalize
 from .structure_ai import refine
-from .temporal import SUSPENSIONS, TEMPORAL_EFFECT, effective_date, in_format, normalize_scope, positions
+from .temporal import SUSPENSIONS, TEMPORAL_EFFECT, effective_date, finer_parts, in_format, normalize_scope, positions
 
 META = ('document_number', 'title', 'legal_type', 'legal_sectors', 'issuing_authority', 'issuance_date', 'signers', 'tom_tat', 'action', 'url')
 COPIED = META + ('pdf_minio_path', 'pdf_vbpl_id', 'embedding')
@@ -73,6 +73,46 @@ def settle(row):
     elif 'resolution_status' not in row:
         row.update(resolution_status='validated', resolution_reason=None)
     return row
+
+
+def rows_into_articles(kept, parsed):
+    """The kept acts, with the acts read from appendix rows given to the article they detail. An appendix that lists the procedures
+    or documents an article acts on details that act; it is not another one ("Điều 2. Bãi bỏ 107 thủ tục … tại Quyết định số 158/…"
+    and Phụ lục II listing them: the relations are Điều 2's).
+    A record kept for review never hides a checked one: an article whose words name a list, not the target ("Thu hồi … các Quyết
+    định … (có danh sách kèm theo)"), leaves its act unresolved, and a row whose column or heading ties the act to the target shows
+    it (226447). The article's act is then that row's, validated."""
+    article = {}
+    for r in kept:
+        if ' STT ' not in r['source_path'] and r['source_path'] not in DOCUMENT_LEVEL:
+            article.setdefault((r['action'], number_key(r['target_doc'])), []).append(r)
+    stated, hidden = set(article), set()
+    for r in kept:
+        key = (r['action'], number_key(r['target_doc']))
+        if ' STT ' in r['source_path'] and r['resolution_status'] == 'validated' and key in article \
+                and not any(a['resolution_status'] == 'validated' for a in article[key]):
+            records = article.pop(key)
+            hidden |= {id(a) for a in records}
+            r.update(source_path=records[0]['source_path'], source_in_phu_luc=records[0]['source_in_phu_luc'], _from_rows=True)
+    kept = [r for r in kept if id(r) not in hidden]
+    # The same holds when the model missed the article's own reading: an article whose words name the target and the act takes the rows.
+    for r in kept:
+        if ' STT ' in r['source_path'] and (r['action'], number_key(r['target_doc'])) not in stated:
+            holder = article_stating(parsed, r['action'], r['target_doc'])
+            if holder:
+                r.update(source_path=holder, source_in_phu_luc=False, _from_rows=True)
+                stated.add((r['action'], number_key(r['target_doc'])))
+    seen_keys, merged_rows = set(), []
+    for r in kept:
+        if ' STT ' in r['source_path'] and (r['action'], number_key(r['target_doc'])) in stated:
+            continue
+        if r.pop('_from_rows', False):
+            k = (r['source_path'], r['action'], number_key(r['target_doc']))
+            if k in seen_keys:
+                continue
+            seen_keys.add(k)
+        merged_rows.append(r)
+    return merged_rows
 
 
 def article_stating(parsed, action, target):
@@ -127,6 +167,9 @@ def tidy_positions(relations):
         holders = row_holders((row.get('scope') or '') + ' ' + (row.get('evidence') or ''))
         if holders and holders != 'Phụ lục':
             row['vi_tri'] = holders.split('; ')
+            finer = finer_parts(row.get('scope') or '')
+            if finer:
+                row['_chi_tiet'] = {place: '; '.join(finer) for place in row['vi_tri']}  # the rows, not the whole appendix
             continue
         named = re.search(r'(?:danh\s+mục|thủ\s+tục)[^.;]{0,200}?số\s+thứ\s+tự[^.;]{0,120}', row.get('evidence') or '', re.I)
         part = ' '.join((named.group() if named else row['scope']).split())[:300]
@@ -134,15 +177,14 @@ def tidy_positions(relations):
                    unresolved=False)
         if row.get('resolution_reason') == 'vi_tri_chua_xac_dinh':
             row.update(resolution_status='validated', resolution_reason=None)
-    groups, named = {}, set()
+    # A provision and a part of it from the same unit, act and document: the part ("Sửa đổi điểm a, khoản 16 Điều 2" is the point).
+    # A whole document and a part named by name are two readings of the scope; which one holds is read from the act's object in the
+    # resolver (21/10/2026), not decided here by a rule that one kind always wins.
+    groups = {}
     for record in relations:
         row = record['_source']
         k = (row['source_path'], row['action'], number_key(row.get('target_doc') or ''))
         groups.setdefault(k, set()).update(row.get('vi_tri') or [])
-        if row.get('doi_tuong'):
-            named.add(k)
-    for k in named:
-        groups[k].add('#part')  # a part named by name: the whole document beside it is that part, not the whole
     kept = []
     for record in relations:
         row = record['_source']
@@ -173,6 +215,13 @@ def one_per_position(relations, doc_id):
             if row.get('cum_tu') is not None:
                 part['cum_tu'] = [{**pair, 'vi_tri': [place]} for pair in row['cum_tu'] if place in (pair['vi_tri'] or places)]
             split.append({'_id': record['_id'], '_source': part})
+    for record in split:
+        # A part without a node of its own keeps its limit on the edge to the node that holds it (C, 21/10/2026).
+        row = record['_source']
+        detail = row.pop('_chi_tiet', None) or {}
+        place = (row.get('vi_tri') or [None])[0]
+        if detail.get(place):
+            row['chi_tiet_vi_tri'] = detail[place]
     counts = {}
     for record in split:
         prefix = PREFIX.match(record['_id'])[0]
@@ -195,29 +244,12 @@ def model_relations(doc_id, meta, parsed, candidates, root, lookup, provenance, 
     except (ValueError, TypeError, KeyError, requests.RequestException) as error:
         return [], [{'stage': 'extract', 'type': type(error).__name__, 'message': str(error)[:500]}], []
     kept, rejected = validate(rows, resolve_row)
-    # An appendix that lists the procedures or documents an article acts on details that act; it is not another one
-    # ("Điều 2. Bãi bỏ 107 thủ tục … tại Quyết định số 158/…" and Phụ lục II listing them: the relations are Điều 2's).
-    stated = {(r['action'], number_key(r['target_doc'])) for r in kept
-              if ' STT ' not in r['source_path'] and r['source_path'] not in DOCUMENT_LEVEL}
-    # The same holds when the model missed the article's own reading: an article whose words name the target and the act takes the rows.
-    for r in kept:
-        if ' STT ' in r['source_path'] and (r['action'], number_key(r['target_doc'])) not in stated:
-            holder = article_stating(parsed, r['action'], r['target_doc'])
-            if holder:
-                r.update(source_path=holder, source_in_phu_luc=False)
-                stated.add((r['action'], number_key(r['target_doc'])))
-                r['_from_rows'] = True
-    seen_keys, merged_rows = set(), []
-    for r in kept:
-        if ' STT ' in r['source_path'] and (r['action'], number_key(r['target_doc'])) in stated:
-            continue
-        if r.pop('_from_rows', False):
-            k = (r['source_path'], r['action'], number_key(r['target_doc']))
-            if k in seen_keys:
-                continue
-            seen_keys.add(k)
-        merged_rows.append(r)
-    kept = merged_rows
+    # The evidence of each kept act, piece by piece (field, words, role): intermediate data for review, not written to the index.
+    folder.mkdir(parents=True, exist_ok=True)
+    (folder / 'evidence.json').write_text(json.dumps([{'source_path': r['source_path'], 'action': r['action'], 'target_doc': r['target_doc'],
+                                                         'resolution_status': r['resolution_status'], 'bang_chung': r.pop('_bang_chung', [])}
+                                                        for r in kept], ensure_ascii=False, indent=1), encoding='utf-8')
+    kept = rows_into_articles(kept, parsed)
     folder.mkdir(parents=True, exist_ok=True)
     (folder / 'rejected.json').write_text(json.dumps(rejected, ensure_ascii=False, indent=1), encoding='utf-8')
 
@@ -419,6 +451,14 @@ def convert_document(doc_id, config, source, target, run_id, root, qa=True, dry_
         row = record['_source']
         row['scope'] = normalize_scope(row.get('scope'))
         row['vi_tri'] = row.get('vi_tri') or positions(row['scope'])
+        if '_chi_tiet' not in row:
+            detail = {}
+            for group in re.split(r'\s*;\s*', row['scope'] or ''):
+                finer = finer_parts(group)
+                for place in positions(group) if finer else []:
+                    detail.setdefault(place, '; '.join(finer))
+            if detail:
+                row['_chi_tiet'] = detail
         # The source unit's own effective day when the document states one for it.
         unit = unit_of_path(row['source_path'])
         row['source_ngay_hieu_luc'] = unit_dates(unit, document, document['hieu_luc_rieng'])['ngay_hieu_luc'] if unit else document['ngay_hieu_luc']

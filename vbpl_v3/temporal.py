@@ -144,6 +144,20 @@ def sub_points(text):
     return WITHIN.sub('', text)
 
 
+# Parts that have no node (contract 9.5, decisions C3, C4, E1): a form, a paragraph, a sentence, a dash item of a clause, a "tiết",
+# a row of a list. Their position is the node that holds them; the part itself is kept in chi_tiet_vi_tri.
+FINER = re.compile(r'\b(?:mẫu(?:\s+biểu)?\s+(?:số\s+)?[\w./-]*\d[\w./-]*'
+                   r'|(?:câu|đoạn|dòng|tiết|gạch\s+đầu\s+dòng|gạch\s+ngang)\s+(?:thứ\s+)?(?:\d+|nhất|hai|ba|tư|bốn|năm|sáu|bảy|tám|chín|mười|đầu|cuối)'
+                   r'|(?:số\s+thứ\s+tự|stt)\s+\d+[a-zđ]?(?:\s*(?:,|và|đến|-)\s*\d+[a-zđ]?)*)', re.I)
+
+
+def finer_parts(text):
+    """The parts without a node named in a position text, as written: "Mẫu số 01 Phụ lục I" -> ["Mẫu số 01"]. A dash item of a point
+    is a node (tiểu điểm) and is not one of them."""
+    plain = re.sub(r'(?:dấu\s+)?(?:gạch\s+đầu\s+dòng|gạch\s+ngang|tiết)\s+(?:thứ\s+)?\S+\s+(?=(?:của\s+|tại\s+|thuộc\s+)?điểm\b)', ' ', text or '', flags=re.I)
+    return list(dict.fromkeys(' '.join(m.group().split()) for m in FINER.finditer(plain)))
+
+
 def levels(text):
     """One position written with commas between its levels, joined: "điểm a, khoản 2, Điều 4" -> "điểm a khoản 2 Điều 4",
     "Mục I, Phần I Phụ lục" -> "Mục I Phần I Phụ lục". Parts without a node of their own are dropped first (sub_points)."""

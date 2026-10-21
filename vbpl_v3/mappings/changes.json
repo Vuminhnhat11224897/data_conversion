@@ -154,6 +154,9 @@
       "vi_tri": {
         "type": "keyword"
       },
+      "chi_tiet_vi_tri": {
+        "type": "keyword"
+      },
       "cum_tu": {
         "properties": {
           "cu": {
