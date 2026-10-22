@@ -1,0 +1,387 @@
+[
+ {
+  "doc_id": "685954",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công bố 03 TTHC nội bộ mới; không thay thế, bãi bỏ văn bản nào. Nghị định 283/2025/NĐ-CP sửa đổi 120/2020/NĐ-CP chỉ là căn cứ pháp lý của TTHC."
+ },
+ {
+  "doc_id": "686143",
+  "relations": [
+   {
+    "source_path": "Điều 7 Khoản 2 điểm a",
+    "action": "bai-bo",
+    "target_document": "51/2024/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 51/2024/QĐ-UBND ngày 18/12/2024 của Ủy ban nhân dân thành phố Hải Phòng quy định tỷ lệ phần trăm (%) tính tiền thuê đất trả tiền hằng năm; đơn giá thuê đất xây dựng công trình ngầm, đơn giá thuê đất có mặt nước trên địa bàn thành phố Hải Phòng;"
+   },
+   {
+    "source_path": "Điều 7 Khoản 2 điểm b",
+    "action": "bai-bo",
+    "target_document": "44/2024/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 44/2024/QĐ-UBND ngày 28/10/2024 của Ủy ban nhân dân tỉnh Hải Dương quy định tỷ lệ phần trăm (%) tính tiền thuê đất trả tiền hằng năm; đơn giá thuê đất xây dựng công trình ngầm, đơn giá thuê đất có mặt nước trên địa bàn tỉnh Hải Dương;"
+   },
+   {
+    "source_path": "Điều 7 Khoản 2 điểm c",
+    "action": "bai-bo",
+    "target_document": "51/2025/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Điều 2 Quyết định số 51/2025/QĐ-UBND ngày 27/6/2025 của Ủy ban nhân dân tỉnh Hải Dương sửa đổi, bổ sung một số điều của Quyết định số 44/2024/QĐ-UBND ngày 28/10/2024 quy định tỷ lệ phần trăm (%) để tính đơn giá thuê đất, đơn giá thuê đất để xây dựng công trình ngầm, đơn giá thuê đất đối với đất có mặt nước trên địa bàn tỉnh Hải Dương."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Câu dẫn khoản 2 Điều 7: 'Các quy định sau đây hết hiệu lực kể từ ngày Quyết định này có hiệu lực thi hành'. QĐ 44/2024/QĐ-UBND trong điểm c chỉ là mô tả của QĐ 51/2025/QĐ-UBND."
+ },
+ {
+  "doc_id": "678409",
+  "relations": [
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "quy-dinh-chi-tiet",
+    "target_document": "36/2024/QH15",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 5 Điều 44"
+    ],
+    "doi_tuong": null,
+    "evidence": "Quyết định này quy định chi tiết khoản 5 Điều 44 Luật Trật tự, an toàn giao thông đường bộ số 36/2024/QH15 về hoạt động vận tải đường bộ trong đô thị và tỷ lệ phương tiện vận chuyển hành khách công cộng có thiết bị hỗ trợ cho người khuyết tật trong đô thị trên địa bàn tỉnh Gia Lai."
+   },
+   {
+    "source_path": "Điều 6 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "40/2025/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 40/2025/QĐ-UBND ngày 02 tháng 6 năm 2025 của Ủy ban nhân dân tỉnh Gia Lai quy định về hoạt động vận tải đường bộ trong đô thị và tỷ lệ phương tiện vận chuyển hành khách công cộng có thiết bị hỗ trợ cho người khuyết tật trong đô thị trên địa bàn tỉnh Gia Lai hết hiệu lực kể từ ngày Quyết định này có hiệu lực thi hành."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Khoản 4 Điều 6 là câu chung về văn bản viện dẫn, không phải quan hệ. Các câu 'theo quy định tại Điều 45 Luật số 36/2024/QH15' chỉ là viện dẫn."
+ },
+ {
+  "doc_id": "692766",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "1463/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục I"
+    ],
+    "doi_tuong": null,
+    "evidence": "Danh mục 02 thủ tục hành chính có số thứ tự 11, 17 tại Phụ lục I ban hành kèm theo Quyết định số 1463/QĐ-UBND ngày 29/6/2025 của Chủ tịch UBND tỉnh về việc công bố Danh mục thủ tục hành chính được sửa đổi, bổ sung và phê duyệt quy trình nội bộ trong giải quyết thủ tục hành chính theo cơ chế một cửa, một cửa liên thông trong lĩnh vực công chứng thuộc thẩm quyền giải quyết của Sở Tư pháp tỉnh Lạng Sơn hết hiệu lực kể từ ngày Quyết định này có hiệu lực thi hành."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Văn bản tự tuyên bố TTHC số thứ tự 11, 17 tại Phụ lục I kèm theo QĐ 1463/QĐ-UBND hết hiệu lực. Điều 1 công bố danh mục không là hành động; dòng bảng phụ lục không nêu văn bản đích."
+ },
+ {
+  "doc_id": "690176",
+  "relations": [
+   {
+    "source_path": "Điều 3 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "01/2025/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 01/2025/QĐ-UBND ngày 02 tháng 01 năm 2025 của Ủy ban nhân dân tỉnh Hậu Giang quy định định mức số lượng học sinh/lớp từ năm học 2024 - 2025 và những năm tiếp theo trên địa bàn tỉnh Hậu Giang hết hiệu lực kể từ ngày Quyết định này có hiệu lực thi hành ."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Khoản 1 Điều 1 nêu 'trường hợp đặc biệt ... quy định tại khoản 2 Điều 3 Thông tư số 20/2023/TT-BGDĐT' nhưng không dùng chữ 'quy định chi tiết' hoặc 'hướng dẫn': không ghi quan hệ (không chắc)."
+ },
+ {
+  "doc_id": "695308",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Ban hành hệ số K năm 2026; không tác động văn bản khác. Điều 3 chỉ giao nhiệm vụ; 'Nghị định ... quy định chi tiết và hướng dẫn ... Nghị quyết' là mô tả văn bản khác."
+ },
+ {
+  "doc_id": "689851",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn đôn đốc. 'Nghị định 100/2019/NĐ-CP (sửa đổi tại Nghị định 123/2021/NĐ-CP)' là ghi chú lịch sử, không phải quan hệ."
+ },
+ {
+  "doc_id": "696514",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Ban hành Kế hoạch hỗ trợ pháp lý. 'Rà soát, đề xuất hoàn thiện Nghị định thay thế Nghị định số 55/2019/NĐ-CP' là nhiệm vụ, không phải quan hệ."
+ },
+ {
+  "doc_id": "689201",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Phê duyệt danh sách thôn, xã vùng DTTS và miền núi; không tác động văn bản khác."
+ },
+ {
+  "doc_id": "679799",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Kế hoạch 'triển khai' QĐ 2161/QĐ-TTg: 'triển khai, thực hiện' không thuộc loại hành động của quy ước, không ghi quan hệ."
+ },
+ {
+  "doc_id": "683013",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn trả lời về chính sách thuế; chỉ viện dẫn căn cứ, không tác động văn bản khác."
+ },
+ {
+  "doc_id": "687239",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Phê duyệt phương án tái cấu trúc TTHC đăng ký khai sinh có yếu tố nước ngoài; không tác động văn bản khác."
+ },
+ {
+  "doc_id": "681871",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "137/2024/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA NGHỊ QUYẾT SỐ 137/2024/NQ-HĐND NGÀY 13 THÁNG 12 NĂM 2024 VÀ NGHỊ QUYẾT SỐ 143/2025/NQ-HĐND NGÀY 23 THÁNG 01 NĂM 2025 CỦA HỘI ĐỒNG NHÂN DÂN TỈNH"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "137/2024/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA NGHỊ QUYẾT SỐ 137/2024/NQ-HĐND NGÀY 13 THÁNG 12 NĂM 2024 VÀ NGHỊ QUYẾT SỐ 143/2025/NQ-HĐND NGÀY 23 THÁNG 01 NĂM 2025 CỦA HỘI ĐỒNG NHÂN DÂN TỈNH"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "143/2025/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA NGHỊ QUYẾT SỐ 137/2024/NQ-HĐND NGÀY 13 THÁNG 12 NĂM 2024 VÀ NGHỊ QUYẾT SỐ 143/2025/NQ-HĐND NGÀY 23 THÁNG 01 NĂM 2025 CỦA HỘI ĐỒNG NHÂN DÂN TỈNH"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "143/2025/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA NGHỊ QUYẾT SỐ 137/2024/NQ-HĐND NGÀY 13 THÁNG 12 NĂM 2024 VÀ NGHỊ QUYẾT SỐ 143/2025/NQ-HĐND NGÀY 23 THÁNG 01 NĂM 2025 CỦA HỘI ĐỒNG NHÂN DÂN TỈNH"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "137/2024/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 Điều 1 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "137/2024/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 Điều 1 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "thay-cum-tu",
+    "target_document": "137/2024/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 2",
+     "Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “cấp huyện” bằng “cấp xã”; “huyện, thành phố, thị xã” bằng “xã, phường” tại Điều 2 và Điều 3."
+   },
+   {
+    "source_path": "Điều 2 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "143/2025/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 3 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "143/2025/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 3 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 2",
+    "action": "thay-cum-tu",
+    "target_document": "143/2025/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 4 Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Bộ Nông nghiệp và Phát triển nông thôn” bằng “Bộ Nông nghiệp và Môi trường”; “Sở Nông nghiệp và Phát triển nông thôn” bàng “Sở Nông nghiệp và Môi trường” tại khoản 4."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên và lời dẫn cùng nêu sửa đổi, bổ sung 2 nghị quyết: ghi một lần ở Phần đầu. Văn bản đích của khoản lấy từ tên Điều 1, Điều 2. Tờ trình ghi NQ 137/2024 ngày 13/01/2024, tên ghi 13/12/2024."
+ },
+ {
+  "doc_id": "683435",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "48/2025/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA QUYẾT ĐỊNH SỐ 48/2025/QĐ-UBND NGÀY 23 THÁNG 10 NĂM 2025 CỦA ỦY BAN NHÂN DÂN TỈNH ĐỒNG NAI BAN HÀNH QUY ĐỊNH ĐƠN GIÁ BỒI THƯỜNG THIỆT HẠI VỀ CÂY TRỒNG KHI NHÀ NƯỚC THU HỒI ĐẤT TRÊN ĐỊA BÀN TỈNH ĐỒNG NAI"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "48/2025/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA QUYẾT ĐỊNH SỐ 48/2025/QĐ-UBND NGÀY 23 THÁNG 10 NĂM 2025 CỦA ỦY BAN NHÂN DÂN TỈNH ĐỒNG NAI BAN HÀNH QUY ĐỊNH ĐƠN GIÁ BỒI THƯỜNG THIỆT HẠI VỀ CÂY TRỒNG KHI NHÀ NƯỚC THU HỒI ĐẤT TRÊN ĐỊA BÀN TỈNH ĐỒNG NAI"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "sua-doi",
+    "target_document": "48/2025/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi Điều 3 Quyết định số 48/2025/QĐ-UBND ngày 23 tháng 10 năm 2025 của Ủy ban nhân dân tỉnh về ban hành Quy định đơn giá bồi thường thiệt hại về cây trồng khi Nhà nước thu hồi đất trên địa bàn tỉnh Đồng Nai"
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "sua-doi",
+    "target_document": "48/2025/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 2 Điều 2",
+     "khoản 3 Điều 2",
+     "khoản 5 Điều 2",
+     "khoản 8 Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2, 3, 5, 8 Điều 2 Quy định đơn giá bồi thường thiệt hại về cây trồng khi Nhà nước thu hồi đất trên địa bàn tỉnh Đồng Nai ban hành kèm theo Quyết định số 48/2025/QĐ-UBND"
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bo-sung",
+    "target_document": "48/2025/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 2 Điều 2",
+     "khoản 3 Điều 2",
+     "khoản 5 Điều 2",
+     "khoản 8 Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2, 3, 5, 8 Điều 2 Quy định đơn giá bồi thường thiệt hại về cây trồng khi Nhà nước thu hồi đất trên địa bàn tỉnh Đồng Nai ban hành kèm theo Quyết định số 48/2025/QĐ-UBND"
+   },
+   {
+    "source_path": "Điều 3 Khoản 1",
+    "action": "thay-the",
+    "target_document": "48/2025/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục I"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế Phụ lục I ban hành kèm theo Quyết định số 48/2025/QĐ-UBND bằng Phụ lục I ban hành kèm theo Quyết định này;"
+   },
+   {
+    "source_path": "Điều 3 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "48/2025/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục II"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi mục 2, 3, 4, 8, 11 tại Phụ lục II ban hành kèm theo Quyết định số 48/2025/QĐ-UBND như sau:"
+   },
+   {
+    "source_path": "Điều 3 Khoản 3",
+    "action": "thay-the",
+    "target_document": "48/2025/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục III"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế Phụ lục III ban hành kèm theo Quyết định số 48/2025/QĐ-UBND bằng Phụ lục II ban hành kèm theo Quyết định này."
+   },
+   {
+    "source_path": "Điều 3 Khoản 4",
+    "action": "sua-doi",
+    "target_document": "48/2025/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục VI"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi mục 1 nhóm I, mục 1, 2, 3 nhóm IV; bổ sung mục 4, 5 nhóm IV Phụ lục VI ban hành kèm theo Quyết định số 48/2025/QĐ-UBND như sau:"
+   },
+   {
+    "source_path": "Điều 3 Khoản 4",
+    "action": "bo-sung",
+    "target_document": "48/2025/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục VI"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi mục 1 nhóm I, mục 1, 2, 3 nhóm IV; bổ sung mục 4, 5 nhóm IV Phụ lục VI ban hành kèm theo Quyết định số 48/2025/QĐ-UBND như sau:"
+   },
+   {
+    "source_path": "Điều 3 Khoản 5",
+    "action": "bai-bo",
+    "target_document": "48/2025/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục VI"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ mục 14, 89, 90 bảng 5 Phụ lục VI ban hành kèm theo Quyết định số 48/2025/QĐ-UBND."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên và lời dẫn cùng nêu sửa đổi, bổ sung QĐ 48/2025/QĐ-UBND: ghi một lần ở Phần đầu. 'mục' ở Phụ lục II, VI là dòng bảng (số thứ tự, nhóm, bảng 5): vi_tri dừng ở phụ lục."
+ }
+]

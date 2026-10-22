@@ -1,0 +1,49 @@
+[
+ {
+  "doc_id": "696972",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "627/QĐ-BNV",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "các thủ tục hành chính lĩnh vực quản lý nhà nước về quỹ xã hội, quỹ từ thiện",
+    "evidence": "Bãi bỏ các thủ tục hành chính lĩnh vực quản lý nhà nước về quỹ xã hội, quỹ từ thiện đã được công bố tại Quyết định số 627/QĐ-BNV ngày 20 tháng 6 năm 2025 của Bộ trưởng Bộ Nội vụ về việc công bố thủ tục hành chính mới ban hành hoặc sửa đổi, bổ sung hoặc bãi bỏ lĩnh vực quản lý nhà nước về hội, quỹ thuộc phạm vi chức năng quản lý của Bộ Nội (chi tiết tại phụ lục kèm theo)."
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Phụ lục 4",
+    "loai": "nhan_sai_dieu",
+    "ghi_chu": "Phụ lục 4 chỉ là Đề án thành lập quỹ (phụ lục của Mẫu số 01). Parser gộp vào đó Mẫu số 02 đến Mẫu số 19 của Phụ lục 2 (danh mục mẫu văn bản): các Điều của điều lệ mẫu quỹ xã hội (Mẫu số 02) bị nhận thành Điều của Phụ lục 4; điều lệ mẫu quỹ từ thiện (Mẫu số 03) bị nhận thành 'Văn bản kèm theo 1'."
+   },
+   {
+    "source_path": "Phụ lục 3",
+    "loai": "tach_sai",
+    "ghi_chu": "'Phụ lục thành lập Quỹ chi tiết kèm theo' là một dòng trong Mẫu số 01, bị nhận thành phụ lục riêng."
+   },
+   {
+    "source_path": "Phụ lục 4 Điều 30 Khoản 2",
+    "loai": "gop_sai",
+    "ghi_chu": "Khoản 2 Điều 30 của Mẫu số 02 gộp phần ghi chú của mẫu và tiêu đề Mẫu số 03."
+   },
+   {
+    "source_path": "Phụ lục 4 Văn bản kèm theo 1 Điều 30 Khoản 2",
+    "loai": "gop_sai",
+    "ghi_chu": "Khoản 2 Điều 30 của Mẫu số 03 gộp phần ghi chú của mẫu và toàn bộ Mẫu số 04, 05, 06."
+   },
+   {
+    "source_path": "Phụ lục 4 Văn bản kèm theo 1 Điều 30 Khoản 5",
+    "loai": "gop_sai",
+    "ghi_chu": "Mục 3, mục 5 của Mẫu số 07 bị nhận thành khoản 3, khoản 5 Điều 30; khoản 5 gộp Mẫu số 08, 09, 10. Mục a, b của Mẫu số 15 và mục c của Mẫu số 18 bị nhận thành điểm a, b, c khoản 5; câu dẫn của các điểm này lặp nội dung Mẫu số 07, 08."
+   },
+   {
+    "source_path": "Phụ lục 4 Văn bản kèm theo 1 Điều 30 Khoản 14",
+    "loai": "nhan_sai_dieu",
+    "ghi_chu": "Mục 14, 27, 28 của Mẫu số 19 (sơ yếu lý lịch) bị nhận thành khoản 14, 27, 28 Điều 30."
+   }
+  ],
+  "ghi_chu": "Điều 2 bãi bỏ các TTHC về quỹ xã hội, quỹ từ thiện đã công bố tại Quyết định 627/QĐ-BNV; danh sách ở Phụ lục 1 Phần I mục 2 (21 TTHC). Các dòng bảng đó không nêu quyết định đã công bố TTHC; cột 'Tên VBQPPL quy định việc bãi bỏ TTHC' ghi Nghị định 03/2026/NĐ-CP là căn cứ, không phải đích: không ghi quan hệ dòng bảng. Tên văn bản và Điều 1 chỉ công bố TTHC của Nghị định 03/2026/NĐ-CP: không phải quan hệ. Các mẫu văn bản (điều lệ mẫu, đơn) không tác động lên văn bản khác. Không chắc target_section: chọn khong_ap_dung vì câu không nêu vị trí; có thể là khong_ro vì TTHC của 627/QĐ-BNV nằm ở phần kèm theo."
+ }
+]

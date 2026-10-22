@@ -1,0 +1,18 @@
+[
+ {
+  "doc_id": "680885",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "5/QĐ-BNV",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "các thủ tục hành chính về thi đua, khen thưởng",
+    "evidence": "Bãi bỏ các thủ tục hành chính về thi đua, khen thưởng được công bố tại Quyết định số 5/QĐ-BNV ngày 02 tháng 01 năm 2025 của Bộ trưởng Bộ Nội vụ về việc công bố thủ tục hành chính nội bộ thực hiện tại Bộ Nội vụ (có danh mục kèm theo)."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 2 nêu hành động bãi bỏ và văn bản đích 5/QĐ-BNV; danh mục kèm theo (Phụ lục 1 Phần I mục 2 \"Danh mục TTHC ... bị bãi bỏ\", 8 dòng STT 1, 3-9) chỉ nêu 5/QĐ-BNV ở cột \"Quyết định công bố TTHC\", nên không ghi quan hệ riêng cho từng dòng (không chắc: nếu quy ước muốn ghi cả dòng thì là Phụ lục 1 Mục 2 STT k). Thông tư 20/2025/TT-BNV ở cột căn cứ pháp lý, không phải đích. Bảng trong toàn văn không có STT 2. Tên văn bản và Điều 1 chỉ công bố TTHC: không có quan hệ."
+ }
+]

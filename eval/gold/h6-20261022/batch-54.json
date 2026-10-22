@@ -1,0 +1,30 @@
+[
+ {
+  "doc_id": "686355",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quyết định phê duyệt Đề án phát triển quan hệ lao động 2026-2030; không có tác động trực tiếp lên văn bản khác. QĐ 395/QĐ-UBND (Bắc Ninh cũ) và QĐ 03/QĐ-UBND (Bắc Giang) chỉ nêu ở căn cứ xây dựng Đề án; \"rà soát, kiến nghị sửa đổi, bổ sung các quy định\" là nhiệm vụ, không phải quan hệ."
+ },
+ {
+  "doc_id": "687288",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công bố danh mục 14 TTHC mới ban hành và phê duyệt quy trình nội bộ; văn bản không nói thay thế, bãi bỏ, sửa đổi văn bản nào. QĐ 1446/QĐ-BKHCN, 4211/QĐ-BKHCN chỉ là căn cứ; cột Căn cứ pháp lý không phải đích."
+ },
+ {
+  "doc_id": "689669",
+  "relations": [
+   {
+    "source_path": "Điều 2 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "18/2022/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 18/2022/QĐ-UBND ngày 08 tháng 7 năm 2022 của Ủy ban nhân dân tỉnh Cà Mau ban hành Quy chế hỗ trợ, can thiệp đối với các trường hợp trẻ em bị bạo lực, xâm hại, xâm hại tình dục trên địa bàn tỉnh Cà Mau hết hiệu lực kể từ ngày Quyết định này có hiệu lực thi hành."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Văn bản tự tuyên bố QĐ 18/2022/QĐ-UBND hết hiệu lực: bai-bo cả văn bản. Tên và lời dẫn không nêu văn bản đích. Các đơn vị Quy chế chỉ dẫn Mẫu của NĐ 56/2017/NĐ-CP, \"hủy bỏ Quyết định tạm thời cách ly\" (không có số hiệu) hoặc giao trách nhiệm: không phải quan hệ."
+ }
+]

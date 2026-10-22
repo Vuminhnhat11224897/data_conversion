@@ -1,0 +1,34 @@
+[
+ {
+  "doc_id": "693409",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "hop-nhat",
+    "target_document": "09/2019/TT-BTP",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thông tư số 09/2019/TT-BTP ngày 10 tháng 12 năm 2019 của Bộ trưởng Bộ Tư pháp quy định biện pháp hỗ trợ, hướng dẫn người bị thiệt hại thực hiện thủ tục yêu cầu bồi thường nhà nước, có hiệu lực kể từ ngày 25 tháng 01 năm 2020, được sửa đổi, bổ sung bởi:"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Văn bản hợp nhất: chỉ ghi một quan hệ hop-nhat với văn bản gốc 09/2019/TT-BTP. Các Thông tư 08/2025, 11/2025, 24/2025/TT-BTP ở phần đầu, các dấu '(được bãi bỏ)' và chú thích cuối là lịch sử sửa đổi: không ghi."
+ },
+ {
+  "doc_id": "681007",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "03/2022/TT-UBDT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thông tư này có hiệu lực thi hành kể từ ngày 01 tháng 01 năm 2026; thay thế Thông tư số 03/2022/TT-UBDT ngày 01 tháng 10 năm 2022 của Bộ trưởng, Chủ nhiệm Ủy ban Dân tộc quy định trình tự, thủ tục, soạn thảo, ban hành văn bản quy phạm pháp luật thuộc phạm vi quản lý nhà nước của Ủy ban Dân tộc."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Chỉ Điều 2 tác động (thay thế cả Thông tư 03/2022/TT-UBDT). Tên và lời dẫn chỉ 'ban hành Quy chế': không ghi. Quy chế kèm theo (Phụ lục 1) chỉ nêu quy trình chung; các cụm '(được sửa đổi, bổ sung bởi Nghị định số 187/2025/NĐ-CP)', căn cứ Nghị định 114/2025/NĐ-CP sửa đổi Nghị định 41/2025/NĐ-CP và Điều 47 (văn bản viện dẫn bị thay thế) là trích dẫn hoặc lịch sử: không ghi."
+ }
+]

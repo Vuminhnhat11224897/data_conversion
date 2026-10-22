@@ -1,0 +1,90 @@
+[
+ {
+  "doc_id": "693990",
+  "relations": [
+   {
+    "source_path": "Phụ lục 1",
+    "action": "bai-bo",
+    "target_document": "683/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Thủ tục hành chính tương ứng tại Danh mục kèm theo Quyết định",
+    "evidence": "Ghi chú: Thủ tục hành chính tương ứng đã được Chủ tịch Ủy ban nhân dân tỉnh công bố tại Danh mục kèm theo các Quyết định số 683/QĐ-UBND ngày 11/4/2025, Quyết định số 1244/QĐ-UBND ngày 25/6/2025, Quyết định số 1282/QĐ- UBND ngày 25/6/2025 hết hiệu lực khi Quyết định này có hiệu lực thi hành."
+   },
+   {
+    "source_path": "Phụ lục 1",
+    "action": "bai-bo",
+    "target_document": "1244/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Thủ tục hành chính tương ứng tại Danh mục kèm theo Quyết định",
+    "evidence": "Ghi chú: Thủ tục hành chính tương ứng đã được Chủ tịch Ủy ban nhân dân tỉnh công bố tại Danh mục kèm theo các Quyết định số 683/QĐ-UBND ngày 11/4/2025, Quyết định số 1244/QĐ-UBND ngày 25/6/2025, Quyết định số 1282/QĐ- UBND ngày 25/6/2025 hết hiệu lực khi Quyết định này có hiệu lực thi hành."
+   },
+   {
+    "source_path": "Phụ lục 1",
+    "action": "bai-bo",
+    "target_document": "1282/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Thủ tục hành chính tương ứng tại Danh mục kèm theo Quyết định",
+    "evidence": "Ghi chú: Thủ tục hành chính tương ứng đã được Chủ tịch Ủy ban nhân dân tỉnh công bố tại Danh mục kèm theo các Quyết định số 683/QĐ-UBND ngày 11/4/2025, Quyết định số 1244/QĐ-UBND ngày 25/6/2025, Quyết định số 1282/QĐ- UBND ngày 25/6/2025 hết hiệu lực khi Quyết định này có hiệu lực thi hành."
+   },
+   {
+    "source_path": "Phụ lục 2",
+    "action": "bai-bo",
+    "target_document": "683/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Thủ tục hành chính tương ứng tại Danh mục kèm theo Quyết định",
+    "evidence": "Ghi chú: Thủ tục hành chính tương ứng đã được Chủ tịch Ủy ban nhân dân tỉnh công bố tại Danh mục kèm theo các Quyết định số 683/QĐ-UBND ngày 11/4/2025, Quyết định số 1244/QĐ-UBND ngày 25/6/2025, Quyết định số 1282/QĐ-UBND ngày 25/6/2025 hết hiệu lực khi Quyết định này có hiệu lực thi hành."
+   },
+   {
+    "source_path": "Phụ lục 2",
+    "action": "bai-bo",
+    "target_document": "1244/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Thủ tục hành chính tương ứng tại Danh mục kèm theo Quyết định",
+    "evidence": "Ghi chú: Thủ tục hành chính tương ứng đã được Chủ tịch Ủy ban nhân dân tỉnh công bố tại Danh mục kèm theo các Quyết định số 683/QĐ-UBND ngày 11/4/2025, Quyết định số 1244/QĐ-UBND ngày 25/6/2025, Quyết định số 1282/QĐ-UBND ngày 25/6/2025 hết hiệu lực khi Quyết định này có hiệu lực thi hành."
+   },
+   {
+    "source_path": "Phụ lục 2",
+    "action": "bai-bo",
+    "target_document": "1282/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Thủ tục hành chính tương ứng tại Danh mục kèm theo Quyết định",
+    "evidence": "Ghi chú: Thủ tục hành chính tương ứng đã được Chủ tịch Ủy ban nhân dân tỉnh công bố tại Danh mục kèm theo các Quyết định số 683/QĐ-UBND ngày 11/4/2025, Quyết định số 1244/QĐ-UBND ngày 25/6/2025, Quyết định số 1282/QĐ-UBND ngày 25/6/2025 hết hiệu lực khi Quyết định này có hiệu lực thi hành."
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Phụ lục 1",
+    "loai": "thieu_noi_dung",
+    "ghi_chu": "Đoạn 'Ghi chú' dưới bảng tuyên bố TTHC tương ứng công bố tại QĐ 683, 1244, 1282/QĐ-UBND hết hiệu lực. Đoạn này không có trong DON_VI."
+   },
+   {
+    "source_path": "Phụ lục 2",
+    "loai": "thieu_noi_dung",
+    "ghi_chu": "Đoạn 'Ghi chú' cuối Quy trình (sau mục 28) lặp lại tuyên bố hết hiệu lực. Đoạn này không có trong DON_VI."
+   }
+  ],
+  "ghi_chu": "Điều 1 chỉ công bố danh mục và phê duyệt quy trình: không là hành động. Các dòng bảng Phụ lục 1 không nêu quyết định đã công bố TTHC: không ghi quan hệ theo dòng. Đoạn 'Ghi chú' dưới bảng Phụ lục 1 và cuối Phụ lục 2 tuyên bố TTHC tương ứng công bố tại Danh mục kèm theo QĐ 683, 1244, 1282/QĐ-UBND hết hiệu lực khi Quyết định này có hiệu lực: ghi bai-bo ở cả hai nơi. Ghi chú Phụ lục 2 nằm sau mục 28 nhưng là ghi chú chung, nên ghi 'Phụ lục 2', không ghi 'Phụ lục 2 Mục 28'. Phụ lục 1 in '1282/QĐ- UBND' (dấu cách thừa), ghi chuẩn 1282/QĐ-UBND."
+ },
+ {
+  "doc_id": "689889",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "3054/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "đồng thời bãi bỏ Quyết định số 3054/QĐ-UBND ngày 16 tháng 12 năm 2025 của Chủ tịch Ủy ban nhân dân thành phố Cần Thơ"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 2 còn bãi bỏ 'các thủ tục hành chính tương ứng được công bố tại các Quyết định của Chủ tịch UBND thành phố Cần Thơ, tỉnh Hậu Giang, tỉnh Sóc Trăng (trước đây)': câu không nêu số hiệu, không ghi quan hệ. Mục B Phụ lục 1 (TTHC bãi bỏ, 3 dòng) không nêu quyết định đã công bố TTHC: không ghi quan hệ. Điều 1 chỉ công bố danh mục."
+ }
+]

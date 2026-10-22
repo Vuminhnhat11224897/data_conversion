@@ -1,0 +1,41 @@
+[
+ {
+  "doc_id": "695696",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quyết định công bố Danh mục VBQPPL hết hiệu lực, tạm ngưng hiệu lực năm 2025 (kết quả hệ thống hóa). Các dòng ở Phụ lục 1 (64 văn bản hết hiệu lực một phần) và Phụ lục 2 (29 văn bản hết hiệu lực toàn bộ) chỉ nêu tình trạng do văn bản khác gây ra ('Được sửa đổi, bổ sung bởi', 'Bị bãi bỏ bởi', 'Thay thế bằng … tại', 'Hết hiệu lực theo quy định tại'); văn bản này không tự bãi bỏ, thay thế hay tuyên bố văn bản nào hết hiệu lực: không có quan hệ. Chữ 'Bãi bỏ điểm g khoản 7 Điều 7' ở dòng STT 43 Phụ lục 1 chỉ mô tả nội dung đã bị Luật 53/2024/QH15 bãi bỏ."
+ },
+ {
+  "doc_id": "685991",
+  "relations": [
+   {
+    "source_path": "Điều 1",
+    "action": "quy-dinh-chi-tiet",
+    "target_document": "35/2024/QH15",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 5 Điều 30"
+    ],
+    "doi_tuong": null,
+    "evidence": "Quyết định này quy định chi tiết khoản 5 Điều 30 Luật Đường bộ số 35/2024/QH15 về trình tự, thủ tục chấp thuận thiết kế và trình tự, thủ tục cấp phép thi công nút giao đối với đường địa phương đang khai thác trên địa bàn tỉnh Gia Lai."
+   },
+   {
+    "source_path": "Điều 10 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "45/2025/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 45/2025/QĐ-UBND ngày 10 tháng 6 năm 2025 của Ủy ban nhân dân tỉnh Bình Định ban hành quy định trình tự, thủ tục chấp thuận thiết kế và trình tự, thủ tục cấp phép thi công nút giao đối với đường địa phương đang khai thác trên địa bàn tỉnh Bình Định hết hiệu lực kể từ ngày Quyết định này có hiệu lực thi hành."
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Phụ lục 1",
+    "loai": "tach_sai",
+    "ghi_chu": "Đề mục chung 'PHỤ LỤC (Ban hành kèm theo Quyết định số 85/2025/QĐ-UBND …)' bị tách thành phụ lục riêng không có nội dung; Phụ lục I là so 2, Phụ lục II là so 3. Không ảnh hưởng quan hệ."
+   }
+  ],
+  "ghi_chu": "Điều 1 quy định chi tiết khoản 5 Điều 30 Luật Đường bộ 35/2024/QH15; Điều 10 khoản 2 tuyên bố QĐ 45/2025/QĐ-UBND của UBND tỉnh Bình Định hết hiệu lực. Căn cứ ban hành và các dòng 'Căn cứ Quyết định số …/2025/QĐ-UBND' trong mẫu biểu Phụ lục I, II không phải quan hệ; 'chấp thuận', 'hướng dẫn' ở Điều 4-9 là thủ tục, nhiệm vụ, không tác động lên văn bản khác."
+ }
+]

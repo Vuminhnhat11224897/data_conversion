@@ -1,0 +1,77 @@
+[
+ {
+  "doc_id": "683488",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quyết định phê duyệt Đề án sắp xếp đơn vị sự nghiệp công lập, doanh nghiệp nhà nước, tổ chức hành chính; DON_VI rỗng. Các cụm 'sửa đổi, bổ sung', 'hợp nhất' trong Đề án là căn cứ, trích dẫn, nhiệm vụ giao cơ quan hoặc sắp xếp tổ chức, không tác động trực tiếp lên văn bản nào."
+ },
+ {
+  "doc_id": "686252",
+  "relations": [
+   {
+    "source_path": "Điều 3",
+    "action": "bai-bo",
+    "target_document": "61/2021/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [
+     "toàn bộ"
+    ],
+    "doi_tuong": null,
+    "evidence": "bãi bỏ các nghị quyết sau: a) Toàn bộ Nghị quyết số 61/2021/NQ-HĐND ngày 10 tháng 12 năm 2021 của Hội đồng nhân dân tỉnh Bắc Giang"
+   },
+   {
+    "source_path": "Điều 3",
+    "action": "bai-bo",
+    "target_document": "43/2023/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "bãi bỏ các nghị quyết sau: b) khoản 2 Điều 1 Nghị quyết số 43/2023/NQ-HĐND ngày 14 tháng 7 năm 2023 của Hội đồng nhân dân tỉnh Bắc Giang"
+   },
+   {
+    "source_path": "Điều 3",
+    "action": "bai-bo",
+    "target_document": "10/2021/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [
+     "toàn bộ"
+    ],
+    "doi_tuong": null,
+    "evidence": "bãi bỏ các nghị quyết sau: c) Toàn bộ Nghị quyết số 10/2021/NQ-HĐND ngày 29 tháng 9 năm 2021 của Hội đồng nhân dân tỉnh Bắc Ninh"
+   },
+   {
+    "source_path": "Điều 3",
+    "action": "bai-bo",
+    "target_document": "05/2024/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "bãi bỏ các nghị quyết sau: d) Khoản 2 Điều 3 Nghị quyết số 05/2024/NQ-HĐND ngày 28 tháng 6 năm 2024 của Hội đồng nhân dân tỉnh Bắc Ninh"
+   },
+   {
+    "source_path": "Điều 3",
+    "action": "bai-bo",
+    "target_document": "13/2025/NQ-HĐND",
+    "target_section": "khong_ro",
+    "vi_tri": [
+     "Điều 5",
+     "Điều 6"
+    ],
+    "doi_tuong": null,
+    "evidence": "bãi bỏ các nghị quyết sau: đ) Điều 5, Điều 6 Nghị quyết số 13/2025/NQ-HĐND ngày 19 tháng 02 năm 2025 của Hội đồng nhân dân tỉnh Bắc Giang"
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Phụ lục 3",
+    "loai": "gop_sai",
+    "ghi_chu": "PHU_LUC không có Phụ lục III (Mẫu số 01-10) dù toàn văn có. Phụ lục II (so 3) ghi chia Điều: True dù chỉ là bảng 7 dòng: có thể Phụ lục III bị gộp vào Phụ lục II và 'Điều 1', 'Điều 2' của Mẫu số 10 bị nhận thành Điều. Không ảnh hưởng quan hệ."
+   }
+  ],
+  "ghi_chu": "Điều 3 bãi bỏ 5 mục a-đ. Mục b chỉ bãi bỏ khoản 2 Điều 1 NQ 43/2023; phần sau là tên NQ 43/2023 (sửa đổi NQ 17/2019 và NQ 61/2021), không phải hành động của văn bản này. Mục đ: NQ 13/2025 ban hành kèm Quy định, câu không nói Điều 5, Điều 6 thuộc phần nào nên ghi khong_ro. Mục a, c ghi vi_tri 'toàn bộ' theo chữ 'Toàn bộ' trong câu. Điều 9 Quy định (chuyển tiếp) chỉ nêu lại các nghị quyết bị bãi bỏ, không phải quan hệ. NQ 61/2021, 43/2023, 13/2025 của HĐND tỉnh Bắc Giang; NQ 10/2021, 05/2024 của HĐND tỉnh Bắc Ninh."
+ }
+]

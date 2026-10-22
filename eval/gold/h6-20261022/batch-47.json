@@ -1,0 +1,49 @@
+[
+ {
+  "doc_id": "688045",
+  "relations": [
+   {
+    "source_path": "Điều 58",
+    "action": "bo-sung",
+    "target_document": "254/2025/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 45"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung quy định sau điểm c khoản 1 Điều 45 Nghị định số 254/2025/NĐ-CP ngày 26 tháng 9 năm 2025 của Chính phủ quy định về quản lý, thanh toán, quyết toán sử dụng vốn đầu tư công như sau:"
+   },
+   {
+    "source_path": "Điều 59 Khoản 2 điểm a",
+    "action": "bai-bo",
+    "target_document": "27/2022/NĐ-CP",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị định số 27/2022/NĐ-CP ngày 19 tháng 4 năm 2022 của Chính phủ quy định cơ chế quản lý, tổ chức thực hiện các chương trình mục tiêu quốc gia."
+   },
+   {
+    "source_path": "Điều 59 Khoản 2 điểm b",
+    "action": "bai-bo",
+    "target_document": "38/2023/NĐ-CP",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị định số 38/2023/NĐ-CP ngày 24 tháng 6 năm 2023 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 27/2022/NĐ-CP ngày 19 tháng 4 năm 2022 của Chính phủ quy định cơ chế quản lý, tổ chức thực hiện các chương trình mục tiêu quốc gia."
+   },
+   {
+    "source_path": "Điều 59 Khoản 2 điểm c",
+    "action": "bai-bo",
+    "target_document": "125/2025/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Khoản 2 Điều 5 Nghị định số 125/2025/NĐ-CP ngày 11 tháng 6 năm 2025 của Chính phủ quy định về phân định thẩm quyền của chính quyền địa phương 02 cấp trong lĩnh vực quản lý nhà nước của Bộ Tài chính."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Hành động bãi bỏ ở câu dẫn khoản 2 Điều 59 (\"Bãi bỏ các quy định sau đây:\"); mỗi điểm a, b, c là một quan hệ. Điều 58 bổ sung một đoạn mới sau điểm c khoản 1 Điều 45 NĐ 254/2025/NĐ-CP; câu không nói đoạn này thuộc điểm c, nên vi_tri ghi khoản chứa nó (khoản 1 Điều 45). Điều 57 khoản 2 cho tiếp tục áp dụng Chương IV và Điều 24 NĐ 27/2022/NĐ-CP, khoản 12, 13, 14 Điều 1 NĐ 38/2023/NĐ-CP, khoản 2 Điều 5 NĐ 125/2025/NĐ-CP đến hết giai đoạn 2021-2025: đây là quy định chuyển tiếp, không thuộc loại hành động nào trong quy ước, không ghi quan hệ. Điều 57 khoản 1 và Điều 59 khoản 4 là câu chung, không nêu văn bản đích. Căn cứ (Luật 58/2024/QH15, 90/2025/QH15...) không phải quan hệ. Tên văn bản và lời dẫn không nêu văn bản đích. Phụ lục chỉ có Mẫu số 01-08, không có hành động."
+ }
+]

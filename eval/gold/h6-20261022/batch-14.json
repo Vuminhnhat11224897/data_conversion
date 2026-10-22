@@ -1,0 +1,242 @@
+[
+ {
+  "doc_id": "689822",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn giao nhiệm vụ triển khai NQ 263/2025/QH15 và 265/2025/QH15. Phụ lục là bảng phân công; các dòng như 4.2 'Ban hành Nghị định sửa đổi, bổ sung Nghị định số 67/2014/NĐ-CP' là giao nhiệm vụ, không ghi."
+ },
+ {
+  "doc_id": "691066",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "2248/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục I"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ 01 thủ tục hành chính cấp xã lĩnh vực hòa giải ở cơ sở (thủ tục hành chính số 01) được ban hành tại Phụ lục I kèm theo Quyết định số 2248/QĐ-UBND ngày 27/6/2025 của Chủ tịch UBND tỉnh"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 1 công bố danh mục TTHC sửa đổi, bổ sung (Phụ lục I), dòng không nêu văn bản đích: không ghi. Bãi bỏ ghi ở Điều 2 vì chữ hành động và đích nằm ở Điều 2; dòng STT 1 Phụ lục II là cùng TTHC đó nên không ghi thêm quan hệ Phụ lục 2 STT 1."
+ },
+ {
+  "doc_id": "689698",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Thông báo kết luận. 'QĐ 48/QĐ-TTg sửa đổi, bổ sung QĐ 389/QĐ-TTg' chỉ là trích dẫn; rà soát, đề xuất sửa đổi là giao nhiệm vụ. Không có tác động."
+ },
+ {
+  "doc_id": "681112",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công bố 08 TTHC nội bộ lĩnh vực môi trường; không thay thế, bãi bỏ văn bản nào. Các 'được sửa đổi, bổ sung tại' trong căn cứ pháp lý là ghi chú."
+ },
+ {
+  "doc_id": "688311",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn trả lời kiến nghị cử tri; không có tác động."
+ },
+ {
+  "doc_id": "680648",
+  "relations": [
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bai-bo",
+    "target_document": "114/2024/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị quyết số 114/2024/NQ-HĐND ngày 10 tháng 12 năm 2024 của Hội đồng nhân dân tỉnh Nam Định quy định thẩm quyền quyết định việc mua sắm tài sản, hàng hóa, dịch vụ đối với dự toán mua sắm thuộc phạm vi quản lý của tỉnh Nam Định."
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "115/2024/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị quyết số 115/2024/NQ-HĐND ngày 10 tháng 12 năm 2024 của Hội đồng nhân dân tỉnh Nam Định quy định thẩm quyền quản lý, sử dụng tài sản công thuộc phạm vi quản lý của tỉnh Nam Định."
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "bai-bo",
+    "target_document": "57/2020/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị quyết số 57/2020/NQ-HĐND ngày 08 tháng 12 năm 2020 của Hội đồng nhân dân tỉnh Nam Định quy định về phân cấp thẩm quyền xác lập quyền sở hữu toàn dân về tài sản"
+   },
+   {
+    "source_path": "Điều 1 Khoản 4",
+    "action": "bai-bo",
+    "target_document": "117/2024/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị quyết số 117/2024/NQ-HĐND ngày 10 tháng 12 năm 2024 của Hội đồng nhân dân tỉnh Nam Định sửa đổi, bổ sung Nghị quyết số 57/2020/NQ- HĐND ngày 08 tháng 12 năm 2020"
+   },
+   {
+    "source_path": "Điều 1 Khoản 5",
+    "action": "bai-bo",
+    "target_document": "06/2024/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị quyết số 06/2024/NQ-HĐND ngày 10 tháng 7 năm 2024 của Hội đồng nhân dân tỉnh Ninh Bình quy định thẩm quyền quyết định việc mua sắm tài sản của các nhiệm vụ khoa học và công nghệ sử dụng ngân sách nhà nước"
+   },
+   {
+    "source_path": "Điều 1 Khoản 6",
+    "action": "bai-bo",
+    "target_document": "05/2024/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị quyết số 05/2024/NQ-HĐND ngày 10 tháng 7 năm 2024 của Hội đồng nhân dân tỉnh Ninh Bình về việc thông qua Hệ số điều chỉnh giá đất năm 2024 trên địa bàn tỉnh Ninh Bình."
+   },
+   {
+    "source_path": "Điều 1 Khoản 7",
+    "action": "bai-bo",
+    "target_document": "27/2024/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị quyết số 27/2024/NQ-HĐND ngày 04 tháng 12 năm 2024 của Hội đồng nhân dân tỉnh Ninh Bình sửa đổi, bổ sung Nghị quyết số 12/2024/NQ- HĐND ngày 20 tháng 9 năm 2024"
+   },
+   {
+    "source_path": "Điều 2 Khoản 1",
+    "action": "bai-bo",
+    "target_document": "26/2024/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 1 Điều 1",
+     "điểm b khoản 1 Điều 1",
+     "điểm c khoản 1 Điều 1",
+     "khoản 2 Điều 1",
+     "khoản 3 Điều 1",
+     "khoản 2 Điều 2",
+     "Chương II",
+     "Chương III",
+     "Chương IV"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ điểm a, b, c khoản 1, khoản 2, khoản 3 Điều 1 và khoản 2 Điều 2 Chương I; Chương II; Chương III; Chương IV quy định thẩm quyền quyết định trong việc quản lý"
+   },
+   {
+    "source_path": "Điều 2 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "12/2024/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm a khoản 1 Điều 1",
+     "điểm c khoản 1 Điều 1",
+     "điểm d khoản 1 Điều 1",
+     "điểm đ khoản 1 Điều 1",
+     "điểm e khoản 1 Điều 1",
+     "khoản 2 Điều 1",
+     "điểm d khoản 1 Điều 2",
+     "Điều 3",
+     "Điều 4",
+     "Điều 6",
+     "Điều 7",
+     "Điều 8",
+     "Điều 9",
+     "Điều 10",
+     "Điều 11",
+     "Điều 12",
+     "Điều 13",
+     "Điều 14",
+     "Điều 15",
+     "Điều 16",
+     "Điều 17"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ điểm a, c, d, đ, e khoản 1, khoản 2 Điều 1 và điểm d khoản 1 Điều 2 Chương I; Điều 3, 4, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17 Chương II Quy định ban hành kèm theo Nghị quyết"
+   },
+   {
+    "source_path": "Điều 2 Khoản 3",
+    "action": "bai-bo",
+    "target_document": "44/2021/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ Điều 3 Chương II Quy định ban hành kèm theo Nghị quyết quy định về phân cấp thẩm quyền phê duyệt Đề án cho thuê quyền khai thác đối với tài sản kết cấu hạ tầng thủy lợi thuộc phạm vi quản lý của tỉnh Nam Định."
+   },
+   {
+    "source_path": "Điều 2 Khoản 4",
+    "action": "bai-bo",
+    "target_document": "67/2019/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ Điều 1 quy định về phân cấp thẩm quyền phê duyệt Đề án cho thuê quyền khai thác đối với tài sản kết cấu hạ tầng thủy lợi thuộc phạm vi quản lý của tỉnh Ninh Bình."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên NQ 'Bãi bỏ một số Nghị quyết…' không nêu số hiệu: không ghi Phần đầu. Điều 1 bãi bỏ toàn bộ 7 NQ (chữ hành động ở tên Điều). Điều 2 khoản 1 và 4 không nói 'Quy định ban hành kèm theo' nên ghi quyet_dinh; khoản 2, 3 nói rõ kèm theo."
+ },
+ {
+  "doc_id": "676416",
+  "relations": [
+   {
+    "source_path": "Điều 3",
+    "action": "thay-the",
+    "target_document": "3002/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thay thế Quyết định số 3002/QĐ-UBND ngày 19 tháng 9 năm 2025 của Chủ tịch UBND thành phố Huế về việc phê duyệt quy trình nội bộ giải quyết thủ tục hành chính thực hiện theo cơ chế một cửa, một cửa liên thông trong lĩnh vực địa chất và khoáng sản thuộc thẩm quyền giải quyết của Sở Nông nghiệp và Môi trường và UBND cấp xã."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Toàn văn chỉ có Phụ lục I (Phụ lục II, III ở file đính kèm); không ảnh hưởng quan hệ."
+ },
+ {
+  "doc_id": "678677",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều chỉnh kế hoạch đầu tư công trung hạn 2021-2025, kế hoạch năm 2025 và gia hạn bố trí vốn dự án: không nêu số hiệu văn bản đích (đích là kế hoạch, dự án), không ghi."
+ },
+ {
+  "doc_id": "689953",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn trả lời cử tri; các văn bản sửa đổi chỉ được kể lại. Không có tác động."
+ },
+ {
+  "doc_id": "688833",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Kế hoạch triển khai thực hiện QĐ 05/QĐ-TTg: 'triển khai thực hiện' không thuộc danh sách hành động; 'đề xuất sửa đổi, bổ sung' là nhiệm vụ. noi_dung Mục III, IV trong DON_VI bị cắt; đã đọc toàn văn."
+ },
+ {
+  "doc_id": "694947",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Thành lập Khu kinh tế chuyên biệt Hải Phòng; không có tác động lên văn bản khác."
+ },
+ {
+  "doc_id": "683983",
+  "relations": [
+   {
+    "source_path": "Điều 6 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "18/2016/TT-BTTTT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thông tư số 18/2016/TT-BTTTT ngày 28 tháng 6 năm 2016 của Bộ trưởng Bộ Thông tin và Truyền thông quy định về danh mục kênh chương trình truyền hình phục vụ nhiệm vụ chính trị, thông tin tuyên truyền thiết yếu của quốc gia và của địa phương hết hiệu lực kể từ ngày Thông tư này có hiệu lực thi hành."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 6 khoản 2 tuyên bố TT 18/2016/TT-BTTTT hết hiệu lực: bai-bo. Điều 4 khoản 3 (Bộ trưởng xem xét, điều chỉnh danh mục) là thẩm quyền, không ghi."
+ }
+]

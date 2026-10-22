@@ -1,0 +1,454 @@
+[
+ {
+  "doc_id": "695440",
+  "relations": [],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 2 Khoản 2 điểm đ",
+    "loai": "gop_sai",
+    "ghi_chu": "Toàn văn có hai điểm cùng ký hiệu đ) (điểm thứ hai lẽ ra là e)); đơn vị điểm đ gộp cả hai điểm."
+   }
+  ],
+  "ghi_chu": "Không có tác động lên văn bản khác; các từ 'hủy bỏ', 'điều chỉnh', 'bổ sung' chỉ mô tả hành vi vi phạm hoặc trách nhiệm."
+ },
+ {
+  "doc_id": "679058",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Không có quan hệ; 'theo quy định tại Điều 4 Nghị quyết số 07/2025/NQ-CP' ở Điều 1 là dẫn chiếu phạm vi, không phải hành động."
+ },
+ {
+  "doc_id": "688100",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Phê duyệt nhiệm vụ lập quy hoạch di tích; không có tác động lên văn bản khác."
+ },
+ {
+  "doc_id": "684838",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "61/QĐ-KTNN",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực kể từ ngày ký và thay thế Quyết định số 61/QĐ-KTNN ngày 10 tháng 02 năm 2023 của Tổng Kiểm toán nhà nước về việc ban hành Hướng dẫn phương pháp tiếp cận kiểm toán dựa trên đánh giá rủi ro và xác định trọng yếu trong kiểm toán Báo cáo tài chính doanh nghiệp."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 2 thay thế toàn bộ Quyết định số 61/QĐ-KTNN; tên văn bản không nêu văn bản đích."
+ },
+ {
+  "doc_id": "677490",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công bố danh mục TTHC; không dòng nào nêu sửa đổi, thay thế, bãi bỏ; văn bản ở cột Căn cứ pháp lý không phải đích."
+ },
+ {
+  "doc_id": "685988",
+  "relations": [
+   {
+    "source_path": "Điều 2 Khoản 2 điểm a",
+    "action": "bai-bo",
+    "target_document": "24/2016/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Các quyết định hết hiệu lực thi hành kể từ ngày Quyết định này có hiệu lực thi hành gồm: Quyết định số 24/2016/QĐ-UBND ngày 16 tháng 5 năm 2016 của Ủy ban nhân dân tỉnh Gia Lai"
+   },
+   {
+    "source_path": "Điều 2 Khoản 2 điểm b",
+    "action": "bai-bo",
+    "target_document": "30/2017/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Các quyết định hết hiệu lực thi hành kể từ ngày Quyết định này có hiệu lực thi hành gồm: Quyết định số 30/2017/QĐ-UBND ngày 12 tháng 10 năm 2017 của Ủy ban nhân dân tỉnh Gia Lai"
+   },
+   {
+    "source_path": "Điều 2 Khoản 2 điểm c",
+    "action": "bai-bo",
+    "target_document": "35/2022/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Các quyết định hết hiệu lực thi hành kể từ ngày Quyết định này có hiệu lực thi hành gồm: Quyết định số 35/2022/QĐ-UBND ngày 04 tháng 10 năm 2022 của Ủy ban nhân dân tỉnh Gia Lai"
+   },
+   {
+    "source_path": "Điều 2 Khoản 2 điểm d",
+    "action": "bai-bo",
+    "target_document": "60/2016/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Các quyết định hết hiệu lực thi hành kể từ ngày Quyết định này có hiệu lực thi hành gồm: Quyết định số 60/2016/QĐ-UBND ngày 25 tháng 11 năm 2016 của Ủy ban nhân dân tỉnh Bình Định"
+   },
+   {
+    "source_path": "Điều 2 Khoản 2 điểm đ",
+    "action": "bai-bo",
+    "target_document": "02/2018/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Các quyết định hết hiệu lực thi hành kể từ ngày Quyết định này có hiệu lực thi hành gồm: Quyết định số 02/2018/QĐ-UBND ngày 17 tháng 01 năm 2018 của Ủy ban nhân dân tỉnh Bình Định"
+   },
+   {
+    "source_path": "Điều 2 Khoản 2 điểm e",
+    "action": "bai-bo",
+    "target_document": "46/2018/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Các quyết định hết hiệu lực thi hành kể từ ngày Quyết định này có hiệu lực thi hành gồm: Quyết định số 46/2018/QĐ-UBND ngày 10 tháng 10 năm 2018 của Ủy ban nhân dân tỉnh Bình Định"
+   },
+   {
+    "source_path": "Điều 2 Khoản 2 điểm g",
+    "action": "bai-bo",
+    "target_document": "69/2020/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Các quyết định hết hiệu lực thi hành kể từ ngày Quyết định này có hiệu lực thi hành gồm: Quyết định số 69/2020/QĐ-UBND ngày 21 tháng 10 năm 2020 của Ủy ban nhân dân tỉnh Bình Định"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Khoản 2 Điều 2 tuyên bố 7 quyết định hết hiệu lực từ ngày văn bản này có hiệu lực → bai-bo, mỗi điểm một quan hệ. Khoản 1 Điều 9 Quy định (dẫn chiếu văn bản được sửa đổi, thay thế) không phải quan hệ."
+ },
+ {
+  "doc_id": "691293",
+  "relations": [
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "3091/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "14 thủ tục hành chính bị bãi bỏ (chi tiết tại Phụ lục II)",
+    "evidence": "Danh mục thủ tục hành chính bị bãi bỏ: 14 thủ tục hành chính được công bố tại Quyết định số 3091/QĐ-UBND ngày 04/10/2023"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "2038/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "14 thủ tục hành chính bị bãi bỏ (chi tiết tại Phụ lục II)",
+    "evidence": "Danh mục thủ tục hành chính bị bãi bỏ: 14 thủ tục hành chính được công bố tại Quyết định số 3091/QĐ-UBND ngày 04/10/2023 về việc công bố danh mục thủ tục hành chính mới ban hành, sửa đổi, bổ sung, bãi bỏ lĩnh vực khoa học và công nghệ trên địa bàn thành phố Hải Phòng; Quyết định số 2038/QĐ-UBND ngày 25/6/2025"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "3368/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "14 thủ tục hành chính bị bãi bỏ (chi tiết tại Phụ lục II)",
+    "evidence": "Danh mục thủ tục hành chính bị bãi bỏ: 14 thủ tục hành chính được công bố tại Quyết định số 3091/QĐ-UBND ngày 04/10/2023 về việc công bố danh mục thủ tục hành chính mới ban hành, sửa đổi, bổ sung, bãi bỏ lĩnh vực khoa học và công nghệ trên địa bàn thành phố Hải Phòng; Quyết định số 2038/QĐ-UBND ngày 25/6/2025 về việc công bố thủ tục hành chính mới ban hành, được sửa đổi, bổ sung và bị bãi bỏ theo quy định về phân quyền, phân cấp, phân định thẩm quyền trong lĩnh vực quản lý nhà nước của Bộ Khoa học và Công nghệ và Quyết định số 3368/QĐ-UBND ngày 20/8/2025 Chủ tịch Ủy ban nhân dân thành phố về việc công bố danh mục thủ tục hành chính mới ban hành lĩnh vực an toàn bức xạ và hạt nhân thuộc phạm vi, chức năng quản lý của Sở Khoa học và Công nghệ (Chi tiết, có Phụ lục II đính kèm)."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Khoản 2 Điều 1 nêu TTHC bị bãi bỏ được công bố tại 3 quyết định → 3 quan hệ bai-bo (quy ước danh mục TTHC bị bãi bỏ có nêu quyết định công bố); câu không nói TTHC nào thuộc quyết định nào. Dòng Phụ lục II không nêu quyết định công bố; Luật 94/2025/QH15, Nghị định 332/2025/NĐ-CP ở cột văn bản quy định việc bãi bỏ là căn cứ, không phải đích."
+ },
+ {
+  "doc_id": "697282",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn trả lời doanh nghiệp; chỉ căn cứ Nghị định 15/2018/NĐ-CP, Thông tư 38/2015/TT-BTC ('được sửa đổi, bổ sung tại…' là ghi chú lịch sử); V/v không nêu văn bản đích → không có quan hệ."
+ },
+ {
+  "doc_id": "686752",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "16/2012/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ các Quyết định quy phạm pháp luật do Ủy ban nhân dân tỉnh Bình Định (trước sắp xếp) và Ủy ban nhân dân tỉnh Gia Lai (trước sắp xếp) ban hành thuộc lĩnh vực tài chính (chi tiết tại mục II theo phụ lục đính kèm)."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "31/2012/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ các Quyết định quy phạm pháp luật do Ủy ban nhân dân tỉnh Bình Định (trước sắp xếp) và Ủy ban nhân dân tỉnh Gia Lai (trước sắp xếp) ban hành thuộc lĩnh vực tài chính (chi tiết tại mục II theo phụ lục đính kèm)."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "23/2013/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ các Quyết định quy phạm pháp luật do Ủy ban nhân dân tỉnh Bình Định (trước sắp xếp) và Ủy ban nhân dân tỉnh Gia Lai (trước sắp xếp) ban hành thuộc lĩnh vực tài chính (chi tiết tại mục II theo phụ lục đính kèm)."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "18/2015/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ các Quyết định quy phạm pháp luật do Ủy ban nhân dân tỉnh Bình Định (trước sắp xếp) và Ủy ban nhân dân tỉnh Gia Lai (trước sắp xếp) ban hành thuộc lĩnh vực tài chính (chi tiết tại mục II theo phụ lục đính kèm)."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "33/2017/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ các Quyết định quy phạm pháp luật do Ủy ban nhân dân tỉnh Bình Định (trước sắp xếp) và Ủy ban nhân dân tỉnh Gia Lai (trước sắp xếp) ban hành thuộc lĩnh vực tài chính (chi tiết tại mục II theo phụ lục đính kèm)."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "37/2017/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ các Quyết định quy phạm pháp luật do Ủy ban nhân dân tỉnh Bình Định (trước sắp xếp) và Ủy ban nhân dân tỉnh Gia Lai (trước sắp xếp) ban hành thuộc lĩnh vực tài chính (chi tiết tại mục II theo phụ lục đính kèm)."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "38/2017/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ các Quyết định quy phạm pháp luật do Ủy ban nhân dân tỉnh Bình Định (trước sắp xếp) và Ủy ban nhân dân tỉnh Gia Lai (trước sắp xếp) ban hành thuộc lĩnh vực tài chính (chi tiết tại mục II theo phụ lục đính kèm)."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "70/2017/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ các Quyết định quy phạm pháp luật do Ủy ban nhân dân tỉnh Bình Định (trước sắp xếp) và Ủy ban nhân dân tỉnh Gia Lai (trước sắp xếp) ban hành thuộc lĩnh vực tài chính (chi tiết tại mục II theo phụ lục đính kèm)."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "71/2017/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ các Quyết định quy phạm pháp luật do Ủy ban nhân dân tỉnh Bình Định (trước sắp xếp) và Ủy ban nhân dân tỉnh Gia Lai (trước sắp xếp) ban hành thuộc lĩnh vực tài chính (chi tiết tại mục II theo phụ lục đính kèm)."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "72/2017/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ các Quyết định quy phạm pháp luật do Ủy ban nhân dân tỉnh Bình Định (trước sắp xếp) và Ủy ban nhân dân tỉnh Gia Lai (trước sắp xếp) ban hành thuộc lĩnh vực tài chính (chi tiết tại mục II theo phụ lục đính kèm)."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "73/2017/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ các Quyết định quy phạm pháp luật do Ủy ban nhân dân tỉnh Bình Định (trước sắp xếp) và Ủy ban nhân dân tỉnh Gia Lai (trước sắp xếp) ban hành thuộc lĩnh vực tài chính (chi tiết tại mục II theo phụ lục đính kèm)."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "02/2018/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ các Quyết định quy phạm pháp luật do Ủy ban nhân dân tỉnh Bình Định (trước sắp xếp) và Ủy ban nhân dân tỉnh Gia Lai (trước sắp xếp) ban hành thuộc lĩnh vực tài chính (chi tiết tại mục II theo phụ lục đính kèm)."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "53/2018/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ các Quyết định quy phạm pháp luật do Ủy ban nhân dân tỉnh Bình Định (trước sắp xếp) và Ủy ban nhân dân tỉnh Gia Lai (trước sắp xếp) ban hành thuộc lĩnh vực tài chính (chi tiết tại mục II theo phụ lục đính kèm)."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "56/2018/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ các Quyết định quy phạm pháp luật do Ủy ban nhân dân tỉnh Bình Định (trước sắp xếp) và Ủy ban nhân dân tỉnh Gia Lai (trước sắp xếp) ban hành thuộc lĩnh vực tài chính (chi tiết tại mục II theo phụ lục đính kèm)."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "57/2018/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ các Quyết định quy phạm pháp luật do Ủy ban nhân dân tỉnh Bình Định (trước sắp xếp) và Ủy ban nhân dân tỉnh Gia Lai (trước sắp xếp) ban hành thuộc lĩnh vực tài chính (chi tiết tại mục II theo phụ lục đính kèm)."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "28/2019/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ các Quyết định quy phạm pháp luật do Ủy ban nhân dân tỉnh Bình Định (trước sắp xếp) và Ủy ban nhân dân tỉnh Gia Lai (trước sắp xếp) ban hành thuộc lĩnh vực tài chính (chi tiết tại mục II theo phụ lục đính kèm)."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "29/2019/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ các Quyết định quy phạm pháp luật do Ủy ban nhân dân tỉnh Bình Định (trước sắp xếp) và Ủy ban nhân dân tỉnh Gia Lai (trước sắp xếp) ban hành thuộc lĩnh vực tài chính (chi tiết tại mục II theo phụ lục đính kèm)."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "28/2019/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ các Quyết định quy phạm pháp luật do Ủy ban nhân dân tỉnh Bình Định (trước sắp xếp) và Ủy ban nhân dân tỉnh Gia Lai (trước sắp xếp) ban hành thuộc lĩnh vực tài chính (chi tiết tại mục II theo phụ lục đính kèm)."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "63/2019/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ các Quyết định quy phạm pháp luật do Ủy ban nhân dân tỉnh Bình Định (trước sắp xếp) và Ủy ban nhân dân tỉnh Gia Lai (trước sắp xếp) ban hành thuộc lĩnh vực tài chính (chi tiết tại mục II theo phụ lục đính kèm)."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "71/2019/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ các Quyết định quy phạm pháp luật do Ủy ban nhân dân tỉnh Bình Định (trước sắp xếp) và Ủy ban nhân dân tỉnh Gia Lai (trước sắp xếp) ban hành thuộc lĩnh vực tài chính (chi tiết tại mục II theo phụ lục đính kèm)."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "01/2020/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ các Quyết định quy phạm pháp luật do Ủy ban nhân dân tỉnh Bình Định (trước sắp xếp) và Ủy ban nhân dân tỉnh Gia Lai (trước sắp xếp) ban hành thuộc lĩnh vực tài chính (chi tiết tại mục II theo phụ lục đính kèm)."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "20/2023/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ các Quyết định quy phạm pháp luật do Ủy ban nhân dân tỉnh Bình Định (trước sắp xếp) và Ủy ban nhân dân tỉnh Gia Lai (trước sắp xếp) ban hành thuộc lĩnh vực tài chính (chi tiết tại mục II theo phụ lục đính kèm)."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "61/2023/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ các Quyết định quy phạm pháp luật do Ủy ban nhân dân tỉnh Bình Định (trước sắp xếp) và Ủy ban nhân dân tỉnh Gia Lai (trước sắp xếp) ban hành thuộc lĩnh vực tài chính (chi tiết tại mục II theo phụ lục đính kèm)."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "31/2024/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ các Quyết định quy phạm pháp luật do Ủy ban nhân dân tỉnh Bình Định (trước sắp xếp) và Ủy ban nhân dân tỉnh Gia Lai (trước sắp xếp) ban hành thuộc lĩnh vực tài chính (chi tiết tại mục II theo phụ lục đính kèm)."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "01/2025/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ các Quyết định quy phạm pháp luật do Ủy ban nhân dân tỉnh Bình Định (trước sắp xếp) và Ủy ban nhân dân tỉnh Gia Lai (trước sắp xếp) ban hành thuộc lĩnh vực tài chính (chi tiết tại mục II theo phụ lục đính kèm)."
+   },
+   {
+    "source_path": "Điều 3",
+    "action": "bai-bo",
+    "target_document": "57/2023/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ một phần Quyết định quy phạm pháp luật do Ủy ban nhân dân tỉnh Bình Định (trước sắp xếp) ban hành thuộc lĩnh vực tài chính (chi tiết tại mục III theo phụ lục đính kèm)."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 2 bãi bỏ 25 quyết định liệt kê ở mục II phụ lục → 25 quan hệ Điều 2; có 2 văn bản cùng số 28/2019/QĐ-UBND (UBND tỉnh Bình Định 19/7/2019 và UBND tỉnh Gia Lai 19/9/2019). Điều 3 bãi bỏ Điều 3 Quyết định số 57/2023/QĐ-UBND (vị trí lấy từ mục III phụ lục); mục III.1 phụ lục cũng viết 'Bãi bỏ Điều 3…', không ghi thêm quan hệ Phụ lục 1 Mục III vì trùng hành động của Điều 3. Điều 1 'Áp dụng' 3 quyết định (mục I) không phải hành động; tên văn bản không nêu số hiệu nên không có quan hệ Phần đầu."
+ },
+ {
+  "doc_id": "686265",
+  "relations": [
+   {
+    "source_path": "Điều 6 Khoản 2",
+    "action": "thay-the",
+    "target_document": "26/2017/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này thay thế Quyết định số 26/2017/QĐ-UBND ngày 20 tháng 6 năm 2017 của Ủy ban nhân dân Thành phố Hồ Chí Minh về quy định một số nội dung về cấp giấy phép xây dựng trên địa bàn Thành phố Hồ Chí Minh"
+   },
+   {
+    "source_path": "Điều 6 Khoản 2",
+    "action": "thay-the",
+    "target_document": "24/2022/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này thay thế Quyết định số 26/2017/QĐ-UBND ngày 20 tháng 6 năm 2017 của Ủy ban nhân dân Thành phố Hồ Chí Minh về quy định một số nội dung về cấp giấy phép xây dựng trên địa bàn Thành phố Hồ Chí Minh, Quyết định số 24/2022/QĐ-UBND ngày 01 tháng 12 năm 2022 của Ủy ban nhân dân tỉnh Bà Rịa - Vũng Tàu"
+   },
+   {
+    "source_path": "Điều 6 Khoản 2",
+    "action": "thay-the",
+    "target_document": "03/2022/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [
+     "Điều 9",
+     "Điều 10"
+    ],
+    "doi_tuong": "các nội dung về cấp giấy phép xây dựng",
+    "evidence": "Quyết định này thay thế Quyết định số 26/2017/QĐ-UBND ngày 20 tháng 6 năm 2017 của Ủy ban nhân dân Thành phố Hồ Chí Minh về quy định một số nội dung về cấp giấy phép xây dựng trên địa bàn Thành phố Hồ Chí Minh, Quyết định số 24/2022/QĐ-UBND ngày 01 tháng 12 năm 2022 của Ủy ban nhân dân tỉnh Bà Rịa - Vũng Tàu về phân cấp thẩm quyền cấp giấy phép xây dựng công trình và quy định quy mô, thời hạn tồn tại công trình được cấp giấy phép xây dựng có thời hạn trên địa bàn tỉnh Bà Rịa - Vũng Tàu và các nội dung về cấp giấy phép xây dựng tại Điều 9, Điều 10 Quyết định số 03/2022/QĐ-UBND ngày 13 tháng 01 năm 2022 của Ủy ban nhân dân tỉnh Bình Dương về ban hành quy định phân cấp trách nhiệm quản lý nhà nước về đầu tư xây dựng, chất lượng, thi công xây dựng, bảo trì công trình xây dựng, cấp giấy phép xây dựng và quản lý xây dựng theo giấy phép trên địa bàn tỉnh Bình Dương."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quyết định số 03/2022/QĐ-UBND ban hành kèm theo Quy định; câu không nói Điều 9, Điều 10 thuộc phần nào → khong_ro. Khoản 3 Điều 7 là câu dẫn chiếu chung, không phải quan hệ."
+ },
+ {
+  "doc_id": "678928",
+  "relations": [
+   {
+    "source_path": "Điều 4 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "62/2024/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này bãi bỏ Quyết định số 62/2024/QĐ-UBND ngày 15 tháng 11 năm 2024 của UBND tỉnh Phú Yên về việc quy định định mức kinh tế - kỹ thuật áp dụng đối với dịch vụ sự nghiệp công sử dụng ngân sách nhà nước trong lĩnh vực chăm sóc người có công trên địa bàn tỉnh Phú Yên."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Khoản 2 Điều 4 bãi bỏ toàn bộ Quyết định số 62/2024/QĐ-UBND của UBND tỉnh Phú Yên."
+ }
+]

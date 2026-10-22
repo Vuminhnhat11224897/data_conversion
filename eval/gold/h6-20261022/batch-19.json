@@ -1,0 +1,438 @@
+[
+ {
+  "doc_id": "685249",
+  "relations": [
+   {
+    "source_path": "Điều 1",
+    "action": "bai-bo",
+    "target_document": "1548/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "03 thủ tục hành chính cấp tỉnh thuộc lĩnh vực hoạt động khoa học và công nghệ (mã 2.000079; 2.002144; 1.006427)",
+    "evidence": "Bãi bỏ 03 thủ tục hành chính cấp tỉnh thuộc lĩnh vực hoạt động khoa học và công nghệ tại Quyết định số 1548/QĐ-UBND ngày 13/5/2025 của Chủ tịch Ủy ban nhân dân tỉnh về công bố danh mục thủ tục hành chính được chuẩn hóa thuộc thẩm quyền giải quyết của Sở Khoa học và Công nghệ (gồm mã thủ tục hành chính: 2.000079; 2.002144; 1.006427)"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 1 tự nêu bãi bỏ 3 TTHC tại QĐ 1548/QĐ-UBND. Phụ lục 1 Mục B chỉ liệt kê chi tiết 3 TTHC đó dưới dòng nhóm '03 TTHC tại Quyết định số 1548/QĐ-UBND' nên không ghi thêm quan hệ dòng bảng. Cột căn cứ pháp lý (Luật KHCN&ĐMST, NĐ 267/2025) không phải đích. Điều 2 'các nội dung khác ... giữ nguyên' không phải hành động."
+ },
+ {
+  "doc_id": "685215",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công bố danh mục TTHC sửa đổi, bổ sung. Điều 1 không là hành động; dòng bảng không nêu Quyết định đã công bố TTHC; cột văn bản QPPL là căn cứ pháp lý. Không có quan hệ."
+ },
+ {
+  "doc_id": "684328",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Kế hoạch triển khai Nghị quyết 66.4/NQ-CP: triển khai, giao nhiệm vụ, đề xuất điều chỉnh không phải tác động trực tiếp. Không có quan hệ."
+ },
+ {
+  "doc_id": "693375",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "2433/QĐ-TTg",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "VỀ VIỆC ĐIỀU CHỈNH MỘT PHẦN QUYẾT ĐỊNH SỐ 2433/QĐ-TTG NGÀY 04 THÁNG 11 NĂM 2025 CỦA THỦ TƯỚNG CHÍNH PHỦ VỀ VIỆC THÀNH LẬP BAN CHỈ ĐẠO NHÀ NƯỚC CÁC CHƯƠNG TRÌNH, CÔNG TRÌNH, DỰ ÁN QUAN TRỌNG QUỐC GIA, TRỌNG ĐIỂM NGÀNH NĂNG LƯỢNG"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "sua-doi",
+    "target_document": "2433/QĐ-TTg",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm 3 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Điều chỉnh một phần điểm 3, Điều 1 của Quyết định số 2433/QĐ-TTg ngày 04 tháng 11 năm 2025 của Thủ tướng Chính phủ về việc thành lập Ban Chỉ đạo Nhà nước các chương trình, công trình, dự án quan trọng quốc gia, trọng điểm ngành năng lượng, cụ thể:"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "'Điều chỉnh một phần' ghi là sua-doi. Vị trí 'điểm 3, Điều 1' chép theo câu (có thể là khoản 3 Điều 1). 'thay thế ông ...' là thay người trong Ban Chỉ đạo, không phải thay thế văn bản."
+ },
+ {
+  "doc_id": "689607",
+  "relations": [
+   {
+    "source_path": "Điều 3",
+    "action": "thay-the",
+    "target_document": "2049/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục I",
+     "Phụ lục II",
+     "Phụ lục III"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế các TTHC công bố tại số thứ tự 2, 3 Phụ lục I; số thứ tự 1 Phụ lục II; số thứ tự 1, 2, 3 Phụ lục III ban hành kèm theo Quyết định số 2049 /QĐ- UBND ngày 30 tháng 6 năm 2025 của Chủ tịch UBND thành phố Huế"
+   },
+   {
+    "source_path": "Điều 3",
+    "action": "bai-bo",
+    "target_document": "2049/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục I"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ TTHC tại số thứ tự 1, Phụ lục I ban hành kèm theo Quyết định số 2049/QĐ-UBND ngày 30 tháng 6 năm 2025 của Chủ tịch UBND thành phố Huế"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 3 thay thế, bãi bỏ TTHC theo số thứ tự các phụ lục kèm theo QĐ 2049/QĐ-UBND; vi_tri là phụ lục chứa dòng. Điều 1 và các phụ lục chỉ công bố danh mục, dòng bảng không nêu QĐ đã công bố TTHC; TT 85/2025 ở cột văn bản quy định việc bãi bỏ là căn cứ pháp lý."
+ },
+ {
+  "doc_id": "684268",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Chỉ thị giao nhiệm vụ bảo đảm an ninh, trật tự; không tác động lên văn bản khác."
+ },
+ {
+  "doc_id": "686633",
+  "relations": [
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "10/2025/TT-BGDĐT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm d khoản 5 Điều 18",
+     "điểm đ khoản 5 Điều 18"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm d, điểm đ khoản 5 Điều 18 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "10/2025/TT-BGDĐT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm d khoản 5 Điều 18",
+     "điểm đ khoản 5 Điều 18"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm d, điểm đ khoản 5 Điều 18 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2 điểm a",
+    "action": "sua-doi",
+    "target_document": "10/2025/TT-BGDĐT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 10 Điều 18",
+     "điểm b khoản 10 Điều 18",
+     "điểm c khoản 10 Điều 18"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm a, b, c khoản 10 Điều 18 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2 điểm a",
+    "action": "bo-sung",
+    "target_document": "10/2025/TT-BGDĐT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 10 Điều 18",
+     "điểm b khoản 10 Điều 18",
+     "điểm c khoản 10 Điều 18"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm a, b, c khoản 10 Điều 18 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2 điểm b",
+    "action": "sua-doi",
+    "target_document": "10/2025/TT-BGDĐT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm e khoản 10 Điều 18"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 5 (trên điểm e) và điểm e khoản 10 Điều 18 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2 điểm b",
+    "action": "bo-sung",
+    "target_document": "10/2025/TT-BGDĐT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm e khoản 10 Điều 18"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 5 (trên điểm e) và điểm e khoản 10 Điều 18 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2 điểm c",
+    "action": "sua-doi",
+    "target_document": "10/2025/TT-BGDĐT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm g khoản 10 Điều 18"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm g khoản 10 Điều 18 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2 điểm c",
+    "action": "bo-sung",
+    "target_document": "10/2025/TT-BGDĐT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm g khoản 10 Điều 18"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm g khoản 10 Điều 18 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2 điểm d",
+    "action": "bo-sung",
+    "target_document": "10/2025/TT-BGDĐT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm i khoản 10 Điều 18"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung điểm i sau điểm h khoản 10 Điều 18 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "bo-sung",
+    "target_document": "10/2025/TT-BGDĐT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 18 Điều 18"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung khoản 18 Điều 18 như sau:"
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bo-sung",
+    "target_document": "11/2025/TT-BGDĐT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 8a"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung Điều 8a sau Điều 8"
+   },
+   {
+    "source_path": "Điều 3 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "11/2025/TT-BGDĐT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 9"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 3 Điều 9 như sau:"
+   },
+   {
+    "source_path": "Điều 3 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "11/2025/TT-BGDĐT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 9"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 3 Điều 9 như sau:"
+   },
+   {
+    "source_path": "Điều 3 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "11/2025/TT-BGDĐT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 5 Điều 9",
+     "khoản 6 Điều 9",
+     "khoản 7 Điều 9",
+     "khoản 8 Điều 9"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung khoản 5, 6, 7, 8 Điều 9 như sau:"
+   },
+   {
+    "source_path": "Điều 4 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "12/2025/TT-BGDĐT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 11"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 Điều 11 như sau:"
+   },
+   {
+    "source_path": "Điều 4 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "12/2025/TT-BGDĐT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 11"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 Điều 11 như sau:"
+   },
+   {
+    "source_path": "Điều 4 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "12/2025/TT-BGDĐT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1a Điều 11",
+     "khoản 1b Điều 11"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung khoản 1a, 1b sau khoản 1 Điều 11 như sau:"
+   },
+   {
+    "source_path": "Điều 5",
+    "action": "bo-sung",
+    "target_document": "12/2025/TT-BGDĐT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 5a"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung Điều 5a sau Điều 5"
+   },
+   {
+    "source_path": "Điều 6",
+    "action": "sua-doi",
+    "target_document": "13/2025/TT-BGDĐT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 Điều 5"
+   },
+   {
+    "source_path": "Điều 6",
+    "action": "bo-sung",
+    "target_document": "13/2025/TT-BGDĐT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 Điều 5"
+   },
+   {
+    "source_path": "Điều 7",
+    "action": "bo-sung",
+    "target_document": "13/2025/TT-BGDĐT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 17a"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung Điều 17a sau Điều 17"
+   },
+   {
+    "source_path": "Điều 8",
+    "action": "bo-sung",
+    "target_document": "13/2025/TT-BGDĐT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 7 Điều 18",
+     "khoản 8 Điều 18"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung khoản 7 và khoản 8 Điều 18"
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 1 Khoản 2 điểm b",
+    "loai": "nhan_sai_dieu",
+    "ghi_chu": "Đơn vị này là điểm b mới trong ngoặc kép của khoản 10 Điều 18 TT 10/2025 (sửa khoản 4 Điều 8 Quy chế kèm TT 31/2023), bị nhận thành điểm b của khoản 2; điểm a cũng mất phần b), c) mới. Điểm b thật ('Sửa đổi, bổ sung khoản 5 (trên điểm e) và điểm e khoản 10 Điều 18') nằm trong đơn vị điểm c; quan hệ ghi theo toàn văn là điểm b."
+   },
+   {
+    "source_path": "Điều 1 Khoản 2 điểm c",
+    "loai": "gop_sai",
+    "ghi_chu": "Gộp điểm c mới trong ngoặc kép (sửa khoản 5 Điều 8 Quy chế kèm TT 31/2023) với điểm b và điểm c thật của khoản 2 (cùng nội dung mới e), g))."
+   }
+  ],
+  "ghi_chu": "Đích trực tiếp chỉ là TT 10/2025, 11/2025, 12/2025, 13/2025/TT-BGDĐT (theo tên Chương). Tác động lên TT 32/2020, 31/2023, 15/2022, 18/2024, 10/2022, 21/2018, 10/2021, 01/2023, 43/2021, 04/2014, 24/2023, 48/2011, 33/2005, 27/2017, 48/2008, 21/2019, 19/2020, 44/2021, QĐ 17/2008 nằm trong nội dung mới trong ngoặc kép: không ghi. Tên và lời dẫn không nêu số hiệu: không có quan hệ Phần đầu. 'khoản 5 (trên điểm e)' không xác định được vị trí chuẩn nên vi_tri chỉ ghi điểm e. Câu dẫn khoản 2 ('một số điểm của khoản 10') không ghi riêng vì các điểm đã ghi."
+ },
+ {
+  "doc_id": "686424",
+  "relations": [
+   {
+    "source_path": "Điều 1",
+    "action": "bai-bo",
+    "target_document": "018/2025/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [
+     "toàn bộ"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ Quyết định số 018/2025/QĐ-UBND ngày 11 tháng 8 năm 2025 của Ủy ban nhân dân tỉnh Cà Mau quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Trung tâm Phát triển quỹ đất tỉnh Cà Mau và Quyết định số 44/2025/QĐ-UBND ngày 20 tháng 5 năm 2025 của Ủy ban nhân dân tỉnh Bạc Liêu ban hành Quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Trung tâm Phát triển quỹ đất tỉnh Bạc Liêu."
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bai-bo",
+    "target_document": "44/2025/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [
+     "toàn bộ"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ Quyết định số 018/2025/QĐ-UBND ngày 11 tháng 8 năm 2025 của Ủy ban nhân dân tỉnh Cà Mau quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Trung tâm Phát triển quỹ đất tỉnh Cà Mau và Quyết định số 44/2025/QĐ-UBND ngày 20 tháng 5 năm 2025 của Ủy ban nhân dân tỉnh Bạc Liêu ban hành Quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Trung tâm Phát triển quỹ đất tỉnh Bạc Liêu."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Bãi bỏ toàn bộ 2 quyết định (44/2025/QĐ-UBND của UBND tỉnh Bạc Liêu). Tên và lời dẫn không nêu số hiệu nên không có quan hệ Phần đầu."
+ },
+ {
+  "doc_id": "683510",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công bố danh mục TTHC không phụ thuộc địa giới hành chính; phụ lục là file đính kèm, không có trong toàn văn. Không có quan hệ."
+ },
+ {
+  "doc_id": "686830",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn triển khai Nghị quyết 380/NQ-CP và Thông báo 646/TB-VPCP; rà soát, kiến nghị sửa đổi quy chuẩn là giao nhiệm vụ, không phải tác động trực tiếp."
+ },
+ {
+  "doc_id": "677842",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "08/QĐ-BCĐNO&TTBĐS",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực thi hành kể từ ngày ký ban hành và thay thế Quyết định số 08/QĐ-BCĐNO&TTBĐS ngày 26 tháng 01 năm 2010 của Ban Chỉ đạo Trung ương về chính sách nhà ở và thị trường bất động sản."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 2 thay thế QĐ 08/QĐ-BCĐNO&TTBĐS. Quy chế kèm theo không có tác động. noi_dung đơn vị Phụ lục 1 Điều 6 Khoản 2 trong gói bị cắt ('Tham gia các hoạt đ'), không ảnh hưởng quan hệ."
+ },
+ {
+  "doc_id": "677825",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "19/2024/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định có hiệu lực thi hành kể từ ngày 01/11/2025 và thay thế Quyết định số 19/2024/QĐ-UBND ngày 27/8/2024 của UBND tỉnh Bắc Giang ban hành Quy chế phối hợp quản lý nhà nước về đăng ký biện pháp bảo đảm bằng quyền sử dụng đất, tài sản gắn liền với đất trên địa bàn tỉnh Bắc Giang."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 2 thay thế QĐ 19/2024/QĐ-UBND của UBND tỉnh Bắc Giang. Quy chế kèm theo không có tác động."
+ }
+]

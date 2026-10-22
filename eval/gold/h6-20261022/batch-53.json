@@ -1,0 +1,75 @@
+[
+ {
+  "doc_id": "693429",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Không có tác động lên văn bản khác: Điều 1 phê duyệt danh sách thôn, xã; Điều 2 chỉ dẫn chiếu khoản 6 Điều 10 Nghị định 272/2025/NĐ-CP; hai phụ lục là danh sách, không có cột ghi chú hành động."
+ },
+ {
+  "doc_id": "679702",
+  "relations": [
+   {
+    "source_path": "Điều 1",
+    "action": "bai-bo",
+    "target_document": "810/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Phụ lục I"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ các nội dung phê duyệt quy trình nội bộ giải quyết thủ tục hành chính tương ứng được phê duyệt tại Phụ lục I, Quyết định số 810/QĐ-UBND ngày 30/6/2025 của Chủ tịch UBND tỉnh Ninh Bình."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Chỉ bãi bỏ phần quy trình nội bộ tương ứng với 21 quy trình mới trong Phụ lục I của QĐ 810/QĐ-UBND, không bãi bỏ cả Phụ lục I. Căn cứ QĐ 419/QĐ-UBND, 1087/QĐ-UBND không phải đích."
+ },
+ {
+  "doc_id": "680596",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "34/2023/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực thi hành kể từ ngày 13 tháng 11 năm 2025 và thay thế Quyết định số 34/2023/QĐ-UBND ngày 02 tháng 11 năm 2023 của Uỷ ban nhân dân tỉnh về Quy định chi tiết về quản lý chất thải rắn sinh hoạt trên địa bàn tỉnh Sơn La."
+   },
+   {
+    "source_path": "Phụ lục 1 Điều 1 Khoản 1",
+    "action": "quy-dinh-chi-tiet",
+    "target_document": "72/2020/QH14",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 75"
+    ],
+    "doi_tuong": null,
+    "evidence": "Phân loại cụ thể chất thải rắn sinh hoạt khác tại khoản 2 Điều 75 Luật Bảo vệ môi trường."
+   },
+   {
+    "source_path": "Phụ lục 1 Điều 1 Khoản 2",
+    "action": "quy-dinh-chi-tiet",
+    "target_document": "72/2020/QH14",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 6 Điều 75"
+    ],
+    "doi_tuong": null,
+    "evidence": "Phân loại, thu gom, vận chuyển, xử lý chất thải cồng kềnh tại khoản 6 Điều 75 Luật Bảo vệ môi trường."
+   },
+   {
+    "source_path": "Phụ lục 1 Điều 1 Khoản 3",
+    "action": "quy-dinh-chi-tiet",
+    "target_document": "72/2020/QH14",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 6 Điều 79"
+    ],
+    "doi_tuong": null,
+    "evidence": "Quản lý chất thải rắn sinh hoạt của hộ gia đình, cá nhân tại khoản 6 Điều 79 Luật Bảo vệ môi trường được sửa đổi, bổ sung tại khoản 7 Điều 73 Luật Giá năm 2023 (không bao gồm chất thải nguy hại phát sinh từ quá trình sinh hoạt)."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Chữ 'quy định chi tiết' ở câu mở đầu Phụ lục 1 Điều 1 (Phạm vi điều chỉnh), khoản 1-3 nêu vị trí của Luật Bảo vệ môi trường (số 72/2020/QH14 lấy từ căn cứ). Không ghi Luật Giá 2023 vì chỉ là ghi chú 'được sửa đổi, bổ sung tại'. Tên văn bản và lời dẫn không nêu văn bản đích nên không có quan hệ Phần đầu. Phụ lục 1 Điều 15 Khoản 3, 4 là nhiệm vụ, câu chung: không phải quan hệ."
+ }
+]

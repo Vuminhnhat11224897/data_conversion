@@ -1,0 +1,340 @@
+[
+ {
+  "doc_id": "682596",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công bố danh mục TTHC không phụ thuộc địa giới hành chính. Không có tác động lên văn bản khác; Điều 2 chỉ giao nhiệm vụ."
+ },
+ {
+  "doc_id": "688272",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công bố 01 TTHC mới. Không có tác động lên văn bản khác; NQ 45/2025/NQ-HĐND chỉ là căn cứ."
+ },
+ {
+  "doc_id": "693373",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công bố TTHC mới. Phụ lục I, II là mẫu đơn trích từ NĐ 20/2026/NĐ-CP, không phải tác động. Không có quan hệ."
+ },
+ {
+  "doc_id": "679758",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 2 tuyên bố các Quyết định công bố TTHC của Chủ tịch UBND tỉnh Hậu Giang, Sóc Trăng, TP Cần Thơ (trước đây) hết hiệu lực, nhưng không nêu số hiệu văn bản: không ghi quan hệ."
+ },
+ {
+  "doc_id": "684432",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 2 chỉ nêu thời hạn ủy quyền đến khi có văn bản thay thế QĐ 59/2022/QĐ-UBND và QĐ 22/2024/QĐ-UBND: không phải tác động."
+ },
+ {
+  "doc_id": "688783",
+  "relations": [
+   {
+    "source_path": "Điều 3",
+    "action": "sua-doi",
+    "target_document": "1182/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "TTHC tương ứng",
+    "evidence": "Sửa đổi, bổ sung TTHC tương ứng đã được công bố tại Quyết định số 1182/QĐ-UBND ngày 27/6/2025 của Chủ tịch UBND tỉnh Bắc Ninh"
+   },
+   {
+    "source_path": "Điều 3",
+    "action": "bo-sung",
+    "target_document": "1182/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "TTHC tương ứng",
+    "evidence": "Sửa đổi, bổ sung TTHC tương ứng đã được công bố tại Quyết định số 1182/QĐ-UBND ngày 27/6/2025 của Chủ tịch UBND tỉnh Bắc Ninh"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 3 tự nói sửa đổi, bổ sung TTHC tương ứng đã công bố tại QĐ 1182/QĐ-UBND; câu không nêu vị trí. QĐ 3787/QĐ-BTP, 3791/QĐ-BTP chỉ là căn cứ và mốc hiệu lực. Dòng bảng phụ lục không nêu văn bản đích."
+ },
+ {
+  "doc_id": "682620",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "26/2019/NĐ-CP",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA NGHỊ ĐỊNH SỐ 26/2019/NĐ-CP NGÀY 08 THÁNG 3 NĂM 2019 CỦA CHÍNH PHỦ"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "26/2019/NĐ-CP",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA NGHỊ ĐỊNH SỐ 26/2019/NĐ-CP NGÀY 08 THÁNG 3 NĂM 2019 CỦA CHÍNH PHỦ"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bai-bo",
+    "target_document": "26/2019/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm b khoản 5 Điều 36"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ cụm từ “và quy định khác có liên quan” tại điểm b khoản 5 Điều 36 Nghị định số 26/2019/NĐ-CP"
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "26/2019/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm c khoản 6 Điều 70b"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ điểm c khoản 6 Điều 70b Nghị định số 26/2019/NĐ-CP"
+   },
+   {
+    "source_path": "Điều 3 Khoản 1",
+    "action": "ngung-hieu-luc",
+    "target_document": "37/2024/NĐ-CP",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục V"
+    ],
+    "doi_tuong": "Cá ngừ chù (Auxis thazard) tại số thứ tự 11 mục 1",
+    "evidence": "Ngưng hiệu lực thi hành quy định về kích thước tối thiểu được phép khai thác của một số loài thủy sản sống trong vùng nước tự nhiên tại Phụ lục V ban hành kèm theo Nghị định số 37/2024/NĐ-CP"
+   },
+   {
+    "source_path": "Điều 3 Khoản 2",
+    "action": "ngung-hieu-luc",
+    "target_document": "37/2024/NĐ-CP",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục V"
+    ],
+    "doi_tuong": "Cá ngừ chấm (Euthynnus affmis) tại số thứ tự 12 mục 1",
+    "evidence": "Ngưng hiệu lực thi hành quy định về kích thước tối thiểu được phép khai thác của một số loài thủy sản sống trong vùng nước tự nhiên tại Phụ lục V ban hành kèm theo Nghị định số 37/2024/NĐ-CP"
+   },
+   {
+    "source_path": "Điều 3 Khoản 3",
+    "action": "ngung-hieu-luc",
+    "target_document": "37/2024/NĐ-CP",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục V"
+    ],
+    "doi_tuong": "Cá hố (Trichiurus lepturus) tại số thứ tự 15 mục 1",
+    "evidence": "Ngưng hiệu lực thi hành quy định về kích thước tối thiểu được phép khai thác của một số loài thủy sản sống trong vùng nước tự nhiên tại Phụ lục V ban hành kèm theo Nghị định số 37/2024/NĐ-CP"
+   },
+   {
+    "source_path": "Điều 3 Khoản 4",
+    "action": "ngung-hieu-luc",
+    "target_document": "37/2024/NĐ-CP",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục V"
+    ],
+    "doi_tuong": "Cá trích xương (Sardinella gibbosa) tại số thứ tự 36 mục 1",
+    "evidence": "Ngưng hiệu lực thi hành quy định về kích thước tối thiểu được phép khai thác của một số loài thủy sản sống trong vùng nước tự nhiên tại Phụ lục V ban hành kèm theo Nghị định số 37/2024/NĐ-CP"
+   },
+   {
+    "source_path": "Điều 3 Khoản 5",
+    "action": "ngung-hieu-luc",
+    "target_document": "37/2024/NĐ-CP",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục V"
+    ],
+    "doi_tuong": "Cá ngừ ồ (Auxis rochei) tại số thứ tự 63 mục 1",
+    "evidence": "Ngưng hiệu lực thi hành quy định về kích thước tối thiểu được phép khai thác của một số loài thủy sản sống trong vùng nước tự nhiên tại Phụ lục V ban hành kèm theo Nghị định số 37/2024/NĐ-CP"
+   },
+   {
+    "source_path": "Điều 3 Khoản 6",
+    "action": "ngung-hieu-luc",
+    "target_document": "37/2024/NĐ-CP",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục V"
+    ],
+    "doi_tuong": "Cá ngừ vây vàng (Thunnus albacares) tại số thứ tự 64 mục 1",
+    "evidence": "Ngưng hiệu lực thi hành quy định về kích thước tối thiểu được phép khai thác của một số loài thủy sản sống trong vùng nước tự nhiên tại Phụ lục V ban hành kèm theo Nghị định số 37/2024/NĐ-CP"
+   },
+   {
+    "source_path": "Điều 3 Khoản 7",
+    "action": "ngung-hieu-luc",
+    "target_document": "37/2024/NĐ-CP",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục V"
+    ],
+    "doi_tuong": "Cá ngừ mắt to (Thunnus obesus) tại số thứ tự 65 mục 1",
+    "evidence": "Ngưng hiệu lực thi hành quy định về kích thước tối thiểu được phép khai thác của một số loài thủy sản sống trong vùng nước tự nhiên tại Phụ lục V ban hành kèm theo Nghị định số 37/2024/NĐ-CP"
+   },
+   {
+    "source_path": "Điều 3 Khoản 8",
+    "action": "ngung-hieu-luc",
+    "target_document": "37/2024/NĐ-CP",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục V"
+    ],
+    "doi_tuong": "Cá ngừ vằn (Katsuwonus pelamis) tại số thứ tự 66 mục 1",
+    "evidence": "Ngưng hiệu lực thi hành quy định về kích thước tối thiểu được phép khai thác của một số loài thủy sản sống trong vùng nước tự nhiên tại Phụ lục V ban hành kèm theo Nghị định số 37/2024/NĐ-CP"
+   },
+   {
+    "source_path": "Điều 3 Khoản 9",
+    "action": "ngung-hieu-luc",
+    "target_document": "37/2024/NĐ-CP",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục V"
+    ],
+    "doi_tuong": "Tôm sắt cứng (Parapenaeopsis hardwickii) tại số thứ tự 15 mục 2",
+    "evidence": "Ngưng hiệu lực thi hành quy định về kích thước tối thiểu được phép khai thác của một số loài thủy sản sống trong vùng nước tự nhiên tại Phụ lục V ban hành kèm theo Nghị định số 37/2024/NĐ-CP"
+   },
+   {
+    "source_path": "Điều 3 Khoản 10",
+    "action": "ngung-hieu-luc",
+    "target_document": "37/2024/NĐ-CP",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục V"
+    ],
+    "doi_tuong": "Mực ống (Loligo chinensis và Loligo edulis) tại số thứ tự 1 mục 4",
+    "evidence": "Ngưng hiệu lực thi hành quy định về kích thước tối thiểu được phép khai thác của một số loài thủy sản sống trong vùng nước tự nhiên tại Phụ lục V ban hành kèm theo Nghị định số 37/2024/NĐ-CP"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên và lời dẫn cùng nêu sửa đổi, bổ sung NĐ 26/2019/NĐ-CP: ghi một cặp quan hệ Phần đầu. NĐ 37/2024/NĐ-CP ở tên, Điều 1, Điều 2 chỉ là lịch sử sửa đổi. Điều 3: câu hành động nằm ở ten_dieu; mỗi khoản là một dòng của Phụ lục V, vi_tri dừng ở phụ lục, dòng ghi ở doi_tuong."
+ },
+ {
+  "doc_id": "688951",
+  "relations": [
+   {
+    "source_path": "Điều 3",
+    "action": "bai-bo",
+    "target_document": "1217/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục 1"
+    ],
+    "doi_tuong": "danh mục và nội dung 01 thủ tục hành chính có số thứ tự 3, Mục A",
+    "evidence": "Quyết định này bãi bỏ danh mục và nội dung 01 thủ tục hành chính có số thứ tự 3, Mục A, Phụ lục 1 ban hành kèm theo Quyết định số 1217/QĐ-UBND ngày 25 tháng 7 năm 2025"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 3 bãi bỏ dòng STT 3 Mục A Phụ lục 1 kèm theo QĐ 1217/QĐ-UBND; vi_tri dừng ở phụ lục. QĐ 3791/QĐ-BTP ở Điều 1 chỉ được dẫn chiếu."
+ },
+ {
+  "doc_id": "692751",
+  "relations": [
+   {
+    "source_path": "Điều 4 Khoản 1",
+    "action": "thay-the",
+    "target_document": "03/2021/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị quyết này có hiệu lực thi hành kể từ ngày 01 tháng 01 năm 2026 và thay thế Nghị quyết số 03/2021/NQ-HĐND ngày 12 tháng 8 năm 2021 của Hội đồng nhân dân tỉnh Phú Thọ"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 4 khoản 1 thay thế NQ 03/2021/NQ-HĐND. Khoản 2 chỉ là chuyển tiếp. TT 004/2025/TT-BNV ở Điều 2 khoản 3 chỉ được dẫn chiếu."
+ },
+ {
+  "doc_id": "678192",
+  "relations": [
+   {
+    "source_path": "Điều 5 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "41/2021/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 41/2021/QĐ-UBND ngày 25 tháng 11 năm 2021 của Ủy ban nhân dân tỉnh Bạc Liêu (nay là Ủy ban nhân dân tỉnh Cà Mau) ban hành Quy định về phân cấp quản lý chất lượng công trình xây dựng, thi công xây dựng công trình và bảo trì công trình xây dựng trên địa bàn tỉnh Bạc Liêu hết hiệu lực kể từ ngày Quyết định này có hiệu lực thi hành."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 5 khoản 2 tự tuyên bố QĐ 41/2021/QĐ-UBND hết hiệu lực. Các NĐ 06/2021, 35/2023, 175/2024, 140/2025 chỉ được dẫn chiếu."
+ },
+ {
+  "doc_id": "678034",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "huong-dan",
+    "target_document": "179/2025/NĐ-CP",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "HƯỚNG DẪN XÁC ĐỊNH VỊ TRÍ VIỆC LÀM CHUYÊN TRÁCH VỀ CHUYỂN ĐỔI SỐ ĐƯỢC HƯỞNG MỨC HỖ TRỢ THEO QUY ĐỊNH TẠI NGHỊ ĐỊNH SỐ 179/2025/NĐ-CP NGÀY 01 THÁNG 7 NĂM 2025 CỦA CHÍNH PHỦ"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "huong-dan",
+    "target_document": "179/2025/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thông tư này hướng dẫn xác định vị trí việc làm về chuyển đổi số được hưởng mức hỗ trợ theo quy định tại khoản 1 Điều 2 Nghị định số 179/2025/NĐ-CP ngày 01 tháng 7 năm 2025 của Chính phủ"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên, lời dẫn và Điều 1 nói Thông tư hướng dẫn xác định vị trí việc làm theo khoản 1 Điều 2 NĐ 179/2025/NĐ-CP: ghi huong-dan (tên và lời dẫn gộp một quan hệ Phần đầu). Các Thông tư 09/2023/TT-BTTTT, 08/2023/TT-BTTTT, 01/2024/TT-BTTTT, 06/2024/TT-BNV ở phụ lục chỉ được dẫn chiếu."
+ },
+ {
+  "doc_id": "690748",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quy định số lượng, cơ cấu ngạch Kiểm sát viên. Không có tác động lên văn bản khác; NQ 225/2025/QH15 ở Điều 3 khoản 2 chỉ được dẫn chiếu."
+ },
+ {
+  "doc_id": "694301",
+  "relations": [
+   {
+    "source_path": "Phụ lục 1 Mục II",
+    "action": "bai-bo",
+    "target_document": "1266/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Thủ tục hành chính tương ứng tại Danh mục kèm theo",
+    "evidence": "Thủ tục hành chính tương ứng đã được Chủ tịch Ủy ban nhân dân tỉnh công bố tại Danh mục kèm theo Quyết định số 1266/QĐ-UBND ngày 25/6/2025 hết hiệu lực khi Quyết định này có hiệu lực thi hành."
+   },
+   {
+    "source_path": "Phụ lục 2 Mục I STT 1",
+    "action": "bai-bo",
+    "target_document": "1266/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Đăng ký tiếp cận nguồn gen",
+    "evidence": "Thủ tục hành chính tương ứng đã được Chủ tịch Ủy ban nhân dân tỉnh công bố tại Danh mục kèm theo Quyết định số 1266/QĐ-UBND ngày 25/6/2025 hết hiệu lực khi Quyết định này có hiệu lực thi hành."
+   },
+   {
+    "source_path": "Phụ lục 2 Mục II STT 1",
+    "action": "bai-bo",
+    "target_document": "682/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Xác nhận Hợp đồng tiếp cận nguồn gen và chia sẻ lợi ích",
+    "evidence": "Thủ tục hành chính tương ứng đã được Chủ tịch Ủy ban nhân dân tỉnh công bố tại Danh mục kèm theo Quyết định số 682/QĐ-UBND ngày 11/4/2025 hết hiệu lực khi Quyết định này có hiệu lực thi hành."
+   },
+   {
+    "source_path": "Phụ lục 3",
+    "action": "bai-bo",
+    "target_document": "1266/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Thủ tục hành chính tương ứng tại Quy trình kèm theo",
+    "evidence": "Thủ tục hành chính tương ứng đã được Chủ tịch Ủy ban nhân dân tỉnh công bố tại Quy trình kèm theo Quyết định số 1266/QĐ-UBND ngày 25/6/2025 hết hiệu lực khi Quyết định này có hiệu lực thi hành."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Văn bản tự tuyên bố TTHC tương ứng tại QĐ 1266/QĐ-UBND, 682/QĐ-UBND hết hiệu lực: ở ghi chú sau bảng Mục II Phụ lục 1, ở cột hết hiệu lực của 2 dòng Phụ lục 2 (nhóm I, II là dòng nhóm trong bảng), ở ghi chú cuối Phụ lục 3. Ghi chú Phụ lục 3 nằm sau mục 4 nhưng áp dụng cho cả quy trình: ghi Phụ lục 3. Cột 'Tên VBQPPL quy định việc bãi bỏ TTHC' (NĐ 43/2026/NĐ-CP) là căn cứ, không phải đích."
+ }
+]

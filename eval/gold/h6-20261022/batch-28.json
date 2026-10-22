@@ -1,0 +1,30 @@
+[
+ {
+  "doc_id": "687769",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quyết định ban hành Kế hoạch CCHC năm 2026; Kế hoạch và Phụ lục chỉ nêu nhiệm vụ (rà soát, đề xuất sửa đổi, công bố danh mục văn bản hết hiệu lực), không có tác động trực tiếp lên văn bản khác. Tên văn bản không nêu văn bản đích."
+ },
+ {
+  "doc_id": "687441",
+  "relations": [
+   {
+    "source_path": "Điều 12 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "44/2018/TT-BYT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thông tư số 44/2018/TT-BYT ngày 28 tháng 12 năm 2018 của Bộ trưởng Bộ Y tế quy định về kê đơn thuốc cổ truyền, thuốc dược liệu và kê đơn kết hợp thuốc cổ truyền, thuốc dược liệu với thuốc hóa dược hết hiệu lực kể từ ngày Thông tư này có hiệu lực."
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 8 Khoản 7",
+    "loai": "gop_sai",
+    "ghi_chu": "Điểm a, b, c của khoản 7 không tách thành đơn vị riêng (điểm a nằm cùng dòng với tiêu đề khoản); không ảnh hưởng quan hệ."
+   }
+  ],
+  "ghi_chu": "Điều 14 (chuyển tiếp: cơ sở đã in mẫu đơn theo Phụ lục Thông tư 44/2018/TT-BYT được tiếp tục sử dụng đến 30/6/2026) không ghi gia-han vì câu không gia hạn hiệu lực văn bản, chỉ là quy định chuyển tiếp. Điều 13 là câu dẫn chiếu chung; các câu 'thực hiện theo quy định tại …' là dẫn chiếu, không phải tác động. Tên và lời dẫn chỉ mô tả nội dung, không nêu văn bản đích."
+ }
+]

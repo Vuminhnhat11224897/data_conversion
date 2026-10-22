@@ -1,0 +1,42 @@
+[
+ {
+  "doc_id": "682355",
+  "relations": [],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 1 Khoản 6",
+    "loai": "gop_sai",
+    "ghi_chu": "Điều 1 chia Phần I-V (La Mã). Khoản 6 thật là mục 6 Phần I (Quan điểm), nhưng noi_dung gộp cả Phần II (Mục tiêu) và Phần III mục 1-5."
+   },
+   {
+    "source_path": "Điều 1 Khoản 6 điểm a",
+    "loai": "gop_sai",
+    "ghi_chu": "Điểm a, b, c của khoản 6 thật là điểm a, b, c mục 2 Phần II (Mục tiêu cụ thể). Điểm d, đ, e, g thật là điểm của mục 1 Phần III. Không thuộc khoản 6."
+   },
+   {
+    "source_path": "Điều 1 Khoản 7",
+    "loai": "gop_sai",
+    "ghi_chu": "Khoản 7 thật là mục 7 Phần III, nhưng noi_dung gộp cả Phần IV, V. Điểm d, đ của khoản 7 thật là điểm d, đ mục 1 Phần V (Bộ Xây dựng)."
+   }
+  ],
+  "ghi_chu": "Quyết định phê duyệt Đề án chuyển đổi số. Chỉ có nhiệm vụ và đề xuất ('rà soát', 'đề xuất sửa đổi hoặc ban hành mới'), không có tác động trực tiếp lên văn bản khác. Nghị quyết 71/NQ-CP 'sửa đổi, bổ sung' chỉ ở căn cứ. Phụ lục là danh mục nhiệm vụ."
+ },
+ {
+  "doc_id": "678664",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn 'giới thiệu một số nội dung' Nghị định 236/2025/NĐ-CP và giao Thuế tỉnh tuyên truyền, phổ biến. 'Giới thiệu' không phải hướng dẫn thi hành, nên không ghi huong-dan. Phụ lục chỉ tóm tắt Nghị định 236 (câu 'quy định chi tiết Điều ... Nghị quyết 107/2023/QH15' mô tả Nghị định 236), không phải hành động của công văn."
+ },
+ {
+  "doc_id": "685599",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Nghị quyết giao biên chế năm 2026, không tác động lên văn bản khác. 'được sửa đổi, bổ sung bởi Nghị định 85/2023/NĐ-CP' chỉ ở căn cứ. Phụ lục I-VI là bảng số liệu biên chế."
+ },
+ {
+  "doc_id": "678265",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công bố danh mục TTHC mới, sửa đổi bổ sung, bãi bỏ. Điều 1 'Công bố ... Danh mục' không là hành động. Các dòng phụ lục không nêu Quyết định đã công bố TTHC. Cột 'Văn bản QPPL quy định nội dung sửa đổi, bổ sung' và 'Tên VBQPPL quy định việc bãi bỏ TTHC' là căn cứ pháp lý (NĐ 146/2025, 139/2025, 131/2025, 125/2025, TT 38/2025/TT-BCT), không phải đích. Ghi chú 'Bổ sung Thông tư số 64/2025/TT-BTC' là bổ sung căn cứ phí vào TTHC. Điều 3 nêu QĐ 253/QĐ-UBND, 440/QĐ-UBND, 51/QĐ-UBND, 1080/QĐ-UBND: TTHC không bị sửa đổi, bãi bỏ vẫn giữ hiệu lực. Câu này chung, không nêu phần nào bị tác động, nên không ghi quan hệ (quy ước 20/10). Cuối Mục C có dòng tiêu đề bảng và dòng 'I LĨNH VỰC PHÁT TRIỂN VÀ QUẢN LÝ CHỢ' bị lặp."
+ }
+]

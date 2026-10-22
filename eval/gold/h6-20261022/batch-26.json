@@ -1,0 +1,24 @@
+[
+ {
+  "doc_id": "687909",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quyết định ban hành Danh mục và phân công cơ quan chủ trì soạn thảo văn bản quy định chi tiết: chỉ giao nhiệm vụ (Điều 2 khoản 2 điểm d 'rà soát, xây dựng, ban hành ... để sửa đổi, bổ sung, thay thế, bãi bỏ văn bản', khoản 4, 5 'rà soát, đề xuất văn bản quy định chi tiết Điều 12 của Nghị quyết số 250/2025/QH15', 'Điều 6 của Nghị quyết số 261/2025/QH15'). Điều 2 khoản 2 điểm đ chỉ dẫn khoản 2 Điều 57 Luật số 64/2025/QH15. Phụ lục 1 liệt kê văn bản sẽ soạn (ví dụ 'Nghị định thay thế Nghị định số 59/2019/NĐ-CP', 'Nghị định thay thế Nghị định số 130/2020/NĐ-CP', 'thay thế Nghị định số 64/2014/NĐ-CP', 'Thông tư thay thế Thông tư số 45/2024/TT-BGTVT', các Nghị định, Thông tư sửa đổi, bổ sung): đó là tên văn bản tương lai, không phải tác động của văn bản này. Tên văn bản chỉ mô tả nội dung. Không có quan hệ."
+ },
+ {
+  "doc_id": "695518",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "625/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thay thế Quyết định số 625/QĐ-UBND ngày 01/8/2025 của Chủ tịch Ủy ban nhân dân tỉnh Đồng Nai về việc công bố danh mục thủ tục hành chính Ngành Văn hóa, Thể thao và Du lịch thực hiện không phụ thuộc vào địa giới hành chính trong phạm vi tỉnh Đồng Nai."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quyết định công bố danh mục TTHC; Điều 2 tự nói thay thế cả Quyết định số 625/QĐ-UBND nên ghi quan hệ. Tên văn bản không nêu văn bản đích. Phụ lục 1: cột Ghi chú trống; chữ 'sửa đổi, bổ sung', 'hủy bỏ', 'gia hạn' ở cột Tên TTHC là tên thủ tục, không phải hành động."
+ }
+]

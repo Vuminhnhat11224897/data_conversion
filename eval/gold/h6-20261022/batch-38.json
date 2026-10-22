@@ -1,0 +1,30 @@
+[
+ {
+  "doc_id": "688591",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 2 bãi bỏ các quyết định công bố TTHC lĩnh vực quản lý thuế 'theo Phụ lục II, kèm theo', nhưng gói không có Phụ lục II (toàn văn chỉ có Phụ lục I, cuối ghi 'FILE ĐƯỢC ĐÍNH KÈM THEO VĂN BẢN'). Không biết số hiệu văn bản đích nên không ghi quan hệ. Bảng '2. Thủ tục hành chính bãi bỏ' ở Phụ lục I không nêu quyết định đã công bố, cột Ghi chú rỗng: không phải quan hệ. Văn bản ở cột Căn cứ pháp lý không phải đích."
+ },
+ {
+  "doc_id": "692635",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "1032/QĐ-BGTVT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực kể từ ngày ký, thay thế Quyết định số 1032/QĐ-BGTVT ngày 19/8/2024 của Bộ trưởng Bộ Giao thông vận tải ban hành Quy chế tổ chức và hoạt động Khối thi đua của Bộ Giao thông vận tải."
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Phần đầu",
+    "loai": "tach_sai",
+    "ghi_chu": "Câu căn cứ Thông tư số 55/2025/TT-BXD bị ngắt dòng ở toàn văn; phần sau ('Xây dựng quy định về công tác thi đua, khen thưởng của Bộ Xây dựng;') bị đưa vào lời dẫn. Không ảnh hưởng quan hệ."
+   }
+  ],
+  "ghi_chu": "Điều 2 thay thế cả Quyết định 1032/QĐ-BGTVT. Tên văn bản chỉ nêu nội dung ban hành Quy chế, không nêu văn bản đích. Quy chế kèm theo chỉ dẫn chiếu Luật Thi đua, khen thưởng và Thông tư 55/2025/TT-BXD; 'sửa đổi, bổ sung Quy chế hoạt động Khối (nếu cần)' ở điểm a khoản 2 Điều 5 là nhiệm vụ: không phải quan hệ."
+ }
+]

@@ -1,0 +1,14 @@
+[
+ {
+  "doc_id": "683999",
+  "relations": [],
+  "loi_cau_truc": [
+   {
+    "source_path": "Phụ lục 1",
+    "loai": "thieu_noi_dung",
+    "ghi_chu": "Toàn văn có 2 danh sách kèm theo. PHU_LUC chỉ có danh sách trạm y tế phường xã (so 1), thực tế là danh sách thứ hai. Danh sách đứng trước 'DANH SÁCH CÁC CƠ SỞ KCB BHYT NHẬN ĐĂNG KÝ KCB BAN ĐẦU DO TỈNH/ THÀNH PHỐ KHÁC PHÁT HÀNH NĂM 2026' (STT 1-261) không có trong PHU_LUC và DON_VI. Danh sách này không có hành động, nên không ảnh hưởng quan hệ."
+   }
+  ],
+  "ghi_chu": "Công văn thông báo cơ sở KCB BHYT nhận đăng ký KCB ban đầu năm 2026: không có tác động trực tiếp. 'sửa đổi, bổ sung' (Luật 51/2024/QH15) và 'quy định chi tiết và hướng dẫn' (Thông tư 01/2025/TT-BYT) chỉ ở căn cứ. 'đề nghị BHXH các tỉnh, thành phố hướng dẫn cho người tham gia BHYT' là đề nghị, không phải quan hệ. Tên 'V/v thông báo cơ sở KCB BHYT…' chỉ mô tả nội dung. Đã đọc hết 2 bảng (261 và 371 dòng): không dòng nào nêu hành động lên văn bản khác."
+ }
+]

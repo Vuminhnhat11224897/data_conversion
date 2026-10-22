@@ -1,0 +1,742 @@
+[
+ {
+  "doc_id": "679653",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "02/2024/TT-BKHĐT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA THÔNG TƯ SỐ 02/2024/TT-BKHĐT NGÀY 06 THÁNG 3 NĂM 2024 CỦA BỘ KẾ HOẠCH VÀ ĐẦU TƯ QUY ĐỊNH HOẠT ĐỘNG ĐÀO TẠO, BỒI DƯỠNG KIẾN THỨC VÀ THI, CẤP, THU HỒI CHỨNG CHỈ NGHIỆP VỤ CHUYÊN MÔN VỀ ĐẤU THẦU"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "02/2024/TT-BKHĐT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA THÔNG TƯ SỐ 02/2024/TT-BKHĐT NGÀY 06 THÁNG 3 NĂM 2024 CỦA BỘ KẾ HOẠCH VÀ ĐẦU TƯ QUY ĐỊNH HOẠT ĐỘNG ĐÀO TẠO, BỒI DƯỠNG KIẾN THỨC VÀ THI, CẤP, THU HỒI CHỨNG CHỈ NGHIỆP VỤ CHUYÊN MÔN VỀ ĐẤU THẦU"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "02/2024/TT-BKHĐT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 Điều 3 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "02/2024/TT-BKHĐT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 Điều 3 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2 điểm a",
+    "action": "sua-doi",
+    "target_document": "02/2024/TT-BKHĐT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2 điểm a",
+    "action": "bo-sung",
+    "target_document": "02/2024/TT-BKHĐT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2 điểm b",
+    "action": "sua-doi",
+    "target_document": "02/2024/TT-BKHĐT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2 điểm b",
+    "action": "bo-sung",
+    "target_document": "02/2024/TT-BKHĐT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "sua-doi",
+    "target_document": "02/2024/TT-BKHĐT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 8"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 Điều 8 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "bo-sung",
+    "target_document": "02/2024/TT-BKHĐT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 8"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 Điều 8 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 4",
+    "action": "sua-doi",
+    "target_document": "02/2024/TT-BKHĐT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 9"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 9 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 4",
+    "action": "bo-sung",
+    "target_document": "02/2024/TT-BKHĐT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 9"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 9 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 5",
+    "action": "sua-doi",
+    "target_document": "02/2024/TT-BKHĐT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 10",
+     "khoản 2 Điều 10"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 và khoản 2 Điều 10 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 5",
+    "action": "bo-sung",
+    "target_document": "02/2024/TT-BKHĐT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 10",
+     "khoản 2 Điều 10"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 và khoản 2 Điều 10 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 6 điểm a",
+    "action": "sua-doi",
+    "target_document": "02/2024/TT-BKHĐT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 1 Điều 14"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm a khoản 1 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 6 điểm a",
+    "action": "bo-sung",
+    "target_document": "02/2024/TT-BKHĐT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 1 Điều 14"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm a khoản 1 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 6 điểm b",
+    "action": "sua-doi",
+    "target_document": "02/2024/TT-BKHĐT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 14"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 6 điểm b",
+    "action": "bo-sung",
+    "target_document": "02/2024/TT-BKHĐT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 14"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 6 điểm c",
+    "action": "sua-doi",
+    "target_document": "02/2024/TT-BKHĐT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm b khoản 3 Điều 14"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm b khoản 3 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 6 điểm c",
+    "action": "bo-sung",
+    "target_document": "02/2024/TT-BKHĐT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm b khoản 3 Điều 14"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm b khoản 3 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 7",
+    "action": "sua-doi",
+    "target_document": "02/2024/TT-BKHĐT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 15"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 15 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 7",
+    "action": "bo-sung",
+    "target_document": "02/2024/TT-BKHĐT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 15"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 15 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 8",
+    "action": "sua-doi",
+    "target_document": "02/2024/TT-BKHĐT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 16",
+     "khoản 2 Điều 16",
+     "khoản 3 Điều 16"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung các khoản 1, 2 và 3 Điều 16 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 8",
+    "action": "bo-sung",
+    "target_document": "02/2024/TT-BKHĐT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 16",
+     "khoản 2 Điều 16",
+     "khoản 3 Điều 16"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung các khoản 1, 2 và 3 Điều 16 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 9",
+    "action": "sua-doi",
+    "target_document": "02/2024/TT-BKHĐT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 17"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 17 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 9",
+    "action": "bo-sung",
+    "target_document": "02/2024/TT-BKHĐT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 17"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 17 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 10",
+    "action": "sua-doi",
+    "target_document": "02/2024/TT-BKHĐT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 19"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 Điều 19 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 10",
+    "action": "bo-sung",
+    "target_document": "02/2024/TT-BKHĐT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 19"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 Điều 19 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 11",
+    "action": "sua-doi",
+    "target_document": "02/2024/TT-BKHĐT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 22"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 22 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 11",
+    "action": "bo-sung",
+    "target_document": "02/2024/TT-BKHĐT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 22"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 22 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 12",
+    "action": "sua-doi",
+    "target_document": "02/2024/TT-BKHĐT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 28"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 28 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 12",
+    "action": "bo-sung",
+    "target_document": "02/2024/TT-BKHĐT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 28"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 28 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 13",
+    "action": "sua-doi",
+    "target_document": "02/2024/TT-BKHĐT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 32"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 Điều 32 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 13",
+    "action": "bo-sung",
+    "target_document": "02/2024/TT-BKHĐT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 32"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 Điều 32 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 14",
+    "action": "bai-bo",
+    "target_document": "02/2024/TT-BKHĐT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 34"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ Điều 34."
+   },
+   {
+    "source_path": "Điều 1 Khoản 15 điểm a",
+    "action": "sua-doi",
+    "target_document": "02/2024/TT-BKHĐT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "tên Điều 35"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi tên Điều 35 như sau: “Điều 35. Trách nhiệm của đơn vị tổ chức thi, cấp, thu hồi chứng chỉ nghiệp vụ chuyên môn về đấu thầu”"
+   },
+   {
+    "source_path": "Điều 1 Khoản 15 điểm b",
+    "action": "bo-sung",
+    "target_document": "02/2024/TT-BKHĐT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3a Điều 35",
+     "khoản 3b Điều 35"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung khoản 3a và 3b vào sau khoản 3 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 16 điểm a",
+    "action": "sua-doi",
+    "target_document": "02/2024/TT-BKHĐT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 37"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 16 điểm a",
+    "action": "bo-sung",
+    "target_document": "02/2024/TT-BKHĐT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 37"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 16 điểm b",
+    "action": "sua-doi",
+    "target_document": "02/2024/TT-BKHĐT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 37"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 16 điểm b",
+    "action": "bo-sung",
+    "target_document": "02/2024/TT-BKHĐT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 37"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 16 điểm c",
+    "action": "bo-sung",
+    "target_document": "02/2024/TT-BKHĐT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 5 Điều 37"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung khoản 5 vào sau khoản 4 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 17 điểm a",
+    "action": "thay-cum-tu",
+    "target_document": "02/2024/TT-BKHĐT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 1",
+     "khoản 2 Điều 3",
+     "điểm b khoản 3 Điều 3",
+     "điểm d khoản 3 Điều 3",
+     "điểm a khoản 5 Điều 3",
+     "điểm b khoản 3 Điều 23",
+     "khoản 3 Điều 3",
+     "điểm a khoản 3 Điều 20",
+     "khoản 2 Điều 26",
+     "khoản 3 Điều 37",
+     "khoản 9 Điều 3",
+     "khoản 1 Điều 11",
+     "khoản 3 Điều 32",
+     "khoản 2 Điều 39"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế các cụm từ sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 17 điểm a",
+    "action": "thay-cum-tu",
+    "target_document": "02/2024/TT-BKHĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "a.7) Thay thế cụm từ “cấp gia hạn” thành “cấp” tại ghi chú số (2) Phụ lục 2;"
+   },
+   {
+    "source_path": "Điều 1 Khoản 17 điểm b",
+    "action": "bai-bo",
+    "target_document": "02/2024/TT-BKHĐT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 5 Điều 3",
+     "khoản 6 Điều 3",
+     "điểm c khoản 3 Điều 11",
+     "điểm a khoản 4 Điều 11",
+     "khoản 1 Điều 23",
+     "khoản 1 Điều 31",
+     "khoản 4 Điều 31"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bỏ các cụm từ, mẫu, điểm sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 17 điểm b",
+    "action": "bai-bo",
+    "target_document": "02/2024/TT-BKHĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục 2",
+     "Phụ lục 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "b.7) Bãi bỏ các Mẫu số 01, 03, 04, 05 và Mẫu số 06 Phụ lục 3;"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Khoản có điểm (khoản 2, 6, 15, 16, 17 Điều 1): quan hệ ghi ở từng điểm, câu dẫn của khoản chỉ là ngữ cảnh. Khoản 17: các tiết a.1-a.8, b.1-b.8 gộp theo hành động; vị trí ở Phụ lục 2, 3 tách quan hệ riêng (kem_theo); 'Bỏ cụm từ' ghi bai-bo. Điều 2 khoản 2 chỉ nêu thời điểm hiệu lực, không phải quan hệ."
+ },
+ {
+  "doc_id": "691307",
+  "relations": [
+   {
+    "source_path": "Điều 3",
+    "action": "thay-the",
+    "target_document": "3435/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục I"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế TTHC đã được công bố có số thứ 01 mục I Phụ lục I ban hành kèm theo Quyết định số 3435/QĐ-UBND ngày 05/11/2025 của Chủ tịch UBND thành phố về công bố Danh mục TTHC sửa đổi, bổ sung, TTHC bị bãi bỏ trong lĩnh vực chứng thực thuộc phạm vi chức năng quản lý của Sở Tư pháp."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 1 chỉ công bố danh mục. Bảng phụ lục không nêu quyết định đích (cột VBQPPL là căn cứ)."
+ },
+ {
+  "doc_id": "690570",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Chỉ thị giao nhiệm vụ; không có tác động lên văn bản khác."
+ },
+ {
+  "doc_id": "677225",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "bai-bo",
+    "target_document": "1634/QĐ-NHNN",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "BÃI BỎ QUYẾT ĐỊNH SỐ 1634/QĐ-NHNN NGÀY 31 THÁNG 3 NĂM 2025 VỀ VIỆC ĐÍNH CHÍNH THÔNG TƯ SỐ 62/2024/TT-NHNN NGÀY 31 THÁNG 12 NĂM 2024 CỦA THỐNG ĐỐC NGÂN HÀNG NHÀ NƯỚC VIỆT NAM QUY ĐỊNH VỀ ĐIỀU KIỆN, HỒ SƠ, THỦ TỤC CHẤP THUẬN VIỆC TỔ CHỨC LẠI NGÂN HÀNG THƯƠNG MẠI, TỔ CHỨC TÍN DỤNG PHI NGÂN HÀNG"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bai-bo",
+    "target_document": "1634/QĐ-NHNN",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ Quyết định số 1634/QĐ-NHNN ngày 31 tháng 3 năm 2025 về việc đính chính Thông tư số 62/2024/TT-NHNN ngày 31 tháng 12 năm 2024 của Thống đốc Ngân hàng Nhà nước Việt Nam quy định về điều kiện, hồ sơ, thủ tục chấp thuận việc tổ chức lại ngân hàng thương mại, tổ chức tín dụng phi ngân hàng."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Thông tư 62/2024/TT-NHNN chỉ là văn bản được QĐ 1634 đính chính, không phải đích."
+ },
+ {
+  "doc_id": "688001",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 2 thay thế quy trình nội bộ tại 'các Quyết định của Chủ tịch UBND tỉnh' nhưng không nêu số hiệu; danh sách kèm theo là file đính kèm, không có trong toàn văn: không ghi quan hệ."
+ },
+ {
+  "doc_id": "688541",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Nghị quyết ban hành bảng giá đất; không có tác động lên văn bản khác."
+ },
+ {
+  "doc_id": "678212",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Phụ lục 2 STT 1-3 là nhiệm vụ xây dựng Nghị định (sửa đổi NĐ 110/2018/NĐ-CP, 86/2023/NĐ-CP): nhiệm vụ, không phải quan hệ."
+ },
+ {
+  "doc_id": "679113",
+  "relations": [
+   {
+    "source_path": "Điều 1",
+    "action": "bai-bo",
+    "target_document": "810/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục I"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ các nội dung phê duyệt quy trình nội bộ giải quyết thủ tục hành chính đối với các quy trình nội bộ giải quyết thủ tục hành chính tương ứng đã được phê duyệt tại Phụ lục I, Quyết định số 810/QĐ-UBND ngày 30/6/2025 và phụ lục II, Quyết định số 758/QĐ-UBND ngày 27/6/2025 của Chủ tịch UBND tỉnh Ninh Bình."
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bai-bo",
+    "target_document": "758/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục II"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ các nội dung phê duyệt quy trình nội bộ giải quyết thủ tục hành chính đối với các quy trình nội bộ giải quyết thủ tục hành chính tương ứng đã được phê duyệt tại Phụ lục I, Quyết định số 810/QĐ-UBND ngày 30/6/2025 và phụ lục II, Quyết định số 758/QĐ-UBND ngày 27/6/2025 của Chủ tịch UBND tỉnh Ninh Bình."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Bãi bỏ phần quy trình nội bộ tương ứng (không nêu từng quy trình) trong phụ lục của 2 quyết định."
+ },
+ {
+  "doc_id": "683491",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công bố danh mục TTHC; cột căn cứ pháp lý không phải đích. Không có quan hệ."
+ },
+ {
+  "doc_id": "689559",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "3396/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế danh mục 05 thủ tục hành chính cấp tỉnh có số thứ tự 01, 02, 03, 04, 05 mục II, Phụ lục danh mục thủ tục hành chính được công bố kèm theo Quyết định số 3396/QĐ-UBND ngày 31/12/2025 của Chủ tịch Ủy ban nhân dân thành phố Đà Nẵng."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "1136/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế danh mục 02 thủ tục hành chính cấp tỉnh có số thứ tự 103, 104 mục XIII, Phần A và 02 thủ tục hành chính cấp xã có số thứ tự 38, 39 mục VI, Phần B, Phụ lục danh mục thủ tục hành chính được công bố kèm theo Quyết định số 1136/QĐ-UBND ngày 22/8/2025 của Chủ tịch Ủy ban nhân dân thành phố Đà Nẵng."
+   },
+   {
+    "source_path": "Phụ lục 1 Mục II STT 1",
+    "action": "bai-bo",
+    "target_document": "3396/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục"
+    ],
+    "doi_tuong": null,
+    "evidence": "Số thứ tự số 03 mục II, Phụ lục kèm theo Quyết định số 3396/QĐ-UBND"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục II STT 2",
+    "action": "bai-bo",
+    "target_document": "3396/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục"
+    ],
+    "doi_tuong": null,
+    "evidence": "Số thứ tự số 04 mục II, Phụ lục kèm theo Quyết định số 3396/QĐ-UBND"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục II STT 3",
+    "action": "bai-bo",
+    "target_document": "1136/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục"
+    ],
+    "doi_tuong": null,
+    "evidence": "- Số thứ tự số 103 mục XIII, Phần A, Phụ lục kèm theo Quyết định số 1136/QĐ-UBND. - Số thứ tự số 38 mục VI, Phần B, Phụ lục kèm theo Quyết định số 1136/QĐ-UBND."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Phụ lục đích không đánh số nên vi_tri ghi 'Phụ lục'. Bảng Mục II (TTHC bãi bỏ) có cột QĐ đã công bố: mỗi dòng một quan hệ bai-bo; bảng Mục I không nêu QĐ đích."
+ },
+ {
+  "doc_id": "686350",
+  "relations": [],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "loai": "gop_sai",
+    "ghi_chu": "Tiểu mục 2.1, 2.2, 2.3 không tách; '2.1. Thu ngân sách nhà nước' bị gộp vào câu dẫn, điểm a, b của 2.1 và 2.2 trùng nhãn."
+   }
+  ],
+  "ghi_chu": "Nghị quyết thông qua kế hoạch tài chính 5 năm; không có tác động lên văn bản khác."
+ },
+ {
+  "doc_id": "686388",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Kế hoạch triển khai thi hành Luật Thanh tra: không tự hướng dẫn hoặc quy định chi tiết điều nào; không có quan hệ."
+ },
+ {
+  "doc_id": "677094",
+  "relations": [
+   {
+    "source_path": "Điều 3",
+    "action": "thay-the",
+    "target_document": "1295/QĐ-BNNMT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực thi hành kể từ ngày ký và thay thế Quyết định số 1295/QĐ-BNNMT ngày 04 tháng 8 năm 2025 của Chủ tịch Ủy ban nhân dân tỉnh Cao Bằng"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Số hiệu đích in là 1295/QĐ-BNNMT nhưng cơ quan ban hành là Chủ tịch UBND tỉnh Cao Bằng (ký hiệu có thể in sai); ghi đúng như văn bản."
+ },
+ {
+  "doc_id": "685762",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Kế hoạch đầu tư công; 'gian hạn' là gia hạn bố trí vốn dự án, không phải văn bản. Không có quan hệ."
+ }
+]

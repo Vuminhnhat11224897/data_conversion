@@ -1,0 +1,697 @@
+[
+ {
+  "doc_id": "686092",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "136/2024/QH15",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA NGHỊ QUYẾT SỐ 136/2024/QH15 NGÀY 26 THÁNG 6 NĂM 2024 CỦA QUỐC HỘI VỀ THÍ ĐIỂM MỘT SỐ CƠ CHẾ, CHÍNH SÁCH ĐẶC THÙ PHÁT TRIỂN THÀNH PHỐ ĐÀ NẴNG"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "136/2024/QH15",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA NGHỊ QUYẾT SỐ 136/2024/QH15 NGÀY 26 THÁNG 6 NĂM 2024 CỦA QUỐC HỘI VỀ THÍ ĐIỂM MỘT SỐ CƠ CHẾ, CHÍNH SÁCH ĐẶC THÙ PHÁT TRIỂN THÀNH PHỐ ĐÀ NẴNG"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "136/2024/QH15",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm c khoản 2 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm c khoản 2 Điều 3 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "136/2024/QH15",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm c khoản 2 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm c khoản 2 Điều 3 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "136/2024/QH15",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 9"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 9 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "136/2024/QH15",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 9"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 9 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3 điểm a",
+    "action": "sua-doi",
+    "target_document": "136/2024/QH15",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 10"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3 điểm a",
+    "action": "bo-sung",
+    "target_document": "136/2024/QH15",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 10"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3 điểm b",
+    "action": "bo-sung",
+    "target_document": "136/2024/QH15",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm b1 khoản 3 Điều 10"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung điểm b1 vào sau điểm b khoản 3 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3 điểm c",
+    "action": "sua-doi",
+    "target_document": "136/2024/QH15",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 4 Điều 10"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 4 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3 điểm c",
+    "action": "bo-sung",
+    "target_document": "136/2024/QH15",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 4 Điều 10"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 4 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3 điểm d",
+    "action": "sua-doi",
+    "target_document": "136/2024/QH15",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 7 Điều 10",
+     "điểm b khoản 7 Điều 10"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm a và điểm b khoản 7 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3 điểm d",
+    "action": "bo-sung",
+    "target_document": "136/2024/QH15",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 7 Điều 10",
+     "điểm b khoản 7 Điều 10"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm a và điểm b khoản 7 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 4 điểm a",
+    "action": "bo-sung",
+    "target_document": "136/2024/QH15",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1a Điều 11"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung khoản 1a vào sau khoản 1 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 4 điểm b",
+    "action": "sua-doi",
+    "target_document": "136/2024/QH15",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 4 Điều 11"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 4 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 4 điểm b",
+    "action": "bo-sung",
+    "target_document": "136/2024/QH15",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 4 Điều 11"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 4 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 4 điểm c",
+    "action": "sua-doi",
+    "target_document": "136/2024/QH15",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 5 Điều 11"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm a khoản 5 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 4 điểm c",
+    "action": "bo-sung",
+    "target_document": "136/2024/QH15",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 5 Điều 11"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm a khoản 5 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 4 điểm d",
+    "action": "sua-doi",
+    "target_document": "136/2024/QH15",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 6 Điều 11"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 6 và bổ sung khoản 7, khoản 8 vào sau khoản 6 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 4 điểm d",
+    "action": "bo-sung",
+    "target_document": "136/2024/QH15",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 6 Điều 11",
+     "khoản 7 Điều 11",
+     "khoản 8 Điều 11"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 6 và bổ sung khoản 7, khoản 8 vào sau khoản 6 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 5 điểm a",
+    "action": "sua-doi",
+    "target_document": "136/2024/QH15",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm c khoản 1 Điều 12"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm c khoản 1 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 5 điểm a",
+    "action": "bo-sung",
+    "target_document": "136/2024/QH15",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm c khoản 1 Điều 12"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm c khoản 1 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 5 điểm b",
+    "action": "bo-sung",
+    "target_document": "136/2024/QH15",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm e khoản 1 Điều 12",
+     "điểm g khoản 1 Điều 12",
+     "điểm h khoản 1 Điều 12",
+     "điểm i khoản 1 Điều 12",
+     "điểm k khoản 1 Điều 12",
+     "điểm l khoản 1 Điều 12",
+     "điểm m khoản 1 Điều 12",
+     "điểm n khoản 1 Điều 12",
+     "điểm o khoản 1 Điều 12",
+     "điểm p khoản 1 Điều 12",
+     "điểm q khoản 1 Điều 12"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung các điểm e, g, h, i, k, l, m, n, o, p và q vào sau điểm đ khoản 1 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 5 điểm c",
+    "action": "sua-doi",
+    "target_document": "136/2024/QH15",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 12"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 5 điểm c",
+    "action": "bo-sung",
+    "target_document": "136/2024/QH15",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 12"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 5 điểm d",
+    "action": "sua-doi",
+    "target_document": "136/2024/QH15",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 12"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung đoạn mở đầu của khoản 3 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 5 điểm d",
+    "action": "bo-sung",
+    "target_document": "136/2024/QH15",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 12"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung đoạn mở đầu của khoản 3 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 5 điểm đ",
+    "action": "sua-doi",
+    "target_document": "136/2024/QH15",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm b khoản 3 Điều 12"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm b và bổ sung điểm c vào sau điểm b khoản 3 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 5 điểm đ",
+    "action": "bo-sung",
+    "target_document": "136/2024/QH15",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm b khoản 3 Điều 12",
+     "điểm c khoản 3 Điều 12"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm b và bổ sung điểm c vào sau điểm b khoản 3 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 5 điểm e",
+    "action": "sua-doi",
+    "target_document": "136/2024/QH15",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 4 Điều 12"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 4 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 5 điểm e",
+    "action": "bo-sung",
+    "target_document": "136/2024/QH15",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 4 Điều 12"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 4 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 5 điểm g",
+    "action": "bo-sung",
+    "target_document": "136/2024/QH15",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm c khoản 5 Điều 12",
+     "điểm d khoản 5 Điều 12"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung điểm c và điểm d vào sau điểm b khoản 5 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 5 điểm h",
+    "action": "sua-doi",
+    "target_document": "136/2024/QH15",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 7 Điều 12"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 7 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 5 điểm h",
+    "action": "bo-sung",
+    "target_document": "136/2024/QH15",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 7 Điều 12"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 7 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 5 điểm i",
+    "action": "bo-sung",
+    "target_document": "136/2024/QH15",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 9 Điều 12",
+     "khoản 10 Điều 12"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung khoản 9 và khoản 10 vào sau khoản 8 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 6 điểm a",
+    "action": "sua-doi",
+    "target_document": "136/2024/QH15",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 13",
+     "khoản 2 Điều 13",
+     "khoản 3 Điều 13",
+     "khoản 4 Điều 13",
+     "khoản 5 Điều 13",
+     "khoản 6 Điều 13"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung các khoản 1, 2, 3, 4, 5 và 6 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 6 điểm a",
+    "action": "bo-sung",
+    "target_document": "136/2024/QH15",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 13",
+     "khoản 2 Điều 13",
+     "khoản 3 Điều 13",
+     "khoản 4 Điều 13",
+     "khoản 5 Điều 13",
+     "khoản 6 Điều 13"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung các khoản 1, 2, 3, 4, 5 và 6 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 6 điểm b",
+    "action": "bo-sung",
+    "target_document": "136/2024/QH15",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 7a Điều 13"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung khoản 7a vào sau khoản 7 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 6 điểm c",
+    "action": "sua-doi",
+    "target_document": "136/2024/QH15",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm e khoản 8 Điều 13"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm e và bổ sung điểm g vào sau điểm e khoản 8 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 6 điểm c",
+    "action": "bo-sung",
+    "target_document": "136/2024/QH15",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm e khoản 8 Điều 13",
+     "điểm g khoản 8 Điều 13"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm e và bổ sung điểm g vào sau điểm e khoản 8 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 6 điểm d",
+    "action": "sua-doi",
+    "target_document": "136/2024/QH15",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 10 Điều 13"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 10 và bổ sung các khoản 11, 12 vào sau khoản 10 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 6 điểm d",
+    "action": "bo-sung",
+    "target_document": "136/2024/QH15",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 10 Điều 13",
+     "khoản 11 Điều 13",
+     "khoản 12 Điều 13"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 10 và bổ sung các khoản 11, 12 vào sau khoản 10 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 7 điểm a",
+    "action": "sua-doi",
+    "target_document": "136/2024/QH15",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm d khoản 1 Điều 14"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm d khoản 1 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 7 điểm a",
+    "action": "bo-sung",
+    "target_document": "136/2024/QH15",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm d khoản 1 Điều 14"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm d khoản 1 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 7 điểm b",
+    "action": "sua-doi",
+    "target_document": "136/2024/QH15",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 2 Điều 14"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm a khoản 2 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 7 điểm b",
+    "action": "bo-sung",
+    "target_document": "136/2024/QH15",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 2 Điều 14"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm a khoản 2 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 7 điểm c",
+    "action": "sua-doi",
+    "target_document": "136/2024/QH15",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 6 Điều 14",
+     "điểm a khoản 6 Điều 14",
+     "điểm b khoản 6 Điều 14"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung đoạn mở đầu, điểm a và điểm b khoản 6 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 7 điểm c",
+    "action": "bo-sung",
+    "target_document": "136/2024/QH15",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 6 Điều 14",
+     "điểm a khoản 6 Điều 14",
+     "điểm b khoản 6 Điều 14"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung đoạn mở đầu, điểm a và điểm b khoản 6 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 7 điểm d",
+    "action": "sua-doi",
+    "target_document": "136/2024/QH15",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 7 Điều 14",
+     "điểm a khoản 7 Điều 14",
+     "điểm b khoản 7 Điều 14"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung đoạn mở đầu, điểm a và điểm b khoản 7 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 7 điểm d",
+    "action": "bo-sung",
+    "target_document": "136/2024/QH15",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 7 Điều 14",
+     "điểm a khoản 7 Điều 14",
+     "điểm b khoản 7 Điều 14"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung đoạn mở đầu, điểm a và điểm b khoản 7 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 7 điểm đ",
+    "action": "sua-doi",
+    "target_document": "136/2024/QH15",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm d khoản 7 Điều 14"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm d khoản 7 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 7 điểm đ",
+    "action": "bo-sung",
+    "target_document": "136/2024/QH15",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm d khoản 7 Điều 14"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm d khoản 7 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 8 điểm a",
+    "action": "sua-doi",
+    "target_document": "136/2024/QH15",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "tên Điều 15"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi tên Điều như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 8 điểm b",
+    "action": "sua-doi",
+    "target_document": "136/2024/QH15",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 15"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 và bổ sung khoản 3 vào sau khoản 2 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 8 điểm b",
+    "action": "bo-sung",
+    "target_document": "136/2024/QH15",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 15",
+     "khoản 3 Điều 15"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 và bổ sung khoản 3 vào sau khoản 2 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 9",
+    "action": "bai-bo",
+    "target_document": "136/2024/QH15",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Chương II",
+     "điểm a khoản 3 Điều 10",
+     "khoản 5 Điều 10",
+     "khoản 6 Điều 10",
+     "điểm a khoản 5 Điều 12",
+     "điểm c khoản 6 Điều 14",
+     "điểm b khoản 2 Điều 16"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ Chương II; điểm a khoản 3, khoản 5, khoản 6 Điều 10; điểm a khoản 5 Điều 12; điểm c khoản 6 Điều 14; điểm b khoản 2 Điều 16."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quan hệ ghi ở từng điểm của Khoản 3-8 Điều 1; câu dẫn 'Sửa đổi, bổ sung một số điểm, khoản của Điều ...' chỉ là câu dẫn của các điểm (như tên Điều 1), không ghi quan hệ riêng ở khoản. Luật 71/2025/QH15, 72/2025/QH15 ở tên Điều 1 là lịch sử sửa đổi, không phải đích. Điều 2 khoản 2 (thời gian thí điểm 10 năm) và Điều 3 (chuyển tiếp) không tác động lên văn bản khác. noi_dung Khoản 5, Khoản 6, Khoản 6 điểm a bị cắt trong gói; đã đối chiếu toàn văn."
+ },
+ {
+  "doc_id": "683350",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "20/2016/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực thi hành kể từ ngày 10 tháng 12 năm 2025 và thay thế Quyết định số 20/2016/QĐ-UBND ngày 04 tháng 3 năm 2016 của Ủy ban nhân dân tỉnh Bình Định ban hành Quy định quản lý hoạt động thoát nước, xử lý nước thải trên địa bàn tỉnh"
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "30/2021/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực thi hành kể từ ngày 10 tháng 12 năm 2025 và thay thế Quyết định số 20/2016/QĐ-UBND ngày 04 tháng 3 năm 2016 của Ủy ban nhân dân tỉnh Bình Định ban hành Quy định quản lý hoạt động thoát nước, xử lý nước thải trên địa bàn tỉnh, Quyết định số 30/2021/QĐ-UBND ngày 05 tháng 7 năm 2021 của Ủy ban nhân dân tỉnh Bình Định sửa đổi, bổ sung một số điều của Quy định ban hành kèm theo Quyết định số 20/2016/QĐ-UBND ngày 04 tháng 3 năm 2016 của Ủy ban nhân dân tỉnh Bình Định về việc ban hành Quy định quản lý hoạt động thoát nước, xử lý nước thải trên địa bàn tỉnh Bình Định."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 2 thay thế 2 quyết định của UBND tỉnh Bình Định. Số 20/2016/QĐ-UBND lần thứ hai chỉ là mô tả nội dung của 30/2021/QĐ-UBND. Dẫn chiếu NĐ 80/2014/NĐ-CP, TT 04/2015/TT-BXD... trong Quy định và 'đề nghị ... sửa đổi, bổ sung' (Điều 8 khoản 1 điểm c) không phải tác động."
+ },
+ {
+  "doc_id": "689887",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Kế hoạch thực hiện Chương trình theo Quyết định 3399/QĐ-BVHTTDL; câu 'Thực hiện Quyết định số 3399/QĐ-BVHTTDL...' là căn cứ, không phải tác động. Mục A, Mục B chỉ có nhiệm vụ (hoàn thiện, bổ sung ngành nghề...), không tác động lên văn bản khác."
+ }
+]

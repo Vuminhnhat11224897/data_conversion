@@ -1,0 +1,39 @@
+[
+ {
+  "doc_id": "687985",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 2 thay thế \"các Quyết định công bố thủ tục hành chính nội bộ trước đây thuộc phạm vi chức năng quản lý của Thanh tra tỉnh Điện Biên\" nhưng không nêu số hiệu văn bản nào: không ghi quan hệ. Điều 1 chỉ công bố TTHC nội bộ; phụ lục không có dòng nêu văn bản đích. Nghị định 59/2019/NĐ-CP, 134/2021/NĐ-CP, Thông tư 05/2024/TT-TTCP chỉ là căn cứ pháp lý."
+ },
+ {
+  "doc_id": "680574",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quy chế 08-QC/TW của Ban Bí thư: không có câu sửa đổi, bổ sung, bãi bỏ, thay thế văn bản khác. Các đơn vị trong don_vi chỉ quy định trách nhiệm, giao nhiệm vụ hướng dẫn, ban hành quy chế (Điều 4 Khoản 3, Điều 18 Khoản 4, Điều 19 Khoản 2): không phải quan hệ. Văn bản ở phần căn cứ không phải đích."
+ },
+ {
+  "doc_id": "684489",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "215/QĐ-BGTVT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "các TTHC có mã số 1.002345, 1.000289, 1.000279",
+    "evidence": "thay thế các TTHC có mã số 1.002345, 1.000289, 1.000279 và bãi bỏ các TTHC có mã số 1.002326, 1.000284 được công bố tại Quyết định số 215/QĐ-BGTVT ngày 06/3/2024 của Bộ trưởng Bộ Giao thông vận tải"
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "215/QĐ-BGTVT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "các TTHC có mã số 1.002326, 1.000284",
+    "evidence": "thay thế các TTHC có mã số 1.002345, 1.000289, 1.000279 và bãi bỏ các TTHC có mã số 1.002326, 1.000284 được công bố tại Quyết định số 215/QĐ-BGTVT ngày 06/3/2024 của Bộ trưởng Bộ Giao thông vận tải"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên văn bản không nêu văn bản đích: không có quan hệ Phần đầu. Điều 1 \"Công bố kèm theo ... được sửa đổi, bổ sung, bãi bỏ\" không là hành động. Phụ lục 1 (Phần I, II): các dòng chỉ nêu Thông tư 31/2025/TT-BXD ở cột \"Tên VBQPPL quy định nội dung sửa đổi, bổ sung/bãi bỏ\" (tương đương căn cứ pháp lý), không nêu Quyết định đã công bố TTHC: không ghi quan hệ cho dòng bảng. Câu chỉ nêu TTHC bằng mã số nên vi_tri rỗng, doi_tuong ghi mã TTHC."
+ }
+]

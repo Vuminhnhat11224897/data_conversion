@@ -1,6 +1,6 @@
 """Score a run on a stratified set: each stratum, and the population estimate weighted by stratum size.
 
-Usage: python -m eval.strata <set> <run> [--boot 2000] [--json out.json]
+Usage: python -m eval.strata <set>[+<set>…] <run> [--boot 2000] [--json out.json]
 Reads eval/sets/<set>.strata.json ({strata: {name: {N, n, ids}}}), the labels of eval/gold/<set>/ and work/<run>/dry-run/.
 Measures as eval.compare: phat_hien (source document, act and target) and pham_vi (plus the position or the part named by name),
 counted per document. A stratum's counts are weighted by N/n (its population size over its sample size); the 95% interval comes
@@ -46,9 +46,18 @@ def main():
     cli.add_argument('--boot', type=int, default=2000)
     cli.add_argument('--json')
     args = cli.parse_args()
-    design = json.loads((ROOT / 'eval' / 'sets' / f'{args.set}.strata.json').read_text())
-    gold, packets = C.load(args.set)
-    strata = {name: s for name, s in design['strata'].items()}
+    # Several sets drawn from one population are scored as one sample: "h5-20261022+h6-20261022".
+    gold, packets, strata = {}, {}, {}
+    for name in args.set.split('+'):
+        found, cards = C.load(name)
+        gold.update(found)
+        packets.update(cards)
+        design = json.loads((ROOT / 'eval' / 'sets' / f'{name}.strata.json').read_text())
+        for key, s in design['strata'].items():
+            entry = strata.setdefault(key, {'N': s['N'], 'ids': []})
+            if entry['N'] != s['N']:
+                sys.exit(f'Tầng {key}: N khác nhau giữa các bộ, không gộp được')
+            entry['ids'] += s['ids']
     docs = {name: per_document(gold, packets, args.run, [i for i in s['ids'] if i in gold]) for name, s in strata.items()}
     weight = {name: strata[name]['N'] / max(1, len(docs[name])) for name in strata}
     report = {'set': args.set, 'run': args.run, 'strata': {}}

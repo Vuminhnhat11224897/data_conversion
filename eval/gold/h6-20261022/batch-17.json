@@ -1,0 +1,231 @@
+[
+ {
+  "doc_id": "690642",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "30/2019/QĐ-TTg",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA QUY CHẾ XÂY DỰNG, QUẢN LÝ, THỰC HIỆN CHƯƠNG TRÌNH THƯƠNG HIỆU QUỐC GIA VIỆT NAM BAN HÀNH KÈM THEO QUYẾT ĐỊNH SỐ 30/2019/QĐ-TTG NGÀY 08 THÁNG 10 NĂM 2019 CỦA THỦ TƯỚNG CHÍNH PHỦ"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "30/2019/QĐ-TTg",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA QUY CHẾ XÂY DỰNG, QUẢN LÝ, THỰC HIỆN CHƯƠNG TRÌNH THƯƠNG HIỆU QUỐC GIA VIỆT NAM BAN HÀNH KÈM THEO QUYẾT ĐỊNH SỐ 30/2019/QĐ-TTG NGÀY 08 THÁNG 10 NĂM 2019 CỦA THỦ TƯỚNG CHÍNH PHỦ"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "30/2019/QĐ-TTg",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 2 Điều 8"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi khoản 2 Điều 8 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "30/2019/QĐ-TTg",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 3 Điều 8"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi khoản 3 Điều 8 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "sua-doi",
+    "target_document": "30/2019/QĐ-TTg",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 5 Điều 8"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi khoản 5 Điều 8 như sau:"
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "30/2019/QĐ-TTg",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế Mẫu số 01, Mẫu số 02, Mẫu số 03, Mẫu số 04, Mẫu số 05 và Mẫu số 06 tại Phụ lục ban hành kèm theo Quyết định số 30/2019/QĐ-TTg ngày 08 tháng 10 năm 2019 của Thủ tướng Chính phủ."
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "loai": "nhan_sai_dieu",
+    "ghi_chu": "Điểm a–e là nội dung mới trong ngoặc kép (khoản 3 Điều 8 Quy chế), bị nhận thành Điều 1 Khoản 2 điểm a … điểm e của văn bản này."
+   }
+  ],
+  "ghi_chu": "Tên văn bản sửa đổi, bổ sung Quy chế kèm theo QĐ 30/2019/QĐ-TTg (một quan hệ Phần đầu cho mỗi hành động; lời dẫn nêu cùng nội dung). Điều 1 sửa khoản 2, 3, 5 Điều 8 Quy chế; tên Điều 1 ghi 'sửa đổi, bổ sung' nhưng mỗi khoản chỉ sửa đổi. Điều 2 thay 6 mẫu ở Phụ lục kèm theo QĐ 30/2019/QĐ-TTg. Điều 4 chỉ chuyển tiếp."
+ },
+ {
+  "doc_id": "694082",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công bố danh mục TTHC mới, sửa đổi, bổ sung: không phải hành động. Phụ lục là file đính kèm, không có trong toàn văn. Điều 2 nói các nội dung khác đã công bố tại 10 QĐ trước vẫn giữ giá trị pháp lý, không nêu phần nào bị sửa, thay, bãi bỏ: không ghi quan hệ."
+ },
+ {
+  "doc_id": "684735",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn trả lời cử tri. Chỉ kể lại Luật BHXH 41/2024/QH15 và Nghị định 274/2025/NĐ-CP. Không có tác động trực tiếp."
+ },
+ {
+  "doc_id": "685777",
+  "relations": [
+   {
+    "source_path": "Điều 1",
+    "action": "quy-dinh-chi-tiet",
+    "target_document": "222/2025/QH15",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm c2 khoản 1 Điều 9",
+     "khoản 3 Điều 30"
+    ],
+    "doi_tuong": null,
+    "evidence": "Nghị định này quy định chi tiết và hướng dẫn thi hành điểm c2 khoản 1 Điều 9, khoản 3 Điều 30 của Nghị quyết số 222/2025/QH15 ngày 27 tháng 6 năm 2025 của Quốc hội về Trung tâm tài chính quốc tế tại Việt Nam"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "huong-dan",
+    "target_document": "222/2025/QH15",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm c2 khoản 1 Điều 9",
+     "khoản 3 Điều 30"
+    ],
+    "doi_tuong": null,
+    "evidence": "Nghị định này quy định chi tiết và hướng dẫn thi hành điểm c2 khoản 1 Điều 9, khoản 3 Điều 30 của Nghị quyết số 222/2025/QH15 ngày 27 tháng 6 năm 2025 của Quốc hội về Trung tâm tài chính quốc tế tại Việt Nam"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 1 quy định chi tiết và hướng dẫn thi hành 2 vị trí của NQ 222/2025/QH15: 2 quan hệ. Điều 8 khoản 2 là câu chung về văn bản dẫn chiếu; dẫn Luật Trọng tài thương mại chỉ là trích dẫn."
+ },
+ {
+  "doc_id": "685280",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Thông qua danh mục công trình, dự án thu hồi đất. Văn bản ở cột pháp lý của phụ lục không phải đích. Không có tác động lên văn bản khác."
+ },
+ {
+  "doc_id": "684317",
+  "relations": [
+   {
+    "source_path": "Điều 3",
+    "action": "bai-bo",
+    "target_document": "1692/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ Quyết định số 1692/QĐ-UBND ngày 24/10/2024 của Chủ tịch UBND tỉnh Bắc Giang về việc công bố thủ tục hành chính mới ban hành tại Nghị quyết số 71/2024/NQ-HĐND ngày 08/10/2024 của HĐND tỉnh Bắc Giang Quy định một số chính sách hỗ trợ bảo tồn, phát huy tiếng dân tộc thiểu số trên địa bàn tỉnh Bắc Giang, giai đoạn 2024-2030."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 3 bãi bỏ QĐ 1692/QĐ-UBND của Chủ tịch UBND tỉnh Bắc Giang. Điều 1 công bố TTHC: không phải hành động. Câu hiệu lực theo NQ 75/2025/NQ-HĐND không phải quan hệ."
+ },
+ {
+  "doc_id": "689493",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn trả lời về ưu đãi thuế TNDN. Câu 'Cục Thuế căn cứ quy định tại Điều 12 Luật số 67/2025/QH15 và quy định tại khoản 2 Điều 23 Nghị định số 320/2025/NĐ-CP ... để hướng dẫn doanh nghiệp thực hiện' là căn cứ, trích dẫn và việc hướng dẫn doanh nghiệp, không chắc là quan hệ huong-dan lên văn bản: không ghi. Công văn 3601/CT-CS chỉ được nêu."
+ },
+ {
+  "doc_id": "685326",
+  "relations": [
+   {
+    "source_path": "Phụ lục 1 STT 1",
+    "action": "bai-bo",
+    "target_document": "1544/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Sử dụng tạm thời một phần hè phố tuyên truyền chủ trương, chính sách của Đảng và pháp luật của Nhà nước",
+    "evidence": "Thủ tục hành chính tương ứng được Chủ tịch Ủy ban nhân dân tỉnh công bố tại Danh mục kèm theo Quyết định số 1544/QĐ- UBND ngày 08/9/2016 hết hiệu lực kể từ ngày Quyết định này có hiệu lực thi hành."
+   },
+   {
+    "source_path": "Phụ lục 1 STT 10",
+    "action": "bai-bo",
+    "target_document": "1336/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Thẩm định dự án thuộc đối tượng lập báo cáo kinh tế - kỹ thuật do UBND tỉnh hoặc chủ tịch UBND tỉnh quyết định đầu tư (Phần nhiệm vụ thẩm định của người quyết định đầu tư dự án)",
+    "evidence": "Thủ tục hành chính tương ứng được Chủ tịch Ủy ban nhân dân tỉnh công bố tại Danh mục kèm theo Quyết định 1336/QĐ-UBND ngày 13/5/2022 hết hiệu lực kể từ ngày Quyết định này có hiệu lực thi hành."
+   },
+   {
+    "source_path": "Phụ lục 1 STT 16",
+    "action": "bai-bo",
+    "target_document": "731/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Quy trình liên thông giải quyết thủ tục thẩm định thiết kế cơ sở/thiết kế cơ sở điều chỉnh; thẩm định thiết kế kỹ thuật (trường hợp thiết kế ba bước), thiết kế bản vẽ thi công (trường hợp thiết kế hai bước)/thiết kế điều chỉnh và cấp giấy phép xây dựng đối với công trình cấp II, dự án sử dụng vốn khác",
+    "evidence": "Thủ tục hành chính tương ứng được Chủ tịch Ủy ban nhân dân tỉnh công bố tại Danh mục kèm theo Quyết định số 731/QĐ-UBND ngày 26/04/2019 hết hiệu lực kể từ ngày Quyết định này có hiệu lực thi hành."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Phụ lục 1 là danh mục TTHC bãi bỏ; dòng tự tuyên bố TTHC đã công bố tại QĐ trước hết hiệu lực. Cột 'TTHC ... hết hiệu lực' chỉ có chữ ở STT 1, 10, 16; có thể là ô gộp cho STT 2–9, 11–15, 17–18, nhưng không đoán: chỉ ghi 3 dòng có chữ. Văn bản ở cột 'Căn cứ pháp lý quy định bãi bỏ TTHC' (01019/QĐ-UBND, 028/2025/QĐ-UBND, 09/2022/QĐ-UBND) không phải đích."
+ },
+ {
+  "doc_id": "679647",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quy định chức năng, nhiệm vụ, cơ cấu tổ chức của Trường THPT Phạm Hùng. Chỉ dẫn chiếu Thông tư 32/2020/TT-BGDĐT, NQ 190/2025/QH15. Không có tác động lên văn bản khác."
+ },
+ {
+  "doc_id": "692952",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công bố TTHC sửa đổi, bổ sung, bãi bỏ. Dòng bảng chỉ nêu Thông tư 59/2025/TT-BXD là VBQPPL quy định nội dung (căn cứ), không nêu QĐ đã công bố TTHC: không có quan hệ. Nội dung TTHC ở file đính kèm, không có trong toàn văn."
+ },
+ {
+  "doc_id": "683931",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Ban hành Quy chế quản lý, vận hành hệ thống thông tin môi trường. Không có tác động lên văn bản khác."
+ },
+ {
+  "doc_id": "684752",
+  "relations": [
+   {
+    "source_path": "Điều 3 Khoản 2",
+    "action": "thay-the",
+    "target_document": "62/2023/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị quyết này thay thế Nghị quyết số 62/2023/NQ-HĐND ngày 08 tháng 12 năm 2023 của Hội đồng nhân dân tỉnh Tây Ninh về phân cấp nhiệm vụ chi kinh phí sự nghiệp bảo vệ môi trường trên địa bàn tỉnh Tây Ninh và Nghị quyết số 27/2023/NQ-HĐND ngày 01 tháng 12 năm 2023 của Hội đồng nhân dân tỉnh Long An về phân định các nhiệm vụ chi về bảo vệ môi trường trên địa bàn tỉnh Long An."
+   },
+   {
+    "source_path": "Điều 3 Khoản 2",
+    "action": "thay-the",
+    "target_document": "27/2023/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị quyết này thay thế Nghị quyết số 62/2023/NQ-HĐND ngày 08 tháng 12 năm 2023 của Hội đồng nhân dân tỉnh Tây Ninh về phân cấp nhiệm vụ chi kinh phí sự nghiệp bảo vệ môi trường trên địa bàn tỉnh Tây Ninh và Nghị quyết số 27/2023/NQ-HĐND ngày 01 tháng 12 năm 2023 của Hội đồng nhân dân tỉnh Long An về phân định các nhiệm vụ chi về bảo vệ môi trường trên địa bàn tỉnh Long An."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 3 khoản 2 thay thế NQ 62/2023/NQ-HĐND (Tây Ninh) và NQ 27/2023/NQ-HĐND (Long An). Bảng mức chi ở Điều 5 Quy định chỉ dẫn Thông tư 31/2023/TT-BTC, 02/2017/TT-BTC; Điều 3 khoản 3 là câu chung: không phải quan hệ."
+ },
+ {
+  "doc_id": "684584",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn đề nghị bảo đảm nguồn cung vật liệu xây dựng, thực hiện Công điện 234/CĐ-TTg. Không có tác động lên văn bản khác."
+ }
+]

@@ -649,3 +649,46 @@ H5 đo chất lượng của chính dữ liệu đã ghi vào `-v4`. Code chưa 
 | Khác quy ước giữa nhãn và code | 2 | 3 | Tỉnh bãi bỏ thủ tục do bộ công bố (692762); "bãi bỏ cụm từ" là `bai-bo` hay `thay-cum-tu` (693819); "điều chỉnh dự toán" (681203) |
 
 So với 5 bộ hold-out cũ (mục 8.11.6: phát hiện 93,7/90,2; phạm vi 80,5/68,9), H5 có phát hiện thấp hơn một chút và phạm vi cao hơn. Các khoảng tin cậy chồng lên nhau. Muốn thu hẹp khoảng tin cậy, cần mẫu lớn hơn.
+
+### 8.13. Benchmark 500 văn bản: H5 + H6 (22/10/2026)
+
+H6 là mẫu bổ sung cho H5, để có 500 văn bản. H6 lấy từ cùng tổng thể, cùng tầng và cùng N như H5, và không trùng văn bản nào của H5. Vì vậy H5 ∪ H6 là một mẫu ngẫu nhiên phân tầng. Code không được sửa theo các văn bản này.
+
+**Thiết kế mẫu** (`eval/sets/h6-20261022.strata.json`, seed 20261023):
+
+| Tầng | Tổng thể (văn bản) | H5 | H6 | Gộp |
+| --- | --- | --- | --- | --- |
+| Ngắn: toàn văn ≤ 30.000 ký tự | 8.661 | 90 | 310 | 400 |
+| Dài: 30.000 < toàn văn ≤ 200.000 ký tự | 2.134 | 23 | 77 | 100 |
+
+- 61 agent gán nhãn H6 theo `eval/rubric-gold.md`, mỗi agent một gói, không xem kết quả của công cụ.
+- Trước khi khóa: kiểm thứ tự văn bản của từng gói; kiểm `hop-nhat` của văn bản hợp nhất; chuẩn hóa NFC.
+- Nhãn khóa bằng hash ở `eval/gold/h6-20261022.lock.json`: 387 văn bản, 696 quan hệ.
+- Dữ liệu chấm: bản ghi trong `legal-*-v4`, như H5.
+- Lệnh chấm: `python -m eval.strata h5-20261022+h6-20261022 H5-v4`. Lệnh gộp các bộ có cùng tầng và cùng N thành một mẫu.
+
+**Kết quả** (đúng, sai, sót đếm theo văn bản rồi cộng):
+
+| Tầng | Phát hiện: P / R (đúng, sai, sót) | Phạm vi: P / R (đúng, sai, sót) |
+| --- | --- | --- |
+| Ngắn (400) | 0,871 / 0,746 (323, 48, 110) | 0,715 / 0,639 (464, 185, 262) |
+| Dài (100) | 0,798 / 0,845 (87, 22, 16) | 0,871 / 0,831 (290, 43, 59) |
+| **Gộp theo tổng thể** | **0,854 / 0,765** | **0,767 / 0,701** |
+| Khoảng 95% của số gộp | P 0,78–0,92; R 0,66–0,86 | P 0,66–0,85; R 0,59–0,78 |
+| Chỉ H6 (387) | 0,841 / 0,739 | 0,729 / 0,661 |
+
+- 432/500 văn bản không có lỗi nào ở mức phát hiện. Trong 228 văn bản có quan hệ, 170 văn bản đúng hết.
+- H5 một mình cho số cao hơn (mục 8.12). H5 chỉ có 113 văn bản, nên dùng số gộp 500 văn bản.
+- Khoảng tin cậy còn rộng vì lỗi tập trung ở ít văn bản. 3 văn bản gây 50/110 lỗi sót của H6.
+
+**Loại lỗi ở mức phát hiện của H6** (59 sai, 110 sót):
+
+| Loại | Sai | Sót | Ví dụ |
+| --- | --- | --- | --- |
+| Điều nêu "bãi bỏ toàn bộ…", danh mục văn bản bị bãi bỏ ở phụ lục hoặc danh sách (văn bản sau sắp xếp tỉnh) | | 50 | Phụ lục là danh sách đánh số, công cụ không trích (686835, 21 sót); phụ lục là bảng, công cụ trích được nhưng để `unresolved`, lý do `dich_chua_gan_cau_thuc_hien` (686752, 22 sót) |
+| Quyết định công bố thủ tục hành chính: dòng nêu quyết định đã công bố thủ tục bị thay thế, bãi bỏ | 14 | 35 | Điều 2 liệt kê 11 quyết định bị thay thế nội dung công bố, công cụ có 3 (690268); thông tư quy định thủ tục đọc thành đích (690644, 6 sai) |
+| Văn bản sửa văn bản sửa: công cụ gán cho văn bản bị sửa gián tiếp | 18 | | Thông tư 26/2025/TT-BGDĐT sửa 4 thông tư năm 2025; công cụ gán thêm cho các thông tư cũ nêu trong nội dung sửa (686633) |
+| Đúng đích, còn `unresolved` vì chưa rõ vị trí hoặc chưa gắn câu | | 6 | "bãi bỏ … một số quy định" (688678); thay thế trong thông tư hướng dẫn (687593) |
+| Lỗi lẻ: sai loại hành động, đọc nhiệm vụ hoặc dẫn chiếu thành hành động | 27 | 19 | 1–3 lỗi ở mỗi văn bản, trải trên 29 văn bản |
+
+Hai nhóm đầu là lỗi có cấu trúc lặp lại. Nếu sửa theo hai nhóm này, H5 và H6 không còn độc lập. Khi đó cần bộ mới để đo lại.

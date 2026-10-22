@@ -1,0 +1,326 @@
+[
+ {
+  "doc_id": "684498",
+  "relations": [
+   {
+    "source_path": "Mục 7",
+    "action": "thay-the",
+    "target_document": "11120/BTC-QLCS",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục 01"
+    ],
+    "doi_tuong": null,
+    "evidence": "báo cáo này thay cho mẫu báo cáo theo Phụ lục số 01 kèm theo Công văn số 11120/BTC-QLCS ngày 21/7/2025 của Bộ Tài chính"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Mục 7: mẫu báo cáo mới thay mẫu Phụ lục số 01 kèm theo Công văn 11120/BTC-QLCS (câu trong ngoặc, sau đề nghị giao Sở Tài chính báo cáo). Ghi chú 'được sửa đổi, bổ sung tại Nghị định 286/2025/NĐ-CP' là lịch sử; Phụ lục 2 chỉ liệt kê văn bản hướng dẫn: không phải quan hệ."
+ },
+ {
+  "doc_id": "680024",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "44/2024/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI MỘT SỐ ĐIỀU CỦA QUYẾT ĐỊNH SỐ 44/2024/QĐ-UBND NGÀY 01 THÁNG 11 NĂM 2024 CỦA ỦY BAN NHÂN DÂN TỈNH ĐIỆN BIÊN QUY ĐỊNH ĐIỀU KIỆN VỀ ĐƯỜNG GIAO THÔNG ĐỂ PHƯƠNG TIỆN CHỮA CHÁY THỰC HIỆN NHIỆM VỤ CHỮA CHÁY TẠI NƠI CÓ NHÀ Ở NHIỀU TẦNG NHIỀU CĂN HỘ CỦA CÁ NHÂN TRÊN ĐỊA BÀN TỈNH ĐIỆN BIÊN"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "44/2024/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm b khoản 3 Điều 4"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi điểm b, khoản 3, Điều 4 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "thay-cum-tu",
+    "target_document": "44/2024/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 1 Điều 4",
+     "khoản 3 Điều 4",
+     "khoản 2 Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Ủy ban nhân dân các huyện, thị xã, thành phố” tại điểm a khoản 1 Điều 4, khoản 3 Điều 4 và khoản 2 Điều 5 bằng cụm từ “Ủy ban nhân dân các xã, phường”."
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "bai-bo",
+    "target_document": "44/2024/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm c khoản 3 Điều 4"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ điểm c, khoản 3, Điều 4."
+   },
+   {
+    "source_path": "Điều 1 Khoản 4",
+    "action": "bo-sung",
+    "target_document": "44/2024/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 5 Điều 4"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung khoản 5 thuộc Điều 4 với nội dung như sau:"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên văn bản và lời dẫn cùng nêu sửa đổi Quyết định 44/2024/QĐ-UBND: một quan hệ Phần đầu. Câu sửa đổi chỉ nêu Điều của Quyết định 44/2024 (không nêu Quy định kèm theo): quyet_dinh."
+ },
+ {
+  "doc_id": "683220",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Ban hành Kế hoạch hành động thực hiện Nghị quyết 328/NQ-CP: thực hiện, không phải tác động trực tiếp. Toàn văn phần Kế hoạch nhảy từ mục II sang mục IV (không có mục III)."
+ },
+ {
+  "doc_id": "679421",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 1 quy định chính sách 'theo quy định tại Điều 4 Nghị quyết 07/2025/NQ-CP', không nói 'quy định chi tiết' hoặc 'hướng dẫn': không ghi quan hệ (không chắc)."
+ },
+ {
+  "doc_id": "684273",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công bố địa bàn ưu đãi đầu tư. Điều 2 chỉ là câu chung về văn bản thay đổi sau này: không phải quan hệ."
+ },
+ {
+  "doc_id": "685632",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Thông báo kết luận. Các câu về sửa đổi Nghị định 98/2018/NĐ-CP, 58/2018/NĐ-CP, thay thế Nghị định 57/2018/NĐ-CP là giao nhiệm vụ; Nghị định 156/2025/NĐ-CP sửa đổi Nghị định 55/2015/NĐ-CP là lịch sử: không phải quan hệ."
+ },
+ {
+  "doc_id": "680892",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Đề nghị các đơn vị rà soát, sửa đổi quy chế nội bộ (không nêu số hiệu): giao nhiệm vụ, không phải quan hệ. Chú thích chỉ trích dẫn."
+ },
+ {
+  "doc_id": "683173",
+  "relations": [
+   {
+    "source_path": "Điều 1",
+    "action": "quy-dinh-chi-tiet",
+    "target_document": "30/2023/QH15",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 14"
+    ],
+    "doi_tuong": null,
+    "evidence": "Nghị quyết này quy định chi tiết khoản 3 Điều 14 Luật Lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở số 30/2023/QH15"
+   },
+   {
+    "source_path": "Điều 5 Khoản 2 điểm a",
+    "action": "bai-bo",
+    "target_document": "285/2024/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị quyết số 285/2024/NQ-HĐND ngày 27 tháng 6 năm 2024 của Hội đồng nhân dân tỉnh Lâm Đồng quy định tiêu chí thành lập Tổ bảo vệ an ninh, trật tự và tiêu chí về số lượng thành viên Tổ bảo vệ an ninh, trật tự trên địa bàn tỉnh Lâm Đồng."
+   },
+   {
+    "source_path": "Điều 5 Khoản 2 điểm b",
+    "action": "bai-bo",
+    "target_document": "07/2024/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị quyết số 07/2024/NQ-HĐND ngày 20 tháng 6 năm 2024 của Hội đồng nhân dân tỉnh Bình Thuận quy định tiêu chí thành lập Tổ bảo vệ an ninh, trật tự và tiêu chí về số lượng thành viên Tổ bảo vệ an ninh, trật tự trên địa bàn tỉnh."
+   },
+   {
+    "source_path": "Điều 5 Khoản 2 điểm c",
+    "action": "bai-bo",
+    "target_document": "03/2024/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị quyết số 03/2024/NQ-HĐND ngày 25 tháng 6 năm 2024 của Hội đồng nhân dân tỉnh Đắk Nông quy định về tiêu chí thành lập, số lượng thành viên và các mức chi hỗ trợ cho lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở trên địa bàn tỉnh Đắk Nông."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Câu dẫn khoản 2 Điều 5: 'Các Nghị quyết sau đây hết hiệu lực thi hành kể từ ngày Nghị quyết này có hiệu lực thi hành' → bai-bo, ghi theo từng điểm."
+ },
+ {
+  "doc_id": "679949",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "2629/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "các nội dung liên quan đến thủ tục hành chính nội bộ tại Quyết định này",
+    "evidence": "Bãi bỏ các nội dung liên quan đến thủ tục hành chính nội bộ tại Quyết định này đã được công bố tại Quyết định số 2629/QĐ-UBND ngày 01 tháng 8 năm 2025 của Chủ tịch Ủy ban nhân dân tỉnh về việc công bố thủ tục hành chính nội bộ thuộc phạm vi chức năng quản lý nhà nước của Sở Khoa học và Công nghệ."
+   },
+   {
+    "source_path": "Phụ lục 1",
+    "action": "bai-bo",
+    "target_document": "2629/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "03 TTHC nội bộ",
+    "evidence": "Bãi bỏ 03 TTHC nội bộ được ban hành tại Quyết định số 2629/QĐ-UBND ngày 01/8/2025 của Chủ tịch UBND tỉnh về việc công bố thủ tục hành chính nội bộ thuộc phạm vi chức năng quản lý nhà nước của Sở Khoa học và Công nghệ."
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Phụ lục 1",
+    "loai": "thieu_noi_dung",
+    "ghi_chu": "Câu 'Bãi bỏ 03 TTHC nội bộ được ban hành tại Quyết định số 2629/QĐ-UBND' ở đầu Phụ lục (trước bảng) không có trong DON_VI."
+   }
+  ],
+  "ghi_chu": "Điều 1 công bố danh mục: không phải hành động. Dòng bảng không nêu quyết định đã công bố, nên câu bãi bỏ trên bảng ghi 'Phụ lục 1' (không ghi STT)."
+ },
+ {
+  "doc_id": "689627",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 2 gia hạn thời gian bố trí vốn cho các dự án ở Phụ lục 06, không phải gia hạn văn bản: không phải quan hệ. Toàn văn không có nội dung phụ lục."
+ },
+ {
+  "doc_id": "688803",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Thông báo kết luận, giao nhiệm vụ: không có tác động lên văn bản khác."
+ },
+ {
+  "doc_id": "677748",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Kế hoạch thực hiện Chỉ thị 46-CT/TU. 'Tham mưu rà soát, sửa đổi, bổ sung Quy chế hoạt động Ban chỉ đạo THADS' là giao nhiệm vụ, không nêu số hiệu: không phải quan hệ."
+ },
+ {
+  "doc_id": "678933",
+  "relations": [
+   {
+    "source_path": "Điều 3 Khoản 2 điểm a",
+    "action": "bai-bo",
+    "target_document": "46/2017/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị quyết số 46/2017/NQ-HĐND ngày 29 tháng 9 năm 2017 của Hội đồng nhân dân tỉnh Quảng Ngãi về việc Quy định mức chi công tác phí, chi hội nghị áp dụng đối với các cơ quan, đơn vị của tỉnh Quảng Ngãi;"
+   },
+   {
+    "source_path": "Điều 3 Khoản 2 điểm b",
+    "action": "bai-bo",
+    "target_document": "11/2017/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục 01"
+    ],
+    "doi_tuong": "Các nội dung liên quan đến mức chi công tác phí, chi hội nghị",
+    "evidence": "Các nội dung liên quan đến mức chi công tác phí, chi hội nghị tại Phụ lục 01 kèm theo Nghị quyết số 11/2017/NQ-HĐND ngày 21 tháng 7 năm 2017 của Hội đồng nhân dân tỉnh Kon Tum"
+   },
+   {
+    "source_path": "Điều 3 Khoản 2 điểm c",
+    "action": "bai-bo",
+    "target_document": "14/2019/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Nội dung tại khoản 1 Điều 1 Nghị quyết số 14/2019/NQ-HĐND ngày 18 tháng 7 năm 2019 của Hội đồng nhân dân tỉnh Kon Tum"
+   },
+   {
+    "source_path": "Điều 3 Khoản 2 điểm d",
+    "action": "bai-bo",
+    "target_document": "46/2019/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị quyết số 46/2019/NQ-HĐND ngày 09 tháng 12 năm 2019 của Hội đồng nhân dân tỉnh Kon Tum về sửa đổi, bổ sung Điều 1 Nghị quyết số 11/2017/NQ-HĐND ngày 21 tháng 7 năm 2017 của Hội đồng nhân dân tỉnh Kon Tum."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Câu dẫn khoản 2 Điều 3: '... các Nghị quyết, điều, khoản và nội dung sau đây hết hiệu lực thi hành' → bai-bo theo từng điểm. Tên các nghị quyết ở điểm c, d (sửa đổi Nghị quyết 11/2017) chỉ là tên, không phải đích. Phụ lục 1 Điều 1, Điều 8 chỉ dẫn chiếu Thông tư 40/2017/TT-BTC: không phải quan hệ."
+ },
+ {
+  "doc_id": "682699",
+  "relations": [
+   {
+    "source_path": "Điều 7 Khoản 2",
+    "action": "thay-the",
+    "target_document": "46/2024/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị quyết này thay thế Nghị quyết số 46/2024/NQ-HĐND ngày 10 tháng 12 năm 2024 của Hội đồng nhân dân thành phố Hà Nội"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Lời dẫn '(Thực hiện khoản 3, khoản 4 Điều 15 và khoản 1 Điều 35 Luật Thủ đô)' chỉ là căn cứ thực hiện: không phải quan hệ."
+ },
+ {
+  "doc_id": "683843",
+  "relations": [
+   {
+    "source_path": "Điều 4 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "22/2023/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị quyết này bãi bỏ Nghị quyết số 22/2023/NQ-HĐND ngày 14 tháng 7 năm 2023 của Hội đồng nhân dân tỉnh Bắc Giang Quy định mức chi xây dựng tiêu chuẩn cơ sở và quy chuẩn kỹ thuật địa phương trên địa bàn tỉnh Bắc Giang."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 2 Khoản 9 dẫn chiếu Thông tư 27/2020/TT-BTC; Điều 1 Khoản 2 'được sửa đổi, bổ sung bởi Luật số 70/2025/QH15' là lịch sử: không phải quan hệ."
+ },
+ {
+  "doc_id": "684280",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "sua-doi",
+    "target_document": "2146/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục"
+    ],
+    "doi_tuong": "03 thủ tục hành chính lĩnh vực hoạt động khoa học và công nghệ tại số thứ tự 3, 4, 5 Phần I",
+    "evidence": "Sửa đổi, bổ sung 03 thủ tục hành chính lĩnh vực hoạt động khoa học và công nghệ tại số thứ tự 3, 4, 5 Phần I Phụ lục ban hành kèm theo Quyết định số 2146/QĐ-UBND ngày 23/10/2025 của Chủ tịch UBND thành phố."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bo-sung",
+    "target_document": "2146/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục"
+    ],
+    "doi_tuong": "03 thủ tục hành chính lĩnh vực hoạt động khoa học và công nghệ tại số thứ tự 3, 4, 5 Phần I",
+    "evidence": "Sửa đổi, bổ sung 03 thủ tục hành chính lĩnh vực hoạt động khoa học và công nghệ tại số thứ tự 3, 4, 5 Phần I Phụ lục ban hành kèm theo Quyết định số 2146/QĐ-UBND ngày 23/10/2025 của Chủ tịch UBND thành phố."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 1 công bố danh mục: không phải hành động. Dòng bảng Phần II của Phụ lục không nêu quyết định đã công bố thủ tục: không ghi quan hệ cho dòng. Phụ lục của Quyết định 2146/QĐ-UBND không đánh số: vi_tri 'Phụ lục'."
+ },
+ {
+  "doc_id": "696613",
+  "relations": [],
+  "loi_cau_truc": [
+   {
+    "source_path": "Phần đầu",
+    "loai": "gop_sai",
+    "ghi_chu": "LOI_DAN chứa đoạn trích Điều 8 Luật Thuế TNDN và phần thân công văn, không phải lời dẫn."
+   }
+  ],
+  "ghi_chu": "Công văn trả lời doanh nghiệp về chính sách thuế; các ghi chú 'đã được sửa đổi bổ sung tại Nghị định 70/2025/NĐ-CP' là lịch sử: không phải quan hệ."
+ }
+]

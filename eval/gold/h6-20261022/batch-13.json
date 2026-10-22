@@ -1,0 +1,249 @@
+[
+ {
+  "doc_id": "687577",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "223/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục"
+    ],
+    "doi_tuong": null,
+    "evidence": "VỀ VIỆC ĐIỀU CHỈNH NỘI DUNG TẠI PHỤ LỤC BAN HÀNH KÈM THEO NGHỊ QUYẾT SỐ 223/NQ-HĐND NGÀY 28 THÁNG 8 NĂM 2023 CỦA HĐND TỈNH THÔNG QUA CHƯƠNG TRÌNH PHÁT TRIỂN NHÀ Ở TỈNH SƠN LA ĐẾN NĂM 2030"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "sua-doi",
+    "target_document": "223/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục"
+    ],
+    "doi_tuong": null,
+    "evidence": "Điều chỉnh một số nội dung tại Phụ lục ban hành kèm theo Nghị quyết số 223/NQ-HĐND ngày 28/8/2023 của Hội đồng nhân dân tỉnh thông qua Chương trình phát triển nhà ở tỉnh Sơn La đến năm 2030."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "\"Điều chỉnh nội dung tại Phụ lục\" ghi là sua-doi (không có nhãn riêng cho điều chỉnh). Phụ lục của NQ 612 chỉ chứa nội dung sau điều chỉnh, không nêu mục nào của Phụ lục NQ 223 bị sửa; tên Phụ lục là tên, không ghi quan hệ riêng. Điều 2 khoản 2 là giao nhiệm vụ."
+ },
+ {
+  "doc_id": "692937",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "496/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "các thủ tục hành chính tương ứng",
+    "evidence": "Quyết định này có hiệu lực thi hành kể từ ngày ký và thay thế các thủ tục hành chính tương ứng đã công bố tại các Quyết định số 496/QĐ-UBND ngày 24/3/2023, Quyết định số 4001/QĐ-UBND ngày 24/12/2024 của Chủ tịch UBND tỉnh."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "4001/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "các thủ tục hành chính tương ứng",
+    "evidence": "Quyết định này có hiệu lực thi hành kể từ ngày ký và thay thế các thủ tục hành chính tương ứng đã công bố tại các Quyết định số 496/QĐ-UBND ngày 24/3/2023, Quyết định số 4001/QĐ-UBND ngày 24/12/2024 của Chủ tịch UBND tỉnh."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "3540/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ Quyết định số 3540/QĐ-UBND ngày 22/11/2024 của Ủy ban nhân dân tỉnh về việc công bố danh mục thủ tục hành chính và phê duyệt quy trình nội bộ, quy trình điện tử giải quyết thủ tục hành chính sửa đổi, bổ sung trong lĩnh vực Văn hóa thuộc thẩm quyền giải quyết của ngành Văn hóa, Thể thao và Du lịch."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 1 công bố danh mục TTHC sửa đổi, bổ sung: không là hành động; dòng bảng không nêu QĐ đã công bố TTHC; cột Căn cứ pháp lý không là đích. Câu thay thế nằm ở ten_dieu của Điều 2 (Điều 2 không có tên)."
+ },
+ {
+  "doc_id": "693073",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Kế hoạch thực hiện QĐ 1591/QĐ-TTg; chỉ có nhiệm vụ (rà soát, đề nghị sửa đổi, kiến nghị), không có tác động trực tiếp."
+ },
+ {
+  "doc_id": "685372",
+  "relations": [
+   {
+    "source_path": "Điều 2 Khoản 1",
+    "action": "bai-bo",
+    "target_document": "1332/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ Quyết định số 1332/QĐ-UBND ngày 27 tháng 6 năm 2025 của Chủ tịch Ủy ban nhân dân tỉnh về việc công bố danh mục thủ tục hành chính mới ban hành trong lĩnh vực hoạt động Khoa học và Công nghệ thuộc phạm vi chức năng quản lý nhà nước của Sở Khoa học và Công nghệ tỉnh Vĩnh Long."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 1 công bố danh mục TTHC bị bãi bỏ: không là hành động; dòng Phụ lục không nêu QĐ đã công bố TTHC; cột VBQPPL quy định việc bãi bỏ là căn cứ, không là đích."
+ },
+ {
+  "doc_id": "679027",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn trả lời chính sách thuế GTGT; chỉ trích dẫn văn bản và ghi chú đã sửa đổi, không có tác động."
+ },
+ {
+  "doc_id": "679194",
+  "relations": [
+   {
+    "source_path": "Phụ lục 1 Mục II",
+    "action": "bai-bo",
+    "target_document": "4277/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "13 TTHC",
+    "evidence": "Bãi bỏ 13 TTHC được ban hành tại Quyết định số 4277/QĐ-UBND ngày 08/11/2017; Quyết định số 4728/QĐ-UBND ngày 12/12/2023; Quyết định số 2947/QĐ-UBND ngày 15/7/2024; Quyết định số 1442/QĐ-BKHCN ngày 24/6/2025 của Chủ tịch UBND tỉnh về việc công bố thủ tục hành chính mới ban hành trong lĩnh vực hoạt động khoa học và công nghệ thuộc thẩm quyền quản lý của Sở Khoa học và Công nghệ tỉnh Thanh Hóa."
+   },
+   {
+    "source_path": "Phụ lục 1 Mục II",
+    "action": "bai-bo",
+    "target_document": "4728/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "13 TTHC",
+    "evidence": "Bãi bỏ 13 TTHC được ban hành tại Quyết định số 4277/QĐ-UBND ngày 08/11/2017; Quyết định số 4728/QĐ-UBND ngày 12/12/2023; Quyết định số 2947/QĐ-UBND ngày 15/7/2024; Quyết định số 1442/QĐ-BKHCN ngày 24/6/2025 của Chủ tịch UBND tỉnh về việc công bố thủ tục hành chính mới ban hành trong lĩnh vực hoạt động khoa học và công nghệ thuộc thẩm quyền quản lý của Sở Khoa học và Công nghệ tỉnh Thanh Hóa."
+   },
+   {
+    "source_path": "Phụ lục 1 Mục II",
+    "action": "bai-bo",
+    "target_document": "2947/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "13 TTHC",
+    "evidence": "Bãi bỏ 13 TTHC được ban hành tại Quyết định số 4277/QĐ-UBND ngày 08/11/2017; Quyết định số 4728/QĐ-UBND ngày 12/12/2023; Quyết định số 2947/QĐ-UBND ngày 15/7/2024; Quyết định số 1442/QĐ-BKHCN ngày 24/6/2025 của Chủ tịch UBND tỉnh về việc công bố thủ tục hành chính mới ban hành trong lĩnh vực hoạt động khoa học và công nghệ thuộc thẩm quyền quản lý của Sở Khoa học và Công nghệ tỉnh Thanh Hóa."
+   },
+   {
+    "source_path": "Phụ lục 1 Mục II",
+    "action": "bai-bo",
+    "target_document": "1442/QĐ-BKHCN",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "13 TTHC",
+    "evidence": "Bãi bỏ 13 TTHC được ban hành tại Quyết định số 4277/QĐ-UBND ngày 08/11/2017; Quyết định số 4728/QĐ-UBND ngày 12/12/2023; Quyết định số 2947/QĐ-UBND ngày 15/7/2024; Quyết định số 1442/QĐ-BKHCN ngày 24/6/2025 của Chủ tịch UBND tỉnh về việc công bố thủ tục hành chính mới ban hành trong lĩnh vực hoạt động khoa học và công nghệ thuộc thẩm quyền quản lý của Sở Khoa học và Công nghệ tỉnh Thanh Hóa."
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Phụ lục 1 Mục II",
+    "loai": "thieu_noi_dung",
+    "ghi_chu": "Đoạn \"Bãi bỏ 13 TTHC được ban hành tại Quyết định số ...\" dưới đề mục II của Danh mục không có trong don_vi."
+   }
+  ],
+  "ghi_chu": "Số hiệu 1442/QĐ-BKHCN chép đúng câu, nhưng câu ghi \"của Chủ tịch UBND tỉnh\" nên có thể là 1442/QĐ-UBND. Dòng bảng không nêu TTHC nào thuộc QĐ nào. Điều 1 công bố danh mục: không là hành động; cột Căn cứ pháp lý không là đích."
+ },
+ {
+  "doc_id": "694589",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "14/2024/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực từ ngày 25 tháng 01 năm 2026 và thay thế Quyết định số 14/2024/QD-UBND ngày 19 tháng 6 năm 2024 của Ủy ban nhân dân tỉnh Lâm Đồng (cũ) quy định nội dung chi và mức chi của Quỹ phòng chống thiên tai tỉnh Lâm Đồng (trước sáp nhập); Quyết định số 24/2023/QĐ-UBND ngày 14 tháng 11 năm 2023 của Ủy ban nhân dân tỉnh Bình Thuận (cũ) ban hành Quy định chi tiết nội dung chi, mức chi và phân bổ Quỹ phòng, chống thiên tai tỉnh Bình Thuận (trước sáp nhập); Quyết định số 31/2022/QĐ-UBND ngày 08 tháng 9 năm 2022 của Ủy ban nhân dân tỉnh Đắk Nông (cũ) quy định chi tiết nội dung chi, mức chi của Quỹ Phòng, chống thiên tai tỉnh Đắk Nông (trước sáp nhập)."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "24/2023/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực từ ngày 25 tháng 01 năm 2026 và thay thế Quyết định số 14/2024/QD-UBND ngày 19 tháng 6 năm 2024 của Ủy ban nhân dân tỉnh Lâm Đồng (cũ) quy định nội dung chi và mức chi của Quỹ phòng chống thiên tai tỉnh Lâm Đồng (trước sáp nhập); Quyết định số 24/2023/QĐ-UBND ngày 14 tháng 11 năm 2023 của Ủy ban nhân dân tỉnh Bình Thuận (cũ) ban hành Quy định chi tiết nội dung chi, mức chi và phân bổ Quỹ phòng, chống thiên tai tỉnh Bình Thuận (trước sáp nhập); Quyết định số 31/2022/QĐ-UBND ngày 08 tháng 9 năm 2022 của Ủy ban nhân dân tỉnh Đắk Nông (cũ) quy định chi tiết nội dung chi, mức chi của Quỹ Phòng, chống thiên tai tỉnh Đắk Nông (trước sáp nhập)."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "31/2022/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực từ ngày 25 tháng 01 năm 2026 và thay thế Quyết định số 14/2024/QD-UBND ngày 19 tháng 6 năm 2024 của Ủy ban nhân dân tỉnh Lâm Đồng (cũ) quy định nội dung chi và mức chi của Quỹ phòng chống thiên tai tỉnh Lâm Đồng (trước sáp nhập); Quyết định số 24/2023/QĐ-UBND ngày 14 tháng 11 năm 2023 của Ủy ban nhân dân tỉnh Bình Thuận (cũ) ban hành Quy định chi tiết nội dung chi, mức chi và phân bổ Quỹ phòng, chống thiên tai tỉnh Bình Thuận (trước sáp nhập); Quyết định số 31/2022/QĐ-UBND ngày 08 tháng 9 năm 2022 của Ủy ban nhân dân tỉnh Đắk Nông (cũ) quy định chi tiết nội dung chi, mức chi của Quỹ Phòng, chống thiên tai tỉnh Đắk Nông (trước sáp nhập)."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Toàn văn ghi \"14/2024/QD-UBND\" (D thay Đ), ghi số hiệu là 14/2024/QĐ-UBND. Quy định kèm theo (Phụ lục 1) chỉ dẫn chiếu văn bản khác, không có tác động."
+ },
+ {
+  "doc_id": "689377",
+  "relations": [
+   {
+    "source_path": "Điều 3 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "26/2020/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ Quyết định số 26/2020/QĐ-UBND ngày 20 tháng 8 năm 2020 của UBND tỉnh Đắk Lắk về ban hành Quy định giá thuê nhà ở công vụ, nhà ở xã hội, nhà ở cũ thuộc sở hữu Nhà nước trên địa bàn tỉnh, Quyết định số 71/2024/QĐ-UBND ngày 20 tháng 12 năm 2024 của UBND tỉnh Phú Yên về ban hành Quy định giá cho thuê cụ thể đối với nhà ở cũ thuộc tài sản công trên địa bàn tỉnh Phú Yên."
+   },
+   {
+    "source_path": "Điều 3 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "71/2024/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ Quyết định số 26/2020/QĐ-UBND ngày 20 tháng 8 năm 2020 của UBND tỉnh Đắk Lắk về ban hành Quy định giá thuê nhà ở công vụ, nhà ở xã hội, nhà ở cũ thuộc sở hữu Nhà nước trên địa bàn tỉnh, Quyết định số 71/2024/QĐ-UBND ngày 20 tháng 12 năm 2024 của UBND tỉnh Phú Yên về ban hành Quy định giá cho thuê cụ thể đối với nhà ở cũ thuộc tài sản công trên địa bàn tỉnh Phú Yên."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quy định kèm theo chỉ dẫn chiếu (NĐ 95/2024, NĐ 73/2024); Điều 8 khoản 3 của Quy định là câu chung về văn bản viện dẫn."
+ },
+ {
+  "doc_id": "681456",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quyết định phân cấp thẩm quyền; \"hủy hoại\" là tình trạng tài sản, \"bổ sung, chỉnh sửa\" là nhiệm vụ; không có tác động."
+ },
+ {
+  "doc_id": "691041",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn triển khai QĐ 45/2025/QĐ-TTg; chỉ giao nhiệm vụ, không có tác động."
+ },
+ {
+  "doc_id": "686734",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn trả lời thuế suất GTGT; chỉ trích dẫn Luật Thuế GTGT và NĐ 174/2025/NĐ-CP, không có tác động."
+ },
+ {
+  "doc_id": "688305",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn trả lời kiến nghị cử tri; \"đang tổng hợp ý kiến để sửa đổi các nghị định\" là kế hoạch, không là tác động."
+ },
+ {
+  "doc_id": "689626",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Nghị quyết dự toán ngân sách 2026; \"bổ sung\" là chi bổ sung ngân sách, không có tác động."
+ },
+ {
+  "doc_id": "686957",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Thông tư phân cấp; Điều 3 khoản 2 là câu chung về văn bản dẫn chiếu; Điều 5 là chuyển tiếp; không có tác động."
+ },
+ {
+  "doc_id": "693802",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quyết định công bố 01 TTHC mới; không có tác động."
+ },
+ {
+  "doc_id": "680378",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quyết định phê duyệt quy trình nội bộ giải quyết TTHC; không có tác động."
+ }
+]

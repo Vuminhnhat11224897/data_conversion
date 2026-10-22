@@ -1,0 +1,62 @@
+[
+ {
+  "doc_id": "688229",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quyết định ban hành Chương trình tiết kiệm, chống lãng phí năm 2026; DON_VI rỗng. Không có tác động trực tiếp lên văn bản khác. Câu 'tham gia góp ý sửa đổi Luật TK, CLP' (Phụ lục 1 Mục III) là nhiệm vụ, không phải quan hệ."
+ },
+ {
+  "doc_id": "685588",
+  "relations": [
+   {
+    "source_path": "Điều 3",
+    "action": "bai-bo",
+    "target_document": "20/2022/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này bãi bỏ Quyết định số 20/2022/QĐ-UBND ngày 30/10/2020 của Ủy ban nhân dân tỉnh Đắk Lắk (cũ) về việc ban hành Quy chế quản lý, bảo vệ và phát huy giá trị di tích lịch sử - văn hóa và danh lam thắng cảnh trên địa bàn tỉnh Đắk Lắk"
+   },
+   {
+    "source_path": "Điều 3",
+    "action": "bai-bo",
+    "target_document": "911/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "bãi bỏ Quyết định số 911/QĐ-UBND ngày 28/5/2013 của Ủy ban nhân dân tỉnh Phú Yên (trước đây) phê duyệt Đề án phân cấp quản lý di tích - danh thắng đã được xếp hạng trên địa bàn tỉnh Phú Yên."
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Phụ lục 1 Điều 7 Khoản 1 điểm a",
+    "loai": "gop_sai",
+    "ghi_chu": "Điểm b ('Nguồn thu phí tham quan và thu giá dịch vụ') bị gộp vào điểm a vì cùng dòng trong nguồn. Không ảnh hưởng quan hệ."
+   },
+   {
+    "source_path": "Phụ lục 1 Điều 7 Khoản 1 điểm c",
+    "loai": "gop_sai",
+    "ghi_chu": "Điểm d ('Nguồn huy động hợp pháp khác') bị gộp vào điểm c vì cùng dòng trong nguồn. Không ảnh hưởng quan hệ."
+   }
+  ],
+  "ghi_chu": "Số hiệu đích ghi đúng như câu nêu '20/2022/QĐ-UBND', nhưng câu ghi ngày 30/10/2020: năm trong số hiệu và năm ban hành không khớp, có thể nguồn gõ sai. Phụ lục 1, Phụ lục 2 (danh sách di tích) nêu ở Điều 4 Quy chế không có trong toàn văn. Điều 18 khoản 2 Quy chế ('văn bản viện dẫn ... có sửa đổi, bổ sung, thay thế thì áp dụng theo văn bản sửa đổi') không phải quan hệ."
+ },
+ {
+  "doc_id": "681510",
+  "relations": [
+   {
+    "source_path": "Điều 17 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "02/2017/TT-BTP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Chương V"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ Chương V Thông tư số 02/2017/TT-BTP ngày 23 tháng 3 năm 2017 của Bộ trưởng Bộ Tư pháp hướng dẫn một số nội dung quản lý công chức, viên chức, người lao động thuộc hệ thống tổ chức thi hành án dân sự."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên và lời dẫn chỉ mô tả nội dung, không nêu văn bản đích. Điều 12 khoản 1, Điều 14 khoản 1 chỉ dẫn chiếu Nghị định 62/2015/NĐ-CP (và ghi chú đã được sửa đổi bởi Nghị định 152/2024/NĐ-CP): không phải quan hệ. Đã đọc hết 12 phụ lục (mẫu, bảng thông số): không có hành động."
+ }
+]

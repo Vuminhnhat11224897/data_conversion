@@ -1,0 +1,213 @@
+[
+ {
+  "doc_id": "694500",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công điện giao nhiệm vụ; chỉ yêu cầu quán triệt Chỉ thị 55-CT/TW, 36/CT-TTg và các Công điện 10/CĐ-TTg, 07/CĐ-TTg: không phải tác động trực tiếp. Không có quan hệ."
+ },
+ {
+  "doc_id": "687525",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quyết định ban hành Quy định mới về quản lý nghĩa trang; chỉ dẫn chiếu 'thực hiện theo' Nghị định 23/2016/NĐ-CP, Thông tư 06/2021/TT-BXD, Quyết định 65/2024/QĐ-UBND...; không có câu thay thế, bãi bỏ, sửa đổi. Điều 16 khoản 2 là câu áp dụng văn bản thay thế chung. Không có quan hệ."
+ },
+ {
+  "doc_id": "682353",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Thông báo ý kiến chỉ đạo về các dự án điện; chỉ giao nhiệm vụ, đề nghị. Không có quan hệ."
+ },
+ {
+  "doc_id": "687349",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Kế hoạch triển khai thực hiện Nghị quyết 397/NQ-CP: 'triển khai thực hiện' và các nhiệm vụ rà soát, đề xuất sửa đổi, bổ sung không phải quan hệ. noi_dung Mục III, Mục IV trong DON_VI bị cắt, nhưng toàn văn không có hành động lên văn bản khác."
+ },
+ {
+  "doc_id": "697555",
+  "relations": [
+   {
+    "source_path": "Điều 6",
+    "action": "thay-the",
+    "target_document": "26-QĐ/TW",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này thay Quyết định số 26-QĐ/TW, ngày 06/8/2021 của Bộ Chính trị khoá XIII về thành lập Hội đồng Lý luận Trung ương."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 6 thay toàn bộ Quyết định 26-QĐ/TW."
+ },
+ {
+  "doc_id": "688549",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn điều hành giá xăng dầu kỳ 08/01/2026; chỉ có căn cứ và dẫn chiếu 'phù hợp với các quy định tại'. Không có quan hệ."
+ },
+ {
+  "doc_id": "695507",
+  "relations": [
+   {
+    "source_path": "Điều 3",
+    "action": "bai-bo",
+    "target_document": "1202/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "Thủ tục hành chính tương ứng",
+    "evidence": "Thủ tục hành chính tương ứng tại Quyết định số 1202/QĐ-UBND ngày 16/4/2025 của Chủ tịch Ủy ban nhân dân thành phố về việc công bố danh mục thủ tục hành chính được sửa đổi, bổ sung lĩnh vực việc làm trên địa bàn thành phố Hải Phòng và Quyết định số 3938/QĐ-UBND ngày 02/10/2025 của Chủ tịch Ủy ban nhân dân thành phố về việc công bố danh mục thủ tục hành chính mới ban hành lĩnh vực việc làm thuộc phạm vi, chức năng quản lý của Sở Nội vụ hết hiệu lực kể từ ngày Quyết định này có hiệu lực thi hành."
+   },
+   {
+    "source_path": "Điều 3",
+    "action": "bai-bo",
+    "target_document": "3938/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "Thủ tục hành chính tương ứng",
+    "evidence": "Thủ tục hành chính tương ứng tại Quyết định số 1202/QĐ-UBND ngày 16/4/2025 của Chủ tịch Ủy ban nhân dân thành phố về việc công bố danh mục thủ tục hành chính được sửa đổi, bổ sung lĩnh vực việc làm trên địa bàn thành phố Hải Phòng và Quyết định số 3938/QĐ-UBND ngày 02/10/2025 của Chủ tịch Ủy ban nhân dân thành phố về việc công bố danh mục thủ tục hành chính mới ban hành lĩnh vực việc làm thuộc phạm vi, chức năng quản lý của Sở Nội vụ hết hiệu lực kể từ ngày Quyết định này có hiệu lực thi hành."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 3 tự tuyên bố TTHC tương ứng tại 2 quyết định hết hiệu lực từ ngày quyết định này có hiệu lực: bai-bo, câu không nêu vị trí. Điều 1 'công bố danh mục' không là hành động. Dòng Mục B phụ lục chỉ nêu Nghị định 374/2025/NĐ-CP ở cột văn bản quy định, không nêu quyết định đã công bố: không ghi."
+ },
+ {
+  "doc_id": "693656",
+  "relations": [
+   {
+    "source_path": "Điều 3",
+    "action": "bai-bo",
+    "target_document": "0487/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục"
+    ],
+    "doi_tuong": null,
+    "evidence": "Nội dung công bố Danh mục thủ tục hành chính tại số thứ tự từ 01 đến 05, số thứ tự 18, số thứ tự từ 24 đến 28 mục A Phụ lục kèm theo Quyết định số 0487/QĐ-UBND ngày 17/7/2025 và số thứ tự 02, 05 mục A Phụ lục kèm theo Quyết định số 02425/QĐ-UBND ngày 25/12/2025 của Chủ tịch UBND tỉnh hết hiệu lực kể từ ngày Quyết định này có hiệu lực thi hành."
+   },
+   {
+    "source_path": "Điều 3",
+    "action": "bai-bo",
+    "target_document": "02425/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục"
+    ],
+    "doi_tuong": null,
+    "evidence": "Nội dung công bố Danh mục thủ tục hành chính tại số thứ tự từ 01 đến 05, số thứ tự 18, số thứ tự từ 24 đến 28 mục A Phụ lục kèm theo Quyết định số 0487/QĐ-UBND ngày 17/7/2025 và số thứ tự 02, 05 mục A Phụ lục kèm theo Quyết định số 02425/QĐ-UBND ngày 25/12/2025 của Chủ tịch UBND tỉnh hết hiệu lực kể từ ngày Quyết định này có hiệu lực thi hành."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 3 tự tuyên bố các dòng STT mục A Phụ lục (không số) kèm theo 2 quyết định hết hiệu lực: bai-bo; vi_tri là phụ lục chứa danh mục (QĐ 0487: STT 01-05, 18, 24-28; QĐ 02425: STT 02, 05). Bảng phụ lục của văn bản này chỉ có căn cứ pháp lý, không nêu văn bản đích."
+ },
+ {
+  "doc_id": "682322",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn trả lời về xác định mã ngành sản phẩm; chỉ căn cứ Quyết định 43/2018/QĐ-TTg. Không có quan hệ."
+ },
+ {
+  "doc_id": "681075",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên, lời dẫn và Điều 1 nói quy định chính sách, chế độ đối với người làm việc tại các Hội 'tại Điều 4 Nghị quyết số 07/2025/NQ-CP' nhưng không nói 'quy định chi tiết' hay 'hướng dẫn': không ghi quan hệ (không chắc có phải quy-dinh-chi-tiet Điều 4 Nghị quyết 07/2025/NQ-CP hay không)."
+ },
+ {
+  "doc_id": "688678",
+  "relations": [
+   {
+    "source_path": "Điều 5 Khoản 1",
+    "action": "bai-bo",
+    "target_document": "14/2020/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Các Quyết định sau đây hết hiệu lực kể từ ngày Quyết định này có hiệu lực thi hành: Quyết định số 14/2020/QĐ-UBND ngày 06 tháng 5 năm 2020 của Ủy ban nhân dân tỉnh Đồng Tháp quy định tiêu chuẩn, định mức sử dụng diện tích chuyên dùng của các cơ quan, tổ chức, đơn vị thuộc phạm vi quản lý trên địa bàn tỉnh Đồng Tháp."
+   },
+   {
+    "source_path": "Điều 5 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "07/2019/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Các Quyết định sau đây hết hiệu lực kể từ ngày Quyết định này có hiệu lực thi hành: Quyết định số 07/2019/QĐ-UBND ngày 19 tháng 4 năm 2019 của Ủy ban nhân dân tỉnh Tiền Giang quy định tiêu chuẩn, định mức sử dụng diện tích chuyên dùng tại các cơ quan, tổ chức, đơn vị thuộc phạm vi quản lý của tỉnh Tiền Giang."
+   },
+   {
+    "source_path": "Điều 5 Khoản 3",
+    "action": "bai-bo",
+    "target_document": "06/2022/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Các Quyết định sau đây hết hiệu lực kể từ ngày Quyết định này có hiệu lực thi hành: Quyết định số 06/2022/QĐ-UBND ngày 28 tháng 01 năm 2022 của Ủy ban nhân dân tỉnh Tiền Giang quy định tiêu chuẩn, định mức sử dụng diện tích công trình sự nghiệp tại các đơn vị sự nghiệp công lập thuộc phạm vi quản lý của tỉnh Tiền Giang."
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 5 Khoản 3",
+    "loai": "thieu_noi_dung",
+    "ghi_chu": "Toàn văn có khoản 3 Điều 5 (Quyết định số 06/2022/QĐ-UBND hết hiệu lực) nhưng DON_VI không có đơn vị này; source_path lấy theo toàn văn."
+   }
+  ],
+  "ghi_chu": "Điều 5 tuyên bố 3 quyết định hết hiệu lực từ ngày quyết định này có hiệu lực: bai-bo, mỗi khoản một quan hệ. Điều 4 khoản 2 'ban hành mới hoặc thay thế hoặc sửa đổi, bổ sung' là nhiệm vụ, không phải quan hệ."
+ },
+ {
+  "doc_id": "685535",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "53/2024/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA NGHỊ QUYẾT SỐ 53/2024/NQ-HĐND NGÀY 14 THÁNG 12 NĂM 2024 CỦA HỘI ĐỒNG NHÂN DÂN TỈNH VỀ VIỆC QUYẾT ĐỊNH CÁC BIỆN PHÁP BẢO ĐẢM THỰC HIỆN DÂN CHỦ Ở CƠ SỞ TRÊN ĐỊA BÀN TỈNH THANH HÓA"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "53/2024/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA NGHỊ QUYẾT SỐ 53/2024/NQ-HĐND NGÀY 14 THÁNG 12 NĂM 2024 CỦA HỘI ĐỒNG NHÂN DÂN TỈNH VỀ VIỆC QUYẾT ĐỊNH CÁC BIỆN PHÁP BẢO ĐẢM THỰC HIỆN DÂN CHỦ Ở CƠ SỞ TRÊN ĐỊA BÀN TỈNH THANH HÓA"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bai-bo",
+    "target_document": "53/2024/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 2 Điều 1",
+     "điểm b khoản 1 Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ cụm từ “thị trấn” tại điểm a khoản 2 Điều 1 và điểm b khoản 1 Điều 2."
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "53/2024/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm c khoản 5 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm c khoản 5 Điều 3 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "53/2024/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm c khoản 5 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm c khoản 5 Điều 3 như sau:"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên văn bản và lời dẫn cùng nêu sửa đổi, bổ sung Nghị quyết 53/2024/NQ-HĐND: ghi một cặp quan hệ Phần đầu. Khoản 1 bỏ cụm từ 'thị trấn' (bai-bo, không thay bằng cụm khác). Vị trí thuộc chính Nghị quyết 53/2024."
+ }
+]

@@ -1,0 +1,605 @@
+[
+ {
+  "doc_id": "685287",
+  "relations": [
+   {
+    "source_path": "Điều 15 Khoản 1",
+    "action": "bai-bo",
+    "target_document": "50/2016/TT-BGTVT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ Thông tư số 50/2016/TT-BGTVT ngày 30 tháng 12 năm 2016 của Bộ trưởng Bộ Giao thông vận tải quy định về thủ tục cấp Giấy phép vận tải biển nội địa cho tàu biển nước ngoài và Điều 2 của Thông tư số 08/2022/TT-BGTVT ngày 16 tháng 6 năm 2022 của Bộ trưởng Bộ Giao thông vận tải sửa đổi, bổ sung một số điều của các Thông tư quy định liên quan đến hoạt động kinh doanh trong lĩnh vực hàng hải và đường thủy kể từ ngày Thông tư này có hiệu lực."
+   },
+   {
+    "source_path": "Điều 15 Khoản 1",
+    "action": "bai-bo",
+    "target_document": "08/2022/TT-BGTVT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ Thông tư số 50/2016/TT-BGTVT ngày 30 tháng 12 năm 2016 của Bộ trưởng Bộ Giao thông vận tải quy định về thủ tục cấp Giấy phép vận tải biển nội địa cho tàu biển nước ngoài và Điều 2 của Thông tư số 08/2022/TT-BGTVT ngày 16 tháng 6 năm 2022 của Bộ trưởng Bộ Giao thông vận tải sửa đổi, bổ sung một số điều của các Thông tư quy định liên quan đến hoạt động kinh doanh trong lĩnh vực hàng hải và đường thủy kể từ ngày Thông tư này có hiệu lực."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 15 khoản 1 bãi bỏ cả Thông tư 50/2016/TT-BGTVT và Điều 2 Thông tư 08/2022/TT-BGTVT. Tên và lời dẫn chỉ mô tả nội dung."
+ },
+ {
+  "doc_id": "680664",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "34/2023/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG QUYẾT ĐỊNH CỦA UBND TỈNH SỐ 34/2023/QĐ-UBND NGÀY 31/7/2023 BAN HÀNH QUY ĐỊNH VỀ THU GOM, VẬN CHUYỂN VÀ XỬ LÝ CHẤT THẢI Y TẾ NGUY HẠI TRÊN ĐỊA BÀN TỈNH VÀ QUYẾT ĐỊNH SỐ 22/2025/QĐ-UBND NGÀY 14/3/2025 BAN HÀNH QUY ĐỊNH QUẢN LÝ CHẤT THẢI RẮN XÂY DỰNG, BÙN THẢI TỪ BỂ PHỐT, HẦM CẦU VÀ BÙN THẢI TỪ HỆ THỐNG THOÁT NƯỚC TRÊN ĐỊA BÀN TỈNH"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "34/2023/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG QUYẾT ĐỊNH CỦA UBND TỈNH SỐ 34/2023/QĐ-UBND NGÀY 31/7/2023 BAN HÀNH QUY ĐỊNH VỀ THU GOM, VẬN CHUYỂN VÀ XỬ LÝ CHẤT THẢI Y TẾ NGUY HẠI TRÊN ĐỊA BÀN TỈNH VÀ QUYẾT ĐỊNH SỐ 22/2025/QĐ-UBND NGÀY 14/3/2025 BAN HÀNH QUY ĐỊNH QUẢN LÝ CHẤT THẢI RẮN XÂY DỰNG, BÙN THẢI TỪ BỂ PHỐT, HẦM CẦU VÀ BÙN THẢI TỪ HỆ THỐNG THOÁT NƯỚC TRÊN ĐỊA BÀN TỈNH"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "22/2025/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG QUYẾT ĐỊNH CỦA UBND TỈNH SỐ 34/2023/QĐ-UBND NGÀY 31/7/2023 BAN HÀNH QUY ĐỊNH VỀ THU GOM, VẬN CHUYỂN VÀ XỬ LÝ CHẤT THẢI Y TẾ NGUY HẠI TRÊN ĐỊA BÀN TỈNH VÀ QUYẾT ĐỊNH SỐ 22/2025/QĐ-UBND NGÀY 14/3/2025 BAN HÀNH QUY ĐỊNH QUẢN LÝ CHẤT THẢI RẮN XÂY DỰNG, BÙN THẢI TỪ BỂ PHỐT, HẦM CẦU VÀ BÙN THẢI TỪ HỆ THỐNG THOÁT NƯỚC TRÊN ĐỊA BÀN TỈNH"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "22/2025/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG QUYẾT ĐỊNH CỦA UBND TỈNH SỐ 34/2023/QĐ-UBND NGÀY 31/7/2023 BAN HÀNH QUY ĐỊNH VỀ THU GOM, VẬN CHUYỂN VÀ XỬ LÝ CHẤT THẢI Y TẾ NGUY HẠI TRÊN ĐỊA BÀN TỈNH VÀ QUYẾT ĐỊNH SỐ 22/2025/QĐ-UBND NGÀY 14/3/2025 BAN HÀNH QUY ĐỊNH QUẢN LÝ CHẤT THẢI RẮN XÂY DỰNG, BÙN THẢI TỪ BỂ PHỐT, HẦM CẦU VÀ BÙN THẢI TỪ HỆ THỐNG THOÁT NƯỚC TRÊN ĐỊA BÀN TỈNH"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "sua-doi",
+    "target_document": "34/2023/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Quy định về thu gom, vận chuyển và xử lý chất thải y tế nguy hại trên địa bàn tỉnh ban hành kèm theo Quyết định số 34/2023/QĐ-UBND ngày 31/7/2023 của UBND tỉnh"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bo-sung",
+    "target_document": "34/2023/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Quy định về thu gom, vận chuyển và xử lý chất thải y tế nguy hại trên địa bàn tỉnh ban hành kèm theo Quyết định số 34/2023/QĐ-UBND ngày 31/7/2023 của UBND tỉnh"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "34/2023/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 9"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 9 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "34/2023/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 9"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 9 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1 điểm a",
+    "action": "sua-doi",
+    "target_document": "34/2023/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm đ khoản 1 Điều 9"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm đ khoản 1 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1 điểm a",
+    "action": "bo-sung",
+    "target_document": "34/2023/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm đ khoản 1 Điều 9"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm đ khoản 1 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1 điểm b",
+    "action": "sua-doi",
+    "target_document": "34/2023/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 3 Điều 9"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 3 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1 điểm b",
+    "action": "bo-sung",
+    "target_document": "34/2023/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 3 Điều 9"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 3 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "34/2023/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 11"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 11 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "34/2023/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 11"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 11 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2 điểm a",
+    "action": "sua-doi",
+    "target_document": "34/2023/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm b khoản 1 Điều 11"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm b khoản 1 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2 điểm a",
+    "action": "bo-sung",
+    "target_document": "34/2023/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm b khoản 1 Điều 11"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm b khoản 1 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2 điểm b",
+    "action": "sua-doi",
+    "target_document": "34/2023/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm c khoản 1 Điều 11"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm c khoản 1 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2 điểm b",
+    "action": "bo-sung",
+    "target_document": "34/2023/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm c khoản 1 Điều 11"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm c khoản 1 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2 điểm c",
+    "action": "sua-doi",
+    "target_document": "34/2023/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm a khoản 2 Điều 11"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm a khoản 2 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2 điểm c",
+    "action": "bo-sung",
+    "target_document": "34/2023/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm a khoản 2 Điều 11"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm a khoản 2 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2 điểm d",
+    "action": "sua-doi",
+    "target_document": "34/2023/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm b khoản 3 Điều 11"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm b khoản 3 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2 điểm d",
+    "action": "bo-sung",
+    "target_document": "34/2023/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm b khoản 3 Điều 11"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm b khoản 3 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "bo-sung",
+    "target_document": "34/2023/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm g khoản 2 Điều 11"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung điểm g vào sau điểm f khoản 2 Điều 11 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 4 điểm a",
+    "action": "bai-bo",
+    "target_document": "34/2023/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm d khoản 2 Điều 11",
+     "khoản 4 Điều 11",
+     "Điều 12"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ điểm d khoản 2, khoản 4 Điều 11 và Điều 12;"
+   },
+   {
+    "source_path": "Điều 1 Khoản 4 điểm b",
+    "action": "bai-bo",
+    "target_document": "34/2023/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bỏ cụm từ: “Chủ tịch UBND các huyện, thành phố, thị xã” tại Điều 2 của Quyết định; “huyện”, “thị xã” tại điểm a khoản 1 Điều 9; “Kế hoạch và Đầu tư” tại điểm c khoản 2, điểm a khoản 3 Điều 11; “Thanh tra” tại điểm đ khoản 2 Điều 11; “Ủy ban nhân dân các huyện, thị xã, thành phố” tại khoản 2 Điều 16; “thị trấn” tại Điều 2 của Quyết định, Điều 13 và khoản 2 Điều 16 Quy định kèm theo Quyết định."
+   },
+   {
+    "source_path": "Điều 1 Khoản 4 điểm b",
+    "action": "bai-bo",
+    "target_document": "34/2023/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm a khoản 1 Điều 9",
+     "điểm c khoản 2 Điều 11",
+     "điểm a khoản 3 Điều 11",
+     "điểm đ khoản 2 Điều 11",
+     "khoản 2 Điều 16",
+     "Điều 13"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bỏ cụm từ: “Chủ tịch UBND các huyện, thành phố, thị xã” tại Điều 2 của Quyết định; “huyện”, “thị xã” tại điểm a khoản 1 Điều 9; “Kế hoạch và Đầu tư” tại điểm c khoản 2, điểm a khoản 3 Điều 11; “Thanh tra” tại điểm đ khoản 2 Điều 11; “Ủy ban nhân dân các huyện, thị xã, thành phố” tại khoản 2 Điều 16; “thị trấn” tại Điều 2 của Quyết định, Điều 13 và khoản 2 Điều 16 Quy định kèm theo Quyết định."
+   },
+   {
+    "source_path": "Điều 1 Khoản 5",
+    "action": "thay-cum-tu",
+    "target_document": "34/2023/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 10",
+     "Điều 11",
+     "khoản 7 Điều 14",
+     "khoản 1 Điều 16",
+     "khoản 4 Điều 16",
+     "khoản 6 Điều 11",
+     "điểm d khoản 1 Điều 11"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế một số cụm từ, gồm: “Sở Tài nguyên và Môi trường” thành “Sở Nông nghiệp và Môi trường” tại các quy định: Điều 10, Điều 11, khoản 7 Điều 14, khoản 1, khoản 4 Điều 16; “Sở Thông tin và Truyền thông” thành “Sở Văn hóa - Thể thao và Du lịch” tại khoản 6 Điều 11; “Bộ Tài nguyên và Môi trường” thành “Bộ Nông nghiệp và Môi trường” tại điểm d khoản 1 Điều 11."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "sua-doi",
+    "target_document": "22/2025/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Quy định quản lý chất thải rắn xây dựng, bùn thải từ bể phốt, hầm cầu và bùn thải từ hệ thống thoát nước trên địa bàn tỉnh Hà Tĩnh ban hành kèm theo Quyết định số 22/2025/QĐ-UBND ngày 14/3/2025 của UBND tỉnh"
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bo-sung",
+    "target_document": "22/2025/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Quy định quản lý chất thải rắn xây dựng, bùn thải từ bể phốt, hầm cầu và bùn thải từ hệ thống thoát nước trên địa bàn tỉnh Hà Tĩnh ban hành kèm theo Quyết định số 22/2025/QĐ-UBND ngày 14/3/2025 của UBND tỉnh"
+   },
+   {
+    "source_path": "Điều 2 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "22/2025/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 17"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi bổ sung Điều 17 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "22/2025/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 17"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi bổ sung Điều 17 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 1 điểm a",
+    "action": "sua-doi",
+    "target_document": "22/2025/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm a khoản 1 Điều 17"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm a khoản 1 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 1 điểm a",
+    "action": "bo-sung",
+    "target_document": "22/2025/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm a khoản 1 Điều 17"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm a khoản 1 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 1 điểm b",
+    "action": "sua-doi",
+    "target_document": "22/2025/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm a khoản 5 Điều 17"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm a khoản 5 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 1 điểm b",
+    "action": "bo-sung",
+    "target_document": "22/2025/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm a khoản 5 Điều 17"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm a khoản 5 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 1 điểm c",
+    "action": "sua-doi",
+    "target_document": "22/2025/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 9 Điều 17"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi bổ sung khoản 9 như sau"
+   },
+   {
+    "source_path": "Điều 2 Khoản 1 điểm c",
+    "action": "bo-sung",
+    "target_document": "22/2025/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 9 Điều 17"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi bổ sung khoản 9 như sau"
+   },
+   {
+    "source_path": "Điều 2 Khoản 2 điểm a",
+    "action": "bai-bo",
+    "target_document": "22/2025/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 8 Điều 17"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ khoản 8 Điều 17;"
+   },
+   {
+    "source_path": "Điều 2 Khoản 2 điểm b",
+    "action": "bai-bo",
+    "target_document": "22/2025/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ các cụm từ: “Chủ tịch UBND các huyện, thành phố, thị xã” tại Điều 2 Quyết định; “thanh tra” tại điểm b khoản 1, điểm c khoản 2 Điều 17 của Quy định."
+   },
+   {
+    "source_path": "Điều 2 Khoản 2 điểm b",
+    "action": "bai-bo",
+    "target_document": "22/2025/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm b khoản 1 Điều 17",
+     "điểm c khoản 2 Điều 17"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ các cụm từ: “Chủ tịch UBND các huyện, thành phố, thị xã” tại Điều 2 Quyết định; “thanh tra” tại điểm b khoản 1, điểm c khoản 2 Điều 17 của Quy định."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên và lời dẫn cùng nêu sửa đổi, bổ sung 2 QĐ: ghi một bộ quan hệ Phần đầu. Vị trí ở Điều 1 thuộc Quy định kèm theo QĐ 34/2023, ở Điều 2 thuộc Quy định kèm theo QĐ 22/2025; cụm từ tại 'Điều 2 (của) Quyết định' ghi quyet_dinh. 'Bỏ cụm từ' ghi bai-bo. Câu dẫn 'Bãi bỏ một số điểm, khoản, cụm từ sau đây' (Điều 1 khoản 4, Điều 2 khoản 2) không nêu vị trí, không ghi riêng."
+ },
+ {
+  "doc_id": "687122",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Kế hoạch thực hiện Kế hoạch 31-KH/TU và Chỉ thị 10-CT/TW; không có tác động trực tiếp lên văn bản khác."
+ },
+ {
+  "doc_id": "688858",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quyết định phê duyệt sách giáo khoa; không có tác động lên văn bản khác."
+ },
+ {
+  "doc_id": "681158",
+  "relations": [
+   {
+    "source_path": "Điều 6 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "14/2024/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ Nghị quyết số 14/2024/NQ-HĐND ngày 07 tháng 10 năm 2024 của Hội đồng nhân dân tỉnh Đồng Tháp quy định về mức thu học phí đối với cơ sở giáo dục mầm non, giáo dục phổ thông và giáo dục thường xuyên công lập trên địa bàn tỉnh Đồng Tháp năm học 2024-2025 và Nghị quyết số 06/2024/NQ-HĐND ngày 19 tháng 7 năm 2024 của Hội đồng nhân dân tỉnh Tiền Giang quy định về mức thu học phí đối với cơ sở giáo dục mầm non, cơ sở giáo dục phổ thông và cơ sở giáo dục thường xuyên công lập trên địa bàn tỉnh Tiền Giang từ năm học 2024 - 2025."
+   },
+   {
+    "source_path": "Điều 6 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "06/2024/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ Nghị quyết số 14/2024/NQ-HĐND ngày 07 tháng 10 năm 2024 của Hội đồng nhân dân tỉnh Đồng Tháp quy định về mức thu học phí đối với cơ sở giáo dục mầm non, giáo dục phổ thông và giáo dục thường xuyên công lập trên địa bàn tỉnh Đồng Tháp năm học 2024-2025 và Nghị quyết số 06/2024/NQ-HĐND ngày 19 tháng 7 năm 2024 của Hội đồng nhân dân tỉnh Tiền Giang quy định về mức thu học phí đối với cơ sở giáo dục mầm non, cơ sở giáo dục phổ thông và cơ sở giáo dục thường xuyên công lập trên địa bàn tỉnh Tiền Giang từ năm học 2024 - 2025."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Bãi bỏ NQ 14/2024/NQ-HĐND (HĐND Đồng Tháp) và NQ 06/2024/NQ-HĐND (HĐND Tiền Giang). Dẫn chiếu NĐ 238/2025/NĐ-CP, NQ 217/2025/QH15 không phải quan hệ."
+ },
+ {
+  "doc_id": "679692",
+  "relations": [
+   {
+    "source_path": "Điều 3",
+    "action": "bai-bo",
+    "target_document": "1308/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục I",
+     "Phụ lục II"
+    ],
+    "doi_tuong": null,
+    "evidence": "Các thủ tục hành chính và quy trình nội bộ sau hết hiệu lực thi hành kể từ ngày Quyết định này có hiệu lực:"
+   },
+   {
+    "source_path": "Điều 3",
+    "action": "bai-bo",
+    "target_document": "1454/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục"
+    ],
+    "doi_tuong": null,
+    "evidence": "Các thủ tục hành chính và quy trình nội bộ sau hết hiệu lực thi hành kể từ ngày Quyết định này có hiệu lực:"
+   },
+   {
+    "source_path": "Điều 3",
+    "action": "bai-bo",
+    "target_document": "1571/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục"
+    ],
+    "doi_tuong": null,
+    "evidence": "Các thủ tục hành chính và quy trình nội bộ sau hết hiệu lực thi hành kể từ ngày Quyết định này có hiệu lực:"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Chữ hành động ở câu dẫn Điều 3; các đích nằm ở khoản 1-4 Điều 3 (không có trong DON_VI vì không có từ hành động): QĐ 1308 STT 21-26 Mục I Phụ lục I và STT 6-11 Mục I Phần I Phụ lục II; QĐ 1454 STT 10-13 Mục VI Phụ lục; QĐ 1571 STT 10-13 Mục VI Phần I Phụ lục. Điều 1 công bố danh mục TTHC sửa đổi, bổ sung: không là hành động; QĐ 797/QĐ-UBND trong Phụ lục I chỉ là dẫn chiếu thời gian cắt giảm."
+ },
+ {
+  "doc_id": "687170",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 1 'tiếp tục áp dụng' quy định giá đất, bảng giá đất kèm theo QĐ 09/2020/QĐ-UBND, 30/2022/QĐ-UBND, 45/2025/QĐ-UBND (Đà Nẵng cũ) và QĐ 24/2019/QĐ-UBND (Quảng Nam cũ) từ 01/01/2026: không thuộc loại hành động nào trong quy ước (có thể coi là gia hạn), không ghi. Các ngoặc 'được sửa đổi, bổ sung tại …' là lịch sử."
+ },
+ {
+  "doc_id": "682491",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Kế hoạch thực hiện QĐ 1899/QĐ-TTg; các dòng phụ lục ('khi có Quyết định thay thế QĐ 118/2008/QĐ-TTg', 'Thông tư mới thay thế TT 92/2009/TT-BTC', 'Quy chế … thay thế Quy chế hiện hành') là nhiệm vụ, không phải quan hệ. Phụ lục bị cắt một đoạn ('…')."
+ },
+ {
+  "doc_id": "683207",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quyết định thông qua phương án đơn giản hóa TTHC; QĐ 4603/QĐ-UBND, 579/QĐ-TTPVHCC chỉ được dẫn chiếu. Không có tác động trực tiếp."
+ },
+ {
+  "doc_id": "686077",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "01050/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "quy trình nội bộ, quy trình nội bộ liên thông trong giải quyết thủ tục hành chính",
+    "evidence": "Các nội dung quy trình nội bộ, quy trình nội bộ liên thông trong giải quyết thủ tục hành chính được phê duyệt tại Quyết định số 01050/QĐ-UBND ngày 26/8/2025 của Chủ tịch UBND tỉnh hết hiệu lực kể từ ngày Quyết định này có hiệu lực thi hành."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Văn bản tự tuyên bố nội dung quy trình nội bộ phê duyệt tại QĐ 01050/QĐ-UBND hết hiệu lực: ghi bai-bo; câu không nêu vị trí. Phụ lục I, II, III là file đính kèm, không có trong toàn văn."
+ },
+ {
+  "doc_id": "688164",
+  "relations": [
+   {
+    "source_path": "Điều 4 Khoản 1",
+    "action": "thay-the",
+    "target_document": "1408/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục I",
+     "Phụ lục II"
+    ],
+    "doi_tuong": null,
+    "evidence": "Quyết định có hiệu lực thi hành kể từ ngày ký và thay thế nội dung của 01 thủ tục và 01 quy trình nội bộ tiếp nhận, giải quyết thủ tục hành chính cấp tỉnh có số thứ tự số 09 Phụ lục I, II kèm theo Quyết định số 1408/QĐ-UBND ngày 26/9/2025 của Chủ tịch Ủy ban nhân dân tỉnh."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Thay thế TTHC và quy trình STT 09 Phụ lục I, II kèm theo QĐ 1408/QĐ-UBND. Điều 1 công bố danh mục TTHC sửa đổi, bổ sung: không là hành động; dòng Phụ lục I không nêu QĐ đã công bố TTHC."
+ }
+]

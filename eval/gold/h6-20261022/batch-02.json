@@ -1,0 +1,454 @@
+[
+ {
+  "doc_id": "678326",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Chỉ công bố 02 TTHC nội bộ (Phụ lục 1, 2); không có hành động lên văn bản khác."
+ },
+ {
+  "doc_id": "677912",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "bai-bo",
+    "target_document": "03/2018/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "BÃI BỎ NGHỊ QUYẾT SỐ 03/2018/NQ-HĐND NGÀY 30 THÁNG 3 NĂM 2018 CỦA HỘI ĐỒNG NHÂN DÂN TỈNH THỪA THIÊN HUẾ QUY ĐỊNH PHÂN CẤP QUẢN LÝ TÀI SẢN CÔNG TẠI CƠ QUAN, TỔ CHỨC, ĐƠN VỊ THUỘC PHẠM VI QUẢN LÝ CỦA ĐỊA PHƯƠNG TRÊN ĐỊA BÀN TỈNH THỪA THIÊN HUẾ VÀ NGHỊ QUYẾT SỐ 23/2021/NQ-HĐND NGÀY 26 THÁNG 8 NĂM 2021"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bai-bo",
+    "target_document": "23/2021/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "BÃI BỎ NGHỊ QUYẾT SỐ 03/2018/NQ-HĐND NGÀY 30 THÁNG 3 NĂM 2018 CỦA HỘI ĐỒNG NHÂN DÂN TỈNH THỪA THIÊN HUẾ QUY ĐỊNH PHÂN CẤP QUẢN LÝ TÀI SẢN CÔNG TẠI CƠ QUAN, TỔ CHỨC, ĐƠN VỊ THUỘC PHẠM VI QUẢN LÝ CỦA ĐỊA PHƯƠNG TRÊN ĐỊA BÀN TỈNH THỪA THIÊN HUẾ VÀ NGHỊ QUYẾT SỐ 23/2021/NQ-HĐND NGÀY 26 THÁNG 8 NĂM 2021"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bai-bo",
+    "target_document": "03/2018/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị quyết số 03/2018/NQ-HĐND ngày 30 tháng 3 năm 2018 của Hội đồng nhân dân tỉnh Thừa Thiên Huế quy định phân cấp quản lý tài sản công tại cơ quan, tổ chức, đơn vị thuộc phạm vi quản lý của địa phương trên địa bàn tỉnh Thừa Thiên Huế."
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "23/2021/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị quyết số 23/2021/NQ-HĐND ngày 26 tháng 8 năm 2021 của Hội đồng nhân dân tỉnh Thừa Thiên Huế"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên và lời dẫn cùng nêu bãi bỏ 2 NQ: một quan hệ Phần đầu cho mỗi NQ. Tên Điều 1 'Bãi bỏ toàn bộ các Nghị quyết' là câu dẫn của khoản 1, 2. Cụm 'sửa đổi, bổ sung một số điều của NQ 03/2018' chỉ mô tả NQ 23/2021."
+ },
+ {
+  "doc_id": "685912",
+  "relations": [
+   {
+    "source_path": "Điều 6 Khoản 2 điểm a",
+    "action": "bai-bo",
+    "target_document": "02/2021/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị quyết số 02/2021/NQ-HĐND ngày 23 tháng 3 năm 2021 của Hội đồng nhân dân Thành phố Hồ Chí Minh"
+   },
+   {
+    "source_path": "Điều 6 Khoản 2 điểm b",
+    "action": "bai-bo",
+    "target_document": "35/2024/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị quyết số 35/2024/NQ-HĐND ngày 11 tháng 12 năm 2024 của Hội đồng nhân dân Thành phố Hồ Chí Minh"
+   },
+   {
+    "source_path": "Điều 6 Khoản 2 điểm c",
+    "action": "bai-bo",
+    "target_document": "07/2019/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị quyết số 07/2019/NQ-HĐND ngày 31 tháng 7 năm 2019 của Hội đồng nhân dân tỉnh Bình Dương"
+   },
+   {
+    "source_path": "Điều 6 Khoản 2 điểm d",
+    "action": "bai-bo",
+    "target_document": "22/2024/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị quyết số 22/2024/NQ-HĐND ngày 12 tháng 12 năm 2024 của Hội đồng nhân dân tỉnh Bình Dương"
+   },
+   {
+    "source_path": "Điều 6 Khoản 2 điểm đ",
+    "action": "bai-bo",
+    "target_document": "46/2011/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị quyết số 46/2011/NQ-HĐND ngày 11 tháng 12 năm 2011 của Hội đồng nhân dân tỉnh Bà Rịa - Vũng Tàu"
+   },
+   {
+    "source_path": "Điều 6 Khoản 2 điểm e",
+    "action": "bai-bo",
+    "target_document": "30/2012/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị quyết số 30/2012/NQ-HĐND ngày 07 tháng 12 năm 2012 của Hội đồng nhân dân tỉnh Bà Rịa - Vũng Tàu"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Câu dẫn khoản 2 Điều 6 'Các Nghị quyết sau đây hết hiệu lực thi hành kể từ ngày Nghị quyết này có hiệu lực thi hành' do văn bản này tuyên bố: bai-bo cho từng điểm. Cụm 'sửa đổi, bổ sung một số điều' ở điểm b, d chỉ mô tả văn bản đích."
+ },
+ {
+  "doc_id": "685218",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Phê duyệt phương án đơn giản hóa TTHC. Phụ lục chỉ đề nghị Bộ GDĐT bãi bỏ quy định tại TTLT 17/2016/TTLT-BGDĐT-BTTTT và TT 21/2019/TT-BGDĐT; Điều 2 Khoản 2 giao nhiệm vụ trình sửa đổi, bãi bỏ: không phải quan hệ."
+ },
+ {
+  "doc_id": "682218",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Phê duyệt quy trình điện tử TTHC nội bộ mới; không có hành động lên văn bản khác."
+ },
+ {
+  "doc_id": "697115",
+  "relations": [
+   {
+    "source_path": "Điều 3 Khoản 2 điểm a",
+    "action": "thay-the",
+    "target_document": "1799/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 1799/QĐ-UBND ngày 05 tháng 7 năm 2021 của Ủy ban nhân dân Bà Rịa - Vũng Tàu"
+   },
+   {
+    "source_path": "Điều 3 Khoản 2 điểm b",
+    "action": "thay-the",
+    "target_document": "3028/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 3028/QĐ-UBND ngày 20 tháng 8 năm 2021 của Ủy ban nhân dân Thành phố Hồ Chí Minh"
+   },
+   {
+    "source_path": "Điều 3 Khoản 2 điểm c",
+    "action": "thay-the",
+    "target_document": "1847/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 1847/QĐ-UBND ngày 21 tháng 7 năm 2021 của Ủy ban nhân dân tỉnh Bình Dương"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Câu dẫn 'Quyết định này thay thế các Quyết định:' ở khoản 2 Điều 3; mỗi điểm một văn bản bị thay thế."
+ },
+ {
+  "doc_id": "695547",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "2189/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục I Phần A",
+     "Mục II Phần B"
+    ],
+    "doi_tuong": "các thủ tục hành chính trong lĩnh vực nuôi con nuôi",
+    "evidence": "các thủ tục hành chính trong lĩnh vực nuôi con nuôi được công bố tại Mục I Phần A và Mục II Phần B thuộc Danh mục thủ tục hành chính được công bố kèm theo Quyết định số 2189/QĐ-UBND ngày 26 tháng 6 năm 2025 của Chủ tịch UBND tỉnh hết hiệu lực kể từ ngày Quyết định này có hiệu lực thi hành"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Văn bản tự tuyên bố các TTHC tại Danh mục kèm theo QĐ 2189/QĐ-UBND hết hiệu lực từ ngày văn bản này có hiệu lực: bai-bo. Điều 1 công bố danh mục và câu 'trường hợp ... đã được sửa đổi, bổ sung hoặc bãi bỏ' không phải quan hệ; dòng phụ lục không nêu văn bản đích (cột Căn cứ pháp lý không phải đích)."
+ },
+ {
+  "doc_id": "684939",
+  "relations": [
+   {
+    "source_path": "Điều 3 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "420/2025/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ Nghị quyết số 420/2025/NQ-HĐND ngày 28/4/2025 của Hội đồng nhân dân tỉnh Lâm Đồng"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 3 Khoản 3 là câu chung về văn bản dẫn chiếu được sửa đổi, thay thế: không phải quan hệ."
+ },
+ {
+  "doc_id": "687380",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "1910/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục I"
+    ],
+    "doi_tuong": "TTHC có số thứ tự 01, mục IV, Phụ lục I lĩnh vực Chăn nuôi và Thú y và nội dung Quy trình kèm theo",
+    "evidence": "thay thế TTHC có số thứ tự 01, mục IV, Phụ lục I lĩnh vực Chăn nuôi và Thú y và nội dung Quy trình kèm theo tại Quyết định số 1910/QĐ-UBND ngày 25/7/2025 của Chủ tịch UBND tỉnh"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Dòng số thứ tự của danh mục: vi_tri là phụ lục chứa danh mục. Dòng phụ lục chỉ nêu QĐ 5252/QĐ-BNNMT ở cột văn bản quy định (căn cứ), không phải đích."
+ },
+ {
+  "doc_id": "685868",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Kế hoạch phát triển KT-XH 2026; 'điều chỉnh quy hoạch tỉnh' là nhiệm vụ, không nêu văn bản đích."
+ },
+ {
+  "doc_id": "686780",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 1 'áp dụng' NQ 30/2022/NQ-HĐND của HĐND tỉnh Quảng Bình trên địa bàn tỉnh Quảng Trị (mới); 'áp dụng' không thuộc danh sách hành động, không ghi quan hệ."
+ },
+ {
+  "doc_id": "688285",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Ban hành danh mục vị trí việc làm; không có hành động lên văn bản khác."
+ },
+ {
+  "doc_id": "677460",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Ban hành danh mục 02 TTHC không phụ thuộc địa giới hành chính; các đơn vị chỉ giao nhiệm vụ."
+ },
+ {
+  "doc_id": "686123",
+  "relations": [
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bai-bo",
+    "target_document": "22/2023/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị quyết số 22/2023/NQ-HĐND ngày 08 tháng 12 năm 2023 của Hội đồng nhân dân tỉnh Bà Rịa - Vũng Tàu"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "03/2023/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị quyết số 03/2023/NQ-HĐND ngày 12 tháng 7 năm 2023 của Hội đồng nhân dân Thành phố Hồ Chí Minh"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "bai-bo",
+    "target_document": "10/2024/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị quyết số 10/2024/NQ-HĐND ngày 16 tháng 7 năm 2024 của Hội đồng nhân dân Thành phố Hồ Chí Minh"
+   },
+   {
+    "source_path": "Điều 1 Khoản 4",
+    "action": "bai-bo",
+    "target_document": "06/2025/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị quyết số 06/2025/NQ-HĐND ngày 24 tháng 4 năm 2025 của Hội đồng nhân dân tỉnh Bình Dương"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên văn bản 'Bãi bỏ các Nghị quyết ...' không nêu số hiệu: không ghi quan hệ Phần đầu. Tên Điều 1 'Bãi bỏ toàn bộ 04 Nghị quyết' là câu dẫn của 4 khoản."
+ },
+ {
+  "doc_id": "682085",
+  "relations": [
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "866/QĐ-TTg",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục II.8",
+     "Phụ lục III.8",
+     "Phụ lục VI.8"
+    ],
+    "doi_tuong": "danh mục các Dự án thăm dò, khai thác và Tọa độ khép góc Dự án thăm dò, khai thác quặng vonfram trên địa bàn tỉnh Thái Nguyên (khu vực Núi Pháo và liền kề)",
+    "evidence": "Điều chỉnh danh mục các Dự án thăm dò, khai thác và Tọa độ khép góc Dự án thăm dò, khai thác quặng vonfram trên địa bàn tỉnh Thái Nguyên (khu vực Núi Pháo và liền kề) tại mục 3 Phụ lục II.8, mục 3 Phụ lục III.8 và mục 2 Phụ lục VI.8 kèm theo Quyết định số 866/QĐ-TTg ngày 18 tháng 7 năm 2023"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "866/QĐ-TTg",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục III.10",
+     "Phụ lục VI.10"
+    ],
+    "doi_tuong": "danh mục Dự án khai thác và Tọa độ khép góc Dự án thăm dò, khai thác quặng đồng trên địa bàn tỉnh Lào Cai (mỏ đồng Tả Phời)",
+    "evidence": "Điều chỉnh danh mục Dự án khai thác và Tọa độ khép góc Dự án thăm dò, khai thác quặng đồng trên địa bàn tỉnh Lào Cai (mỏ đồng Tả Phời) tại mục 1 Phụ lục III.10 và mục 1 Phụ lục VI.10 kèm theo Quyết định số 866/QĐ-TTg ngày 18 tháng 7 năm 2023"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "sua-doi",
+    "target_document": "866/QĐ-TTg",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục III.1",
+     "Phụ lục IV.1"
+    ],
+    "doi_tuong": "danh mục Dự án khai thác và Dự án chế biến quặng bôxit trên địa bàn tỉnh Bình Phước (nay là tỉnh Đồng Nai)",
+    "evidence": "Điều chỉnh danh mục Dự án khai thác và Dự án chế biến quặng bôxit trên địa bàn tỉnh Bình Phước (nay là tỉnh Đồng Nai) tại mục 3 Phụ lục III.1 và mục 3 Phụ lục IV.1 kèm theo Quyết định số 866/QĐ-TTg ngày 18 tháng 7 năm 2023"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 1",
+    "action": "sua-doi",
+    "target_document": "866/QĐ-TTg",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục II.8"
+    ],
+    "doi_tuong": "điểm a và b tiểu mục 3.2 mục 3 - Danh mục các dự án thăm dò vonfram",
+    "evidence": "Điều chỉnh tại điểm a và b tiểu mục 3.2 mục 3 Phụ lục II.8. Danh mục các dự án thăm dò vonfram thời kỳ 2021 - 2030, tầm nhìn đến 2050, như sau:"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 2",
+    "action": "sua-doi",
+    "target_document": "866/QĐ-TTg",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục III.8"
+    ],
+    "doi_tuong": "điểm b, c và d tiểu mục 3.2, mục 3 - Danh mục các dự án khai thác vonfram",
+    "evidence": "Điều chỉnh, bổ sung tại điểm b, c và d tiểu mục 3.2, mục 3 Phụ lục III.8. Danh mục các dự án khai thác vonfram thời kỳ 2021 - 2030, tầm nhìn đến 2050, như sau:"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 2",
+    "action": "bo-sung",
+    "target_document": "866/QĐ-TTg",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục III.8"
+    ],
+    "doi_tuong": "điểm b, c và d tiểu mục 3.2, mục 3 - Danh mục các dự án khai thác vonfram",
+    "evidence": "Điều chỉnh, bổ sung tại điểm b, c và d tiểu mục 3.2, mục 3 Phụ lục III.8. Danh mục các dự án khai thác vonfram thời kỳ 2021 - 2030, tầm nhìn đến 2050, như sau:"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 3",
+    "action": "sua-doi",
+    "target_document": "866/QĐ-TTg",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục VI.8"
+    ],
+    "doi_tuong": "điểm a và c mục 2 - Danh mục tọa độ khép góc các dự án thăm dò, khai thác quặng vonfram",
+    "evidence": "Điều chỉnh điểm a và c, bổ sung điểm d tại mục 2 Phụ lục VI.8. Danh mục tọa độ khép góc các dự án thăm dò, khai thác quặng vonfram thời kỳ 2021 - 2030, tầm nhìn đến 2050, như sau:"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 3",
+    "action": "bo-sung",
+    "target_document": "866/QĐ-TTg",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục VI.8"
+    ],
+    "doi_tuong": "điểm d mục 2 - Danh mục tọa độ khép góc các dự án thăm dò, khai thác quặng vonfram",
+    "evidence": "Điều chỉnh điểm a và c, bổ sung điểm d tại mục 2 Phụ lục VI.8. Danh mục tọa độ khép góc các dự án thăm dò, khai thác quặng vonfram thời kỳ 2021 - 2030, tầm nhìn đến 2050, như sau:"
+   },
+   {
+    "source_path": "Phụ lục 2 Mục 1",
+    "action": "sua-doi",
+    "target_document": "866/QĐ-TTg",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục III.10"
+    ],
+    "doi_tuong": "điểm j tiểu mục 1.2, mục 1 - Danh mục các dự án khai thác đồng",
+    "evidence": "Điều chỉnh bổ sung điểm j tại tiểu mục 1.2, mục 1 Phụ lục III.10. Danh mục các dự án khai thác đồng thời kỳ 2021 - 2030, tầm nhìn đến 2050, như sau:"
+   },
+   {
+    "source_path": "Phụ lục 2 Mục 1",
+    "action": "bo-sung",
+    "target_document": "866/QĐ-TTg",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục III.10"
+    ],
+    "doi_tuong": "điểm j tiểu mục 1.2, mục 1 - Danh mục các dự án khai thác đồng",
+    "evidence": "Điều chỉnh bổ sung điểm j tại tiểu mục 1.2, mục 1 Phụ lục III.10. Danh mục các dự án khai thác đồng thời kỳ 2021 - 2030, tầm nhìn đến 2050, như sau:"
+   },
+   {
+    "source_path": "Phụ lục 2 Mục 2",
+    "action": "sua-doi",
+    "target_document": "866/QĐ-TTg",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục VI.10"
+    ],
+    "doi_tuong": "điểm a mục 1 - Danh mục tọa độ khép góc các dự án thăm dò, khai thác quặng đồng",
+    "evidence": "Điều chỉnh điểm a tại mục 1 Phụ lục VI.10. Danh mục tọa độ khép góc các dự án thăm dò, khai thác quặng đồng thời kỳ 2021 - 2030, tầm nhìn đến 2050, như sau:"
+   },
+   {
+    "source_path": "Phụ lục 3 Mục 1",
+    "action": "sua-doi",
+    "target_document": "866/QĐ-TTg",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục III.1"
+    ],
+    "doi_tuong": "điểm a, b mục 3 - Danh mục các dự án khai thác bôxit",
+    "evidence": "Điều chỉnh điểm a, b tại mục 3, Phụ lục III.1. Danh mục các dự án khai thác bôxit thời kỳ 2021 - 2030, tầm nhìn đến 2050, như sau:"
+   },
+   {
+    "source_path": "Phụ lục 3 Mục 2",
+    "action": "sua-doi",
+    "target_document": "866/QĐ-TTg",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục IV.1"
+    ],
+    "doi_tuong": "mục 3 - Danh mục các dự án chế biến quặng bôxit",
+    "evidence": "Điều chỉnh tại mục 3, Phụ lục IV. 1. Danh mục các dự án chế biến quặng bôxit thời kỳ 2021 - 2030, tầm nhìn đến năm 2050, như sau:"
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Phụ lục 1",
+    "loai": "thieu_noi_dung",
+    "ghi_chu": "Đề mục 1., 2., 3. của Phụ lục I ghi hành động điều chỉnh, bổ sung lên Phụ lục II.8, III.8, VI.8 kèm theo QĐ 866/QĐ-TTg nhưng không có trong don_vi."
+   },
+   {
+    "source_path": "Phụ lục 2",
+    "loai": "thieu_noi_dung",
+    "ghi_chu": "Đề mục 1., 2. của Phụ lục II ghi hành động điều chỉnh, bổ sung lên Phụ lục III.10, VI.10 kèm theo QĐ 866/QĐ-TTg nhưng không có trong don_vi."
+   },
+   {
+    "source_path": "Phụ lục 3",
+    "loai": "thieu_noi_dung",
+    "ghi_chu": "Đề mục 1., 2. của Phụ lục III ghi hành động điều chỉnh lên Phụ lục III.1, IV.1 kèm theo QĐ 866/QĐ-TTg nhưng không có trong don_vi."
+   }
+  ],
+  "ghi_chu": "'Điều chỉnh' danh mục = sua-doi. Tên văn bản và câu dẫn Điều 1 chỉ nêu Quy hoạch bằng tên (không số hiệu): không ghi Phần đầu, không ghi riêng Điều 1. Đề mục phụ lục không nêu số hiệu; đích 866/QĐ-TTg lấy từ Điều 1 ('Chi tiết tại Phụ lục I/II/III'). Mục, điểm của danh mục là dòng số thứ tự: vi_tri dừng ở phụ lục, chi tiết ghi ở doi_tuong. 'Điều chỉnh bổ sung điểm j' (Phụ lục 2 Mục 1) hiểu như 'điều chỉnh, bổ sung'."
+ },
+ {
+  "doc_id": "685842",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 1 phân cấp thẩm quyền quy định tại khoản 3 Điều 10, khoản 3 Điều 20, khoản 2 Điều 43, khoản 4 Điều 47 NĐ 77/2025/NĐ-CP; câu không nói quy định chi tiết hoặc hướng dẫn, không ghi quan hệ. 'được sửa đổi, bổ sung bởi' chỉ là ghi chú lịch sử."
+ }
+]

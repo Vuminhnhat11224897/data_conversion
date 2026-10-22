@@ -1,0 +1,24 @@
+[
+ {
+  "doc_id": "693445",
+  "relations": [
+   {
+    "source_path": "Nội dung",
+    "action": "huong-dan",
+    "target_document": "121/2025/TT-BTC",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Căn cứ Thông tư số 121/2025/TT-BTC ngày 18/12/2025 của Bộ Tài chính, Cục Hải quan tổng hợp các vướng mắc và hướng dẫn xử lý vướng mắc theo bảng tổng hợp đính kèm công văn này."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn trả lời vướng mắc khi thực hiện TT 121/2025/TT-BTC: một quan hệ huong-dan ở câu 'hướng dẫn xử lý vướng mắc' (Nội dung). vi_tri rỗng: câu không nêu vị trí; cột 'Điều khoản' của bảng là số Điều của TT 38/2015/TT-BTC đã được TT 121 sửa đổi. Câu phần đầu 'Trả lời vướng mắc ... triển khai thực hiện Thông tư số 121/2025/TT-BTC' không có từ hành động, tên 'V/v hướng dẫn thủ tục hải quan' không nêu văn bản đích: không ghi quan hệ Phần đầu (không chắc). Dòng bảng chỉ trả lời, trích dẫn (TT 38/2015, 39/2018, NĐ 167/2025, 08/2015, 35/2022, Luật 90/2025/QH15, CV 5529, 1891, 16946) hoặc nêu đề xuất của doanh nghiệp: không phải quan hệ."
+ },
+ {
+  "doc_id": "682237",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quyết định thông qua phương án đơn giản hóa 23 TTHC. Các 'Kiến nghị thực thi: sửa đổi ...' ở phụ lục (NĐ 44/2016, 140/2018, 88/2020, 145/2020, 28/2015, 131/2021, 129/2025, TTLT 09/2016/TTLT-BLĐTBXH-BTC, Bộ luật Lao động 2019, Luật Người lao động Việt Nam đi làm việc ở nước ngoài) là kiến nghị lên Trung ương: không phải quan hệ. 'Bãi bỏ TTHC' là đề xuất bỏ thủ tục, không phải văn bản. Điều 2 Khoản 2 chỉ giao nhiệm vụ."
+ }
+]

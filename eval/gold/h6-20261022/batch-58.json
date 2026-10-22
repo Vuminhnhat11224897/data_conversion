@@ -1,0 +1,63 @@
+[
+ {
+  "doc_id": "694946",
+  "relations": [
+   {
+    "source_path": "Điều 38 Khoản 1",
+    "action": "thay-the",
+    "target_document": "04/2018/TTLT-VKSNDTC-BCA-BQP",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thông tư liên tịch này có hiệu lực thi hành kể từ ngày 15 tháng 3 năm 2026, thay thế Thông tư liên tịch số 04/2018/TTLT-VKSNDTC-BCA-BQP ngày 19/10/2018 của Viện kiểm sát nhân dân tối cao, Bộ Công an, Bộ Quốc phòng quy định về phối hợp giữa Cơ quan điều tra và Viện kiểm sát trong việc thực hiện một số quy định của Bộ luật Tố tụng hình sự."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Chỉ Điều 38 khoản 1 tác động lên văn bản khác (thay thế cả TTLT 04/2018). Các từ thay đổi, hủy bỏ, bổ sung, đình chỉ, gia hạn trong thân văn bản chỉ hoạt động tố tụng (quyết định khởi tố, lệnh, biện pháp ngăn chặn), không phải quan hệ. Tên và lời dẫn 'quy định về phối hợp ... trong việc thực hiện một số quy định của Bộ luật Tố tụng hình sự' chỉ mô tả nội dung, không ghi huong-dan/quy-dinh-chi-tiet. Điều 39 khoản 2 chỉ đề nghị phản ánh vướng mắc."
+ },
+ {
+  "doc_id": "681554",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "quy-dinh-chi-tiet",
+    "target_document": "201/2025/QH15",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "Quỹ nhà ở quốc gia",
+    "evidence": "QUY ĐỊNH CHI TIẾT VỀ QUỸ NHÀ Ở QUỐC GIA VÀ BIỆN PHÁP THI HÀNH NGHỊ QUYẾT SỐ 201/2025/QH15 NGÀY 29 THÁNG 5 NĂM 2025 CỦA QUỐC HỘI THÍ ĐIỂM VỀ MỘT SỐ CƠ CHẾ, CHÍNH SÁCH ĐẶC THÙ PHÁT TRIỂN NHÀ Ở XÃ HỘI"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "huong-dan",
+    "target_document": "201/2025/QH15",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "QUY ĐỊNH CHI TIẾT VỀ QUỸ NHÀ Ở QUỐC GIA VÀ BIỆN PHÁP THI HÀNH NGHỊ QUYẾT SỐ 201/2025/QH15 NGÀY 29 THÁNG 5 NĂM 2025 CỦA QUỐC HỘI THÍ ĐIỂM VỀ MỘT SỐ CƠ CHẾ, CHÍNH SÁCH ĐẶC THÙ PHÁT TRIỂN NHÀ Ở XÃ HỘI"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "quy-dinh-chi-tiet",
+    "target_document": "201/2025/QH15",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 4"
+    ],
+    "doi_tuong": null,
+    "evidence": "Nghị định này quy định chi tiết về Quỹ nhà ở quốc gia (sau đây gọi là Quỹ) và biện pháp thi hành một số điều của Nghị quyết số 201/2025/QH15 ngày 29 tháng 5 năm 2025 của Quốc hội thí điểm về một số cơ chế, chính sách đặc thù phát triển nhà ở xã hội (sau đây gọi là Nghị quyết số 201/2025/QH15), bao gồm: … Quỹ nhà ở quốc gia tại Điều 4."
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "huong-dan",
+    "target_document": "201/2025/QH15",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị định này quy định chi tiết về Quỹ nhà ở quốc gia (sau đây gọi là Quỹ) và biện pháp thi hành một số điều của Nghị quyết số 201/2025/QH15 ngày 29 tháng 5 năm 2025 của Quốc hội thí điểm về một số cơ chế, chính sách đặc thù phát triển nhà ở xã hội (sau đây gọi là Nghị quyết số 201/2025/QH15), bao gồm: … Biện pháp thi hành về kiểm tra hoạt động của Quỹ nhà ở quốc gia."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên in trong toàn văn và lời dẫn cùng nêu 'quy định chi tiết về Quỹ nhà ở quốc gia và biện pháp thi hành Nghị quyết số 201/2025/QH15': ghi một quan hệ Phần đầu cho mỗi hành động; 'biện pháp thi hành' ghi là huong-dan (hướng dẫn thi hành). Điều 1: 'Điều 4' ở khoản 1 là Điều 4 Nghị quyết 201/2025/QH15 theo câu dẫn 'một số điều của Nghị quyết số 201/2025/QH15 ..., bao gồm'; khoản 2 không nêu điều nào. Không có sửa đổi, bổ sung, bãi bỏ văn bản khác; Điều 27 khoản 2 là câu dẫn chiếu chung; căn cứ không ghi."
+ }
+]

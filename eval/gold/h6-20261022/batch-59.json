@@ -1,0 +1,50 @@
+[
+ {
+  "doc_id": "692907",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Kế hoạch, không có tác động trực tiếp lên văn bản khác. Văn bản hợp nhất 39/VBHN-BNNMT là căn cứ thực hiện; các thông tư, nghị định khác chỉ là trích dẫn. 'Rà soát, đề xuất sửa đổi, bổ sung các chính sách hỗ trợ' là nhiệm vụ, không phải quan hệ. noi_dung Mục II và Mục IV trong don_vi bị cắt ở 6000 ký tự (giới hạn của gói); đã đọc toàn văn."
+ },
+ {
+  "doc_id": "681458",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quyết định chỉ ban hành Quy định kèm theo (Điều 1) và nêu hiệu lực (Điều 2), không thay thế, bãi bỏ văn bản nào. 'hủy bỏ kết quả', 'hủy bỏ quyết định khen thưởng' (khoản 6 Điều 3 Quy định) là thẩm quyền, không nêu văn bản đích. Các luật, nghị định ở phần đầu là căn cứ ban hành."
+ },
+ {
+  "doc_id": "680050",
+  "relations": [
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "614/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "04 thủ tục hành chính liên thông và quy trình nội bộ giải quyết thủ tục hành chính liên thông lĩnh vực đất đai",
+    "evidence": "Bãi bỏ 04 thủ tục hành chính liên thông và quy trình nội bộ giải quyết thủ tục hành chính liên thông lĩnh vực đất đai ban hành kèm theo Quyết định số 614/QĐ-UBND ngày 25 tháng 3 năm 2025 của Chủ tịch Ủy ban nhân dân tỉnh Lâm Đồng (cũ)."
+   },
+   {
+    "source_path": "Phụ lục 2 Mục III",
+    "action": "bai-bo",
+    "target_document": "614/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "03 thủ tục hành chính (Danh mục thủ tục hành chính bị bãi bỏ)",
+    "evidence": "Bãi bỏ 03 thủ tục bàn bành kèm theo Quyết định số 614/QĐ-UBND ngày 25/3/2025 của Chủ tịch Ủy ban nhân dân tỉnh Lâm Đồng (cũ)."
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Phụ lục 2 Mục III",
+    "loai": "thieu_noi_dung",
+    "ghi_chu": "Câu 'Bãi bỏ 03 thủ tục ... Quyết định số 614/QĐ-UBND' ở đầu PHẦN III (Danh mục thủ tục hành chính bị bãi bỏ) của Phụ lục 2 không có trong don_vi."
+   },
+   {
+    "source_path": "Phụ lục 2",
+    "loai": "gop_sai",
+    "ghi_chu": "Tên phụ lục so 2 gộp cả đề mục 'PHẦN I. DANH MỤC THỦ TỤC HÀNH CHÍNH MỚI BAN HÀNH'."
+   }
+  ],
+  "ghi_chu": "Tên văn bản và câu dẫn Điều 1 ('Công bố kèm theo Quyết định này ...') không nêu văn bản đích, không là hành động; khoản 1 Điều 1 (ban hành mới) không có đích. Câu ở PHẦN III Phụ lục 2 lặp hành động của khoản 2 Điều 1, ghi riêng theo nơi viết chữ hành động. PHẦN III ghi '03 thủ tục' nhưng bảng liệt kê 4 thủ tục (mã 1.013460-1.013463); các dòng bảng không nêu quyết định đã công bố thủ tục, cột 'Tên VBQPPL quy định nội dung bãi bỏ' (NĐ 151/2025, NĐ 226/2025, TT 23/2025) là căn cứ, không phải đích, nên không ghi quan hệ theo dòng."
+ }
+]

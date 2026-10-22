@@ -1,0 +1,66 @@
+[
+ {
+  "doc_id": "694354",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "hop-nhat",
+    "target_document": "68/2020/QH14",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Luật Cư trú số 68/2020/QH14 ngày 13 tháng 11 năm 2020 của Quốc hội, có hiệu lực kể từ ngày 01 tháng 7 năm 2021, được sửa đổi, bổ sung bởi:"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Văn bản hợp nhất: chỉ ghi một quan hệ hop-nhat với Luật gốc 68/2020/QH14. Điều 37, khoản 2 Điều 38 là nội dung của Luật gốc, không ghi quan hệ riêng."
+ },
+ {
+  "doc_id": "690302",
+  "relations": [],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "loai": "gop_sai",
+    "ghi_chu": "Điều 1 chia mục I, II, mỗi mục đánh số khoản lại từ 1. Khoản 2 mục I (Mục tiêu lập quy hoạch) bị gộp với đề mục II và khoản 1, khoản 2 mục II (Quy hoạch phân vùng chức năng; Định hướng điều chỉnh khu vực bảo vệ); điểm e cũng chứa nội dung này."
+   }
+  ],
+  "ghi_chu": "Quyết định phê duyệt quy hoạch di tích, không tác động lên văn bản khác. Phụ lục II nêu diện tích khu vực bảo vệ dự kiến/điều chỉnh nhưng không nêu văn bản đích bị sửa: không ghi quan hệ."
+ },
+ {
+  "doc_id": "679192",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "4152/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "thủ tục hành chính nội bộ số thứ tự 49 phần A và Thủ tục 49 phần B (Thẩm tra quyết toán dự án hoàn thành sử dụng vốn đầu tư công)",
+    "evidence": "Bãi bỏ thủ tục hành chính nội bộ tại số thứ tự 49 (Thẩm tra quyết toán dự án hoàn thành sử dụng vốn đầu tư công) thuộc phần A (Danh mục thủ tục hành chính nội bộ) và Thủ tục 49 (Thẩm tra quyết toán dự án hoàn thành sử dụng vốn đầu tư công) thuộc phần B (Nội dung cụ thể của thủ tục hành chính nội bộ) tại Quyết định số 4152/QĐ-UBND ngày 17/10/2024 của Chủ tịch UBND tỉnh Thanh Hóa"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục I STT 1",
+    "action": "thay-the",
+    "target_document": "4152/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Thủ tục số 49 Thẩm tra quyết toán dự án hoàn thành sử dụng vốn đầu tư công",
+    "evidence": "Thủ tục số 49 kèm theo Quyết định số 4152/QĐ-UBND ngày 17/10/2024 của Chủ tịch UBND tỉnh Thanh Hóa"
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Phụ lục 1 Điều 2 Khoản 1",
+    "loai": "nhan_sai_dieu",
+    "ghi_chu": "Điều 2 (Kết quả đầu tư) khoản 1, khoản 2 là nội dung Mẫu số 10/QTDA (mẫu quyết định phê duyệt quyết toán) trong phụ lục, bị nhận thành Điều của Phụ lục 1; Phụ lục 1 Điều 2 Khoản 2 cùng lỗi."
+   },
+   {
+    "source_path": "Phụ lục 1 Điều 4",
+    "loai": "nhan_sai_dieu",
+    "ghi_chu": "Điều 4 của Mẫu số 10/QTDA bị nhận thành Điều của Phụ lục 1, và gộp cả Mẫu số 12/QTDA (Phiếu giao nhận)."
+   }
+  ],
+  "ghi_chu": "Điều 1 chỉ công bố TTHC được thay thế: không phải quan hệ. Điều 2 bãi bỏ TTHC số 49 phần A, phần B của QĐ 4152/QĐ-UBND; câu không nêu phụ lục nên vi_tri rỗng, ghi doi_tuong. Dòng 1 Phần I phụ lục nêu TTHC được thay thế là Thủ tục số 49 kèm theo QĐ 4152/QĐ-UBND: quan hệ thay-the. NĐ 254/2025/NĐ-CP, TT 91/2025/TT-BTC ở cột văn bản quy định nội dung: không phải đích."
+ }
+]
