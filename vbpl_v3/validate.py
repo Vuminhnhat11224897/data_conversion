@@ -60,7 +60,9 @@ def catalogue_name(evidence):
 
 # A history note, not this document's act: "… đã được sửa đổi, bổ sung tại Quyết định số …", "bị thay thế bởi Thông tư số …".
 HISTORY = re.compile(r'\b(?:đã\s+)?(?:bị|được)\s+(?:sửa\s*đổi|bổ\s*sung|thay\s*thế|b[ãả]i\s*bỏ|h(?:uỷ|ủy|uy)\s*bỏ|đình\s*chỉ|đính\s*chính)'
-                     r'(?:\s*,\s*(?:bổ\s*sung|thay\s*thế))?\s+(?:một\s+số\s+\S+\s+)?(?:bởi|tại|theo)\b', re.I)
+                     r'(?:\s*,\s*(?:bổ\s*sung|thay\s*thế))?\s+(?:một\s+số\s+\S+\s+)?(?:bởi|tại|theo)\b'
+                     # "thủ tục được sửa đổi, bổ sung tại số thứ tự 136 … Quyết định số X": the row of X that holds the procedure, no note
+                     r'(?!\s+(?:số\s+thứ\s+tự|STT)\b)', re.I)
 PLANNED = re.compile(r'\b(?:cần|dự\s+kiến|đề\s+nghị|kiến\s+nghị)\s+(?:được\s+|phải\s+)?(?:sửa\s+đổi|bổ\s+sung|bãi\s+bỏ|thay\s+thế|ban\s+hành|xây\s+dựng)'
                      r'|thời\s+hạn\s+(?:thực\s+hiện|hoàn\s+thành|trình|ban\s+hành)|cơ\s+quan\s+chủ\s+trì|chương\s+trình\s+xây\s+dựng', re.I)
 
@@ -174,7 +176,10 @@ def check(row, resolved):
         if verdict:
             return verdict, reason
         resolved.update(source_path=row['source_path'], source_in_phu_luc=row['source_path'].startswith('Phụ lục'))
-    if ANNOUNCES.search(stated) and not governance.names(sentence, row.get('target_document') or ''):
+    # "Nội dung công bố của các thủ tục … thay thế nội dung công bố: - Thủ tục … kèm theo Quyết định số X": the lead opens a list and
+    # the item names the target; only a sentence that names no target only publishes.
+    if ANNOUNCES.search(stated) and not governance.names(sentence, named) \
+            and not (governance.opens_list(sentence) and governance.names(governance.target_snippet(row) or '', named)):
         return 'reject', 'cong_bo_danh_muc'
     texts = sources(row)
     whole = '\n'.join(texts)
@@ -182,6 +187,8 @@ def check(row, resolved):
     if own and own in (target, number_key(resolved.get('target_doc') or '')):
         return 'reject', 'chinh_van_ban_nguon'
     target_text = resolved.get('target_doc') or ''
+    if target_text and governance.only_in_new_wording(row, target_text):
+        return 'reject', 'dich_trong_noi_dung_moi'
     if row['action'] in ('sua-doi', 'bo-sung', 'bai-bo', 'thay-the', 'huy-bo', 'thay-cum-tu') and above(row, target_text):
         return 'reject', 'vuot_tham_quyen'
     if row['action'] in ('huong-dan', 'quy-dinh-chi-tiet') and not guides(row, evidence):

@@ -35,28 +35,57 @@ TTHC = re.compile(r'thủ\s+tục\s+hành\s+chính|\bTTHC\b', re.I)
 ACT_COLUMN = re.compile(r'thay\s*thế|b[ãả]i\s*bỏ|sửa\s*đổi|bổ\s*sung|h(?:uỷ|ủy)\s*bỏ', re.I)
 # Where the model may say the target came from (extract.ORIGINS), as fields.
 ORIGIN_FIELD = {'don_vi': 'don_vi', 'cau_dan': 'cau_dan', 'ten_dieu': 'ten_dieu', 'ten_chuong': 'chuong', 'ten_van_ban': 'ten_van_ban'}
-QUOTE = re.compile(r'“[^”]*(?:”|$)|"[^"]*(?:"|$)', re.S)
 # A lead that names one provision ("Sửa đổi, bổ sung khoản 2 Điều 3 như sau:") introduces its new wording, not a list of targets.
 PROVISION = re.compile(r'\b(?:điểm\s+[a-zđ]\w?|khoản\s+\d+[a-zđ]?|điều\s+\d+[a-zđ]?|chương\s+[IVXLCDM\d]+|mục\s+[IVXLCDM\d]+(?:\.\d+)*|phụ\s+lục\s+(?:số\s+)?[IVXLCDM\d]+|tên\s+(?:điều|chương|mục))\b', re.I)
+
+
+def quote_spans(text):
+    """[(start, end)] of the outermost quoted spans. Curly quotes nest: the new wording “i) Thay thế cụm từ “A” bằng cụm từ “B” tại …”
+    is one span with two phrases inside. A straight quote runs to the next one. A curly quote that never closes runs to the end; one
+    that never balances (“A bằng cụm từ “B”: a mark is missing) ends at its first closing mark, so the rest of the text stays visible."""
+    spans, k, n = [], 0, len(text)
+    while k < n:
+        if text[k] == '“':
+            depth, j, first = 0, k, None
+            while j < n:
+                if text[j] == '“':
+                    depth += 1
+                elif text[j] == '”':
+                    depth -= 1
+                    first = j if first is None else first
+                    if depth == 0:
+                        break
+                j += 1
+            end = j + 1 if j < n else first + 1 if first is not None else n
+        elif text[k] == '"':
+            j = text.find('"', k + 1)
+            end = j + 1 if j >= 0 else n
+        else:
+            k += 1
+            continue
+        spans.append((k, end))
+        k = end
+    return spans
 
 
 def quotes(text):
     """[(start, end, role)] of the quoted spans of a text: 'noi_dung_moi' for wording inserted into the target (after "như sau:" or
     a colon, or a quote that starts with a provision label, spans lines or is long), 'cum_tu' for a phrase or a name, 'trich' for any
     other quotation (a retold sentence). Only 'noi_dung_moi' and 'trich' hold no act of this document."""
-    out = []
-    for m in QUOTE.finditer(text or ''):
-        inner = m.group()[1:].rstrip('”"')
-        before = text[max(0, m.start() - 60):m.start()]
+    out, text = [], text or ''
+    for start, end in quote_spans(text):
+        inner = text[start + 1:end].rstrip('”"')
+        before = text[max(0, start - 60):start]
         short = len(inner) <= 200 and '\n' not in inner
-        if short and (PHRASE_BEFORE.search(before) or NAME_BEFORE.search(before)):
+        # A colon right before the quote opens wording, also after a document number ("Quyết định số X như sau: “…”").
+        colon = re.search(r'(?:như\s+sau|sau\s+đây)?\s*:\s*$', before)
+        if short and not colon and (PHRASE_BEFORE.search(before) or NAME_BEFORE.search(before)):
             role = 'cum_tu'
-        elif re.search(r'(?:như\s+sau|sau\s+đây)?\s*:\s*$', before) or re.match(r'\s*(?:Điều\s+\d|\d+[a-zđ]?\.|[a-zđ]\))', inner) \
-                or not short:
+        elif colon or re.match(r'\s*(?:Điều\s+\d|\d+[a-zđ]?\.|[a-zđ]\))', inner) or not short:
             role = 'noi_dung_moi'
         else:
             role = 'trich'
-        out.append((m.start(), m.end(), role))
+        out.append((start, end, role))
     return out
 
 
@@ -67,6 +96,23 @@ def outside_wording(text):
         if role != 'cum_tu':
             chars[start:end] = ' ' * (end - start)
     return ''.join(chars)
+
+
+def only_in_new_wording(row, target):
+    """The fields the model read name the target, but only inside wording inserted into a document. Such a document ("Sửa đổi, bổ
+    sung khoản 10 Điều 18 như sau: “a) Sửa đổi … Thông tư số 31/2023/TT-BGDĐT …”") is a target of the amending act whose wording it
+    is, not of this document."""
+    seen = False
+    for text in fields(row).values():
+        if not names(text, target):
+            continue
+        seen, chars = True, list(text)
+        for start, end, role in quotes(text):
+            if role == 'noi_dung_moi':
+                chars[start:end] = ' ' * (end - start)
+        if names(''.join(chars), target):
+            return False
+    return seen
 
 
 def fields(row):

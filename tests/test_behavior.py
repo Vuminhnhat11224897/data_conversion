@@ -99,6 +99,34 @@ class ListUnderLead(unittest.TestCase):
                 f'| 1 | {A} | |\n| 2 | {B} | |\n')
         self.assertEqual(impacts(text, 'bai-bo'), self.WHOLE)
 
+    def test_numbered_list_in_an_attachment(self):
+        # The attachment is a numbered list, not a table; the article names "Phụ lục 2" for "PHỤ LỤC 02".
+        text = (HEAD + 'Điều 1. Bãi bỏ toàn bộ các văn bản quy phạm pháp luật do Ủy ban nhân dân tỉnh ban hành\n(Kèm theo Phụ lục 2)\n'
+                + TAIL + 'PHỤ LỤC 01\nCÁC VĂN BẢN TIẾP TỤC THỰC HIỆN\n'
+                '1. Quyết định số 56/2015/QĐ-UBND ngày 03/03/2015 của Ủy ban nhân dân tỉnh về phí.\n'
+                f'PHỤ LỤC 02\nDANH MỤC CÁC VĂN BẢN BÃI BỎ\n1. {A}.\n2. {B}.\n')
+        self.assertEqual(impacts(text, 'bai-bo'), self.WHOLE)
+
+    def test_section_of_an_attachment(self):
+        # "chi tiết tại mục II theo phụ lục đính kèm": the article acts on the documents of that section only.
+        text = (HEAD + 'Điều 1. Bãi bỏ toàn bộ các Quyết định quy phạm pháp luật do Ủy ban nhân dân tỉnh ban hành '
+                '(chi tiết tại mục II theo phụ lục đính kèm).\n' + TAIL + 'PHỤ LỤC\nÁP DỤNG VÀ BÃI BỎ CÁC QUYẾT ĐỊNH\n'
+                'I. CÁC QUYẾT ĐỊNH TIẾP TỤC ÁP DỤNG\n1. Quyết định số 56/2015/QĐ-UBND ngày 03/03/2015 của Ủy ban nhân dân tỉnh về phí.\n'
+                f'II. CÁC QUYẾT ĐỊNH BÃI BỎ TOÀN BỘ\n1. {A}.\n2. {B}.\n')
+        self.assertEqual(impacts(text, 'bai-bo'), self.WHOLE)
+
+    def test_line_above_a_table(self):
+        # In an appendix that is a table, the line above the table states the act: it is a unit of its section.
+        from vbpl_v3.extract import prose_units
+        text = (HEAD + 'Điều 1. Công bố kèm theo Quyết định này Danh mục thủ tục hành chính bị bãi bỏ.\n' + TAIL +
+                'PHỤ LỤC\nDANH MỤC THỦ TỤC HÀNH CHÍNH BỊ BÃI BỎ\n(Kèm theo Quyết định số 15/2024/QĐ-UBND)\n'
+                'II. DANH MỤC THỦ TỤC HÀNH CHÍNH BỊ BÃI BỎ\n'
+                'Bãi bỏ 02 thủ tục hành chính được ban hành tại Quyết định số 4277/QĐ-UBND ngày 08/11/2017.\n'
+                '| STT | Mã thủ tục | Tên thủ tục hành chính |\n| 1 | 1.001786 | Cấp giấy phép A |\n| 2 | 1.001787 | Cấp giấy phép B |\n'
+                '| 3 | 1.001788 | Cấp giấy phép C |\n')
+        found = [(u['source_path'], u['cau_dan'][:12]) for _, _, items in prose_units(parse(text)[0]) for u in items]
+        self.assertEqual(found, [('Phụ lục 1 Mục II', 'II. DANH MỤC')])
+
     def test_new_wording_is_no_list(self):
         # A lead that names one provision introduces its new wording: the items under it are that wording.
         text = HEAD + f'Điều 1. Sửa đổi khoản 2 Điều 3 Quyết định số 99/2020/QĐ-UBND như sau:\n1. {A}.\n2. {B}.\n' + TAIL
@@ -112,6 +140,25 @@ class NotPerformed(unittest.TestCase):
         text = HEAD + 'Điều 1. Sửa đổi khoản 2 Điều 3 Quyết định số 99/2020/QĐ-UBND đã được sửa đổi, bổ sung tại Quyết định số 11/2021/QĐ-UBND.\n' + TAIL
         found = impacts(text, 'sua-doi', targets=['11/2021/qđ-ubnd'], positions=['khoản 2 Điều 3'], section='quyet_dinh')
         self.assertEqual(found, set())
+
+    def test_wording_of_an_amending_act(self):
+        # The new wording of a point of the amending act (curly quotes nested in it) acts on an older document: that act is the
+        # amending act's own, not an act of this document.
+        text = (HEAD + 'Điều 1. Sửa đổi, bổ sung Điều 18 Quyết định số 99/2020/QĐ-UBND\n'
+                '1. Bổ sung điểm i sau điểm h khoản 10 Điều 18 như sau: “i) Thay thế cụm từ “Trưởng phòng” bằng cụm từ “Chủ tịch” '
+                'tại Điều 3 Quyết định số 11/2015/QĐ-UBND.”\n' + TAIL)
+        found = impacts(text, 'thay-cum-tu', targets=['11/2015/qđ-ubnd'], positions=['Điều 3'], section='quyet_dinh')
+        self.assertEqual(found, set())
+
+    def test_target_inside_new_wording(self):
+        # The lead amends a point of Quyết định 99/2020; the older document named only inside the new wording is no target.
+        text = (HEAD + 'Điều 1. Sửa đổi, bổ sung điểm a khoản 10 Điều 18 Quyết định số 99/2020/QĐ-UBND như sau: “a) Sửa đổi, bổ sung '
+                'khoản 1 Điều 7 Quy chế ban hành kèm theo Quyết định số 11/2015/QĐ-UBND như sau: “1. Hội đồng do Chủ tịch Ủy ban nhân '
+                'dân xã quyết định thành lập.””\n' + TAIL)
+        older = impacts(text, 'sua-doi', targets=['11/2015/qđ-ubnd'], positions=['khoản 1 Điều 7'], section='kem_theo')
+        self.assertEqual(older, set())
+        own = impacts(text, 'sua-doi', targets=['99/2020/qđ-ubnd'], positions=['điểm a khoản 10 Điều 18'], section='quyet_dinh')
+        self.assertEqual({r[1] for r in own}, {'99/2020/qđ-ubnd'})
 
     def test_plan_rows(self):
         text = (HEAD + 'Điều 1. Ban hành kèm theo Quyết định này Kế hoạch rà soát văn bản.\n' + TAIL +

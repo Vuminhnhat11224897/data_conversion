@@ -165,7 +165,8 @@ def prose_units(parsed):
         lines = [l for l in (appendix.get('noi_dung') or '').split('\n') if l.strip()]
         rows = sum(1 for l in lines if l.lstrip().startswith('|'))
         if not lines or rows >= 3 and rows > 0.3 * len(lines):
-            continue  # a table: its rows are units of table_units()
+            groups += table_notes(index, appendix, lines)  # a table: its rows are units of table_units()
+            continue
         text = '\n'.join(l for l in lines if not l.lstrip().startswith('|'))
         sections = split_sections(text) or [{'so_muc': None, 'noi_dung': text}]
         title = ' '.join(appendix['tieu_de'].split())[:500]
@@ -182,10 +183,33 @@ def prose_units(parsed):
     return groups
 
 
+def table_notes(index, appendix, lines):
+    """[(key, context, [unit])]: the lines of a table appendix outside its rows that state an act on documents ("II. DANH MỤC THỦ TỤC
+    HÀNH CHÍNH BỊ BÃI BỎ", then "Bãi bỏ 13 TTHC được ban hành tại Quyết định số …; Quyết định số …" above the table). Each is a unit
+    "Phụ lục <n> [Mục <section>]" with its section heading as lead. The subtitle "(Kèm theo Quyết định số …)" is no such line."""
+    title = ' '.join(appendix['tieu_de'].split())[:500]
+    groups, section, heading = [], None, ''
+    for line in (l.strip() for l in lines):
+        if line.startswith('|') or re.match(r'\(\s*(?:ban\s+hành\s+)?kèm\s+theo\b', line, re.I):
+            continue
+        head = SECTION_HEAD.match(line)
+        if head:
+            section, heading = head[1], line[:300]
+            continue
+        if SIGNAL.search(line) and ROW_NUMBER.search(line):
+            path = f'Phụ lục {index + 1}' + (f' Mục {section}' if section else '')
+            unit = {'source_path': path, 'cau_dan': heading, 'noi_dung': line[:PROSE_CHUNK]}
+            groups.append((path, {'chuong': '', 'ten_dieu': title, 'cau_dan_dieu': ''}, [unit]))
+    return groups
+
+
 def appendix_named(appendix):
-    """How the main text names this appendix: "Phụ lục II", "Phụ lục Danh mục II", "Danh mục II"."""
+    """How the main text names this appendix: "Phụ lục II", "Phụ lục Danh mục II", "Danh mục II"; "Phụ lục 2" names "PHỤ LỤC 02"."""
     label = appendix.get('ky_hieu') or appendix_label(appendix)
-    return rf'(?:phụ\s+lục|danh\s+mục)(?:\s+danh\s+mục)?\s+(?:số\s+)?{re.escape(label)}\b' if label else None
+    if not label:
+        return None
+    number = rf'0*{int(label)}' if label.isdigit() else re.escape(label)
+    return rf'(?:phụ\s+lục|danh\s+mục)(?:\s+danh\s+mục)?\s+(?:số\s+)?{number}\b'
 
 
 def main_units(parsed):
@@ -198,18 +222,24 @@ def main_units(parsed):
         yield from [(f'{path} Khoản {k["ky_hieu"]}', k['noi_dung']) for k in article['khoan']]
 
 
-def naming(parsed, appendix, test):
-    """The first main-text unit that names this appendix and passes test: by its label first, then, when the document has a single
+def namings(parsed, appendix, test):
+    """The main-text units that name this appendix and pass test, in order: by its label first, then, when the document has a single
     appendix without articles, by "danh mục / phụ lục … kèm theo, đính kèm"."""
     label = appendix_named(appendix)
     tables = [p for p in parsed['phu_luc'] if not p['dieu_luat']]
+    seen = set()
     for pattern in [label] + ([GENERIC_APPENDIX] if len(tables) == 1 or not label else []):
         if not pattern:
             continue
         for unit_path, text in main_units(parsed):
-            if re.search(pattern, text, re.I) and test(text):
-                return {'source_path': unit_path, 'noi_dung': text[:3000]}
-    return None
+            if unit_path not in seen and re.search(pattern, text, re.I) and test(text):
+                seen.add(unit_path)
+                yield {'source_path': unit_path, 'noi_dung': text[:3000]}
+
+
+def naming(parsed, appendix, test):
+    """The first main-text unit that names this appendix and passes test, or None."""
+    return next(namings(parsed, appendix, test), None)
 
 
 def article_about(parsed, appendix):
@@ -217,40 +247,73 @@ def article_about(parsed, appendix):
     return naming(parsed, appendix, lambda text: True)
 
 
+def acts_on_list(text):
+    """The unit performs an act ("Bãi bỏ các văn bản tại Phụ lục II"); "Công bố kèm theo Quyết định này Danh mục …" performs none."""
+    return bool(action_matches(text)) and not re.search(r'\bcông\s+bố\b', text[:200], re.I)
+
+
 def acting_article(parsed, appendix):
     """{source_path, noi_dung} of the main-text unit that performs an act on the documents an appendix lists ("Bãi bỏ các văn bản tại Phụ
-    lục II", "Bãi bỏ các Quyết định có tên trong Danh mục kèm theo"), or None. "Công bố kèm theo Quyết định này Danh mục …" acts on none."""
-    return naming(parsed, appendix, lambda text: bool(action_matches(text)) and not re.search(r'\bcông\s+bố\b', text[:200], re.I))
+    lục II", "Bãi bỏ các Quyết định có tên trong Danh mục kèm theo"), or None."""
+    return naming(parsed, appendix, acts_on_list)
 
 
-def listed_documents(appendix, limit=12000):
-    """The rows of an appendix that name a document, as "STT <k>: <row>", the legal-basis column left out: what an article acting on
-    "các văn bản tại Phụ lục II" acts on."""
-    out, header, drop = [], [], set()
+# The section of the attached part a unit names: "chi tiết tại mục II theo phụ lục đính kèm", "Mục B Phụ lục I", "phần II của Danh mục".
+SECTION_OF_PART = re.compile(r'(?:\b[Mm]ục|MỤC|\b[Pp]hần|PHẦN)\s+([IVXLCDM]+|[A-ZĐ]|\d+)\b(?=[^.;()]{0,40}?(?i:danh\s+mục|danh\s+sách|phụ\s+lục|biểu))')
+# A section heading of a list written as text: "II. CÁC QUYẾT ĐỊNH BÃI BỎ", "Mục 2 - …"; the items under it are "1. Quyết định số …".
+LIST_SECTION = re.compile(r'^(?:(?:Phần|PHẦN|Mục|MỤC)\s+)?([A-ZĐ]|[IVXLCDM]+)\s*[.)\-–:]\s*\S|^(?:Phần|PHẦN|Mục|MỤC)\s+(\d+)\b')
+LIST_ITEM = re.compile(r'^\d+[a-zđ]?\s*[.)]\s+\S')
+
+
+def listed_documents(appendix, section=None, limit=12000):
+    """The rows of an appendix that name a document, the legal-basis column left out: what an article acting on "các văn bản tại Phụ lục
+    II" acts on. A table gives its rows; an appendix written as a numbered list ("1. Nghị quyết số …") gives its items. With section
+    ("II"), only the rows under that section heading, when the appendix has one."""
+    out, header, drop, current, found = [], [], set(), None, False
     for line in (appendix.get('noi_dung') or '').split('\n'):
         line = line.strip()
-        if not line.startswith('|'):
+        if not line:
             continue
-        row = cells(line)
-        if not header and not re.fullmatch(r'\d+[a-zđ]?\.?', row[0] or ''):
-            header, drop = row, {k for k, name in enumerate(row) if BASIS_COLUMN.search(name)}
-            continue
-        text = ' | '.join(c for k, c in enumerate(row) if c and k not in drop)
-        if ROW_NUMBER.search(text):
-            out.append(text[:400])
-    return '\n'.join(out)[:limit]
+        if line.startswith('|'):
+            row = cells(line)
+            filled = [c for c in row if c]
+            if 0 < len(filled) <= 2 and re.fullmatch(r'(?:[A-ZĐ]|[IVXLCDM]+)\.?', filled[0]):
+                current = filled[0].rstrip('.')  # a section heading written as a row of the table
+                found = found or current == section
+                continue
+            if not header and not re.fullmatch(r'\d+[a-zđ]?\.?', row[0] or ''):
+                header, drop = row, {k for k, name in enumerate(row) if BASIS_COLUMN.search(name)}
+                continue
+            text = ' | '.join(c for k, c in enumerate(row) if c and k not in drop)
+        else:
+            head = LIST_SECTION.match(line)
+            if head:
+                current = head[1] or head[2]
+                found = found or current == section
+                continue
+            text = line if LIST_ITEM.match(line) else ''
+        if text and ROW_NUMBER.search(text):
+            out.append((current, text[:400]))
+    if section and found:
+        out = [row for row in out if row[0] == section]
+    return '\n'.join(text for _, text in out)[:limit]
 
 
 def acting_lists(parsed):
-    """{source_path: rows}: the documents listed in the appendices a main-text unit acts on."""
+    """{source_path: rows}: the documents listed in the appendices a main-text unit acts on. Units that name one section of the appendix
+    ("Điều 2. Bãi bỏ toàn bộ … (chi tiết tại mục II theo phụ lục đính kèm)", "Điều 3. Bãi bỏ một phần … mục III") each get the rows of
+    their section; otherwise the first unit acting on the appendix gets all its rows."""
     lists = {}
     for appendix in parsed['phu_luc']:
         if appendix['dieu_luat']:
             continue
-        holder = acting_article(parsed, appendix)
-        rows = listed_documents(appendix) if holder else ''
-        if rows:
-            lists[holder['source_path']] = (lists.get(holder['source_path'], '') + '\n' + rows).strip()
+        holders = list(namings(parsed, appendix, acts_on_list))
+        named = [(h, SECTION_OF_PART.search(h['noi_dung'])) for h in holders]
+        chosen = [(h, m[1]) for h, m in named if m] or [(h, None) for h in holders[:1]]
+        for holder, section in chosen:
+            rows = listed_documents(appendix, section)
+            if rows:
+                lists[holder['source_path']] = (lists.get(holder['source_path'], '') + '\n' + rows).strip()
     return lists
 
 

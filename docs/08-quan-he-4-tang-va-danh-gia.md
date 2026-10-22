@@ -87,6 +87,7 @@ Tầng 4 loại hẳn (không ghi) các hàng ở bảng dưới. Lý do ở `wo
 | `dong_bang_khong_neu_van_ban` | Dòng bảng không nêu văn bản đích. |
 | `dong_bang_khac_co_quan` | Dòng danh mục thủ tục nêu quyết định của cơ quan khác. |
 | `dong_bang_khong_co_hanh_dong` | Dòng bảng, đề mục và tên phụ lục không nêu hành động. |
+| `dich_trong_noi_dung_moi` | Đích chỉ được nêu bên trong nội dung mới chèn vào văn bản bị sửa. Đích đó là đích của văn bản bị sửa, không phải của văn bản này (từ 22/10/2026). |
 
 Văn bản hợp nhất không qua tầng 2. Văn bản hợp nhất chép lại câu của văn bản gốc. Quan hệ duy nhất của nó là `hop-nhat`, lấy bằng quy tắc.
 
@@ -460,6 +461,14 @@ Sau mỗi hold-out mới, công cụ lại cần vá một cách viết mới. N
 13. **Bản ghi chờ duyệt không che bản ghi đã kiểm** (`convert.rows_into_articles`, `validate.distinct`). Hai bản ghi trùng đơn vị, hành động, đích, vị trí: giữ bản `validated`. Dòng của phần kèm theo là chi tiết của hành động do Điều nêu. Nếu hành động của Điều là `unresolved` và một dòng đã kiểm (`validated`) cùng hành động, cùng đích, thì hành động của Điều nhận kết quả của dòng đó. Ví dụ: Điều chỉ nêu "các Quyết định … (có danh sách kèm theo)"; dòng có cột "Thu hồi, hủy bỏ Quyết định số:" nêu đích.
 14. **Văn bản nguồn không bao giờ là đích** (`resolver`, `validate`). Phần kèm theo của văn bản nguồn là nội dung của chính văn bản đó. LLM có thể ghi "văn bản chứa nội dung" là văn bản nguồn ("Kèm theo Quyết định số …"). Khi đó code giữ đích LLM nêu. Phép kiểm `chinh_van_ban_nguon` dùng cả đích sau phân giải.
 
+Quy tắc thêm ngày 22/10/2026, sau benchmark 500 văn bản (mục 8.14):
+
+15. **Danh mục ở phụ lục, mọi dạng** (`extract.listed_documents`, `acting_lists`). Điều tác động lên các văn bản của phụ lục nhận danh sách văn bản của phụ lục, kể cả khi phụ lục là danh sách đánh số ("1. Nghị quyết số …"), không phải bảng. "Phụ lục 2" khớp nhãn "PHỤ LỤC 02". Điều nêu một mục của phụ lục ("chi tiết tại mục II theo phụ lục đính kèm") chỉ nhận các văn bản của mục đó. Mỗi Điều nêu một mục khác nhau nhận mục của mình.
+16. **Câu ngoài bảng của phụ lục dạng bảng** (`extract.table_notes`). Câu không thuộc dòng bảng mà nêu hành động và số hiệu ("Bãi bỏ 13 TTHC được ban hành tại Quyết định số …" ở trên bảng) là một đơn vị `Phụ lục <n> [Mục <m>]`, có đề mục làm câu dẫn.
+17. **Ngoặc kép lồng nhau** (`governance.quote_spans`). Nội dung mới “i) Thay thế cụm từ “A” bằng cụm từ “B” tại …” là một đoạn, có 2 cụm từ bên trong. Ngoặc không cân (thiếu một dấu) thì đóng ở dấu đóng đầu tiên. Ngoặc kép đứng ngay sau dấu hai chấm là nội dung mới, kể cả khi trước đó có số hiệu ("Quyết định số X như sau: “…”").
+18. **Đích chỉ nằm trong nội dung mới** (`governance.only_in_new_wording`): loại (`dich_trong_noi_dung_moi`). Ví dụ: "Sửa đổi, bổ sung khoản 10 Điều 18 như sau: “a) Sửa đổi … Thông tư số 31/2023/TT-BGDĐT …”". Thông tư 31/2023 là đích của văn bản bị sửa (Thông tư 10/2025), không phải đích của văn bản này.
+19. **Hai cổng hình thức được thu hẹp theo sự thật.** `cong_bo_danh_muc` không loại hàng khi câu mở danh sách và mục của danh sách nêu đích ("… thay thế nội dung công bố: - Thủ tục … Quyết định số X"). Ghi chú lịch sử không gồm "được sửa đổi, bổ sung tại số thứ tự 136 … Quyết định số X": "số thứ tự" là dòng của X chứa thủ tục, không phải văn bản đã sửa.
+
 Kiểm thử theo họ cách viết: `tests/test_behavior.py`. Mã kiểm thử không chứa ID văn bản trong điều kiện xử lý.
 
 ### 8.11.4. Quy tắc đã đo và không dùng
@@ -692,3 +701,27 @@ H6 là mẫu bổ sung cho H5, để có 500 văn bản. H6 lấy từ cùng t�
 | Lỗi lẻ: sai loại hành động, đọc nhiệm vụ hoặc dẫn chiếu thành hành động | 27 | 19 | 1–3 lỗi ở mỗi văn bản, trải trên 29 văn bản |
 
 Hai nhóm đầu là lỗi có cấu trúc lặp lại. Nếu sửa theo hai nhóm này, H5 và H6 không còn độc lập. Khi đó cần bộ mới để đo lại.
+
+### 8.14. Sửa lỗi sau benchmark 500 văn bản (22/10/2026)
+
+Các sửa đổi theo 3 nhóm lỗi ở mục 8.13: quy tắc 15–19 (mục 8.11.3). Từ đây H5 và H6 là bộ phân tích, không còn độc lập. Số đo độc lập cần bộ mới.
+
+**Cách đo.** Chạy lại 500 văn bản bằng câu trả lời LLM đã lưu khi ghi `-v4` (`work/H56-base`). Đơn vị có đầu vào mới (danh mục của Điều, câu ngoài bảng) được hỏi LLM: 292 lời gọi mới. 6 bộ cũ: `eval.round D --from C --allow-new`, 232 lời gọi mới. Mốc so sánh là code trước khi sửa, chạy lại chặt (lượt `H56-A`, `base22`).
+
+| 500 văn bản (H5 + H6) | Phát hiện P / R | Phạm vi P / R |
+| --- | --- | --- |
+| Trước khi sửa (`H56-A`) | 0,860 / 0,765 | 0,782 / 0,699 |
+| Sau khi sửa (`H56-C`) | **0,890 / 0,873** | **0,785 / 0,743** |
+| Khoảng 95% sau khi sửa | P 0,84–0,93; R 0,83–0,91 | P 0,70–0,86; R 0,66–0,80 |
+
+- Tầng ngắn, mức phát hiện: (đúng, sai, sót) từ (323, 45, 110) thành (381, 36, 52). Tầng dài không đổi.
+- H6: 58 quan hệ đúng được phục hồi, 10 quan hệ sai được loại, 2 quan hệ sai mới. H5: 1 quan hệ sai được loại.
+- 6 bộ cũ so với `base22`: dev, H2, H3, review50 không đổi; H4 thêm 1 quan hệ đúng; Blind thêm 1 vị trí đúng, bớt 1 vị trí sai. Không mất quan hệ đúng nào.
+
+**Lỗi còn lại ở 2 nhóm đã sửa:**
+
+| Lỗi | Quan hệ | Lý do chưa sửa |
+| --- | --- | --- |
+| LLM không đọc ra hành động ở dòng, câu công bố thủ tục "… hết hiệu lực", "Danh mục thủ tục bị bãi bỏ: … công bố tại Quyết định số X" (685326, 691293, 693990, 690268) | khoảng 13 sót | Cần thêm định nghĩa vào prompt. Sửa prompt làm mọi câu trả lời đã lưu hết hiệu lực: phải hỏi lại LLM cho mọi đơn vị. |
+| Nội dung mới có ngoặc không cân: parser tách các điểm “b)”, “c)” của nội dung mới thành điểm của văn bản nguồn (686633) | 2 cặp hành động, đích sai | Cần sửa parser; đơn vị đổi thì phải hỏi lại LLM. |
+| Đề mục "Danh mục thủ tục bị bãi bỏ tại Nghị định số …" bị coi là ghi chú lịch sử (688391) | 2 sót | Thu hẹp cổng này có thể làm lọt ghi chú lịch sử thật. |
