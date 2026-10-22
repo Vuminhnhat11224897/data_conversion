@@ -1,0 +1,41 @@
+[
+ {
+  "doc_id": "689060",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Kế hoạch chuyển đổi số năm 2026: chỉ có căn cứ, mục tiêu, nhiệm vụ, giao việc. Câu 'đề xuất sửa đổi, bổ sung… hoặc tham mưu cấp có thẩm quyền sửa đổi, bổ sung hoặc bãi bỏ' (Mục III.2), 'Triển khai thực hiện Quyết định số 2629/QĐ-TTg', 'ban hành Kế hoạch triển khai thi hành Luật An ninh mạng', Phụ lục 02 STT 9, 11, 12 là nhiệm vụ, không phải tác động. 'Nghị quyết số 71/NQ-CP … sửa đổi, bổ sung' ở Mục I là căn cứ. Không có quan hệ. noi_dung Mục III trong DON_VI dừng ở 6000 ký tự (giới hạn gói); đã đọc đủ toàn văn và 2 phụ lục."
+ },
+ {
+  "doc_id": "684726",
+  "relations": [],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "loai": "gop_sai",
+    "ghi_chu": "Parser bỏ qua các mục La Mã I-IV trong Điều 1. Khoản 2 (I.2 Yêu cầu) gộp cả đề mục II và mục II.1, II.2; các điểm a, b của II.1 và c-g của II.2 bị gán thành điểm a-g của Khoản 2 với câu dẫn 'Yêu cầu'."
+   },
+   {
+    "source_path": "Điều 1 Khoản 2 điểm b",
+    "loai": "gop_sai",
+    "ghi_chu": "Điểm b (II.1.b) gộp cả đề mục II.2 và các điểm a, b của II.2."
+   },
+   {
+    "source_path": "Điều 1 Khoản 4",
+    "loai": "gop_sai",
+    "ghi_chu": "Khoản 3, Khoản 4 thực chất là mục II.3, II.4. Khoản 4 và điểm d của nó gộp cả đề mục III (Tổ chức thực hiện) và mục III.1-III.4."
+   },
+   {
+    "source_path": "Điều 1 Khoản 5",
+    "loai": "gop_sai",
+    "ghi_chu": "Khoản 5 thực chất là mục III.5, gộp cả mục IV (Kinh phí)."
+   }
+  ],
+  "ghi_chu": "Quyết định phê duyệt Kế hoạch và Phụ lục kèm theo chính văn bản: không tác động lên văn bản khác. 'Hiến pháp năm 2013 (sửa đổi, bổ sung bởi Nghị quyết số 203/2025/QH15)' là ghi chú lịch sử; Phụ lục mục A.II.1.7 'trình Quốc hội sửa đổi, bổ sung Luật Tín ngưỡng, tôn giáo' và mục 1.10 '(về Quyết định 06/2020/QĐ-TTg)' là nhiệm vụ rà soát, đề xuất. Không có quan hệ. cau_dan trong DON_VI dừng ở 800 ký tự (giới hạn gói)."
+ },
+ {
+  "doc_id": "688318",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Chỉ thị tổ chức Tết Nguyên đán 2026: 'Thực hiện Chỉ thị số 55-CT/TW, 36/CT-TTg, 18/CT-BCT, 02-CT/TU' ở phần đầu là căn cứ thực hiện; các mục 1-23 chỉ giao nhiệm vụ, dẫn chiếu Kế hoạch số 264/KH-UBND, Chỉ thị số 13/CT-UBND. Không có quan hệ. noi_dung Mục 22 trong DON_VI dừng ở 6000 ký tự (giới hạn gói); đoạn kết 'Yêu cầu Giám đốc các sở…' bị gắn vào Mục 23 (không ảnh hưởng)."
+ }
+]

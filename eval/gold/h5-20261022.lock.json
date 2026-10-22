@@ -1,0 +1,27 @@
+{
+ "set": "h5-20261022",
+ "locked_at": "2026-10-22T02:13:59.951867+00:00",
+ "note": "Khóa trước khi chấm. Mẫu phân tầng từ 11.000 văn bản của legal-docs-v4 (eval/sets/h5-20261022.strata.json): 90 văn bản ngắn (≤30.000 ký tự), 24 văn bản dài (30.000–200.000 ký tự); 1 văn bản dài (697179, gói batch-20) không gán nhãn vì giới hạn agent và hạn mức dùng. 20 agent gán nhãn theo eval/rubric-gold.md, không xem kết quả công cụ. Trước khi khóa: chuẩn hóa NFC mọi chuỗi; thêm hop-nhat cho văn bản hợp nhất 695335 theo quy ước đã chốt. Dữ liệu chấm: bản ghi legal-*-v4 (code đến commit 013e897). Không sửa nhãn sau khi khóa.",
+ "sha256": {
+  "eval/gold/h5-20261022/batch-00.json": "b1863812f51bed3c18bc5ae9c34459a56635d4bf7b9ff32a53a53bbecc7e0cd9",
+  "eval/gold/h5-20261022/batch-01.json": "860a35282bf4f9a6f730d839186740e41f349c9bdd155f05b50941e1a7b3d101",
+  "eval/gold/h5-20261022/batch-02.json": "67824a25c2298839948c650f6d8f65275736b91b5a9dc3e3a17d5ce8aeb7d6ac",
+  "eval/gold/h5-20261022/batch-03.json": "16f760b00a371734ee08316de45b1349aa3f284e05905a5b6712fa92961081ee",
+  "eval/gold/h5-20261022/batch-04.json": "91c41feb20df6a475659bb66d26cbe049738ebe708648aa7c376a5fde3e153f6",
+  "eval/gold/h5-20261022/batch-05.json": "64b8ee811321671f89db0942b6e8a0f0f217cf7343e917a16aa58942abe1f267",
+  "eval/gold/h5-20261022/batch-06.json": "43eaef69d9fc159fc67367d7f05336d917c94b1367c95ea555e195314ec8d9e2",
+  "eval/gold/h5-20261022/batch-07.json": "fb33473da30ca7e643750b25e60260fec71022a8a52957499c3c6011ebd47b78",
+  "eval/gold/h5-20261022/batch-08.json": "051bee4c00c7fab3f3193ee3339702b3625b264a809df2cd9e670a2b96427e85",
+  "eval/gold/h5-20261022/batch-09.json": "0bb25f21de2391767308ba6d91390895725feea5bfe75d0c111e199672b18064",
+  "eval/gold/h5-20261022/batch-10.json": "70bcbe45448d3fe7880f1940072e0479e63485fd5a0e5eb1aacc9f66a00da095",
+  "eval/gold/h5-20261022/batch-11.json": "06aa88311d81da1ae15f7f330d6658293d1093be6d34b8a5634da929edcc6c11",
+  "eval/gold/h5-20261022/batch-12.json": "0ba6d476bc8c43f4bc878a714b3b56f7ab81b2750e3a0520ea404f3e91d40047",
+  "eval/gold/h5-20261022/batch-13.json": "edc6dd5aedcb17d689c7ee90b24e2e89d18e89d706141bd94739e0905fd93900",
+  "eval/gold/h5-20261022/batch-14.json": "54dcfafc6f72aa5991570930ea08f9dc2923cfd07e01ca9b681ba116f3134b26",
+  "eval/gold/h5-20261022/batch-15.json": "27bc82e7e0f88da92b52ffbe37f1c70b67013f934ac8b0646d397f0e7616b618",
+  "eval/gold/h5-20261022/batch-16.json": "c62e87264c245742c6d74bba005951d674019c272f560b76c8757db871387487",
+  "eval/gold/h5-20261022/batch-17.json": "f0a5749997ef307512a55f65069ab8fff18f208e35cd5c57bd047925d89bb617",
+  "eval/gold/h5-20261022/batch-18.json": "b2a876121e1596523915bf62ff0da12ec3543b5f6d362afaf030c834b01ed13c",
+  "eval/gold/h5-20261022/batch-19.json": "fda80474e1e99953a3c66dd6bbb8ea3004e209da1b5b5a2558845a8333b3a4f4"
+ }
+}

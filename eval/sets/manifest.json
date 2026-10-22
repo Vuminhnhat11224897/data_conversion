@@ -8,7 +8,8 @@
   "holdout-20261019": 122,
   "holdout-20261020": 158,
   "holdout-20261021": 158,
-  "holdout-20261022": 158
+  "holdout-20261022": 158,
+  "h5-20261022": 114
  },
  "strata": {
   "dev": {
@@ -107,6 +108,10 @@
    "dinh_chi_ngung": 4,
    "danh_muc_van_ban": 5,
    "van_ban_cu": 7
+  },
+  "h5-20261022": {
+   "ngan": 90,
+   "dai": 24
   }
  },
  "documents": {
@@ -5289,6 +5294,576 @@
    "set": "holdout-20261022",
    "stratum": "van_ban_cu",
    "group": "Bộ Tài chính|tt btc hướng dẫn cơ chế quản lý"
+  },
+  "688156": {
+   "set": "h5-20261022",
+   "stratum": "ngan",
+   "group": "Bộ Tài chính|tt btc bãi bỏ thông tư liên tịch"
+  },
+  "686098": {
+   "set": "h5-20261022",
+   "stratum": "ngan",
+   "group": "Quốc hội|qh về công tác nhiệm kỳ của quốc"
+  },
+  "682843": {
+   "set": "h5-20261022",
+   "stratum": "ngan",
+   "group": "Tỉnh Gia Lai|qđ ubnd về quy định phân công, phân"
+  },
+  "678705": {
+   "set": "h5-20261022",
+   "stratum": "ngan",
+   "group": "Tỉnh Điện Biên|qđ ubnd về quy định đặc điểm kinh"
+  },
+  "684921": {
+   "set": "h5-20261022",
+   "stratum": "ngan",
+   "group": "Thành phố Hải Phòng|nq hđnd quy định mức thu, chế độ"
+  },
+  "684643": {
+   "set": "h5-20261022",
+   "stratum": "ngan",
+   "group": "Tỉnh Ninh Bình|nq hđnd về quy định chế độ, chính"
+  },
+  "684760": {
+   "set": "h5-20261022",
+   "stratum": "ngan",
+   "group": "Tỉnh Cao Bằng|qđ ubnd công bố danh mục thủ tục"
+  },
+  "676335": {
+   "set": "h5-20261022",
+   "stratum": "ngan",
+   "group": "Tỉnh Bắc Ninh|qđ ubnd công bố danh mục thủ tục"
+  },
+  "681364": {
+   "set": "h5-20261022",
+   "stratum": "ngan",
+   "group": "Thành phố Đà Nẵng|nq hđnd quy định về đối tượng, mức"
+  },
+  "679109": {
+   "set": "h5-20261022",
+   "stratum": "ngan",
+   "group": "Tỉnh Hưng Yên|qđ ubnd quy định về thực hiện nếp"
+  },
+  "683731": {
+   "set": "h5-20261022",
+   "stratum": "ngan",
+   "group": "Thành phố Hà Nội|kh ubnd về hoạt động thể thao thành"
+  },
+  "683548": {
+   "set": "h5-20261022",
+   "stratum": "ngan",
+   "group": "Thành phố Huế|qđ ubnd công bố danh mục thủ tục"
+  },
+  "686969": {
+   "set": "h5-20261022",
+   "stratum": "ngan",
+   "group": "Bộ Nông nghiệp và Môi trường|hợp nhất vbhn bnnmt hợp nhất thông tư"
+  },
+  "680641": {
+   "set": "h5-20261022",
+   "stratum": "ngan",
+   "group": "Tỉnh Vĩnh Long|qđ ubnd quy định chức năng, nhiệm vụ,"
+  },
+  "683549": {
+   "set": "h5-20261022",
+   "stratum": "ngan",
+   "group": "Tỉnh Điện Biên|qđ ubnd công bố danh mục thủ tục"
+  },
+  "682034": {
+   "set": "h5-20261022",
+   "stratum": "ngan",
+   "group": "Cục Hải quan|chq gsql hướng dẫn thủ tục hải quan"
+  },
+  "695514": {
+   "set": "h5-20261022",
+   "stratum": "ngan",
+   "group": "Tỉnh Đồng Nai|qđ ubnd công bố danh mục thủ tục"
+  },
+  "680918": {
+   "set": "h5-20261022",
+   "stratum": "ngan",
+   "group": "Tỉnh Cao Bằng|nq hđnd sửa đổi quy định về kỷ"
+  },
+  "684240": {
+   "set": "h5-20261022",
+   "stratum": "ngan",
+   "group": "Tỉnh Nghệ An|qđ ubnd sửa đổi khoản điều quyết định"
+  },
+  "692700": {
+   "set": "h5-20261022",
+   "stratum": "ngan",
+   "group": "Tỉnh Vĩnh Long|qđ ubnd phê duyệt quy trình nội bộ"
+  },
+  "676559": {
+   "set": "h5-20261022",
+   "stratum": "ngan",
+   "group": "Tỉnh Bắc Ninh|kh ubnd trồng cây phân tán giai đoạn"
+  },
+  "680886": {
+   "set": "h5-20261022",
+   "stratum": "ngan",
+   "group": "Cục Phòng bệnh|pb btn tăng cường triển khai công tác"
+  },
+  "688679": {
+   "set": "h5-20261022",
+   "stratum": "ngan",
+   "group": "Tỉnh Gia Lai|qđ ubnd về quy chế phối hợp giữa"
+  },
+  "681645": {
+   "set": "h5-20261022",
+   "stratum": "ngan",
+   "group": "Tỉnh Nghệ An|qđ ubnd quy định thẩm quyền thẩm định"
+  },
+  "687978": {
+   "set": "h5-20261022",
+   "stratum": "ngan",
+   "group": "Thành phố Hà Nội|qđ ubnd ủy quyền cho chánh văn phòng"
+  },
+  "693706": {
+   "set": "h5-20261022",
+   "stratum": "ngan",
+   "group": "Tỉnh Ninh Bình|qđ ubnd công bố danh mục thủ tục"
+  },
+  "679050": {
+   "set": "h5-20261022",
+   "stratum": "ngan",
+   "group": "Thành phố Hải Phòng|nq hđnd quy định nội dung và mức"
+  },
+  "679208": {
+   "set": "h5-20261022",
+   "stratum": "ngan",
+   "group": "Tỉnh Tây Ninh|nq hđnd quy định chính sách, chế độ"
+  },
+  "681937": {
+   "set": "h5-20261022",
+   "stratum": "ngan",
+   "group": "Cục Hải quan|tb chq về kết quả xác định trước"
+  },
+  "681872": {
+   "set": "h5-20261022",
+   "stratum": "ngan",
+   "group": "Tỉnh Hà Tĩnh|nq hđnd sửa đổi nghị quyết nq hđnd"
+  },
+  "692936": {
+   "set": "h5-20261022",
+   "stratum": "ngan",
+   "group": "Tỉnh Đắk Lắk|qđ ubnd quy định tiêu chí đặc thù"
+  },
+  "679340": {
+   "set": "h5-20261022",
+   "stratum": "ngan",
+   "group": "Cục Hải quan|chq cntt kết nối, cấp tải khoản truy"
+  },
+  "680674": {
+   "set": "h5-20261022",
+   "stratum": "ngan",
+   "group": "Bộ Công thương|qđ bct về chương trình điều tra thống"
+  },
+  "684443": {
+   "set": "h5-20261022",
+   "stratum": "ngan",
+   "group": "Tỉnh Điện Biên|qđ ubnd thông qua phương án đơn giản"
+  },
+  "696162": {
+   "set": "h5-20261022",
+   "stratum": "ngan",
+   "group": "Bộ Nông nghiệp và Môi trường|hợp nhất vbhn bnnmt hợp nhất nghị định"
+  },
+  "696212": {
+   "set": "h5-20261022",
+   "stratum": "ngan",
+   "group": "Thành phố Hồ Chí Minh|ubnd đt tăng cường công tác giám sát,"
+  },
+  "687626": {
+   "set": "h5-20261022",
+   "stratum": "ngan",
+   "group": "Thành phố Huế|qđ ubnd công bố danh mục thủ tục"
+  },
+  "680253": {
+   "set": "h5-20261022",
+   "stratum": "ngan",
+   "group": "Tỉnh Đắk Lắk|qđ ubnd phê duyệt quy trình nội bộ"
+  },
+  "682964": {
+   "set": "h5-20261022",
+   "stratum": "ngan",
+   "group": "Bộ Tài chính|btc qlg hướng dẫn về hoạt động thẩm"
+  },
+  "691223": {
+   "set": "h5-20261022",
+   "stratum": "ngan",
+   "group": "Bộ Nông nghiệp và Môi trường|qđ bnnmt đính chính thông tư tt bnnmt"
+  },
+  "690423": {
+   "set": "h5-20261022",
+   "stratum": "ngan",
+   "group": "Tỉnh Ninh Bình|kh ubnd thực hiện chỉ thị ct tw"
+  },
+  "680045": {
+   "set": "h5-20261022",
+   "stratum": "ngan",
+   "group": "Tỉnh Lai Châu|qđ ubnd công bố danh mục thủ tục"
+  },
+  "690819": {
+   "set": "h5-20261022",
+   "stratum": "ngan",
+   "group": "Tỉnh Sơn La|qđ ubnd phê duyệt nhiệm vụ quy hoạch"
+  },
+  "692884": {
+   "set": "h5-20261022",
+   "stratum": "ngan",
+   "group": "Tỉnh Quảng Ngãi|qđ ubnd công bố danh mục thủ tục"
+  },
+  "678581": {
+   "set": "h5-20261022",
+   "stratum": "ngan",
+   "group": "Thành phố Hồ Chí Minh|cv btgdvtu đề nghị định hướng, chấn chỉnh"
+  },
+  "681203": {
+   "set": "h5-20261022",
+   "stratum": "ngan",
+   "group": "Tỉnh Lai Châu|nq hđnd điều chỉnh dự toán chi ngân"
+  },
+  "689363": {
+   "set": "h5-20261022",
+   "stratum": "ngan",
+   "group": "Tỉnh Cà Mau|qđ ubnd về quy chế phối hợp trong"
+  },
+  "697601": {
+   "set": "h5-20261022",
+   "stratum": "ngan",
+   "group": "Tỉnh Lai Châu|qđ ubnd bãi bỏ các văn bản quy"
+  },
+  "684039": {
+   "set": "h5-20261022",
+   "stratum": "ngan",
+   "group": "Tỉnh Sơn La|qđ ubnd thành lập; quy định chức năng,"
+  },
+  "679068": {
+   "set": "h5-20261022",
+   "stratum": "ngan",
+   "group": "Tỉnh Nghệ An|qđ ubnd công bố danh mục thủ tục"
+  },
+  "679551": {
+   "set": "h5-20261022",
+   "stratum": "ngan",
+   "group": "Thành phố Hà Nội|kh ubnd tăng cường các biện pháp phòng"
+  },
+  "688854": {
+   "set": "h5-20261022",
+   "stratum": "ngan",
+   "group": "Bộ Nội vụ|tt bnv hướng dẫn xếp lương đối với"
+  },
+  "680280": {
+   "set": "h5-20261022",
+   "stratum": "ngan",
+   "group": "Tỉnh Vĩnh Long|qđ ubnd quy định chức năng, nhiệm vụ,"
+  },
+  "686574": {
+   "set": "h5-20261022",
+   "stratum": "ngan",
+   "group": "Tỉnh Thanh Hóa|nq hđnd quyết định bảng giá đất lần"
+  },
+  "695329": {
+   "set": "h5-20261022",
+   "stratum": "ngan",
+   "group": "Bộ Xây dựng|tt bxd công bố vùng nước cảng biển,"
+  },
+  "683477": {
+   "set": "h5-20261022",
+   "stratum": "ngan",
+   "group": "Tỉnh Vĩnh Long|qđ ubnd quy định chức năng, nhiệm vụ,"
+  },
+  "676620": {
+   "set": "h5-20261022",
+   "stratum": "ngan",
+   "group": "Tỉnh Quảng Ngãi|qng nvdtpc giới thiệu điểm mới của luật"
+  },
+  "680445": {
+   "set": "h5-20261022",
+   "stratum": "ngan",
+   "group": "Bộ Nông nghiệp và Môi trường|qđ bnnmt quy định trách nhiệm người đứng"
+  },
+  "679643": {
+   "set": "h5-20261022",
+   "stratum": "ngan",
+   "group": "Tỉnh Vĩnh Long|qđ ubnd quy định chức năng, nhiệm vụ,"
+  },
+  "689495": {
+   "set": "h5-20261022",
+   "stratum": "ngan",
+   "group": "Văn phòng Chính phủ|vpcp cn đầu tư dự án đường giao"
+  },
+  "684336": {
+   "set": "h5-20261022",
+   "stratum": "ngan",
+   "group": "Tỉnh Gia Lai|kh ubnd tổ chức điều tra tài nguyên"
+  },
+  "694203": {
+   "set": "h5-20261022",
+   "stratum": "ngan",
+   "group": "Tỉnh Đồng Nai|kh ubnd công tác thi đua, khen thưởng"
+  },
+  "693928": {
+   "set": "h5-20261022",
+   "stratum": "ngan",
+   "group": "Văn phòng Chính phủ|vpcp kgvx triển khai đề án đào tạo,"
+  },
+  "679616": {
+   "set": "h5-20261022",
+   "stratum": "ngan",
+   "group": "Tỉnh Bắc Ninh|qđ ubnd về quy chế quản lý, vận"
+  },
+  "679157": {
+   "set": "h5-20261022",
+   "stratum": "ngan",
+   "group": "Thủ tướng Chính phủ|qđ ttg phê duyệt điều chỉnh quy hoạch"
+  },
+  "688624": {
+   "set": "h5-20261022",
+   "stratum": "ngan",
+   "group": "Tỉnh Cao Bằng|qđ ubnd công bố danh mục thủ tục"
+  },
+  "678345": {
+   "set": "h5-20261022",
+   "stratum": "ngan",
+   "group": "Cục Thuế|ct cs về tiền sử dụng đất"
+  },
+  "689127": {
+   "set": "h5-20261022",
+   "stratum": "ngan",
+   "group": "Tỉnh Lạng Sơn|qđ ubnd về quy chế phối hợp trong"
+  },
+  "676566": {
+   "set": "h5-20261022",
+   "stratum": "ngan",
+   "group": "Thủ tướng Chính phủ|cđ ttg về khẩn trương rà soát, báo"
+  },
+  "693956": {
+   "set": "h5-20261022",
+   "stratum": "ngan",
+   "group": "Thành phố Hà Nội|qđ ubnd về hệ điều chỉnh giá đất"
+  },
+  "678115": {
+   "set": "h5-20261022",
+   "stratum": "ngan",
+   "group": "Tỉnh Sơn La|qđ ubnd phân cấp thẩm quyền quyết định"
+  },
+  "684849": {
+   "set": "h5-20261022",
+   "stratum": "ngan",
+   "group": "Cục Thuế|ct cs về chính sách thuế giá trị"
+  },
+  "677819": {
+   "set": "h5-20261022",
+   "stratum": "ngan",
+   "group": "Cục Thuế|ct cs về chính sách thuế giá trị"
+  },
+  "682455": {
+   "set": "h5-20261022",
+   "stratum": "ngan",
+   "group": "Thành phố Hà Nội|qđ ubnd quy định chức năng, nhiệm vụ,"
+  },
+  "686773": {
+   "set": "h5-20261022",
+   "stratum": "ngan",
+   "group": "Tỉnh Quảng Trị|nq hđnd về kế hoạch tài chính tỉnh"
+  },
+  "696501": {
+   "set": "h5-20261022",
+   "stratum": "ngan",
+   "group": "Cục Thể dục thể thao Việt Nam|tdttvn tccb trả lời phản ánh, kiến nghị"
+  },
+  "695104": {
+   "set": "h5-20261022",
+   "stratum": "ngan",
+   "group": "Tỉnh Gia Lai|nq hđnd quyết định việc áp dụng và"
+  },
+  "696581": {
+   "set": "h5-20261022",
+   "stratum": "ngan",
+   "group": "Tỉnh Gia Lai|kh ubnd thực hiện đề án triển khai,"
+  },
+  "688801": {
+   "set": "h5-20261022",
+   "stratum": "ngan",
+   "group": "Bộ Tài chính|tt btc hướng dẫn nghị định nđ cp"
+  },
+  "678389": {
+   "set": "h5-20261022",
+   "stratum": "ngan",
+   "group": "Thủ tướng Chính phủ|ttg nn về nhiệm vụ trọng tâm công"
+  },
+  "686934": {
+   "set": "h5-20261022",
+   "stratum": "ngan",
+   "group": "Tỉnh Cà Mau|qđ ubnd công bố địa bàn ưu đãi"
+  },
+  "693448": {
+   "set": "h5-20261022",
+   "stratum": "ngan",
+   "group": "Tỉnh Đồng Nai|qđ ubnd bãi bỏ quyết định qđ ubnd"
+  },
+  "677183": {
+   "set": "h5-20261022",
+   "stratum": "ngan",
+   "group": "Bộ Nội vụ|tb bnv nghỉ tết âm lịch, nghỉ lễ"
+  },
+  "681044": {
+   "set": "h5-20261022",
+   "stratum": "ngan",
+   "group": "Tỉnh Phú Thọ|qđ ubnd phê duyệt quy trình nội bộ"
+  },
+  "677916": {
+   "set": "h5-20261022",
+   "stratum": "ngan",
+   "group": "Tỉnh Quảng Ninh|nq hđnd quy định nhiệm vụ, quyền hạn"
+  },
+  "686418": {
+   "set": "h5-20261022",
+   "stratum": "ngan",
+   "group": "Tỉnh Cà Mau|qđ ubnd bãi bỏ các quyết định quy"
+  },
+  "678829": {
+   "set": "h5-20261022",
+   "stratum": "ngan",
+   "group": "Tỉnh Phú Thọ|qđ ubnd về quy chế quản lý, cập"
+  },
+  "678532": {
+   "set": "h5-20261022",
+   "stratum": "ngan",
+   "group": "Thành phố Hồ Chí Minh|qđ ubnd về quy định chức năng, nhiệm"
+  },
+  "695335": {
+   "set": "h5-20261022",
+   "stratum": "ngan",
+   "group": "Văn phòng quốc hội|hợp nhất vbhn vpqh hợp nhất pháp lệnh"
+  },
+  "677115": {
+   "set": "h5-20261022",
+   "stratum": "ngan",
+   "group": "Cục Hải quan|chq nvthq trả lời vướng mắc về việc"
+  },
+  "690443": {
+   "set": "h5-20261022",
+   "stratum": "dai",
+   "group": "Tỉnh Quảng Ngãi|qđ ubnd về nhiệm vụ, giải pháp chủ"
+  },
+  "697172": {
+   "set": "h5-20261022",
+   "stratum": "dai",
+   "group": "Thủ tướng Chính phủ|qđ ttg phê duyệt nhiệm vụ quy hoạch"
+  },
+  "687409": {
+   "set": "h5-20261022",
+   "stratum": "dai",
+   "group": "Thành phố Huế|qđ ubnd phê duyệt khung kiến trúc thành"
+  },
+  "692762": {
+   "set": "h5-20261022",
+   "stratum": "dai",
+   "group": "Thành phố Huế|qđ ubnd công bố danh mục thủ tục"
+  },
+  "677019": {
+   "set": "h5-20261022",
+   "stratum": "dai",
+   "group": "Sở Giáo dục và Đào tạo Thành phố Hồ Chí Minh|sgdđt hssv tổ chức thực hiện công tác"
+  },
+  "693819": {
+   "set": "h5-20261022",
+   "stratum": "dai",
+   "group": "Chính phủ|nđ cp quy định việc quản lý, sử"
+  },
+  "689060": {
+   "set": "h5-20261022",
+   "stratum": "dai",
+   "group": "Tỉnh Nghệ An|kh ubnd về chuyển đổi tỉnh nghệ an"
+  },
+  "684726": {
+   "set": "h5-20261022",
+   "stratum": "dai",
+   "group": "Thủ tướng Chính phủ|qđ ttg phê duyệt kế hoạch thực hiện"
+  },
+  "688318": {
+   "set": "h5-20261022",
+   "stratum": "dai",
+   "group": "Tỉnh Thanh Hóa|ct ubnd tổ chức đón tết nguyên đán"
+  },
+  "696887": {
+   "set": "h5-20261022",
+   "stratum": "dai",
+   "group": "Bộ Tài chính|qđ btc sửa đổi danh mục mã định"
+  },
+  "695101": {
+   "set": "h5-20261022",
+   "stratum": "dai",
+   "group": "Ngân hàng Nhà nước Việt Nam|tt nhnn quy định về hệ thống kiểm"
+  },
+  "687395": {
+   "set": "h5-20261022",
+   "stratum": "dai",
+   "group": "Bộ Tài chính|tt btc sửa đổi thông tư tt btc"
+  },
+  "686711": {
+   "set": "h5-20261022",
+   "stratum": "dai",
+   "group": "Thành phố Hà Nội|qđ ubnd về đơn giá dịch vụ dự"
+  },
+  "688310": {
+   "set": "h5-20261022",
+   "stratum": "dai",
+   "group": "Cục Hàng không Việt Nam|qđ chk về chương trình xây dựng văn"
+  },
+  "697174": {
+   "set": "h5-20261022",
+   "stratum": "dai",
+   "group": "Thủ tướng Chính phủ|qđ ttg phê duyệt đề án chuyển đổi"
+  },
+  "690742": {
+   "set": "h5-20261022",
+   "stratum": "dai",
+   "group": "Chính phủ|nđ cp quy định xử phạt vi phạm"
+  },
+  "689577": {
+   "set": "h5-20261022",
+   "stratum": "dai",
+   "group": "Tỉnh Hưng Yên|kh ubnd thực hiện công tác phòng, chống"
+  },
+  "689663": {
+   "set": "h5-20261022",
+   "stratum": "dai",
+   "group": "Tỉnh Lạng Sơn|kh ubnd thực hiện chương trình quốc gia"
+  },
+  "683930": {
+   "set": "h5-20261022",
+   "stratum": "dai",
+   "group": "Thành phố Hải Phòng|nq hđnd phân cấp nguồn thu, nhiệm vụ"
+  },
+  "682807": {
+   "set": "h5-20261022",
+   "stratum": "dai",
+   "group": "Bộ Công thương|tt bct quy định về thực hiện giá"
+  },
+  "696022": {
+   "set": "h5-20261022",
+   "stratum": "dai",
+   "group": "Thành phố Hồ Chí Minh|qđ ubnd công bố danh mục thủ tục"
+  },
+  "682821": {
+   "set": "h5-20261022",
+   "stratum": "dai",
+   "group": "Ngân hàng Nhà nước Việt Nam|tt nhnn quy định về cho vay đặc"
+  },
+  "694039": {
+   "set": "h5-20261022",
+   "stratum": "dai",
+   "group": "Bộ Xây dựng|qđ bxd công bố danh mục văn bản"
+  },
+  "697179": {
+   "set": "h5-20261022",
+   "stratum": "dai",
+   "group": "Chính phủ|nđ cp hướng dẫn luật giáo dục"
   }
  }
 }

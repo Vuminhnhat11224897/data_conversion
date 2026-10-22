@@ -1,0 +1,361 @@
+[
+ {
+  "doc_id": "679616",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "61/2022/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực kể từ ngày 15 tháng 11 năm 2025 và thay thế Quyết định số 61/2022/QĐ-UBND ngày 30/12/2022 của UBND tỉnh Bắc Giang ban hành Quy chế quản lý, vận hành và khai thác Hệ thống thông tin báo cáo tỉnh Bắc Giang."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 2 thay thế QĐ 61/2022/QĐ-UBND (Bắc Giang). Quy chế kèm theo (Phụ lục 1) không có tác động; Điều 7 khoản 2 Quy chế chỉ dẫn chiếu NĐ 09/2019/NĐ-CP, QĐ 24/2019/QĐ-UBND."
+ },
+ {
+  "doc_id": "679157",
+  "relations": [
+   {
+    "source_path": "Điều 1 Khoản 4",
+    "action": "sua-doi",
+    "target_document": "1769/QĐ-TTg",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Hiệu chỉnh một số nội dung tại Quyết định số 1769/QĐ-TTg ngày 19 tháng 10 năm 2021 của Thủ tướng Chính phủ tại Phụ lục III kèm theo Quyết định này."
+   },
+   {
+    "source_path": "Phụ lục 3 Mục 1",
+    "action": "sua-doi",
+    "target_document": "1769/QĐ-TTg",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Điều chỉnh, bổ sung điểm a khoản 2 mục I Điều 1 như sau:"
+   },
+   {
+    "source_path": "Phụ lục 3 Mục 1",
+    "action": "bo-sung",
+    "target_document": "1769/QĐ-TTg",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Điều chỉnh, bổ sung điểm a khoản 2 mục I Điều 1 như sau:"
+   },
+   {
+    "source_path": "Phụ lục 3 Mục 2",
+    "action": "sua-doi",
+    "target_document": "1769/QĐ-TTg",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Điều chỉnh, bổ sung một số nội dung khoản 1 mục II Điều 1 như sau:"
+   },
+   {
+    "source_path": "Phụ lục 3 Mục 2",
+    "action": "bo-sung",
+    "target_document": "1769/QĐ-TTg",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Điều chỉnh, bổ sung một số nội dung khoản 1 mục II Điều 1 như sau:"
+   },
+   {
+    "source_path": "Phụ lục 3 Mục 3",
+    "action": "sua-doi",
+    "target_document": "1769/QĐ-TTg",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Điều chỉnh, bổ sung một số nội dung khoản 2 mục II Điều 1 như sau:"
+   },
+   {
+    "source_path": "Phụ lục 3 Mục 3",
+    "action": "bo-sung",
+    "target_document": "1769/QĐ-TTg",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Điều chỉnh, bổ sung một số nội dung khoản 2 mục II Điều 1 như sau:"
+   },
+   {
+    "source_path": "Phụ lục 3 Mục 4",
+    "action": "sua-doi",
+    "target_document": "1769/QĐ-TTg",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Điều chỉnh, bổ sung một số nội dung khoản 3 mục II Điều 1 như sau:"
+   },
+   {
+    "source_path": "Phụ lục 3 Mục 4",
+    "action": "bo-sung",
+    "target_document": "1769/QĐ-TTg",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Điều chỉnh, bổ sung một số nội dung khoản 3 mục II Điều 1 như sau:"
+   },
+   {
+    "source_path": "Phụ lục 3 Mục 5",
+    "action": "sua-doi",
+    "target_document": "1769/QĐ-TTg",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Điều chỉnh, bổ sung một số nội dung khoản 4 mục II Điều 1 như sau:"
+   },
+   {
+    "source_path": "Phụ lục 3 Mục 5",
+    "action": "bo-sung",
+    "target_document": "1769/QĐ-TTg",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Điều chỉnh, bổ sung một số nội dung khoản 4 mục II Điều 1 như sau:"
+   },
+   {
+    "source_path": "Phụ lục 3 Mục 6",
+    "action": "sua-doi",
+    "target_document": "1769/QĐ-TTg",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi khoản 1 mục III Điều 1 như sau:"
+   },
+   {
+    "source_path": "Phụ lục 3 Mục 7",
+    "action": "sua-doi",
+    "target_document": "1769/QĐ-TTg",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi khoản 2 mục IV Điều 1 như sau"
+   },
+   {
+    "source_path": "Phụ lục 3 Mục 8",
+    "action": "sua-doi",
+    "target_document": "1769/QĐ-TTg",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi mục V Điều 1 như sau"
+   },
+   {
+    "source_path": "Phụ lục 3 Mục 9",
+    "action": "sua-doi",
+    "target_document": "1769/QĐ-TTg",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi một số nội dung mục VI Điều 1 như sau:"
+   },
+   {
+    "source_path": "Phụ lục 3 Mục 10",
+    "action": "sua-doi",
+    "target_document": "1769/QĐ-TTg",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi gạch đầu dòng thứ ba khoản 1 mục VII Điều 1 như sau:"
+   },
+   {
+    "source_path": "Phụ lục 3 Mục 11",
+    "action": "sua-doi",
+    "target_document": "1769/QĐ-TTg",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi gạch đầu dòng thứ hai khoản 3 mục VII Điều 1 như sau:"
+   },
+   {
+    "source_path": "Phụ lục 3 Mục 12",
+    "action": "sua-doi",
+    "target_document": "1769/QĐ-TTg",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi một số nội dung khoản 7 mục VII Điều 1 như sau:"
+   },
+   {
+    "source_path": "Phụ lục 3 Mục 12",
+    "action": "bo-sung",
+    "target_document": "1769/QĐ-TTg",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung trước gạch đầu dòng thứ nhất"
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Phụ lục 3",
+    "loai": "thieu_noi_dung",
+    "ghi_chu": "Phụ lục III viết thành đoạn văn (mục 1-12 sửa đổi, bổ sung QĐ 1769/QĐ-TTg) không có đơn vị nào trong DON_VI; quan hệ ghi theo toàn văn."
+   }
+  ],
+  "ghi_chu": "Không chắc: Điều 1 khoản 1-3 điều chỉnh, bổ sung nội dung Quy hoạch mạng lưới đường sắt nhưng câu, tên Điều, tên văn bản không nêu số hiệu (QĐ 1769 chỉ ở căn cứ, khoản 4, Phụ lục III): không ghi. 'Hiệu chỉnh' (khoản 4) và 'Điều chỉnh' (Phụ lục III) ghi là sua-doi. Vị trí ở mục I-VII Điều 1 QĐ 1769: vi_tri dừng ở Điều 1 theo quy ước mục La Mã. Phụ lục I, II là danh mục, không có hành động. Điều 2 'giữ nguyên' không phải quan hệ."
+ },
+ {
+  "doc_id": "688624",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công bố danh mục 52 TTHC, phê duyệt quy trình nội bộ; cột Ghi chú trống, không có tác động. Phụ lục II (quy trình) không có trong toàn văn (file đính kèm)."
+ },
+ {
+  "doc_id": "678345",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn trả lời; chỉ dẫn chiếu NĐ 45/2014/NĐ-CP, TTLT 88/2016, TT 76/2014/TT-BTC, CV 1721/CT-CS. Không có tác động."
+ },
+ {
+  "doc_id": "689127",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "30/2015/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực thi hành kể từ ngày 15 tháng 01 năm 2026 và thay thế Quyết định số 30/2015/QĐ-UBND của Ủy ban nhân dân tỉnh Lạng Sơn về việc ban hành Quy chế phối hợp giữa các cơ quan chức năng trong quản lý nhà nước đối với doanh nghiệp sau đăng ký thành lập và Quyết định số 28/2016/QĐ-UBND của Ủy ban nhân dân tỉnh Lạng Sơn về việc sửa đổi một số điều tại Quy chế ban hành kèm theo Quyết định số 30/2015/QĐ-UBND của Ủy ban nhân dân tỉnh."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "28/2016/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực thi hành kể từ ngày 15 tháng 01 năm 2026 và thay thế Quyết định số 30/2015/QĐ-UBND của Ủy ban nhân dân tỉnh Lạng Sơn về việc ban hành Quy chế phối hợp giữa các cơ quan chức năng trong quản lý nhà nước đối với doanh nghiệp sau đăng ký thành lập và Quyết định số 28/2016/QĐ-UBND của Ủy ban nhân dân tỉnh Lạng Sơn về việc sửa đổi một số điều tại Quy chế ban hành kèm theo Quyết định số 30/2015/QĐ-UBND của Ủy ban nhân dân tỉnh."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 2 thay thế QĐ 30/2015/QĐ-UBND và QĐ 28/2016/QĐ-UBND. Quy chế kèm theo không có tác động."
+ },
+ {
+  "doc_id": "676566",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công điện giao nhiệm vụ ('có văn bản hướng dẫn' là giao nhiệm vụ). Không có tác động."
+ },
+ {
+  "doc_id": "693956",
+  "relations": [
+   {
+    "source_path": "Điều 5 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "89/2025/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Quy định tại Điều 1 Quyết định số 89/2025/QĐ-UBND của UBND Thành phố hết hiệu lực kể từ ngày Quyết định này có hiệu lực ban hành."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 5 khoản 2 tuyên bố Điều 1 QĐ 89/2025/QĐ-UBND hết hiệu lực. Không chắc: Điều 1 'quy định về hệ số ... theo quy định tại Điều 8 NQ 254/2025/QH15' chỉ nêu cơ sở, không nói 'quy định chi tiết': không ghi. Điều 4 khoản 1 'tham mưu ... điều chỉnh' là giao nhiệm vụ."
+ },
+ {
+  "doc_id": "678115",
+  "relations": [
+   {
+    "source_path": "Điều 4 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "38/2025/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 38/2025/QĐ-UBND ngày 08/4/2025 của UBND tỉnh ban hành tiêu chuẩn, định mức sử dụng diện tích chuyên dùng thuộc trụ sở làm việc của cơ quan, tổ chức và phân cấp thẩm quyền ban hành tiêu chuẩn, định mức sử dụng công trình sự nghiệp của đơn vị sự nghiệp công lập thuộc phạm vi quản lý của tỉnh Sơn La hết hiệu lực kể từ ngày quyết định này có hiệu lực thi hành."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 4 khoản 2 tuyên bố QĐ 38/2025/QĐ-UBND hết hiệu lực. Không chắc: Điều 1 khoản 1 'quy định về phân cấp ... theo quy định tại điểm đ khoản 2 Điều 7 và điểm đ khoản 2 Điều 11 NĐ 155/2025/NĐ-CP' chỉ nêu cơ sở thẩm quyền: không ghi quy-dinh-chi-tiet."
+ },
+ {
+  "doc_id": "684849",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn trả lời; chỉ trích dẫn NĐ 15/2022/NĐ-CP. Không có tác động."
+ },
+ {
+  "doc_id": "677819",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn trả lời; chỉ căn cứ. 'đã được sửa đổi, bổ sung tại Điều 4 Luật số 90/2025/QH15' là ghi chú lịch sử. Không có tác động."
+ },
+ {
+  "doc_id": "682455",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Lời dẫn nêu Tờ trình 'về việc bãi bỏ toàn bộ Quyết định số 17/2025/QĐ-UBND' là đề nghị; thân văn bản không bãi bỏ, thay thế văn bản nào: không ghi quan hệ."
+ },
+ {
+  "doc_id": "686773",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Nghị quyết thông qua kế hoạch tài chính 05 năm 2026-2030. Không có tác động."
+ },
+ {
+  "doc_id": "696501",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn trả lời kiến nghị; 'đề nghị ... sửa đổi' NĐ 349/2025/NĐ-CP nằm trong lời trích kiến nghị. Không có tác động."
+ },
+ {
+  "doc_id": "695104",
+  "relations": [
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "38/2022/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ Nghị quyết số 38/2022/NQ-HĐND ngày 09 tháng 12 năm 2022 của Hội đồng nhân dân tỉnh Gia Lai (trước sắp xếp) quy định mức hỗ trợ đăng ký bảo hộ đối với sáng chế, kiểu dáng công nghiệp và nhãn hiệu; đăng ký bảo hộ, công nhận giống cây trồng mới thuộc Chương trình Phát triển tài sản trí tuệ tỉnh Gia Lai giai đoạn 2021 - 2030."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 1 khoản 2 bãi bỏ NQ 38/2022/NQ-HĐND. Tên văn bản, câu dẫn Điều 1 có 'bãi bỏ' nhưng không nêu số hiệu: không ghi Phần đầu. Không chắc: khoản 1 'tiếp tục áp dụng' NQ 14/2020/NQ-HĐND, NQ 33/2023/NQ-HĐND không thuộc loại hành động của quy ước: không ghi."
+ }
+]

@@ -601,3 +601,51 @@ Trạng thái `-v4` sau lượt này:
   - số dòng bảng 3/11.789;
   - ký hiệu Điều không bắt đầu bằng số Điều 1/20.660;
   - `scope_grounding_correct = false` mà quan hệ `validated` 1/258 (`677855_0`: quan hệ chỉ do quy tắc đọc, phạm vi là danh sách số thứ tự).
+
+### 8.12. Benchmark H5 trên dữ liệu v4 (22/10/2026)
+
+H5 đo chất lượng của chính dữ liệu đã ghi vào `-v4`. Code chưa từng được sửa dựa trên các văn bản này, nên H5 là bộ độc lập.
+
+**Thiết kế mẫu** (`eval/sets/h5-20261022.strata.json`, seed 20261022):
+
+| Tầng | Tổng thể (văn bản) | Mẫu có nhãn |
+| --- | --- | --- |
+| Ngắn: toàn văn ≤ 30.000 ký tự | 8.661 | 90 |
+| Dài: 30.000 < toàn văn ≤ 200.000 ký tự | 2.134 | 23 (1 văn bản không gán nhãn vì giới hạn agent) |
+| Không lấy: toàn văn > 200.000 ký tự | 176 (6,5% số quan hệ của tổng thể) | 0 |
+
+- Tổng thể là 11.000 văn bản trong `legal-docs-v4`, trừ 29 văn bản đã có trong các bộ có nhãn khác.
+- 20 agent gán nhãn theo `eval/rubric-gold.md`, mỗi agent một gói, không xem kết quả của công cụ.
+- Trước khi khóa: chuẩn hóa NFC; thêm `hop-nhat` cho văn bản hợp nhất 695335 theo quy ước đã chốt.
+- Nhãn khóa bằng hash ở `eval/gold/h5-20261022.lock.json`: 113 văn bản, 270 quan hệ.
+- Dữ liệu chấm: bản ghi trong `legal-*-v4` (code đến commit `013e897`).
+- Lệnh chấm: `python -m eval.strata h5-20261022 H5-v4`. Số liệu gộp có trọng số N/n của từng tầng; khoảng 95% tính bằng bootstrap trong từng tầng.
+
+**Kết quả:**
+
+| Tầng | Phát hiện: P / R (đúng, sai, sót) | Phạm vi: P / R (đúng, sai, sót) |
+| --- | --- | --- |
+| Ngắn | 0,918 / 0,876 (78, 7, 11) | 0,814 / 0,807 (92, 21, 22) |
+| Dài | 0,833 / 0,800 (20, 4, 5) | 0,920 / 0,817 (138, 12, 31) |
+| Gộp theo tổng thể | 0,900 / 0,860 | 0,874 / 0,813 |
+| Khoảng 95% của số gộp | P 0,82–0,96; R 0,74–0,95 | P 0,67–0,95; R 0,71–0,87 |
+
+- Đo không trọng số bằng `eval.score`:
+  - văn bản đích P/R 0,927/0,864;
+  - quan hệ (đơn vị, hành động, đích) 0,938/0,816;
+  - đầu cuối 0,836/0,739.
+- Truy vết đơn vị nguồn và ngày tác động: 98/98.
+- Phạm vi của tầng dài bị một văn bản chi phối: Thông tư 136/2025/TT-BTC có 103 quan hệ lên Thông tư 98/2020/TT-BTC.
+
+**Loại lỗi ở mức phát hiện** (11 sai, 16 sót):
+
+| Loại | Sai | Sót | Ví dụ |
+| --- | --- | --- | --- |
+| Parser làm mất đoạn (phụ lục viết thành đoạn văn, đoạn kết sau danh sách) | | 5 | "Kế hoạch này thay thế Kế hoạch số …" ở cuối Mục IV (679551, 696581) |
+| Nhánh quy tắc đọc phần đầu: tờ trình, chuỗi tên văn bản | 5 | | Lời dẫn "Xét Tờ trình … về việc bãi bỏ …" (682455); tên văn bản nêu văn bản đã bị sửa (684240, 688801) |
+| LLM đọc sai nghĩa: nhiệm vụ trong kế hoạch, dẫn chiếu, sai loại hành động | 4 | 1 | Kế hoạch "sửa đổi, bổ sung … các Thông tư" (676559); bãi bỏ đọc thành bổ sung (696022) |
+| Quan hệ đúng còn chờ duyệt | | 4 | Danh sách "Các quy định sau hết hiệu lực" (682807) |
+| Sót dòng hoặc câu thủ tục hành chính | | 3 | "Bãi bỏ TTHC mã số … công bố tại các Quyết định …" (676335) |
+| Khác quy ước giữa nhãn và code | 2 | 3 | Tỉnh bãi bỏ thủ tục do bộ công bố (692762); "bãi bỏ cụm từ" là `bai-bo` hay `thay-cum-tu` (693819); "điều chỉnh dự toán" (681203) |
+
+So với 5 bộ hold-out cũ (mục 8.11.6: phát hiện 93,7/90,2; phạm vi 80,5/68,9), H5 có phát hiện thấp hơn một chút và phạm vi cao hơn. Các khoảng tin cậy chồng lên nhau. Muốn thu hẹp khoảng tin cậy, cần mẫu lớn hơn.

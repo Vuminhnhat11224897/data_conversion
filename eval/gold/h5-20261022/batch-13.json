@@ -1,0 +1,1186 @@
+[
+ {
+  "doc_id": "687395",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "98/2020/TT-BTC",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA THÔNG TƯ SỐ 98/2020/TT-BTC NGÀY 16 THÁNG 11 NĂM 2020 CỦA BỘ TRƯỞNG BỘ TÀI CHÍNH HƯỚNG DẪN HOẠT ĐỘNG VÀ QUẢN LÝ QUỸ ĐẦU TƯ CHỨNG KHOÁN"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "98/2020/TT-BTC",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA THÔNG TƯ SỐ 98/2020/TT-BTC NGÀY 16 THÁNG 11 NĂM 2020 CỦA BỘ TRƯỞNG BỘ TÀI CHÍNH HƯỚNG DẪN HOẠT ĐỘNG VÀ QUẢN LÝ QUỸ ĐẦU TƯ CHỨNG KHOÁN"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bo-sung",
+    "target_document": "98/2020/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 30 Điều 2",
+     "khoản 31 Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung khoản 30, khoản 31 vào sau khoản 29 của Điều 2"
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bo-sung",
+    "target_document": "98/2020/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm đ khoản 5 Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung điểm đ vào sau điểm d khoản 5 của Điều 5"
+   },
+   {
+    "source_path": "Điều 3",
+    "action": "sua-doi",
+    "target_document": "98/2020/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 9"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 của Điều 9"
+   },
+   {
+    "source_path": "Điều 3",
+    "action": "bo-sung",
+    "target_document": "98/2020/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 9"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 của Điều 9"
+   },
+   {
+    "source_path": "Điều 4",
+    "action": "sua-doi",
+    "target_document": "98/2020/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 13"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 của Điều 13"
+   },
+   {
+    "source_path": "Điều 4",
+    "action": "bo-sung",
+    "target_document": "98/2020/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 13"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 của Điều 13"
+   },
+   {
+    "source_path": "Điều 5 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "98/2020/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 17"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 của Điều 17"
+   },
+   {
+    "source_path": "Điều 5 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "98/2020/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 17"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 của Điều 17"
+   },
+   {
+    "source_path": "Điều 5 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "98/2020/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2a Điều 17"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung khoản 2a vào sau khoản 2 của Điều 17"
+   },
+   {
+    "source_path": "Điều 6",
+    "action": "sua-doi",
+    "target_document": "98/2020/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 18"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 của Điều 18"
+   },
+   {
+    "source_path": "Điều 6",
+    "action": "bo-sung",
+    "target_document": "98/2020/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 18"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 của Điều 18"
+   },
+   {
+    "source_path": "Điều 7",
+    "action": "sua-doi",
+    "target_document": "98/2020/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 6 Điều 20"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 6 của Điều 20"
+   },
+   {
+    "source_path": "Điều 7",
+    "action": "bo-sung",
+    "target_document": "98/2020/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 6 Điều 20"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 6 của Điều 20"
+   },
+   {
+    "source_path": "Điều 8 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "98/2020/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 21"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 của Điều 21"
+   },
+   {
+    "source_path": "Điều 8 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "98/2020/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 21"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 của Điều 21"
+   },
+   {
+    "source_path": "Điều 8 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "98/2020/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2a Điều 21"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung khoản 2a vào sau khoản 2 của Điều 21"
+   },
+   {
+    "source_path": "Điều 9",
+    "action": "sua-doi",
+    "target_document": "98/2020/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 6 Điều 22"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 6 của Điều 22"
+   },
+   {
+    "source_path": "Điều 9",
+    "action": "bo-sung",
+    "target_document": "98/2020/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 6 Điều 22"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 6 của Điều 22"
+   },
+   {
+    "source_path": "Điều 10 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "98/2020/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm d khoản 2 Điều 24",
+     "điểm đ khoản 2 Điều 24"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm d và điểm đ khoản 2 của Điều 24"
+   },
+   {
+    "source_path": "Điều 10 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "98/2020/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm d khoản 2 Điều 24",
+     "điểm đ khoản 2 Điều 24"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm d và điểm đ khoản 2 của Điều 24"
+   },
+   {
+    "source_path": "Điều 10 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "98/2020/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm c khoản 4 Điều 24"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm c khoản 4 của Điều 24"
+   },
+   {
+    "source_path": "Điều 10 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "98/2020/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm c khoản 4 Điều 24"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm c khoản 4 của Điều 24"
+   },
+   {
+    "source_path": "Điều 11",
+    "action": "bo-sung",
+    "target_document": "98/2020/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 24a"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung Điều 24a vào sau Điều 24"
+   },
+   {
+    "source_path": "Điều 12",
+    "action": "sua-doi",
+    "target_document": "98/2020/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 6 Điều 30"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 6 của Điều 30"
+   },
+   {
+    "source_path": "Điều 12",
+    "action": "bo-sung",
+    "target_document": "98/2020/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 6 Điều 30"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 6 của Điều 30"
+   },
+   {
+    "source_path": "Điều 13 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "98/2020/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 1 Điều 31"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm a khoản 1 của Điều 31"
+   },
+   {
+    "source_path": "Điều 13 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "98/2020/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 1 Điều 31"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm a khoản 1 của Điều 31"
+   },
+   {
+    "source_path": "Điều 13 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "98/2020/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 4 Điều 31"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 4 của Điều 31"
+   },
+   {
+    "source_path": "Điều 13 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "98/2020/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 4 Điều 31"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 4 của Điều 31"
+   },
+   {
+    "source_path": "Điều 14",
+    "action": "sua-doi",
+    "target_document": "98/2020/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm d khoản 1 Điều 32"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm d khoản 1 của Điều 32"
+   },
+   {
+    "source_path": "Điều 14",
+    "action": "bo-sung",
+    "target_document": "98/2020/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm d khoản 1 Điều 32"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm d khoản 1 của Điều 32"
+   },
+   {
+    "source_path": "Điều 15 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "98/2020/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "tên Điều 33"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi tên của Điều 33"
+   },
+   {
+    "source_path": "Điều 15 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "98/2020/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1a Điều 33"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung khoản 1a vào trước khoản 1 của Điều 33"
+   },
+   {
+    "source_path": "Điều 15 Khoản 3",
+    "action": "sua-doi",
+    "target_document": "98/2020/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 1 Điều 33"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm a khoản 1 của Điều 33"
+   },
+   {
+    "source_path": "Điều 15 Khoản 3",
+    "action": "bo-sung",
+    "target_document": "98/2020/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 1 Điều 33"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm a khoản 1 của Điều 33"
+   },
+   {
+    "source_path": "Điều 15 Khoản 4",
+    "action": "bo-sung",
+    "target_document": "98/2020/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm d khoản 4 Điều 33"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung điểm d vào sau điểm c khoản 4 của Điều 33"
+   },
+   {
+    "source_path": "Điều 15 Khoản 5",
+    "action": "sua-doi",
+    "target_document": "98/2020/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 6 Điều 33"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 6 của Điều 33"
+   },
+   {
+    "source_path": "Điều 15 Khoản 5",
+    "action": "bo-sung",
+    "target_document": "98/2020/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 6 Điều 33"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 6 của Điều 33"
+   },
+   {
+    "source_path": "Điều 15 Khoản 6",
+    "action": "bo-sung",
+    "target_document": "98/2020/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 9 Điều 33"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung khoản 9 vào sau khoản 8 của Điều 33"
+   },
+   {
+    "source_path": "Điều 16 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "98/2020/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 34"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 3 của Điều 34"
+   },
+   {
+    "source_path": "Điều 16 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "98/2020/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 34"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 3 của Điều 34"
+   },
+   {
+    "source_path": "Điều 16 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "98/2020/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 4 Điều 34"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 4 của Điều 34"
+   },
+   {
+    "source_path": "Điều 16 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "98/2020/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 4 Điều 34"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 4 của Điều 34"
+   },
+   {
+    "source_path": "Điều 16 Khoản 3",
+    "action": "sua-doi",
+    "target_document": "98/2020/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 5 Điều 34"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 5 của Điều 34"
+   },
+   {
+    "source_path": "Điều 16 Khoản 3",
+    "action": "bo-sung",
+    "target_document": "98/2020/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 5 Điều 34"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 5 của Điều 34"
+   },
+   {
+    "source_path": "Điều 17 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "98/2020/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "tên Điều 35"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi tên của Điều 35"
+   },
+   {
+    "source_path": "Điều 17 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "98/2020/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm d khoản 2 Điều 35",
+     "điểm đ khoản 2 Điều 35"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm d và điểm đ khoản 2 của Điều 35"
+   },
+   {
+    "source_path": "Điều 17 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "98/2020/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm d khoản 2 Điều 35",
+     "điểm đ khoản 2 Điều 35"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm d và điểm đ khoản 2 của Điều 35"
+   },
+   {
+    "source_path": "Điều 17 Khoản 3",
+    "action": "bo-sung",
+    "target_document": "98/2020/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm h khoản 2 Điều 35"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung điểm h vào sau điểm g khoản 2 của Điều 35"
+   },
+   {
+    "source_path": "Điều 17 Khoản 4",
+    "action": "sua-doi",
+    "target_document": "98/2020/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm c khoản 3 Điều 35"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm c khoản 3 của Điều 35 và bổ sung điểm d, đ vào sau điểm c khoản 3 của Điều 35"
+   },
+   {
+    "source_path": "Điều 17 Khoản 4",
+    "action": "bo-sung",
+    "target_document": "98/2020/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm c khoản 3 Điều 35",
+     "điểm d khoản 3 Điều 35",
+     "điểm đ khoản 3 Điều 35"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm c khoản 3 của Điều 35 và bổ sung điểm d, đ vào sau điểm c khoản 3 của Điều 35"
+   },
+   {
+    "source_path": "Điều 17 Khoản 5",
+    "action": "bo-sung",
+    "target_document": "98/2020/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3a Điều 35",
+     "khoản 3b Điều 35"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung khoản 3a, khoản 3b vào sau khoản 3 của Điều 35"
+   },
+   {
+    "source_path": "Điều 17 Khoản 6",
+    "action": "sua-doi",
+    "target_document": "98/2020/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm d khoản 4 Điều 35",
+     "điểm đ khoản 4 Điều 35",
+     "điểm e khoản 4 Điều 35"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm d, đ và e khoản 4 của Điều 35"
+   },
+   {
+    "source_path": "Điều 17 Khoản 6",
+    "action": "bo-sung",
+    "target_document": "98/2020/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm d khoản 4 Điều 35",
+     "điểm đ khoản 4 Điều 35",
+     "điểm e khoản 4 Điều 35"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm d, đ và e khoản 4 của Điều 35"
+   },
+   {
+    "source_path": "Điều 17 Khoản 7",
+    "action": "bo-sung",
+    "target_document": "98/2020/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm m khoản 4 Điều 35"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung điểm m vào sau điểm l khoản 4 của Điều 35"
+   },
+   {
+    "source_path": "Điều 18",
+    "action": "bo-sung",
+    "target_document": "98/2020/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 35a"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung Điều 35a vào sau Điều 35"
+   },
+   {
+    "source_path": "Điều 19",
+    "action": "bo-sung",
+    "target_document": "98/2020/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 35b"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung Điều 35b vào sau Điều 35a"
+   },
+   {
+    "source_path": "Điều 20",
+    "action": "bo-sung",
+    "target_document": "98/2020/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm c khoản 3 Điều 37"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung điểm c vào sau điểm b khoản 3 của Điều 37"
+   },
+   {
+    "source_path": "Điều 21 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "98/2020/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 3 Điều 43",
+     "điểm c khoản 3 Điều 43",
+     "điểm đ khoản 3 Điều 43"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm a, c và đ khoản 3 của Điều 43"
+   },
+   {
+    "source_path": "Điều 21 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "98/2020/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 3 Điều 43",
+     "điểm c khoản 3 Điều 43",
+     "điểm đ khoản 3 Điều 43"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm a, c và đ khoản 3 của Điều 43"
+   },
+   {
+    "source_path": "Điều 21 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "98/2020/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 4 Điều 43"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 4 của Điều 43"
+   },
+   {
+    "source_path": "Điều 21 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "98/2020/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 4 Điều 43"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 4 của Điều 43"
+   },
+   {
+    "source_path": "Điều 21 Khoản 3",
+    "action": "sua-doi",
+    "target_document": "98/2020/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 11 Điều 43"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 11 của Điều 43"
+   },
+   {
+    "source_path": "Điều 21 Khoản 3",
+    "action": "bo-sung",
+    "target_document": "98/2020/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 11 Điều 43"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 11 của Điều 43"
+   },
+   {
+    "source_path": "Điều 21 Khoản 4",
+    "action": "sua-doi",
+    "target_document": "98/2020/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 12 Điều 43"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 12 của Điều 43"
+   },
+   {
+    "source_path": "Điều 21 Khoản 4",
+    "action": "bo-sung",
+    "target_document": "98/2020/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 12 Điều 43"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 12 của Điều 43"
+   },
+   {
+    "source_path": "Điều 22",
+    "action": "sua-doi",
+    "target_document": "98/2020/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm e khoản 3 Điều 45"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm e khoản 3 của Điều 45"
+   },
+   {
+    "source_path": "Điều 22",
+    "action": "bo-sung",
+    "target_document": "98/2020/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm e khoản 3 Điều 45"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm e khoản 3 của Điều 45"
+   },
+   {
+    "source_path": "Điều 23 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "98/2020/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm e khoản 1 Điều 74"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm e khoản 1 của Điều 74"
+   },
+   {
+    "source_path": "Điều 23 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "98/2020/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm e khoản 1 Điều 74"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm e khoản 1 của Điều 74"
+   },
+   {
+    "source_path": "Điều 23 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "98/2020/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm g khoản 2 Điều 74"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm g khoản 2 của Điều 74"
+   },
+   {
+    "source_path": "Điều 23 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "98/2020/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm g khoản 2 Điều 74"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm g khoản 2 của Điều 74"
+   },
+   {
+    "source_path": "Điều 24 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "98/2020/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 76"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 của Điều 76"
+   },
+   {
+    "source_path": "Điều 24 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "98/2020/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 76"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 của Điều 76"
+   },
+   {
+    "source_path": "Điều 24 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "98/2020/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 76"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 3 của Điều 76"
+   },
+   {
+    "source_path": "Điều 24 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "98/2020/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 76"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 3 của Điều 76"
+   },
+   {
+    "source_path": "Điều 24 Khoản 3",
+    "action": "sua-doi",
+    "target_document": "98/2020/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 4 Điều 76"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 4 của Điều 76"
+   },
+   {
+    "source_path": "Điều 24 Khoản 3",
+    "action": "bo-sung",
+    "target_document": "98/2020/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 4 Điều 76"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 4 của Điều 76"
+   },
+   {
+    "source_path": "Điều 24 Khoản 4",
+    "action": "bo-sung",
+    "target_document": "98/2020/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 4a Điều 76"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung khoản 4a vào sau khoản 4 của Điều 76"
+   },
+   {
+    "source_path": "Điều 24 Khoản 5",
+    "action": "sua-doi",
+    "target_document": "98/2020/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 7 Điều 76"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 7 của Điều 76"
+   },
+   {
+    "source_path": "Điều 24 Khoản 5",
+    "action": "bo-sung",
+    "target_document": "98/2020/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 7 Điều 76"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 7 của Điều 76"
+   },
+   {
+    "source_path": "Điều 24 Khoản 6",
+    "action": "sua-doi",
+    "target_document": "98/2020/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 10 Điều 76"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 10 của Điều 76"
+   },
+   {
+    "source_path": "Điều 24 Khoản 6",
+    "action": "bo-sung",
+    "target_document": "98/2020/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 10 Điều 76"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 10 của Điều 76"
+   },
+   {
+    "source_path": "Điều 25",
+    "action": "sua-doi",
+    "target_document": "98/2020/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm e khoản 1 Điều 77"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm e khoản 1 của Điều 77"
+   },
+   {
+    "source_path": "Điều 25",
+    "action": "bo-sung",
+    "target_document": "98/2020/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm e khoản 1 Điều 77"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm e khoản 1 của Điều 77"
+   },
+   {
+    "source_path": "Điều 26 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "98/2020/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 6 Điều 78"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 6 của Điều 78"
+   },
+   {
+    "source_path": "Điều 26 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "98/2020/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 6 Điều 78"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 6 của Điều 78"
+   },
+   {
+    "source_path": "Điều 26 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "98/2020/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 7 Điều 78"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 7 Điều 78"
+   },
+   {
+    "source_path": "Điều 26 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "98/2020/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 7 Điều 78"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 7 Điều 78"
+   },
+   {
+    "source_path": "Điều 26 Khoản 3",
+    "action": "bo-sung",
+    "target_document": "98/2020/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 9 Điều 78",
+     "khoản 10 Điều 78",
+     "khoản 11 Điều 78",
+     "khoản 12 Điều 78"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung khoản 9, 10, 11 và 12 vào sau khoản 8 của Điều 78"
+   },
+   {
+    "source_path": "Điều 27 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "98/2020/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 6a Điều 79"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung khoản 6a vào sau khoản 6 của Điều 79"
+   },
+   {
+    "source_path": "Điều 27 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "98/2020/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 9 Điều 79"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 9 của Điều 79"
+   },
+   {
+    "source_path": "Điều 27 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "98/2020/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 9 Điều 79"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 9 của Điều 79"
+   },
+   {
+    "source_path": "Điều 27 Khoản 3",
+    "action": "sua-doi",
+    "target_document": "98/2020/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 11 Điều 79"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 11 của Điều 79"
+   },
+   {
+    "source_path": "Điều 27 Khoản 3",
+    "action": "bo-sung",
+    "target_document": "98/2020/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 11 Điều 79"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 11 của Điều 79"
+   },
+   {
+    "source_path": "Điều 28 Khoản 1",
+    "action": "bai-bo",
+    "target_document": "98/2020/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm e khoản 2 Điều 19",
+     "khoản 10 Điều 35"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ điểm e khoản 2 của Điều 19, khoản 10 của Điều 35."
+   },
+   {
+    "source_path": "Điều 28 Khoản 2",
+    "action": "thay-cum-tu",
+    "target_document": "98/2020/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm c khoản 1 Điều 15",
+     "khoản 4 Điều 16",
+     "điểm d khoản 4 Điều 29",
+     "khoản 4 Điều 58"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “số Giấy chứng minh nhân dân hoặc thẻ Căn cước công dân/số Giấy chứng minh nhân dân hoặc Căn cước công dân/số Giấy chứng minh thư nhân dân hoặc thẻ Căn cước công dân/số Giấy chứng minh thư nhân dân hoặc Căn cước công dân/số chứng minh nhân dân hoặc thẻ Căn cước công dân/Số Giấy CMND/CCCD” bằng cụm từ “số định danh cá nhân” tại điểm c khoản 1 Điều 15, khoản 4 Điều 16, điểm d khoản 4 Điều 29, khoản 4 Điều 58 Thông tư số 98/2020/TT-BTC ngày 16 tháng 11 năm 2020 của Bộ trưởng Bộ Tài chính hướng dẫn hoạt động và quản lý quỹ đầu tư chứng khoán, Phụ lục I, Phụ lục II, Phụ lục VII, Phụ lục VIII, Phụ lục X, Phụ lục XII, phần A Phụ lục XV, Phụ lục XXII và Phụ lục XXVI ban hành kèm theo Thông tư số 98/2020/TT-BTC ngày 16 tháng 11 năm 2020 của Bộ trưởng Bộ Tài chính hướng dẫn hoạt động và quản lý quỹ đầu tư chứng khoán"
+   },
+   {
+    "source_path": "Điều 28 Khoản 2",
+    "action": "thay-cum-tu",
+    "target_document": "98/2020/TT-BTC",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục I",
+     "Phụ lục II",
+     "Phụ lục VII",
+     "Phụ lục VIII",
+     "Phụ lục X",
+     "Phụ lục XII",
+     "phần A Phụ lục XV",
+     "Phụ lục XXII",
+     "Phụ lục XXVI"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “số Giấy chứng minh nhân dân hoặc thẻ Căn cước công dân/số Giấy chứng minh nhân dân hoặc Căn cước công dân/số Giấy chứng minh thư nhân dân hoặc thẻ Căn cước công dân/số Giấy chứng minh thư nhân dân hoặc Căn cước công dân/số chứng minh nhân dân hoặc thẻ Căn cước công dân/Số Giấy CMND/CCCD” bằng cụm từ “số định danh cá nhân” tại điểm c khoản 1 Điều 15, khoản 4 Điều 16, điểm d khoản 4 Điều 29, khoản 4 Điều 58 Thông tư số 98/2020/TT-BTC ngày 16 tháng 11 năm 2020 của Bộ trưởng Bộ Tài chính hướng dẫn hoạt động và quản lý quỹ đầu tư chứng khoán, Phụ lục I, Phụ lục II, Phụ lục VII, Phụ lục VIII, Phụ lục X, Phụ lục XII, phần A Phụ lục XV, Phụ lục XXII và Phụ lục XXVI ban hành kèm theo Thông tư số 98/2020/TT-BTC ngày 16 tháng 11 năm 2020 của Bộ trưởng Bộ Tài chính hướng dẫn hoạt động và quản lý quỹ đầu tư chứng khoán"
+   },
+   {
+    "source_path": "Điều 28 Khoản 2",
+    "action": "thay-cum-tu",
+    "target_document": "98/2020/TT-BTC",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "phần B Phụ lục XV"
+    ],
+    "doi_tuong": null,
+    "evidence": "thay thế cụm từ “giấy chứng minh thư nhân dân” bằng cụm từ “thẻ căn cước/căn cước điện tử/giấy chứng nhận căn cước” tại phần B Phụ lục XV ban hành kèm theo Thông tư số 98/2020/TT-BTC ngày 16 tháng 11 năm 2020 của Bộ trưởng Bộ Tài chính hướng dẫn hoạt động và quản lý quỹ đầu tư chứng khoán."
+   },
+   {
+    "source_path": "Điều 28 Khoản 3",
+    "action": "thay-the",
+    "target_document": "98/2020/TT-BTC",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục III",
+     "Phụ lục IV",
+     "Phụ lục XIII",
+     "Phụ lục XIV",
+     "Phụ lục XVI"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế Phụ lục III, Phụ lục IV, Phụ lục XIII, Phụ lục XIV và Phụ lục XVI ban hành kèm theo Thông tư số 98/2020/TT-BTC ngày 16 tháng 11 năm 2020 của Bộ trưởng Bộ Tài chính hướng dẫn hoạt động và quản lý quỹ đầu tư chứng khoán bằng Phụ lục III, Phụ lục IV, Phụ lục XIII, Phụ lục XIV và Phụ lục XVI ban hành kèm theo Thông tư này."
+   },
+   {
+    "source_path": "Điều 28 Khoản 4",
+    "action": "bo-sung",
+    "target_document": "98/2020/TT-BTC",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục XXIX",
+     "Phụ lục XXX",
+     "Phụ lục XXXI"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung Phụ lục XXIX, Phụ lục XXX, Phụ lục XXXI ban hành kèm theo Thông tư này."
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Phụ lục 2",
+    "loai": "tach_sai",
+    "ghi_chu": "'Phụ lục đính kèm' là dòng cuối MỤC LỤC của mẫu Bản cáo bạch trong Phụ lục III; phần 'NỘI DUNG BẢN CÁO BẠCH' của Phụ lục III (so 1) bị tách thành phụ lục riêng."
+   },
+   {
+    "source_path": "Phụ lục 4",
+    "loai": "tach_sai",
+    "ghi_chu": "'PHỤ LỤC' là dòng cuối MỤC LỤC của mẫu Bản cáo bạch trong Phụ lục IV; phần 'NỘI DUNG BẢN CÁO BẠCH' của Phụ lục IV (so 3) bị tách thành phụ lục riêng. Văn bản chỉ có 8 phụ lục (III, IV, XIII, XIV, XVI, XXIX, XXX, XXXI)."
+   }
+  ],
+  "ghi_chu": "Thông tư sửa đổi theo kiểu mỗi Điều ứng với một Điều của TT 98/2020/TT-BTC; các Điều 1-28 không nêu số hiệu, đích lấy từ tên văn bản. Tên và lời dẫn cùng hành động: ghi một quan hệ Phần đầu mỗi action. Bổ sung đơn vị mới: vi_tri là đơn vị mới (khoản 30 Điều 2, Điều 24a...). Phụ lục của TT 98/2020 ghi kem_theo (câu nói 'ban hành kèm theo Thông tư số 98/2020/TT-BTC'); Điều 28 khoản 2 tách 3 quan hệ thay-cum-tu: cụm từ 1 tại Điều 15, 16, 29, 58 (quyet_dinh), cụm từ 1 tại các phụ lục (kem_theo), cụm từ 2 tại phần B Phụ lục XV. Không chắc: Điều 28 khoản 4 (bổ sung Phụ lục XXIX-XXXI) câu chỉ nói 'ban hành kèm theo Thông tư này', đích và kem_theo suy từ tên văn bản. Điều 17 khoản 4: gộp bổ sung điểm c và bổ sung điểm d, đ vào một quan hệ bo-sung. Điều 29, Điều 30 và nội dung các phụ lục mẫu không có tác động; Phụ lục XXX nhắc tên TT 136 sửa đổi TT 98/2020 là trích dẫn. noi_dung Điều 19 trong DON_VI bị cắt ở khoảng 6000 ký tự (giới hạn gói), toàn văn đủ, không ảnh hưởng quan hệ."
+ }
+]

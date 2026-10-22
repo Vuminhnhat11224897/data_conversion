@@ -1,0 +1,280 @@
+[
+ {
+  "doc_id": "696581",
+  "relations": [
+   {
+    "source_path": "Mục IV",
+    "action": "thay-the",
+    "target_document": "18/KH-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Kế hoạch này thay thế Kế hoạch số 18/KH-UBND ngày 12/3/2020 của Ủy ban nhân dân tỉnh Bình Định (trước sắp xếp) thực hiện Đề án triển khai, áp dụng và quản lý hệ thống truy xuất nguồn gốc trên địa bàn tỉnh"
+   },
+   {
+    "source_path": "Mục IV",
+    "action": "thay-the",
+    "target_document": "1696/KH-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Kế hoạch này thay thế … Kế hoạch số 1696/KH-UBND ngày 18/8/2020 của Ủy ban nhân dân tỉnh Gia Lai (trước sắp xếp) thực hiện Đề án triển khai, áp dụng và quản lý hệ thống truy xuất nguồn gốc trên địa bàn tỉnh Gia Lai"
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Mục IV",
+    "loai": "thieu_noi_dung",
+    "ghi_chu": "Đoạn kết sau mục IV.4 ('Trên đây là Kế hoạch ... Kế hoạch này thay thế Kế hoạch số 18/KH-UBND ... và Kế hoạch số 1696/KH-UBND ...') có trong toàn văn nhưng không có trong DON_VI."
+   }
+  ],
+  "ghi_chu": "Câu thay thế 2 kế hoạch nằm ở đoạn kết ngay sau mục IV.4, không có đề mục riêng, parser làm mất; source_path ghi theo toàn văn là Mục IV. 'Thực hiện Quyết định số 100/QĐ-TTg' ở phần đầu là căn cứ thực hiện, không phải quan hệ."
+ },
+ {
+  "doc_id": "688801",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "huong-dan",
+    "target_document": "289/2025/NĐ-CP",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "HƯỚNG DẪN MỘT SỐ NỘI DUNG TẠI NGHỊ ĐỊNH SỐ 289/2025/NĐ-CP NGÀY 06 THÁNG 11 NĂM 2025 CỦA CHÍNH PHỦ"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "huong-dan",
+    "target_document": "289/2025/NĐ-CP",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thông tư này hướng dẫn thực hiện một số nội dung tại Nghị định số 289/2025/NĐ-CP ngày 06 tháng 11 năm 2025 của Chính phủ"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên văn bản và lời dẫn cùng nêu 'hướng dẫn một số nội dung tại Nghị định số 289/2025/NĐ-CP': một quan hệ Phần đầu. Nghị quyết 197/2025/QH15 là văn bản mà Nghị định 289 hướng dẫn, không phải đích trực tiếp. Khoản 1-4 Điều 1 chỉ liệt kê nội dung hướng dẫn, không nêu điều nào của Nghị định. Khoản 3 Điều 7 là câu dẫn chiếu chung, không phải quan hệ."
+ },
+ {
+  "doc_id": "678389",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn giao nhiệm vụ (rà soát, cập nhật, điều chỉnh quy hoạch; đề xuất sửa đổi, bổ sung). Không có tác động trực tiếp lên văn bản khác."
+ },
+ {
+  "doc_id": "686934",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quyết định công bố địa bàn ưu đãi đầu tư cấp xã; không có tác động lên văn bản khác."
+ },
+ {
+  "doc_id": "693448",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "bai-bo",
+    "target_document": "92/2024/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "BÃI BỎ QUYẾT ĐỊNH SỐ 92/2024/QĐ-UBND NGÀY 31 THÁNG 12 NĂM 2024 CỦA ỦY BAN NHÂN DÂN TỈNH ĐỒNG NAI VÀ QUYẾT ĐỊNH SỐ 46/2021/QĐ-UBND NGÀY 20 THÁNG 12 NĂM 2021 CỦA ỦY BAN NHÂN DÂN TỈNH BÌNH PHƯỚC"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bai-bo",
+    "target_document": "46/2021/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "BÃI BỎ QUYẾT ĐỊNH SỐ 92/2024/QĐ-UBND NGÀY 31 THÁNG 12 NĂM 2024 CỦA ỦY BAN NHÂN DÂN TỈNH ĐỒNG NAI VÀ QUYẾT ĐỊNH SỐ 46/2021/QĐ-UBND NGÀY 20 THÁNG 12 NĂM 2021 CỦA ỦY BAN NHÂN DÂN TỈNH BÌNH PHƯỚC"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bai-bo",
+    "target_document": "92/2024/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ các Quyết định sau: … Quyết định số 92/2024/QĐ-UBND ngày 31 tháng 12 năm 2024 của Ủy ban nhân dân tỉnh Đồng Nai"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "46/2021/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ các Quyết định sau: … Quyết định số 46/2021/QĐ-UBND ngày 20 tháng 12 năm 2021 của Ủy ban nhân dân tỉnh Bình Phước"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên văn bản nêu số hiệu 2 quyết định bị bãi bỏ: 2 quan hệ Phần đầu. Chữ 'Bãi bỏ toàn bộ' ở tên Điều 1 áp dụng cho khoản 1, 2. Bãi bỏ cả văn bản nên vi_tri rỗng."
+ },
+ {
+  "doc_id": "677183",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Thông báo lịch nghỉ tết, lễ; khoản 2 Điều 7 Nghị định 128/2025/NĐ-CP chỉ là căn cứ. Không có tác động lên văn bản khác."
+ },
+ {
+  "doc_id": "681044",
+  "relations": [
+   {
+    "source_path": "Điều 3",
+    "action": "thay-the",
+    "target_document": "336/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [
+     "Phần VI Mục B"
+    ],
+    "doi_tuong": "quy trình nội bộ giải quyết thủ tục hành chính số 1",
+    "evidence": "Thay thế quy trình nội bộ giải quyết thủ tục hành chính số 1, Phần VI, Mục B, Quyết định số 336/QĐ-UBND ngày 15/7/2025 của Chủ tịch UBND tỉnh Phú Thọ"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Thay thế một phần QĐ 336/QĐ-UBND. Quy trình thường nằm ở phần kèm theo của QĐ phê duyệt nhưng câu không nói rõ, nên target_section khong_ro. Quy trình số 1 là mục đánh số: vi_tri dừng ở 'Phần VI Mục B' (thứ tự như câu: Phần VI thuộc Mục B), tên quy trình ghi ở doi_tuong. Câu không nêu tên thủ tục của quy trình số 1."
+ },
+ {
+  "doc_id": "677916",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Khoản 11, 12 Điều 3 nói về chứng thực việc sửa đổi, hủy bỏ hợp đồng, giao dịch; khoản 1 Điều 5 giao nhiệm vụ. Không có quan hệ."
+ },
+ {
+  "doc_id": "686418",
+  "relations": [
+   {
+    "source_path": "Điều 1",
+    "action": "bai-bo",
+    "target_document": "10/2024/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ các Quyết định quy phạm pháp luật do Ủy ban nhân dân tỉnh Cà Mau, tỉnh Bạc Liêu ban hành quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của các Chi cục thuộc Sở Nông nghiệp và Môi trường, cụ thể như sau: … Quyết định số 10/2024/QĐ-UBND ngày 08 tháng 4 năm 2024 của Ủy ban nhân dân tỉnh Cà Mau"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bai-bo",
+    "target_document": "18/2024/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ các Quyết định quy phạm pháp luật do Ủy ban nhân dân tỉnh Cà Mau, tỉnh Bạc Liêu ban hành quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của các Chi cục thuộc Sở Nông nghiệp và Môi trường, cụ thể như sau: … Quyết định số 18/2024/QĐ-UBND ngày 30 tháng 6 năm 2024 của Ủy ban nhân dân tỉnh Cà Mau"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bai-bo",
+    "target_document": "21/2025/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ các Quyết định quy phạm pháp luật do Ủy ban nhân dân tỉnh Cà Mau, tỉnh Bạc Liêu ban hành quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của các Chi cục thuộc Sở Nông nghiệp và Môi trường, cụ thể như sau: … Quyết định số 21/2025/QĐ-UBND ngày 25 tháng 3 năm 2025 của Ủy ban nhân dân tỉnh Bạc Liêu"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bai-bo",
+    "target_document": "22/2025/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ các Quyết định quy phạm pháp luật do Ủy ban nhân dân tỉnh Cà Mau, tỉnh Bạc Liêu ban hành quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của các Chi cục thuộc Sở Nông nghiệp và Môi trường, cụ thể như sau: … Quyết định số 22/2025/QĐ-UBND ngày 25 tháng 3 năm 2025 của Ủy ban nhân dân tỉnh Bạc Liêu"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bai-bo",
+    "target_document": "23/2025/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ các Quyết định quy phạm pháp luật do Ủy ban nhân dân tỉnh Cà Mau, tỉnh Bạc Liêu ban hành quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của các Chi cục thuộc Sở Nông nghiệp và Môi trường, cụ thể như sau: … Quyết định số 23/2025/QĐ-UBND ngày 25 tháng 3 năm 2025 của Ủy ban nhân dân tỉnh Bạc Liêu"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bai-bo",
+    "target_document": "24/2025/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ các Quyết định quy phạm pháp luật do Ủy ban nhân dân tỉnh Cà Mau, tỉnh Bạc Liêu ban hành quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của các Chi cục thuộc Sở Nông nghiệp và Môi trường, cụ thể như sau: … Quyết định số 24/2025/QĐ-UBND ngày 25 tháng 3 năm 2025 của Ủy ban nhân dân tỉnh Bạc Liêu"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bai-bo",
+    "target_document": "25/2025/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ các Quyết định quy phạm pháp luật do Ủy ban nhân dân tỉnh Cà Mau, tỉnh Bạc Liêu ban hành quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của các Chi cục thuộc Sở Nông nghiệp và Môi trường, cụ thể như sau: … Quyết định số 25/2025/QĐ-UBND ngày 25 tháng 3 năm 2025 của Ủy ban nhân dân tỉnh Bạc Liêu"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bai-bo",
+    "target_document": "26/2025/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ các Quyết định quy phạm pháp luật do Ủy ban nhân dân tỉnh Cà Mau, tỉnh Bạc Liêu ban hành quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của các Chi cục thuộc Sở Nông nghiệp và Môi trường, cụ thể như sau: … Quyết định số 26/2025/QĐ-UBND ngày 25 tháng 3 năm 2025 của Ủy ban nhân dân tỉnh Bạc Liêu"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bai-bo",
+    "target_document": "27/2025/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ các Quyết định quy phạm pháp luật do Ủy ban nhân dân tỉnh Cà Mau, tỉnh Bạc Liêu ban hành quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của các Chi cục thuộc Sở Nông nghiệp và Môi trường, cụ thể như sau: … Quyết định số 27/2025/QĐ-UBND ngày 25 tháng 3 năm 2025 của Ủy ban nhân dân tỉnh Bạc Liêu"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bai-bo",
+    "target_document": "28/2025/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ các Quyết định quy phạm pháp luật do Ủy ban nhân dân tỉnh Cà Mau, tỉnh Bạc Liêu ban hành quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của các Chi cục thuộc Sở Nông nghiệp và Môi trường, cụ thể như sau: … Quyết định số 28/2025/QĐ-UBND ngày 25 tháng 3 năm 2025 của Ủy ban nhân dân tỉnh Bạc Liêu"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bai-bo",
+    "target_document": "29/2025/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ các Quyết định quy phạm pháp luật do Ủy ban nhân dân tỉnh Cà Mau, tỉnh Bạc Liêu ban hành quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của các Chi cục thuộc Sở Nông nghiệp và Môi trường, cụ thể như sau: … Quyết định số 29/2025/QĐ-UBND ngày 25 tháng 3 năm 2025 của Ủy ban nhân dân tỉnh Bạc Liêu"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bai-bo",
+    "target_document": "24/2025/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ các Quyết định quy phạm pháp luật do Ủy ban nhân dân tỉnh Cà Mau, tỉnh Bạc Liêu ban hành quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của các Chi cục thuộc Sở Nông nghiệp và Môi trường, cụ thể như sau: … Quyết định số 24/2025/QĐ-UBND ngày 11 tháng 6 năm 2025 của Ủy ban nhân dân tỉnh Cà Mau"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Chữ 'Bãi bỏ toàn bộ' ở câu đầu Điều 1; 12 quyết định liệt kê ở khoản 1-12 (khoản không có chữ hành động riêng), nên source_path là Điều 1, mỗi quyết định một quan hệ. Hai văn bản khác nhau cùng số hiệu 24/2025/QĐ-UBND: của UBND tỉnh Bạc Liêu ngày 25/3/2025 (khoản 6) và của UBND tỉnh Cà Mau ngày 11/6/2025 (khoản 12). Tên văn bản và lời dẫn không nêu số hiệu nên không có quan hệ Phần đầu."
+ },
+ {
+  "doc_id": "678829",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "55/2025/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực kể từ ngày 04 tháng 11 năm 2025 và thay thế Quyết định số 55/2025/QĐ-UBND ngày 17/6/2025 của UBND tỉnh Hòa Bình"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 2 thay thế QĐ 55/2025/QĐ-UBND của UBND tỉnh Hòa Bình. Quy chế kèm theo chỉ dẫn chiếu Luật Xử lý vi phạm hành chính, Thông tư 13/2016/TT-BTP; các chữ 'đính chính, bổ sung, hủy' nói về dữ liệu, quyết định xử phạt, không phải quan hệ."
+ },
+ {
+  "doc_id": "678532",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quyết định ban hành Quy định chức năng, nhiệm vụ Sở Quy hoạch - Kiến trúc; không thay thế, bãi bỏ văn bản nào. 'Hợp nhất' ở Điều 4 Quy định là hợp nhất tổ chức; khoản 5 Điều 8, khoản 4 Điều 12 là đề xuất. Không có quan hệ."
+ }
+]

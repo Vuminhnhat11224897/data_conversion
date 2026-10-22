@@ -1,0 +1,67 @@
+[
+ {
+  "doc_id": "688310",
+  "relations": [],
+  "loi_cau_truc": [
+   {
+    "source_path": "Phụ lục 2",
+    "loai": "nhan_sai_dieu",
+    "ghi_chu": "Phụ lục II (quy trình, mẫu hồ sơ) bị đánh dấu chia Điều; các 'Điều' trong đó chỉ là Điều 65, 67, 53 trích Luật Ban hành VBQPPL và dòng giữ chỗ 'Điều 1. (Tên của điều)' của mẫu."
+   },
+   {
+    "source_path": "Phụ lục 3",
+    "loai": "nhan_sai_dieu",
+    "ghi_chu": "'Phụ lục 3' không phải phụ lục riêng: đó là phần mẫu 'Quy định/Quy chế... kèm theo Thông tư' của Mẫu số 15 trong Phụ lục II; dòng giữ chỗ 'Điều 1. (Tên của điều)' bị nhận thành Điều."
+   },
+   {
+    "source_path": "Phụ lục 3 Điều 1 Khoản 2",
+    "loai": "gop_sai",
+    "ghi_chu": "Mục '2. Cơ sở thực tiễn' và các mục sau của Mẫu số 02 (Tờ trình) bị nhận thành khoản 2 Điều 1 của mẫu Quy định."
+   },
+   {
+    "source_path": "Phụ lục 3 Điều 1 Khoản 3",
+    "loai": "gop_sai",
+    "ghi_chu": "Mục '3. Nội dung cơ bản' của Mẫu số 02 và phần đầu Mẫu số 06 bị gộp thành khoản 3 Điều 1 của mẫu Quy định."
+   },
+   {
+    "source_path": "Phụ lục 3 Điều 1 Khoản 5",
+    "loai": "gop_sai",
+    "ghi_chu": "Mục '5. Việc thực hiện chính sách dân tộc' của Mẫu số 06, cả Mẫu số 10 và phần đầu Mẫu số 12 bị gộp thành khoản 5 Điều 1 của mẫu Quy định."
+   },
+   {
+    "source_path": "Phụ lục 3 Văn bản kèm theo 1 Điều 1",
+    "loai": "nhan_sai_dieu",
+    "ghi_chu": "Ô 'Điều 1.' trong bảng so sánh của Mẫu số 12 bị nhận thành Điều của một văn bản kèm theo."
+   },
+   {
+    "source_path": "Phụ lục 3 Văn bản kèm theo 1 Điều 2",
+    "loai": "nhan_sai_dieu",
+    "ghi_chu": "Ô 'Điều 2.', 'Điều n.' trong bảng so sánh của Mẫu số 12 bị nhận thành Điều của một văn bản kèm theo."
+   }
+  ],
+  "ghi_chu": "Không có tác động. Quyết định ban hành Chương trình xây dựng VBQPPL 2026 của Cục. Điều 2 '(được sửa đổi, bổ sung bởi Nghị định 187/2024/NĐ-CP...)' là ghi chú lịch sử. Phụ lục I STT 15 'Thông tư ... (thay thế Thông tư số 24/2021/TT-BGTVT)' là tên Thông tư sẽ soạn trong Chương trình, không phải văn bản này thay thế. Điều 3 là giao nhiệm vụ. Phụ lục II là quy trình, mẫu hồ sơ và trích Luật."
+ },
+ {
+  "doc_id": "697174",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Không có tác động. Điều 1 phê duyệt Đề án kèm theo chính Quyết định này. Căn cứ nêu Nghị quyết 11/NQ-CP và 71/NQ-CP 'sửa đổi, bổ sung, cập nhật Chương trình hành động' là căn cứ ban hành. Đề án và Phụ lục chỉ giao nhiệm vụ ban hành Thông tư liên tịch, Thông tư hướng dẫn Bộ luật Tố tụng hình sự."
+ },
+ {
+  "doc_id": "690742",
+  "relations": [],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 7 Khoản 6",
+    "loai": "gop_sai",
+    "ghi_chu": "Tiêu đề Điều 8 (chỉnh lý tài liệu) mất trong đoạn toàn văn bị cắt, nên khoản 1-5 Điều 8 bị gộp vào khoản 6 Điều 7. 'Điều 7 Khoản 6 điểm c' thực chất là điểm c khoản 1 Điều 8 kèm khoản 2-5 Điều 8."
+   },
+   {
+    "source_path": "Điều 9 Khoản 2",
+    "loai": "gop_sai",
+    "ghi_chu": "Câu dẫn khoản 3 Điều 9 (biện pháp khắc phục hậu quả) mất trong đoạn bị cắt, nên điểm a-c khoản 3 bị gộp vào khoản 2 (cả 'Điều 9 Khoản 2 điểm b')."
+   }
+  ],
+  "ghi_chu": "Toàn văn bị cắt nhiều đoạn ('...', 'Hãy đăng nhập hoặc đăng ký Thành viên Pro...'), kể cả khoản 1 Điều 22; không kết luận được cho các đoạn bị cắt. Phần thấy được không có tác động: Điều 20 (khoản 1, 2 liền nhau, đủ) chỉ nêu ngày hiệu lực 08/3/2026 và câu chung về văn bản viện dẫn được sửa đổi, thay thế; Điều 3 khoản 5, Điều 5 khoản 1, 4 nêu Nghị định 118/2021/NĐ-CP 'được sửa đổi, bổ sung bởi' 68/2025/NĐ-CP, 190/2025/NĐ-CP là viện dẫn. Tên và lời dẫn không nêu văn bản đích."
+ }
+]

@@ -1,0 +1,36 @@
+[
+ {
+  "doc_id": "696887",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "143/QĐ-BTC",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Danh mục mã định danh các đơn vị thuộc Bộ Tài chính phục vụ kết nối, chia sẻ dữ liệu với các bộ, ngành, địa phương",
+    "evidence": "SỬA ĐỔI DANH MỤC MÃ ĐỊNH DANH CÁC ĐƠN VỊ THUỘC BỘ TÀI CHÍNH PHỤC VỤ KẾT NỐI, CHIA SẺ DỮ LIỆU VỚI CÁC BỘ, NGÀNH, ĐỊA PHƯƠNG BAN HÀNH KÈM QUYẾT ĐỊNH SỐ 143/QĐ-BTC NGÀY 10/02/2022"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "sua-doi",
+    "target_document": "143/QĐ-BTC",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Danh mục mã định danh các đơn vị thuộc Bộ Tài chính phục vụ kết nối, chia sẻ dữ liệu với các bộ, ngành, địa phương",
+    "evidence": "Sửa đổi, bổ sung danh mục mã định danh các đơn vị thuộc Bộ Tài chính phục vụ kết nối, chia sẻ dữ liệu với các bộ, ngành, địa phương ban hành kèm Quyết định số 143/QĐ-BTC ngày 10/02/2022 (Phụ lục đính kèm)."
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bo-sung",
+    "target_document": "143/QĐ-BTC",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Danh mục mã định danh các đơn vị thuộc Bộ Tài chính phục vụ kết nối, chia sẻ dữ liệu với các bộ, ngành, địa phương",
+    "evidence": "Sửa đổi, bổ sung danh mục mã định danh các đơn vị thuộc Bộ Tài chính phục vụ kết nối, chia sẻ dữ liệu với các bộ, ngành, địa phương ban hành kèm Quyết định số 143/QĐ-BTC ngày 10/02/2022 (Phụ lục đính kèm)."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên văn bản chỉ có 'sửa đổi' (1 quan hệ Phần đầu); Điều 1 'sửa đổi, bổ sung' (2 quan hệ). Danh mục chỉ nêu bằng tên nên vi_tri rỗng, ghi doi_tuong; danh mục 'ban hành kèm' QĐ 143 nên kem_theo. Phụ lục I, II là bảng mã định danh, cột Trạng thái (Thêm mới/Đóng mã/Đổi tên) không nêu văn bản đích: không ghi quan hệ cho dòng bảng; nội dung đã thuộc quan hệ Điều 1. Căn cứ (QĐ 143/QĐ-BTC, 1900/QĐ-BTC, 329/QĐ-BTC... và NĐ 166/2025/NĐ-CP 'sửa đổi, bổ sung') là căn cứ ban hành, không ghi. Điều 3 chỉ giao thi hành. Bảng Phụ lục II có lỗi OCR ở cột STT (22!, 5Ỉ6, |206) và STT 164-172 trùng mã với STT 155-163; không ảnh hưởng quan hệ."
+ }
+]

@@ -1,0 +1,463 @@
+[
+ {
+  "doc_id": "682964",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn hướng dẫn chung về thẩm định giá theo hệ thống chuẩn mực thẩm định giá Việt Nam; câu hướng dẫn không nêu văn bản đích có số hiệu. Luật Giá 2023 và các Thông tư 30, 31, 32, 36, 37, 42/2024/TT-BTC chỉ được trích dẫn. Phụ lục là danh sách nơi nhận."
+ },
+ {
+  "doc_id": "691223",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "dinh-chinh",
+    "target_document": "84/2025/TT-BNNMT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "VỀ VIỆC ĐÍNH CHÍNH THÔNG TƯ SỐ 84/2025/TT-BNNMT NGÀY 31 THÁNG 12 NĂM 2025 CỦA BỘ TRƯỞNG BỘ NÔNG NGHIỆP VÀ MÔI TRƯỜNG QUY ĐỊNH CHI TIẾT MỘT SỐ NỘI DUNG CỦA LUẬT LÂM NGHIỆP VÀ SỬA ĐỔI, BỔ SUNG MỘT SỐ THÔNG TƯ TRONG LĨNH VỰC LÂM NGHIỆP VÀ KIỂM LÂM"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "dinh-chinh",
+    "target_document": "84/2025/TT-BNNMT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm b khoản 2 Điều 22"
+    ],
+    "doi_tuong": null,
+    "evidence": "Đính chính điểm b khoản 2 Điều 22 Thông tư số 84/2025/TT-BNNMT ngày 31 tháng 12 năm 2025 của Bộ trưởng Bộ Nông nghiệp và Môi trường quy định chi tiết một số nội dung của Luật lâm nghiệp và sửa đổi, bổ sung một số Thông tư trong lĩnh vực lâm nghiệp và kiểm lâm."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên văn bản và Điều 1 cùng đính chính Thông tư 84/2025/TT-BNNMT. Nội dung trong ngoặc kép nêu Thông tư 16/2025/TT-BNNMT là nội dung của điểm b được đính chính, không phải quan hệ của văn bản này."
+ },
+ {
+  "doc_id": "690423",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Kế hoạch triển khai Chỉ thị 52-CT/TW; không có tác động lên văn bản khác ('gia hạn thẻ bảo hiểm y tế' không phải gia hạn văn bản)."
+ },
+ {
+  "doc_id": "680045",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 1 chỉ công bố danh mục TTHC được sửa đổi, bổ sung; dòng bảng không nêu quyết định đã công bố TTHC; văn bản ở cột Căn cứ pháp lý không phải đích."
+ },
+ {
+  "doc_id": "690819",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Phê duyệt nhiệm vụ quy hoạch. 'được sửa đổi tại khoản 1, khoản 2 và khoản 7 Điều 1 Thông tư số 43/2025/TT-BXD' là ghi chú, không phải hành động."
+ },
+ {
+  "doc_id": "692884",
+  "relations": [
+   {
+    "source_path": "Điều 3",
+    "action": "bai-bo",
+    "target_document": "1114/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục I",
+     "Phụ lục III"
+    ],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực thi hành kể từ ngày ký ban hành và bãi bỏ thủ tục hành chính có số 10, Mục II Phần B tại Phụ lục I và Quy trình nội bộ số 10 tại Mục II Phần B Phụ lục III ban hành kèm theo Quyết định số 1114/QĐ- UBND ngày 27 tháng 06 năm 2025 của Chủ tịch Ủy ban nhân dân tỉnh"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 1 chỉ công bố danh mục TTHC bị bãi bỏ; cột văn bản quy định việc bãi bỏ (Nghị định 16/2026/NĐ-CP) là căn cứ, không phải đích. Điều 3 bãi bỏ TTHC số 10 và Quy trình nội bộ số 10 (Mục II Phần B) của Phụ lục I và Phụ lục III kèm theo QĐ 1114/QĐ-UBND: vi_tri dừng ở phụ lục."
+ },
+ {
+  "doc_id": "678581",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn đề nghị định hướng, chấn chỉnh hoạt động âm nhạc; không có tác động lên văn bản khác."
+ },
+ {
+  "doc_id": "681203",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "72/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "dự toán chi ngân sách cấp tỉnh; thu, chi ngân sách cấp xã năm 2025",
+    "evidence": "ĐIỀU CHỈNH DỰ TOÁN CHI NGÂN SÁCH CẤP TỈNH; THU, CHI NGÂN SÁCH CẤP XÃ NĂM 2025 ĐƯỢC GIAO TẠI NGHỊ QUYẾT SỐ 72/NQ-HĐND NGÀY 09 THÁNG 12 NĂM 2024, NGHỊ QUYẾT SỐ 50/NQ-HĐND NGÀY 23 THÁNG 7 NĂM 2025, NGHỊ QUYẾT SỐ 51/NQ-HĐND NGÀY 23 THÁNG 7 NĂM 2025, NGHỊ QUYẾT SỐ 71/NQ - HĐND NGÀY 26 THÁNG 9 NĂM 2025 CỦA HỘI ĐỒNG NHÂN DÂN TỈNH"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "50/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "dự toán chi ngân sách cấp tỉnh; thu, chi ngân sách cấp xã năm 2025",
+    "evidence": "ĐIỀU CHỈNH DỰ TOÁN CHI NGÂN SÁCH CẤP TỈNH; THU, CHI NGÂN SÁCH CẤP XÃ NĂM 2025 ĐƯỢC GIAO TẠI NGHỊ QUYẾT SỐ 72/NQ-HĐND NGÀY 09 THÁNG 12 NĂM 2024, NGHỊ QUYẾT SỐ 50/NQ-HĐND NGÀY 23 THÁNG 7 NĂM 2025, NGHỊ QUYẾT SỐ 51/NQ-HĐND NGÀY 23 THÁNG 7 NĂM 2025, NGHỊ QUYẾT SỐ 71/NQ - HĐND NGÀY 26 THÁNG 9 NĂM 2025 CỦA HỘI ĐỒNG NHÂN DÂN TỈNH"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "51/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "dự toán chi ngân sách cấp tỉnh; thu, chi ngân sách cấp xã năm 2025",
+    "evidence": "ĐIỀU CHỈNH DỰ TOÁN CHI NGÂN SÁCH CẤP TỈNH; THU, CHI NGÂN SÁCH CẤP XÃ NĂM 2025 ĐƯỢC GIAO TẠI NGHỊ QUYẾT SỐ 72/NQ-HĐND NGÀY 09 THÁNG 12 NĂM 2024, NGHỊ QUYẾT SỐ 50/NQ-HĐND NGÀY 23 THÁNG 7 NĂM 2025, NGHỊ QUYẾT SỐ 51/NQ-HĐND NGÀY 23 THÁNG 7 NĂM 2025, NGHỊ QUYẾT SỐ 71/NQ - HĐND NGÀY 26 THÁNG 9 NĂM 2025 CỦA HỘI ĐỒNG NHÂN DÂN TỈNH"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "71/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "dự toán chi ngân sách cấp tỉnh; thu, chi ngân sách cấp xã năm 2025",
+    "evidence": "ĐIỀU CHỈNH DỰ TOÁN CHI NGÂN SÁCH CẤP TỈNH; THU, CHI NGÂN SÁCH CẤP XÃ NĂM 2025 ĐƯỢC GIAO TẠI NGHỊ QUYẾT SỐ 72/NQ-HĐND NGÀY 09 THÁNG 12 NĂM 2024, NGHỊ QUYẾT SỐ 50/NQ-HĐND NGÀY 23 THÁNG 7 NĂM 2025, NGHỊ QUYẾT SỐ 51/NQ-HĐND NGÀY 23 THÁNG 7 NĂM 2025, NGHỊ QUYẾT SỐ 71/NQ - HĐND NGÀY 26 THÁNG 9 NĂM 2025 CỦA HỘI ĐỒNG NHÂN DÂN TỈNH"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "72/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "dự toán chi ngân sách cấp tỉnh",
+    "evidence": "Điều chỉnh giảm dự toán chi thực hiện các Chương trình mục tiêu quốc gia số kinh phí 17.497,407 triệu đồng. - Điều chỉnh tăng dự toán chi thường xuyên số kinh phí 3.030 triệu đồng."
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "50/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "dự toán chi ngân sách cấp tỉnh",
+    "evidence": "Điều chỉnh giảm dự toán chi thực hiện các Chương trình mục tiêu quốc gia số kinh phí 17.497,407 triệu đồng. - Điều chỉnh tăng dự toán chi thường xuyên số kinh phí 3.030 triệu đồng."
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "51/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "dự toán chi ngân sách cấp tỉnh",
+    "evidence": "Điều chỉnh giảm dự toán chi thực hiện các Chương trình mục tiêu quốc gia số kinh phí 17.497,407 triệu đồng. - Điều chỉnh tăng dự toán chi thường xuyên số kinh phí 3.030 triệu đồng."
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "71/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "dự toán chi ngân sách cấp tỉnh",
+    "evidence": "Điều chỉnh giảm dự toán chi thực hiện các Chương trình mục tiêu quốc gia số kinh phí 17.497,407 triệu đồng. - Điều chỉnh tăng dự toán chi thường xuyên số kinh phí 3.030 triệu đồng."
+   },
+   {
+    "source_path": "Điều 1 Khoản 2 điểm a",
+    "action": "sua-doi",
+    "target_document": "72/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "dự toán thu ngân sách cấp xã",
+    "evidence": "Điều chỉnh tăng dự toán thu bổ sung mục tiêu thực hiện các Chương trình mục tiêu quốc gia số kinh phí 17.497,407 triệu đồng. - Điều chỉnh giảm dự toán thu bổ sung cân đối số kinh phí 3.030 triệu đồng."
+   },
+   {
+    "source_path": "Điều 1 Khoản 2 điểm a",
+    "action": "sua-doi",
+    "target_document": "50/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "dự toán thu ngân sách cấp xã",
+    "evidence": "Điều chỉnh tăng dự toán thu bổ sung mục tiêu thực hiện các Chương trình mục tiêu quốc gia số kinh phí 17.497,407 triệu đồng. - Điều chỉnh giảm dự toán thu bổ sung cân đối số kinh phí 3.030 triệu đồng."
+   },
+   {
+    "source_path": "Điều 1 Khoản 2 điểm a",
+    "action": "sua-doi",
+    "target_document": "51/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "dự toán thu ngân sách cấp xã",
+    "evidence": "Điều chỉnh tăng dự toán thu bổ sung mục tiêu thực hiện các Chương trình mục tiêu quốc gia số kinh phí 17.497,407 triệu đồng. - Điều chỉnh giảm dự toán thu bổ sung cân đối số kinh phí 3.030 triệu đồng."
+   },
+   {
+    "source_path": "Điều 1 Khoản 2 điểm a",
+    "action": "sua-doi",
+    "target_document": "71/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "dự toán thu ngân sách cấp xã",
+    "evidence": "Điều chỉnh tăng dự toán thu bổ sung mục tiêu thực hiện các Chương trình mục tiêu quốc gia số kinh phí 17.497,407 triệu đồng. - Điều chỉnh giảm dự toán thu bổ sung cân đối số kinh phí 3.030 triệu đồng."
+   },
+   {
+    "source_path": "Điều 1 Khoản 2 điểm b",
+    "action": "sua-doi",
+    "target_document": "72/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "dự toán chi ngân sách cấp xã",
+    "evidence": "Điều chỉnh tăng dự toán chi thực hiện các Chương trình mục tiêu quốc gia số kinh phí 17.497,407 triệu đồng. - Điều chỉnh giảm dự toán chi thường xuyên số kinh phí 3.030 triệu đồng."
+   },
+   {
+    "source_path": "Điều 1 Khoản 2 điểm b",
+    "action": "sua-doi",
+    "target_document": "50/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "dự toán chi ngân sách cấp xã",
+    "evidence": "Điều chỉnh tăng dự toán chi thực hiện các Chương trình mục tiêu quốc gia số kinh phí 17.497,407 triệu đồng. - Điều chỉnh giảm dự toán chi thường xuyên số kinh phí 3.030 triệu đồng."
+   },
+   {
+    "source_path": "Điều 1 Khoản 2 điểm b",
+    "action": "sua-doi",
+    "target_document": "51/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "dự toán chi ngân sách cấp xã",
+    "evidence": "Điều chỉnh tăng dự toán chi thực hiện các Chương trình mục tiêu quốc gia số kinh phí 17.497,407 triệu đồng. - Điều chỉnh giảm dự toán chi thường xuyên số kinh phí 3.030 triệu đồng."
+   },
+   {
+    "source_path": "Điều 1 Khoản 2 điểm b",
+    "action": "sua-doi",
+    "target_document": "71/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "dự toán chi ngân sách cấp xã",
+    "evidence": "Điều chỉnh tăng dự toán chi thực hiện các Chương trình mục tiêu quốc gia số kinh phí 17.497,407 triệu đồng. - Điều chỉnh giảm dự toán chi thường xuyên số kinh phí 3.030 triệu đồng."
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 1 Khoản 3 điểm c",
+    "loai": "gop_sai",
+    "ghi_chu": "Điểm c gộp cả mục 3.1, 3.2 của khoản 3 và đoạn '2. Các nội dung không điều chỉnh…' (văn bản đánh số khoản 2 lặp lại sau khoản 3)."
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "loai": "gop_sai",
+    "ghi_chu": "Khoản 3 gộp đoạn '2. Các nội dung không điều chỉnh tại Nghị quyết này…' vốn là khoản riêng (đánh số lặp)."
+   },
+   {
+    "source_path": "Phụ lục",
+    "loai": "thieu_noi_dung",
+    "ghi_chu": "PHU_LUC chỉ có 6/8 biểu: thiếu Biểu số 01 và Biểu số 04, số thứ tự phụ lục lệch so với toàn văn."
+   }
+  ],
+  "ghi_chu": "'Điều chỉnh dự toán … được giao tại NQ 72, 50, 51, 71/NQ-HĐND' ghi là sua-doi vì quy ước không có nhãn điều chỉnh (không chắc). Tên Điều 1 nêu chung 4 NQ đích nên mỗi đơn vị điều chỉnh (Khoản 1; Khoản 2 điểm a, b) ghi đủ 4 đích; các biểu cấp xã chỉ đối chiếu NQ 51. Khoản 3 chỉ nêu tổng số sau điều chỉnh: không ghi. Tên các biểu là tên bảng: không ghi. 'Các nội dung không điều chỉnh … tiếp tục thực hiện theo' các NQ không phải hành động."
+ },
+ {
+  "doc_id": "689363",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 2 khoản 2 chỉ nêu QĐ 47/2021/QĐ-UBND và QĐ 75/2024/QĐ-UBND; câu thiếu vị ngữ (không có chữ hết hiệu lực, bãi bỏ hay thay thế) nên không đủ chữ để kết luận, không ghi quan hệ (nhiều khả năng là hết hiệu lực/bãi bỏ). Quy chế kèm theo không tác động lên văn bản khác."
+ },
+ {
+  "doc_id": "697601",
+  "relations": [
+   {
+    "source_path": "Điều 1",
+    "action": "bai-bo",
+    "target_document": "61/2004/QĐ-UB",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [
+     "toàn bộ"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 17 văn bản quy phạm pháp luật của Ủy ban nhân dân tỉnh Lai Châu, cụ thể:"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bai-bo",
+    "target_document": "62/2004/QĐ-UB",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [
+     "toàn bộ"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 17 văn bản quy phạm pháp luật của Ủy ban nhân dân tỉnh Lai Châu, cụ thể:"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bai-bo",
+    "target_document": "10/2007/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [
+     "toàn bộ"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 17 văn bản quy phạm pháp luật của Ủy ban nhân dân tỉnh Lai Châu, cụ thể:"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bai-bo",
+    "target_document": "35/2017/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [
+     "toàn bộ"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 17 văn bản quy phạm pháp luật của Ủy ban nhân dân tỉnh Lai Châu, cụ thể:"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bai-bo",
+    "target_document": "39/2017/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [
+     "toàn bộ"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 17 văn bản quy phạm pháp luật của Ủy ban nhân dân tỉnh Lai Châu, cụ thể:"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bai-bo",
+    "target_document": "48/2017/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [
+     "toàn bộ"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 17 văn bản quy phạm pháp luật của Ủy ban nhân dân tỉnh Lai Châu, cụ thể:"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bai-bo",
+    "target_document": "27/2018/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [
+     "toàn bộ"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 17 văn bản quy phạm pháp luật của Ủy ban nhân dân tỉnh Lai Châu, cụ thể:"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bai-bo",
+    "target_document": "43/2020/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [
+     "toàn bộ"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 17 văn bản quy phạm pháp luật của Ủy ban nhân dân tỉnh Lai Châu, cụ thể:"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bai-bo",
+    "target_document": "45/2020/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [
+     "toàn bộ"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 17 văn bản quy phạm pháp luật của Ủy ban nhân dân tỉnh Lai Châu, cụ thể:"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bai-bo",
+    "target_document": "25/2021/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [
+     "toàn bộ"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 17 văn bản quy phạm pháp luật của Ủy ban nhân dân tỉnh Lai Châu, cụ thể:"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bai-bo",
+    "target_document": "42/2022/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [
+     "toàn bộ"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 17 văn bản quy phạm pháp luật của Ủy ban nhân dân tỉnh Lai Châu, cụ thể:"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bai-bo",
+    "target_document": "51/2022/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [
+     "toàn bộ"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 17 văn bản quy phạm pháp luật của Ủy ban nhân dân tỉnh Lai Châu, cụ thể:"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bai-bo",
+    "target_document": "12/2024/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [
+     "toàn bộ"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 17 văn bản quy phạm pháp luật của Ủy ban nhân dân tỉnh Lai Châu, cụ thể:"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bai-bo",
+    "target_document": "46/2024/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [
+     "toàn bộ"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 17 văn bản quy phạm pháp luật của Ủy ban nhân dân tỉnh Lai Châu, cụ thể:"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bai-bo",
+    "target_document": "41/2025/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [
+     "toàn bộ"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 17 văn bản quy phạm pháp luật của Ủy ban nhân dân tỉnh Lai Châu, cụ thể:"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bai-bo",
+    "target_document": "03/2010/CT-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [
+     "toàn bộ"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 17 văn bản quy phạm pháp luật của Ủy ban nhân dân tỉnh Lai Châu, cụ thể:"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bai-bo",
+    "target_document": "01/2013/CT-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [
+     "toàn bộ"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 17 văn bản quy phạm pháp luật của Ủy ban nhân dân tỉnh Lai Châu, cụ thể:"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên và lời dẫn không nêu số hiệu văn bản đích nên không có quan hệ Phần đầu. Chữ hành động ở câu dẫn Điều 1, văn bản đích liệt kê ở khoản 1-17 (khoản 3-6, 8-17 không có trong DON_VI): 17 quan hệ Điều 1. QĐ 62/2017/QĐ-UBND trong tên QĐ 27/2018/QĐ-UBND không phải đích."
+ },
+ {
+  "doc_id": "684039",
+  "relations": [],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 4",
+    "loai": "tach_sai",
+    "ghi_chu": "Điều 4 không có tên; câu trách nhiệm thi hành bị nhận làm ten_dieu, noi_dung chỉ còn câu hiệu lực."
+   }
+  ],
+  "ghi_chu": "'hợp nhất' là hợp nhất hai Trung tâm (tổ chức), không phải văn bản; 'bãi bỏ các quy định trước đây trái với Quyết định này' là câu chung, không nêu văn bản."
+ },
+ {
+  "doc_id": "679068",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công bố danh mục TTHC mới, sửa đổi, bổ sung; dòng bảng không nêu quyết định đã công bố TTHC; văn bản ở cột Căn cứ pháp lý không phải đích."
+ }
+]

@@ -1,0 +1,44 @@
+[
+ {
+  "doc_id": "689577",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Kế hoạch PCTNTC năm 2026, không chia Điều. Chỉ có căn cứ, trích dẫn và nhiệm vụ (tham mưu UBND tỉnh sửa đổi, bổ sung; đề xuất, kiến nghị bãi bỏ, sửa đổi, bổ sung; hướng dẫn, đôn đốc): không có tác động trực tiếp. noi_dung Mục II, Mục III trong DON_VI bị cắt ở 6000 ký tự (giới hạn hiển thị, không phải lỗi tách); đã đọc đủ TOAN_VAN."
+ },
+ {
+  "doc_id": "689663",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Kế hoạch thực hiện Chương trình quốc gia SDNLTKHQ 2026-2030, không chia Điều. QĐ 389/QĐ-UBND, QĐ 1093/QĐ-UBND chỉ là căn cứ; văn bản không nói thay thế Kế hoạch kèm theo QĐ 389/QĐ-UBND. Câu cuối 'đề xuất UBND tỉnh để sửa đổi, bổ sung' nói về chính Kế hoạch này. Không có tác động trực tiếp. noi_dung Mục III, Mục V trong DON_VI bị cắt ở 6000 ký tự (giới hạn hiển thị); đã đọc đủ TOAN_VAN."
+ },
+ {
+  "doc_id": "683930",
+  "relations": [
+   {
+    "source_path": "Điều 10 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "14/2025/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 1",
+     "Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Các quy định tại Điều 1, Điều 2 và Quy định ban hành kèm theo Nghị quyết số 14/2025/NQ-HĐND ngày 25 tháng 7 năm 2025 của Hội đồng nhân dân thành phố ban hành Quy định phân cấp nguồn thu, nhiệm vụ chi và tỷ lệ phần trăm (%) phân chia các khoản thu giữa ngân sách các cấp chính quyền địa phương thành phố Hải Phòng; sửa đổi, bổ sung quy định các nguyên tắc, tiêu chí và định mức phân bổ dự toán chi thường xuyên và vốn đầu tư công ngân sách địa phương năm 2025 sau khi sắp xếp đơn vị hành chính các cấp và thực hiện chính quyền địa phương 02 cấp hết hiệu lực kể từ ngày Nghị quyết này có hiệu lực thi hành."
+   },
+   {
+    "source_path": "Điều 10 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "14/2025/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "toàn bộ"
+    ],
+    "doi_tuong": null,
+    "evidence": "Các quy định tại Điều 1, Điều 2 và Quy định ban hành kèm theo Nghị quyết số 14/2025/NQ-HĐND ngày 25 tháng 7 năm 2025 của Hội đồng nhân dân thành phố ban hành Quy định phân cấp nguồn thu, nhiệm vụ chi và tỷ lệ phần trăm (%) phân chia các khoản thu giữa ngân sách các cấp chính quyền địa phương thành phố Hải Phòng; sửa đổi, bổ sung quy định các nguyên tắc, tiêu chí và định mức phân bổ dự toán chi thường xuyên và vốn đầu tư công ngân sách địa phương năm 2025 sau khi sắp xếp đơn vị hành chính các cấp và thực hiện chính quyền địa phương 02 cấp hết hiệu lực kể từ ngày Nghị quyết này có hiệu lực thi hành."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 10 khoản 2 tự tuyên bố Điều 1, Điều 2 và Quy định ban hành kèm theo NQ 14/2025/NQ-HĐND hết hiệu lực từ ngày Nghị quyết này có hiệu lực: bai-bo. Tách 2 quan hệ vì vị trí thuộc 2 phần: Điều 1, Điều 2 của chính Nghị quyết 14/2025 (quyet_dinh; chữ 'và' trước 'Quy định ban hành kèm theo' cho thấy Điều 1, Điều 2 không thuộc Quy định) và toàn bộ Quy định kèm theo (kem_theo). Căn cứ 'Luật số 64/2025/QH15 được sửa đổi, bổ sung bởi Luật số 87/2025/QH15' là lịch sử, không ghi. Phụ lục là bảng tỷ lệ phân chia, không có hành động."
+ }
+]

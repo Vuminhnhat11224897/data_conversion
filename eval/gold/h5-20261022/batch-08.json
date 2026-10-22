@@ -1,0 +1,42 @@
+[
+ {
+  "doc_id": "692762",
+  "relations": [
+   {
+    "source_path": "Điều 3",
+    "action": "bai-bo",
+    "target_document": "968/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "thủ tục hành chính mã số 1.001978, 1.001973, 1.001966, 2.001953, 2.000178, 1.000401, 2.000839, 2.000148, 1.000362, 1.001881",
+    "evidence": "Bãi bỏ thủ tục hành chính mã số 1.001978, 1.001973, 1.001966, 2.001953, 2.000178, 1.000401, 2.000839, 2.000148, 1.000362, 1.001881 tại Quyết định số 968/QĐ-UBND ngày 10 tháng 4 năm 2025 của Chủ tịch UBND thành phố Huế về việc Công bố danh mục thủ tục hành chính được sửa đổi, bổ sung trong lĩnh vực Việc làm thuộc thẩm quyền giải quyết của Sở Nội vụ."
+   },
+   {
+    "source_path": "Điều 3",
+    "action": "bai-bo",
+    "target_document": "2825/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "Quy trình giải quyết thủ tục hành chính mã số 1.001978, 1.001973, 1.001966, 2.001953, 2.000178, 1.000401, 2.000839, 2.000148, 1.000362, 1.001881",
+    "evidence": "Bãi bỏ Quy trình giải quyết thủ tục hành chính mã số 1.001978, 1.001973, 1.001966, 2.001953, 2.000178, 1.000401, 2.000839, 2.000148, 1.000362, 1.001881 tại Quyết định số 2825/QĐ-UBND ngày 05 tháng 9 năm 2025 của Chủ tịch UBND thành phố Huế về việc phê duyệt quy trình giải quyết thủ tục hành chính trong lĩnh vực Nội vụ thực hiện tiếp nhận, trả kết quả không phụ thuộc vào địa giới hành chính tại Bộ phận Một cửa các cấp thuộc phạm vi, chức năng quản lý nhà nước của Sở Nội vụ."
+   },
+   {
+    "source_path": "Phụ lục 1 Mục II STT 1",
+    "action": "bai-bo",
+    "target_document": "315/QĐ-BNV",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "Giải quyết hưởng trợ cấp thất nghiệp",
+    "evidence": "1. | 1.001978 | Giải quyết hưởng trợ cấp thất nghiệp | Quyết định số 315/QĐ-BNV ngày 04/4/2025 của Bộ trưởng Bộ Nội vụ về việc công bố thủ tục hành chính được sửa đổi, bổ sung lĩnh vực việc làm thuộc phạm vi chức năng quản lý của Bộ Nội vụ"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên văn bản không nêu văn bản đích: không có quan hệ Phần đầu. Điều 1 (công bố danh mục TTHC bị bãi bỏ) không là hành động. Phụ lục 1 Mục II (DANH MỤC TTHC BỊ BÃI BỎ): chỉ dòng STT 1 ghi Quyết định công bố 315/QĐ-BNV; dòng STT 2-10 để trống cột này (có thể là ô gộp với dòng 1) nên không ghi quan hệ. 315/QĐ-BNV là quyết định của Bộ Nội vụ (cấp trên): ghi theo quy tắc dòng bảng, cần xem lại. Nghị định 374/2025/NĐ-CP ở cột căn cứ pháp lý không là đích."
+ },
+ {
+  "doc_id": "677019",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn chỉ đạo triển khai nhiệm vụ năm học, không tác động lên văn bản khác. 'cho đến khi có Quy chế phối hợp mới thay thế' (Mục I) là việc sẽ làm, không là hành động. 'nội dung hướng dẫn tại Phụ lục…' chỉ phụ lục của chính công văn. Các Thông tư, Nghị định, Quyết định, công văn được nêu để thực hiện hoặc làm căn cứ, không phải hướng dẫn, sửa đổi hay bãi bỏ."
+ }
+]

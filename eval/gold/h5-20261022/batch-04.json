@@ -1,0 +1,149 @@
+[
+ {
+  "doc_id": "679551",
+  "relations": [
+   {
+    "source_path": "Mục IV",
+    "action": "thay-the",
+    "target_document": "101/KH-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Kế hoạch này thay thế Kế hoạch số 101/KH-UBND ngày 14/4/2021 của UBND Thành phố Hà Nội triển khai thực hiện Công văn số 1676/TTg-NC ngày 30/11/2020 của Thủ tướng Chính phủ về \"Tăng cường các biện pháp phòng ngừa tội phạm giết người\" trên địa bàn Thành phố Hà Nội."
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Mục IV",
+    "loai": "thieu_noi_dung",
+    "ghi_chu": "Mục IV (TỔ CHỨC THỰC HIỆN) có câu 'Kế hoạch này thay thế Kế hoạch số 101/KH-UBND…' nhưng không có trong DON_VI. Parser làm mất Mục IV hoặc gộp Mục IV vào Mục III."
+   }
+  ],
+  "ghi_chu": "source_path 'Mục IV' ghi theo toàn văn. noi_dung Mục III trong gói bị cắt ở khoảng 6000 ký tự, nên không kiểm được Mục IV có bị gộp vào Mục III hay không. Không ghi: 'Chỉ thị số 46-CT/TU … thay thế Chỉ thị số 22-CT/TU' (hành động của văn bản khác); Sở Tư pháp 'đề xuất sửa đổi, bổ sung' (nhiệm vụ); Nghị định 49/2020/NĐ-CP, Quyết định 99/QĐ-UBND, Công văn 1676/TTg-NC (dẫn chiếu, thực hiện)."
+ },
+ {
+  "doc_id": "688854",
+  "relations": [
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "huong-dan",
+    "target_document": "170/2025/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 20"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thông tư này hướng dẫn xếp lương đối với người được tuyển dụng vào công chức đã có thời gian công tác có đóng bảo hiểm xã hội bắt buộc quy định tại Điều 20 Nghị định số 170/2025/NĐ-CP ngày 30 tháng 6 năm 2025 của Chính phủ quy định về tuyển dụng, sử dụng và quản lý công chức."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 1 Khoản 1 hướng dẫn nội dung quy định tại Điều 20 Nghị định 170/2025/NĐ-CP. Tên và lời dẫn không nêu văn bản đích nên không ghi Phần đầu. Không ghi: 'được sửa đổi, bổ sung tại Nghị định số 76/2009/NĐ-CP …' ở Điều 3 (lịch sử); 'thực hiện theo hướng dẫn tại khoản 6, khoản 7 Mục III Thông tư số 79/2005/TT-BNV' ở Điều 4 (dẫn chiếu); Điều 1 Khoản 2 nêu Luật 80/2025/QH15 (đối tượng áp dụng)."
+ },
+ {
+  "doc_id": "680280",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Không có tác động lên văn bản khác. Thông tư 32/2020/TT-BGDĐT, Nghị quyết 190/2025/QH15 chỉ là dẫn chiếu."
+ },
+ {
+  "doc_id": "686574",
+  "relations": [],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 1 Khoản 1 điểm c",
+    "loai": "gop_sai",
+    "ghi_chu": "noi_dung điểm c gộp cả tiểu mục 1.2 (Số lượng vị trí đất) của khoản 1; 1.2 không thuộc điểm c."
+   },
+   {
+    "source_path": "Điều 1 Khoản 3 điểm d",
+    "loai": "gop_sai",
+    "ghi_chu": "noi_dung điểm d gộp cả tiểu mục 3.2, 3.3, 3.4 của khoản 3; các tiểu mục này không thuộc điểm d."
+   }
+  ],
+  "ghi_chu": "Không có quan hệ. Điều 3 Khoản 2 'Các Nghị quyết trước đây của Hội đồng nhân dân tỉnh Thanh Hóa quy định về bảng giá đất sẽ được áp dụng đến hết ngày 31 tháng 12 năm 2025' không nêu số hiệu văn bản nào. Các Phụ lục I-IX (bảng giá) là file đính kèm, không có trong toàn văn của gói."
+ },
+ {
+  "doc_id": "695329",
+  "relations": [
+   {
+    "source_path": "Điều 5 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "17/2020/TT-BGTVT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ Thông tư số 17/2020/TT-BGTVT ngày 14 tháng 08 năm 2020 của Bộ trưởng Bộ Giao thông vận tải công bố vùng nước cảng biển thuộc địa phận các tỉnh Kiên Giang, Cà Mau, Bạc Liêu và khu vực quản lý của Cảng vụ Hàng hải Kiên Giang và Thông tư số 05/2016/TT-BGTVT ngày 04 tháng 04 năm 2016 của Bộ trưởng Bộ Giao thông vận tải công bố vùng nước cảng biển thuộc địa phận các tỉnh An Giang và khu vực quản lý của Cảng vụ Hàng hải An Giang."
+   },
+   {
+    "source_path": "Điều 5 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "05/2016/TT-BGTVT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ Thông tư số 17/2020/TT-BGTVT ngày 14 tháng 08 năm 2020 của Bộ trưởng Bộ Giao thông vận tải công bố vùng nước cảng biển thuộc địa phận các tỉnh Kiên Giang, Cà Mau, Bạc Liêu và khu vực quản lý của Cảng vụ Hàng hải Kiên Giang và Thông tư số 05/2016/TT-BGTVT ngày 04 tháng 04 năm 2016 của Bộ trưởng Bộ Giao thông vận tải công bố vùng nước cảng biển thuộc địa phận các tỉnh An Giang và khu vực quản lý của Cảng vụ Hàng hải An Giang."
+   },
+   {
+    "source_path": "Điều 5 Khoản 3",
+    "action": "bai-bo",
+    "target_document": "32/2019/TT-BGTVT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục"
+    ],
+    "doi_tuong": "số thứ tự số 24, 25 tại Phụ lục Danh mục khu vực hàng hải thuộc phạm vi quản lý của Cảng vụ hàng hải",
+    "evidence": "Bãi bỏ số thứ tự số 24, 25 tại Phụ lục Danh mục khu vực hàng hải thuộc phạm vi quản lý của Cảng vụ hàng hải được ban hành kèm theo Thông tư số 32/2019/TT-BGTVT ngày 04 tháng 9 năm 2019 của Bộ trưởng Bộ Giao thông vận tải công bố Danh mục khu vực hàng hải thuộc phạm vi quản lý của Cảng vụ hàng hải."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Phụ lục của Thông tư 32/2019/TT-BGTVT không có số: vi_tri ghi 'Phụ lục', dòng STT 24, 25 ghi ở doi_tuong (cũng chấp nhận vi_tri rỗng). Phụ lục của văn bản này (bảng chuyển đổi tọa độ) không có hành động."
+ },
+ {
+  "doc_id": "683477",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Không có tác động lên văn bản khác. Thông tư 32/2020/TT-BGDĐT, Nghị quyết 190/2025/QH15 chỉ là dẫn chiếu."
+ },
+ {
+  "doc_id": "676620",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn giới thiệu điểm mới của Luật Thuế thu nhập doanh nghiệp 67/2025/QH15. Các câu 'Bổ sung …', 'Sửa đổi, bổ sung …', 'Thay đổi …' kể lại nội dung của Luật, không phải hành động của công văn. Không có quan hệ."
+ },
+ {
+  "doc_id": "680445",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Không có quan hệ. Điều 3 Khoản 5 'đề xuất sửa đổi, bổ sung, ban hành mới hoặc bãi bỏ các quy định không còn phù hợp' là giao nhiệm vụ, không nêu văn bản đích. Quyết định 970/QĐ-TTg chỉ là căn cứ."
+ },
+ {
+  "doc_id": "679643",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Không có tác động lên văn bản khác. Thông tư 32/2020/TT-BGDĐT, Nghị quyết 190/2025/QH15 chỉ là dẫn chiếu."
+ },
+ {
+  "doc_id": "689495",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn truyền đạt ý kiến chỉ đạo; không có tác động lên văn bản khác."
+ },
+ {
+  "doc_id": "684336",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Không có quan hệ. 'Triển khai thực hiện Luật Du lịch 2017, Nghị định số 168/2017/NĐ-CP …, Quyết định số 1177/QĐ-BVHTTDL …' là thực hiện văn bản khác, không phải hướng dẫn hoặc sửa đổi."
+ },
+ {
+  "doc_id": "694203",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Không có quan hệ. Phụ lục, dòng STT 3 Mục IV: 'Quyết định của UBND tỉnh ban hành quy chế … thay thế Quyết định số 22/2024/QĐ-UBND … (nếu có)' là nhiệm vụ xây dựng văn bản khác sau này, không phải hành động của Kế hoạch này."
+ },
+ {
+  "doc_id": "693928",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn truyền đạt ý kiến chỉ đạo; không có tác động lên văn bản khác."
+ }
+]

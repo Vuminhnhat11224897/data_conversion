@@ -1,0 +1,84 @@
+[
+ {
+  "doc_id": "682821",
+  "relations": [
+   {
+    "source_path": "Điều 38 Khoản 2 điểm a",
+    "action": "bai-bo",
+    "target_document": "08/2021/TT-NHNN",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 11",
+     "Điều 14",
+     "Điều 18",
+     "điểm b khoản 1 Điều 27",
+     "khoản 4 Điều 27"
+    ],
+    "doi_tuong": null,
+    "evidence": "Khoản 1 Điều 11, Điều 14, Điều 18, điểm b khoản 1 và khoản 4 Điều 27 Thông tư số 08/2021/TT-NHNN ngày 06 tháng 7 năm 2021 của Thống đốc Ngân hàng Nhà nước Việt Nam quy định về cho vay đặc biệt đối với tổ chức tín dụng được kiểm soát đặc biệt được sửa đổi, bổ sung bởi Thông tư số 02/2022/TT-NHNN ngày 31 tháng 3 năm 2022 và Thông tư số 13/2022/TT-NHNN ngày 28 tháng 10 năm 2022;"
+   },
+   {
+    "source_path": "Điều 38 Khoản 2 điểm b",
+    "action": "bai-bo",
+    "target_document": "37/2024/TT-NHNN",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thông tư số 37/2024/TT-NHNN ngày 30 tháng 6 năm 2024 của Thống đốc Ngân hàng Nhà nước Việt Nam quy định về cho vay đặc biệt."
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 9 Khoản 1",
+    "loai": "gop_sai",
+    "ghi_chu": "Câu đầu khoản 2 mất trong đoạn bị cắt. Phần 'Hồ sơ đề nghị bao gồm: a)… b)…' của khoản 2 bị gộp vào khoản 1; 'Điều 9 Khoản 1 điểm a, điểm b' thực ra là điểm a, b khoản 2 (khoản 3 dẫn 'hồ sơ đề nghị quy định tại khoản 2')."
+   },
+   {
+    "source_path": "Điều 11 Khoản 2",
+    "loai": "gop_sai",
+    "ghi_chu": "Tiêu đề Điều 12 (thời hạn cho vay đặc biệt) mất trong đoạn bị cắt. Khoản 1, 2 Điều 12 bị gán vào Điều 11 (Điều 37 dẫn 'khoản 2 Điều 12' cho thời gian gia hạn)."
+   },
+   {
+    "source_path": "Điều 17 Khoản 3",
+    "loai": "gop_sai",
+    "ghi_chu": "Câu dẫn khoản 4 mất trong đoạn bị cắt. Điểm a, b của khoản 4 (tiền vay sử dụng không đúng mục đích, tiền lãi) bị gộp vào cuối khoản 3."
+   },
+   {
+    "source_path": "Điều 22 Khoản 2",
+    "loai": "gop_sai",
+    "ghi_chu": "Tiêu đề Điều 23 (Lãi suất) mất trong đoạn bị cắt. Khoản 1, 2 Điều 23 bị gộp vào Điều 22 Khoản 2; khoản 3 Điều 23 thành 'Điều 22 Khoản 3'."
+   },
+   {
+    "source_path": "Điều 25",
+    "loai": "gop_sai",
+    "ghi_chu": "Tiêu đề Điều 26 (trả nợ vay đặc biệt) mất trong đoạn bị cắt. Khoản 1-6 Điều 26 bị gán thành 'Điều 25 Khoản 1-6' (Điều 33, Điều 35 và mẫu hợp đồng Phụ lục V dẫn 'khoản 6 Điều 26')."
+   },
+   {
+    "source_path": "Điều 30 Khoản 1",
+    "loai": "gop_sai",
+    "ghi_chu": "Dòng 'Chương IV' mất trong đoạn bị cắt. Tên chương 'VIỆC CHO VAY ĐẶC BIỆT CỦA TỔ CHỨC TÍN DỤNG KHÁC' bị gộp vào cuối Điều 29 Khoản 3; ten_dieu của Điều 30, Điều 31 ghi sai là Chương III."
+   },
+   {
+    "source_path": "Điều 37 Khoản 3",
+    "loai": "gop_sai",
+    "ghi_chu": "Câu dẫn khoản 4 mất trong đoạn bị cắt. Điểm a, b, c của khoản 4 bị gộp vào khoản 3; không có đơn vị Điều 37 Khoản 4 (khoản 5-7 dẫn 'khoản 4 Điều này')."
+   },
+   {
+    "source_path": "Phụ lục 3",
+    "loai": "gop_sai",
+    "ghi_chu": "Phụ lục IIIB không có trong PHU_LUC; nội dung Phụ lục IIIB bị gộp vào Phụ lục IIIA (so 3)."
+   },
+   {
+    "source_path": "Phụ lục 5",
+    "loai": "tach_sai",
+    "ghi_chu": "Phụ lục V bị tách làm 2: so 5 chỉ có dòng 'Phụ lục V'; so 6 có dòng '(Ban hành kèm theo…)' và các mẫu hợp đồng."
+   },
+   {
+    "source_path": "Phụ lục 6 Điều 8 Khoản 4",
+    "loai": "gop_sai",
+    "ghi_chu": "Mẫu hợp đồng Phần II bị gộp vào Điều 8 của mẫu Phần I. 'Điều 8 Khoản 4' thực ra là khoản 4 Điều 5 của mẫu hợp đồng Phần II."
+   }
+  ],
+  "ghi_chu": "Văn bản nguồn bị cắt nhiều đoạn ('...' và 'Hãy đăng nhập hoặc đăng ký Thành viên Pro…'): mất tiêu đề Điều 1, 12, 23, 26, dòng Chương IV và nội dung một số khoản (ví dụ khoản 1 Điều 37). Đoạn bị cắt có thể chứa tác động khác; không đoán. Trong phần còn lại, chỉ Điều 38 khoản 2 có tác động: câu dẫn 'Kể từ ngày Thông tư này có hiệu lực thi hành, các Thông tư sau hết hiệu lực thi hành:' do văn bản này tuyên bố, nên là bai-bo; ghi ở điểm a, điểm b vì điểm nêu văn bản đích. Cụm 'được sửa đổi, bổ sung bởi Thông tư số 02/2022/TT-NHNN … và Thông tư số 13/2022/TT-NHNN …' là ghi chú lịch sử, không ghi quan hệ. Không ghi: căn cứ (Luật 32/2024/QH15, 43/2024/QH15, 96/2025/QH15, Nghị định 26/2025/NĐ-CP); dẫn chiếu Luật số 17/2017/QH14, Nghị quyết 02/NQ-CP; thủ tục sửa đổi, bổ sung Quyết định cho vay đặc biệt và gia hạn thời hạn cho vay (Điều 9, 19, 36, 37) vì không nêu văn bản đích cụ thể; giao nhiệm vụ hướng dẫn hạch toán (khoản 6 Điều 36); mẫu biểu, mẫu hợp đồng ở các phụ lục. Tên văn bản và lời dẫn chỉ mô tả nội dung, không có quan hệ Phần đầu."
+ }
+]

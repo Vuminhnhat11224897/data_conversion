@@ -1,0 +1,64 @@
+[
+ {
+  "doc_id": "695335",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "hop-nhat",
+    "target_document": "10/2014/UBTVQH13",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Pháp lệnh Cảnh sát môi trường số 10/2014/UBTVQH13 ngày 23 tháng 12 năm 2014 của Ủy ban Thường vụ Quốc hội, có hiệu lực kể từ ngày 05 tháng 6 năm 2015, được sửa đổi, bổ sung bởi:"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Văn bản hợp nhất Pháp lệnh Cảnh sát phòng, chống tội phạm về môi trường. Phần đầu chỉ kể lịch sử: Pháp lệnh 10/2014/UBTVQH13 'được sửa đổi, bổ sung bởi' Pháp lệnh 09/2025/UBTVQH15. Chú thích [1]-[44] ('được thay thế', 'được sửa đổi, bổ sung theo quy định tại ... 09/2025/UBTVQH15') là lịch sử; chú thích [2], [44] trích lời dẫn và Điều 2 của 09/2025/UBTVQH15. Tên in trong toàn văn chỉ là tên Pháp lệnh, không nêu văn bản đích; chữ 'hợp nhất' chỉ có ở 'XÁC THỰC VĂN BẢN HỢP NHẤT' và ở TEN (không dùng). Điều 19 'Chính phủ ... quy định chi tiết' là giao nhiệm vụ. Không ghi quan hệ. Không chắc: nếu quy ước tính hop-nhat cho văn bản hợp nhất thì đích là 10/2014/UBTVQH13 và 09/2025/UBTVQH15, source_path Phần đầu. [21/10: thêm hop-nhat lên văn bản gốc theo quy ước đã chốt cho văn bản hợp nhất (eval.score.normalize_gold), trước khi khóa.]"
+ },
+ {
+  "doc_id": "677115",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn trả lời vướng mắc của doanh nghiệp. Chỉ trích dẫn căn cứ: Luật 107/2016/QH13, Nghị định 134/2016/NĐ-CP (sửa đổi, bổ sung tại 18/2021/NĐ-CP), Quyết định 3453/QĐ-BCT. Trích yếu 'trả lời vướng mắc về việc áp dụng ... theo Quyết định số 3453/QĐ-BCT' không nói hướng dẫn, sửa đổi hay thay thế văn bản đó. 'để được hướng dẫn cụ thể' là đề nghị liên hệ cơ quan hải quan. Không có tác động trực tiếp."
+ },
+ {
+  "doc_id": "690443",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quyết định ban hành nhiệm vụ, giải pháp phát triển kinh tế - xã hội năm 2026 của tỉnh Quảng Ngãi. Không có tác động lên văn bản khác. Phụ lục 2 dòng 64 ('đề xuất sửa đổi, bổ sung, hoàn thiện Pháp lệnh Ưu đãi người có công') và dòng 68 ('sửa đổi, bổ sung, thay thế các quyết định của UBND tỉnh') là giao nhiệm vụ, không nêu văn bản cụ thể: không phải quan hệ. Các Kế hoạch, Nghị quyết, Quyết định 18/QĐ-UBND ở Phụ lục 2 chỉ được nêu để tiếp tục thực hiện."
+ },
+ {
+  "doc_id": "697172",
+  "relations": [],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 1 Khoản 5 điểm o",
+    "loai": "gop_sai",
+    "ghi_chu": "Điểm 'р) Chương trình và dự án ưu tiên' (chữ р là ký tự Kirin) không được tách, bị gộp vào điểm o."
+   },
+   {
+    "source_path": "Điều 1 Khoản 6 điểm b",
+    "loai": "gop_sai",
+    "ghi_chu": "Điểm 'с) Hạ tầng giao thông và đầu mối đa phương thức' (chữ с là ký tự Kirin) không được tách, bị gộp vào điểm b; Khoản 6 không có điểm c."
+   }
+  ],
+  "ghi_chu": "Quyết định phê duyệt Nhiệm vụ Quy hoạch chung thành phố Hải Phòng đến năm 2050. Không có tác động lên văn bản khác. Các văn bản nêu ở khoản 7, 8, 9, 10 Điều 1 (16/2025/TT-BXD, 43/2025/TT-BXD, 178/2025/NĐ-CP, 34/2026/NĐ-CP, Luật 47/2024/QH15, 144/2025/QH15, 06/2013/TT-BXD, 16/2013/TT-BXD) chỉ là dẫn chiếu, căn cứ."
+ },
+ {
+  "doc_id": "687409",
+  "relations": [],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "loai": "gop_sai",
+    "ghi_chu": "Điều 1 chia mục I (Nội dung) và II (Nhiệm vụ, giải pháp), mỗi mục đánh số lại từ 1. Khoản 3 (I.3 Kiến trúc Chính quyền số) chứa luôn đề mục II, II.1 Sở Khoa học và Công nghệ, II.2 Các sở, ban, ngành và UBND cấp xã, II.3 Giải pháp về nguồn nhân lực. Điểm e, m, o gán cho Khoản 3 thật ra thuộc II.1. Khoản 4, Khoản 5 là II.4, II.5."
+   },
+   {
+    "source_path": "Điều 1 Khoản 3 điểm c",
+    "loai": "gop_sai",
+    "ghi_chu": "Điểm c (Cơ sở dữ liệu kết nối) chứa luôn đề mục II và điểm a, b, c của mục II.1."
+   }
+  ],
+  "ghi_chu": "Quyết định phê duyệt Khung kiến trúc số thành phố Huế. Không có tác động lên văn bản khác. Quyết định 3090/QĐ-BKHCN và các văn bản ở phần căn cứ chỉ được dẫn chiếu. Mục II chỉ giao nhiệm vụ xây dựng văn bản. Toàn văn thiếu các sơ đồ và file đính kèm; danh sách sau 'CSDL của nghiệp vụ, ứng dụng chuyên ngành đặc thù cấp xã gồm:' bị trống."
+ }
+]

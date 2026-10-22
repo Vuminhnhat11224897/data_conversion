@@ -1,0 +1,254 @@
+[
+ {
+  "doc_id": "683731",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Kế hoạch, không có tác động lên văn bản khác. \"Triển khai Quyết định số 991/QĐ-TTg ..., Quyết định số 1189/QĐ-TTg ...\" là căn cứ triển khai, không phải quan hệ. noi_dung của Mục IV và Mục VI trong DON_VI bị cắt ở đúng 6000 ký tự (giới hạn của gói, không phải lỗi parser); đã đọc toàn văn, phần bị cắt không có tác động."
+ },
+ {
+  "doc_id": "683548",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công bố danh mục TTHC mới, không có tác động. \"theo hướng dẫn tại Quyết định số 3574/QĐ-BYT\" là dẫn chiếu. Văn bản ở cột Căn cứ pháp lý không phải đích."
+ },
+ {
+  "doc_id": "686969",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "hop-nhat",
+    "target_document": "06/2019/TT-BNNPTNT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thông tư số 06/2019/TT-BNNPTNT ngày 19 tháng 7 năm 2019 của Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn quy định hoạt động đặc thù, chế độ báo cáo của hợp tác xã nông nghiệp và trách nhiệm quản lý nhà nước các cấp đối với hợp tác xã nông nghiệp được sửa đổi, bổ sung bởi:"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "hop-nhat",
+    "target_document": "13/2025/TT-BNNMT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thông tư số 13/2025/TT-BNNMT ngày 19 tháng 6 năm 2025 của Bộ trưởng Bộ Nông nghiệp và Môi trường quy định phân định thẩm quyền quản lý nhà nước trong lĩnh vực kinh tế hợp tác và phát triển nông thôn và lĩnh vực giảm nghèo."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Văn bản hợp nhất: 2 quan hệ hop-nhat từ câu phần đầu nêu văn bản gốc 06/2019/TT-BNNPTNT và văn bản sửa đổi 13/2025/TT-BNNMT. KHÔNG CHẮC: tên in trong toàn văn không có chữ \"hợp nhất\" (chỉ dòng TEN và chữ ký \"XÁC THỰC VĂN BẢN HỢP NHẤT\" có); nếu quy ước không tính hop-nhat từ câu phần đầu này thì bỏ 2 quan hệ. Câu \"được sửa đổi, bổ sung bởi\" và chú thích [2]-[14] là lịch sử sửa đổi do Thông tư 13/2025 thực hiện: không ghi sua-doi, bai-bo, thay-cum-tu. Điều 8 khoản 2, 3 không phải hành động."
+ },
+ {
+  "doc_id": "680641",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quy định chức năng, nhiệm vụ của trường, không có tác động. Thông tư 32/2020/TT-BGDĐT và Nghị quyết 190/2025/QH15 chỉ được dẫn chiếu."
+ },
+ {
+  "doc_id": "683549",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công bố danh mục TTHC được sửa đổi, bổ sung. Dòng bảng chỉ nêu Thông tư 44/2025/TT-BYT ở cột \"Tên Văn bản QPPL quy định nội dung sửa đổi, bổ sung, thay thế\" (văn bản nguồn, như căn cứ pháp lý), không nêu Quyết định đã công bố TTHC trước đó: không ghi quan hệ."
+ },
+ {
+  "doc_id": "682034",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn trả lời doanh nghiệp, không có tác động. Chỉ dẫn chiếu Điều 76 Thông tư 38/2015/TT-BTC (\"được sửa đổi, bổ sung tại\" Thông tư 39/2018/TT-BTC là lịch sử) và Quyết định 1357/QĐ-TCHQ. \"V/v hướng dẫn thủ tục hải quan\" không nêu văn bản đích."
+ },
+ {
+  "doc_id": "695514",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "652/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực thi hành kể từ ngày ký; thay thế Quyết định số 652/QĐ-UBND ngày 05 tháng 8 năm 2025 của Chủ tịch UBND tỉnh về việc công bố danh mục thủ tục hành chính ngành Nội vụ thực hiện không phụ thuộc vào địa giới hành chính trong phạm vi tỉnh Đồng Nai."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 2 thay thế Quyết định 652/QĐ-UBND. Cột Ghi chú của danh mục TTHC trống, không có đích."
+ },
+ {
+  "doc_id": "680918",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "117/2024/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA QUY ĐỊNH VỀ KỶ NIỆM CHƯƠNG \"VÌ SỰ NGHIỆP XÂY DỰNG VÀ PHÁT TRIỂN TỈNH CAO BẰNG\" BAN HÀNH KÈM THEO NGHỊ QUYẾT SỐ 117/2024/NQ-HĐND NGÀY 11 THÁNG 12 NĂM 2024 CỦA HỘI ĐỒNG NHÂN DÂN TỈNH CAO BẰNG"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "117/2024/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA QUY ĐỊNH VỀ KỶ NIỆM CHƯƠNG \"VÌ SỰ NGHIỆP XÂY DỰNG VÀ PHÁT TRIỂN TỈNH CAO BẰNG\" BAN HÀNH KÈM THEO NGHỊ QUYẾT SỐ 117/2024/NQ-HĐND NGÀY 11 THÁNG 12 NĂM 2024 CỦA HỘI ĐỒNG NHÂN DÂN TỈNH CAO BẰNG"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "117/2024/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 7 Điều 3",
+     "khoản 8 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 7, khoản 8 Điều 3 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "117/2024/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 7 Điều 3",
+     "khoản 8 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 7, khoản 8 Điều 3 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "117/2024/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm a khoản 3 Điều 4",
+     "điểm b khoản 3 Điều 4"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm a, điểm b khoản 3 Điều 4 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "117/2024/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm a khoản 3 Điều 4",
+     "điểm b khoản 3 Điều 4"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm a, điểm b khoản 3 Điều 4 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "thay-cum-tu",
+    "target_document": "117/2024/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 9 Điều 3",
+     "khoản 2 Điều 5",
+     "khoản 3 Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ \"huyện, thành phố\" tại khoản 9 Điều 3; khoản 2, khoản 3 Điều 5 bằng cụm từ \"xã, phường\"."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Đích là Quy định kèm theo Nghị quyết 117/2024/NQ-HĐND (tên Điều 1 nói rõ). Lời dẫn \"Hội đồng nhân dân ban hành Nghị quyết sửa đổi, bổ sung ...\" trùng hành động với tên: một quan hệ Phần đầu cho mỗi hành động. \"Xét Tờ trình ... đề nghị\" không phải quan hệ. Phần đầu: vi_tri rỗng (\"một số điều\"), target_section kem_theo vì câu nêu rõ Quy định kèm theo."
+ },
+ {
+  "doc_id": "684240",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "30/2025/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG KHOẢN 1 ĐIỀU 1 QUYẾT ĐỊNH SỐ 30/2025/QĐ-UBND NGÀY 21/5/2025 CỦA UBND TỈNH VỀ VIỆC SỬA ĐỔI, BỔ SUNG KHOẢN 1, KHOẢN 2, KHOẢN 3, KHOẢN 4 ĐIỀU 2; KHOẢN 2 ĐIỀU 3 QUYẾT ĐỊNH SỐ 61/2019/QĐ-UBND NGÀY 20/12/2019 VỀ VIỆC BAN HÀNH BẢNG GIÁ ĐẤT TRÊN ĐỊA BÀN HUYỆN QUỲNH LƯU (CŨ) GIAI ĐOẠN 2020-2024"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "30/2025/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG KHOẢN 1 ĐIỀU 1 QUYẾT ĐỊNH SỐ 30/2025/QĐ-UBND NGÀY 21/5/2025 CỦA UBND TỈNH VỀ VIỆC SỬA ĐỔI, BỔ SUNG KHOẢN 1, KHOẢN 2, KHOẢN 3, KHOẢN 4 ĐIỀU 2; KHOẢN 2 ĐIỀU 3 QUYẾT ĐỊNH SỐ 61/2019/QĐ-UBND NGÀY 20/12/2019 VỀ VIỆC BAN HÀNH BẢNG GIÁ ĐẤT TRÊN ĐỊA BÀN HUYỆN QUỲNH LƯU (CŨ) GIAI ĐOẠN 2020-2024"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "sua-doi",
+    "target_document": "30/2025/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 Điều 1 Quyết định số 30/2025/QĐ-UBND ngày 21/5/2025 của UBND tỉnh về việc sửa đổi, bổ sung khoản 1, khoản 2, khoản 3, khoản 4 Điều 2; khoản 2 Điều 3 Quyết định số 61/2019/QĐ-UBND ngày 20/12/2019 về việc ban hành bảng giá đất trên địa bàn huyện Quỳnh Lưu (nay là xã Quỳnh Anh, tỉnh Nghệ An) giai đoạn 2020-2024 như sau:"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bo-sung",
+    "target_document": "30/2025/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 Điều 1 Quyết định số 30/2025/QĐ-UBND ngày 21/5/2025 của UBND tỉnh về việc sửa đổi, bổ sung khoản 1, khoản 2, khoản 3, khoản 4 Điều 2; khoản 2 Điều 3 Quyết định số 61/2019/QĐ-UBND ngày 20/12/2019 về việc ban hành bảng giá đất trên địa bàn huyện Quỳnh Lưu (nay là xã Quỳnh Anh, tỉnh Nghệ An) giai đoạn 2020-2024 như sau:"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Đích trực tiếp là khoản 1 Điều 1 Quyết định 30/2025/QĐ-UBND. Quyết định 61/2019/QĐ-UBND chỉ nằm trong tên của Quyết định 30/2025: không phải đích. Lời dẫn trùng hành động với tên. Phụ lục \"BỔ SUNG GIÁ ĐẤT ...\" là nội dung sửa đổi, không nêu văn bản đích; các quyết định phê duyệt quy hoạch trong bảng chỉ được dẫn chiếu."
+ },
+ {
+  "doc_id": "692700",
+  "relations": [
+   {
+    "source_path": "Điều 1",
+    "action": "bai-bo",
+    "target_document": "644/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "08 quy trình nội bộ thứ tự số 67, 68, 69, 74, 81, 82, 83, 84",
+    "evidence": "Bãi bỏ 08 quy trình nội bộ thứ tự số 67, 68, 69, 74, 81, 82, 83, 84 ban hành kèm theo Quyết định số 644/QĐ-UBND ngày 28 tháng 3 năm 2023 của Chủ tịch Ủy ban nhân dân tỉnh Vĩnh Long về việc phê duyệt quy trình nội bộ giải quyết thủ tục hành chính thuộc phạm vi chức năng quản lý của Sở Văn hóa, Thể thao và Du lịch tỉnh Vĩnh Long."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 1 bãi bỏ 08 quy trình nội bộ kèm theo Quyết định 644/QĐ-UBND; câu không nêu phụ lục nên vi_tri rỗng, ghi doi_tuong. \"được công bố tại Quyết định số 476/QĐ-UBND\" là dẫn chiếu."
+ },
+ {
+  "doc_id": "676559",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Kế hoạch, không có tác động lên văn bản khác. Nghị định 58/2024/NĐ-CP, Quyết định 405/QĐ-LN-PTR, Thông tư 24/2024/TT-BNNPTNT chỉ được dẫn chiếu."
+ },
+ {
+  "doc_id": "680886",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn đề nghị Sở Y tế phòng chống cúm mùa, không có tác động. Thông tư 54/2015/TT-BYT chỉ được dẫn chiếu."
+ },
+ {
+  "doc_id": "688679",
+  "relations": [
+   {
+    "source_path": "Điều 2 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "15/2012/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 15/2012/QĐ-UBND của Ủy ban nhân dân tỉnh Bình Định ban hành Quy chế phối hợp giữa các cơ quan, tổ chức, cá nhân trong hoạt động giám định tư pháp trên địa bàn tỉnh Bình Định hết hiệu lực kể từ ngày Quyết định này có hiệu lực thi hành."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 2 khoản 2 tự tuyên bố Quyết định 15/2012/QĐ-UBND (tỉnh Bình Định) hết hiệu lực: bai-bo. Quy chế kèm theo không có tác động; Điều 8 khoản 2 \"tham mưu ... sửa đổi, bổ sung Quy chế\" là giao nhiệm vụ."
+ }
+]
