@@ -4,6 +4,7 @@ Tài liệu này mô tả chế độ `llm` (luồng 4 tầng) và bộ đánh g
 
 - 15/10/2026: thêm chế độ `llm`.
 - 20/10/2026: chốt luồng. Chế độ `llm` là mặc định (mục 8.8.4). Kết quả độc lập ở mục 8.8.3.
+- 22/10/2026: chốt luồng với quy tắc 1–19 (code `2911b77`) và ghi lại 11.000 văn bản `-v4` (mục 8.15). Benchmark 500 văn bản ở mục 8.13–8.14.
 - So sánh với v2 và v3 ở [05](05-phien-ban-v2-v3-v4.md).
 
 ## 8.1. Vì sao đổi
@@ -725,3 +726,35 @@ Các sửa đổi theo 3 nhóm lỗi ở mục 8.13: quy tắc 15–19 (mục 8.
 | LLM không đọc ra hành động ở dòng, câu công bố thủ tục "… hết hiệu lực", "Danh mục thủ tục bị bãi bỏ: … công bố tại Quyết định số X" (685326, 691293, 693990, 690268) | khoảng 13 sót | Cần thêm định nghĩa vào prompt. Sửa prompt làm mọi câu trả lời đã lưu hết hiệu lực: phải hỏi lại LLM cho mọi đơn vị. |
 | Nội dung mới có ngoặc không cân: parser tách các điểm “b)”, “c)” của nội dung mới thành điểm của văn bản nguồn (686633) | 2 cặp hành động, đích sai | Cần sửa parser; đơn vị đổi thì phải hỏi lại LLM. |
 | Đề mục "Danh mục thủ tục bị bãi bỏ tại Nghị định số …" bị coi là ghi chú lịch sử (688391) | 2 sót | Thu hẹp cổng này có thể làm lọt ghi chú lịch sử thật. |
+
+### 8.15. Chốt luồng và ghi lại v4 (22/10/2026)
+
+Luồng được chốt với code commit `2911b77`: chế độ `llm`, quy tắc 1–19 (mục 8.11.3). Mã băm của từng file code: `work/chot-20261022-code.json`.
+
+**Ghi lại v4.** 3 index `-v4` được ghi lại bằng code chốt, cùng 11.000 văn bản (danh sách: `work/v4-2210-ids.txt`). Công cụ dùng lại câu trả lời LLM đã lưu của các lượt `v4-10000`, `v4-1000`, `H56-C`. Đơn vị có đầu vào mới được hỏi LLM. Script: `work/run-v4-2210.sh`.
+
+| Bước | Thời gian | Kết quả |
+| --- | --- | --- |
+| Lượt chính `v4-2210`, 10 luồng | 11:42 → 14:45 (3 giờ 3 phút, khoảng 60 văn bản/phút) | 10.976/11.000; 24 văn bản hết thời gian kết nối |
+| Chạy lại 25 văn bản, 3 luồng (lượt `v4-2210-fix`) | 15:33 → 15:46 | 25/25 |
+| Kiểm hợp đồng v4 | 27 phút | 237 luật, 5 luật có lỗi, như mục 8.11.8 |
+
+Khi chạy lại văn bản lỗi: một lượt giữ danh sách văn bản ở `work/<lượt>/ids.json`, từ lần chạy thứ hai lệnh bỏ qua `--ids`. `--redo` chạy lại cả danh sách. Muốn chạy lại văn bản lỗi thì chạy lại cùng lượt, không có `--redo`; hoặc tạo lượt mới với `--ids` chỉ gồm văn bản lỗi. Lần này bước chạy lại đầu tiên dùng `--redo`, nên chạy lại cả 11.000 văn bản. Bước đó bị dừng sau 618 văn bản; 618 văn bản này có kết quả như lượt chính.
+
+Trạng thái `-v4`:
+
+| Chỉ số | 21/10 (mục 8.11.8) | 22/10 |
+| --- | --- | --- |
+| `legal-docs-v4` | 11.000 | 11.000 |
+| `legal-chunk-section-v4` | 447.589 | 447.597 |
+| `legal-changed-v4` | 42.718 | 42.771 |
+| `validated` | 40.428 | 40.496 |
+| `unresolved` | 2.290 | 2.275 |
+| Có `target_matched_id` | 37.243 | 37.182 |
+| `doi_tuong_loai = thu_tuc_hanh_chinh` | 1.730 | 1.819 |
+| Có `chi_tiet_vi_tri` | 274 | 274 |
+
+- Lý do `unresolved`: `vi_tri_chua_xac_dinh` 734, `dich_chua_gan_cau_thuc_hien` 569, `phan_kem_theo_chua_ro` 522, `vi_tri_khong_co_trong_nguon` 326, `van_ban_dich_khong_co_trong_nguon` 124.
+- 19 văn bản đổi số chunk (tổng thêm 8 chunk). Ở lượt trước, model đọc cấu trúc của các văn bản này bị lỗi (`ValueError`), nên công cụ dùng cấu trúc theo quy tắc. Lần này model trả lời được.
+- Quan hệ của 501 văn bản H5 + H6 trong `legal-changed-v4` khớp hết với lượt đo `H56-C`. Vì vậy số đo ở mục 8.14 (phát hiện 0,890 / 0,873; phạm vi 0,785 / 0,743) là chất lượng của dữ liệu `-v4` hiện tại. H5 và H6 đã dùng để sửa lỗi, nên số này không độc lập.
+- v3 không đổi.

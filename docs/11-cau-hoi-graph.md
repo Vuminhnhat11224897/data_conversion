@@ -79,7 +79,7 @@ Bên Graph có hỗ trợ trạng thái `relation_only` với 5 điểm trên kh
 
 Phần không có node riêng có `vi_tri` là node chứa nó. Đây là các quyết định C3, C4, E1 ở [07](07-gioi-han-va-can-chot.md#74-quyết-định-đã-chốt): mẫu biểu, đoạn, câu, gạch đầu dòng của khoản, tiết, dòng số thứ tự. Giới hạn thật chỉ còn trong `scope`. Hợp đồng dặn bên đọc không dùng `scope`.
 
-Đo trên `legal-changed-v4` sau lượt ghi ngày 21/10/2026 (1000 văn bản mới nhất, mục 11.4): 41/3.570 quan hệ có phần không có node riêng (31 mẫu biểu; 10 đoạn, gạch đầu dòng, dòng số thứ tự).
+Đo trên `legal-changed-v4` sau lượt ghi ngày 22/10/2026 (11.000 văn bản, mục 11.4): 274/42.771 quan hệ có phần không có node riêng (193 mẫu biểu; 77 dòng số thứ tự; 4 gạch đầu dòng, đoạn).
 
 | Bản ghi | `scope` | `vi_tri` | `chi_tiet_vi_tri` | Tác động thật |
 | --- | --- | --- | --- | --- |
@@ -103,7 +103,7 @@ Quy tắc chung: khi giảm độ chi tiết của node để biểu diễn, gi�
 ### Câu hỏi 2
 
 1. Bên Graph đồng ý dùng `chi_tiet_vi_tri` như trên không?
-2. Bên Graph hiện có tính trạng thái hiệu lực của node từ các cạnh loại này không? Nếu có mà không đọc `chi_tiet_vi_tri`, 41 quan hệ trên bị tính rộng hơn văn bản.
+2. Bên Graph hiện có tính trạng thái hiệu lực của node từ các cạnh loại này không? Nếu có mà không đọc `chi_tiet_vi_tri`, 274 quan hệ trên bị tính rộng hơn văn bản.
 
 ## 11.3. Thông tin đã chốt, báo để bên Graph biết
 
@@ -115,15 +115,24 @@ Quy tắc chung: khi giảm độ chi tiết của node để biểu diễn, gi�
 
 ## 11.4. Dữ liệu v4 để bên Graph kiểm
 
-Ngày 21/10/2026, 3 index `-v4` trên ES 10.1.10.23 được xóa và ghi lại bằng code mới nhất:
+Ngày 22/10/2026, 3 index `-v4` trên ES 10.1.10.23 được ghi lại bằng code chốt (commit `2911b77`, docs 08 mục 8.15):
 
 | Index | Số bản ghi |
 | --- | --- |
-| `legal-docs-v4` | 1.000 văn bản mới nhất, ban hành từ 30/01/2026 đến 30/09/2026 |
-| `legal-chunk-section-v4` | 61.674 chunk |
-| `legal-changed-v4` | 3.570 quan hệ: 3.380 `validated`, 190 `unresolved` |
+| `legal-docs-v4` | 11.000 văn bản mới nhất, ban hành từ 08/10/2025 đến 30/09/2026 |
+| `legal-chunk-section-v4` | 447.597 chunk |
+| `legal-changed-v4` | 42.771 quan hệ: 40.496 `validated`, 2.275 `unresolved` |
 
-Trong 3.570 quan hệ: 3.193 có `target_matched_id`; 182 có `doi_tuong_loai = thu_tuc_hanh_chinh`; 41 có `chi_tiet_vi_tri`. Kiểm hợp đồng (`eval.check_contract v4`): 237 luật, 3 luật có lỗi nhỏ về đọc cấu trúc (docs 08, mục 8.11.7). v3 không đổi.
+Trong 42.771 quan hệ: 37.182 có `target_matched_id`; 1.819 có `doi_tuong_loai = thu_tuc_hanh_chinh`; 274 có `chi_tiet_vi_tri`. Kiểm hợp đồng (`eval.check_contract v4`): 237 luật, 5 luật có lỗi nhỏ về đọc cấu trúc, mỗi luật dưới 1% số bản ghi (docs 08, mục 8.11.8). v3 không đổi.
+
+Chất lượng quan hệ, đo trên mẫu phân tầng 500 văn bản của 11.000 văn bản này (docs 08, mục 8.13–8.14):
+
+| Mức | P | R |
+| --- | --- | --- |
+| Phát hiện: đúng văn bản nguồn, hành động, văn bản đích | 0,890 | 0,873 |
+| Phạm vi: đúng thêm vị trí bị tác động | 0,785 | 0,743 |
+
+Mẫu này đã được dùng để sửa lỗi, nên trên văn bản chưa từng xem, số đo có thể thấp hơn.
 
 ## 11.5. Kiểm thử bên Graph cần chạy
 
