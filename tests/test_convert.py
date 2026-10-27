@@ -112,6 +112,17 @@ class ConvertCheck(unittest.TestCase):
         self.assertEqual(len(self.target.indices['legal-chunk-section-v3']), len(chunks))
         self.assertEqual(len(self.target.indices['legal-changed-v3']), 1)
 
+    def test_target_vectors_reused_when_rewriting(self):
+        # EMBEDDING_REUSE=target (rewriting -v4, 27/10/2026): an unchanged chunk keeps the target's own vector, not the source's.
+        kept = [0.7] * 1024
+        self.target.indices['legal-chunk-section-v3']['900_d2'] = {'doc_id': '900', 'tieu_de': '', 'embedding': kept,
+                                                                   'noi_dung': 'Quyết định này có hiệu lực kể từ ngày ký.'}
+        with patch('vbpl_v3.convert.embed', side_effect=fake_embed):
+            record = convert_document('900', config(workdir=self.root, embedding_reuse=False, embedding_reuse_target=True), self.source,
+                                      self.target, 'run1', self.root, caller=model)
+        self.assertEqual(self.target.indices['legal-chunk-section-v3']['900_d2']['embedding'], kept)
+        self.assertEqual(record['vectors_reused'], 1)
+
     def test_english_full_text_is_skipped(self):
         # 39074: an English translation stored as the full text. Skipped before any model or embedding call, nothing written.
         english = ('THE GOVERNMENT\nDECREE\nISSUING THE REGULATION ON SOCIAL INSURANCE\nDECREES:\n'

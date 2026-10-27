@@ -50,6 +50,7 @@ class Config:
     embedding_key: str = ''
     embedding_model: str = 'bge-m3'
     embedding_truncate: int | None = None
+    embedding_reuse_target: bool = False
 
     @property
     def embedding_options(self):
@@ -79,6 +80,7 @@ class Config:
             embedding_key=os.getenv('EMBEDDING_KEY', '').strip(),
             embedding_model=os.getenv('EMBEDDING_MODEL', 'bge-m3').strip(),
             embedding_truncate=number('EMBEDDING_TRUNCATE', 0, 0, 8192) or None if os.getenv('EMBEDDING_TRUNCATE', '').strip() else None,
+            embedding_reuse_target=os.getenv('EMBEDDING_REUSE') == 'target',
         ).validate()
 
     def validate(self):
@@ -99,4 +101,7 @@ class Config:
         # The v2 chunk vectors are the first 256 tokens: reused beside whole-chunk vectors they mix two spaces (27/10/2026).
         if self.embedding_reuse and self.embedding_url.rstrip('/').endswith('/v1') and self.embedding_truncate != 256:
             raise ValueError('EMBEDDING_REUSE=yes dùng lại vector v2 cắt ở 256 token: chỉ hợp với EMBEDDING_TRUNCATE=256')
+        # The -v4 chunk vectors are whole chunks (re-embedded 26/10/2026): reused only beside whole-chunk vectors.
+        if self.embedding_reuse_target and not (self.embedding_url.rstrip('/').endswith('/v1') and self.embedding_truncate is None):
+            raise ValueError('EMBEDDING_REUSE=target dùng lại vector đủ độ dài của index đích: cần API /v1 và EMBEDDING_TRUNCATE trống')
         return self

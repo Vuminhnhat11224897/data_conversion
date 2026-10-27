@@ -39,3 +39,7 @@ class Service(unittest.TestCase):
         config(embedding_url='http://embed:9999/v1', embedding_reuse=True, embedding_truncate=256).validate()
         config(embedding_url='http://embed:9999/v1', embedding_reuse=False).validate()
         config(embedding_url='http://embed:8989', embedding_reuse=True).validate()  # the older service makes the v2 vectors
+        # The target's own vectors (-v4) are whole chunks: reused only beside whole-chunk vectors.
+        config(embedding_url='http://embed:9999/v1', embedding_reuse=False, embedding_reuse_target=True).validate()
+        with self.assertRaises(ValueError):
+            config(embedding_url='http://embed:9999/v1', embedding_reuse=False, embedding_reuse_target=True, embedding_truncate=256).validate()

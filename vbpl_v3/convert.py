@@ -519,9 +519,11 @@ def convert_document(doc_id, config, source, target, run_id, root, qa=True, dry_
     candidates = [resolve(c, hits) for c in candidates]
     referenced = link_references(chunks, doc_id, meta, parsed, lookup, law_lookup, amended_targets(candidates))
     old = {}
-    if config.embedding_reuse and not dry_run:
-        # A chunk whose tieu_de + noi_dung text is unchanged keeps its existing vector.
-        for row in source.scan(config.source['chunks'], {'term': {'doc_id': doc_id}}, ['tieu_de', 'noi_dung', 'embedding']):
+    if (config.embedding_reuse or config.embedding_reuse_target) and not dry_run:
+        # A chunk whose tieu_de + noi_dung text is unchanged keeps its existing vector: the source's (yes) or, when rewriting the
+        # target, the target's own (target).
+        store, index = (target, config.target['chunks']) if config.embedding_reuse_target else (source, config.source['chunks'])
+        for row in store.scan(index, {'term': {'doc_id': doc_id}}, ['tieu_de', 'noi_dung', 'embedding']):
             if row['_source'].get('embedding'):
                 old.setdefault(chunk_input(row['_source']), row['_source']['embedding'])
     fresh = []
