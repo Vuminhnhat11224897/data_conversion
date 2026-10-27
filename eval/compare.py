@@ -53,9 +53,9 @@ def measure(gold, packets, run):
             continue
         g1, t1 = {i[1:3] for i in expected}, {i[1:3] for i in got['validated']}
         u1 = {i[1:3] for i in got['unresolved']} - t1
-        c['p1_tp'] += len(g1 & t1); c['p1_fp'] += len(t1 - g1); c['p1_fn'] += len(g1 - t1)
+        c['p1_tp'] += len(g1 & t1); c['p1_fp'] += len(t1 - g1 - S.extra_halves(g1, t1)); c['p1_fn'] += len(g1 - t1)
         g2, t2 = {i[1:] for i in expected}, {i[1:] for i in got['validated']}
-        c['p2_tp'] += len(g2 & t2); c['p2_fp'] += len(t2 - g2); c['p2_fn'] += len(g2 - t2)
+        c['p2_tp'] += len(g2 & t2); c['p2_fp'] += len(t2 - g2 - S.extra_halves(g2, t2)); c['p2_fn'] += len(g2 - t2)
         for key in g1 & t1:
             units = [i[0] for i in expected if i[1:3] == key]
             tool = [r for r in got['relations'] if r.get('resolution_status') == 'validated' and r['action'] == key[0]

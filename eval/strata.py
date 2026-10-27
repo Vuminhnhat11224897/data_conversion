@@ -28,7 +28,8 @@ def per_document(gold, packets, run, ids):
         tool = got['validated'] if got else set()
         g1, t1 = {i[1:3] for i in expected}, {i[1:3] for i in tool}
         g2, t2 = {i[1:] for i in expected}, {i[1:] for i in tool}
-        out[doc_id] = (len(g1 & t1), len(t1 - g1), len(g1 - t1), len(g2 & t2), len(t2 - g2), len(g2 - t2))
+        out[doc_id] = (len(g1 & t1), len(t1 - g1 - S.extra_halves(g1, t1)), len(g1 - t1),
+                       len(g2 & t2), len(t2 - g2 - S.extra_halves(g2, t2)), len(g2 - t2))
     return out
 
 

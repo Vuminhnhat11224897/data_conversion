@@ -58,15 +58,42 @@ def document(target):
     return target.casefold() if re.match(r'(?:Bộ\s+luật|Luật|Pháp\s+lệnh)\s', target, re.I) else number_key(target)
 
 
+# The appendix convention (26/10/2026): a position outside điều – khoản – điểm (a part named by name, a Mục or Phần of a plan or an
+# old circular, a row of a catalogue, "Mục II Phần B Phụ lục I") counts as its appendix, the same on both sides.
+ARTICLE_PLACE = re.compile(r'\b(?:điểm|khoản|điều|chương)\b', re.I)
+APPENDIX_LABEL = re.compile(r'phụ\s+lục\s+(?:số\s+)?([IVXLCDM]+|\d+[a-zđ]?|[A-ZĐ])\b', re.I)
+
+
+def appendix(text):
+    """'Phụ lục II' when the words name one appendix ('Phụ lục 06' is 'Phụ lục 6'), 'Phụ lục' otherwise."""
+    labels = list(dict.fromkeys(m[1].upper().lstrip('0') or '0' for m in APPENDIX_LABEL.finditer(text or '')))
+    return f'Phụ lục {labels[0]}' if len(labels) == 1 else 'Phụ lục'
+
+
 def place(value):
-    """A position in contract form; '#' for a part named by name (its wording varies); '?<text>' for a position outside the format;
-    '' for none. 'toàn bộ' and none are both the whole document."""
+    """A position in contract form; '' for none ('toàn bộ' and none are both the whole document). A part named by name and a position
+    outside điều – khoản – điểm are their appendix (appendix convention); a provision written outside the format stays '?<text>'."""
     if not value or value == 'toàn bộ':
         return ''
     if value.startswith('#'):
-        return '#'
+        return appendix(value[1:])
     found = positions(value)
-    return found[0] if found else '?' + ' '.join(value.split()).casefold()
+    if not found:
+        text = ' '.join(value.split())
+        if ARTICLE_PLACE.search(text) and not re.search(r'\b(?:mục|phần)\b', text, re.I):
+            return '?' + text.casefold()
+        return appendix(text)
+    return found[0] if ARTICLE_PLACE.search(found[0]) else appendix(found[0])
+
+
+# The pairing convention (26/10/2026): "Sửa đổi, bổ sung X" gives sua-doi and bo-sung; a label may keep one of them.
+PAIR = {'sua-doi': 'bo-sung', 'bo-sung': 'sua-doi'}
+
+
+def extra_halves(gold, tool):
+    """Tool items (action, target[, place]) not counted as wrong: one half of the pair sua-doi / bo-sung whose other half is right."""
+    right = gold & tool
+    return {x for x in tool - gold if x[0] in PAIR and (PAIR[x[0]],) + x[1:] in right}
 
 
 def related(a, b):
