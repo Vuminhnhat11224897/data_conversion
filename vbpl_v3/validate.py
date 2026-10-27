@@ -347,7 +347,10 @@ def unit_frames(parsed):
         above = [article['tieu_de'], article.get('mo_dau', '')]
         frames[path] = (article['ky_hieu'], above + [article.get('noi_dung', '')])
         for clause in article['khoan']:
-            frames[f'{path} Khoản {clause["ky_hieu"]}'] = (article['ky_hieu'], above + [clause['noi_dung']])
+            # A clause's own text with its points, when the parser kept them apart ("b) Bổ sung khoản 9 …" under the clause's lead).
+            text = clause['noi_dung'] + ''.join(f"\n{point['ky_hieu']}) {point['noi_dung']}" for point in clause['diem']
+                                                if point['noi_dung'] and point['noi_dung'] not in clause['noi_dung'])
+            frames[f'{path} Khoản {clause["ky_hieu"]}'] = (article['ky_hieu'], above + [text])
             for point in clause['diem']:
                 frames[f'{path} Khoản {clause["ky_hieu"]} điểm {point["ky_hieu"]}'] = (article['ky_hieu'], above + [clause.get('mo_dau', ''), point['noi_dung']])
     return frames
@@ -405,6 +408,7 @@ def check_positions(relations, parsed):
                 row.update(resolution_status='unresolved', resolution_reason='vi_tri_khong_co_trong_nguon')
         elif row.get('resolution_status') == 'validated':
             row.update(resolution_status='unresolved', resolution_reason='vi_tri_khong_co_trong_nguon')
+    relations = own_verbs(relations, frames)
     groups = {}
     for record in relations:
         row = record['_source']
@@ -421,3 +425,52 @@ def check_positions(relations, parsed):
         first['vi_tri'] = [p for p in first.get('vi_tri') or [] if p != 'toàn bộ'] + [p for p in tied if p not in have]
         first['scope'] = '; '.join(first['vi_tri'])
     return relations
+
+
+def opening(text):
+    """The unit's own statement: its words before the first quote, colon or line break, without notes on the past."""
+    head = re.split(r'[“"\n:]', text or '', maxsplit=1)[0]
+    return HISTORY.sub(' ', re.sub(r'\((?:đã\s+)?(?:được|bị)\s+[^()]*\)', ' ', head))
+
+
+AMENDS, ADDS = re.compile(r'sửa\s*đổi|điều\s+chỉnh', re.I), re.compile(r'bổ\s*sung', re.I)
+
+
+def stating(text, place):
+    """The words of the unit that state the act on a position: from the start of its clause to the position's first level
+    ("b) Bổ sung khoản 9 vào sau khoản 8" for "khoản 9 Điều 3"). None when the unit does not name the position."""
+    plain = HISTORY.sub(' ', strip_quotes(text or ''))
+    first = re.match(r'(?:tên\s+)?(?:tiểu\s+điểm|điểm|khoản|điều)\s+[\w.]+', place or '', re.I)
+    if not first:
+        return None
+    at = re.search(r'(?<!\w)' + r'\s+'.join(map(re.escape, first.group().split())) + r'(?![\w.])', plain, re.I)
+    if not at:
+        return None
+    clause = re.split(r'[;\n]|\.\s|(?:^|\s)[a-zđ0-9]{1,2}\)\s', plain[:at.start()])[-1]
+    return clause
+
+
+def own_verbs(relations, frames):
+    """R3 (27/10/2026): sua-doi and bo-sung follow the verb that states the act on the position. "2. Sửa đổi, bổ sung một số khoản
+    của Điều 3 như sau: … b) Bổ sung khoản 9 vào sau khoản 8" is bo-sung of khoản 9 only (147/2025); "Sửa đổi, bổ sung Điểm b, Khoản
+    2, Điều 2" keeps both; "Điều chỉnh, bổ sung …" is both. The clauses that name the position in the unit and in the quote are
+    read, else their openings; an act is dropped only when none of them states its verb and one states the other."""
+    kept = []
+    for record in relations:
+        row = record['_source']
+        if row['action'] in ('sua-doi', 'bo-sung') and row['source_path'] in frames:
+            text, quote = frames[row['source_path']][1][-1], row.get('evidence') or ''
+            own, other = (ADDS, AMENDS) if row['action'] == 'bo-sung' else (AMENDS, ADDS)
+            denies = lambda said: not any(own.search(w) for w in said) and any(other.search(w) for w in said)
+            places = [p for p in row.get('vi_tri') or [] if p != 'toàn bộ']
+            # Each position by the clause that names it (a lead's record holds khoản 7 and khoản 9 before one_per_position).
+            named = {p: [w for w in (stating(text, p), stating(quote, p)) if w] for p in places}
+            dropped = [p for p, said in named.items() if said and denies(said)]
+            if dropped:
+                rename_places(row, dict.fromkeys(dropped))
+                if not row['vi_tri']:
+                    continue
+            elif not any(named.values()) and denies([opening(text), opening(quote)]):
+                continue
+        kept.append(record)
+    return kept
