@@ -758,3 +758,48 @@ Trạng thái `-v4`:
 - 19 văn bản đổi số chunk (tổng thêm 8 chunk). Ở lượt trước, model đọc cấu trúc của các văn bản này bị lỗi (`ValueError`), nên công cụ dùng cấu trúc theo quy tắc. Lần này model trả lời được.
 - Quan hệ của 501 văn bản H5 + H6 trong `legal-changed-v4` khớp hết với lượt đo `H56-C`. Vì vậy số đo ở mục 8.14 (phát hiện 0,890 / 0,873; phạm vi 0,785 / 0,743) là chất lượng của dữ liệu `-v4` hiện tại. H5 và H6 đã dùng để sửa lỗi, nên số này không độc lập.
 - v3 không đổi.
+
+### 8.16. Văn bản sửa đổi đi kèm, quy ước phụ lục, hold-out 300 (26/10/2026)
+
+Từ đây luồng chốt với code của mục này. Các thay đổi chỉ ở bước sau LLM: câu trả lời đã lưu vẫn dùng được, không phải hỏi lại model.
+
+**Thay đổi trong luồng:**
+
+| Thay đổi | File | Lý do |
+| --- | --- | --- |
+| Ghi chú lịch sử "… đã được sửa đổi, bổ sung bởi/theo/tại …" phủ hết danh sách văn bản đi sau nó, kể cả vị trí của từng mục ("khoản 23 Điều 1 Thông tư A và khoản 1 Điều 12 Thông tư B"). Trước đây chỉ xét 80 ký tự, nên các văn bản ở cuối danh sách dài bị ghi làm đích. | `validate.history_spans`, `only_in_history` | Lỗi C4/B8c: luật sửa nhiều luật ghi cả các luật sửa đổi đi kèm làm đích |
+| Cùng luật trên cho quan hệ của nhánh quy tắc, sau QA | `convert.model_relations` | Không đổi đầu vào của model |
+| Vị trí không theo điều – khoản – điểm ghi thành phụ lục chứa nó ("Phụ lục II", hoặc "Phụ lục" khi không nêu số); chữ gốc giữ ở `doi_tuong` | `resolver.appendix_scope` | Quy ước phụ lục (dưới đây) |
+| Luật bỏ phiếu trong một câu không còn biến phần LLM đọc được thành cả văn bản; khi nhánh quy tắc ghi "toàn bộ" mà LLM nêu tên phần, giữ tên phần | `convert.model_relations` | Một quan hệ cả văn bản sai là tốn kém nhất |
+
+**Quy ước chấm** (`eval/score.py`, áp cho mọi lệnh chấm):
+
+- **Phụ lục:** vị trí không theo điều – khoản – điểm (phần nêu bằng tên, Phần/Mục của phương án hay thông tư cũ, dòng danh mục, "Mục II Phần B Phụ lục I") tính là phụ lục chứa nó, như nhau cho nhãn và công cụ.
+- **Cặp sửa đổi, bổ sung:** công cụ ghi thừa một vế của cặp mà vế kia đúng thì vế thừa không tính là sai.
+
+**Hold-out 300** (độc lập): 300 văn bản mới của v4 (khung 6.989 văn bản sau khi bỏ văn bản và nhóm văn bản đã có nhãn), 10 tầng theo độ dài × kết quả của luồng. Nhãn do 9 agent gán theo rubric, chưa qua người duyệt (file duyệt: `bernmark/ho300/`). Bộ stress riêng: 57 văn bản có câu C4/B8c, 18 văn bản đối chứng, chỉ chấm các đơn vị có câu đó.
+
+**Kết quả** (chạy lại chặt, cùng câu trả lời LLM; chấm theo quy ước mới; hold-out bỏ văn bản 675259 vì nhãn sinh bằng script):
+
+| Bộ | Code 22/10: phát hiện F1 / phạm vi F1 | Code 26/10: phát hiện F1 / phạm vi F1 |
+| --- | --- | --- |
+| 7 bộ cũ (dev, H1–H4, blind, review50) | 0,906 / 0,831 | 0,905 / 0,831 |
+| H5 + H6 | 0,882 / 0,801 | 0,884 / 0,807 |
+| Hold-out 300 | 0,876 / 0,692 | 0,876 / 0,690 |
+| Stress C4/B8c | 0,698 / 0,627 | **0,751 / 0,654** |
+
+- Quy ước phụ lục là phần lớn mức tăng phạm vi: với code 22/10, phạm vi F1 từ 0,763 lên 0,831 (7 bộ cũ), 0,765 lên 0,801 (H5 + H6), 0,670 lên 0,692 (hold-out).
+- Luật danh sách lịch sử: ở bộ stress, hàng sai mức phát hiện từ 107 xuống 79, không mất quan hệ đúng; H5 + H6 gỡ 14 vị trí sai; 7 bộ cũ không đổi; hold-out mất 8 vị trí đúng, gỡ 4 vị trí sai (3 văn bản, chưa xem để giữ bộ độc lập).
+- Đã thử và bỏ: bỏ vị trí cha khi có vị trí con (gỡ 8 lỗi, mất 18 vị trí đúng); "chưa xác định vị trí mà có chữ phụ lục thì ghi Phụ lục" (precision phát hiện giảm 0,4–0,5 điểm).
+
+**Lỗi phạm vi còn lại** (9 bộ phân tích, 936 lỗi; script `bernmark/fix3/pham_vi_tong_quan.py`):
+
+| Cơ chế | % | Nguồn |
+| --- | --- | --- |
+| Kéo theo từ lỗi phát hiện (sót hoặc sai quan hệ) | 37% | LLM: TTHC, câu nêu nhiều văn bản, cặp hành động dễ nhầm |
+| Ghi cả văn bản thay vì một phần | 28% | LLM không nêu phần (62%); luật danh sách nhiều văn bản và quan hệ ở tên văn bản (code) |
+| Danh sách vị trí thiếu, thừa, khác mức chi tiết | 32% | LLM và nhánh quy tắc liệt kê vị trí không đủ |
+
+Bước sau: sửa prompt (bắt chọn rõ cả văn bản hay một phần, TTHC, các cặp hành động). Phải hỏi lại LLM.
+
+**Đánh giá theo đợt:** cứ mỗi 10.000 văn bản mới, lấy mẫu 1.000 văn bản bằng `python -m eval.sample_batch` và chấm bằng `eval.strata` (xem `eval/README.md`).
