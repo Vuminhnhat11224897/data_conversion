@@ -17,6 +17,8 @@ import re
 from . import governance
 from .governance import TTHC
 from .relations import LIST_GAP, document_refs, strip_quotes
+from .structure import NUMBER
+from .temporal import positions
 from .text import action_matches, number_key
 
 # "Công bố (kèm theo Quyết định này) Danh mục thủ tục hành chính được sửa đổi, bổ sung, bãi bỏ …": the list is published; the act words
@@ -28,6 +30,10 @@ VERBS = {'sua-doi': r'sửa|điều\s+chỉnh', 'bo-sung': r'bổ\s*sung|thêm',
          'thay-the': r'thay\s*thế|\bthay\b(?!\s*đổi)', 'thay-cum-tu': r'\bthay\b(?!\s*đổi)|cụm\s+từ|từ\s+ngữ', 'huy-bo': r'h(?:uỷ|ủy|uy)\s*bỏ', 'dinh-chi': r'đình\s*chỉ',
          'ngung-hieu-luc': r'ng(?:ư|ừ)ng\s+(?:thi\s+hành\s+)?hiệu\s*lực|tạm\s+ngưng|tạm\s+dừng|chấm\s*dứt|kết\s*thúc', 'dinh-chinh': r'đính\s*chính|\bsửa\b(?!\s*đổi)',
          'gia-han': r'gia\s+hạn|kéo\s+dài', 'huong-dan': r'hướng\s+dẫn', 'quy-dinh-chi-tiet': r'quy\s+định\s+chi\s+tiết|chi\s+tiết'}
+
+
+def loose(value):
+    return number_key(value).replace('đ', 'd')
 
 
 def sources(row):
@@ -241,7 +247,8 @@ def check(row, resolved):
             name = target_text.split(' ', 1)[1] if ' ' in target_text else target_text
             if name.casefold() not in ' '.join(whole.split()).casefold():
                 return 'unresolved', 'van_ban_dich_khong_co_trong_nguon'
-        elif number_key(target_text) not in {number_key(m.group()) for m in document_refs(whole)} and number_key(target_text) not in number_key(whole):
+        # A number the source typed without its Đ ("NQ-HDND") is the same number (resolver.target_of).
+        elif loose(target_text) not in {loose(m.group()) for m in document_refs(whole)} and loose(target_text) not in loose(whole):
             return 'unresolved', 'van_ban_dich_khong_co_trong_nguon'
         for place in resolved.get('vi_tri') or []:
             for label in re.findall(r'\b(?:Điều|khoản|điểm|Chương|Mục|Phụ lục|Phần)\s+([\w.]+)', place):
@@ -304,3 +311,113 @@ def pair_amendments(kept):
             have.add(key)
             extra.append({**r, 'action': other, 'cum_tu': r.get('cum_tu')} if 'cum_tu' in r else {**r, 'action': other})
     return kept + extra
+
+
+# Positions a sentence ties to a document: the list of điều – khoản – điểm right before "của / thuộc / tại <type> số <number>", or
+# right before "<type> số <number>" when the list ends at its Điều ("khoản 1 Điều 5 Thông tư số …").
+TIED_TO = re.compile(r'\s+(?:(?P<link>của|thuộc|tại)\s+)?(?:các\s+)?(?P<type>(?:Bộ\s+luật|Luật|Pháp\s+lệnh|Nghị\s+định|Nghị\s+quyết|Thông\s+tư(?:\s+liên\s+tịch)?'
+                     r'|Quyết\s+định|Chỉ\s+thị|[Vv]ăn\s+bản)\s+)?(?:số\s*)?$')
+PLACE_LIST = re.compile(r'(?:các\s+)?(?:điểm|khoản|điều)\b(?:\s|,|\b(?:và|các|điểm|khoản|điều)\b|\b\d+[a-zđ]?\b|\b[a-zđ]\b)*?(?:\b\d+[a-zđ]?|\b[a-zđ])$', re.I)
+
+
+def tied_places(text, target):
+    """"… hướng dẫn thi hành Điều 8 và Điều 9 của Nghị quyết số 222/2025/QH15" -> ['Điều 8', 'Điều 9'] for 222/2025/QH15. A list
+    joined to the document by "và" ("Điều 5 và Quyết định số …") is not its positions."""
+    found = []
+    for match in NUMBER.finditer(text or ''):
+        if number_key(match.group()) != number_key(target or ''):
+            continue
+        link = TIED_TO.search(text[:match.start()])
+        if not link or not (link['link'] or link['type']):
+            continue
+        listed = PLACE_LIST.search(text[max(0, link.start() - 300):link.start()])
+        if listed and (link['link'] or re.search(r'\bđiều\s+\d+[a-zđ]?$', listed.group(), re.I)):
+            found += [p for p in positions(listed.group().strip()) if p not in found]
+    return found
+
+
+def unit_frames(parsed):
+    """{source_path: (own Điều, [heading and leads above the unit, the unit's own text])}, for the paths of extract.units."""
+    frames = {}
+    articles = [(a, '') for a in parsed['dieu_luat']] + [(a, f'Phụ lục {i + 1} ') for i, p in enumerate(parsed['phu_luc']) for a in p['dieu_luat']]
+    for article, prefix in articles:
+        if article.get('van_ban_kem_theo'):
+            prefix += f'Văn bản kèm theo {article["van_ban_kem_theo"]} '
+        path = prefix + 'Điều ' + article['ky_hieu']
+        above = [article['tieu_de'], article.get('mo_dau', '')]
+        frames[path] = (article['ky_hieu'], above + [article.get('noi_dung', '')])
+        for clause in article['khoan']:
+            frames[f'{path} Khoản {clause["ky_hieu"]}'] = (article['ky_hieu'], above + [clause['noi_dung']])
+            for point in clause['diem']:
+                frames[f'{path} Khoản {clause["ky_hieu"]} điểm {point["ky_hieu"]}'] = (article['ky_hieu'], above + [clause.get('mo_dau', ''), point['noi_dung']])
+    return frames
+
+
+def rename_places(row, names):
+    """Rename positions everywhere a relation keeps them (vi_tri, scope, the finer parts, the wording pairs); a name None drops it."""
+    rename = lambda places: [q for q in dict.fromkeys(names.get(p, p) for p in places or []) if q is not None]
+    row['vi_tri'] = rename(row.get('vi_tri'))
+    row['scope'] = '; '.join(row['vi_tri'])
+    if row.get('_chi_tiet'):
+        row['_chi_tiet'] = {names.get(p, p): v for p, v in row['_chi_tiet'].items() if names.get(p, p) is not None}
+    for pair in row.get('cum_tu') or []:
+        pair['vi_tri'] = rename(pair.get('vi_tri'))
+
+
+def check_positions(relations, parsed):
+    """Layer 4 again, on the merged relations (both paths; 27/10/2026): each level of a position has a sentence that names it, and
+    the positions are all the sentence ties to the target.
+    - An Điều taken from the source's own number: "Điều 20. Sửa đổi, bổ sung Điều 51 … 2. Sửa đổi, bổ sung khoản 3 như sau" is
+      khoản 3 Điều 51, not khoản 3 Điều 20 (672540). The Điều the heading or a lead names takes its place when it names one; the
+      source's own Điều alone is dropped (679077); else the relation stays unresolved.
+    - A whole document, or the document named with no position, where the sentence ties positions to it: "… quy định chi tiết và
+      hướng dẫn thi hành Điều 8 và Điều 9 của Nghị quyết số 222/2025/QH15" is those articles (685741). A position left out is not
+      the whole document.
+    - Some of the positions the sentence ties to the target: the others are added ("Điều 8 và Điều 9", one of them read)."""
+    frames = unit_frames(parsed)
+    for record in relations:
+        row = record['_source']
+        if row['source_path'] not in frames:
+            continue
+        own, above = frames[row['source_path']]
+        # The words that can name the Điều: the quote, the heading and leads, the unit outside inserted wording (a rule's record has no
+        # quote of its own: "Bãi bỏ khoản 3 Điều 1 Nghị quyết số 14/2012/NQ-HĐND" is in the unit).
+        said = '\n'.join(strip_quotes(text or '') for text in [row.get('evidence')] + above)  # a quote left open ends with its own text
+        stated = re.compile(r'\bđiều\s+(?:\d+[a-zđ]?\s*(?:,|và)\s*(?:điều\s+)?)*' + re.escape(own) + r'(?!\w)', re.I)
+        borrowed = [p for p in row.get('vi_tri') or [] if re.search(r'\bĐiều ' + re.escape(own) + '$', p)]
+        if not borrowed or stated.search(said):
+            continue
+        named = {n for text in above[:-1] for m in re.finditer(r'\bđiều\s+(\d+[a-zđ]?(?:\s*(?:,|và)\s*(?:điều\s+)?\d+[a-zđ]?)*)', text, re.I)
+                 for n in re.findall(r'\d+[a-zđ]?', m[1])} - {own}
+        if len(named) == 1:
+            article = named.pop()
+            rename_places(row, {p: p[:-len(own)] + article for p in borrowed})
+        elif all(p == 'Điều ' + own for p in borrowed):
+            # The source's own article and nothing below it ("Quyết định số 1234/QĐ-UBND …" read as "Điều 2" in Điều 2, 679077): the
+            # act names no article. Without it the act is on the whole document, or at the document level for an amendment.
+            from .resolver import DOCUMENT_LEVEL, WHOLE  # resolver imports this module
+            rename_places(row, dict.fromkeys(borrowed))
+            if not row['vi_tri'] and row['action'] in WHOLE:
+                row.update(vi_tri=['toàn bộ'], scope='toàn bộ')
+            elif not row['vi_tri'] and row['action'] in DOCUMENT_LEVEL:
+                row['scope'] = DOCUMENT_LEVEL[row['action']]
+            elif not row['vi_tri'] and row.get('resolution_status') == 'validated':
+                row.update(resolution_status='unresolved', resolution_reason='vi_tri_khong_co_trong_nguon')
+        elif row.get('resolution_status') == 'validated':
+            row.update(resolution_status='unresolved', resolution_reason='vi_tri_khong_co_trong_nguon')
+    groups = {}
+    for record in relations:
+        row = record['_source']
+        if row.get('resolution_status') == 'validated' and row['source_path'] in frames and row['action'] != 'thay-cum-tu':
+            groups.setdefault((row['source_path'], row['action'], number_key(row.get('target_doc') or '')), []).append(row)
+    for rows in groups.values():
+        # Not a position named inside inserted wording or a note on the past ("đã được sửa đổi tại khoản 2 Điều 1 …").
+        tied = [p for row in rows for p in tied_places(HISTORY.sub(' ', strip_quotes(row.get('evidence') or '')), row.get('target_doc'))]
+        tied = list(dict.fromkeys(tied))
+        have = {p for row in rows for p in row.get('vi_tri') or [] if p != 'toàn bộ'}
+        if not tied or any(row.get('doi_tuong') for row in rows) or not have < set(tied) and have:
+            continue
+        first = rows[0]
+        first['vi_tri'] = [p for p in first.get('vi_tri') or [] if p != 'toàn bộ'] + [p for p in tied if p not in have]
+        first['scope'] = '; '.join(first['vi_tri'])
+    return relations

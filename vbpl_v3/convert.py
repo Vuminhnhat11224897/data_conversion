@@ -19,7 +19,7 @@ from .extract import extract
 from .relations import consolidation, detect, lookup_numbers, resolve, row_holders, stamp
 from .resolver import appendix_scope, object_kind, resolve_row
 from .text import language, number_key
-from .validate import only_in_history, validate
+from .validate import check_positions, only_in_history, validate
 from .structure import APPENDIX, NUMBER, appendix_label, build_chunks, normalize
 from .structure_ai import refine
 from .temporal import SUSPENSIONS, TEMPORAL_EFFECT, effective_date, finer_parts, in_format, normalize_scope, positions
@@ -208,12 +208,21 @@ def tidy_positions(relations, appendix=False):
         row = record['_source']
         k = (row['source_path'], row['action'], number_key(row.get('target_doc') or ''))
         groups.setdefault(k, set()).update(row.get('vi_tri') or [])
+    # A unit that names a provision and units under it that name its parts: the parts ("Sửa đổi, bổ sung Điều 5 như sau: a) Sửa đổi
+    # khoản 1 …; b) Bổ sung khoản 3 …" changes khoản 1 and khoản 3 Điều 5, 433634, 27/10/2026).
+    under = {}
+    for record in relations:
+        row = record['_source']
+        for (path, action, target), places in groups.items():
+            if path.startswith(row['source_path'] + ' ') and (action, target) == (row['action'], number_key(row.get('target_doc') or '')):
+                under.setdefault(id(record), set()).update(places)
     kept = []
     for record in relations:
         row = record['_source']
         places = row.get('vi_tri') or []
         group = groups[(row['source_path'], row['action'], number_key(row.get('target_doc') or ''))]
-        narrow = [p for p in places if not any(below(q, p) for q in group)]
+        parts = under.get(id(record), set())
+        narrow = [p for p in places if not any(below(q, p) for q in group) and (p == 'toàn bộ' or not any(below(q, p) for q in parts))]
         if places and not narrow:
             continue
         row['vi_tri'] = narrow
@@ -363,9 +372,10 @@ def model_relations(doc_id, meta, parsed, candidates, root, lookup, provenance, 
                         # is that procedure, not X as a whole.
                         record['_source'].update(vi_tri=[], doi_tuong=row['doi_tuong'], kem_theo=row.get('kem_theo', False), scope=row['scope'])
                         drop_rule_scope_check(record['_source'])
-                    elif not rule_places and not rule_part and (row.get('doi_tuong') or row.get('vi_tri')):
+                    elif not rule_places and not rule_part and (row.get('doi_tuong') or row.get('vi_tri') or not row.get('unresolved')):
                         # The rule found the act but not what it acts on ("Hủy bỏ 44 công trình, dự án … tại các Nghị quyết"): the
-                        # model's reading (a part, or the whole document) stands, instead of a relation left to review.
+                        # model's reading (a part, the whole document, or the document level: "Quyết định này sửa đổi, bổ sung Quyết
+                        # định số 393/…", 506261) stands, instead of a relation left to review.
                         record['_source'].update(vi_tri=row.get('vi_tri') or [], scope=row['scope'], unresolved=False)
                         if row.get('doi_tuong'):
                             record['_source'].update(doi_tuong=row['doi_tuong'], kem_theo=row.get('kem_theo', False))
@@ -515,7 +525,7 @@ def convert_document(doc_id, config, source, target, run_id, root, qa=True, dry_
             row.update(hieu_luc_tac_dong='ve_truoc', source_ngay_hoi_to=document['ngay_hoi_to'])
         if row['action'] in SUSPENSIONS and not row.get('dinh_chi_tu_ngay'):
             row['dinh_chi_tu_ngay'] = row['source_ngay_hieu_luc']
-    relations = one_per_position(tidy_positions(relations, appendix=config.extractor == 'llm'), doc_id)
+    relations = one_per_position(tidy_positions(check_positions(relations, parsed), appendix=config.extractor == 'llm'), doc_id)
     for record in relations:
         settle(record['_source'])
     review = [r['_source'] for r in relations if r['_source']['cap_quan_he'] == 'chua_xac_dinh']

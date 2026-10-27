@@ -10,10 +10,12 @@ Nothing is guessed: a row the text does not settle keeps resolution_status = unr
 import re
 
 from . import governance
+from .governance import TTHC
 from .structure import NUMBER
 from .text import number_key
-from .relations import scope
+from .relations import scope, strip_quotes
 from .temporal import extension, finer_parts, phrase_change, positions, suspension
+from .validate import tied_places
 
 # A whole document with no position: the act ends, replaces or halts all of it.
 WHOLE = {'bai-bo', 'thay-the', 'huy-bo', 'dinh-chi', 'ngung-hieu-luc', 'gia-han'}
@@ -103,13 +105,51 @@ def object_kind(named, heading='', row=False):
 
 DASHED = governance.DASHED  # one definition, shared with the evidence check
 
+# The act's object is the document itself, named right after the verb, which opens the sentence or follows "… này" or "và": "Quyết
+# định này sửa đổi, bổ sung Quyết định số 3533/…", "và thay thế Quyết định số 5143/…", a heading "SỬA ĐỔI, BỔ SUNG NGHỊ QUYẾT SỐ
+# 112/2003/NQ-HĐND". Not a task ("khẩn trương thực hiện sửa đổi Thông tư số …") or a verb inside a sentence.
+ON_DOCUMENT = re.compile(r'(?:^|[.;:\n]\s*|\b(?:này|và)\s+)(?:sửa\s+đổi(?:\s*,\s*|\s+và\s+|\s+)bổ\s+sung|sửa\s+đổi|bổ\s+sung|b[ãả]i\s+bỏ|thay\s+thế|h(?:uỷ|ủy|uy)\s+bỏ)\s+(?:toàn\s+bộ\s+)?'
+                         r'(?:Bộ\s+luật|Luật|Pháp\s+lệnh|Nghị\s+định|Nghị\s+quyết|Thông\s+tư(?:\s+liên\s+tịch)?|Quyết\s+định|Chỉ\s+thị)\s+(?:số\s*)?$', re.I)
+
+OWN_ARTICLES = re.compile(r'/(?:QH\d*|UBTVQH\d*|NĐ-CP|TT-|TTLT-)', re.I)
+
+# Procedures named as the act's object: "sửa đổi, bổ sung 29 (hai mươi chín) thủ tục hành chính đã được công bố theo Quyết định số …".
+ON_PROCEDURES = re.compile(r'(?:sửa\s+đổi(?:\s*,\s*|\s+và\s+|\s+)bổ\s+sung|sửa\s+đổi|bổ\s+sung|b[ãả]i\s+bỏ|thay\s+thế|h(?:uỷ|ủy|uy)\s+bỏ)\s+'
+                           r'(?P<obj>(?:\d+\s+(?:\([^)]{0,40}\)\s+)?)?(?:các\s+)?thủ\s+tục\s+hành\s+chính\b[^.;:]{0,160}?)\s+'
+                           r'(?:(?:đã\s+)?(?:được\s+)?(?:công\s+bố|ban\s+hành)|tại|theo)\b', re.I)
+
+
+def on_document(text, target):
+    plain = strip_quotes(text or '')
+    return any(number_key(m.group()) == number_key(target or '') and ON_DOCUMENT.search(plain[max(0, m.start() - 120):m.start()])
+               for m in NUMBER.finditer(plain))
+
+
+def named_before(part, row, target):
+    """The part the model read is the item's own words before the target's number, under a lead or item that names procedures or a
+    part an appendix holds: "Bãi bỏ các thủ tục hành chính gồm: 1. Cấp giấy phép hoạt động đo đạc và bản đồ được công bố tại Quyết
+    định số 3086/QĐ-BTNMT" is that procedure, not 3086 as a whole (411815, 27/10/2026). Both readings must agree: the model's part and
+    the words of the item."""
+    words = ' '.join(re.sub(r'[^\w\s]', ' ', part or '').split()[:4]).casefold()
+    if len(words.split()) < 3:
+        return False
+    f = governance.fields(row)
+    kind = appendix_like(part) or PROCEDURE.search(part) or TTHC.search(' '.join((f['cau_dan'], f['cau_dan_dieu'], f['ten_dieu'])))
+    for line in (f['don_vi'] + '\n' + f['danh_sach']).split('\n'):
+        at = next((m for m in NUMBER.finditer(line) if number_key(m.group()) == number_key(target)), None)
+        if kind and at and words in ' '.join(re.sub(r'[^\w\s]', ' ', line[:at.start()]).split()).casefold():
+            return True
+    return False
+
 
 def target_of(text):
     """'Quyết định số 28/2017/QĐ-UBND ngày …' -> '28/2017/QĐ-UBND'; 'Hướng dẫn số 38-HD/BTCTW' -> '38-HD/BTCTW';
     'Luật Đất đai' -> 'Luật Đất đai'; otherwise None."""
     match = NUMBER.search(text or '') or DASHED.search(text or '')
     if match:
-        return re.sub(r'\s+', '', match.group()).replace('Ð', 'Đ')
+        number = re.sub(r'\s+', '', match.group()).replace('Ð', 'Đ')
+        # A number typed without its Đ ("18/2022/NQ-HDND", 562142, 27/10/2026) is the number documents are filed under.
+        return re.sub(r'(?<=[-/])(QD|ND|HDND)(?=[-/\d]|$)', lambda m: {'QD': 'QĐ', 'ND': 'NĐ', 'HDND': 'HĐND'}[m[1]], number)
     if LAW.match((text or '').strip()):
         return ' '.join(text.split())
     return None
@@ -162,11 +202,18 @@ def resolve_row(row):
     # An item of a list acts on what it names first (C, 21/10/2026): the document itself, or a provision of it. Positions and parts
     # read from the words after the document's number are its name ("Quyết định X về việc sửa đổi khoản 2 Điều 3"), never this scope.
     item = governance.item_object(row, out['target_doc']) if target else None
-    if item and item[0] == 'van_ban':
+    listed = bool(item and item[0] == 'van_ban' and named_before(part, row, out['target_doc']))
+    if item and item[0] == 'van_ban' and not listed:
         places, part = [], ''
         whole = whole or row['action'] in WHOLE
-    elif item:
-        places, part = [p for p in positions(item[1]) if p != 'toàn bộ'] or places, ''
+    elif item and item[0] == 'vi_tri':
+        # A provision named first is the scope; an item that names a part with no position to read ("Thủ tục hành chính có số thứ tự
+        # 21, 22 Mục I Phụ lục I", 679692, 27/10/2026) keeps the part, not the whole document.
+        read = [p for p in positions(item[1]) if p != 'toàn bộ']
+        if read or places:
+            places, part = read or places, ''
+        else:
+            part = part or (item[1] if appendix_like(item[1]) else '')
     # A part with no node of its own (a form, a paragraph, a sentence, a row) keeps its limit when the edge goes to the node that holds
     # it (C, 21/10/2026): "Mẫu số 01 Phụ lục I" is Phụ lục I, only the form.
     detail = {}
@@ -189,19 +236,36 @@ def resolve_row(row):
     elif row['action'] in DOCUMENT_LEVEL and (row['target_section'] == 'khong_ap_dung' or row['action'] in ('huong-dan', 'quy-dinh-chi-tiet')
                                              or row['source_path'] == 'Phần đầu'):
         # The title or the issuing sentence names the act on the document ("Quyết định sửa đổi Quyết định số 307/QĐ-UBND"): it is about
-        # the document as a whole, whatever part the model guessed; the articles carry the positions.
-        out.update(scope=DOCUMENT_LEVEL[row['action']], vi_tri=[], unresolved=False)
+        # the document as a whole, whatever part the model guessed; the articles carry the positions. An article that names procedures
+        # as the act's object acts on those procedures (273699, 27/10/2026).
+        named = ON_PROCEDURES.search(strip_quotes(row['evidence'])) if row['source_path'] != 'Phần đầu' else None
+        if named:
+            part = ' '.join(named['obj'].split())
+            out.update(scope=part, vi_tri=[], doi_tuong=part, kem_theo=row['target_section'] == 'kem_theo', unresolved=False)
+        else:
+            out.update(scope=DOCUMENT_LEVEL[row['action']], vi_tri=[], unresolved=False)
+    elif row['action'] in WHOLE.union(DOCUMENT_LEVEL) and on_document(row['evidence'], out['target_doc']):
+        # The quote names the document itself as the act's object and no part of it (27/10/2026): the whole document for an act on
+        # a whole, the document level for an amendment, as for the title, whatever section the model chose.
+        whole = row['action'] in WHOLE
+        out.update(scope='toàn bộ' if whole else DOCUMENT_LEVEL[row['action']], vi_tri=['toàn bộ'] if whole else [], unresolved=False)
     else:
         out.update(scope='chưa xác định', vi_tri=[], unresolved=True)
         unresolved('vi_tri_chua_xac_dinh')
 
-    # Case A: a decision and the Quy định it issues both have an Điều 3; "khoản 7 Điều 3" alone does not say which.
-    if row['target_section'] == 'khong_ro' and any(re.search(r'\bĐiều\s', p) for p in places):
+    # Case A: a decision and the Quy định it issues both have an Điều 3; "khoản 7 Điều 3" alone does not say which. A law, a resolution
+    # of the National Assembly, a decree or a circular issues no Quy định with articles of its own: positions the quote ties to its
+    # number are its own ("… điểm c2 khoản 1 Điều 9, khoản 3 Điều 30 của Nghị quyết số 222/2025/QH15", 685777, 27/10/2026).
+    if row['target_section'] == 'khong_ro' and any(re.search(r'\bĐiều\s', p) for p in places) \
+            and not (OWN_ARTICLES.search(out['target_doc']) and set(places) <= set(tied_places(strip_quotes(row['evidence']), out['target_doc']))):
         unresolved('phan_kem_theo_chua_ro')
     if row['target_section'] == 'kem_theo':
         out['kem_theo'] = True
     row_unit = ' STT ' in row['source_path']
-    out['doi_tuong_loai'] = object_kind(out.get('doi_tuong'), lead + ' ' + row['_context'].get('ten_dieu', ''), row_unit)
+    # An item of a list that names a part is a row of that list: the lead above it says what the list holds (411815: "Bãi bỏ các thủ
+    # tục hành chính gồm:").
+    out['doi_tuong_loai'] = object_kind(out.get('doi_tuong'), ' '.join((lead, row['_context'].get('ten_dieu', ''), row['_context'].get('cau_dan_dieu', '') if listed else '')),
+                                        row_unit or listed)
     if out['doi_tuong_loai'] == 'thu_tuc_hanh_chinh':
         code = PROCEDURE_CODE.search(unit if row_unit else row['evidence'])
         if code:

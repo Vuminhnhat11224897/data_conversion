@@ -6,10 +6,11 @@ import tempfile
 import unittest
 
 from vbpl_v3.extract import extract, shorten_quotes
-from vbpl_v3.resolver import appendix_scope, resolve_row
+from vbpl_v3.convert import tidy_positions
+from vbpl_v3.resolver import appendix_scope, resolve_row, target_of
 from vbpl_v3.structure import parse
 from vbpl_v3.text import number_key
-from vbpl_v3.validate import only_in_history, only_noted, validate
+from vbpl_v3.validate import check_positions, only_in_history, only_noted, validate
 
 META = {'document_number': '15/2020/QĐ-UBND', 'title': 'Quyết định sửa đổi Quy định ban hành kèm theo Quyết định 28/2017/QĐ-UBND',
         'action': 'sua-doi', 'legal_type': 'Quyết định', 'issuing_authority': 'Tỉnh A', 'issuance_date': '2020-05-01', 'legal_sectors': []}
@@ -83,6 +84,11 @@ class Validation(unittest.TestCase):
         stated = dict(act, target_section='kem_theo', evidence='Sửa đổi khoản 7 Điều 3 của Quy định ban hành kèm theo Quyết định số 28/2017/QĐ-UBND')
         (relation,), _ = kept([row('Sửa đổi khoản 7 Điều 3 của Quy định ban hành kèm theo Quyết định số 28/2017/QĐ-UBND như sau:', stated)])
         self.assertEqual((relation['resolution_status'], relation['vi_tri'], relation['kem_theo']), ('validated', ['khoản 7 Điều 3'], True))
+        # A resolution of the National Assembly issues no Quy định: positions tied to its number are its own (685777, 27/10/2026).
+        law = dict(act, target_document='222/2025/QH15', target_text=['khoản 3 Điều 30'],
+                   evidence='Sửa đổi khoản 3 Điều 30 của Nghị quyết số 222/2025/QH15')
+        (relation,), _ = kept([row('Sửa đổi khoản 3 Điều 30 của Nghị quyết số 222/2025/QH15 như sau: “3. Nội dung mới.”', law)])
+        self.assertEqual((relation['resolution_status'], relation['vi_tri']), ('validated', ['khoản 3 Điều 30']))
 
     def test_b_a_catalogue_name_is_no_act(self):
         text = 'Công bố Danh mục văn bản cần đình chỉ thi hành, ngưng hiệu lực, sửa đổi, bổ sung, thay thế, bãi bỏ của Quyết định số 12/2019/QĐ-UBND.'
@@ -159,6 +165,45 @@ class Validation(unittest.TestCase):
         # A lead elsewhere that acts on the document named in the note keeps it.
         item = 'a) Quyết định số 12/2020/QĐ-UBND (đã được sửa đổi bởi Quyết định số 30/2021/QĐ-UBND)'
         self.assertFalse(only_noted(item, 'Bãi bỏ Quyết định số 30/2021/QĐ-UBND và các văn bản sau:', number_key('30/2021/QĐ-UBND')))
+
+    def test_positions_checked_after_the_merge(self):
+        # 27/10/2026: each level of a position has a sentence naming it; the positions are all the sentence ties to the target.
+        parsed = {'phu_luc': [], 'dieu_luat': [
+            {'ky_hieu': '1', 'tieu_de': 'Phạm vi điều chỉnh', 'mo_dau': '', 'khoan': []},
+            {'ky_hieu': '20', 'tieu_de': 'Sửa đổi, bổ sung Điều 51', 'mo_dau': '', 'khoan': [
+                {'ky_hieu': '2', 'mo_dau': 'Sửa đổi, bổ sung khoản 3 như sau:', 'noi_dung': '', 'diem': [{'ky_hieu': 'b', 'noi_dung': ''}]}]},
+            {'ky_hieu': '21', 'tieu_de': 'Sửa đổi một số điều', 'mo_dau': '', 'khoan': [{'ky_hieu': '1', 'mo_dau': '', 'noi_dung': '', 'diem': []}]}]}
+        record = lambda path, places, evidence, action='sua-doi', target='95/2024/NĐ-CP': {'_source': {
+            'source_path': path, 'action': action, 'target_doc': target, 'vi_tri': places, 'scope': '; '.join(places),
+            'evidence': evidence, 'resolution_status': 'validated'}}
+        # 672540: the source's own Điều 20 is not the target's; the heading names Điều 51.
+        borrowed = record('Điều 20 Khoản 2', ['khoản 3 Điều 20'], 'Sửa đổi, bổ sung khoản 3 như sau:')
+        point = record('Điều 20 Khoản 2 điểm b', ['điểm c khoản 3 Điều 20'], 'Thay thế cụm từ “30 ngày” thành cụm từ “20 ngày” tại điểm c.',
+                       'thay-cum-tu')
+        point['_source']['cum_tu'] = [{'cum_tu_cu': '30 ngày', 'cum_tu_moi': '20 ngày', 'vi_tri': ['điểm c khoản 3 Điều 20']}]
+        unknown = record('Điều 21 Khoản 1', ['khoản 2 Điều 21'], 'Bãi bỏ khoản 2.', 'bai-bo')
+        stated = record('Điều 21 Khoản 1', ['khoản 4 Điều 21'], 'Bãi bỏ khoản 4 Điều 21 của Nghị định số 95/2024/NĐ-CP.', 'bai-bo')
+        # 685741: a whole document where the sentence ties two articles to it; one article of two.
+        guide = 'Nghị định này quy định chi tiết và hướng dẫn thi hành Điều 8 và Điều 9 của Nghị quyết số 222/2025/QH15 ngày 27 tháng 6 năm 2025'
+        whole = record('Điều 1', ['toàn bộ'], guide, 'huong-dan', '222/2025/QH15')
+        some = record('Điều 1', ['Điều 8'], guide, 'quy-dinh-chi-tiet', '222/2025/QH15')
+        other = record('Điều 1', ['toàn bộ'], 'Bãi bỏ Điều 5 và Quyết định số 12/2020/QĐ-UBND.', 'bai-bo', '12/2020/QĐ-UBND')
+        # 679077: the source's own article alone, no article named: the act on the whole document stays, without the article.
+        own = record('Điều 21 Khoản 1', ['Điều 21'], 'Quyết định số 1234/QĐ-UBND ngày 01/6/2022 của Chủ tịch UBND tỉnh.', 'bai-bo', '1234/QĐ-UBND')
+        # 375075: a quote left open does not hide the lead naming the article.
+        lead = record('Điều 22 Khoản 1', ['khoản 1 Điều 22'], 'Sửa đổi, bổ sung thành: “...có mã HS 7210.70.11', 'sua-doi', '1931/QĐ-BCT')
+        parsed['dieu_luat'].append({'ky_hieu': '22', 'tieu_de': '', 'mo_dau': 'Sửa đổi, bổ sung Điều 22 của Quyết định số 1931/QĐ-BCT',
+                                    'khoan': [{'ky_hieu': '1', 'mo_dau': '', 'noi_dung': '', 'diem': []}]})
+        check_positions([borrowed, point, unknown, stated, whole, some, other, own, lead], parsed)
+        self.assertEqual((own['_source']['vi_tri'], own['_source']['resolution_status']), (['toàn bộ'], 'validated'))
+        self.assertEqual((lead['_source']['vi_tri'], lead['_source']['resolution_status']), (['khoản 1 Điều 22'], 'validated'))
+        self.assertEqual((borrowed['_source']['vi_tri'], borrowed['_source']['scope']), (['khoản 3 Điều 51'], 'khoản 3 Điều 51'))
+        self.assertEqual((point['_source']['vi_tri'], point['_source']['cum_tu'][0]['vi_tri']), (['điểm c khoản 3 Điều 51'], ['điểm c khoản 3 Điều 51']))
+        self.assertEqual((unknown['_source']['vi_tri'], unknown['_source']['resolution_status']), (['khoản 2 Điều 21'], 'unresolved'))
+        self.assertEqual((stated['_source']['vi_tri'], stated['_source']['resolution_status']), (['khoản 4 Điều 21'], 'validated'))
+        self.assertEqual(whole['_source']['vi_tri'], ['Điều 8', 'Điều 9'])
+        self.assertEqual(some['_source']['vi_tri'], ['Điều 8', 'Điều 9'])
+        self.assertEqual(other['_source']['vi_tri'], ['toàn bộ'])
 
     def test_quotes_and_new_wording_and_invented_quotes(self):
         text = 'Khoản 2 được sửa đổi như sau: “2. Bãi bỏ Quyết định số 99/2010/QĐ-UBND.”'
@@ -285,6 +330,47 @@ class DevRoundOne(unittest.TestCase):
         # "được sửa đổi, bổ sung" is two acts (settled 14/10/2026); the model gave one, the other is added.
         self.assertEqual(sorted((r['action'], tuple(r['vi_tri'])) for r in relations),
                          [('bo-sung', ('khoản 3 Điều 5',)), ('sua-doi', ('khoản 3 Điều 5',))])
+
+    def test_the_document_itself_as_the_object(self):
+        # 27/10/2026 (506261): the quote names the document right after the verb and no part of it: the document level, not review.
+        text = 'Quyết định này sửa đổi, bổ sung Quyết định số 393/QĐ-UBND ngày 31 tháng 01 năm 2019 và thay thế Quyết định số 5143/QĐ-UBND.'
+        act = {'action': 'sua-doi', 'target_document': '393/QĐ-UBND', 'target_section': 'quyet_dinh', 'target_text': [],
+               'evidence': 'Quyết định này sửa đổi, bổ sung Quyết định số 393/QĐ-UBND ngày 31 tháng 01 năm 2019'}
+        replaced = dict(act, action='thay-the', target_document='5143/QĐ-UBND', evidence='và thay thế Quyết định số 5143/QĐ-UBND')
+        relations, _ = kept([row(text, act), row(text, replaced)])
+        self.assertEqual({(r['action'], r['scope'], r['resolution_status']) for r in relations},
+                         {('sua-doi', 'một số điều', 'validated'), ('bo-sung', 'một số điều', 'validated'), ('thay-the', 'toàn bộ', 'validated')})
+        # A verb inside a sentence is not the act's object named: left to review as before.
+        task = 'Đề nghị Sở Nội vụ khẩn trương thực hiện sửa đổi Thông tư số 08/2009/TT-BNV.'
+        relations, _ = kept([row(task, dict(act, target_document='08/2009/TT-BNV', evidence=task))])
+        self.assertNotIn('validated', [r['resolution_status'] for r in relations])
+        # A number typed without its Đ is the number documents are filed under.
+        self.assertEqual(target_of('Nghị quyết số 18/2022/NQ-HDND'), '18/2022/NQ-HĐND')
+
+    def test_an_item_that_names_a_part(self):
+        # 27/10/2026: an item of a list names a part before the document's number; the model read that part. It is the part.
+        lead = 'Quyết định này có hiệu lực thi hành kể từ ngày 01 tháng 5 năm 2019.\nBãi bỏ các thủ tục hành chính gồm:'
+        text = 'Cấp giấy phép hoạt động đo đạc và bản đồ được công bố tại Quyết định số 3086/QĐ-BTNMT ngày 10 tháng 10 năm 2018.'
+        act = {'action': 'bai-bo', 'target_document': '3086/QĐ-BTNMT', 'target_section': 'khong_ro', 'target_text': [],
+               'target_part': 'Cấp giấy phép hoạt động đo đạc và bản đồ', 'evidence': text}
+        item = row(text, act)
+        item['_context']['cau_dan_dieu'] = lead
+        (relation,), _ = kept([item])
+        self.assertEqual((relation['vi_tri'], relation.get('doi_tuong'), relation['doi_tuong_loai']),
+                         ([], 'Cấp giấy phép hoạt động đo đạc và bản đồ', 'thu_tuc_hanh_chinh'))
+        # The same item when the model read no part: the document, as before.
+        bare = row(text, dict(act, target_part=''))
+        bare['_context']['cau_dan_dieu'] = lead
+        (relation,), _ = kept([bare])
+        self.assertEqual(relation['vi_tri'], ['toàn bộ'])
+
+    def test_a_provision_and_the_parts_its_items_name(self):
+        # 27/10/2026 (433634): "Sửa đổi, bổ sung Điều 5 như sau: a) Sửa đổi khoản 1 …" changes khoản 1 Điều 5, not Điều 5 too.
+        record = lambda path, places: {'_source': {'source_path': path, 'action': 'sua-doi', 'target_doc': '38/2017/QĐ-UBND', 'vi_tri': places}}
+        relations = tidy_positions([record('Điều 1 Khoản 2', ['Điều 5']), record('Điều 1 Khoản 2 điểm a', ['khoản 1 Điều 5']),
+                                    record('Điều 1 Khoản 3', ['Điều 7'])])
+        self.assertEqual([(r['_source']['source_path'], r['_source']['vi_tri']) for r in relations],
+                         [('Điều 1 Khoản 2 điểm a', ['khoản 1 Điều 5']), ('Điều 1 Khoản 3', ['Điều 7'])])
 
     def test_no_document_itself_and_citations(self):
         text = 'Triển khai thực hiện theo hướng dẫn tại Quyết định số 15/2020/QĐ-UBND này. Bãi bỏ các quy định trái với Quyết định này.'
