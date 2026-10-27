@@ -486,3 +486,50 @@ def inserts_phrase(row, frames):
     text, quote = frames[row['source_path']][1][-1], row.get('evidence') or ''
     said = [w for p in row.get('vi_tri') or [] for w in (stating(text, p), stating(quote, p)) if w] or [opening(text), opening(quote)]
     return any(INSERTS.search(w) for w in said)
+
+
+def sentences(text):
+    """The unit's sentences and list items, verbatim (quoted wording stays inside its sentence)."""
+    parts, depth, start = [], 0, 0
+    for n, char in enumerate(text):
+        depth += char == '“'
+        depth -= char == '”' and depth > 0
+        if not depth and (char in ';\n' or (char == '.' and text[n + 1:n + 2] in (' ', '\n', ''))):
+            parts.append(text[start:n + 1].strip())
+            start = n + 1
+    parts.append(text[start:].strip())
+    return [p for p in parts if p]
+
+
+def own_quotes(relations, parsed):
+    """R12 on the final edges, after the positions are settled (tidy_positions reads the evidence)."""
+    frames = unit_frames(parsed)
+    for record in relations:
+        own_quote(record['_source'], frames)
+    return relations
+
+
+def own_quote(row, frames):
+    """R12 (27/10/2026): the evidence is one verbatim piece of the unit itself that states the act: no "…" joins, never empty. A
+    phrase change quotes the sentence holding its phrase; another act the sentence naming its position, else the unit's first."""
+    if row['source_path'] not in frames:
+        return
+    text = frames[row['source_path']][1][-1]
+    plain = ' '.join(text.split())
+    quote = ' '.join((row.get('evidence') or '').split())
+    phrases = [p.get('cu') for p in row.get('cum_tu') or [] if p.get('cu')]
+    if quote and '…' not in quote and quote in plain and all(p in quote for p in phrases):
+        return
+    pieces = sentences(text)
+    pick = next((x for x in pieces if phrases and all(p in x for p in phrases)), None) \
+        or next((x for x in pieces if phrases and phrases[0] in x), None)
+    for place in [] if pick else row.get('vi_tri') or []:
+        first = re.match(r'(?:tên\s+)?(?:tiểu\s+điểm|điểm|khoản|điều)\s+[\w.]+', place, re.I)
+        if first:
+            words = r'\s+'.join(map(re.escape, first.group().split()))
+            pick = next((x for x in pieces if re.search(r'(?<!\w)' + words + r'(?![\w.])', strip_quotes(x), re.I)), None)
+        if pick:
+            break
+    pick = pick or (pieces[0] if pieces else '')
+    if pick:
+        row['evidence'] = ' '.join(pick.split())[:2000]

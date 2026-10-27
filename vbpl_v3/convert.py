@@ -19,7 +19,7 @@ from .extract import extract
 from .relations import consolidation, detect, lookup_numbers, resolve, row_holders, stamp
 from .resolver import appendix_scope, object_kind, resolve_row
 from .text import language, number_key
-from .validate import check_positions, only_in_history, validate
+from .validate import check_positions, only_in_history, own_quotes, validate
 from .structure import APPENDIX, NUMBER, appendix_label, build_chunks, normalize
 from .structure_ai import refine
 from .temporal import SUSPENSIONS, TEMPORAL_EFFECT, effective_date, finer_parts, in_format, normalize_scope, positions
@@ -572,7 +572,7 @@ def convert_document(doc_id, config, source, target, run_id, root, qa=True, dry_
             row.update(hieu_luc_tac_dong='ve_truoc', source_ngay_hoi_to=document['ngay_hoi_to'])
         if row['action'] in SUSPENSIONS and not row.get('dinh_chi_tu_ngay'):
             row['dinh_chi_tu_ngay'] = row['source_ngay_hieu_luc']
-    relations = one_per_position(tidy_positions(check_positions(relations, parsed), appendix=config.extractor == 'llm'), doc_id)
+    relations = own_quotes(one_per_position(tidy_positions(check_positions(relations, parsed), appendix=config.extractor == 'llm'), doc_id), parsed)
     for record in relations:
         settle(record['_source'])
     review = [r['_source'] for r in relations if r['_source']['cap_quan_he'] == 'chua_xac_dinh']
