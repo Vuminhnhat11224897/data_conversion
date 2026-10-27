@@ -23,7 +23,7 @@ import sys
 
 ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT))
-from vbpl_v3.resolver import appendix_like  # noqa: E402
+from vbpl_v3.resolver import appendix_like, body_place  # noqa: E402
 from vbpl_v3.temporal import positions  # noqa: E402
 from vbpl_v3.text import number_key  # noqa: E402
 
@@ -86,7 +86,7 @@ def place(value):
         if ARTICLE_PLACE.search(text) and not re.search(r'\b(?:mục|phần)\b', text, re.I):
             return '?' + text.casefold()
         return appendix(text)
-    return found[0] if ARTICLE_PLACE.search(found[0]) else appendix(found[0])
+    return found[0] if body_place(found[0]) else appendix(found[0])  # the same test as the tool (resolver.appendix_scope)
 
 
 # The pairing convention (26/10/2026): "Sửa đổi, bổ sung X" gives sua-doi and bo-sung; a label may keep one of them.

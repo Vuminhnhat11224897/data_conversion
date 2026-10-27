@@ -31,7 +31,7 @@ PROCEDURE_CODE = re.compile(r'(?<![\d.])\d\.\d{6}(?![\d.])')
 
 
 # The appendix convention (26/10/2026): what is not điều – khoản – điểm (a part named by name, a Mục or Phần of a plan or an old
-# circular, a row of a catalogue, "Mục II Phần B Phụ lục I") is its appendix; its words stay as the content (doi_tuong).
+# circular, a row of a catalogue, "Mục II Phần B Phụ lục I") is its appendix; its words stay as the content (doi_tuong, chi_tiet_vi_tri).
 ARTICLE_PLACE = re.compile(r'\b(?:điểm|khoản|Điều|Chương)\b', re.I)
 APPENDIX_LABEL = re.compile(r'phụ\s+lục\s+(?:số\s+)?([IVXLCDM]+|\d+[a-zđ]?|[A-ZĐ])\b', re.I)
 
@@ -53,15 +53,36 @@ def appendix_like(part):
     return bool(APPENDIX_KIND.search(part or ''))
 
 
+# Positions of the body the contract names besides điều – khoản – điểm (contract 9.5): the document's title and the name of a Mục
+# ("tên Mục 1"); a Mục under a Chương ("Mục 1 Chương II") is one by ARTICLE_PLACE. A Mục on its own is most often a part of a plan or
+# a list, also when numbered (683435: "Mục 89" of a decision's appendix), so it is the appendix.
+BODY_PLACE = re.compile(r'^(?:tên văn bản|tên Mục \d+)$')
+
+
+def body_place(place):
+    """The position is a part of the document's body: an article level, a Mục under a Chương, the title, the name of a Mục."""
+    return bool(ARTICLE_PLACE.search(place) or BODY_PLACE.match(place))
+
+
 def appendix_scope(record):
-    """The final positions of an edge under the appendix convention: every position outside điều – khoản – điểm becomes its appendix,
-    and a part named by name that an appendix holds (appendix_like, a procedure, a row of a list) becomes that appendix. Other parts
-    named by name, the whole document and article positions stay."""
+    """The final positions of an edge under the appendix convention: every position outside the body (body_place) becomes its
+    appendix, and a part named by name that an appendix holds (appendix_like, a procedure, a row of a list) becomes that appendix.
+    Other parts named by name, the whole document and body positions stay. A position moved keeps its words as the limit on the edge
+    to the appendix (_chi_tiet, written as chi_tiet_vi_tri), so nothing the sentence names is lost (27/10/2026). Run more than once:
+    positions read late (a rule's scope, a row of a list) go through it too."""
     places = [p for p in record.get('vi_tri') or [] if p != 'toàn bộ']
     if places:
-        moved = list(dict.fromkeys(p if ARTICLE_PLACE.search(p) else appendix_place(p) for p in places))
-        if moved != places:
-            record.update(vi_tri=moved, scope='; '.join(moved))
+        moved = {p: p if body_place(p) else appendix_place(p) for p in places}
+        if any(p != q for p, q in moved.items()):
+            detail = record.setdefault('_chi_tiet', {})
+            for p, q in moved.items():
+                if p != q:
+                    finer = detail.pop(p, None)
+                    detail[q] = '; '.join(x for x in dict.fromkeys([detail.get(q), p, finer]) if x)
+            kept = list(dict.fromkeys(moved.values()))
+            record.update(vi_tri=kept, scope='; '.join(kept))
+        for pair in record.get('cum_tu') or []:
+            pair['vi_tri'] = list(dict.fromkeys(p if p == 'toàn bộ' or body_place(p) else appendix_place(p) for p in pair.get('vi_tri') or []))
     elif record.get('doi_tuong') and (appendix_like(record['doi_tuong']) or record.get('doi_tuong_loai') == 'thu_tuc_hanh_chinh'
                                       or ' STT ' in record.get('source_path', '') or record.get('source_path', '').startswith('Phụ lục')):
         place = appendix_place(record['doi_tuong'])

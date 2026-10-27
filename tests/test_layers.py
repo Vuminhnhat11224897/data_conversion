@@ -128,6 +128,21 @@ class Validation(unittest.TestCase):
         procedure = {'vi_tri': [], 'doi_tuong': 'các thủ tục hành chính tương ứng', 'source_path': 'Điều 2'}
         appendix_scope(procedure)
         self.assertEqual(procedure['vi_tri'], ['Phụ lục'])
+        # 27/10/2026: body positions of the contract stay; a moved position keeps its words on the edge, and so do wording pairs.
+        body = {'vi_tri': ['tên văn bản', 'tên Mục 1', 'Mục 2 Chương III']}
+        appendix_scope(body)
+        self.assertEqual(body['vi_tri'], ['tên văn bản', 'tên Mục 1', 'Mục 2 Chương III'])
+        numbered = {'vi_tri': ['Mục 89']}  # 683435: a Mục on its own is a part of an appendix, also when numbered
+        appendix_scope(numbered)
+        self.assertEqual((numbered['vi_tri'], numbered['_chi_tiet']), (['Phụ lục'], {'Phụ lục': 'Mục 89'}))
+        rows = {'vi_tri': ['Mục I Phụ lục I', 'Mục IV'], '_chi_tiet': {'Mục I Phụ lục I': 'số thứ tự 01'},
+                'cum_tu': [{'cum_tu_cu': 'A', 'cum_tu_moi': 'B', 'vi_tri': ['Mục IV']}]}
+        appendix_scope(rows)
+        self.assertEqual(rows['vi_tri'], ['Phụ lục I', 'Phụ lục'])
+        self.assertEqual(rows['_chi_tiet'], {'Phụ lục I': 'Mục I Phụ lục I; số thứ tự 01', 'Phụ lục': 'Mục IV'})
+        self.assertEqual(rows['cum_tu'][0]['vi_tri'], ['Phụ lục'])
+        appendix_scope(rows)  # a second pass changes nothing
+        self.assertEqual((rows['vi_tri'], rows['_chi_tiet']['Phụ lục']), (['Phụ lục I', 'Phụ lục'], 'Mục IV'))
 
     def test_a_note_cut_out_of_the_quote_still_counts(self):
         # 27/10/2026 (675210): the governing sentence was cut after the note; the unit's own text decides.

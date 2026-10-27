@@ -155,13 +155,14 @@ def below(inner, outer):
     return inner.endswith(' ' + outer) and not inner.startswith('tên ')
 
 
-def tidy_positions(relations):
+def tidy_positions(relations, appendix=False):
     """Positions a relation can be an edge to.
     - A position outside the contract format ("Mục Thời gian thực hiện đối với 11 thủ tục hành chính") names a part by name: it moves to
       doi_tuong, and the relation points to the document (cap_quan_he noi_dung or van_ban_kem_theo).
     - The same unit, act and document never reach both a provision and a part of it: "Sửa đổi điểm a, khoản 16 Điều 2" changes the
       point, not the clause too; a whole document beside its parts is the parts. Only the most specific positions stay, and a relation
-      left with none of its own is dropped (it only restated a wider position)."""
+      left with none of its own is dropped (it only restated a wider position).
+    - appendix (llm mode): the appendix convention again, for the positions read after the merge (resolver.appendix_scope)."""
     for record in relations:
         row = record['_source']
         # "Mục II Phụ lục số 07" is "Mục II Phụ lục 07" (H2 357621).
@@ -194,6 +195,11 @@ def tidy_positions(relations):
                    unresolved=False)
         if row.get('resolution_reason') == 'vi_tri_chua_xac_dinh':
             row.update(resolution_status='validated', resolution_reason=None)
+    if appendix:
+        # A rule's scope read into positions above, a row's appendix, a wording pair's own positions (27/10/2026: 60/9.759 relations
+        # of fix7-H56 + fix7-ho kept "Mục I Phụ lục I", "Mục IV" after the merge).
+        for record in relations:
+            appendix_scope(record['_source'])
     # A provision and a part of it from the same unit, act and document: the part ("Sửa đổi điểm a, khoản 16 Điều 2" is the point).
     # A whole document and a part named by name are two readings of the scope; which one holds is read from the act's object in the
     # resolver (21/10/2026), not decided here by a rule that one kind always wins.
@@ -509,7 +515,7 @@ def convert_document(doc_id, config, source, target, run_id, root, qa=True, dry_
             row.update(hieu_luc_tac_dong='ve_truoc', source_ngay_hoi_to=document['ngay_hoi_to'])
         if row['action'] in SUSPENSIONS and not row.get('dinh_chi_tu_ngay'):
             row['dinh_chi_tu_ngay'] = row['source_ngay_hieu_luc']
-    relations = one_per_position(tidy_positions(relations), doc_id)
+    relations = one_per_position(tidy_positions(relations, appendix=config.extractor == 'llm'), doc_id)
     for record in relations:
         settle(record['_source'])
     review = [r['_source'] for r in relations if r['_source']['cap_quan_he'] == 'chua_xac_dinh']
