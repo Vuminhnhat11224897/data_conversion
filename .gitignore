@@ -13,6 +13,16 @@ archive/
 # Ứng dụng so sánh Gốc · v3 · v4: công cụ cục bộ, không thuộc luồng sản phẩm (dữ liệu chụp từ ES ~15 MB)
 frontend/
 
+# Khảo sát format cục bộ: module độc lập, cache toàn văn và CSV rà soát
+/format_survey_local/
+
+# Kết quả benchmark và cache model (~4,6 GB), chỉ giữ cục bộ
+/bernmark/
+
+# Bảng xuất ở gốc để rà soát thủ công
+/*.xlsx
+/*.csv
+
 # Đánh giá: chỉ giữ code, rubric, danh sách bộ và nhãn đã khóa.
 # Gói gán nhãn chứa toàn văn, tạo lại bằng python -m eval.packets; bản nháp phân xử đã gộp vào eval/gold/*-adj.
 eval/packets/

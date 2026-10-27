@@ -1,17 +1,6 @@
-# Image chỉ cần requirements.txt và vbpl_v3/ (xem Dockerfile).
-.env
-.env.*
-work
-archive
-docs
-tests
-*.md
-.venv
-venv
-__pycache__
-*.py[cod]
-*.log
-.git
-.gitignore
-.vscode
-.idea
+# Image chỉ cần requirements.txt và vbpl_v3/ (xem Dockerfile): bỏ mọi thứ khác khỏi build context.
+*
+!requirements.txt
+!vbpl_v3/
+**/__pycache__
+**/*.py[cod]
