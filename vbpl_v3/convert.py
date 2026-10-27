@@ -233,20 +233,29 @@ def tidy_positions(relations, appendix=False):
 def distinct_edges(relations):
     """One edge once (27/10/2026; 146/2025 had 1.662 repeated rows): the same act, target, position, part and wording pair read in
     a unit and again in a unit under it ("Điều 1 Khoản 9" and "Điều 1 Khoản 9 điểm a") is the lower unit's; read twice in one unit,
-    it is kept once, the validated reading first. A reading the lower unit left for review does not hide a checked one above it."""
+    it is kept once, the validated reading first. A reading the lower unit left for review does not hide a checked one above it.
+    A lead with no position, part or wording whose lower units state the same act on the same target is dropped (R2).
+    Decisions R1, R2 of docs/07 §7.4."""
     def edge(row):
         return (row.get('action'), number_key(row.get('target_doc') or ''), tuple(row.get('vi_tri') or []), row.get('doi_tuong'),
                 json.dumps(sorted((p.get('cu') or '', p.get('moi') or '') for p in row.get('cum_tu') or []), ensure_ascii=False))
-    lower = {}
+    lower, acted = {}, {}
     for record in relations:
-        if record['_source'].get('resolution_status') == 'validated':
-            lower.setdefault(edge(record['_source']), set()).add(record['_source'].get('source_path') or '')
+        row = record['_source']
+        if row.get('resolution_status') == 'validated':
+            lower.setdefault(edge(row), set()).add(row.get('source_path') or '')
+            acted.setdefault((row.get('action'), number_key(row.get('target_doc') or '')), set()).add(row.get('source_path') or '')
     kept, at = [], {}
     for record in relations:
         row = record['_source']
         k = edge(row)
         path = row.get('source_path') or ''
         if path and any(lower_path.startswith(path + ' ') for lower_path in lower.get(k, ())):
+            continue
+        # A lead with no position of its own whose items state the act ("3. Bãi bỏ một số điểm, khoản, cụm từ như sau: a) Bãi bỏ điểm c
+        # khoản 1 Điều 21; …"): the items are the edges (R2, 27/10/2026).
+        bare = not row.get('vi_tri') and not row.get('doi_tuong') and not row.get('cum_tu')
+        if path and bare and any(p.startswith(path + ' ') for p in acted.get((row.get('action'), number_key(row.get('target_doc') or '')), ())):
             continue
         same = at.get((k, path))
         if same is None:
