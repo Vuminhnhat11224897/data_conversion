@@ -16,6 +16,10 @@ APPENDIX = re.compile(r'^(?:PHỤ LỤC|PHU LUC|Phụ lục)(?:\s+(?:SỐ\s+|s�
 ATTACHED = re.compile(r'^(?:QUY ĐỊNH|QUY CHẾ|QUY TRÌNH|QUY TẮC|QUY CHUẨN|QUY HOẠCH|DANH MỤC|DANH SÁCH|BẢNG|ĐỀ ÁN|ĐỀ CƯƠNG|CHƯƠNG TRÌNH|ĐIỀU LỆ|NỘI QUY|BIỂU MẪU|MẪU SỐ|PHỤ BIỂU|TIÊU CHÍ|KẾ HOẠCH|THUYẾT MINH|HƯỚNG DẪN|TIÊU CHUẨN)\b')
 TAIL = re.compile(r'^(?:Nơi nhận\s*:|T\.?M[./]|T/M|K\.?T[./]|K/T|KT\.|TM\.)', re.I)
 ISSUED_WITH = re.compile(r'\((?:Ban hành|Kèm theo|Phê duyệt|Được ban hành)\b[^)]{0,60}?\b(?:Quyết định|Nghị định|Nghị quyết|Thông tư|Chỉ thị|Công văn|Văn bản)', re.I)
+# Blanks a printed form leaves for the user: dot leaders, "……", "(Tên tổ chức)", "(*)", "…(1)".
+BLANK = re.compile(r'\.{4,}|…{2,}|…\s*[.…]|_{4,}|\.\s?\.\s?\.\s?\.|\((?:Tên|tên|ghi rõ|Ghi rõ)\b[^)]{0,80}\)|\(\*+\)|…\s*\(\d{1,2}\)|\.{2,}\s*\(\d{1,2}\)')
+FORM_TITLE = re.compile(r'^(?:\[\d+\]\s*)?(?:VỀ\s+|CÁC\s+|DANH MỤC\s+|DANH SÁCH\s+)?(?:BIỂU\s+)?MẪU\b')
+TABLE_SEPARATOR = re.compile(r'[|\s:-]*')
 VI_LETTERS = 'abcdđeghiklmnopqrstuvxy'
 
 
@@ -37,6 +41,8 @@ def normalize(text):
 def appendix_header(line):
     m = APPENDIX.match(line)
     if m and re.match(r'^(?:kèm theo|ban hành kèm theo|của|tại|quy định tại)\b',m[2],re.I):return False
+    # "Phụ lục (Ban hành kèm theo .................(1))": a line of a printed form, whose document is still a blank.
+    if m and re.match(r'^\(\s*(?:ban hành\s+)?kèm theo\s*[.…]{3,}', m[2], re.I):return False
     return bool(m and (line.isupper() or not m[2] or m[2].isupper() or len(line) < 60))
 
 
@@ -322,6 +328,22 @@ def parse_articles(lines, offset=0, untitled=frozenset(), positions=False):
     return articles, candidates
 
 
+def sample_form(title, articles):
+    """Articles of a printed form (a sample decision or licence: "Điều 1. Cho phép ……(Tên tổ chức)……", then its own "Nơi nhận"),
+    not articles of an attached regulation. Only the part's first chain counts: a real Quy chế followed by a sample decision stays.
+    A form: a blank in an article name; or its own recipients and blanks, with at most 6 articles or a blank in Điều 1;
+    or a part titled as a form ("MẪU …", "CÁC BIỂU MẪU …") whose articles have blanks."""
+    chain = [a for a in articles if a.get('van_ban_kem_theo', 0) == articles[0].get('van_ban_kem_theo', 0)]
+    text = '\n'.join(a['tieu_de'] + '\n' + a['noi_dung'] for a in chain)
+    if any(BLANK.search(a['tieu_de']) for a in chain):
+        return True
+    if re.search(r'^Nơi nhận\s*:', text, re.M) and BLANK.search(text) and (
+            len(chain) <= 6 or BLANK.search(chain[0]['tieu_de'] + '\n' + chain[0]['noi_dung'])):
+        return True
+    label = APPENDIX.match(title)
+    return bool(FORM_TITLE.match((label[2] if label else title).upper()) and BLANK.search(text))
+
+
 def roman(value):
     values = {'I': 1, 'V': 5, 'X': 10, 'L': 50, 'C': 100, 'D': 500, 'M': 1000}
     return sum(-values[c] if i + 1 < len(value) and values[c] < values[value[i + 1]] else values[c] for i, c in enumerate(value))
@@ -478,6 +500,9 @@ def parse(text, untitled=frozenset(), parts=None, positions=False):
                     break
             content = '\n'.join(part[offset:]).strip()
             appendix_articles, _ = parse_articles(part[offset:], appendix_start + start + offset, untitled, positions)
+            if appendix_articles and sample_form(' '.join(title_lines), appendix_articles):
+                # A form keeps its text as one flat part, like a table: its "Điều" are blanks to fill, not provisions.
+                appendix_articles = []
             rows = [line for line in part if line.startswith('|')]
             table_groups = re.findall(r'(?:^\|.*(?:\n|$)(?:\s*\n)*){2,}', '\n'.join(part), re.M)
             appendices.append({'tieu_de': ' '.join(title_lines), 'noi_dung': content,
@@ -576,7 +601,48 @@ def passages(text, limit=PASSAGE_WORDS):
     return result
 
 
-def build_chunks(doc_id, metadata, parsed):
+SEARCH_PASSAGE_WORDS = 150  # an appendix runs ~1.5 tokens a word (p90 1.8, 27/10/2026): 150 words stay under 256 tokens
+
+
+def search_passages(text, limit=SEARCH_PASSAGE_WORDS):
+    """Passages of a long appendix or section, for search only: whole table rows and paragraphs, then sentences, then words, up to
+    `limit` words. A passage that opens inside a table repeats the table's column names. [] when the text fits in one passage."""
+    if len(text.split()) <= limit:
+        return []
+    units, header, lines = [], None, text.splitlines()
+    for n, line in enumerate(lines):
+        if not line.strip():
+            continue
+        if not line.startswith('|'):
+            header = None
+            units += [(piece, None) for piece in passages(line, limit)]
+            continue
+        if n == 0 or not lines[n - 1].startswith('|'):
+            # First row of a table: its column names, with the empty separator row the source puts under them.
+            rows = [line] + ([lines[n + 1]] if n + 1 < len(lines) and TABLE_SEPARATOR.fullmatch(lines[n + 1]) else [])
+            header = '\n'.join(rows) if len(' '.join(rows).split()) <= limit // 3 else None
+            units.append((line, None))
+            continue
+        if TABLE_SEPARATOR.fullmatch(line):
+            continue
+        words = line.split()
+        units += [(' '.join(words[i:i + limit]), header) for i in range(0, len(words), limit)]
+    result, current, size = [], [], 0
+    for unit, columns in units:
+        count = len(unit.split())
+        if current and size + count > limit:
+            result.append('\n'.join(current))
+            current, size = [], 0
+        if not current and columns:
+            current, size = [columns], len(columns.split())
+        current.append(unit)
+        size += count
+    if current:
+        result.append('\n'.join(current))
+    return result
+
+
+def build_chunks(doc_id, metadata, parsed, passage_words=SEARCH_PASSAGE_WORDS):
     common = {k: metadata[k] for k in ('document_number', 'title', 'action', 'legal_type', 'issuing_authority', 'issuance_date', 'url', 'signers') if metadata.get(k)}
     common['doc_id'] = str(doc_id)
     if metadata.get('legal_sectors'):
@@ -593,6 +659,7 @@ def build_chunks(doc_id, metadata, parsed):
         if full:
             source['is_full'] = True
         chunks.append({'_id': key, '_source': source})
+        return key
 
     def article_chunks(article, prefix, extra):
         segment = article.get('van_ban_kem_theo', 0)
@@ -625,16 +692,30 @@ def build_chunks(doc_id, metadata, parsed):
         article_chunks(article, str(doc_id), {})
     for i, appendix in enumerate(parsed['phu_luc']):
         prefix = f'{doc_id}_pl{i}'
-        extra = {'in_phu_luc': True, 'phu_luc_tieu_de': appendix['tieu_de'][:500], 'has_table': appendix['has_table']}
+        # loai_phan: kem_theo = an attached regulation kept as Điều; phu_luc = a table, list, form or plain text kept flat.
+        extra = {'in_phu_luc': True, 'phu_luc_tieu_de': appendix['tieu_de'][:500], 'has_table': appendix['has_table'],
+                 'phu_luc_uid': prefix, 'loai_phan': 'kem_theo' if appendix['dieu_luat'] else 'phu_luc'}
         if appendix['dieu_luat']:
             for article in appendix['dieu_luat']:
                 article_chunks(article, prefix, extra)
         else:
-            emit(prefix, 'phu_luc', appendix['tieu_de'], appendix['noi_dung'], extra)
+            # The whole part stays one chunk: the graph node. Passages are for search only and repeat the part's title.
+            parts = search_passages(appendix['noi_dung'], passage_words)
+            emit(prefix, 'phu_luc', appendix['tieu_de'], appendix['noi_dung'], extra, full=bool(parts))
+            for k, part in enumerate(parts, 1):
+                emit(f'{prefix}_doan{k}', 'phu_luc_doan', appendix['tieu_de'], part, {**extra, 'so_doan': k})
     if not parsed['dieu_luat']:
         sections = parsed.get('noi_dung_sections', [])
         for section in sections:
-            emit(f'{doc_id}_m{section["so_muc"]}', 'muc', '', section['noi_dung'], {'so_muc': section['so_muc']}, section['so_van_ban_refs'])
+            parts = search_passages(section['noi_dung'], passage_words)
+            key = emit(f'{doc_id}_m{section["so_muc"]}', 'muc', '', section['noi_dung'], {'so_muc': section['so_muc']},
+                       section['so_van_ban_refs'], full=bool(parts))
+            if key:
+                chunks[-1]['_source']['muc_uid'] = key
+            heading = section['noi_dung'].split('\n', 1)[0][:200]
+            for k, part in enumerate(parts, 1):
+                # Passages after the first repeat the section's heading line as their title.
+                emit(f'{key}_doan{k}', 'muc_doan', heading if k > 1 else '', part, {'so_muc': section['so_muc'], 'muc_uid': key, 'so_doan': k})
         if not sections and parsed.get('noi_dung'):
             parts = passages(parsed['noi_dung'])
             if len(parts) == 1:
