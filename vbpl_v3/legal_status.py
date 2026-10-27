@@ -148,6 +148,9 @@ def visible_lines(text):
         yield article, re.sub(r'“[^”]*”|"[^"]*"', ' ', line).split('“')[0]
 
 
+TIME_OF = re.compile(r'\b(?:ngày|thời\s+điểm|khi|lúc)\s*$', re.I)
+
+
 def expiry(text, issued, legal_type=None):
     """{ngay_het_hieu_luc, ngay_het_hieu_luc_cach, ngay_het_hieu_luc_trich}: only an end the document states for itself,
     with its effect verb right after "<own type> này" ("Nghị quyết này có hiệu lực từ … đến hết ngày …")."""
@@ -155,6 +158,8 @@ def expiry(text, issued, legal_type=None):
     for _, line in visible_lines(text):
         if any(provision_led(line, m.start()) for m in re.finditer(own, line, re.I)):
             continue  # "Điều 2 của Luật này có hiệu lực đến hết ngày …" ends one provision, not the document
+        if any(TIME_OF.search(line[:m.start()]) for m in re.finditer(own, line, re.I)):
+            continue  # "trước ngày Luật này có hiệu lực thi hành thì … đến hết ngày 30 tháng 6 năm 2027" (662035): a time, not the end
         for match in re.finditer(own + r'\s+(?:hết\s+hiệu\s+lực(?:\s+thi\s+hành)?\s+(?:kể\s+)?(?:từ|vào)\s+ngày\s+' + DATE + r')', line, re.I):
             return {'ngay_het_hieu_luc': to_date(*match.groups()), 'ngay_het_hieu_luc_cach': 'ngay_cu_the', 'ngay_het_hieu_luc_trich': match.group().strip()[:300]}
         for match in re.finditer(own + r'\s+' + EFFECT_VERB + r'(?P<rest>[^.;\n]{0,200})', line, re.I):

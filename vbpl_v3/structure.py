@@ -14,6 +14,10 @@ POINT = re.compile(r'^([a-zđ][a-zđ0-9]?)\)\s+(.*)$')
 CHAPTER = re.compile(r'^(Chương|CHƯƠNG|Mục|MỤC)\s+([IVXLCDM]+|\d+)\b\s*[.:–—-]?\s*(.*)$')
 APPENDIX = re.compile(r'^(?:PHỤ LỤC|PHU LUC|Phụ lục)(?:\s+(?:SỐ\s+|số\s+)?([IVXLCDM]+|\d+[A-Za-z]?))?\s*[.:]?\s*(.*)$')
 ATTACHED = re.compile(r'^(?:QUY ĐỊNH|QUY CHẾ|QUY TRÌNH|QUY TẮC|QUY CHUẨN|QUY HOẠCH|DANH MỤC|DANH SÁCH|BẢNG|ĐỀ ÁN|ĐỀ CƯƠNG|CHƯƠNG TRÌNH|ĐIỀU LỆ|NỘI QUY|BIỂU MẪU|MẪU SỐ|PHỤ BIỂU|TIÊU CHÍ|KẾ HOẠCH|THUYẾT MINH|HƯỚNG DẪN|TIÊU CHUẨN)\b')
+BASIS_DOCUMENT = re.compile(r'^(?:Bộ\s+luật|Luật|Pháp\s+lệnh|Nghị\s+định|Nghị\s+quyết|Quyết\s+định|Thông\s+tư)\s')
+# A signature with no TM./KT. and no "Nơi nhận": the signer's title alone on its line, or the passing sentence of a law.
+SIGNED = re.compile(r'^(?:CHỦ\s+TỊCH(?:\s+QUỐC\s+HỘI|\s+NƯỚC)?|THỦ\s+TƯỚNG|BỘ\s+TRƯỞNG|CHÁNH\s+ÁN|VIỆN\s+TRƯỞNG|TỔNG\s+KIỂM\s+TOÁN\s+NHÀ\s+NƯỚC|GIÁM\s+ĐỐC|TỔNG\s+GIÁM\s+ĐỐC|THỐNG\s+ĐỐC)\s*$'
+                    r'|đã\s+được\s+Quốc\s+hội\s+.{0,120}?thông\s+qua\s+ngày')
 TAIL = re.compile(r'^(?:Nơi nhận\s*:|T\.?M[./]|T/M|K\.?T[./]|K/T|KT\.|TM\.)', re.I)
 ISSUED_WITH = re.compile(r'\((?:Ban hành|Kèm theo|Phê duyệt|Được ban hành)\b[^)]{0,60}?\b(?:Quyết định|Nghị định|Nghị quyết|Thông tư|Chỉ thị|Công văn|Văn bản)', re.I)
 # Blanks a printed form leaves for the user: dot leaders, "……", "(Tên tổ chức)", "(*)", "…(1)".
@@ -127,8 +131,14 @@ def unquoted(lines):
     and the text rescanned, so it cannot hide every later Điều."""
     ignored=set()
     for _ in range(5):
-        depth=0;straight=False;result=[];opened=[];straight_at=None
+        depth=0;straight=False;result=[];opened=[];straight_at=None;chapter=0;stray=[]
         for n,line in enumerate(lines):
+            heading=re.fullmatch(r'\s*Chương\s+([IVXLCDM]+)\s*',line)
+            if heading and (depth or straight) and roman(heading[1])==chapter+1:
+                # The next chapter of the text itself cannot sit inside a quote: the quote still open is a stray one whose pair is
+                # far below (689697: "“8 Đối với …" left open hid Điều 27–37 under Chương IV). It is ignored and the text rescanned.
+                stray=opened+([straight_at] if straight else []);break
+            if heading and not depth and not straight:chapter=roman(heading[1])
             result.append(not depth and not straight)
             for i,char in enumerate(line):
                 if (n,i) in ignored:continue
@@ -147,7 +157,7 @@ def unquoted(lines):
                         depth-=1;opened.pop()
                     else:
                         straight=not straight;straight_at=(n,i) if straight else None
-        unclosed=opened+([straight_at] if straight else [])
+        unclosed=stray or opened+([straight_at] if straight else [])
         if not unclosed:break
         ignored.update(unclosed)
     return result
@@ -468,6 +478,12 @@ def parse(text, untitled=frozenset(), parts=None, positions=False):
                 i += 1
             basis.append(' '.join(main[start:i]).strip().rstrip(';'))
             basis_end = i
+        elif basis and BASIS_DOCUMENT.match(main[i]) and main[i].rstrip().endswith(';') \
+                and any(main[j].startswith('Căn cứ ') for j in range(i + 1, first_article)):
+            # A basis whose "Căn cứ" the source lost, between two bases ("Luật Hợp tác xã số 17/2023/QH15;", 692549). The bases end
+            # where they ended before, so the opening the model reads does not move.
+            basis.append(main[i].strip().rstrip(';'))
+            i += 1
         else:
             i += 1
     marks = [i for i, _, _ in chapter_marks(main) if basis_end <= i < first_article]
@@ -535,7 +551,7 @@ def parse(text, untitled=frozenset(), parts=None, positions=False):
     head_end = next((i for i in range(first_article) if main[i].startswith('Căn cứ ')), first_article)
     result = {'phan_dau': '\n'.join(main[:head_end]).strip(), 'can_cu': basis, 'can_cu_refs': refs(' '.join(basis)), 'intro': intro,
               'dieu_luat': articles, 'noi_nhan': places, 'phu_luc': appendices,
-              'has_tail': any(TAIL.match(line) or './.' in line for line in lines)}
+              'has_tail': any(TAIL.match(line) or './.' in line or SIGNED.search(line) for line in lines)}
     if not articles:
         # A letter's bases and quoted rules are part of its reasoning, not a removable preamble.
         letter_content='\n'.join(main).strip()

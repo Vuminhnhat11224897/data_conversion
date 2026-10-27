@@ -18,9 +18,9 @@ from .references import amended_targets, guidance, law_by_name, law_named, link_
 from .extract import extract
 from .relations import consolidation, detect, lookup_numbers, resolve, row_holders, stamp
 from .resolver import appendix_scope, object_kind, resolve_row
-from .text import language, number_key
+from .text import join_split, language, number_key
 from .validate import check_positions, only_in_history, own_quotes, validate
-from .structure import APPENDIX, NUMBER, appendix_label, build_chunks, normalize
+from .structure import APPENDIX, NUMBER, appendix_label, build_chunks, normalize, parse
 from .structure_ai import refine
 from .temporal import SUSPENSIONS, TEMPORAL_EFFECT, effective_date, finer_parts, in_format, normalize_scope, positions
 
@@ -228,6 +228,14 @@ def tidy_positions(relations, appendix=False):
         row['vi_tri'] = narrow
         kept.append(record)
     return kept
+
+
+# Letters that look Latin in a number typed from a Cyrillic keyboard ("361/2025/NĐ-CР"), and characters with no width.
+LOOKALIKE = str.maketrans('АВЕКМНОРСТХаеорсух', 'ABEKMHOPCTXaeopcyx', '\u200b\u200c\u200d\u2060\ufeff')
+
+
+def clean_number(value):
+    return ' '.join(value.translate(LOOKALIKE).split()) if value else value
 
 
 def distinct_edges(relations):
@@ -472,19 +480,25 @@ def convert_document(doc_id, config, source, target, run_id, root, qa=True, dry_
                 'ngay_hieu_luc': effect.get('ngay_hieu_luc'), 'dry_run': dry_run, 'seconds': round(time.time() - started, 2)}
     parsed, stats = refine(text, root / 'cache' / doc_id, title=src.get('title'), caller=caller)
     meta = {k: src.get(k) for k in META}
+    meta['document_number'] = clean_number(meta.get('document_number'))
     meta['legal_sectors'] = src.get('legal_sectors') or []
     provenance = {'origin': src.get('origin') or 'legacy', 'ingest_job_id': f'v3:{run_id}', 'ingest_revision': 1,
                   'ingested_at': datetime.now(timezone.utc).isoformat(), 'uploaded_by': 'migration-v3'}
     rank_number, rank_label, rank_note = rank(src, is_normative)
-    document = {**{k: src[k] for k in COPIED if src.get(k) is not None}, **{k: parsed[k] for k in PARSED},
+    document = {**{k: src[k] for k in COPIED if src.get(k) is not None}, 'document_number': meta['document_number'], **{k: parsed[k] for k in PARSED},
                 'phu_luc': [{**p, 'ky_hieu': appendix_label(p)} for p in parsed['phu_luc']],
-                'full_content': full, 'n_dieu': stats['n_dieu'], 'grade': stats['grade'],
-                'content_sha256': hashlib.sha256(full.encode('utf-8')).hexdigest(),
+                'full_content': join_split(full), 'n_dieu': stats['n_dieu'], 'grade': stats['grade'],
+                'content_sha256': hashlib.sha256(join_split(full).encode('utf-8')).hexdigest(),
                 'text_source': src.get('text_source') or 'source_full_content', **provenance,
                 'la_vbqppl': is_normative, 'la_vbqppl_cach': normative_how,
                 'cap_hieu_luc': rank_number, 'cap_hieu_luc_nhan': rank_label, 'cap_hieu_luc_ghi_chu': rank_note,
                 **effect, **expiry(full, issued, src.get('legal_type')), **retroactive(full, issued, effect, src.get('legal_type')),
                 'hieu_luc_rieng': provision_effects(full, issued, src.get('legal_type'))}
+    if join_split(full) != full and (not document['noi_nhan'] or not document['has_tail']):
+        # "N ơi nh ận:" split by the PDF text: the recipients and the signature read again on the joined text (R15). The structure
+        # the model reads stays the one of the source text.
+        joined, _ = parse(join_split(text))
+        document.update(noi_nhan=document['noi_nhan'] or joined['noi_nhan'], has_tail=document['has_tail'] or joined['has_tail'])
     # Vectors go to the index only: a dry run's preview leaves them out, so a dry run neither reads nor computes them.
     if not document.get('embedding') and not dry_run:
         document['embedding'] = embed([src.get('title') or ''], config.embedding_url, config.embedding_batch, **config.embedding_options)[0]
@@ -496,6 +510,10 @@ def convert_document(doc_id, config, source, target, run_id, root, qa=True, dry_
         return law_by_name(source, config.source['documents'], name, day)
 
     chunks = build_chunks(doc_id, meta, parsed)
+    for chunk in chunks:
+        for field in ('tieu_de', 'noi_dung'):
+            if chunk['_source'].get(field):
+                chunk['_source'][field] = join_split(chunk['_source'][field])
     candidates = detect(doc_id, meta, parsed)
     hits = lookup(lookup_numbers(list({c['target_doc'] for c in candidates})))
     candidates = [resolve(c, hits) for c in candidates]

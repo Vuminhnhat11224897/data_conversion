@@ -19,7 +19,7 @@ from .governance import TTHC
 from .relations import LIST_GAP, document_refs, strip_quotes
 from .structure import NUMBER
 from .temporal import positions
-from .text import action_matches, number_key
+from .text import action_matches, join_split, number_key
 
 # "Công bố (kèm theo Quyết định này) Danh mục thủ tục hành chính được sửa đổi, bổ sung, bãi bỏ …": the list is published; the act words
 # name the list. The act is on a document only where a row or a sentence names that document.
@@ -512,7 +512,12 @@ def own_quotes(relations, parsed):
     """R12 on the final edges, after the positions are settled (tidy_positions reads the evidence)."""
     frames = unit_frames(parsed)
     for record in relations:
-        own_quote(record['_source'], frames)
+        row = record['_source']
+        own_quote(row, frames)
+        # The stored full text has its split syllables joined (R15): the quote and the phrases follow it.
+        row['evidence'] = join_split(row.get('evidence'))
+        for pair in row.get('cum_tu') or []:
+            pair.update(cu=join_split(pair.get('cu')), moi=join_split(pair.get('moi')))
     return relations
 
 

@@ -136,3 +136,13 @@ def language(text):
     letters = sum(c.isalpha() for c in (text or '')[:20000])
     marked = len(VIETNAMESE.findall((text or '')[:20000]))
     return 'en' if letters > 500 and marked / letters < 0.02 else 'vi'
+
+
+# A syllable the PDF text split after its first consonants ("QU ỐC HỘI", "CH Ủ TỊCH", "Tr ần Thanh Mẫn", "S ố", "Hà N ội"): the rest
+# starts with a marked vowel. A lone capital joins only a lower-case rest, so "Mục C Ủy ban" stays apart (R15, 27/10/2026).
+SPLIT_SYLLABLE = re.compile(r'(?<!\w)(?:(QU|CH|PH|TR|Tr|NG|NH|TH|GI|KH|Ng|Nh|Th|Ch|Ph|Kh|Gi|Qu)\s+([ĂÂÊÔƠƯÁÀẢÃẠẮẰẲẴẶẤẦẨẪẬÉÈẺẼẸẾỀỂỄỆÍÌỈĨỊÓÒỎÕỌỐỒỔỖỘỚỜỞỠỢÚÙỦŨỤỨỪỬỮỰÝỲỶỸỴăâêôơưáàảãạắằẳẵặấầẩẫậéèẻẽẹếềểễệíìỉĩịóòỏõọốồổỗộớờởỡợúùủũụứừửữựýỳỷỹỵ]\w*)'
+                            r'|([BCDĐGHKLMNPQRSTVX])\s+([ăâêôơưáàảãạắằẳẵặấầẩẫậéèẻẽẹếềểễệíìỉĩịóòỏõọốồổỗộớờởỡợúùủũụứừửữựýỳỷỹỵ]\w*))')
+
+
+def join_split(text):
+    return SPLIT_SYLLABLE.sub(lambda m: (m[1] or m[3]) + (m[2] or m[4]), text) if text else text
