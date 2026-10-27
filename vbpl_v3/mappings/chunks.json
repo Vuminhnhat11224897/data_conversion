@@ -158,6 +158,15 @@
       "so_doan": {
         "type": "integer"
       },
+      "phu_luc_uid": {
+        "type": "keyword"
+      },
+      "loai_phan": {
+        "type": "keyword"
+      },
+      "muc_uid": {
+        "type": "keyword"
+      },
       "diem_uid": {
         "type": "keyword"
       },

@@ -155,7 +155,7 @@ def run(doc_rows, chunks, rels):
 
     # ---------------- 4.7 chunks ----------------
     ART = {'dieu', 'dieu_full', 'dieu_mo_dau', 'khoan', 'khoan_full', 'khoan_mo_dau', 'diem'}
-    TYPES = ART | {'tieu_diem', 'phu_luc', 'muc', 'noi_dung', 'noi_dung_full'}
+    TYPES = ART | {'tieu_diem', 'phu_luc', 'phu_luc_doan', 'muc', 'muc_doan', 'noi_dung', 'noi_dung_full'}
     X = r'\d+[a-zđ]?'
     PRE = r'(?:_pl\d+)?(?:_s\d+)?'
     PAT = {'dieu': rf'_d{X}', 'dieu_full': rf'_d{X}_full', 'dieu_mo_dau': rf'_d{X}_md', 'khoan': rf'_d{X}_k{X}',
@@ -164,7 +164,8 @@ def run(doc_rows, chunks, rels):
     DOC_COPY = ['document_number', 'title', 'action', 'legal_type', 'issuing_authority', 'issuance_date', 'url', 'signers']
     CHUNK_FIELDS = set(['doc_id', 'chunk_type', 'tieu_de', 'noi_dung', 'so_van_ban_refs', 'embedding', 'legal_sectors', 'dieu_uid', 'segment',
                         'so_dieu', 'ky_hieu_dieu', 'chuong', 'muc_lon', 'khoan_uid', 'so_khoan', 'ky_hieu_khoan', 'so_diem', 'diem_uid',
-                        'so_tieu_diem', 'is_full', 'in_phu_luc', 'phu_luc_tieu_de', 'has_table', 'so_muc', 'so_doan', 'dan_chieu',
+                        'so_tieu_diem', 'is_full', 'in_phu_luc', 'phu_luc_tieu_de', 'has_table', 'phu_luc_uid', 'loai_phan', 'so_muc', 'muc_uid',
+                        'so_doan', 'dan_chieu',
                         'ngay_hieu_luc', 'ngay_hieu_luc_cach', 'ngay_hieu_luc_so_ngay', 'ngay_hieu_luc_rieng', 'ngay_hoi_to'] + DOC_COPY + TRACE)
     extra_chunk = Counter()
     by_doc = defaultdict(list)
@@ -178,14 +179,18 @@ def run(doc_rows, chunks, rels):
         rule('4.2 chunk doc_id có trong legal-docs-v3', did in docs, i)
         d = docs.get(did, {})
         rule(f'{S}.3 _id bắt đầu bằng <doc_id>_', i.startswith(f'{did}_'), i)
-        rule(f'{S}.2 chunk_type thuộc 11 giá trị', t in TYPES, i)
+        rule(f'{S}.2 chunk_type thuộc 14 giá trị', t in TYPES, i)
         base = re.sub(r'_\d+$', '', i) if not re.search(r'_nd\d+$|_pl\d+$|_m[^_]+$', i) else i
         if t in PAT:
             rule(f'{S}.2 _id khớp mẫu của chunk_type', bool(re.fullmatch(re.escape(str(did)) + PRE + PAT[t] + r'(?:_\d+)?', i)), i)
         elif t == 'phu_luc':
             rule(f'{S}.2 _id khớp mẫu của chunk_type', bool(re.fullmatch(rf'{did}_pl\d+(?:_\d+)?', i)), i)
+        elif t == 'phu_luc_doan':
+            rule(f'{S}.2 _id khớp mẫu của chunk_type', bool(re.fullmatch(rf'{did}_pl\d+_doan\d+', i)), i)
         elif t == 'muc':
             rule(f'{S}.2 _id khớp mẫu của chunk_type', i.startswith(f'{did}_') and '_m' in i, i)
+        elif t == 'muc_doan':
+            rule(f'{S}.2 _id khớp mẫu của chunk_type', i == f'{c.get("muc_uid")}_doan{c.get("so_doan")}', i)
         elif t == 'noi_dung':
             rule(f'{S}.2 _id khớp mẫu của chunk_type', bool(re.fullmatch(rf'{did}_nd\d*', i)), i)
         elif t == 'noi_dung_full':
@@ -223,8 +228,10 @@ def run(doc_rows, chunks, rels):
             rule(f'{S}.3 tieu_diem có so_tieu_diem', isinstance(c.get('so_tieu_diem'), int), i)
         if t in ('dieu', 'dieu_full', 'khoan', 'khoan_full', 'noi_dung_full'):
             rule(f'{S}.3 is_full = true ở dieu/dieu_full/khoan/khoan_full/noi_dung_full', c.get('is_full') is True, i)
+        elif t in ('phu_luc', 'muc'):
+            rule(f'{S}.3 phu_luc/muc: is_full ⇔ có đoạn', c.get('is_full') in (True, None), i)
         else:
-            rule(f'{S}.3 is_full chỉ ở 5 loại', 'is_full' not in c, i)
+            rule(f'{S}.3 is_full chỉ ở 7 loại', 'is_full' not in c, i)
         pm = re.match(rf'{did}_pl(\d+)', i)
         rule(f'{S}.3 in_phu_luc ⇔ _id có _pl<i>', (c.get('in_phu_luc') is True) == bool(pm) and c.get('in_phu_luc') in (True, None), i)
         if pm and 'phu_luc' in d:
@@ -234,8 +241,12 @@ def run(doc_rows, chunks, rels):
             if k < len(pls):
                 rule(f'{S}.3 phu_luc_tieu_de = 500 ký tự đầu phu_luc[i].tieu_de', c.get('phu_luc_tieu_de') == pls[k]['tieu_de'][:500], i)
                 rule(f'{S}.3 has_table = phu_luc[i].has_table', c.get('has_table') == pls[k].get('has_table'), i)
-        if t == 'muc':
-            rule(f'{S}.3 muc có so_muc', 'so_muc' in c, i)
+                rule(f'{S}.3 phu_luc_uid = <doc>_pl<i>', c.get('phu_luc_uid') == f'{did}_pl{k}', i)
+                rule(f'{S}.3 loai_phan: kem_theo ⇔ phu_luc[i] có Điều', c.get('loai_phan') == ('kem_theo' if pls[k].get('dieu_luat') else 'phu_luc'), i)
+        if t in ('muc', 'muc_doan'):
+            rule(f'{S}.3 muc có so_muc, muc_uid', 'so_muc' in c and 'muc_uid' in c, i)
+        if t in ('phu_luc_doan', 'muc_doan'):
+            rule(f'{S}.3 đoạn có so_doan', isinstance(c.get('so_doan'), int), i)
         nm = re.fullmatch(rf'{did}_nd(\d+)', i)
         if nm:
             rule(f'{S}.3 so_doan = k', c.get('so_doan') == int(nm.group(1)), i)

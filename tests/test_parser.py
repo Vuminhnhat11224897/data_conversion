@@ -175,3 +175,52 @@ class PrintedTitle(unittest.TestCase):
         self.assertEqual(sentence_case('HƯỚNG DẪN THỰC HIỆN NGHỊ ĐỊNH SỐ 31/CP NGÀY 18/5/1996'), 'Hướng dẫn thực hiện Nghị định số 31/CP ngày 18/5/1996')
         self.assertEqual(sentence_case('QUY ĐỊNH CHI TIẾT MỘT SỐ ĐIỀU CỦA LUẬT ĐẤT ĐAI'), 'Quy định chi tiết một số điều của Luật Đất đai')
         self.assertEqual(sentence_case('Hướng dẫn chính sách thuế'), 'Hướng dẫn chính sách thuế')
+
+
+class AppendixStorage(unittest.TestCase):
+    """Nhánh exp/phu-luc-chia-doan (27/10/2026): biểu mẫu không giữ Điều; phụ lục và đề mục dài có đoạn tìm kiếm."""
+    DECISION = ('QUYẾT ĐỊNH:\nĐiều 1. Ban hành kèm theo Quyết định này Quy chế và các mẫu.\nĐiều 2. Quyết định này có hiệu lực kể từ ngày ký.\n'
+                'Nơi nhận:\n- Như Điều 2;\n- Lưu: VT.\nTM. ỦY BAN NHÂN DÂN\nCHỦ TỊCH\nNguyễn Văn A\n')
+
+    def test_sample_decision_in_appendix_is_flat(self):
+        # 676317_pl20 (PHỤ LỤC SỐ 18): a sample licence decision with blanks and its own recipients.
+        form = ('PHỤ LỤC SỐ 18\nĐiều 1. Cho phép\n1. Tên doanh nghiệp: ……………\n2. Trụ sở chính: ………………\n'
+                'Điều 2. Quyết định này được lập thành 06 bản.\nNơi nhận:\n- DN/NHTM;\n- Lưu: VP.\nTHỐNG ĐỐC\n')
+        rules = ('QUY CHẾ\nLÀM VIỆC CỦA BAN CHỈ ĐẠO\n(Ban hành kèm theo Quyết định số 12/2025/QĐ-UBND)\nĐiều 1. Phạm vi điều chỉnh\nNội dung phạm vi.\n'
+                 'Điều 2. Đối tượng áp dụng\nCác cơ quan.\n')
+        parsed, _ = parse(self.DECISION + rules + form)
+        self.assertEqual([len(p['dieu_luat']) for p in parsed['phu_luc']], [2, 0])
+        keyed = {c['_id']: c['_source'] for c in build_chunks(1, {'title': 'Quyết định'}, parsed)}
+        self.assertEqual((keyed['1_pl0_d1']['loai_phan'], keyed['1_pl0_d1']['phu_luc_uid']), ('kem_theo', '1_pl0'))
+        self.assertEqual((keyed['1_pl1']['chunk_type'], keyed['1_pl1']['loai_phan']), ('phu_luc', 'phu_luc'))
+        self.assertIn('Điều 1. Cho phép', keyed['1_pl1']['noi_dung'])
+
+    def test_form_line_is_no_appendix_heading(self):
+        # 680444: "Phụ lục (Ban hành kèm theo .................(1))" is a line of a form, not a new part.
+        parsed, _ = parse(self.DECISION + 'PHỤ LỤC I\nMẪU QUY CHẾ\nPhụ lục (Ban hành kèm theo .................(1))\nNội dung mẫu.\n')
+        self.assertEqual([p['tieu_de'] for p in parsed['phu_luc']], ['PHỤ LỤC I MẪU QUY CHẾ'])
+
+    def test_long_table_has_passages_with_column_names(self):
+        rows = '\n'.join(f'| {n} | Quyết định số {n}/2020/QĐ-UBND về việc quy định giá dịch vụ số {n} trên địa bàn tỉnh |' for n in range(1, 41))
+        parsed, _ = parse(self.DECISION + 'PHỤ LỤC II\nDANH MỤC VĂN BẢN BỊ BÃI BỎ\n| STT | Tên văn bản |\n||||\n' + rows)
+        chunks = build_chunks(1, {'title': 'Quyết định'}, parsed, passage_words=60)
+        keyed = {c['_id']: c['_source'] for c in chunks}
+        self.assertTrue(keyed['1_pl0']['is_full'])
+        passages = [c['_source'] for c in chunks if c['_source']['chunk_type'] == 'phu_luc_doan']
+        self.assertEqual([p['so_doan'] for p in passages], list(range(1, len(passages) + 1)))
+        self.assertGreater(len(passages), 3)
+        # Every passage names the appendix and the columns; rows are never cut.
+        self.assertTrue(all(p['tieu_de'] == 'PHỤ LỤC II DANH MỤC VĂN BẢN BỊ BÃI BỎ' and p['noi_dung'].startswith('| STT | Tên văn bản |')
+                            for p in passages))
+        body = [line for p in passages for line in p['noi_dung'].splitlines() if not line.startswith('| STT') and line != '||||']
+        self.assertEqual(body, rows.splitlines())
+        self.assertEqual({p['phu_luc_uid'] for p in passages}, {'1_pl0'})
+
+    def test_long_section_has_passages(self):
+        body = ' '.join(['Các sở, ngành triển khai thực hiện nhiệm vụ được giao.'] * 40)
+        parsed, _ = parse('Kính gửi: Các sở.\nI. Phòng, chống dịch bệnh\n' + body + '\nII. Tổ chức thực hiện\nCác đơn vị báo cáo.')
+        keyed = {c['_id']: c['_source'] for c in build_chunks(1, {'title': 'Công văn'}, parsed, passage_words=100)}
+        self.assertTrue(keyed['1_mI']['is_full'])
+        self.assertEqual((keyed['1_mI_doan2']['chunk_type'], keyed['1_mI_doan2']['muc_uid'], keyed['1_mI_doan2']['tieu_de']),
+                         ('muc_doan', '1_mI', 'Phòng, chống dịch bệnh'))
+        self.assertNotIn('1_mII_doan1', keyed)
