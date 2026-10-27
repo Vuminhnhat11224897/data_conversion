@@ -314,7 +314,38 @@ def phrase_change(unit, context=None):
             places = ['toàn bộ']
         pairs += [{'cu': old, 'moi': new, 'vi_tri': places} for old, new in found]
         everywhere += places
-    return pairs, list(dict.fromkeys(everywhere))
+    return pairs + deleted_phrases(unit, context), list(dict.fromkeys(everywhere))
+
+
+OWNER = re.compile(r'\s+(?:(?:của|thuộc)\s+)?(?:Quyết\s+định|Nghị\s+định|Thông\s+tư|Nghị\s+quyết|Quy\s+định|Quy\s+chế)\b'
+                   r'(?:\s+(?:này|(?:ban\s+hành\s+)?kèm\s+theo(?:\s+(?:Quyết\s+định|Nghị\s+định|Thông\s+tư|Nghị\s+quyết))?))?(?=[\s,;.]|$)')
+DELETES = re.compile(r'\b(?:bãi\s+)?bỏ\s+(?:các\s+)?(?:cụm\s+từ|từ\s+ngữ|từ)\b', re.I)
+
+
+def deleted_phrases(unit, context=None):
+    """Each "bỏ cụm từ “X” tại …" in the unit: [{cu: X, moi: '', vi_tri}], each phrase with the places written after it (R4,
+    27/10/2026: an empty moi is a phrase removed). "Bỏ cụm từ “A” tại Điều 6, cụm từ “B” tại Điều 9" gives A at Điều 6, B at Điều 9;
+    a phrase with no place of its own takes the next one written ("cụm từ “A”, “B” tại Điều 6")."""
+    marks = [m.start() for m in DELETES.finditer(unit)]
+    ends = sorted(set(marks + [m.start() for m in re.finditer(r'\bthay\s+(?:thế\s+)?(?:các\s+)?(?:cụm\s+từ|từ\s+ngữ|từ)\b', unit, re.I)] + [len(unit)]))
+    pairs = []
+    for begin in marks:
+        segment = unit[begin:next(e for e in ends if e > begin)]
+        quotes = list(re.finditer(r'[“"]([^”"]*)[”"]', segment))
+        waiting = []
+        for n, quote in enumerate(quotes):
+            waiting.append(quote[1].strip())
+            tail = re.sub(r'“[^”]*”|"[^"]*"', ' ', segment[quote.end():quotes[n + 1].start() if n + 1 < len(quotes) else len(segment)])
+            # "tại Điều 2 của Quyết định, Điều 13 và khoản 2 Điều 16 Quy định kèm theo Quyết định": the owners are not where the list ends.
+            tail = OWNER.sub(' ', tail)
+            where = re.search(r'\b(?:tại|ở|trong)\s+((?:các\s+)?' + UNIT + r'\b.+?)(?:\s+(?:của|thuộc)\s+(?!(?:các\s+)?(?:điểm|khoản|điều|mục|chương|phần|phụ\s+lục)\b)'
+                              r'|\s+ban\s+hành\s+kèm\s+theo\b|,\s*(?:và\s+)?(?:cụm\s+)?từ\b|\s*;|\.\s*$|$)', tail, re.I | re.S)
+            places = positions(where[1], context) if where else (['toàn bộ'] if re.search(r'toàn\s+(?:bộ|văn)', tail, re.I) else [])
+            if places:
+                pairs += [{'cu': old, 'moi': '', 'vi_tri': places} for old in waiting if old]
+                waiting = []
+        pairs += [{'cu': old, 'moi': '', 'vi_tri': []} for old in waiting if old]
+    return pairs
 
 
 def suspension(unit):

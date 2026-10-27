@@ -135,7 +135,7 @@ def tool_items(relations, status=None):
     for r in relations:
         if status and r.get('resolution_status', 'validated') != status:
             continue
-        if not counted(r['source_path']):
+        if not counted(r['source_path']) or (unit(r['source_path']) == 'Phần đầu' and r['action'] != 'hop-nhat'):
             continue
         key = (unit(r['source_path']), r['action'], document(r['target_doc']))
         places = [place(p) for p in r.get('vi_tri') or []] or ([place('#' + r['doi_tuong'])] if r.get('doi_tuong') else [''])
@@ -150,7 +150,21 @@ def normalize_gold(labels, packet):
     if (packet or {}).get('loai') == 'Văn bản hợp nhất':
         base = [r for r in relations if r['action'] == 'hop-nhat'][:1]
         relations = base
-    return relations
+    # Decisions of 27/10/2026 (docs/07 §7.4): no relation from the title or the opening (R6); "bỏ cụm từ" is thay-cum-tu (R4);
+    # "bổ sung cụm từ" is not taken (R5).
+    out = []
+    for r in relations:
+        evidence = r.get('evidence') or ''
+        if unit(r['source_path']) == 'Phần đầu' and r['action'] != 'hop-nhat':
+            continue
+        if r['action'] in ('bo-sung', 'sua-doi', 'thay-cum-tu') and INSERTS_PHRASE.match(evidence):
+            continue
+        out.append({**r, 'action': 'thay-cum-tu'} if r['action'] == 'bai-bo' and REMOVES_PHRASE.match(evidence) else r)
+    return out
+
+
+REMOVES_PHRASE = re.compile(r'\s*(?:[a-zđ0-9]{1,2}[.)]\s*)?(?:bãi\s+)?bỏ\s+(?:các\s+)?(?:cụm\s+từ|từ\s+ngữ|từ)\b', re.I)
+INSERTS_PHRASE = re.compile(r'\s*(?:[a-zđ0-9]{1,2}[.)]\s*)?bổ\s*sung\s+(?:các\s+)?(?:cụm\s+từ|từ\s+ngữ|từ)\b', re.I)
 
 
 TITLES = {}

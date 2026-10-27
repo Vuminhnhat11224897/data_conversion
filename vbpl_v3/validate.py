@@ -408,7 +408,7 @@ def check_positions(relations, parsed):
                 row.update(resolution_status='unresolved', resolution_reason='vi_tri_khong_co_trong_nguon')
         elif row.get('resolution_status') == 'validated':
             row.update(resolution_status='unresolved', resolution_reason='vi_tri_khong_co_trong_nguon')
-    relations = own_verbs(relations, frames)
+    relations = [r for r in own_verbs(relations, frames) if not inserts_phrase(r['_source'], frames)]
     groups = {}
     for record in relations:
         row = record['_source']
@@ -474,3 +474,15 @@ def own_verbs(relations, frames):
                 continue
         kept.append(record)
     return kept
+
+
+INSERTS = re.compile(r'bổ\s*sung\s+(?:các\s+)?(?:cụm\s+từ|từ\s+ngữ|từ)\b', re.I)
+
+
+def inserts_phrase(row, frames):
+    """R5 (27/10/2026): "Bổ sung cụm từ “Y” vào trước cụm từ “Z” tại …" is not taken as a relation (131/2025, khoản 71)."""
+    if row['action'] not in ('bo-sung', 'sua-doi', 'thay-cum-tu') or row['source_path'] not in frames or row.get('cum_tu'):
+        return False
+    text, quote = frames[row['source_path']][1][-1], row.get('evidence') or ''
+    said = [w for p in row.get('vi_tri') or [] for w in (stating(text, p), stating(quote, p)) if w] or [opening(text), opening(quote)]
+    return any(INSERTS.search(w) for w in said)

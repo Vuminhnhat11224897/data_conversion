@@ -111,6 +111,7 @@ DASHED = governance.DASHED  # one definition, shared with the evidence check
 ON_DOCUMENT = re.compile(r'(?:^|[.;:\n]\s*|\b(?:này|và)\s+)(?:sửa\s+đổi(?:\s*,\s*|\s+và\s+|\s+)bổ\s+sung|sửa\s+đổi|bổ\s+sung|b[ãả]i\s+bỏ|thay\s+thế|h(?:uỷ|ủy|uy)\s+bỏ)\s+(?:toàn\s+bộ\s+)?'
                          r'(?:Bộ\s+luật|Luật|Pháp\s+lệnh|Nghị\s+định|Nghị\s+quyết|Thông\s+tư(?:\s+liên\s+tịch)?|Quyết\s+định|Chỉ\s+thị)\s+(?:số\s*)?$', re.I)
 
+REMOVES_PHRASE = re.compile(r'\s*(?:[a-zđ0-9]{1,2}[.)]\s*)?(?:bãi\s+)?bỏ\s+(?:các\s+)?(?:cụm\s+từ|từ\s+ngữ|từ)\b', re.I)
 OWN_ARTICLES = re.compile(r'/(?:QH\d*|UBTVQH\d*|NĐ-CP|TT-|TTLT-)', re.I)
 
 # Procedures named as the act's object: "sửa đổi, bổ sung 29 (hai mươi chín) thủ tục hành chính đã được công bố theo Quyết định số …".
@@ -159,6 +160,9 @@ def resolve_row(row):
     """Contract fields for one extracted act, plus resolution_status / resolution_reason."""
     unit = row['_unit']['noi_dung']
     lead = row['_unit']['cau_dan']
+    # "Bỏ cụm từ “X” tại …" removes a phrase, not the provision (R4, 27/10/2026): thay-cum-tu with an empty new phrase.
+    if row['action'] == 'bai-bo' and REMOVES_PHRASE.match(row['evidence'] or ''):
+        row = {**row, 'action': 'thay-cum-tu'}
     out = {'action': row['action'], 'source_path': 'intro' if row['source_path'] == 'Phần đầu' else row['source_path'],
            'source_in_phu_luc': row['source_path'].startswith('Phụ lục'), 'evidence': row['evidence'][:2000],
            'target_section': row['target_section'], 'extraction': 'llm', 'resolution_status': 'validated', 'resolution_reason': None,

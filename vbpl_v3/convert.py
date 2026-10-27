@@ -239,11 +239,13 @@ def distinct_edges(relations):
     def edge(row):
         return (row.get('action'), number_key(row.get('target_doc') or ''), tuple(row.get('vi_tri') or []), row.get('doi_tuong'),
                 json.dumps(sorted((p.get('cu') or '', p.get('moi') or '') for p in row.get('cum_tu') or []), ensure_ascii=False))
-    lower, acted = {}, {}
+    lower, acted, worded = {}, {}, {}
     for record in relations:
         row = record['_source']
         if row.get('resolution_status') == 'validated':
             lower.setdefault(edge(row), set()).add(row.get('source_path') or '')
+            if row.get('cum_tu'):
+                worded.setdefault(edge(row)[:4], set()).add(row.get('source_path') or '')
             acted.setdefault((row.get('action'), number_key(row.get('target_doc') or '')), set()).add(row.get('source_path') or '')
     kept, at = [], {}
     for record in relations:
@@ -254,6 +256,10 @@ def distinct_edges(relations):
             continue
         # A lead with no position of its own whose items state the act ("3. Bãi bỏ một số điểm, khoản, cụm từ như sau: a) Bãi bỏ điểm c
         # khoản 1 Điều 21; …"): the items are the edges (R2, 27/10/2026).
+        # A lead's phrase change with no pair of its own where a lower unit gives the pairs at that position ("36. Bãi bỏ một số khoản,
+        # điểm, cụm từ sau đây: … b) Bỏ cụm từ “cấp đổi,” tại tên Điều 44"): the lower unit's.
+        if path and not row.get('cum_tu') and any(p.startswith(path + ' ') for p in worded.get(k[:4], ())):
+            continue
         bare = not row.get('vi_tri') and not row.get('doi_tuong') and not row.get('cum_tu')
         if path and bare and any(p.startswith(path + ' ') for p in acted.get((row.get('action'), number_key(row.get('target_doc') or '')), ())):
             continue
@@ -541,6 +547,9 @@ def convert_document(doc_id, config, source, target, run_id, root, qa=True, dry_
         relations = [r for r in relations if not (r['_source']['source_path'] == 'intro' and r['_source']['action'] in ('huong-dan', 'quy-dinh-chi-tiet')
                                                   and number_key(r['_source']['target_doc']) in guided_targets)]
         relations += [{'_id': row.pop('_id'), '_source': {**row, **provenance}} for row in guided + merged]
+    # R6 (27/10/2026): no relation is read from the title, the issuing sentence or the opening (intro_, hd_); the articles carry the
+    # acts. A consolidated text's hop-nhat to the documents it restates stays (V6).
+    relations = [r for r in relations if r['_source']['source_path'] not in DOCUMENT_LEVEL or r['_source']['action'] == 'hop-nhat']
     for record in relations:
         # Time semantics for the graph: when the change starts and whether it reaches back to the target's start.
         row = record['_source']
