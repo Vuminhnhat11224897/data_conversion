@@ -42,15 +42,28 @@ def appendix_place(text):
     return f'Phụ lục {labels[0]}' if len(labels) == 1 else 'Phụ lục'
 
 
+# What an appendix holds (27/10/2026): a part named by name goes to its appendix only when it is one of these; "một số điều của các
+# Thông tư …", "phần căn cứ" are no appendix and keep their name.
+APPENDIX_KIND = re.compile(r'phụ\s+lục|danh\s+mục|thủ\s+tục|\bTTHC\b|biểu\s+mẫu|\bmẫu\s+(?:số\s+)?[\w.]|phương\s+án|quy\s+trình\s+nội\s+bộ'
+                           r'|\bmục\s+[IVXLCDM\d]|\bphần\s+[IVXLCDM\dA-ZĐ]\b|số\s+thứ\s+tự|\bSTT\b', re.I)
+
+
+def appendix_like(part):
+    """The part named by name is held by an appendix: a catalogue, a procedure, a form, a plan, a Mục or Phần, a row."""
+    return bool(APPENDIX_KIND.search(part or ''))
+
+
 def appendix_scope(record):
     """The final positions of an edge under the appendix convention: every position outside điều – khoản – điểm becomes its appendix,
-    and a part named by name with no position becomes the appendix that holds it. The whole document and article positions stay."""
+    and a part named by name that an appendix holds (appendix_like, a procedure, a row of a list) becomes that appendix. Other parts
+    named by name, the whole document and article positions stay."""
     places = [p for p in record.get('vi_tri') or [] if p != 'toàn bộ']
     if places:
         moved = list(dict.fromkeys(p if ARTICLE_PLACE.search(p) else appendix_place(p) for p in places))
         if moved != places:
             record.update(vi_tri=moved, scope='; '.join(moved))
-    elif record.get('doi_tuong'):
+    elif record.get('doi_tuong') and (appendix_like(record['doi_tuong']) or record.get('doi_tuong_loai') == 'thu_tuc_hanh_chinh'
+                                      or ' STT ' in record.get('source_path', '') or record.get('source_path', '').startswith('Phụ lục')):
         place = appendix_place(record['doi_tuong'])
         record.update(vi_tri=[place], scope=place)
 

@@ -342,7 +342,9 @@ def list_parts(unit):
     cuts = [start(found[k]) for k in range(0, len(found), LIST_PART)]
     lead = text[:cuts[0]]
     bounds = cuts[1:] + [len(text)]
-    return [{**unit, 'noi_dung': (lead + text[a:b]).strip()} for a, b in zip(cuts, bounds)]
+    # The whole text stays with each part for the checks of layer 4 (27/10/2026): a part may lose the words that tell the documents
+    # apart ("Luật X số A đã được sửa đổi … theo Luật số B, …"); keys starting with '_' are never sent to the model.
+    return [{**unit, 'noi_dung': (lead + text[a:b]).strip(), '_noi_dung_goc': text} for a, b in zip(cuts, bounds)]
 
 
 def shorten_quotes(text):
@@ -421,7 +423,8 @@ def extract(doc_id, meta, parsed, folder, caller=None, check=None):
         """(answer, None), or (None, [two halves]) when the answer would be too long for one call."""
         key, context, items = call
         payload = {'van_ban': document, **{k: v for k, v in context.items() if not k.startswith('_')},
-                   'don_vi': [{**u, 'noi_dung': shorten_quotes(u['noi_dung'])[:6000], 'cau_dan': u['cau_dan'][:1500]} for u in items]}
+                   'don_vi': [{**{k: v for k, v in u.items() if not k.startswith('_')}, 'noi_dung': shorten_quotes(u['noi_dung'])[:6000],
+                               'cau_dan': u['cau_dan'][:1500]} for u in items]}
         raw = json.dumps(payload, ensure_ascii=False)
         target = folder / 'extract' / hashlib.sha256((PROMPT + raw + os.getenv('LITELLM_MODEL', '')).encode()).hexdigest()[:24]
         target.mkdir(parents=True, exist_ok=True)

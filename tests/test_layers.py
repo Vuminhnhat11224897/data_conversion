@@ -9,7 +9,7 @@ from vbpl_v3.extract import extract, shorten_quotes
 from vbpl_v3.resolver import appendix_scope, resolve_row
 from vbpl_v3.structure import parse
 from vbpl_v3.text import number_key
-from vbpl_v3.validate import only_in_history, validate
+from vbpl_v3.validate import only_in_history, only_noted, validate
 
 META = {'document_number': '15/2020/QĐ-UBND', 'title': 'Quyết định sửa đổi Quy định ban hành kèm theo Quyết định 28/2017/QĐ-UBND',
         'action': 'sua-doi', 'legal_type': 'Quyết định', 'issuing_authority': 'Tỉnh A', 'issuance_date': '2020-05-01', 'legal_sectors': []}
@@ -121,6 +121,29 @@ class Validation(unittest.TestCase):
         whole = {'vi_tri': ['toàn bộ']}
         appendix_scope(whole)
         self.assertEqual(whole['vi_tri'], ['toàn bộ'])
+        # 27/10/2026: a part no appendix holds keeps its name and no position (676559: "một số điều của các Thông tư …").
+        other = {'vi_tri': [], 'doi_tuong': 'một số điều của các Thông tư trong lĩnh vực lâm nghiệp', 'source_path': 'Mục III'}
+        appendix_scope(other)
+        self.assertEqual((other['vi_tri'], other['doi_tuong']), ([], 'một số điều của các Thông tư trong lĩnh vực lâm nghiệp'))
+        procedure = {'vi_tri': [], 'doi_tuong': 'các thủ tục hành chính tương ứng', 'source_path': 'Điều 2'}
+        appendix_scope(procedure)
+        self.assertEqual(procedure['vi_tri'], ['Phụ lục'])
+
+    def test_a_note_cut_out_of_the_quote_still_counts(self):
+        # 27/10/2026 (675210): the governing sentence was cut after the note; the unit's own text decides.
+        unit = ('Sửa đổi, bổ sung mục 6.4 Phụ lục số 01 ban hành kèm theo Luật Phí và lệ phí số 97/2015/QH13 đã được sửa đổi, bổ sung '
+                'một số điều theo Luật số 09/2017/QH14, Luật số 33/2024/QH15, Luật số 35/2024/QH15 và Luật số 89/2025/QH15 như sau:')
+        cut = 'Luật số 33/2024/QH15, Luật số 35/2024/QH15 và Luật số 89/2025/QH15 như sau:'
+        self.assertTrue(only_noted(unit, cut, number_key('35/2024/QH15')))
+        self.assertFalse(only_noted(unit, cut, number_key('97/2015/QH13')))
+        # A part of a long list keeps the lead but loses the note: its sentence is still the unit's own text.
+        part = 'Sửa đổi, bổ sung mục 6.4 Phụ lục số 01 ban hành kèm theo Luật số 35/2024/QH15 và Luật số 89/2025/QH15 như sau:'
+        self.assertFalse(only_noted(unit, part, number_key('35/2024/QH15')))
+        self.assertTrue(only_noted(unit, part, number_key('35/2024/QH15'), part=part))
+        self.assertFalse(only_noted(unit, part, number_key('97/2015/QH13'), part=part))
+        # A lead elsewhere that acts on the document named in the note keeps it.
+        item = 'a) Quyết định số 12/2020/QĐ-UBND (đã được sửa đổi bởi Quyết định số 30/2021/QĐ-UBND)'
+        self.assertFalse(only_noted(item, 'Bãi bỏ Quyết định số 30/2021/QĐ-UBND và các văn bản sau:', number_key('30/2021/QĐ-UBND')))
 
     def test_quotes_and_new_wording_and_invented_quotes(self):
         text = 'Khoản 2 được sửa đổi như sau: “2. Bãi bỏ Quyết định số 99/2010/QĐ-UBND.”'

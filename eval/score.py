@@ -23,6 +23,7 @@ import sys
 
 ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT))
+from vbpl_v3.resolver import appendix_like  # noqa: E402
 from vbpl_v3.temporal import positions  # noqa: E402
 from vbpl_v3.text import number_key  # noqa: E402
 
@@ -71,12 +72,14 @@ def appendix(text):
 
 
 def place(value):
-    """A position in contract form; '' for none ('toàn bộ' and none are both the whole document). A part named by name and a position
-    outside điều – khoản – điểm are their appendix (appendix convention); a provision written outside the format stays '?<text>'."""
+    """A position in contract form; '' for none ('toàn bộ' and none are both the whole document). A position outside điều – khoản – điểm
+    and a part named by name that an appendix holds are their appendix (appendix convention); another part named by name is '#'; a
+    provision written outside the format stays '?<text>'."""
     if not value or value == 'toàn bộ':
         return ''
     if value.startswith('#'):
-        return appendix(value[1:])
+        # The same test as the tool (resolver.appendix_like): a part an appendix holds is that appendix; another part keeps '#'.
+        return appendix(value[1:]) if appendix_like(value[1:]) else '#'
     found = positions(value)
     if not found:
         text = ' '.join(value.split())

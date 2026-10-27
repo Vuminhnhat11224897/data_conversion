@@ -154,6 +154,18 @@ def only_in_history(text, target):
     return bool(mentions) and all(any(start <= m.start() < end for start, end in spans) for m in mentions)
 
 
+def only_noted(unit_text, sentence, target, part=None):
+    """The target is named only in notes on the past, read in the source: the unit's whole text, and the governing sentence when it
+    stands elsewhere (a lead, a heading). A sentence of the unit, or of the part of it the model read (part), is the unit's own text: a
+    part of a long list keeps the lead but may lose the note (27/10/2026, 675210: "… Luật Phí và lệ phí số 97/2015/QH13 đã được sửa
+    đổi … theo Luật số 09/2017/QH14, …, Luật số 35/2024/QH15" read as "… Luật Phí và lệ phí số 20/2023/QH15, …")."""
+    flat = lambda text: ' '.join((text or '').split())
+    own = flat(sentence) in flat(unit_text) or (part is not None and flat(sentence) in flat(part))
+    texts = [unit_text] + ([sentence] if sentence and not own else [])
+    named = [text for text in texts if any(number_key(m.group()) == target for m in document_refs(text))]
+    return bool(named) and all(only_in_history(text, target) for text in named)
+
+
 def check(row, resolved):
     """(verdict, reason): verdict is 'reject', 'unresolved' or 'ok'. Sets resolved['evidence'] to the verbatim evidence and
     resolved['_bang_chung'] to its pieces (field, text, role)."""
@@ -192,7 +204,7 @@ def check(row, resolved):
     # Words after the first document number are that document's name ("… Quyết định số 3577/QĐ-UBND về công bố Danh mục …").
     first = next(iter(document_refs(sentence)), None)
     stated = sentence[:first.start()] if first else sentence
-    if target and only_in_history(unit['noi_dung'] + '\n' + sentence, target):
+    if target and only_noted(unit.get('_noi_dung_goc') or unit['noi_dung'], sentence, target, part=unit['noi_dung']):
         return 'reject', 'ghi_chu_lich_su'  # "… Quyết định X đã được sửa đổi tại Quyết định Y": Y is named only in a note on the past
     if catalogue_name(stated):
         return 'reject', 'ten_danh_muc'
