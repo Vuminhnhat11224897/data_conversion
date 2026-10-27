@@ -17,9 +17,9 @@ from .legal_status import expiry, normative, provision_effects, rank, retroactiv
 from .references import amended_targets, guidance, law_by_name, law_named, link_references
 from .extract import extract
 from .relations import consolidation, detect, lookup_numbers, resolve, row_holders, stamp
-from .resolver import object_kind, resolve_row
+from .resolver import appendix_scope, object_kind, resolve_row
 from .text import language, number_key
-from .validate import validate
+from .validate import only_in_history, validate
 from .structure import APPENDIX, NUMBER, appendix_label, build_chunks, normalize
 from .structure_ai import refine
 from .temporal import SUSPENSIONS, TEMPORAL_EFFECT, effective_date, finer_parts, in_format, normalize_scope, positions
@@ -284,6 +284,11 @@ def model_relations(doc_id, meta, parsed, candidates, root, lookup, provenance, 
         return row['source_path'], row['action'], number_key(row['target_doc'])
     # Every rule candidate still goes through the rule QA, as in rules mode: the two paths are merged per (unit, act, document).
     verified, errors = verify(candidates, root / 'qa' / doc_id, lookup, provenance, config, caller=caller) if candidates else ([], [])
+    # A document the rule read only in a note on the past ("… đã được sửa đổi, bổ sung theo Luật số A, Luật số B, …") is no target,
+    # the fact validate.only_in_history checks for the model's rows (26/10/2026). Dropped after the QA, so no model input changes.
+    noted = {(c['source_path'], number_key(c['target_doc'])) for c in candidates
+             if only_in_history(c.get('_unit_evidence') or c['_evidence'], number_key(c['target_doc']))}
+    verified = [r for r in verified if (r['_source']['source_path'], number_key(r['_source']['target_doc'])) not in noted]
     errors = list(errors) + call_errors
     by_rule = {}
     for record in verified:
@@ -293,8 +298,10 @@ def model_relations(doc_id, meta, parsed, candidates, root, lookup, provenance, 
     # the part stands for all; a whole-document edge the sentence does not state costs the most.
     def sentence(row):
         return (row['source_path'], row['action'], ' '.join((row.get('evidence') or '').split())[:80])
-    # The readings vote: the majority of the sentence's acts decides part or whole; a tie keeps the part (an edge narrower than the act
-    # loses less than a whole-document edge the sentence does not state).
+    # The readings vote: a part read for some acts of the sentence stands for the others when they are at least as many; a tie keeps the
+    # part (an edge narrower than the act loses less than a whole-document edge the sentence does not state). A part the model read is
+    # never turned into the whole document by the other acts of the sentence (26/10/2026: a sentence repealing some documents wholly and
+    # others in part lost the parts).
     parts, votes = {}, {}
     for row in kept:
         if (row.get('vi_tri') or []) not in ([], ['toàn bộ']):
@@ -313,9 +320,6 @@ def model_relations(doc_id, meta, parsed, candidates, root, lookup, provenance, 
             row.update(vi_tri=[], doi_tuong=part, kem_theo=attached, scope=scope, unresolved=False)
             if row.get('resolution_reason') == 'vi_tri_chua_xac_dinh':
                 row.update(resolution_status='validated', resolution_reason=None)
-        elif part_votes < whole_votes and row.get('doi_tuong') and row['action'] in ('bai-bo', 'thay-the', 'huy-bo'):
-            row.update(doi_tuong=None, kem_theo=None, vi_tri=['toàn bộ'], scope='toàn bộ')
-            row.pop('doi_tuong'); row.pop('kem_theo')
 
     def specific(row):
         places = [p for p in row.get('vi_tri') or [] if p != 'toàn bộ']
@@ -348,6 +352,11 @@ def model_relations(doc_id, meta, parsed, candidates, root, lookup, provenance, 
                     if rule_places <= {'toàn bộ'} and model_places:
                         record['_source'].update(vi_tri=model_places, scope='; '.join(model_places))
                         drop_rule_scope_check(record['_source'])
+                    elif rule_places == {'toàn bộ'} and not rule_part and row.get('doi_tuong'):
+                        # The same for a part the model named by name (26/10/2026): "Thủ tục cấp lại chứng chỉ … tại Quyết định số X"
+                        # is that procedure, not X as a whole.
+                        record['_source'].update(vi_tri=[], doi_tuong=row['doi_tuong'], kem_theo=row.get('kem_theo', False), scope=row['scope'])
+                        drop_rule_scope_check(record['_source'])
                     elif not rule_places and not rule_part and (row.get('doi_tuong') or row.get('vi_tri')):
                         # The rule found the act but not what it acts on ("Hủy bỏ 44 công trình, dự án … tại các Nghị quyết"): the
                         # model's reading (a part, or the whole document) stands, instead of a relation left to review.
@@ -373,6 +382,8 @@ def model_relations(doc_id, meta, parsed, candidates, root, lookup, provenance, 
             for record in group:
                 record['_source'].update(extraction='rules', resolution_status='validated', resolution_reason=None)
                 records.append(record)
+    for record in records:
+        appendix_scope(record['_source'])  # the appendix convention, for the edges of both paths
     return records, errors, rejected
 
 

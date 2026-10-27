@@ -30,6 +30,31 @@ PROCEDURE = re.compile(r'thủ\s+tục\s+hành\s+chính|\bTTHC\b|^\s*(?:các\s+|
 PROCEDURE_CODE = re.compile(r'(?<![\d.])\d\.\d{6}(?![\d.])')
 
 
+# The appendix convention (26/10/2026): what is not điều – khoản – điểm (a part named by name, a Mục or Phần of a plan or an old
+# circular, a row of a catalogue, "Mục II Phần B Phụ lục I") is its appendix; its words stay as the content (doi_tuong).
+ARTICLE_PLACE = re.compile(r'\b(?:điểm|khoản|Điều|Chương)\b', re.I)
+APPENDIX_LABEL = re.compile(r'phụ\s+lục\s+(?:số\s+)?([IVXLCDM]+|\d+[a-zđ]?|[A-ZĐ])\b', re.I)
+
+
+def appendix_place(text):
+    """'Phụ lục II' when the words name one appendix, 'Phụ lục' otherwise."""
+    labels = list(dict.fromkeys(m[1] for m in APPENDIX_LABEL.finditer(text or '')))
+    return f'Phụ lục {labels[0]}' if len(labels) == 1 else 'Phụ lục'
+
+
+def appendix_scope(record):
+    """The final positions of an edge under the appendix convention: every position outside điều – khoản – điểm becomes its appendix,
+    and a part named by name with no position becomes the appendix that holds it. The whole document and article positions stay."""
+    places = [p for p in record.get('vi_tri') or [] if p != 'toàn bộ']
+    if places:
+        moved = list(dict.fromkeys(p if ARTICLE_PLACE.search(p) else appendix_place(p) for p in places))
+        if moved != places:
+            record.update(vi_tri=moved, scope='; '.join(moved))
+    elif record.get('doi_tuong'):
+        place = appendix_place(record['doi_tuong'])
+        record.update(vi_tri=[place], scope=place)
+
+
 TYPE_ONLY = re.compile(r'(?:toàn\s+bộ\s+|cả\s+)?(?:các\s+)?(?:văn\s+bản|Quyết\s+định|Nghị\s+định|Nghị\s+quyết|Thông\s+tư(?:\s+liên\s+tịch)?|Chỉ\s+thị'
                        r'|Luật|Pháp\s+lệnh|Công\s+văn|Kế\s+hoạch)(?:\s+(?:này|đó|trên|số))?\.?', re.I)
 

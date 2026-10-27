@@ -6,9 +6,10 @@ import tempfile
 import unittest
 
 from vbpl_v3.extract import extract, shorten_quotes
-from vbpl_v3.resolver import resolve_row
+from vbpl_v3.resolver import appendix_scope, resolve_row
 from vbpl_v3.structure import parse
-from vbpl_v3.validate import validate
+from vbpl_v3.text import number_key
+from vbpl_v3.validate import only_in_history, validate
 
 META = {'document_number': '15/2020/QĐ-UBND', 'title': 'Quyết định sửa đổi Quy định ban hành kèm theo Quyết định 28/2017/QĐ-UBND',
         'action': 'sua-doi', 'legal_type': 'Quyết định', 'issuing_authority': 'Tỉnh A', 'issuance_date': '2020-05-01', 'legal_sectors': []}
@@ -89,6 +90,37 @@ class Validation(unittest.TestCase):
                'evidence': 'Danh mục văn bản cần đình chỉ thi hành, ngưng hiệu lực, sửa đổi, bổ sung, thay thế, bãi bỏ'}
         relations, rejected = kept([row(text, act)])
         self.assertEqual((relations, rejected[0]['reason']), ([], 'ten_danh_muc'))
+
+    def test_amending_laws_in_a_long_history_list_are_no_targets(self):
+        # 26/10/2026: the end of a long list after "đã được sửa đổi … theo" lay beyond the 80-character window and became a target.
+        text = ('Sửa đổi, bổ sung mục 6.4 Phụ lục số 01 ban hành kèm theo Luật Phí và lệ phí số 97/2015/QH13 đã được sửa đổi, bổ sung một số '
+                'điều theo Luật số 09/2017/QH14, Luật số 23/2018/QH14, Luật số 72/2020/QH14, Luật số 16/2023/QH15, Luật số 33/2024/QH15 '
+                'và Luật số 89/2025/QH15 như sau:')
+        act = {'action': 'sua-doi', 'target_section': 'kem_theo', 'target_text': ['mục 6.4 Phụ lục số 01'],
+               'evidence': 'Sửa đổi, bổ sung mục 6.4 Phụ lục số 01 ban hành kèm theo Luật Phí và lệ phí'}
+        relations, rejected = kept([row(text, dict(act, target_document='89/2025/QH15'))])
+        self.assertEqual((relations, rejected[0]['reason']), ([], 'ghi_chu_lich_su'))
+        relations, _ = kept([row(text, dict(act, target_document='97/2015/QH13'))])
+        self.assertEqual({r['target_doc'] for r in relations}, {'97/2015/QH13'})
+        # A provision in each item of the list keeps the list going; a new act ends it.
+        listed = ('Sửa đổi khoản 1 Điều 41 Thông tư số 12/2017/TT-BGTVT (đã được sửa đổi, bổ sung tại khoản 23 Điều 1 Thông tư số '
+                  '38/2019/TT-BGTVT và khoản 1 Điều 12 Thông tư số 05/2023/TT-BGTVT) như sau:')
+        self.assertTrue(only_in_history(listed, number_key('05/2023/TT-BGTVT')))
+        ended = ('Bãi bỏ Quyết định số 12/2020/QĐ-UBND đã được sửa đổi tại Quyết định số 30/2021/QĐ-UBND và bãi bỏ khoản 2 Điều 5 '
+                 'Quyết định số 30/2021/QĐ-UBND.')
+        self.assertFalse(only_in_history(ended, number_key('30/2021/QĐ-UBND')))
+
+    def test_positions_outside_articles_become_their_appendix(self):
+        # 26/10/2026: a part named by name, a Mục or Phần of a plan, a row of a catalogue: the appendix; article positions stay.
+        named = {'vi_tri': [], 'doi_tuong': '14 thủ tục hành chính tại Mục I Phụ lục II'}
+        appendix_scope(named)
+        self.assertEqual((named['vi_tri'], named['doi_tuong']), (['Phụ lục II'], '14 thủ tục hành chính tại Mục I Phụ lục II'))
+        mixed = {'vi_tri': ['khoản 2 Điều 5', 'Mục II Phần B Phụ lục I', 'Mục I']}
+        appendix_scope(mixed)
+        self.assertEqual(mixed['vi_tri'], ['khoản 2 Điều 5', 'Phụ lục I', 'Phụ lục'])
+        whole = {'vi_tri': ['toàn bộ']}
+        appendix_scope(whole)
+        self.assertEqual(whole['vi_tri'], ['toàn bộ'])
 
     def test_quotes_and_new_wording_and_invented_quotes(self):
         text = 'Khoản 2 được sửa đổi như sau: “2. Bãi bỏ Quyết định số 99/2010/QĐ-UBND.”'

@@ -16,7 +16,7 @@ import re
 
 from . import governance
 from .governance import TTHC
-from .relations import document_refs, strip_quotes
+from .relations import LIST_GAP, document_refs, strip_quotes
 from .text import action_matches, number_key
 
 # "Công bố (kèm theo Quyết định này) Danh mục thủ tục hành chính được sửa đổi, bổ sung, bãi bỏ …": the list is published; the act words
@@ -119,12 +119,39 @@ def table_row(row, evidence):
     return None, None
 
 
+# The provision an item of such a list names ("… tại khoản 23 Điều 1 Thông tư số A và khoản 1 Điều 12 Thông tư số B"): no act word.
+LISTED_PLACE = re.compile(r'(?:(?:tiểu\s+)?(?:điểm|khoản|điều|mục|phụ\s+lục|chương|phần)\s+[\w.]+\s*,?\s*)+(?:(?:của|tại)\s+)?', re.I)
+
+
+def history_spans(text):
+    """(start, end) of each note on the past with every document it lists: "… đã được sửa đổi, bổ sung một số điều theo Luật số
+    09/2017/QH14, Luật số 23/2018/QH14, …, Luật số 88/2025/QH15" runs to its last law, however long the list (26/10/2026: a window of
+    80 characters left the end of such lists as targets). The first document follows the note within 80 characters in the same clause;
+    each next one follows the one before with only a separator, a date, an issuer or a provision between them (relations.LIST_GAP)."""
+    refs = list(document_refs(text))
+    spans = []
+    for note in HISTORY.finditer(text):
+        end = None
+        for m in refs:
+            if m.start() < note.end():
+                continue
+            gap = text[note.end() if end is None else end:m.start()]
+            if end is None and (len(gap) > 80 or re.search(r'[.;\n]', gap)):
+                break
+            if end is not None and not LIST_GAP.fullmatch(LISTED_PLACE.sub('', gap)):
+                break
+            end = m.end()
+        if end is not None:
+            spans.append((note.start(), end))
+    return spans
+
+
 def only_in_history(text, target):
-    """Every mention of the target stands right after a note on the past ("đã được sửa đổi, bổ sung tại …", "bị thay thế bởi …")."""
+    """Every mention of the target stands in a note on the past ("đã được sửa đổi, bổ sung tại …", "bị thay thế bởi …") or in the list
+    of documents that note names."""
     mentions = [m for m in document_refs(text) if number_key(m.group()) == target]
-    notes = list(HISTORY.finditer(text))
-    return bool(mentions) and all(any(0 <= m.start() - h.end() <= 80 and not re.search(r'[.;\n]', text[h.end():m.start()]) for h in notes)
-                                  for m in mentions)
+    spans = history_spans(text)
+    return bool(mentions) and all(any(start <= m.start() < end for start, end in spans) for m in mentions)
 
 
 def check(row, resolved):
