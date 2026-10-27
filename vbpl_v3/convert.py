@@ -230,6 +230,33 @@ def tidy_positions(relations, appendix=False):
     return kept
 
 
+def distinct_edges(relations):
+    """One edge once (27/10/2026; 146/2025 had 1.662 repeated rows): the same act, target, position, part and wording pair read in
+    a unit and again in a unit under it ("Điều 1 Khoản 9" and "Điều 1 Khoản 9 điểm a") is the lower unit's; read twice in one unit,
+    it is kept once, the validated reading first. A reading the lower unit left for review does not hide a checked one above it."""
+    def edge(row):
+        return (row.get('action'), number_key(row.get('target_doc') or ''), tuple(row.get('vi_tri') or []), row.get('doi_tuong'),
+                json.dumps(sorted((p.get('cu') or '', p.get('moi') or '') for p in row.get('cum_tu') or []), ensure_ascii=False))
+    lower = {}
+    for record in relations:
+        if record['_source'].get('resolution_status') == 'validated':
+            lower.setdefault(edge(record['_source']), set()).add(record['_source'].get('source_path') or '')
+    kept, at = [], {}
+    for record in relations:
+        row = record['_source']
+        k = edge(row)
+        path = row.get('source_path') or ''
+        if path and any(lower_path.startswith(path + ' ') for lower_path in lower.get(k, ())):
+            continue
+        same = at.get((k, path))
+        if same is None:
+            at[(k, path)] = len(kept)
+            kept.append(record)
+        elif row.get('resolution_status') == 'validated' and kept[same]['_source'].get('resolution_status') != 'validated':
+            kept[same] = record
+    return kept
+
+
 def one_per_position(relations, doc_id):
     """Each position is one edge and one relation. A wording pair keeps only its own position; a pair whose position
     was not found keeps the relation's. Ids are renumbered per prefix in the order the relations come."""
@@ -264,6 +291,7 @@ def one_per_position(relations, doc_id):
         place = (row.get('vi_tri') or [None])[0]
         if detail.get(place):
             row['chi_tiet_vi_tri'] = detail[place]
+    split = distinct_edges(split)
     counts = {}
     for record in split:
         prefix = PREFIX.match(record['_id'])[0]
