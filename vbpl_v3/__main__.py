@@ -48,7 +48,7 @@ def check(config, vectors=0):
             raise ValueError(f'Không thấy model {os.getenv("LITELLM_MODEL")} trong {models}')
         return settings.required('LITELLM_MODEL')
     probe('litellm', llm)
-    probe('embedding', lambda: health(config.embedding_url or settings.required('EMBEDDING_URL')))
+    probe('embedding', lambda: health(config.embedding_url or settings.required('EMBEDDING_URL'), config.embedding_key, config.embedding_model))
 
     def workdir():
         config.workdir.mkdir(parents=True, exist_ok=True)
@@ -62,7 +62,7 @@ def check(config, vectors=0):
             body = {'size': vectors, '_source': ['tieu_de', 'noi_dung', 'embedding'], 'query': {'function_score': {
                 'query': {'exists': {'field': 'embedding'}}, 'random_score': {'seed': 1, 'field': '_seq_no'}, 'boost_mode': 'replace'}}}
             hits = source.request('POST', f"/{config.source['chunks']}/_search", body)['hits']['hits']
-            fresh = embed([chunk_input(h['_source']) for h in hits], config.embedding_url, config.embedding_batch)
+            fresh = embed([chunk_input(h['_source']) for h in hits], config.embedding_url, config.embedding_batch, **config.embedding_options)
             scores = sorted(cosine(h['_source']['embedding'], v) for h, v in zip(hits, fresh))
             return {'chunks': len(scores), 'min': round(scores[0], 4), 'median': round(statistics.median(scores), 4),
                     'reuse_safe': scores[0] > 0.99}

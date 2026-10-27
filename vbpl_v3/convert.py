@@ -444,7 +444,7 @@ def convert_document(doc_id, config, source, target, run_id, root, qa=True, dry_
                 'hieu_luc_rieng': provision_effects(full, issued, src.get('legal_type'))}
     # Vectors go to the index only: a dry run's preview leaves them out, so a dry run neither reads nor computes them.
     if not document.get('embedding') and not dry_run:
-        document['embedding'] = embed([src.get('title') or ''], config.embedding_url, config.embedding_batch)[0]
+        document['embedding'] = embed([src.get('title') or ''], config.embedding_url, config.embedding_batch, **config.embedding_options)[0]
 
     def lookup(numbers):
         return source.by_numbers(config.source['documents'], numbers) if numbers else []
@@ -475,7 +475,8 @@ def convert_document(doc_id, config, source, target, run_id, root, qa=True, dry_
             fresh.append(chunk)
     for start in range(0, len(fresh) if not dry_run else 0, config.embedding_batch):
         batch = fresh[start:start + config.embedding_batch]
-        for chunk, vector in zip(batch, embed([chunk_input(c['_source']) for c in batch], config.embedding_url, config.embedding_batch)):
+        for chunk, vector in zip(batch, embed([chunk_input(c['_source']) for c in batch], config.embedding_url, config.embedding_batch,
+                                              **config.embedding_options)):
             chunk['_source']['embedding'] = vector
 
     relations, errors, qa_status, rejected = [], [], 'skipped', []

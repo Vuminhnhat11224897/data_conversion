@@ -70,7 +70,7 @@ def model(prompt, payload, folder, **options):
     return json.dumps({'scope': data['scope'], 'correct': True, 'evidence': data['unit'][:200]}), {}
 
 
-def fake_embed(texts, url, batch):
+def fake_embed(texts, url, batch, **options):
     return [[0.1] * 1024 for _ in texts]
 
 

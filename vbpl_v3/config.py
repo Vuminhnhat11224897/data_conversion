@@ -47,6 +47,13 @@ class Config:
     qa_scope_max_tokens: int
     extractor: str = 'llm'
     start_year: int = 1980
+    embedding_key: str = ''
+    embedding_model: str = 'bge-m3'
+    embedding_truncate: int | None = None
+
+    @property
+    def embedding_options(self):
+        return {'key': self.embedding_key, 'model': self.embedding_model, 'truncate': self.embedding_truncate}
 
     @classmethod
     def from_env(cls):
@@ -69,6 +76,9 @@ class Config:
             # rules: regex detector + model QA (until 15/10/2026). llm: 4 layers, model extraction checked by rules (extract, resolver, validate).
             extractor=os.getenv('RELATION_EXTRACTOR', 'llm'),
             start_year=number('START_YEAR', 1980, 1000, 2999),
+            embedding_key=os.getenv('EMBEDDING_KEY', '').strip(),
+            embedding_model=os.getenv('EMBEDDING_MODEL', 'bge-m3').strip(),
+            embedding_truncate=number('EMBEDDING_TRUNCATE', 0, 0, 8192) or None if os.getenv('EMBEDDING_TRUNCATE', '').strip() else None,
         ).validate()
 
     def validate(self):
@@ -86,4 +96,7 @@ class Config:
             raise ValueError('Ba index đích phải khác nhau, cùng kết thúc bằng -v3 (hoặc cùng -v4 để chạy thử) và không trùng index nguồn')
         if self.source_url == self.target_url and targets & set(self.source.values()):
             raise ValueError('Index đích trùng index nguồn trên cùng cụm')
+        # The v2 chunk vectors are the first 256 tokens: reused beside whole-chunk vectors they mix two spaces (27/10/2026).
+        if self.embedding_reuse and self.embedding_url.rstrip('/').endswith('/v1') and self.embedding_truncate != 256:
+            raise ValueError('EMBEDDING_REUSE=yes dùng lại vector v2 cắt ở 256 token: chỉ hợp với EMBEDDING_TRUNCATE=256')
         return self

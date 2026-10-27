@@ -602,6 +602,10 @@ def passages(text, limit=PASSAGE_WORDS):
 
 
 SEARCH_PASSAGE_WORDS = 150  # an appendix runs ~1.5 tokens a word (p90 1.8, 27/10/2026): 150 words stay under 256 tokens
+# With whole-chunk vectors (no 256-token cut, 27/10/2026) an appendix finds best at ~300 words a passage (Hit@5 0.767 against 0.667 at
+# 150, 170 questions on 400 documents), a section of a letter at ~150 (0.854 against 0.732 at 300).
+APPENDIX_PASSAGE_WORDS = 300
+SECTION_PASSAGE_WORDS = SEARCH_PASSAGE_WORDS
 
 
 def search_passages(text, limit=SEARCH_PASSAGE_WORDS):
@@ -642,7 +646,8 @@ def search_passages(text, limit=SEARCH_PASSAGE_WORDS):
     return result
 
 
-def build_chunks(doc_id, metadata, parsed, passage_words=SEARCH_PASSAGE_WORDS):
+def build_chunks(doc_id, metadata, parsed, passage_words=None):
+    appendix_words, section_words = (passage_words, passage_words) if passage_words else (APPENDIX_PASSAGE_WORDS, SECTION_PASSAGE_WORDS)
     common = {k: metadata[k] for k in ('document_number', 'title', 'action', 'legal_type', 'issuing_authority', 'issuance_date', 'url', 'signers') if metadata.get(k)}
     common['doc_id'] = str(doc_id)
     if metadata.get('legal_sectors'):
@@ -700,14 +705,14 @@ def build_chunks(doc_id, metadata, parsed, passage_words=SEARCH_PASSAGE_WORDS):
                 article_chunks(article, prefix, extra)
         else:
             # The whole part stays one chunk: the graph node. Passages are for search only and repeat the part's title.
-            parts = search_passages(appendix['noi_dung'], passage_words)
+            parts = search_passages(appendix['noi_dung'], appendix_words)
             emit(prefix, 'phu_luc', appendix['tieu_de'], appendix['noi_dung'], extra, full=bool(parts))
             for k, part in enumerate(parts, 1):
                 emit(f'{prefix}_doan{k}', 'phu_luc_doan', appendix['tieu_de'], part, {**extra, 'so_doan': k})
     if not parsed['dieu_luat']:
         sections = parsed.get('noi_dung_sections', [])
         for section in sections:
-            parts = search_passages(section['noi_dung'], passage_words)
+            parts = search_passages(section['noi_dung'], section_words)
             key = emit(f'{doc_id}_m{section["so_muc"]}', 'muc', '', section['noi_dung'], {'so_muc': section['so_muc']},
                        section['so_van_ban_refs'], full=bool(parts))
             if key:
