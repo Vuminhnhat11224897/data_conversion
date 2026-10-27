@@ -434,6 +434,7 @@ def opening(text):
 
 
 AMENDS, ADDS = re.compile(r'sửa\s*đổi|điều\s+chỉnh', re.I), re.compile(r'bổ\s*sung', re.I)
+REPEALS = re.compile(r'(?:^|[\s(])(?:b[ãả]i\s+bỏ|bỏ)\b', re.I)
 
 
 def stating(text, place):
@@ -465,7 +466,13 @@ def own_verbs(relations, frames):
             places = [p for p in row.get('vi_tri') or [] if p != 'toàn bộ']
             # Each position by the clause that names it (a lead's record holds khoản 7 and khoản 9 before one_per_position).
             named = {p: [w for w in (stating(text, p), stating(quote, p)) if w] for p in places}
-            dropped = [p for p, said in named.items() if said and denies(said)]
+            # "Bãi bỏ điểm c khoản 1 Điều 21" read as sua-doi / bo-sung: the clause that names the position repeals it.
+            repealed = [p for p, said in named.items() if said and all(REPEALS.search(w) and not AMENDS.search(w) and not ADDS.search(w) for w in said)]
+            if repealed and len(repealed) == len(places):
+                row['action'] = 'bai-bo'
+                kept.append(record)
+                continue
+            dropped = [p for p, said in named.items() if said and denies(said)] + repealed
             if dropped:
                 rename_places(row, dict.fromkeys(dropped))
                 if not row['vi_tri']:
