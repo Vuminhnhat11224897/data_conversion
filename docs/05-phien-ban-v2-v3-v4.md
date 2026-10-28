@@ -3,25 +3,29 @@
 Tài liệu này so sánh 3 phiên bản. Mỗi phiên bản có: bên ghi, luồng, cải tiến, chất lượng đo được, trạng thái. Đọc tài liệu này trước khi đọc hợp đồng của từng phiên bản.
 
 - Hợp đồng chi tiết: v2 ở [03](03-hop-dong-du-lieu-v2.md), v3 ở [04](04-hop-dong-du-lieu-v3.md), v4 ở [09](09-hop-dong-du-lieu-v4.md).
-- "v4" có 2 nghĩa. **Hợp đồng v4** là dữ liệu mà luồng chốt tạo ra. Code chốt hiện tại là commit `8b023ca` (27/10/2026). **Index `-v4`** là bản thử trên ES đích. Index này có 11.000 văn bản, ghi lại ngày 22/10/2026 bằng code `2911b77`. Dữ liệu này chưa có các thay đổi code 26–27/10/2026 (mục 5.2.4).
+- "v4" có 2 nghĩa. **Hợp đồng v4** là dữ liệu mà luồng chốt tạo ra. Code chạy hiện hành là commit `1117e63` (27/10/2026). **Index `-v4`** là bản thử trên ES đích. Index này có 30.988 văn bản (đếm 28/10/2026). Công cụ ghi 30.981 văn bản bằng code `1117e63` trong đêm 27–28/10/2026. 7 văn bản còn bản ghi ngày 22/10/2026 (code `2911b77`).
 - Mọi số liệu ghi ngày đo.
 
 ## 5.1. Tóm tắt
 
-Trạng thái ngày 27/10/2026.
+Trạng thái ngày 28/10/2026.
 
 | Mục | v2 | v3 | v4 |
 | --- | --- | --- | --- |
 | Bên ghi | Luồng realtime | `vbpl_v3`, chế độ `rules` | `vbpl_v3`, chế độ `llm` (luồng 4 tầng) |
 | Cụm ES | Nguồn `10.1.10.10` | Đích `10.1.10.23` | Đích `10.1.10.23` |
 | Index | `legal-docs`, `legal-chunk-section-v2`, `legal-changed-v2` | `legal-docs-v3`, `legal-chunk-section-v3`, `legal-changed-v3` | `legal-docs-v4`, `legal-chunk-section-v4`, `legal-changed-v4` |
-| Code tạo dữ liệu | Bộ tách cũ | Quy tắc ngày 09–13/10/2026 | Index `-v4`: code chốt 22/10/2026 (`2911b77`). Code chốt hiện tại: `8b023ca` (27/10/2026), chưa ghi ES. |
-| Số bản ghi | 518.261 văn bản, 10.331.917 chunk, 180.452 quan hệ (16/10) | 204 văn bản, 6.291 chunk, 733 quan hệ (19/10) | Index `-v4`: 11.000 văn bản, 447.597 chunk, 42.771 quan hệ (40.496 `validated`, 2.275 `unresolved`) (22/10) |
-| Phạm vi văn bản | Toàn kho | 204 văn bản chọn để thử | 11.000 văn bản mới nhất, ban hành từ 08/10/2025 đến 30/09/2026 |
+| Code tạo dữ liệu | Bộ tách cũ | Quy tắc ngày 09–13/10/2026. 32 văn bản thêm 27/10/2026: code `8b023ca`, câu trả lời LLM đã lưu, sửa tay. | `1117e63` (27/10/2026) cho 30.981 văn bản. `2911b77` (22/10/2026) cho 7 văn bản lỗi khi ghi lại. |
+| Số bản ghi | 518.261 văn bản, 10.331.917 chunk, 180.452 quan hệ (16/10) | 236 văn bản, 14.677 chunk, 4.201 quan hệ (28/10) | 30.988 văn bản, 1.534.375 chunk, 75.506 quan hệ (70.954 `validated`, 4.552 `unresolved`) (28/10) |
+| Phạm vi văn bản | Toàn kho | 204 văn bản chọn để thử, cộng 32 văn bản của bộ 88 testcase | Văn bản ban hành từ 12/03/2025 đến 30/09/2026 (năm 2025: 27.980, năm 2026: 3.008) |
+| Embedding | Vector cắt 256 token | Vector cắt 256 token, như v2 | Vector đủ độ dài, 1024 chiều (API bge-m3 `http://10.1.10.22:9999/v1`) |
 | Vai trò | Nguồn. Công cụ chỉ đọc. | Bản đang đọc. Công cụ sẽ ghi lại theo hợp đồng v4. | Bản thử. Bên Graph duyệt trước khi ghi lại v3. |
-| Trạng thái | Không đổi | Không đổi. Chỉ ghi lại khi bên Graph duyệt v4. | Ghi lại 22/10/2026. Chưa quyết có ghi lại bằng code `8b023ca` hay không. Đợt 10.000 văn bản tiếp theo chưa chạy. |
+| Trạng thái | Không đổi | Không ghi lại toàn bộ khi bên Graph chưa duyệt v4. Hai ngoại lệ có người dùng duyệt: văn bản 132140 (15/10) và 32 văn bản (27/10). | Ghi 27–28/10/2026: 19.988 văn bản mới và ghi lại 11.000 văn bản cũ. 17 văn bản lỗi (mục 5.2.4). Đợt tiếp theo chưa có lệnh chạy. |
 
-Sau khi bên Graph duyệt, công cụ ghi lại v3 theo hợp đồng v4. Khi đó v3 và v4 có cùng dữ liệu, chỉ khác hậu tố index. Đến ngày 27/10/2026, bên dữ liệu chỉ ghi các index `-v4`.
+- Đếm 28/10/2026 theo `resolution_status`. Trường cũ `unresolved = true` có ở 2.147 quan hệ (2,8%). Bên Graph đọc `resolution_status`.
+- 32 văn bản của v3 dùng vector 256 token như v3. Danh sách để gỡ ở `work/v3-32/manifest.json`.
+
+Sau khi bên Graph duyệt, công cụ ghi lại v3 theo hợp đồng v4. Khi đó v3 và v4 có cùng dữ liệu, chỉ khác hậu tố index. Lần ghi lại đó làm mất các sửa tay của 32 văn bản, nếu chỉ chạy `convert`. Đến ngày 28/10/2026, bên dữ liệu chỉ ghi các index `-v4`, trừ hai ngoại lệ trên.
 
 ## 5.2. Luồng của từng phiên bản
 
@@ -84,14 +88,15 @@ Mốc chốt của luồng. Mỗi mốc là một commit. Số đo của từng 
 | --- | --- | --- | --- |
 | 20/10/2026 | Mã băm ở `work/final-20261021-code.json` | Luồng 4 tầng thành chế độ mặc định ([08, mục 8.8.4](08-quan-he-4-tang-va-danh-gia.md#884-chốt-luồng-20102026)) | Không có |
 | 21/10/2026 | `013e897` | Kiểm sự thật, không kiểm hình thức: quy tắc 1–14 ([08, mục 8.11](08-quan-he-4-tang-va-danh-gia.md#811-rule-tổng-quát-kiểm-sự-thật-không-kiểm-hình-thức-21102026)) | 11.000 văn bản `-v4` (21–22/10). Đã bị ghi đè. |
-| 22/10/2026 | `2911b77` | Quy tắc 15–19: danh mục ở phụ lục mọi dạng, câu ngoài bảng, ngoặc kép lồng nhau, đích chỉ nằm trong nội dung mới ([08, mục 8.14](08-quan-he-4-tang-va-danh-gia.md#814-sửa-lỗi-sau-benchmark-500-văn-bản-22102026)) | **Index `-v4` hiện có**: 11.000 văn bản, ghi lại 22/10 |
+| 22/10/2026 | `2911b77` | Quy tắc 15–19: danh mục ở phụ lục mọi dạng, câu ngoài bảng, ngoặc kép lồng nhau, đích chỉ nằm trong nội dung mới ([08, mục 8.14](08-quan-he-4-tang-va-danh-gia.md#814-sửa-lỗi-sau-benchmark-500-văn-bản-22102026)) | 11.000 văn bản `-v4` (22/10). Ghi đè 28/10, trừ 7 văn bản lỗi. |
 | 26/10/2026 | `bfb699b` | Ghi chú lịch sử phủ hết danh sách, quy ước phụ lục, giữ phần LLM đọc được (mục 5.2.4) | Không có |
 | 27/10/2026 | `8ccb1da` | Thu hẹp quy ước phụ lục, ghi chú lịch sử ở đơn vị bị cắt (mục 5.2.4) | Không có |
-| 27/10/2026 | `8b023ca` | Quy ước phụ lục cho mọi vị trí, giữ chữ gốc ở `chi_tiet_vi_tri` (mục 5.2.4). **Code chốt hiện tại.** | Không có |
+| 27/10/2026 | `8b023ca` | Quy ước phụ lục cho mọi vị trí, giữ chữ gốc ở `chi_tiet_vi_tri` (mục 5.2.4) | 32 văn bản v3 (27/10), có sửa tay |
+| 27/10/2026 | `c394162` đến `1117e63` | Biểu mẫu, đoạn tìm kiếm, kiểm vị trí, embedding đủ độ dài, R1–R6, R12, R15 (mục 5.2.4). **Code chạy hiện hành: `1117e63`.** | **Index `-v4` hiện có**: 30.981 văn bản, ghi 27–28/10 |
 
 ### 5.2.4. Thay đổi code 22–27/10/2026
 
-Các thay đổi dưới đây có sau commit `2911b77`. **Index `-v4` hiện có chưa theo các thay đổi này.** Mọi thay đổi nằm ở bước sau LLM. Khóa cache của câu trả lời LLM không đổi. Vì vậy công cụ ghi lại được bằng câu trả lời đã lưu, không phải hỏi lại LLM.
+Các thay đổi dưới đây có sau commit `2911b77`. Index `-v4` theo các thay đổi này từ 28/10/2026 (code `1117e63`), trừ 7 văn bản lỗi. Phần lớn thay đổi nằm ở bước sau LLM. Khóa cache của câu trả lời LLM không đổi. Vì vậy lượt ghi lại `v4-2710` dùng câu trả lời đã lưu của lượt `v4-2210`. Thay đổi cấu trúc (`c394162`, `c7930ea`) đổi chữ của một số đơn vị. Công cụ hỏi lại LLM cho các đơn vị đó.
 
 | Ngày | Thay đổi | Code | Hệ quả cho dữ liệu |
 | --- | --- | --- | --- |
@@ -104,10 +109,25 @@ Các thay đổi dưới đây có sau commit `2911b77`. **Index `-v4` hiện c�
 | 27/10 (`8ccb1da`) | Tầng 4 kiểm ghi chú lịch sử trên toàn văn đơn vị, không chỉ trên phần LLM đọc. Câu thực hiện lấy từ phần bị cắt là câu của chính đơn vị. | `validate.only_noted`, `validate.check` | Bỏ 101 quan hệ ở 10 văn bản: 8 văn bản của bộ stress, 2 văn bản của hold-out 300. Recall không đổi (27/10/2026). |
 | 27/10 (`8b023ca`) | Quy ước phụ lục chạy thêm một lần, sau khi code tính vị trí của nhánh quy tắc từ `scope` và vị trí của dòng danh mục. Quy ước áp cả cho `cum_tu[].vi_tri`. | `convert.tidy_positions` (`appendix=True`), `resolver.appendix_scope` | Mọi vị trí qua quy ước. Code `8ccb1da` để lọt 57/9.759 quan hệ; code `8b023ca` để lọt 0 (27/10/2026). |
 | 27/10 (`8b023ca`) | Vị trí bị đổi thành phụ lục giữ chữ gốc ở `chi_tiet_vi_tri`. Nhiều vị trí gốc về cùng một phụ lục thì gộp thành một cạnh. | `resolver.appendix_scope` | Ví dụ `683435_14`: `vi_tri = ["Phụ lục"]`, `chi_tiet_vi_tri = "Mục 14; Mục 89; Mục 90"` |
-| 27/10 (`8b023ca`) | Vị trí của phần thân giữ nguyên: chữ "điểm", "khoản", "Điều", "Chương", `tên văn bản`, `tên Mục <n>`. `Mục <n>` đứng một mình thành phụ lục. Bộ chấm dùng cùng phép thử. | `resolver.body_place`, `eval/score.place` | `694149_152` giữ `tên văn bản` |
+| 27/10 (`8b023ca`) | Vị trí của phần thân giữ nguyên: chữ "điểm", "khoản", "Điều", "Chương", `tên văn bản`, `tên Mục <n>`. `Mục <n>` đứng một mình thành phụ lục. Bộ chấm dùng cùng phép thử. | `resolver.body_place`, `eval/score.place` | 51 quan hệ `-v4` có `vi_tri = ["tên văn bản"]` (28/10) |
+| 27/10 (`c394162`) | Biểu mẫu trong phụ lục không giữ Điều. Phần đó lưu phẳng như bảng. | `structure.sample_form`, `structure.appendix_header` | `694210` còn một Điều 1 (`694210_d1`), trước đó 63/180 phụ lục có Điều 1 (kiểm 28/10) |
+| 27/10 (`c394162`, `57b9033`) | Chunk `phu_luc`, `muc` giữ ID làm node. Nội dung dài thêm đoạn tìm kiếm `phu_luc_doan` (300 từ), `muc_doan` (150 từ). Trường mới `loai_phan`, `phu_luc_uid`, `muc_uid`, `so_doan`. | `structure.build_chunks` | 377.099 chunk `phu_luc_doan`, 101.033 chunk `muc_doan` (28/10) |
+| 27/10 (`f5ef0a7`) | Kiểm vị trí sau gộp: Điều lấy nhầm số Điều của đơn vị nguồn, cả văn bản khi câu gắn vị trí vào đích, thêm vị trí câu nêu mà quan hệ thiếu | `validate.check_positions` | Ví dụ lỗi cũ: 672540, 685741 |
+| 27/10 (`57b9033`) | Embedding qua API bge-m3 kiểu OpenAI. `EMBEDDING_TRUNCATE` trống thì vector đủ độ dài. | `embedding.py`, `config.py` | Vector `-v4` không cắt 256 token |
+| 27/10 (`9dc5f55`) | Một cạnh một lần: bỏ dòng cha trùng dòng con, bỏ dòng lặp trong cùng đơn vị (R1) | `convert.distinct_edges` | 32 văn bản: 5.741 → 3.456 dòng (27/10) |
+| 27/10 (`b06a6d7`) | Bỏ dòng câu dẫn không vị trí khi đơn vị con đã nêu vị trí (R2) | `convert.py` | 32 văn bản: `unresolved` 16 → 8 (27/10) |
+| 27/10 (`3c8cef2`, `8b3e843`) | Hành động theo động từ của câu nêu vị trí (R3). Câu "Bãi bỏ …" cho `bai-bo`. | `validate.py` | 32 văn bản: "Bãi bỏ" ghi thành sửa đổi, bổ sung 51 → 45 (`3c8cef2`), 48 → 38 (`8b3e843`) (27/10) |
+| 27/10 (`3c26438`) | Bỏ cụm từ: `thay-cum-tu` với `moi` rỗng (R4). Không tạo quan hệ "bổ sung cụm từ" (R5). Không lấy quan hệ từ tên, lời dẫn (`intro_`, `hd_`) (R6). | `validate.py`, `temporal.py` | 32 văn bản: `cum_tu` rỗng 123 → 0 (27/10) |
+| 27/10 (`24a8d57`) | `evidence` là câu nguyên văn của chính đơn vị nêu vị trí hoặc cụm từ (R12) | `validate.py`, `convert.py` | Mẫu 2.000 văn bản của đợt 20.000: `evidence` nguyên văn 99,5% (28/10) |
+| 27/10 (`c7930ea`) | Tách Điều bỏ dấu ngoặc lạc khi gặp Chương kế tiếp. Metadata: số hiệu sạch ký tự ẩn, ngày hết hiệu lực, căn cứ, khối chữ ký. Ghép chữ tách âm (R15). | `structure.unquoted`, `text.py` | 14/2026, 15/2026 không còn mất Điều 103–113, 27–37 |
+| 27/10 (`1117e63`) | `EMBEDDING_REUSE=target`: chunk không đổi chữ dùng lại vector của index đích | `config.py`, `convert.py` | Lượt ghi lại `v4-2710` chỉ embed đoạn mới hoặc đổi chữ |
 
 - Ví dụ lỗi của dòng cuối: văn bản 675210, Điều 86 khoản 4, nêu "Luật Phí và lệ phí số 97/2015/QH13 đã được sửa đổi, bổ sung … theo Luật số 09/2017/QH14, …". Phần thứ hai của đơn vị mất đoạn ghi chú. Code 26/10 ghi `sua-doi`, `bo-sung` tới 35/2024/QH15 và 89/2025/QH15.
-- Muốn dữ liệu `-v4` theo code `8b023ca`, bên dữ liệu phải ghi lại 11.000 văn bản. Việc này chờ người dùng quyết ([07, mục 7.5](07-gioi-han-va-can-chot.md#75-việc-còn-lại-ở-bên-dữ-liệu)).
+- Hai lượt ghi `-v4` đêm 27–28/10/2026, code `1117e63`:
+  - `v4-next20000`: 20.000 văn bản mới, 20 luồng, 22:48 27/10 → 04:18 28/10. 10 văn bản lỗi chưa ghi: 650872, 651044, 651412, 663486, 668834, 670096, 671294, 672275, 672379, 675570.
+  - `v4-2710`: ghi lại 11.000 văn bản cũ, `EMBEDDING_REUSE=target`, 04:18 → 07:40 28/10. 7 văn bản lỗi còn bản ghi 22/10: 679994, 682498, 685655, 686325, 694929, 694935, 696357.
+- Hai lượt lỗi `ConnectionError … timed out` khi chạy cùng lúc. ES đích, ES nguồn và máy embedding đều qua VPN `tun0` (khoảng 2,5 MB/s).
+- Việc còn lại ở [07, mục 7.5](07-gioi-han-va-can-chot.md#75-việc-còn-lại-ở-bên-dữ-liệu).
 - Chi tiết và số đo ở [08, mục 8.16](08-quan-he-4-tang-va-danh-gia.md#816-văn-bản-sửa-đổi-đi-kèm-quy-ước-phụ-lục-hold-out-300-26102026) và [08, mục 8.17](08-quan-he-4-tang-va-danh-gia.md#817-thu-hẹp-quy-ước-phụ-lục-ghi-chú-lịch-sử-ở-đơn-vị-bị-cắt-27102026).
 
 ## 5.3. Cải tiến từ v2 sang v3
@@ -146,12 +166,19 @@ Số liệu v2 đo ngày 09/10/2026 trên toàn kho.
 | `noi_nhan` | Dính dòng chữ ký (132/204 văn bản) | Chỉ có nơi nhận |
 | Quan hệ lên thủ tục hành chính | Không tách | `doi_tuong_loai = thu_tuc_hanh_chinh`, `ma_thu_tuc` |
 | Văn bản có toàn văn tiếng Anh | Có thể có bản ghi sai cấu trúc | Bỏ qua |
+| Biểu mẫu trong phụ lục | Có thể bị tách thành Điều | Code `c394162`: phần biểu mẫu lưu phẳng, không có Điều |
+| Phụ lục, đề mục dài | Một chunk, vector chỉ đại diện phần đầu | Chunk `phu_luc`, `muc` giữ làm node. Thêm đoạn tìm kiếm `phu_luc_doan` (300 từ), `muc_doan` (150 từ). Đoạn tìm kiếm không là node. |
+| Vector | Cắt 256 token | Đủ độ dài (`-v4`, từ 26/10/2026) |
+| Cùng một thay đổi ở đơn vị cha và đơn vị con | Có thể ghi hai lần | Giữ dòng của đơn vị con (R1, R2) |
+| Quan hệ từ tên văn bản và lời dẫn (`intro_`, `hd_`) | Có | Không ghi (R6). `-v4` có 0 quan hệ `source_path = intro` (28/10/2026). |
+| Bỏ cụm từ | `bai-bo` hoặc `cum_tu` rỗng | `thay-cum-tu`, `cum_tu[].moi = ""` (R4) |
 
 Danh sách đầy đủ ở [04, mục 4.10](04-hop-dong-du-lieu-v3.md#410-khác-với-hợp-đồng-đích-và-lỗi-đã-biết). Hợp đồng v4 đầy đủ ở [09](09-hop-dong-du-lieu-v4.md).
 
-- 3 dòng cuối có từ code 26–27/10/2026. Index `-v4` hiện có (code `2911b77`) chưa theo 3 dòng này.
-- Ví dụ `689945_1`, `694022_0` lấy từ lượt chạy lại `fix9-H56` (code `8b023ca`, 27/10/2026). Hai ví dụ chưa có trong ES.
-- Đo 27/10/2026 trên lượt `fix9-H56` và `fix9-ho` (876 văn bản): 557/9.760 quan hệ `validated` (5,7%) có vị trí chỉ là phụ lục. 196 quan hệ trong số này có `chi_tiet_vi_tri`. 292 quan hệ có `Phụ lục` không số. Bên Graph chưa chốt cách nối vị trí này ([11](11-cau-hoi-graph.md)).
+- Các dòng ghi code 26–27/10/2026 có trong `-v4` từ 28/10/2026 (code `1117e63`). Quyết định R1–R15 ở [07, mục 7.4](07-gioi-han-va-can-chot.md#74-quyết-định-đã-chốt).
+- Ví dụ `689945_1`, `694022_0` có trong `legal-changed-v4` với cùng giá trị (kiểm 28/10/2026).
+- Đo 28/10/2026 trên `legal-changed-v4`: 14.911/70.954 quan hệ `validated` (21,0%) có vị trí là phụ lục. 10.990 quan hệ có `Phụ lục` không số. 6.808 quan hệ trong nhóm `Phụ lục` không số là quan hệ lên thủ tục hành chính. Bên Graph chưa chốt cách nối vị trí này ([11](11-cau-hoi-graph.md)).
+- Lượt chạy lại `fix9-*` (876 văn bản, code `8b023ca`, 27/10/2026) cho tỉ lệ thấp hơn: 557/9.760 (5,7%), 292 `Phụ lục` không số.
 
 ### 5.4.2. Cách dò quan hệ
 
@@ -172,12 +199,34 @@ Danh sách đầy đủ ở [04, mục 4.10](04-hop-dong-du-lieu-v3.md#410-khác
 | Một câu bãi bỏ cả văn bản và một phần: phần LLM đọc được bị đổi thành cả văn bản | Bỏ phiếu không đổi phần LLM đọc được thành cả văn bản | 26/10 |
 | Vị trí không theo điều – khoản – điểm không có node | Quy ước phụ lục (mục 5.4.1) | 26–27/10 |
 | Đơn vị dài hỏi theo phần: phần sau mất đoạn ghi chú lịch sử | Tầng 4 kiểm ghi chú lịch sử trên toàn văn đơn vị (`_noi_dung_goc`) | 27/10 |
+| Vị trí lấy nhầm số Điều của đơn vị nguồn; cả văn bản khi câu gắn vị trí vào đích | Kiểm vị trí sau gộp (`validate.check_positions`) | 27/10 |
+| Dòng trùng cha/con, dòng lặp, câu dẫn không vị trí | Một cạnh một lần (R1, R2) | 27/10 |
+| Câu dẫn "Sửa đổi, bổ sung …" áp cặp hành động xuống đơn vị con | Hành động theo động từ của câu nêu vị trí (R3) | 27/10 |
+| `evidence` ghép nhiều đoạn | `evidence` là câu nguyên văn của chính đơn vị (R12) | 27/10 |
 
-Index `-v4` hiện có theo các dòng đến 22/10. Các dòng 26–27/10 chưa có trong dữ liệu (mục 5.2.4).
+Index `-v4` theo mọi dòng trên từ 28/10/2026, trừ 7 văn bản còn bản ghi 22/10 (mục 5.2.4).
 
 ### 5.4.3. Chất lượng đo được
 
-**Luồng hiện tại (code `8b023ca`, bộ chấm 27/10/2026).** Bộ chấm là `eval/score.py` của commit `8b023ca`. Bộ chấm dùng 2 chỉ số:
+**Dữ liệu `-v4` hiện có (code `1117e63`, đợt 20.000, chấm 28/10/2026).** Mẫu `eval/sets/dot-20000-20261028` có 2.000 văn bản, lấy phân tầng từ khung 12.195 văn bản của lượt `v4-next20000`. Nhãn do agent gán (`eval/gold/dot-20000-20261028-g300`, 312 văn bản, và `-r`, 1.688 văn bản). Nhãn có 9.137 quan hệ, đã khóa, **chưa qua người duyệt**. Mẫu này không dùng để sửa code.
+
+| Cách tính | Phát hiện P / R | Phạm vi P / R |
+| --- | --- | --- |
+| Có trọng số (ước tính cho cả đợt, khoảng 95%) | 0,901 [0,873–0,922] / 0,804 [0,750–0,852] | 0,785 [0,713–0,842] / 0,695 [0,630–0,752] |
+| Không trọng số (P / R / F1) | 0,900 / 0,819 / 0,858 | 0,785 / 0,702 / 0,741 |
+
+- Sót phát hiện, không trọng số: 860 mục. 563 mục sót đích, 167 mục có nhưng `unresolved`, 91 mục đúng đích khác hành động, 39 văn bản công cụ không ra quan hệ nào.
+- Kiểm tự động 2.000 văn bản: metadata đúng 99,1%. Có 9.550 quan hệ: `unresolved = true` 3,6%, `evidence` nguyên văn 99,5%, nối được đích 85%.
+- Độ đúng từng trường của quan hệ so với nhãn: `action` 0,969; `source_path` 0,952; `target_doc` 0,922; `vi_tri` 0,877; `evidence` 0,865; `target_section` 0,833.
+- Agent gán nhãn không thống nhất ở R2 (câu dẫn cha) và "bỏ cụm từ". `doi_tuong` ghi không đều, nên số đo `doi_tuong` chỉ để tham khảo.
+- Lỗi thật tìm thấy khi chấm ở [07, mục 7.2](07-gioi-han-va-can-chot.md#72-lỗi-dữ-liệu-đã-biết).
+
+Kiểm toàn bộ dữ liệu `-v4`, 28/10/2026:
+
+- Chunk: độ phủ khoảng 100% mọi trường bắt buộc. Trên 48.354 chunk của 1.000 văn bản ngẫu nhiên, độ đúng khoảng 100%. Ngoại lệ: `noi_dung` có nguyên văn trong toàn văn 99,1%; 93,4% văn bản không có lỗi cấu trúc theo nhãn; `so_van_ban_refs` có ở 88,1% chunk.
+- Quan hệ (75.506): `source_*`, `cap_quan_he`, `hieu_luc_tac_dong` đúng 100%. `target_matched_id` đúng 99,99% (85,1% quan hệ có). `cum_tu` đúng 98,1%: 205 dòng `thay-cum-tu` thiếu `cum_tu`.
+
+**Luồng ngày 27/10/2026 (code `8b023ca`, bộ chấm 27/10/2026).** Bộ chấm là `eval/score.py` của commit `8b023ca`. Bộ chấm dùng 2 chỉ số:
 
 - Phát hiện: đúng văn bản nguồn, hành động và văn bản đích.
 - Phạm vi: đúng thêm vị trí hoặc phần bị tác động.
@@ -193,8 +242,10 @@ Bộ chấm áp quy ước phụ lục như nhau cho nhãn và công cụ. Công
 
 - Công cụ chạy lại chặt (`LLM_REPLAY=strict`) trên cùng câu trả lời LLM. Có 0 câu trả lời thiếu (lượt `fix9-*`). Mọi khác biệt giữa code 26/10 và 27/10 do code tạo ra.
 - Code `8b023ca` cho cùng điểm như code `8ccb1da`, trừ phạm vi của hold-out 300 (F1 0,690 → 0,691).
-- Số độc lập duy nhất là hold-out 300. Người duyệt CSV `bernmark/ho300/duyet_ho300.csv` (1.431 dòng) xong thì bên dữ liệu chấm lại để có số chính thức.
-- Dữ liệu `-v4` hiện có (code `2911b77`) đo trên H5 + H6 ngày 22/10/2026 bằng bộ chấm cũ: phát hiện P / R 0,890 / 0,873; phạm vi P / R 0,785 / 0,743 ([08, mục 8.15](08-quan-he-4-tang-va-danh-gia.md#815-chốt-luồng-và-ghi-lại-v4-22102026)). Không so trực tiếp với bảng trên, vì bộ chấm khác.
+- Commit `f5ef0a7` (kiểm vị trí, lượt `fix16`, 27/10/2026) nâng phạm vi F1: 0,825 → 0,840 (7 bộ cũ), 0,801 → 0,814 (H5 + H6), 0,691 → 0,700 (hold-out 300). Nguồn: thông điệp commit.
+- Bảng trên chưa chấm lại bằng code `1117e63` (chưa đo).
+- Hai bộ độc lập là hold-out 300 và mẫu đợt 20.000. Cả hai có nhãn agent. Người duyệt CSV `bernmark/ho300/duyet_ho300.csv` (1.431 dòng) xong thì bên dữ liệu chấm lại để có số chính thức.
+- Dữ liệu `-v4` ngày 22/10 (code `2911b77`) đo trên H5 + H6 ngày 22/10/2026 bằng bộ chấm cũ: phát hiện P / R 0,890 / 0,873; phạm vi P / R 0,785 / 0,743 ([08, mục 8.15](08-quan-he-4-tang-va-danh-gia.md#815-chốt-luồng-và-ghi-lại-v4-22102026)). Không so trực tiếp với bảng trên, vì bộ chấm khác.
 - Phạm vi thấp hơn phát hiện. Nguyên nhân theo cơ chế ở [07, mục 7.2](07-gioi-han-va-can-chot.md#72-lỗi-dữ-liệu-đã-biết).
 - Chi tiết ở [08, mục 8.17](08-quan-he-4-tang-va-danh-gia.md#817-thu-hẹp-quy-ước-phụ-lục-ghi-chú-lịch-sử-ở-đơn-vị-bị-cắt-27102026). Bảng đầy đủ của code `8ccb1da` ở `bernmark/fix3/ket_qua_fix7.txt`.
 
@@ -260,7 +311,7 @@ Công cụ không chép quan hệ v2. Công cụ dò lại mọi quan hệ từ 
 | Mục | v2 | v3 và v4 |
 | --- | --- | --- |
 | `_id` | `<n>` là bộ đếm chung. Có hậu tố `_split`, `_f<n>`. Ví dụ `602450_78359`. | `<n>` đếm từ 0 theo từng văn bản nguồn và tiền tố. Không có hậu tố, không khuyết số. Ví dụ `602450_1`. |
-| Tiền tố `_id` | `hidden_`, `hhl_`, `intro_` | Thêm `hd_` (quan hệ hướng dẫn), `hn_` (quan hệ hợp nhất) |
+| Tiền tố `_id` | `hidden_`, `hhl_`, `intro_` | Thêm `hd_` (quan hệ hướng dẫn), `hn_` (quan hệ hợp nhất). Code `1117e63` không ghi `intro_`, `hd_` (R6). |
 | `action` | 5 giá trị | 13 giá trị. Thêm `thay-cum-tu`, `dinh-chi`, `ngung-hieu-luc`, `dinh-chinh`, `gia-han`, `huong-dan`, `quy-dinh-chi-tiet`, `hop-nhat`. |
 | `detection_mode` | `hidden`, `het_hieu_luc`, `intro` | Thêm `title_guidance`, `hop_nhat`. Hợp đồng v4 thêm `llm`. |
 | Một bản ghi | Một câu, nhiều vị trí | Một vị trí. Câu có N vị trí cho N quan hệ cùng `scope`. |
@@ -270,7 +321,7 @@ Công cụ không chép quan hệ v2. Công cụ dò lại mọi quan hệ từ 
 | Văn bản hợp nhất | Có thể có quan hệ từ ghi chú | Chỉ có quan hệ `hop-nhat` tới văn bản được hợp nhất |
 | Lời dẫn và Điều cùng đích | Có ca bị bỏ | Luôn có quan hệ riêng |
 | QA | `scope_grounding_checked` ở 35,2% | v3: mọi quan hệ qua QA hành động. Hợp đồng v4: quan hệ do LLM đọc qua tầng 4. |
-| `unresolved = true` | 13,0% | Index `-v4`: 2.275/42.771 quan hệ có `resolution_status = unresolved` (5,3%, 22/10) |
+| `unresolved = true` | 13,0% | Index `-v4` (28/10): 4.552/75.506 quan hệ có `resolution_status = unresolved` (6,0%). Trường `unresolved = true`: 2.147 (2,8%). |
 | `scope_resolution_method` | text + keyword. Chỉ `explicit_declaration`. | keyword. Thêm `liet_ke_vi_tri`. |
 | `target_issuing_authority` | text + keyword | keyword |
 | `inherited_from_v1` | 1.580 bản ghi | Không ghi. Mapping còn trường này. |
@@ -295,4 +346,5 @@ So sánh trên cùng văn bản `602450` (NĐ 31/2024/NĐ-CP):
 7. `target_matched_id` và `dan_chieu[].target_id` trỏ tới `legal-docs` nguồn. Văn bản đích chỉ có trong v3 khi văn bản đó đã chuyển.
 8. `legal_sectors` trên chunk và `source_legal_sectors` trên quan hệ vẫn là chuỗi, không phải mảng.
 9. Với hợp đồng v4: chỉ dựng cạnh khi `resolution_status = validated`. Quan hệ `unresolved` là hành động thật, chưa đủ căn cứ, chờ duyệt.
-10. Với code từ 27/10/2026: `vi_tri = ["Phụ lục"]` (không số) không chỉ tới một node phụ lục cụ thể. Cách nối chờ bên Graph chốt ([11](11-cau-hoi-graph.md)). Chữ của vị trí gốc nằm ở `chi_tiet_vi_tri`.
+10. Với code từ 27/10/2026: `vi_tri = ["Phụ lục"]` (không số) không chỉ tới một node phụ lục cụ thể. `-v4` có 10.990 quan hệ `validated` loại này (28/10/2026). Cách nối chờ bên Graph chốt ([11](11-cau-hoi-graph.md)). Chữ của vị trí gốc nằm ở `chi_tiet_vi_tri`.
+11. Chunk `phu_luc_doan`, `muc_doan` là đoạn tìm kiếm. Không dựng node từ hai loại này. Node là chunk `phu_luc`, `muc` chứa đoạn (`phu_luc_uid`, `muc_uid`).

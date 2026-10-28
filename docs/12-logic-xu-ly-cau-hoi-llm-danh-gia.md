@@ -585,8 +585,25 @@ Phần dài cần đoạn ngắn để tìm kiếm. Chunk cả phần vẫn là 
 
 - Đầu vào embedding của chunk (`embedding.chunk_input`): `tieu_de + " " + noi_dung`, gộp khoảng trắng.
 - Model: `BAAI/bge-m3`, 1024 chiều (lệnh `check` kiểm).
-- Dùng lại vector: chunk có đầu vào giống hệt chunk cũ nhận vector cũ. `EMBEDDING_REUSE=yes` lấy vector của index chunk nguồn. `EMBEDDING_REUSE=target` lấy vector của index chunk đích.
-- Chunk khác: công cụ gọi embedding theo lô `EMBEDDING_BATCH`.
+- Code kiểm mỗi vector: đủ 1024 số, số hữu hạn, khác vector 0. Lỗi kết nối và lỗi 5xx, 429: thử lại tối đa 4 lần.
+
+**Hai loại dịch vụ** (`embedding.request`, commit `57b9033`, 27/10/2026):
+
+| `EMBEDDING_URL` | Lời gọi | Độ dài đầu vào |
+| --- | --- | --- |
+| Kết thúc bằng `/v1` (API kiểu OpenAI) | `POST <url>/embeddings`, khóa `EMBEDDING_KEY`, model `EMBEDDING_MODEL` (mặc định `bge-m3`) | `EMBEDDING_TRUNCATE` trống: cả chunk, tới giới hạn của máy chủ (8.192 token). `EMBEDDING_TRUNCATE=256`: 256 token đầu. |
+| Khác | `POST <url>/embed` (dịch vụ cũ) | Dịch vụ cắt ở 256 token |
+
+**Dùng lại vector.** Chunk có đầu vào giống hệt chunk cũ nhận vector cũ. Chunk khác: công cụ gọi embedding theo lô `EMBEDDING_BATCH`.
+
+| `EMBEDDING_REUSE` | Lấy vector cũ từ | Điều kiện (`config.validate`) |
+| --- | --- | --- |
+| `yes` (mặc định) | Index chunk nguồn (`legal-chunk-section-v2`) | Vector v2 cắt ở 256 token. Với API `/v1`, cần `EMBEDDING_TRUNCATE=256`. |
+| `target` | Index chunk đích (commit `1117e63`) | Cần API `/v1` và `EMBEDDING_TRUNCATE` trống. Dùng khi ghi lại `-v4`. |
+| giá trị khác | Không dùng lại | — |
+
+- Lượt ghi `-v4` ngày 27–28/10/2026 dùng API `http://10.1.10.22:9999/v1`, vector đủ độ dài. Lượt văn bản mới đặt `EMBEDDING_REUSE=no`. Lượt ghi lại đặt `EMBEDDING_REUSE=target`.
+- Vector của v2 và v3 cắt ở 256 token.
 - `--dry-run` không đọc và không tính vector.
 
 ### 12.5.5. Dẫn chiếu: `dan_chieu[]`
@@ -648,6 +665,22 @@ Công cụ chạy 2 nhánh rồi gộp:
 | Nhánh quy tắc | Regex tìm ứng viên. Model kiểm ứng viên (QA, mục 12.7.7, 12.7.8). | [02, mục 2.5.2](02-luong-hoat-dong.md#252-dò-ứng-viên-quan-hệ-nhánh-quy-tắc), [02, mục 2.5.4](02-luong-hoat-dong.md#254-qa-quan-hệ-nhánh-quy-tắc) |
 | Nhánh LLM | Tầng 2 model trích (mục 12.7.6). Tầng 3 code đổi sang trường. Tầng 4 code kiểm. | Mục 12.6.3–12.6.5 |
 
+**Cách dò của nhánh quy tắc** (`relations.detect`, `references.guidance`, `relations.consolidation`). Cách dò quyết định tiền tố `_id` và `detection_mode`:
+
+| Cách dò | Khi nào | Tiền tố `_id` | `detection_mode` |
+| --- | --- | --- | --- |
+| Theo tên in | Tên in của văn bản có từ chỉ hành động. Đích là số hiệu đầu tiên ở tên hoặc mở đầu của Điều, ở tên Chương, hoặc luật nêu bằng tên. | không có | không có |
+| Quan hệ ẩn | Tên in **không** có từ chỉ hành động. Tên hoặc mở đầu của một Điều có từ chỉ hành động, rồi số hiệu, tên Chương có số hiệu, hoặc tên luật. | `hidden_` | `hidden` |
+| Hết hiệu lực | Câu "<văn bản> … hết hiệu lực …" trong Điều. Hành động là `bai-bo`. | `hhl_` | `het_hieu_luc` |
+| Lời dẫn | `intro` có từ chỉ hành động rồi số hiệu | `intro_` | `intro` |
+| Hướng dẫn | Tên in hoặc lời dẫn nêu "hướng dẫn", "quy định chi tiết" văn bản đích | `hd_` | `title_guidance` |
+| Hợp nhất | Văn bản hợp nhất | `hn_` | `hop_nhat` |
+
+- Quan hệ ẩn: công cụ bỏ qua từ chỉ hành động đứng sau một số hiệu, và từ có "đã/đang/sẽ được/bị" đứng ngay trước. Ví dụ: 686325, "Điều 178" bổ sung khoản 6 Điều 4 Luật Thuế thu nhập doanh nghiệp (`hidden_686325_0`).
+- Quan hệ ẩn cũng qua QA (mục 12.7.7, 12.7.8) và gộp với nhánh LLM như mọi ứng viên (mục 12.6.6).
+- `intro_` và `hd_` bị bỏ từ R6 (dưới đây).
+- Đếm `legal-changed-v4` ngày 28/10/2026: `hidden` 3.047 quan hệ (2.914 `llm+rules`, 133 `rules`); `het_hieu_luc` 1.684; `hop_nhat` 652.
+
 - Văn bản hợp nhất không qua nhánh LLM. Quan hệ duy nhất của nó là `hop-nhat` tới văn bản gốc, phạm vi `toàn bộ`. Văn bản gốc là văn bản đầu tiên nêu ở phần đầu.
 - Từ R6 (27/10/2026), công cụ bỏ mọi quan hệ có đơn vị nguồn ở mức văn bản: `intro`, `Tiêu đề`, `Lời dẫn`, `Căn cứ`, `Phần đầu`. Ngoại lệ là `hop-nhat`. Các Điều mang hành động. Vì vậy dữ liệu mới không có quan hệ tiền tố `intro_` và `hd_`. Model vẫn được hỏi đơn vị `Phần đầu`.
 
@@ -678,10 +711,15 @@ Công cụ chạy 2 nhánh rồi gộp:
 
 **Danh sách kèm theo** (`extract.acting_lists`). Câu của Điều hành động lên văn bản của một phụ lục: "Bãi bỏ các văn bản tại Phụ lục II", "Nay bãi bỏ 15 văn bản (Danh mục đính kèm)". Đơn vị đó nhận danh sách văn bản của phụ lục, ở khóa `danh_sach_kem_theo`.
 
+- Công cụ chỉ xét phụ lục không có Điều.
 - "Phụ lục 2" khớp nhãn "PHỤ LỤC 02".
 - Văn bản chỉ có một phụ lục không có Điều: "danh mục / phụ lục … kèm theo, đính kèm" cũng khớp.
-- Câu nêu một mục ("chi tiết tại mục II theo phụ lục đính kèm"): đơn vị chỉ nhận văn bản của mục đó.
+- Câu nêu một mục ("chi tiết tại mục II theo phụ lục đính kèm"): đơn vị chỉ nhận văn bản của mục đó. Không đơn vị nào nêu mục: đơn vị đầu tiên nhận mọi dòng.
 - Câu "Công bố …" không hành động lên danh sách.
+- **Dòng của danh sách** (`extract.listed_documents`): dòng bảng nêu số hiệu, hoặc mục đánh số ("1. Nghị quyết số …"). Công cụ bỏ cột căn cứ pháp lý. Danh sách tối đa 12.000 ký tự.
+- Đơn vị nhận danh sách là Điều có khoản: công cụ thêm đơn vị `Điều N`, nội dung là mở đầu hoặc tên Điều.
+- Quan hệ của các dòng có `source_path` là đơn vị của văn bản chính, không là dòng của phụ lục. Dẫn chứng là câu hành động của đơn vị đó.
+- Model vẫn đọc dòng bảng của phụ lục như đơn vị riêng (`Phụ lục i … STT k`). Quan hệ của dòng cùng hành động, cùng đích với một Điều thì thuộc Điều đó (`convert.rows_into_articles`, mục 12.6.5).
 
 **Gom lời gọi** (`extract.extract`):
 
@@ -759,11 +797,28 @@ Công cụ chạy 2 nhánh rồi gộp:
 
 Gộp hai nhánh và quy ước phụ lục ở [02, mục 2.5.8](02-luong-hoat-dong.md#258-nhánh-llm-4-tầng-và-gộp). Tóm tắt:
 
-| Cả hai nhánh đọc được | `extraction` | Công cụ lấy |
+`convert.model_relations` gộp theo khóa (đơn vị nguồn, hành động, số hiệu đích). Nhánh quy tắc chỉ góp ứng viên đã đạt QA.
+
+| Nhánh đọc được | `extraction` | Công cụ lấy |
 | --- | --- | --- |
-| Cả hai | `llm+rules` | Vị trí của nhánh quy tắc; dẫn chứng, `target_section` của nhánh LLM. Nhánh quy tắc chỉ có `toàn bộ` hoặc không có vị trí: cách đọc hẹp hơn của nhánh LLM thắng. |
-| Chỉ nhánh LLM | `llm` | Mọi trường của nhánh LLM. `_id` là `<doc>_<n>`. |
-| Chỉ nhánh quy tắc | `rules` | Mọi trường của nhánh quy tắc. |
+| Cả hai | `llm+rules` | Bản ghi của nhánh quy tắc: `_id` (giữ tiền tố `hidden_`, `hhl_`), vị trí, `detection_mode`. Từ nhánh LLM: `evidence`, `target_section`; `doi_tuong_loai`, `ma_thu_tuc` khi là thủ tục hành chính. `resolution_status = validated`. |
+| Chỉ nhánh LLM | `llm` | Mọi trường của nhánh LLM. `_id` là `<doc>_<n>`. `detection_mode = llm`. |
+| Chỉ nhánh quy tắc | `rules` | Mọi trường của nhánh quy tắc. `resolution_status = validated`. |
+
+Ở dòng `llm+rules`, vị trí của nhánh quy tắc thắng (dev 15/10/2026: 97% so với 75%). Ba ngoại lệ, cách đọc của nhánh LLM thắng (f5ef0a7, 27/10/2026):
+
+| Nhánh quy tắc đọc | Nhánh LLM đọc | Kết quả |
+| --- | --- | --- |
+| Chỉ `toàn bộ` | Vị trí | Vị trí của nhánh LLM |
+| Chỉ `toàn bộ`, không có `doi_tuong` | `doi_tuong` | `doi_tuong`, `kem_theo` của nhánh LLM, `vi_tri = []` |
+| Không có vị trí, không có `doi_tuong` | Phần nêu tên, cả văn bản, hoặc mức văn bản ("Quyết định này sửa đổi, bổ sung Quyết định số 393/…", 506261) | Cách đọc của nhánh LLM, `unresolved = false` |
+
+- Nhánh LLM đọc một hành động nhiều lần (hỏi theo phần): công cụ lấy cách đọc `validated` cụ thể nhất (vị trí, rồi phần nêu tên, rồi `toàn bộ`).
+- Cách đọc `unresolved` của nhánh LLM nhường cho bản ghi nhánh quy tắc đã đạt QA.
+- Ứng viên quy tắc có đích chỉ nằm trong ghi chú lịch sử bị bỏ sau QA (`validate.only_in_history`).
+- Các hành động chép từ cùng một câu dùng chung phần nêu tên. Một số hành động có phần nêu tên, số còn lại đọc cả văn bản: phần nêu tên thắng khi số phiếu bằng hoặc nhiều hơn.
+- Quy ước phụ lục (`resolver.appendix_scope`) áp cho bản ghi của cả hai nhánh.
+- Đếm `legal-changed-v4` ngày 28/10/2026: `llm` 36.439, `llm+rules` 34.828, `rules` 4.239 quan hệ.
 
 Sau khi gộp, công cụ làm theo thứ tự (`convert.convert_document`):
 
@@ -772,8 +827,8 @@ Sau khi gộp, công cụ làm theo thứ tự (`convert.convert_document`):
 | 1 | Luật nêu bằng tên | `references.law_named` | Đích "Luật/Bộ luật/Pháp lệnh <tên>" chưa nối: luật gốc cùng tên, ban hành gần nhất trước văn bản nguồn. Không chọn luật sửa đổi và văn bản hợp nhất. |
 | 2 | Bỏ mức văn bản | — | R6 (mục 12.6.2). |
 | 3 | Thời gian | — | Mục 12.6.9. |
-| 4 | Kiểm vị trí lần 2 | `validate.check_positions` | Điều lấy nhầm số Điều của đơn vị nguồn: "Điều 20. Sửa đổi, bổ sung Điều 51 … 2. Sửa đổi khoản 3" là khoản 3 Điều 51 (672540). Câu gắn vị trí vào đích mà quan hệ là cả văn bản: dùng các vị trí đó (685741). Thêm vị trí câu nêu mà quan hệ thiếu. |
-| 5 | Động từ của câu nêu vị trí | `validate.own_verbs` | R3: "2. Sửa đổi, bổ sung một số khoản của Điều 3 như sau: … b) Bổ sung khoản 9" chỉ là `bo-sung` khoản 9. |
+| 4 | Kiểm vị trí lần 2, trên quan hệ đã gộp của cả hai nhánh | `validate.check_positions` | Điều lấy nhầm số Điều của đơn vị nguồn: "Điều 20. Sửa đổi, bổ sung Điều 51 … 2. Sửa đổi khoản 3" là khoản 3 Điều 51 (672540). Vị trí chỉ là `Điều N` của chính đơn vị nguồn và câu không nêu Điều khác: bỏ vị trí đó (679077); quan hệ thành cả văn bản hoặc mức văn bản. Không sửa được: `unresolved`, `vi_tri_khong_co_trong_nguon`. Câu gắn vị trí vào đích mà quan hệ là cả văn bản: dùng các vị trí đó (685741). Thêm vị trí câu nêu mà quan hệ thiếu. |
+| 5 | Động từ của câu nêu vị trí | `validate.own_verbs` | R3: "2. Sửa đổi, bổ sung một số khoản của Điều 3 như sau: … b) Bổ sung khoản 9" chỉ là `bo-sung` khoản 9. Quan hệ `sua-doi`, `bo-sung` mà mọi câu nêu vị trí là "Bãi bỏ …"/"Bỏ …", không có "sửa đổi", "bổ sung": đổi thành `bai-bo` (8b3e843). Ví dụ: "Bãi bỏ điểm c khoản 1 Điều 21". Chỉ một số vị trí có câu "Bãi bỏ": công cụ bỏ các vị trí đó khỏi quan hệ. |
 | 6 | Bổ sung cụm từ | `validate.inserts_phrase` | R5: "Bổ sung cụm từ “Y” vào trước cụm từ “Z” tại …" không là quan hệ. |
 | 7 | Vị trí ngoài định dạng | `convert.tidy_positions` | Chuyển sang `doi_tuong`. `kem_theo = true` khi câu có "kèm theo" hoặc `target_section = kem_theo`. |
 | 8 | Số thứ tự của danh mục | `convert.tidy_positions` | Vị trí là phụ lục chứa danh mục, dòng ghi vào `chi_tiet_vi_tri`. Không tìm được phụ lục: `doi_tuong` là tên danh mục. |
@@ -903,7 +958,7 @@ Nhiều vị trí gốc đổi về cùng một phụ lục thì thành một c�
 | Câu trả lời hợp lệ | `finish_reason = stop`, nội dung khác rỗng, là JSON, qua hàm kiểm của câu hỏi. |
 | Thử lại | Mặc định 3 lần (QA: 2 lần). Lần sau thêm câu sửa: "Phản hồi trước không hợp lệ: <lỗi>. Hãy sửa schema/quy tắc đã yêu cầu. Chép dẫn chứng NGUYÊN VĂN …". Lỗi HTTP 4xx (trừ 429) không thử lại. |
 | Từ chối kết nối | Chờ `LLM_CONNECT_RETRY_WAITS` (10, 20, 40, 60, 90 giây) rồi gọi lại, ngoài cổng. |
-| Cổng | `llm.GATE`: 3 lời gọi cùng lúc ban ngày, 10 trong `LLM_NIGHT_HOURS` (22h–6h), mỗi tiến trình. |
+| Cổng | `llm.GATE`, mỗi tiến trình: `LLM_CONCURRENCY_DAY` (mặc định 3) lời gọi cùng lúc ban ngày, `LLM_CONCURRENCY_NIGHT` (mặc định 10) trong `LLM_NIGHT_HOURS` (22h–6h). Đêm 27/10/2026 đặt 20. |
 | Cache | Chỉ lưu câu trả lời đã qua kiểm. Thư mục cache có mã băm của prompt + đầu vào + tên model. File `<tên>-prompt.sha256` giữ mã băm của prompt đầy đủ. Prompt hoặc mô tả trường đổi: hỏi lại. |
 | Nhật ký | Mỗi lần gọi ghi `<tên>-attempts/<n>/llm_response.json`, lỗi ghi `error.json`. |
 | Chạy lại chặt | `LLM_REPLAY=strict`: không gọi model. Thiếu câu trả lời: `ReplayMiss`. |
@@ -1232,6 +1287,7 @@ Thư mục `eval/` không thuộc luồng chạy. Code đánh giá đọc `work/
 | Hold-out 300 (`bernmark/ho300/`) | 300 | Bộ độc lập gần nhất. Nhãn chưa qua người duyệt. | Có |
 | Stress C4/B8c | 57 + 18 đối chứng | Ca văn bản sửa đổi đi kèm | Một phần |
 | 32 văn bản (`loi_du_lieu_v4_32_van_ban.md`) | 32 | Luật, nghị định sửa nhiều văn bản; kiểm từng dòng | Không |
+| Đợt 20.000 (`dot-20000-20261028`, gồm `-g300` và `-r`) | 2.000 (312 + 1.688) | Mẫu phân tầng của lượt `v4-next20000` (mục 12.8.7). Nhãn agent đã khóa, chưa qua người duyệt. | Có |
 
 - Một nhóm (cơ quan ban hành + mẫu tên) chỉ nằm ở một bộ (`eval/build_sets.py`, `eval/build_holdout.py`). Danh sách ở `eval/sets/manifest.json`.
 - **Hold-out:** văn bản mới, nhóm chưa dùng. Bên dữ liệu khóa nhãn bằng hash (`eval/gold/<bộ>.lock.json`) trước khi chạy công cụ. Bộ hold-out chỉ chấm một lần. Không xem lỗi để sửa.
@@ -1247,7 +1303,7 @@ Thư mục `eval/` không thuộc luồng chạy. Code đánh giá đọc `work/
 | 4. Duyệt | Người duyệt | Người duyệt các dòng mà nhãn và công cụ lệch nhau. |
 | 5. Khóa | `eval/gold/<bộ>/*.json`, `eval/gold/<bộ>.lock.json` | Không sửa nhãn sau khi khóa. |
 
-Ngày 28/10/2026 chưa có bộ nhãn nào qua người duyệt. File duyệt hold-out 300: `bernmark/ho300/duyet_ho300.csv` (1.431 dòng).
+Ngày 28/10/2026 chưa có bộ nhãn nào qua người duyệt. File duyệt hold-out 300: `bernmark/ho300/duyet_ho300.csv` (1.431 dòng). Bộ đợt 20.000 có 9.137 quan hệ nhãn, khóa ngày 28/10/2026.
 
 ### 12.8.4. Chỉ số quan hệ
 
@@ -1300,7 +1356,7 @@ Bộ chấm áp cùng quy ước cho nhãn và công cụ (`eval/score.py`):
 
 ### 12.8.7. Đánh giá theo đợt
 
-Mỗi đợt 10.000 văn bản mới: lấy mẫu 1.000 văn bản để gán nhãn và chấm (quy tắc 26–27/10/2026).
+Mỗi 10.000 văn bản mới của một đợt: lấy mẫu 1.000 văn bản để gán nhãn và chấm (quy tắc 26–27/10/2026).
 
 **Lấy mẫu** (`eval.sample_batch <bộ> --run <lượt> --size 1000`):
 
@@ -1320,6 +1376,12 @@ Mỗi đợt 10.000 văn bản mới: lấy mẫu 1.000 văn bản để gán nh
 5. Lệnh ghi `eval/sets/<bộ>.txt`, `<bộ>.strata.json` và thêm văn bản vào `manifest.json`. Đợt sau không lấy lại các văn bản này.
 
 **Chấm** (`eval.strata <bộ> <lượt>-dry`): P/R phát hiện và phạm vi của từng tầng. Ước tính cho cả đợt bằng trọng số N/n (cỡ tầng / cỡ mẫu). Khoảng tin cậy 95% lấy từ bootstrap 2.000 lần, lấy lại văn bản trong từng tầng.
+
+**Đợt 20.000 (28/10/2026).** Lượt `v4-next20000` có 20.000 văn bản mới, nên mẫu có 2.000 văn bản (`eval/sets/dot-20000-20261028`).
+
+- Tổng thể sau khi lọc: 12.195 văn bản của lượt. Hạt giống 20261026.
+- Kết quả chấm lấy từ chạy lại chặt `v4-next20000-dry` (28/10/2026): 2.000 văn bản, 0 lỗi, 0 câu trả lời thiếu. Code là master `1117e63`, như lượt gốc.
+- Nhãn chia 2 phần: `-g300` (312 văn bản) và `-r` (1.688 văn bản).
 
 ### 12.8.8. Đo một thay đổi code
 
@@ -1348,8 +1410,35 @@ Chạy lại chặt, 0 câu trả lời thiếu, chấm theo quy ước 27/10/20
 - Nguồn: [`eval/README.md`](../eval/README.md) và [08, mục 8.18](08-quan-he-4-tang-va-danh-gia.md#818-làm-sạch-dữ-liệu-32-văn-bản-27102026).
 - P / R của `8b023ca`: hold-out 300 phát hiện 0,900 / 0,861, phạm vi 0,711 / 0,673.
 - Hold-out 300 có 218 nhãn sai ở 4 văn bản danh mục (680144, 681033, 681390, 682335). Sửa 218 nhãn đó thì F1 phạm vi của `9dc5f55` là 0,824.
-- Ngày 28/10/2026 chưa có số đo của các commit sau `9dc5f55` (R2–R15, tới `1117e63`) trên các bộ chấm.
-- Dữ liệu `-v4` hiện có (code `2911b77`) đo trên H5 + H6 ngày 22/10/2026 theo bộ chấm cũ: phát hiện P / R 0,890 / 0,873; phạm vi P / R 0,785 / 0,743.
+- Ngày 28/10/2026 chưa có số đo của các commit sau `9dc5f55` (R2–R15, tới `1117e63`) trên các bộ chấm cũ ở bảng trên.
+- Số đo cũ của `-v4` (code `2911b77`, H5 + H6, 22/10/2026, bộ chấm cũ): phát hiện P / R 0,890 / 0,873; phạm vi P / R 0,785 / 0,743. Ngày 28/10/2026, 7/30.988 văn bản `-v4` còn bản ghi của code này.
+
+**Đợt 20.000, code `1117e63` (chấm 28/10/2026).** Bộ `dot-20000-20261028`, 2.000 văn bản, 9.137 quan hệ nhãn. Nhãn agent, chưa qua người duyệt.
+
+| Chỉ số | Có trọng số (ước tính cả đợt, khoảng tin cậy 95%) | Không trọng số |
+| --- | --- | --- |
+| Phát hiện P | 0,901 [0,873–0,922] | 0,900 |
+| Phát hiện R | 0,804 [0,750–0,852] | 0,819 |
+| Phát hiện F1 | — | 0,858 |
+| Phạm vi P | 0,785 [0,713–0,842] | 0,785 |
+| Phạm vi R | 0,695 [0,630–0,752] | 0,702 |
+| Phạm vi F1 | — | 0,741 |
+
+- Sót phát hiện (860 mục, không trọng số): 563 sót đích; 167 có quan hệ nhưng `unresolved`; 91 đúng đích, khác hành động; 39 ở văn bản công cụ không ra quan hệ nào.
+- Độ khớp từng trường của quan hệ so với nhãn: `action` 0,969; `source_path` 0,952; `target_doc` 0,922; `vi_tri` 0,877; `evidence` 0,865; `target_section` 0,833.
+- Quan hệ của nhãn có ở công cụ: 0,769. `vi_tri` của nhãn có ở công cụ: 0,928.
+- Kiểm tự động 2.000 văn bản: metadata đúng 99,1%; 9.550 quan hệ, `unresolved = true` 3,6%, `evidence` nguyên văn 99,5%, nối được đích 85%.
+
+**Lỗi thật tìm thấy ở đợt 20.000** (28/10/2026, chưa sửa, chờ người dùng quyết):
+
+| # | Lỗi | Tầng | Ví dụ |
+| --- | --- | --- | --- |
+| 1 | Văn bản không có Điều: câu dàn ý (mục 12.7.5) xếp đoạn cuối vào phần kết. Đoạn đó không vào chunk và không được trích quan hệ. Khoảng 49 văn bản của mẫu. | 1 (câu 3) | 681383, 671394, 669547 |
+| 2 | Tầng 2 cắt `noi_dung` của đơn vị ở 6.000 ký tự (mục 12.6.3) | 2 | 669605 |
+| 3 | Danh sách đích dài trong Nghị quyết HĐND: sót hoặc `unresolved` | Chưa rõ | 663479, 663380; 668634 cả 6 đích `unresolved` |
+| 4 | Điều có phần đánh số La Mã I., II., III. bên trong: chỉ phần I vào chunk | 1 (tách cấu trúc) | 672797: mất 13.843 ký tự (87% văn bản) |
+| 5 | Đích trùng số hiệu sau sáp nhập tỉnh. Dòng phụ lục ghi văn bản tỉnh cũ, công cụ nối văn bản tỉnh mới cùng số. Câu trích là câu của khoản, không có ngày, nên công cụ không so được ngày. | Khớp đích (mục 12.6.7) | 679575: `16/2021/QĐ-UBND`, `40/2023/QĐ-UBND` |
+| 6 | Văn bản hợp nhất: chunk có dòng không có trong bản gốc | Chưa rõ | 666444, 680269 |
 
 ### 12.8.10. Giới hạn của bộ chấm
 
@@ -1357,6 +1446,7 @@ Chạy lại chặt, 0 câu trả lời thiếu, chấm theo quy ước 27/10/20
 | --- | --- |
 | Bộ chấm chỉ so tập (hành động, đích, vị trí) | Bộ chấm không thấy dòng trùng, `cum_tu` sai, dẫn chứng không nguyên văn, ngày của từng dòng. 32 văn bản kiểm từng dòng (27/10/2026) tìm 1.317 dòng trùng và 1.335 cụm từ cũ không có trong dẫn chứng ở `-v4`. |
 | Nhãn do agent LLM gán, chưa qua người duyệt | Số đo có cả lỗi của nhãn. Ví dụ: 218 nhãn sai ở hold-out 300. |
+| Agent gán nhãn không thống nhất (đợt 20.000, 28/10/2026) | Câu dẫn cha (R2) và "bỏ cụm từ" ghi không đều. `doi_tuong` ghi không đều, nên số đo `doi_tuong` chỉ để tham khảo. |
 | Bộ chấm ít luật, nghị định sửa nhiều văn bản | Lỗi của loại văn bản này ít hiện ra trong điểm. |
 | Bộ đã dùng để sửa không còn độc lập | Chỉ hold-out chưa xem lỗi cho số đo chất lượng. |
 | Metadata chỉ có 6 trường có nhãn | `noi_nhan`, `can_cu`, `grade`, `has_tail`, chunk chưa có nhãn. Bộ eval chất lượng dữ liệu là việc B ở [07, mục 7.5](07-gioi-han-va-can-chot.md#75-việc-còn-lại-ở-bên-dữ-liệu). |

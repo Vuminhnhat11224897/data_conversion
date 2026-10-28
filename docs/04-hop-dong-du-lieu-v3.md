@@ -2,9 +2,19 @@
 
 Tài liệu này mô tả dữ liệu **đang có** trong 3 index v3 trên ES đích `10.1.10.23`. Bên dữ liệu ghi các index này. Bên Graph và bên tìm kiếm đọc.
 
-- Mọi số liệu đo ngày 19/10/2026 trên toàn bộ bản ghi v3: 204 văn bản, 6.291 chunk, 733 quan hệ.
+- Đếm ngày 28/10/2026: v3 có 236 văn bản, 14.677 chunk, 4.201 quan hệ.
+- v3 có 2 nhóm bản ghi:
+
+| Nhóm | Ghi ngày | Văn bản | Chunk | Quan hệ | Mô tả ở |
+| --- | --- | --- | --- | --- | --- |
+| Bản ghi gốc | 09–15/10/2026 | 204 | 6.291 | 733 | Mục 4.1–4.11. Số liệu đo ngày 19/10/2026. |
+| 32 văn bản của bộ 88 testcase | 27/10/2026 | 32 | 8.386 | 3.468 | Mục 4.12. Số liệu đo ngày 28/10/2026. |
+
+- Mục 4.1–4.11 chỉ mô tả 204 văn bản gốc, trừ khi ghi khác.
 - Tài liệu ghi đúng dữ liệu, kể cả lỗi. Mỗi lỗi có số lượng và ví dụ. Bảng tóm tắt lỗi ở mục 4.10.
-- Công cụ ghi v3 bằng chế độ `rules` ngày 09–13/10/2026. Hợp đồng đích (sau khi ghi lại v3) là [09-hop-dong-du-lieu-v4.md](09-hop-dong-du-lieu-v4.md), luồng chốt ngày 20/10/2026. Khi ghi lại, công cụ chỉ đổi hậu tố `-v4` thành `-v3`.
+- Công cụ ghi 204 văn bản gốc bằng chế độ `rules` ngày 09–13/10/2026. Văn bản 132140 ghi ngày 15/10/2026.
+- v3 chưa được ghi lại toàn bộ. Bên dữ liệu chỉ ghi lại v3 khi bên Graph duyệt `-v4`. Hai ngoại lệ có người dùng duyệt: văn bản 132140 (15/10/2026) và 32 văn bản (27/10/2026).
+- Hợp đồng đích (sau khi ghi lại v3) là [09-hop-dong-du-lieu-v4.md](09-hop-dong-du-lieu-v4.md). Code hiện hành là master `1117e63` (27/10/2026). Khi ghi lại, công cụ chỉ đổi hậu tố `-v4` thành `-v3`.
 - So sánh v2, v3, v4 ở [05](05-phien-ban-v2-v3-v4.md).
 - Ví dụ chính: Nghị định 31/2024/NĐ-CP, `legal-docs-v3/602450`. Ví dụ viết dạng `<index>/<_id>`.
 - Nghĩa của giá trị enum ở [06-bang-enum.md](06-bang-enum.md). Cột "Số v3" của tài liệu 06 đếm trên bản thử v4 ngày 14/10/2026, không phải trên v3. Số đếm của v3 ở tài liệu này.
@@ -14,14 +24,14 @@ Tài liệu này mô tả dữ liệu **đang có** trong 3 index v3 trên ES đ
 
 | Index | Một bản ghi là | Số bản ghi | Mẫu `_id` |
 | --- | --- | --- | --- |
-| `legal-docs-v3` | Một văn bản | 204 | `<doc>`, bằng `_id` ở `legal-docs` nguồn |
-| `legal-chunk-section-v3` | Một chunk | 6.291 | `<doc>_<đơn vị>`, ví dụ `602450_d1_k1_pa` |
-| `legal-changed-v3` | Một quan hệ | 733 | `[<tiền tố>]<source_id>_<n>`, ví dụ `602450_1` |
+| `legal-docs-v3` | Một văn bản | 204 (236 ngày 28/10) | `<doc>`, bằng `_id` ở `legal-docs` nguồn |
+| `legal-chunk-section-v3` | Một chunk | 6.291 (14.677 ngày 28/10) | `<doc>_<đơn vị>`, ví dụ `602450_d1_k1_pa` |
+| `legal-changed-v3` | Một quan hệ | 733 (4.201 ngày 28/10) | `[<tiền tố>]<source_id>_<n>`, ví dụ `602450_1` |
 
 Quy tắc chung:
 
 1. Mọi trường trong bảng đều có, trừ trường ghi "Có khi …".
-2. Trường không có trong tài liệu này thì không có trong dữ liệu v3. Đo 19/10: không bản ghi nào có trường ngoài tài liệu.
+2. Trường không có trong tài liệu này thì không có trong dữ liệu v3. Đo 19/10: không bản ghi nào có trường ngoài tài liệu. Đo 28/10: 2 văn bản của nhóm 32 văn bản có trường ngoài tài liệu (mục 4.12.2).
 3. Mapping `legal-changed-v3` có `inherited_from_v1`. Dữ liệu v3 không có trường này. Không dùng.
 4. Vector có 1.024 chiều (`BAAI/bge-m3`). `legal-changed-v3` không có vector.
 5. Mapping v3 cho phép ES tự thêm trường. Mapping v3 không có các trường của hợp đồng đích ở mục 4.10.
@@ -127,8 +137,10 @@ Các lượt đã ghi v3:
 | `v3:20261012T075451Z` | 93 | 4.197 | 455 |
 | `v3:20261013T024421Z` | 3 | 29 | 18 |
 | `v3:20261015T100151Z` | 1 (`132140`) | 3 | 0 |
+| `v3:20261027T101856Z` | 32 (mục 4.12) | 8.386 | 3.468 |
 
-Lượt ngày 15/10 ghi một văn bản theo trường của mapping v3 ([02, "Ghi thử vào v4"](02-luong-hoat-dong.md#ghi-thử-vào-v4-trước-khi-ghi-lại-v3)).
+- Lượt ngày 15/10 ghi một văn bản theo trường của mapping v3 ([02, "Ghi thử vào v4"](02-luong-hoat-dong.md#ghi-thử-vào-v4-trước-khi-ghi-lại-v3)).
+- Lượt ngày 27/10 ghi 32 văn bản không trùng ID với 204 văn bản gốc. Lượt này không đổi bản ghi gốc (đếm theo `ingest_job_id` ngày 28/10/2026).
 
 ## 4.6. `legal-docs-v3`
 
@@ -680,7 +692,7 @@ v3 có một số tác động suy ra lên đơn vị cha hoặc đơn vị con 
 
 Hợp đồng đích là [09-hop-dong-du-lieu-v4.md](09-hop-dong-du-lieu-v4.md). Ghi lại v3 cần được duyệt ([02, "Ghi thử vào v4"](02-luong-hoat-dong.md#ghi-thử-vào-v4-trước-khi-ghi-lại-v3)).
 
-Các dòng 1–16 hết khi ghi lại v3 bằng luồng chốt ngày 20/10/2026. Dòng 17 **không** hết.
+Các dòng 1–16 hết khi ghi lại v3 bằng code hiện hành. Dòng 17 **không** hết. Bảng đếm trên 204 văn bản gốc. Nhóm 32 văn bản khác hợp đồng đích ở các điểm của mục 4.12.3.
 
 - Dòng 3: từ 19/10/2026, công cụ chuyển vị trí ngoài định dạng sang `doi_tuong` ([09, mục 9.5](09-hop-dong-du-lieu-v4.md#95-vị-trí)).
 - Dòng 16: từ 19/10/2026, parser tách khối chữ ký nằm cùng dòng bảng (`Lưu: VT. | TM. …`). Chạy parser hiện tại trên 132 văn bản v3 có lỗi: còn 0 (đo 20/10/2026).
@@ -710,10 +722,95 @@ Các dòng 1–16 hết khi ghi lại v3 bằng luồng chốt ngày 20/10/2026.
 
 Lệnh `python -m eval.check_contract v3 [<file lỗi>.json]` đọc toàn bộ 3 index v3 bằng scroll. Lệnh chỉ đọc. Lệnh kiểm 232 quy tắc của hợp đồng đích. Tên quy tắc dùng số mục của tài liệu này. File lỗi liệt kê ID của mọi bản ghi sai theo từng quy tắc.
 
-Kết quả ngày 19/10/2026: 213 quy tắc đúng ở mọi bản ghi. 19 quy tắc sai tương ứng với các dòng ở mục 4.10. Lệnh chạy khoảng 1 phút.
+Kết quả ngày 19/10/2026 (204 văn bản gốc): 213 quy tắc đúng ở mọi bản ghi. 19 quy tắc sai tương ứng với các dòng ở mục 4.10. Lệnh chạy khoảng 1 phút. Ngày 28/10/2026 chưa chạy lại lệnh này sau lượt 27/10.
 
 Khi đo lại sau một lượt ghi v3:
 
 1. Chạy `python -m eval.check_contract v3`.
 2. Đếm theo `ingest_job_id` bằng aggregation `terms` trên từng index.
 3. Cập nhật số liệu và ngày đo trong tài liệu này. Dòng ở mục 4.10 hết lỗi thì xóa dòng đó.
+
+## 4.12. 32 văn bản ghi ngày 27/10/2026
+
+Mục này mô tả lượt `v3:20261027T101856Z`. Số liệu đếm ngày 28/10/2026 trên ES đích, chỉ đọc.
+
+### 4.12.1. Nguồn và cách ghi
+
+- Người dùng duyệt lượt này ngày 27/10/2026: ghi 32 văn bản của bộ 88 testcase vào v3, theo cấu trúc v3.
+- 32 văn bản là văn bản của `loi_du_lieu_v4_32_van_ban.md`: Luật 19, Nghị định 8, Thông tư 5. Ví dụ: `146/2025/QH15`, `15/2026/NĐ-CP`, `154/2025/TT-BTC`.
+- Mapping v3 không đổi.
+
+| Bước | Cách làm |
+| --- | --- |
+| 1. Tạo bản ghi | Code `8b023ca` chạy lại chặt, với câu trả lời LLM đã lưu của lượt `v4-2210`. |
+| 2. Sửa tay | Áp các bản sửa ở `work/v3-32/patches/`. Mỗi quan hệ thêm hoặc sửa có câu trích nguyên văn. |
+| 3. Sửa chung | Bỏ dòng cha trùng dòng con. Bỏ dòng trùng. Áp quy ước "Bỏ cụm từ" (mục 4.12.3). |
+| 4. Bỏ trường | Bỏ trường không có ở v3 (mục 4.12.3). |
+| 5. Ghi | Ghi 3 index v3. Vector chunk cắt ở 256 token, như bản ghi gốc. |
+
+- Số quan hệ: 5.706 sau bước 1, 3.468 sau bước 4 (`work/v3-32/apply-report.json`).
+- File cuối: `work/v3-32/final/`.
+- Gỡ lượt này: `work/v3-32/manifest.json` liệt kê ID của 32 văn bản, 8.386 chunk, 3.468 quan hệ.
+- Ghi lại v3 toàn bộ bằng `convert` sẽ mất các sửa tay của bước 2.
+
+### 4.12.2. Số liệu
+
+**Văn bản.** `grade`: `full` 31, `partial` 1.
+
+- 2 văn bản có thêm trường `don_vi_soan_thao`, `don_vi_soan_thao_trich`: `687594` (`154/2025/TT-BTC`), `678340` (`95/2025/TT-BTC`).
+- Hợp đồng v3, hợp đồng đích và code `vbpl_v3` không có 2 trường này. Nguồn chưa rõ. Không dùng.
+
+**Chunk.** 8 loại:
+
+| `chunk_type` | Số |
+| --- | --- |
+| `diem` | 3.094 |
+| `khoan` | 2.783 |
+| `khoan_full` | 818 |
+| `dieu_full` | 721 |
+| `khoan_mo_dau` | 662 |
+| `dieu` | 221 |
+| `dieu_mo_dau` | 46 |
+| `phu_luc` | 41 |
+
+**Quan hệ.**
+
+| Trường | Số |
+| --- | --- |
+| `action` | `bo-sung` 1.114, `sua-doi` 937, `thay-cum-tu` 919, `bai-bo` 452, `thay-the` 38, `quy-dinh-chi-tiet` 7, `huong-dan` 1 |
+| `cap_quan_he` | `vi_tri` 3.388, `van_ban` 79, `noi_dung` 1 |
+| Số phần tử của `vi_tri` | 1: 3.410; 0: 58 |
+| `unresolved = true` | 46 |
+| `target_matched_id = null` | 194 |
+| `doi_tuong` có giá trị | 228 |
+| `source_path` | `Điều …` 3.410, `intro` 57, `Tiêu đề` 1 |
+| `source_in_phu_luc = true` | 0 |
+
+Tiền tố `_id` và `detection_mode`:
+
+| Tiền tố | Quan hệ | `detection_mode` |
+| --- | --- | --- |
+| không có | 3.428 | thiếu 2.000, `llm` 1.254, `kiem_tay_20261027` 139, `intro` 30, `title_guidance` 5 |
+| `intro_` | 27 | `intro` 14, `llm` 13 |
+| `hhl_` | 10 | `het_hieu_luc` |
+| `hd_` | 2 | `title_guidance` |
+| `hidden_` | 1 | `hidden` |
+
+- `kiem_tay_20261027`: quan hệ thêm tay ở bước 2.
+- Ở nhóm này, tiền tố và `detection_mode` không luôn khớp. Quy tắc "`detection_mode = title_guidance` khi và chỉ khi …" của mục 4.8.2 không đúng ở đây.
+- Nhóm này còn quan hệ có nguồn `intro`, `Tiêu đề`. Code `8b023ca` có trước quy tắc R6 (bỏ quan hệ mức văn bản).
+
+### 4.12.3. Quy ước riêng của nhóm 32 văn bản
+
+Nhóm này giữ kiểu trường của v3. Một số ca của hợp đồng đích không ghi được bằng trường v3. Bảng nêu cách ghi:
+
+| Ca | Nhóm 32 văn bản ghi | Hợp đồng đích ([09](09-hop-dong-du-lieu-v4.md)) |
+| --- | --- | --- |
+| "Bỏ cụm từ “X” tại P" | `action = bai-bo`, `vi_tri = [P]`, `doi_tuong = cụm từ “X”`, `cap_quan_he = vi_tri`, không có `cum_tu`. Lý do: v3 cần `cu`, `moi` khác rỗng. 113 quan hệ. Ví dụ `675259_149`: `tên Điều 44`, `cụm từ “cấp đổi,”`. | `thay-cum-tu`, `cum_tu = [{cu: X, moi: ""}]` (R4) |
+| Phần không có node | Chữ của `chi_tiet_vi_tri` ghi vào `doi_tuong`. Ví dụ `689421_108`: `vi_tri = ["Phụ lục"]`, `doi_tuong = Mẫu số 02`. | `chi_tiet_vi_tri` |
+| Quan hệ chờ duyệt | `unresolved = true` | `resolution_status = unresolved`, `resolution_reason` |
+| Trạng thái, dẫn chứng | Không có `resolution_status`, `resolution_reason`, `extraction`, `evidence`, `target_section`, `doi_tuong_loai` | Có |
+| Ngày hiệu lực riêng | Văn bản không có `hieu_luc_rieng`, `ngay_hieu_luc_so_ngay`. Chunk không có `ngay_hieu_luc*`. | Có |
+| Tiểu điểm | Không có chunk `tieu_diem`. Chunk không có `diem_uid`. | Chunk `tieu_diem`, `diem_uid` |
+| Vector chunk | 256 token đầu | `-v4` ngày 27–28/10/2026: cả chunk |
+| "Bổ sung cụm từ “Y” vào …" | Còn 11 quan hệ `bo-sung` có `doi_tuong` bắt đầu bằng "cụm từ". Chưa kiểm từng dòng. | Không là quan hệ (R5) |

@@ -4,6 +4,8 @@ Tài liệu này giải thích mọi giá trị enum của v2, v3 và hợp đ�
 
 Các giá trị của luồng 4 tầng (`extraction`, `resolution_status`, `resolution_reason`, `target_section`, `detection_mode = llm`) chỉ có từ hợp đồng v4. Số đếm của chúng lấy từ lượt chạy thử. Số đếm trên index `-v4` ở [09](09-hop-dong-du-lieu-v4.md).
 
+Các giá trị mới của code `1117e63` (27/10/2026): `chunk_type` `phu_luc_doan`, `muc_doan`; trường `loai_phan`. Các giá trị code `1117e63` không còn ghi: `detection_mode` `intro`, `title_guidance` (tiền tố `intro_`, `hd_`), `source_path` `intro`, `Tiêu đề`, `Lời dẫn`. Cột "Số -v4" đếm trên `-v4` ngày 28/10/2026 (30.988 văn bản).
+
 ## 6.1. Cách đọc bảng
 
 - Cột "v2": giá trị có ở index v2 hay không. "—" là không có.
@@ -42,6 +44,8 @@ Nơi lấy chữ của `full_content`. v3 chép từ nguồn. Nguồn thiếu th
 | `text_layer` | — | Chữ lấy từ lớp chữ của PDF. | 0 |
 | `docx` | — | Chữ lấy từ file Word. | 0 |
 
+Số -v4 (28/10/2026): `source_full_content` 30.982, `ocr` 5, `mixed` 1.
+
 ### `action` (văn bản)
 
 Phân loại văn bản của kho nguồn. v3 chép nguyên. **Trường này không là hành động của quan hệ.** Hành động của quan hệ nằm ở `legal-changed-v3.action` (mục 6.4).
@@ -68,6 +72,8 @@ Chất lượng tách cấu trúc. `grade` không đo giá trị pháp lý. Th�
 | `full` | Có phần cuối (chữ ký hoặc Nơi nhận). Không có Điều nằm trong phần cuối. Dãy Điều đúng thứ tự, hoặc văn bản không chia Điều nhưng có đề mục. | 169 | `602450` |
 | `partial` | Có Điều, phụ lục hoặc đề mục. Không đủ điều kiện `full`. | 15 | `2211` |
 | `minimal` | Không có Điều, phụ lục và đề mục. Văn bản vẫn có chunk `noi_dung`. | 19 | `35961` |
+
+Số -v4 (28/10/2026): `full` 29.143, `minimal` 1.497, `partial` 348.
 
 "Dãy Điều đúng thứ tự": số Điều tăng từng 1 trong mỗi chuỗi Điều. Văn bản có chữ "bãi bỏ" bỏ qua kiểm này, vì số Điều có thể khuyết.
 
@@ -96,6 +102,8 @@ Căn cứ để gán `la_vbqppl` (văn bản quy phạm pháp luật hay không)
 | 9 | `so_hieu_co_nam` | `true` | Quyết định, Nghị quyết, Chỉ thị có năm trong số hiệu. | 47 | `10377` (25/2005/CT-UBND) |
 | 10 | `so_hieu_khong_nam` | `false` | Như trên, số hiệu không có năm, ban hành từ 01/01/2005. | 36 | `82441` (1341/QĐ-UBND) |
 | 11 | `can_kiem` | `null` | Không đủ căn cứ (số hiệu không có năm, ban hành trước 2005). Cần kiểm tay. | 1 (cả dòng 4) | `19876` (109-TTg-TN) |
+
+Số -v4 (28/10/2026): `so_hieu_khong_nam` 7.486, `theo_loai` 7.068, `so_hieu_co_nam` 6.718, `tieu_de_ca_biet` 6.276, `quyet_dinh_bo_tu_2009` 1.852, `van_ban_hop_nhat` 652, `chi_thi_tu_2016` 356, `co_quan_khong_ban_hanh_vbqppl` 310, `van_ban_dang` 261, `can_kiem` 9.
 
 ### `cap_hieu_luc` và `cap_hieu_luc_nhan`
 
@@ -150,6 +158,8 @@ Cách công cụ có `ngay_hieu_luc`. Công cụ chỉ đọc câu "… <loại 
 | `khong_tim_thay` | `null` | `null` | Không có câu hiệu lực. Văn bản có `la_vbqppl` là `true` hoặc `null`. | Không | 15 | `2511` (Luật 47/2005/QH11) |
 | `van_ban_hop_nhat` | `null` | `null` | Văn bản hợp nhất. Công cụ không bóc ngày. | Không | 2 | `589448` |
 
+Số -v4 (28/10/2026): `ngay_ky` 12.827, `ngay_cu_the` 9.248, `mac_dinh_ngay_ban_hanh` 7.201, `van_ban_hop_nhat` 652, `ngay_thong_qua` 586, `khong_doc_duoc` 335, `khong_tim_thay` 139, `ngay_dang_cong_bao` 0.
+
 Giá trị cũ `sau_n_ngay_ky`, `sau_n_ngay_thong_qua`, `phu_thuoc_ngay_dang_cong_bao` không còn dùng. Chúng thành `ngay_ky`, `ngay_thong_qua`, `ngay_dang_cong_bao` kèm `ngay_hieu_luc_so_ngay` (V9).
 
 `hieu_luc_rieng[]` và chunk dùng cùng bộ giá trị này. Chunk lấy ngày của văn bản thì có `ngay_hieu_luc_rieng = false`.
@@ -164,24 +174,41 @@ Công cụ chỉ đọc câu của chính văn bản. Hết hiệu lực do văn
 | `het_nam` | 31/12 của năm ghi trong câu | "… đến hết năm 2025"; "… cho giai đoạn 2021 - 2025" | 0 | — |
 | `khong_ghi` | `null` | Văn bản không tự ghi ngày hết hiệu lực. **Không có nghĩa là còn hiệu lực.** | 200 | `602450` |
 
+Số -v4 (28/10/2026): `khong_ghi` 30.687, `ngay_cu_the` 292, `het_nam` 9. Từ code `1117e63` (R15), công cụ bỏ dòng có "ngày", "khi", "thời điểm" hoặc "lúc" ngay trước chủ ngữ. Ví dụ: "trước ngày Luật này có hiệu lực …".
+
 ## 6.3. Chunk
 
 ### `chunk_type`
 
-| Giá trị | v2 | Cấp node | Nội dung | Số v3 | Ví dụ |
-| --- | --- | --- | --- | --- | --- |
-| `dieu` | 1.075.620 | Điều | Trọn một Điều không có khoản. `is_full = true`. | 839 | `611245_d3` |
-| `dieu_full` | 1.052.700 | Điều | Trọn một Điều có khoản. `is_full = true`. | 647 | `602450_d1_full` |
-| `dieu_mo_dau` | 89.835 | Điều | Phần trước khoản đầu, dài từ 40 ký tự. | 131 | `206663_d3_md` |
-| `khoan` | 3.315.998 | Khoản | Trọn một khoản không có điểm. `is_full = true`. | 2.160 | `602450_d2_k1` |
-| `khoan_full` | 740.612 | Khoản | Trọn một khoản có điểm. `is_full = true`. | 359 | `602450_d1_k1_full` |
-| `khoan_mo_dau` | 474.670 | Khoản | Phần trước điểm đầu, dài từ 40 ký tự. | 274 | `602450_d1_k1_md` |
-| `diem` | 2.781.470 | Điểm | Trọn một điểm, gồm các tiểu điểm. | 1.271 | `602450_d1_k1_pa` |
-| `tieu_diem` | — | Tiểu điểm | Mục gạch đầu dòng (tiết) thứ `n` của một điểm. Có khi điểm có từ 2 dòng gạch đầu dòng cùng ký hiệu. Node nhỏ nhất. | 320 | `<doc>_d<x>_k<y>_p<z>_t<n>` |
-| `phu_luc` | 264.774 | Phụ lục | Một phần của `phu_luc[]` không chia Điều. | 341 | `602450_pl0` |
-| `muc` | 437.665 | Đề mục | Một đề mục (I, II hoặc 1., 2.) của văn bản không chia Điều. | 147 | `318496_m1` |
-| `noi_dung` | 98.573 | Nội dung | Văn bản không chia Điều, không có đề mục. `_nd`: trọn nội dung ngắn. `_nd<k>`: đoạn thứ `k`. | 104 | `35961_nd1` |
-| `noi_dung_full` | — | Nội dung | Trọn nội dung dài (trên 200 âm tiết). `is_full = true`. | 17 | `35961_nd_full` |
+| Giá trị | v2 | Cấp node | Nội dung | Số v3 | Số -v4 | Ví dụ |
+| --- | --- | --- | --- | --- | --- | --- |
+| `dieu` | 1.075.620 | Điều | Trọn một Điều không có khoản. `is_full = true`. | 839 | 68.729 | `611245_d3` |
+| `dieu_full` | 1.052.700 | Điều | Trọn một Điều có khoản. `is_full = true`. | 647 | 102.433 | `602450_d1_full` |
+| `dieu_mo_dau` | 89.835 | Điều | Phần trước khoản đầu, dài từ 40 ký tự. | 131 | 9.729 | `206663_d3_md` |
+| `khoan` | 3.315.998 | Khoản | Trọn một khoản không có điểm. `is_full = true`. | 2.160 | 316.669 | `602450_d2_k1` |
+| `khoan_full` | 740.612 | Khoản | Trọn một khoản có điểm. `is_full = true`. | 359 | 81.852 | `602450_d1_k1_full` |
+| `khoan_mo_dau` | 474.670 | Khoản | Phần trước điểm đầu, dài từ 40 ký tự. | 274 | 54.171 | `602450_d1_k1_md` |
+| `diem` | 2.781.470 | Điểm | Trọn một điểm, gồm các tiểu điểm. | 1.271 | 323.338 | `602450_d1_k1_pa` |
+| `tieu_diem` | — | Tiểu điểm | Mục gạch đầu dòng (tiết) thứ `n` của một điểm. Có khi điểm có từ 2 dòng gạch đầu dòng cùng ký hiệu. Node nhỏ nhất. | 320 | 41.120 | `<doc>_d<x>_k<y>_p<z>_t<n>` |
+| `phu_luc` | 264.774 | Phụ lục | Trọn một phần của `phu_luc[]` không chia Điều. `is_full = true` khi phần có đoạn `phu_luc_doan`. | 341 | 27.550 | `602450_pl0` |
+| `phu_luc_doan` | — | — (chỉ để tìm kiếm) | Đoạn thứ `k` của phần phụ lục dài hơn 300 từ. `_id`: `<doc>_pl<i>_doan<k>`. Đoạn mở giữa bảng lặp dòng tên cột. Từ code `1117e63`. | — | 377.099 | `674935_pl0_doan2` |
+| `muc` | 437.665 | Đề mục | Trọn một đề mục (I, II hoặc 1., 2.) của văn bản không chia Điều. `is_full = true` khi đề mục có đoạn `muc_doan`. | 147 | 20.717 | `318496_m1` |
+| `muc_doan` | — | — (chỉ để tìm kiếm) | Đoạn thứ `k` của đề mục dài hơn 150 từ. `_id`: `<muc_uid>_doan<k>`. Từ code `1117e63`. | — | 101.033 | `674626_mI_doan2` |
+| `noi_dung` | 98.573 | Nội dung | Văn bản không chia Điều, không có đề mục. `_nd`: trọn nội dung tối đa 200 từ. `_nd<k>`: đoạn thứ `k` (tối đa 200 từ) của nội dung dài. | 104 | 8.477 | `35961_nd1` |
+| `noi_dung_full` | — | Nội dung | Trọn nội dung dài hơn 200 từ. `is_full = true`. | 17 | 1.458 | `35961_nd_full` |
+
+"Từ" là chuỗi tách bằng khoảng trắng. Chunk đoạn không là node của đồ thị. Node của đoạn là `phu_luc_uid` hoặc `muc_uid` ([09, mục 9.9.5](09-hop-dong-du-lieu-v4.md#995-đoạn-tìm-kiếm)).
+
+### `loai_phan` (hợp đồng v4, từ 27/10/2026)
+
+Loại phần phụ lục chứa chunk. Mọi chunk có `in_phu_luc = true` có trường này.
+
+| Giá trị | Nghĩa | Chunk | Số -v4 | Ví dụ |
+| --- | --- | --- | --- | --- |
+| `kem_theo` | Phần chia Điều: quy chế, quy định ban hành kèm theo. `phu_luc[i].dieu_luat` khác rỗng. | Chunk thuộc Điều trong phụ lục (`<doc>_pl<i>_d<x>…`) | 296.727 | `697599_pl0_d2_k1` |
+| `phu_luc` | Phần lưu phẳng: bảng, danh mục, biểu mẫu, văn bản thường. `phu_luc[i].dieu_luat` rỗng. | `phu_luc`, `phu_luc_doan` | 404.649 | `674935_pl0_doan2` |
+
+Biểu mẫu in sẵn có "Điều 1. … (Tên tổ chức) …" là `phu_luc`, không là `kem_theo` (`structure.sample_form`).
 
 ### `dan_chieu[].loai`
 
@@ -194,6 +221,8 @@ Loại dẫn chiếu trong chunk. Số đếm theo dẫn chiếu (2.216 dẫn ch
 | `noi_bo_ngam` | Dẫn vị trí, không nêu văn bản ("theo quy định tại khoản 2 Điều 5"). Không dùng cho văn bản sửa đổi: ở đó vị trí trần thuộc văn bản bị sửa. | `null` | Bằng `doc_id` | 577 | `356281_d16_full`: "tại Điều 1" |
 | `van_ban_bi_sua` | Câu có "… này" nằm trong nội dung mới (trong ngoặc kép) của văn bản sửa đổi. Câu chỉ văn bản bị sửa. Không xác định được văn bản bị sửa thì công cụ bỏ dẫn chiếu. | Số hiệu văn bản bị sửa | ID văn bản bị sửa | 202 | `602450_d2_full`: "Điều 5 Nghị định này" → `61/2016/NĐ-CP` |
 
+Số -v4 (28/10/2026), số chunk có loại đó: `noi_bo` 94.405, `ngoai` 94.030, `noi_bo_ngam` 80.755, `van_ban_bi_sua` 2.072.
+
 ## 6.4. Quan hệ
 
 Mỗi quan hệ có đúng một vị trí. Câu nêu N vị trí cho N quan hệ. Vì vậy số quan hệ ở v3 mới lớn hơn số câu tác động.
@@ -204,21 +233,23 @@ Loại tác động. Công cụ nhận hành động từ chữ trong câu ngu�
 
 | Giá trị | v2 | Nghĩa | Chữ trong câu | `hieu_luc_tac_dong` | Số v3 | Ví dụ |
 | --- | --- | --- | --- | --- | --- | --- |
-| `bo-sung` | 41.902 | Thêm nội dung mới: thêm Điều, khoản, điểm, hoặc thêm câu vào đơn vị có sẵn. | "bổ sung" sau "sửa đổi," hoặc trước "một số", "Điều N", "khoản N", "điểm x", "nội dung", "tên gọi" | `ve_sau`, `ve_truoc` | 313 | `602450_0` |
+| `bo-sung` | 41.902 | Thêm nội dung mới: thêm Điều, khoản, điểm, hoặc thêm câu vào đơn vị có sẵn. Từ code `1117e63`: "Bổ sung cụm từ Y vào trước/sau Z" không tạo quan hệ (R5). | "bổ sung" sau "sửa đổi," hoặc trước "một số", "Điều N", "khoản N", "điểm x", "nội dung", "tên gọi" | `ve_sau`, `ve_truoc` | 313 | `602450_0` |
 | `sua-doi` | 64.612 | Sửa nội dung đang có. "Sửa đổi, bổ sung X" cho 2 quan hệ: `sua-doi` và `bo-sung`. | "sửa đổi" | `ve_sau`, `ve_truoc` | 268 | `602450_1` |
-| `thay-cum-tu` | — | Thay một cụm từ bằng cụm từ khác. Cặp cụm từ nằm ở `cum_tu`. | "thay (thế) cụm từ / từ ngữ / từ “X” bằng “Y”" | `ve_sau`, `ve_truoc` | 231 | `602450_14` |
-| `bai-bo` | 31.908 | Bỏ một đơn vị hoặc cả văn bản. Phần bị bỏ hết hiệu lực từ ngày tác động bắt đầu. | "bãi bỏ"; "Bỏ <đơn vị>" ("Bỏ gạch đầu dòng thứ ba điểm b …"); "<văn bản> hết hiệu lực kể từ ngày … này có hiệu lực"; "Các Thông tư sau đây hết hiệu lực: a) …" | `ve_sau`, `ve_truoc` | 46 | `488371_48`; `378946_0` |
+| `thay-cum-tu` | — | Thay một cụm từ bằng cụm từ khác. Cặp cụm từ nằm ở `cum_tu`. Từ code `1117e63`: bỏ cụm từ là `thay-cum-tu` có `cum_tu[].moi` rỗng (R4). | "thay (thế) cụm từ / từ ngữ / từ “X” bằng “Y”"; "(bãi) bỏ cụm từ “X”" | `ve_sau`, `ve_truoc` | 231 | `602450_14` |
+| `bai-bo` | 31.908 | Bỏ một đơn vị hoặc cả văn bản. Phần bị bỏ hết hiệu lực từ ngày tác động bắt đầu. "Bỏ cụm từ …" không là `bai-bo` (R4). Từ code `1117e63`: câu nêu vị trí là "Bãi bỏ …" thì quan hệ là `bai-bo`. Câu dẫn ghi "Sửa đổi, bổ sung" không đổi điều này. | "bãi bỏ"; "Bỏ <đơn vị>" ("Bỏ gạch đầu dòng thứ ba điểm b …"); "<văn bản> hết hiệu lực kể từ ngày … này có hiệu lực"; "Các Thông tư sau đây hết hiệu lực: a) …" | `ve_sau`, `ve_truoc` | 46 | `488371_48`; `378946_0` |
 | `thay-the` | 41.645 | Thay cả một đơn vị hoặc cả văn bản. Đơn vị cũ hết hiệu lực. | "thay thế" (không phải "thay thế cụm từ") | `ve_sau`, `ve_truoc` | 40 | `585073_61` |
 | `dinh-chinh` | — | Sửa lỗi kỹ thuật hoặc lỗi trình bày của văn bản đích. | "đính chính" | `tu_dau` | 22 | `383494_3` |
-| `huong-dan` | — | Văn bản nguồn hướng dẫn thi hành văn bản đích. Văn bản đích không đổi. | Tiêu đề có "hướng dẫn" | `khong_ap_dung` | 21 | `hd_2211_0` |
+| `huong-dan` | — | Văn bản nguồn hướng dẫn thi hành văn bản đích. Văn bản đích không đổi. | v3: tiêu đề có "hướng dẫn". Code `1117e63`: câu trong Điều (R6 bỏ quan hệ từ tiêu đề). | `khong_ap_dung` | 21 | `hd_2211_0` |
 | `hop-nhat` | — | Văn bản hợp nhất trình bày lại văn bản gốc. Văn bản đích không đổi. | Văn bản đầu tiên nêu ở phần đầu văn bản hợp nhất (văn bản gốc) | `khong_ap_dung` | 8 | `hn_589448_0` |
-| `quy-dinh-chi-tiet` | — | Văn bản nguồn quy định chi tiết văn bản đích. Văn bản đích không đổi. | Tiêu đề có "quy định chi tiết" | `khong_ap_dung` | 7 | `hd_123273_0` |
+| `quy-dinh-chi-tiet` | — | Văn bản nguồn quy định chi tiết văn bản đích. Văn bản đích không đổi. | v3: tiêu đề có "quy định chi tiết". Code `1117e63`: câu trong Điều. | `khong_ap_dung` | 7 | `hd_123273_0` |
 | `huy-bo` | 385 | Hủy bỏ. Khác `bai-bo`: phần bị hủy coi như không có giá trị từ đầu. | "hủy bỏ", "huỷ bỏ" | `tu_dau` | 6 | `241415_0` |
 | `dinh-chi` | — | Dừng thi hành trong một khoảng thời gian. Thời gian nằm ở `dinh_chi_*`. | "(tạm) đình chỉ (việc) thi hành / thực hiện" | `tam_ngung` | 3 | `181025_0` |
 | `ngung-hieu-luc` | — | Ngưng hiệu lực trong một khoảng thời gian. Dùng lại `dinh_chi_*`. | "(tạm) ngưng / ngừng (thi hành) hiệu lực" | `tam_ngung` | 2 | `564293_0` |
 | `gia-han` | — | Kéo dài thời hạn hiệu lực. Ngày mới nằm ở `gia_han_den_ngay`. | "gia hạn / kéo dài (thời hạn) hiệu lực / áp dụng". "gia hạn nộp thuế" không tính. | `ve_sau` | 2 | `318496_0` |
 
-Số v3 tính cả quan hệ ở lời dẫn. Ví dụ: `ngung-hieu-luc` có `564293_0` (Điều 1) và `intro_564293_0` (lời dẫn).
+Số v3 tính cả quan hệ ở lời dẫn. Ví dụ: `ngung-hieu-luc` có `564293_0` (Điều 1) và `intro_564293_0` (lời dẫn). Code `1117e63` không ghi quan hệ ở lời dẫn (R6).
+
+Số -v4 (28/10/2026, 75.506 quan hệ): `bai-bo` 21.713, `sua-doi` 16.895, `bo-sung` 15.779, `thay-cum-tu` 11.042, `thay-the` 8.614, `hop-nhat` 652, `huong-dan` 318, `ngung-hieu-luc` 208, `dinh-chinh` 162, `huy-bo` 46, `gia-han` 37, `quy-dinh-chi-tiet` 35, `dinh-chi` 5.
 
 ### `hieu_luc_tac_dong`
 
@@ -232,17 +263,21 @@ Tác động bắt đầu từ ngày nào và kéo dài bao lâu. `ve_sau`, `ve_
 | `tam_ngung` | tạm ngừng | Phần bị tác động ngừng áp dụng trong một khoảng. Sau khoảng đó, phần này áp dụng lại, trừ khi văn bản khác quy định khác. | `dinh_chi_tu_ngay` | `dinh_chi_den_ngay` hoặc `dinh_chi_den_khi` | 5 | `564293_0`: 24/04/2023 → 31/12/2023 |
 | `khong_ap_dung` | không áp dụng | Quan hệ không đổi nội dung và hiệu lực của đích: hướng dẫn, quy định chi tiết, hợp nhất. | — | — | 36 | `hd_2211_0`, `hn_589448_0` |
 
+Số -v4 (28/10/2026): `ve_sau` 72.605, `ve_truoc` 1.475, `khong_ap_dung` 1.005, `tam_ngung` 213, `tu_dau` 208.
+
 ### `cap_quan_he`
 
 Mức chi tiết của quan hệ. Thứ tự xét ở [09, mục 9.10.8](09-hop-dong-du-lieu-v4.md#9108-cấp-quan-hệ). Dữ liệu v3 hiện có xét theo [04, mục 4.8.7](04-hop-dong-du-lieu-v3.md#487-cấp-quan-hệ).
 
 | Giá trị | Nghĩa | `vi_tri` | Số v3 | Ví dụ |
 | --- | --- | --- | --- | --- |
-| `vi_tri` | Quan hệ nêu một vị trí: Điều, khoản, điểm, tiểu điểm, tên Điều, phụ lục (kể cả phụ lục chứa mẫu biểu). Câu nằm ở Điều, lời dẫn hay tiêu đề đều vậy. Hợp đồng v4 (code `8b023ca`, 27/10/2026): phần nêu bằng tên thuộc phụ lục cũng có giá trị này, ví dụ thủ tục, danh mục, biểu mẫu. `vi_tri` là phụ lục chứa phần đó, tên giữ ở `doi_tuong` ([09, mục 9.5.1](09-hop-dong-du-lieu-v4.md#951-quy-ước-phụ-lục)). Vị trí ngoài thân văn bản ("Mục IV", "Mục II Phần B Phụ lục I") cũng thành phụ lục; chữ gốc ghi ở `chi_tiet_vi_tri`. | Một phần tử | 859 | `602450_1`; `intro_564293_0` (lời dẫn); lượt `fix9-H56`, `685249_0`: `vi_tri = ["Phụ lục"]`, có `doi_tuong` |
+| `vi_tri` | Quan hệ nêu một vị trí: Điều, khoản, điểm, tiểu điểm, tên Điều, phụ lục (kể cả phụ lục chứa mẫu biểu). Câu nằm ở Điều, lời dẫn hay tiêu đề đều vậy (v3). Hợp đồng v4 (từ code `8b023ca`, 27/10/2026): phần nêu bằng tên thuộc phụ lục cũng có giá trị này, ví dụ thủ tục, danh mục, biểu mẫu. `vi_tri` là phụ lục chứa phần đó, tên giữ ở `doi_tuong` ([09, mục 9.5.1](09-hop-dong-du-lieu-v4.md#951-quy-ước-phụ-lục)). Vị trí ngoài thân văn bản ("Mục IV", "Mục II Phần B Phụ lục I") cũng thành phụ lục; chữ gốc ghi ở `chi_tiet_vi_tri`. | Một phần tử | 859 | `602450_1`; `intro_564293_0` (lời dẫn); `legal-changed-v4/685249_0`: `vi_tri = ["Phụ lục"]`, có `doi_tuong` |
 | `van_ban` | Quan hệ ở cấp cả văn bản: thay thế, bãi bỏ toàn bộ; lời dẫn "sửa đổi một số điều"; hướng dẫn, hợp nhất không nêu điều khoản; câu hết hiệu lực. | `["toàn bộ"]` hoặc rỗng | 94 | `241415_0` |
 | `van_ban_kem_theo` | Phần ban hành kèm theo văn bản đích, chỉ nêu bằng tên ("đơn giá … ban hành kèm theo Quyết định X"). Tên nằm ở `doi_tuong`. Hợp đồng v4: chỉ phần nêu bằng tên không thuộc phụ lục. | Rỗng | 9 | `662238_17`; `legal-changed-v4/696606_0` |
 | `noi_dung` | Phần chỉ nêu bằng tên, không ban hành kèm theo ("bảng giá ca máy công bố tại Văn bản X"; "phần căn cứ"). Tên nằm ở `doi_tuong`. Hợp đồng v4: chỉ phần nêu bằng tên không thuộc phụ lục. | Rỗng | 5 | `383494_0`; `legal-changed-v4/676559_0` |
 | `chua_xac_dinh` | Thay đổi cấp điều khoản, công cụ không tìm được vị trí. Cần rà tay. | Rỗng | 2 | `449124_1` |
+
+Số -v4 (28/10/2026): `vi_tri` 52.984, `van_ban` 19.687, `chua_xac_dinh` 1.708, `noi_dung` 776, `van_ban_kem_theo` 351.
 
 ### `detection_mode`
 
@@ -252,11 +287,13 @@ Nơi có câu tác động trong văn bản nguồn. Tiền tố `_id` khớp gi
 | --- | --- | --- | --- | --- | --- |
 | (trường thiếu) | 121.529 | Tiêu đề văn bản nguồn nêu hành động. Câu tác động nằm trong Điều, khoản, điểm, hoặc đề mục của công văn. | không có | 891 | `602450_1` |
 | `hidden` | 53.972 | Tiêu đề văn bản nguồn không nêu hành động. Câu tác động nằm trong một Điều. | `hidden_` | 17 | `hidden_86794_0` |
-| `intro` | 1.586 | Câu tác động nằm trong lời dẫn ("… ban hành Nghị định sửa đổi, bổ sung một số điều của …"). Lời dẫn luôn có quan hệ riêng. | `intro_` | 25 | `intro_602450_0` |
+| `intro` | 1.586 | Câu tác động nằm trong lời dẫn ("… ban hành Nghị định sửa đổi, bổ sung một số điều của …"). Code `1117e63` không ghi giá trị này (R6). | `intro_` | 25 | `intro_602450_0` |
 | `het_hieu_luc` | 3.365 | Câu "… hết hiệu lực kể từ ngày … này có hiệu lực" trong văn bản nguồn. Hành động `bai-bo` cho mỗi văn bản nêu trong câu, phạm vi `toàn bộ`. Không qua QA. | `hhl_` | 0 | — |
-| `title_guidance` | — | Quan hệ hướng dẫn hoặc quy định chi tiết. Đích lấy từ tiêu đề hoặc lời dẫn. | `hd_` | 28 | `hd_2211_0` |
+| `title_guidance` | — | Quan hệ hướng dẫn hoặc quy định chi tiết. Đích lấy từ tiêu đề hoặc lời dẫn. Code `1117e63` không ghi giá trị này (R6). | `hd_` | 28 | `hd_2211_0` |
 | `hop_nhat` | — | Quan hệ hợp nhất. Đích lấy từ phần đầu văn bản hợp nhất. | `hn_` | 8 | `hn_589448_0` |
-| `llm` | — | Chế độ `llm`: chỉ nhánh LLM thấy quan hệ (`extraction = llm`). Câu ở lời dẫn hoặc tên văn bản thì tiền tố là `intro_`. | không có hoặc `intro_` | — (hợp đồng v4) | Lượt `r3-holdout3`, `194135_0` |
+| `llm` | — | Chế độ `llm`: chỉ nhánh LLM thấy quan hệ (`extraction = llm`). Code `1117e63` không ghi quan hệ ở lời dẫn, nên không có tiền tố. | không có | — (hợp đồng v4) | `legal-changed-v4/697176_24` |
+
+Số -v4 (28/10/2026): `llm` 36.439, trường thiếu 33.684, `hidden` 3.047, `het_hieu_luc` 1.684, `hop_nhat` 652, `intro` 0, `title_guidance` 0.
 
 ### `scope_resolution_method`
 
@@ -282,7 +319,7 @@ Cách quy tắc xác nhận phạm vi, không cần QA phạm vi.
 | `llm` | Chỉ nhánh LLM thấy. Quan hệ đã qua tầng 4. |
 | `rules` | Chỉ nhánh quy tắc thấy. QA giữ quan hệ. Chế độ `rules` chỉ có giá trị này. |
 
-Lượt chạy thử `eval-llm-blind` (15/10/2026, 759 quan hệ): `llm+rules` 412, `llm` 264, `rules` 83.
+Lượt chạy thử `eval-llm-blind` (15/10/2026, 759 quan hệ): `llm+rules` 412, `llm` 264, `rules` 83. Số -v4 (28/10/2026): `llm` 36.439, `llm+rules` 34.828, `rules` 4.239.
 
 ### `resolution_status` và `resolution_reason` (hợp đồng v4)
 
@@ -291,6 +328,8 @@ Lượt chạy thử `eval-llm-blind` (15/10/2026, 759 quan hệ): `llm+rules` 4
 | `validated` | Đủ căn cứ. `resolution_reason = null`. | Dựng cạnh |
 | `unresolved` | Hành động có thật, chưa đủ căn cứ. | Không dựng cạnh. Chờ duyệt. |
 
+Số -v4 (28/10/2026): `validated` 70.954, `unresolved` 4.552.
+
 | `resolution_reason` | Nghĩa | Tầng gán |
 | --- | --- | --- |
 | `vi_tri_chua_xac_dinh` | Câu nêu tác động một phần nhưng không nêu vị trí, không nêu tên phần. | Tầng 3, hoặc bước cấp quan hệ |
@@ -298,8 +337,10 @@ Lượt chạy thử `eval-llm-blind` (15/10/2026, 759 quan hệ): `llm+rules` 4
 | `khong_xac_dinh_van_ban_dich` | LLM không nêu được văn bản đích. Tầng 4 loại hàng này với lý do `khong_co_van_ban_dich`. Giá trị này không có trong ES. | Tầng 3 gán, tầng 4 loại |
 | `van_ban_dich_khong_co_trong_nguon` | Số hiệu đích không có trong đoạn nguồn LLM đọc. | Tầng 4 |
 | `dich_chua_gan_cau_thuc_hien` | Có câu nêu hành động, đích có trong nguồn, nhưng cấu trúc không gắn câu với đích (từ 21/10/2026). | Tầng 4 |
-| `vi_tri_khong_co_trong_nguon` | Số của vị trí không có trong đoạn nguồn. | Tầng 4 |
+| `vi_tri_khong_co_trong_nguon` | Số của vị trí không có trong đoạn nguồn. Từ code `1117e63`: cả khi kiểm vị trí sau gộp không tìm thấy câu nêu vị trí. | Tầng 4, kiểm sau gộp (`validate.check_positions`) |
 | `vi_tri_ngoai_dinh_dang` | Không sinh từ 19/10/2026. Vị trí ngoài định dạng chuyển sang `doi_tuong`. | — |
+
+Số -v4 (28/10/2026): `vi_tri_chua_xac_dinh` 1.708, `dich_chua_gan_cau_thuc_hien` 1.487, `vi_tri_khong_co_trong_nguon` 555, `phan_kem_theo_chua_ro` 551, `van_ban_dich_khong_co_trong_nguon` 251.
 
 Hàng tầng 4 loại hẳn không thành quan hệ. Lý do loại ở [08, mục 8.2.2](08-quan-he-4-tang-va-danh-gia.md#822-trạng-thái-của-quan-hệ). Lý do `ghi_chu_lich_su`: đích chỉ có tên trong ghi chú lịch sử, hoặc trong danh sách đi sau ghi chú ([09, mục 9.10.7](09-hop-dong-du-lieu-v4.md#9107-trạng-thái-cạnh-và-nhánh-dò)).
 
@@ -308,11 +349,11 @@ Hàng tầng 4 loại hẳn không thành quan hệ. Lý do loại ở [08, mụ
 | Giá trị | Nghĩa | Ví dụ |
 | --- | --- | --- |
 | `van_ban` | Quan hệ tác động lên văn bản đích hoặc một phần của nó (Điều, khoản, phụ lục, phần nêu bằng tên). | `669756_0`: thay thế Quyết định 08/2014/QĐ-UBND |
-| `thu_tuc_hanh_chinh` | Quan hệ tác động lên thủ tục hành chính do văn bản đích công bố. `doi_tuong` là tên thủ tục. `ma_thu_tuc` có khi dòng ghi mã. Hợp đồng v4 (code `8b023ca`, 27/10/2026): `vi_tri` là phụ lục chứa thủ tục ([09, mục 9.5.1](09-hop-dong-du-lieu-v4.md#951-quy-ước-phụ-lục)). | `587301`, `Phụ lục 1 Mục B STT 1`: bãi bỏ thủ tục "Thành lập Trung tâm dịch vụ việc làm …" công bố tại `3443/QĐ-UBND`, mã `2.000164` |
+| `thu_tuc_hanh_chinh` | Quan hệ tác động lên thủ tục hành chính do văn bản đích công bố. `doi_tuong` là tên thủ tục. `ma_thu_tuc` có khi dòng ghi mã. Hợp đồng v4 (từ code `8b023ca`, 27/10/2026): `vi_tri` là phụ lục chứa thủ tục ([09, mục 9.5.1](09-hop-dong-du-lieu-v4.md#951-quy-ước-phụ-lục)). | `587301`, `Phụ lục 1 Mục B STT 1`: bãi bỏ thủ tục "Thành lập Trung tâm dịch vụ việc làm …" công bố tại `3443/QĐ-UBND`, mã `2.000164` |
 
 Công cụ gán `thu_tuc_hanh_chinh` khi `doi_tuong` gọi phần đó là thủ tục ("thủ tục hành chính", "TTHC", "Thủ tục …"). Công cụ cũng gán giá trị này cho dòng bảng khi tiêu đề phụ lục hoặc đề mục trên dòng nêu thủ tục hành chính. Code: `resolver.object_kind`. Trường hợp khác là `van_ban`.
 
-Ví dụ lấy từ lượt chạy thử `q11q12-check` (20/10/2026).
+Ví dụ lấy từ lượt chạy thử `q11q12-check` (20/10/2026). Số -v4 (28/10/2026): `van_ban` 67.789, `thu_tuc_hanh_chinh` 7.717.
 
 ### `target_section` (hợp đồng v4)
 
@@ -323,7 +364,7 @@ Ví dụ lấy từ lượt chạy thử `q11q12-check` (20/10/2026).
 | `khong_ro` | Văn bản đích có phần kèm theo, câu không nói vị trí thuộc phần nào. Quan hệ thành `unresolved` với `phan_kem_theo_chua_ro` khi có vị trí số. | "Bãi bỏ quy định … tại phần B, Điều 1 của Quyết định số 288/2006/QĐ-UBND" (`194135_0`) |
 | `khong_ap_dung` | Tác động lên cả văn bản, hoặc hướng dẫn chung. | "Quyết định này thay thế Quyết định số 08/2014/QĐ-UBND" (`669756_0`) |
 
-Ví dụ lấy từ lượt chạy thử `r3-holdout3` (20/10/2026). Index `-v4` có trường này từ ngày 21/10/2026.
+Ví dụ lấy từ lượt chạy thử `r3-holdout3` (20/10/2026). Index `-v4` có trường này từ ngày 21/10/2026. Số -v4 (28/10/2026): `quyet_dinh` 31.967, `khong_ap_dung` 21.213, `kem_theo` 12.607, `khong_ro` 5.480.
 
 ### Giá trị đặc biệt của `scope`
 
@@ -346,11 +387,11 @@ Ví dụ lấy từ lượt chạy thử `r3-holdout3` (20/10/2026). Index `-v4`
 
 | Giá trị | Nghĩa | Phía nguồn của cạnh |
 | --- | --- | --- |
-| `intro` | Lời dẫn của văn bản nguồn. Chế độ `llm`: cả tên văn bản. | Node văn bản |
-| `Tiêu đề` | Quan hệ hướng dẫn lấy đích từ tiêu đề. | Node văn bản |
-| `Lời dẫn` | Quan hệ hướng dẫn lấy đích từ lời dẫn. | Node văn bản |
+| `intro` | Lời dẫn của văn bản nguồn. Chế độ `llm`: cả tên văn bản. Code `1117e63` không ghi (R6). | Node văn bản |
+| `Tiêu đề` | Quan hệ hướng dẫn lấy đích từ tiêu đề. Code `1117e63` không ghi (R6). | Node văn bản |
+| `Lời dẫn` | Quan hệ hướng dẫn lấy đích từ lời dẫn. Code `1117e63` không ghi (R6). | Node văn bản |
 | `Phần đầu` | Quan hệ hợp nhất lấy đích từ phần đầu văn bản hợp nhất. | Node văn bản |
-| `Mục <n>` | Đề mục của văn bản không chia Điều. | Chunk `<doc>_m<n>` |
+| `Mục <n>` | Đề mục của văn bản không chia Điều. | Node đề mục `muc_uid` (chunk `<doc>_m<n>`) |
 | `Nội dung` | Nội dung của văn bản không chia Điều, không đề mục. | Chunk `<doc>_nd` hoặc `<doc>_nd_full` |
 | `Phụ lục <n> STT <k>`, `Phụ lục <n> Mục <m> STT <k>` | Một dòng bảng của phụ lục thứ `n` (hợp đồng v4, từ 19/10/2026). | Node phụ lục `<doc>_pl<n−1>` |
 | `Phụ lục <n> Mục <m>`, `Phụ lục <n>` | Đề mục của phụ lục viết thành đoạn văn (hợp đồng v4, từ 20/10/2026). | Node phụ lục `<doc>_pl<n−1>` |

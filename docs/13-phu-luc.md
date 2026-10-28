@@ -5,8 +5,12 @@ Tài liệu này nêu mọi trường hợp công cụ `vbpl_v3` coi là phụ l
 1. **Phụ lục trong cấu trúc văn bản:** phần văn bản công cụ tách ra thành phụ lục và lưu thành chunk (mục 1).
 2. **Phụ lục ở vị trí của quan hệ:** vị trí của văn bản đích mà công cụ ghi là `Phụ lục` hoặc `Phụ lục <ký hiệu>` (mục 2).
 
-- Code: commit `8b023ca` (27/10/2026). Code tách cấu trúc (`structure.py`, `structure_ai.py`) giống code `2911b77` đã ghi index `-v4`.
-- Số đo ở mục 3: đọc `legal-docs-v4` ngày 27/10/2026, 11.000 văn bản.
+- Code: master `1117e63` (27/10/2026). Code này đã ghi index `-v4` ngày 27–28/10/2026 (30.988 văn bản).
+- So với code `2911b77` (22/10/2026), code tách phụ lục có 3 thay đổi:
+  - biểu mẫu in sẵn không giữ Điều (mục 1.2);
+  - dòng "Phụ lục (Ban hành kèm theo ....(1))" của biểu mẫu không mở phần mới (mục 1.1);
+  - phần dài có đoạn tìm kiếm (mục 1.5).
+- Số đo mục 3.1–3.4: đọc `legal-docs-v4` ngày 27/10/2026, 11.000 văn bản ghi bằng code `2911b77`. Dữ liệu đó đã bị ghi đè. Số đo ngày 28/10/2026 trên dữ liệu hiện có ở mục 3.0 và 3.5.
 
 ## 1. Phụ lục trong cấu trúc văn bản
 
@@ -25,6 +29,7 @@ Không tính là dấu hiệu:
 
 - Dòng nằm trong ngoặc kép. Ví dụ: nội dung mới của một văn bản sửa đổi có dòng `PHỤ LỤC II`.
 - Dòng tiêu đề phụ lục mà chữ sau ký hiệu bắt đầu bằng `kèm theo`, `ban hành kèm theo`, `của`, `tại`, `quy định tại`. Đây là câu nhắc tới phụ lục, không phải tiêu đề. Ví dụ: `Phụ lục kèm theo Quyết định này`.
+- Dòng `Phụ lục (Ban hành kèm theo` hoặc `Phụ lục (Kèm theo` mà sau đó là dấu chấm lửng, chưa nêu văn bản. Đây là dòng của một biểu mẫu. Ví dụ: `Phụ lục (Ban hành kèm theo .................(1))`. Code: `structure.appendix_header`.
 
 Dấu hiệu 2, 3, 4 mở một **văn bản kèm theo** (`loai = unlabeled`). Dấu hiệu 1 mở một **phụ lục có nhãn** (`loai = labeled`).
 
@@ -36,6 +41,14 @@ Mỗi phần là một phụ lục hoặc một văn bản kèm theo. Một ph�
 2. Mỗi dòng tiêu đề phụ lục (dấu hiệu 1).
 3. Mỗi khối tiêu đề có ghi chú ban hành kèm theo, đứng trên một chuỗi Điều mới. Trong vùng phụ lục, tiêu đề in hoa không có ghi chú này **không** mở phần mới. Lý do: biểu mẫu thường có tiêu đề in hoa như `HƯỚNG DẪN GHI CHÉP MẪU`.
 4. Mỗi biểu kèm theo cùng văn bản với phần chứa nó. Ví dụ: `Biểu số 1`, `Biểu số 2` cùng ghi `(Kèm theo Thông tư số X)`. Biểu mẫu nêu văn bản khác thì ở lại trong phần chứa nó.
+
+**Biểu mẫu in sẵn không giữ Điều.** Phần có chuỗi Điều đầu là biểu mẫu thì `dieu_luat` rỗng. Phần đó lưu phẳng như bảng. Một trong các điều kiện sau là đủ (`structure.sample_form`):
+
+- tên một Điều của chuỗi có chỗ trống để điền: `....`, `……`, `(Tên tổ chức)`, `(ghi rõ …)`, `(*)`, `…(1)`;
+- chuỗi có "Nơi nhận:" riêng và chỗ trống, đồng thời có tối đa 6 Điều hoặc Điều 1 có chỗ trống;
+- tiêu đề phần (sau nhãn phụ lục, nếu có) mở bằng `MẪU`, `BIỂU MẪU`, `CÁC MẪU`, `CÁC BIỂU MẪU`, `DANH MỤC MẪU` hoặc `DANH SÁCH MẪU`, và chuỗi Điều có chỗ trống.
+
+Chỉ chuỗi Điều đầu được xét. Quy chế thật đi trước một quyết định mẫu vẫn giữ Điều.
 
 **Tiêu đề của phần** gồm dòng đầu và tối đa 5 dòng tiếp theo. Dòng tiếp theo phải in hoa, hoặc mở bằng `(Ban hành`, `(Kèm theo`, hoặc là ghi chú ban hành kèm theo. Tiêu đề dừng ở dòng kết thúc bằng `)` hoặc ở dòng bảng. Phần mở bằng `Điều 1` không có tiêu đề.
 
@@ -65,19 +78,29 @@ LLM đề xuất dòng bắt đầu của từng phần. Công cụ chỉ nhận
 | `tieu_de` | Tiêu đề của phần (mục 1.2) |
 | `noi_dung` | Toàn văn của phần, sau tiêu đề. Không cắt. |
 | `loai` | `labeled`: phần mở bằng dòng tiêu đề phụ lục. `unlabeled`: văn bản kèm theo. |
-| `ky_hieu` | Ký hiệu in trên tiêu đề: `II`, `01`, `2a`. Chỉ phần `labeled` có ký hiệu mới có trường này. |
+| `ky_hieu` | Ký hiệu in trên tiêu đề: `II`, `01`, `2a`. Mọi phần có trường này. `null` khi phần là `unlabeled` hoặc nhãn không có ký hiệu (`convert.appendix_label`). |
 | `has_table` | `true` khi phần có ít nhất 2 dòng bảng (dòng mở bằng `\|`) |
 | `n_tables`, `n_table_rows` | Số bảng, số dòng bảng |
-| `dieu_luat` | Các Điều của phần, cùng cấu trúc với Điều của thân văn bản |
+| `dieu_luat` | Các Điều của phần, cùng cấu trúc với Điều của thân văn bản. Rỗng khi phần không chia Điều hoặc là biểu mẫu (mục 1.2). |
 
 ### 1.5. Lưu thành chunk: `legal-chunk-section-v4`
 
+Code: `structure.build_chunks`, `structure.search_passages`.
+
 | Phần | Chunk | ID |
 | --- | --- | --- |
-| Có Điều (quy chế, quy định kèm theo) | Tách như thân văn bản: Điều, khoản, điểm, tiểu điểm, chunk `_full` | `<doc>_pl<i>_d<k>`, `<doc>_pl<i>_d<k>_k<m>`, `<doc>_pl<i>_d<k>_k<m>_p<x>` |
-| Không có Điều (bảng, danh mục, biểu mẫu, văn bản thường) | **Một chunk** `chunk_type = phu_luc`, chứa toàn bộ `noi_dung`. Không chia đoạn. | `<doc>_pl<i>` |
+| Có Điều (quy chế, quy định kèm theo) | Tách như thân văn bản: Điều, khoản, điểm, tiểu điểm, chunk `_full`, `_md`. `loai_phan = kem_theo`. | `<doc>_pl<i>_d<k>`, `<doc>_pl<i>_d<k>_k<m>`, `<doc>_pl<i>_d<k>_k<m>_p<x>` |
+| Không có Điều (bảng, danh mục, biểu mẫu, văn bản thường) | **Một chunk** `chunk_type = phu_luc`, chứa toàn bộ `noi_dung`. Chunk này là node phụ lục. `loai_phan = phu_luc`. | `<doc>_pl<i>` |
+| Không có Điều, `noi_dung` dài hơn 300 từ | Chunk `phu_luc` ở trên có `is_full = true`. Công cụ thêm các chunk `phu_luc_doan`, mỗi chunk tối đa 300 từ, chỉ để tìm kiếm. `so_doan` đếm từ 1. | `<doc>_pl<i>_doan<k>` |
 
-Mọi chunk của phần phụ lục có thêm 3 trường: `in_phu_luc = true`, `phu_luc_tieu_de` (500 ký tự đầu của tiêu đề), `has_table`.
+Cách chia đoạn `phu_luc_doan`:
+
+- Từ là chuỗi tách bằng khoảng trắng. Phần có tối đa 300 từ không có đoạn.
+- Công cụ chia theo dòng bảng và đoạn văn trước, rồi theo câu, rồi theo từ. Dòng bảng giữ nguyên dòng. Dòng dài hơn 300 từ chia theo từ.
+- Đoạn mở ở giữa bảng lặp lại dòng tên cột (dòng đầu của bảng và dòng phân cách dưới nó). Điều kiện: dòng tên cột có tối đa 100 từ (1/3 giới hạn). Ví dụ: `674935_pl0_doan2` mở bằng "| TT | Tên thủ tục hành chính (Mã TTHC) | …".
+- `tieu_de` của mọi đoạn là tiêu đề của phần.
+
+Mọi chunk của phần phụ lục có thêm 5 trường: `in_phu_luc = true`, `phu_luc_uid = <doc>_pl<i>`, `loai_phan`, `phu_luc_tieu_de` (500 ký tự đầu của tiêu đề), `has_table`. Bên Graph dựng node phụ lục từ `phu_luc_uid` và bỏ qua chunk `phu_luc_doan`.
 
 ### 1.6. Ba cách đánh số phụ lục
 
@@ -149,9 +172,24 @@ Phần nêu bằng tên không có dấu hiệu ở mục 2.2 thì giữ tên. Q
 
 ## 3. Độ dài
 
-Đo ngày 27/10/2026 trên `legal-docs-v4`. Độ dài là độ dài của `phu_luc[].noi_dung`, không tính tiêu đề. Từ là chuỗi tách bằng khoảng trắng.
+### 3.0. Số lượng trên dữ liệu hiện có (28/10/2026)
 
-### 3.1. Số lượng
+Đếm trên `legal-chunk-section-v4` ngày 28/10/2026 (30.988 văn bản, code `1117e63`). Phần không sinh chunk (tiêu đề và nội dung cùng rỗng) không được đếm.
+
+| Chỉ số | Giá trị |
+| --- | --- |
+| Văn bản có chunk phụ lục | 17.238/30.988 (55,6%) |
+| Phần phụ lục có chunk | 30.191 |
+| Phần có Điều (`loai_phan = kem_theo`) | 2.641 (8,7%), 296.727 chunk |
+| Phần không có Điều (một chunk `phu_luc`) | 27.550 (91,3%) |
+| Phần không có Điều, có bảng | 23.209 |
+| Phần không có Điều, dài hơn 300 từ (có `phu_luc_doan`) | 23.001 (83,5% của 27.550) |
+| Chunk `phu_luc_doan` | 377.099; trung bình 16,4 đoạn mỗi phần có đoạn |
+| Chunk nằm trong phụ lục (`in_phu_luc`) | 701.376/1.534.375 (45,7%) |
+
+Mục 3.1–3.4 dưới đây đo ngày 27/10/2026 trên 11.000 văn bản ghi bằng code `2911b77`. Dữ liệu đó đã bị ghi đè ngày 27–28/10/2026. Độ dài là độ dài của `phu_luc[].noi_dung`, không tính tiêu đề. Từ là chuỗi tách bằng khoảng trắng. Code `1117e63` chuyển một số phần biểu mẫu từ "có Điều" sang "không có Điều" (mục 1.2), nên tỷ lệ hai nhóm này đã đổi.
+
+### 3.1. Số lượng (27/10/2026, 11.000 văn bản)
 
 | Chỉ số | Giá trị |
 | --- | --- |
@@ -164,7 +202,7 @@ Phần nêu bằng tên không có dấu hiệu ở mục 2.2 thì giữ tên. Q
 | Phần có bảng | 8.815 (75%) |
 | Số phần trong một văn bản | Trung vị 1, p95 5, tối đa 180 (`694210`, 279/QĐ-BNNMT) |
 
-### 3.2. Độ dài theo ký tự
+### 3.2. Độ dài theo ký tự (27/10/2026)
 
 | Nhóm | Số phần | Nhỏ nhất | p5 | p25 | Trung vị | p75 | p95 | p99 | Lớn nhất |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -176,7 +214,7 @@ Phần nêu bằng tên không có dấu hiệu ở mục 2.2 thì giữ tên. Q
 | Không có Điều, có bảng | 8.385 | 38 | 636 | 2.004 | 4.968 | 13.208 | 53.471 | 240.254 | 1.712.716 |
 | Không có Điều, không có bảng | 1.812 | 0 | 0 | 1.086 | 2.599 | 8.527 | 33.163 | 62.729 | 267.163 |
 
-### 3.3. Độ dài theo từ
+### 3.3. Độ dài theo từ (27/10/2026)
 
 | Nhóm | Nhỏ nhất | p5 | p25 | Trung vị | p75 | p95 | p99 | Lớn nhất |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -186,14 +224,14 @@ Phần nêu bằng tên không có dấu hiệu ở mục 2.2 thì giữ tên. Q
 | Có nhãn (`labeled`) | 0 | 80 | 375 | 999 | 2.648 | 10.499 | 39.607 | 392.507 |
 | Văn bản kèm theo (`unlabeled`) | 0 | 254 | 1.029 | 2.616 | 5.261 | 16.551 | 65.264 | 179.220 |
 
-### 3.4. Hai đầu của khoảng
+### 3.4. Hai đầu của khoảng (27/10/2026)
 
 **Ngắn nhất.** 205 phần rỗng (0 ký tự): 196 phần có nhãn, 9 văn bản kèm theo. 222 phần ngắn hơn 80 ký tự. Phần rỗng chỉ có dòng tiêu đề. Có hai loại:
 
 - toàn văn nguồn không có nội dung dưới tiêu đề. Ví dụ: `681010_pl4` (4822/QĐ-BNNMT, `PHỤ LỤC 1`); `678905_pl1` (45/VBHN-BCT, `PHỤ LỤC 2 (được bãi bỏ)`);
 - dòng tiêu đề là chữ trong một biểu mẫu, ví dụ `Phụ lục (Ban hành kèm theo .................(1))`. Đây là lỗi tách cấu trúc.
 
-**Dài nhất.** Cả 6 phần dài nhất là phụ lục có nhãn, có bảng, không có Điều. Mỗi phần là **một chunk**:
+**Dài nhất.** Cả 6 phần dài nhất là phụ lục có nhãn, có bảng, không có Điều. Mỗi phần là **một chunk** `phu_luc`. Đếm ngày 28/10/2026: cả 6 chunk vẫn có trong `-v4`, có `is_full = true` và có đoạn `phu_luc_doan`. Ví dụ: `685877_pl2` có 1.825 đoạn.
 
 | Chunk | Văn bản | Ký tự | Từ | Tiêu đề |
 | --- | --- | --- | --- | --- |
@@ -206,7 +244,8 @@ Phần nêu bằng tên không có dấu hiệu ở mục 2.2 thì giữ tên. Q
 
 ### 3.5. Hệ quả cho vector
 
-- 9.123/10.197 chunk `phu_luc` (89,5%) dài hơn 200 từ.
-- Lệnh `convert` cắt đầu vào embedding ở 256 token, khoảng 200 từ. Vì vậy vector của các chunk này chỉ đại diện cho đoạn đầu.
-- Ngày 26/10/2026, vector của `-v4` được tạo lại với toàn bộ đầu vào. Lượt `convert` mới vẫn ghi vector cắt ở 256 token.
-- Đề xuất chia đoạn con cho chunk `phu_luc` dài: docs/10, mục S1 và S2. Chưa làm.
+- Vector của `-v4` là vector bge-m3 đủ độ dài (đo 28/10/2026). Máy chủ embedding nhận tối đa 8.192 token mỗi đầu vào.
+- Chunk `phu_luc` dài hơn 8.192 token chỉ có vector của phần đầu. Phụ lục khoảng 1,5 token mỗi từ (p90 1,8; đo 27/10/2026), nên giới hạn này ứng với khoảng 5.000 từ.
+- Đoạn `phu_luc_doan` 300 từ nằm trọn trong giới hạn. Tìm nội dung phụ lục bằng đoạn, rồi dùng `phu_luc_uid` để về node phụ lục.
+- Giới hạn 300 từ chọn theo đo Hit@5 ngày 27/10/2026, trên 170 câu hỏi và 400 văn bản. Đoạn 300 từ đạt 0,767. Đoạn 150 từ đạt 0,667.
+- Đề xuất S1, S2 ở docs/10 (chia đoạn con cho chunk `phu_luc` dài) đã làm bằng `phu_luc_doan` (code `c394162`, có trong `1117e63`).

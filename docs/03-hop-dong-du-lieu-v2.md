@@ -7,8 +7,8 @@ Số liệu đo ngày 14/10/2026, chỉ đọc. Số liệu chất lượng ở 
 | Index | Một bản ghi là | Số bản ghi | Công cụ dùng để |
 | --- | --- | --- | --- |
 | `legal-docs` | Một văn bản | 518.261 | Đọc toàn văn và metadata. Tra văn bản đích. |
-| `legal-chunk-section-v2` | Một chunk | 10.331.917 | Dùng lại vector cũ. |
-| `legal-changed-v2` | Một quan hệ | 180.452 | Không dùng. v3 dò lại mọi quan hệ. |
+| `legal-chunk-section-v2` | Một chunk | 10.331.917 | Dùng lại vector khi `EMBEDDING_REUSE=yes` (mục 3.3). |
+| `legal-changed-v2` | Một quan hệ | 180.452 | Không dùng để tạo quan hệ: công cụ dò lại mọi quan hệ. Lệnh `report` đọc để so số quan hệ nguồn với đích. |
 
 ## 3.1. Khóa nối
 
@@ -33,7 +33,7 @@ Số liệu đo ngày 14/10/2026, chỉ đọc. Số liệu chất lượng ở 
 | `issuance_date` | date | Mọi văn bản | Ngày ban hành. |
 | `signers` | keyword, không index | Thiếu ở 447 văn bản | Người ký, dạng `Tên:mã`. |
 | `tom_tat` | text | Mọi văn bản | Tóm tắt. |
-| `action` | keyword | Mọi văn bản | Phân loại văn bản. 10 giá trị. Xem [06, mục 6.1](06-bang-enum.md#62-văn-bản). |
+| `action` | keyword | Mọi văn bản | Phân loại văn bản. 10 giá trị. Xem [06, mục 6.2](06-bang-enum.md#62-văn-bản). |
 | `url` | keyword, không index | Mọi văn bản | Link nguồn. |
 | `pdf_minio_path` | keyword | 478.053 (92,2%) | Đường dẫn PDF trên MinIO. |
 | `pdf_vbpl_id` | keyword | 103.849 (20,0%) | ID trên vbpl.vn. |
@@ -72,8 +72,8 @@ Số liệu đo ngày 14/10/2026, chỉ đọc. Số liệu chất lượng ở 
 | `dieu_mo_dau` | 89.835 | `<doc>_d<x>_md` |
 
 - Điều trong phụ lục có `_pl<i>` sau `<doc>`.
-- Văn bản kèm theo nằm trong phần chính có `_s<s>` trước `_d`, ví dụ `<doc>_s1_d3_k1`. v3 chuyển các phần này vào `phu_luc[]` và đổi ID sang `_pl<i>`.
-- v2 không có `noi_dung_full`, không có đoạn `<doc>_nd<k>`.
+- Văn bản kèm theo nằm trong phần chính có `_s<s>` trước `_d`, ví dụ `<doc>_s1_d3_k1`. Công cụ hiện hành đưa văn bản kèm theo có tiêu đề hoặc ghi chú phát hành vào `phu_luc[]`, ID `_pl<i>`. Chuỗi Điều mở lại trong văn bản chính giữ `_s<s>` ([12, mục 12.5.1](12-logic-xu-ly-cau-hoi-llm-danh-gia.md#1251-loại-chunk-và-id)).
+- v2 không có `noi_dung_full`, `tieu_diem`, `phu_luc_doan`, `muc_doan`, không có đoạn `<doc>_nd<k>`.
 
 ### Trường
 
@@ -83,7 +83,7 @@ Số liệu đo ngày 14/10/2026, chỉ đọc. Số liệu chất lượng ở 
 | `chunk_type` | keyword | Mọi chunk | 10 giá trị ở bảng trên. |
 | `tieu_de`, `noi_dung` | text | Mọi chunk | Tên đơn vị và nội dung. |
 | `so_van_ban_refs` | mảng keyword | 918.004 (8,9%) | Số hiệu nêu trong chunk. |
-| `embedding` | dense_vector 1.024 | Thiếu ở 11 chunk | Vector của `tieu_de + " " + noi_dung`. |
+| `embedding` | dense_vector 1.024 | Thiếu ở 11 chunk | Vector của `tieu_de + " " + noi_dung`, cắt ở 256 token đầu. |
 | `document_number`, `title`, `action`, `legal_type`, `issuing_authority`, `issuance_date`, `url`, `signers` | như văn bản | Mọi chunk | Chép từ văn bản. |
 | `legal_sectors` | keyword (chuỗi) | Mọi chunk | Lĩnh vực nối bằng `", "`. |
 | `dieu_uid`, `segment`, `so_dieu`, `ky_hieu_dieu` | keyword, integer, integer, keyword | 9.530.905 | Chunk thuộc Điều. |
@@ -97,6 +97,8 @@ Số liệu đo ngày 14/10/2026, chỉ đọc. Số liệu chất lượng ở 
 | `origin`, `ingest_job_id`, `ingest_revision`, `ingested_at`, `uploaded_by` | như v3 | 184 | Chỉ có ở chunk của văn bản tải lên. |
 
 v2 không có `dan_chieu`, `so_doan`.
+
+**Dùng lại vector v2.** `EMBEDDING_REUSE=yes` cho chunk v3 có đầu vào giống hệt chunk v2 nhận vector v2. Vector v2 chỉ có 256 token đầu. Vì vậy, với API embedding `/v1`, công cụ chỉ cho `EMBEDDING_REUSE=yes` khi `EMBEDDING_TRUNCATE=256` (`config.validate`, 27/10/2026). Các lượt ghi `-v4` ngày 27–28/10/2026 không dùng lại vector v2. Chi tiết ở [12, mục 12.5.4](12-logic-xu-ly-cau-hoi-llm-danh-gia.md#1254-vector).
 
 ## 3.4. `legal-changed-v2`
 
@@ -168,7 +170,7 @@ Một quan hệ v2 có một chuỗi `scope`. Chuỗi có nhiều vị trí thì
 | Toàn văn còn NFD | 7,6% | Chuẩn hóa NFC. |
 | Văn bản có `n_dieu` lệch | 3,7% | Đếm lại. |
 | Văn bản không có chunk | 0,7% | Mọi văn bản có ít nhất một chunk. |
-| Quan hệ chưa có đích | 60,5% | Khớp đích lại. Mẫu 1.000 văn bản: 64 → 293 quan hệ có đích, cả 293 đúng số hiệu. |
+| Quan hệ chưa có đích | 60,5% | Khớp đích lại. Mẫu 1.000 văn bản: 64 → 293 quan hệ có đích, cả 293 đúng số hiệu. `legal-changed-v4` ngày 28/10/2026: 85,1% quan hệ nối được đích. |
 | `signers` thiếu | 447 văn bản | Chép nguyên. Chưa điền. |
 | `legal_sectors` thiếu | 4 văn bản | Chép nguyên. Chưa điền. |
 | `pdf_vbpl_id` thiếu | 80% | Không suy ra được từ toàn văn. |

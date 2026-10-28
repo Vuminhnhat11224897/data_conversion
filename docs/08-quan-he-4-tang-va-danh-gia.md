@@ -5,7 +5,10 @@ Tài liệu này mô tả chế độ `llm` (luồng 4 tầng) và bộ đánh g
 - 15/10/2026: thêm chế độ `llm`.
 - 20/10/2026: chốt luồng. Chế độ `llm` là mặc định (mục 8.8.4). Kết quả độc lập ở mục 8.8.3.
 - 22/10/2026: chốt luồng với quy tắc 1–19 (code `2911b77`) và ghi lại 11.000 văn bản `-v4` (mục 8.15). Benchmark 500 văn bản ở mục 8.13–8.14.
-- 26–27/10/2026: văn bản sửa đổi đi kèm, quy ước phụ lục, hold-out 300 (mục 8.16–8.17). Code chốt `8b023ca`. Dữ liệu `-v4` chưa ghi lại bằng code này.
+- 26–27/10/2026: văn bản sửa đổi đi kèm, quy ước phụ lục, hold-out 300 (mục 8.16–8.17). Mốc chốt `8b023ca`. Không lượt nào ghi `-v4` bằng code này.
+- 27/10/2026: làm sạch dữ liệu 32 văn bản trên nhánh `tich-hop/20261027` (mục 8.18).
+- 27–28/10/2026: code chạy hiện hành là master `1117e63` (mục 8.19). Code này ghi 20.000 văn bản mới vào `-v4` và ghi lại 11.000 văn bản cũ. Ngày 28/10/2026, `-v4` có 30.988 văn bản.
+- 28/10/2026: chấm đợt 20.000 trên mẫu 2.000 văn bản (mục 8.20). Độ chính xác từng trường ở mục 8.21.
 - So sánh với v2 và v3 ở [05](05-phien-ban-v2-v3-v4.md).
 
 ## 8.1. Vì sao đổi
@@ -757,7 +760,7 @@ Trạng thái `-v4`:
 
 - Lý do `unresolved`: `vi_tri_chua_xac_dinh` 734, `dich_chua_gan_cau_thuc_hien` 569, `phan_kem_theo_chua_ro` 522, `vi_tri_khong_co_trong_nguon` 326, `van_ban_dich_khong_co_trong_nguon` 124.
 - 19 văn bản đổi số chunk (tổng thêm 8 chunk). Ở lượt trước, model đọc cấu trúc của các văn bản này bị lỗi (`ValueError`), nên công cụ dùng cấu trúc theo quy tắc. Lần này model trả lời được.
-- Quan hệ của 501 văn bản H5 + H6 trong `legal-changed-v4` khớp hết với lượt đo `H56-C`. Vì vậy số đo ở mục 8.14 (phát hiện 0,890 / 0,873; phạm vi 0,785 / 0,743) là chất lượng của dữ liệu `-v4` hiện tại. H5 và H6 đã dùng để sửa lỗi, nên số này không độc lập.
+- Quan hệ của 501 văn bản H5 + H6 trong `legal-changed-v4` khớp hết với lượt đo `H56-C`. Vì vậy số đo ở mục 8.14 (phát hiện 0,890 / 0,873; phạm vi 0,785 / 0,743) là chất lượng của dữ liệu `-v4` ngày 22/10/2026. Đêm 27/10/2026, `-v4` được ghi lại bằng code `1117e63` (mục 8.19). H5 và H6 đã dùng để sửa lỗi, nên số này không độc lập.
 - v3 không đổi.
 
 ### 8.16. Văn bản sửa đổi đi kèm, quy ước phụ lục, hold-out 300 (26/10/2026)
@@ -843,7 +846,7 @@ Code `8ccb1da` (`fix7-*`) cho cùng số, trừ phạm vi hold-out 0,710 / 0,672
 
 ### 8.18. Làm sạch dữ liệu 32 văn bản (27/10/2026)
 
-Mục này ghi các thay đổi code sau `8b023ca`, ngày 27/10/2026. Code nằm ở nhánh `tich-hop/20261027` (worktree `/home/ad/data_vbpl_v3-scope`). Nhánh chưa vào master, chưa push. Mọi lượt thử chạy `--dry-run`, ES đích trỏ tới cổng giả (`TARGET_ES_URL=http://127.0.0.1:9`). Không lượt nào ghi ES.
+Mục này ghi các thay đổi code sau `8b023ca`, ngày 27/10/2026. Code nằm ở nhánh `tich-hop/20261027` (worktree `/home/ad/data_vbpl_v3-scope`). Khi viết mục này (chiều 27/10/2026), nhánh chưa vào master. Tối 27/10/2026, nhánh vào master `1117e63` (mục 8.19). Mọi lượt thử chạy `--dry-run`, ES đích trỏ tới cổng giả (`TARGET_ES_URL=http://127.0.0.1:9`). Không lượt nào ghi ES.
 
 **Thành phần của nhánh:**
 
@@ -893,3 +896,184 @@ Mục này ghi các thay đổi code sau `8b023ca`, ngày 27/10/2026. Code nằm
 2. Tìm nguyên nhân 37 quan hệ thiếu; có thể phải hỏi lại LLM.
 3. Viết bộ eval chất lượng dữ liệu (việc B ở [07, mục 7.5](07-gioi-han-va-can-chot.md#75-việc-còn-lại-ở-bên-dữ-liệu)).
 4. Ghi lại `-v4` (dùng lại vector `-v4`), chạy 10.000 văn bản mới.
+
+Trạng thái kế hoạch ngày 28/10/2026:
+
+- Bước 1: R1–R6, R12, R15 và luật "Bãi bỏ …" có commit (mục 8.19). Các lỗi khác của bước 1: chưa đo lại.
+- Bước 2: chưa có kết quả.
+- Bước 3: độ chính xác từng trường đo một lần ngày 28/10/2026 (mục 8.21). Script đo chưa có trong `eval/`.
+- Bước 4: xong đêm 27/10/2026, với 20.000 văn bản mới thay cho 10.000 (mục 8.19).
+
+### 8.19. Code chạy hiện hành `1117e63` và hai lượt ghi `-v4` (27–28/10/2026)
+
+Tối 27/10/2026, nhánh `tich-hop/20261027` vào master. Code chạy hiện hành là master `1117e63`. Code đã push lên GitHub `origin/main`. Commit mới nhất `df9d8f1` chỉ thêm docs và bộ chấm, nên code vẫn là `1117e63`.
+
+**Các commit sau mốc `8b023ca`** (theo thứ tự):
+
+| Commit | Nội dung |
+| --- | --- |
+| `c394162` | Biểu mẫu trong phụ lục không giữ Điều. Đoạn tìm kiếm cho phụ lục và đề mục dài: `phu_luc_doan` 300 từ, `muc_doan` 150 từ. |
+| `f5ef0a7` | Tầng 4 kiểm vị trí sau bước gộp (`validate.check_positions`). Giữ tên phần và mức văn bản mà LLM đã đọc. Chi tiết ở mục 8.18. |
+| `fe4b13e` | Tích hợp hai nhánh trên. |
+| `57b9033` | Embedding qua API bge-m3 kiểu OpenAI: `EMBEDDING_URL` kết thúc bằng `/v1`, `EMBEDDING_KEY`, `EMBEDDING_MODEL`. `EMBEDDING_TRUNCATE` trống cho vector đủ độ dài, không cắt ở 256 token. |
+| `9dc5f55` | R1, một cạnh một lần: bỏ dòng trùng cha/con và dòng lặp trong cùng đơn vị. |
+| `b06a6d7` | R2: bỏ dòng ô-dù. Dòng ô-dù là câu dẫn không có vị trí khi đơn vị con đã nêu vị trí. |
+| `3c8cef2` | R3: hành động theo động từ của câu nêu vị trí. |
+| `3c26438` | R4: "bỏ cụm từ" là `thay-cum-tu` với `moi` rỗng. R5: không tạo quan hệ cho "bổ sung cụm từ". R6: bỏ dòng `intro_` và `hd_`. |
+| `24a8d57` | R12: evidence là câu nguyên văn của chính đơn vị nêu vị trí hoặc cụm từ. |
+| `8b3e843` | Câu nêu vị trí là "Bãi bỏ …" thì quan hệ là `bai-bo`. |
+| `c7930ea` | R15: ghép chữ tách âm. Tách Điều bỏ dấu ngoặc lạc khi gặp Chương kế tiếp. Metadata: số hiệu sạch ký tự ẩn; ngày hết hiệu lực, căn cứ, khối chữ ký. |
+| `1117e63` | `EMBEDDING_REUSE=target`: khi ghi lại `-v4`, công cụ dùng lại vector đủ độ dài của index đích. Chunk không đổi chữ thì không embed lại. |
+
+- Commit `3c26438` cũng đổi bộ chấm `eval/score.py`. Bộ chấm bỏ quan hệ ở "Phần đầu" (trừ `hop-nhat`) của cả nhãn và công cụ (R6). Trong nhãn, bộ chấm đổi `bai-bo` có câu "bỏ cụm từ" thành `thay-cum-tu` (R4) và bỏ quan hệ "bổ sung cụm từ" (R5). Bộ chấm chưa xử lý R2.
+- Điểm của `1117e63` trên 11 bộ chấm cũ: chưa đo. Số đo gần nhất trên các bộ này là của `9dc5f55` (mục 8.18).
+- `init` ngày 27/10/2026 thêm vào mapping chunk `-v4` ba trường: `loai_phan`, `muc_uid`, `phu_luc_uid`.
+- LLM: `qwen3.6-35b` qua SGLang trên máy dell-ai (`LITELLM_BASE_URL=http://100.91.202.88:8012/v1`). Ban ngày chạy 3 lời gọi đồng thời, 22h–6h chạy 10. Đêm 27/10/2026 mở 20.
+- Embedding: API `http://10.1.10.22:9999/v1`, vector 1024 chiều, chuẩn hóa, đủ độ dài. Biến môi trường đặt trong `work/.embedding.env`. File `.env` dùng chung vẫn trỏ tới API cũ.
+- Vector v2 cắt ở 256 token. Vì vậy lượt văn bản mới đặt `EMBEDDING_REUSE=no`. Lượt ghi lại đặt `EMBEDDING_REUSE=target`.
+
+**Hai lượt đêm 27/10/2026** (chỉ ghi `-v4`, v3 không đổi):
+
+| Lượt | Văn bản | Thời gian | Văn bản còn lỗi |
+| --- | --- | --- | --- |
+| `v4-next20000` | 20.000 văn bản mới, 20 luồng: 10.000 đầu của `work/v4-next10000b-ids.txt` (ban hành 25/06–08/10/2025) và 10.000 đầu của `work/v4-next10000c-ids.txt` (ban hành 12/03–25/06/2025). | Lượt chính 22:48 27/10 → 02:37 28/10, 820 lỗi. Chạy lại 3 luồng, xong 04:18. | 10, chưa ghi: 650872, 651044, 651412, 663486, 668834, 670096, 671294, 672275, 672379, 675570 |
+| `v4-2710` | Ghi lại 11.000 văn bản `-v4` cũ bằng `1117e63`. Câu trả lời LLM lấy từ cache của lượt `v4-2210`. | Lượt chính 04:18 → 06:50, 306 lỗi. Xong 07:40. | 7, vẫn là bản ghi 22/10 (code `2911b77`): 679994, 682498, 685655, 686325, 694929, 694935, 696357 |
+
+- Danh sách `work/v4-next20000-ids.txt` có thêm 400 ID dự phòng.
+- Nút thắt: ES đích, ES nguồn và máy embedding đều đi qua VPN `tun0` (khoảng 2,5 MB/s). Hai lượt chạy cùng lúc gây nhiều lỗi `ConnectionError … timed out`.
+
+**Trạng thái `-v4`:**
+
+| Chỉ số | 22/10/2026 (mục 8.15) | 28/10/2026 |
+| --- | --- | --- |
+| `legal-docs-v4` | 11.000 | 30.988 |
+| `legal-chunk-section-v4` | 447.597 | 1.534.375 |
+| `legal-changed-v4` | 42.771 | 75.506 |
+| `resolution_status = unresolved` | 2.275 | 4.552 (6,0%) |
+| Trường cũ `unresolved = true` | chưa đo | 2.147 (2,8%) |
+| Có `target_matched_id` | 37.182 | 64.277 (85,1%) |
+
+- 30.988 văn bản gồm 19.988 văn bản mới và 11.000 văn bản cũ. 30.981 văn bản ghi bằng `1117e63`. Ngày ban hành: 12/03/2025–30/09/2026.
+- 75.506 quan hệ nằm trên 13.627 văn bản (44,0%). Văn bản mới: 44.509 quan hệ trên 8.738 văn bản. Văn bản cũ: 30.997 quan hệ trên 4.889 văn bản.
+- Kiểm toàn bộ quan hệ (28/10/2026): 99,1% có evidence; 0 quan hệ tự trỏ; 49.075/49.075 đích ban hành trước nguồn; 611 dòng trùng.
+- Chunk có 30.987 `doc_id` khác nhau (đếm chính xác 28/10/2026). 1 `doc_id` có chunk mà không có bản ghi văn bản: 672275 (1.500 chunk), một trong 10 văn bản mới lỗi. 2 văn bản không có chunk: 682498, 685655, thuộc 7 văn bản ghi lại lỗi. Nguyên nhân: lượt ghi xóa chunk cũ trước, rồi lỗi giữa chừng.
+- v3: hai lượt không ghi v3. Ngày 27/10/2026, 32 văn bản của mục 8.18 được ghi vào v3 bằng code `8b023ca`, câu trả lời LLM đã lưu và sửa tay. Manifest gỡ ở `work/v3-32/manifest.json`.
+
+### 8.20. Chấm đợt 20.000 (28/10/2026)
+
+Đây là số đo độc lập đầu tiên của code `1117e63` trên dữ liệu mới. Cách làm theo `eval/README.md`.
+
+**Mẫu.** `eval.sample_batch` lấy 2.000 văn bản từ lượt `v4-next20000` (seed 20261026). Khung có 12.195 văn bản: văn bản dài tối đa 200.000 ký tự, trừ văn bản và nhóm văn bản của mọi bộ có nhãn. Mỗi nhóm chỉ lấy một văn bản. Mẫu có 10 tầng: độ dài × kết quả của lượt. Danh sách: `eval/sets/dot-20000-20261028.txt`, tầng: `eval/sets/dot-20000-20261028.strata.json`.
+
+**Nhãn.** Mẫu chia thành hai bộ. Hai bộ giữ tầng và N của khung:
+
+| Bộ | Văn bản | Người gán | Quan hệ nhãn | Khóa (UTC) |
+| --- | --- | --- | --- | --- |
+| `dot-20000-20261028-g300` | 312, lấy phân tầng từ mẫu 2.000 (seed 20261028) | 10 agent | 1.448 | 28/10/2026 02:08 |
+| `dot-20000-20261028-r` | 1.688 văn bản còn lại | 60 agent | 7.689 | 28/10/2026 03:27 |
+
+- Agent gán nhãn theo `eval/rubric-gold.md` và không xem kết quả công cụ. Nhãn chưa qua người duyệt.
+- Nhãn ở `eval/gold/dot-20000-20261028-g300/`, `eval/gold/dot-20000-20261028-r/`. File khóa: `eval/gold/<bộ>.lock.json`.
+
+**Cách chấm.** `eval.replay` chạy lại chặt mẫu 2.000 thành lượt `work/v4-next20000-dry`: 0 văn bản lỗi, 0 câu trả lời thiếu, `valid = true`. Lượt gốc là `dot20k-base`, một bản chép câu trả lời đã lưu của `v4-next20000`; thư mục này đã xóa. `eval.strata` chấm gộp hai bộ nhãn. Kết quả: `work/dot-20000-20261028-2000-ket-qua.json`.
+
+**Kết quả** (P / R, khoảng tin cậy 95% bootstrap 2.000 lần):
+
+| Phép đo | Phát hiện P | Phát hiện R | Phạm vi P | Phạm vi R |
+| --- | --- | --- | --- | --- |
+| Có trọng số N/n, ước tính cho cả đợt | 0,901 [0,873–0,922] | 0,804 [0,750–0,852] | 0,785 [0,713–0,842] | 0,695 [0,630–0,752] |
+| Không trọng số, 2.000 văn bản | 0,900 | 0,819 | 0,785 | 0,702 |
+| Có trọng số, chỉ bộ `-g300` (chấm trước) | 0,902 [0,851–0,944] | 0,789 [0,698–0,886] | 0,812 [0,727–0,893] | 0,698 [0,589–0,810] |
+
+- F1 không trọng số của 2.000 văn bản: phát hiện 0,858, phạm vi 0,741.
+- Mốc hold-out 300 của `8b023ca` (mục 8.17): phát hiện 0,900 / 0,861 / 0,880, phạm vi 0,711 / 0,673 / 0,691. Hai bộ khác văn bản, khác code và khác người gán. Vì vậy chỉ so được mức, không so được từng điểm.
+- Hai tầng `khong_quan_he` có 601 văn bản trong mẫu, mỗi văn bản mang trọng số khoảng 12,8. Nhãn của hai tầng này có 29 quan hệ, công cụ sót cả 29. Vì vậy R có trọng số thấp hơn R không trọng số.
+
+**Kết quả từng tầng** (không trọng số; số đếm phát hiện là đúng / sai / sót):
+
+| Tầng | N | n | Phát hiện P / R | Phạm vi P / R | Phát hiện: đúng / sai / sót |
+| --- | --- | --- | --- | --- | --- |
+| `ngan_bai_bo` | 1.789 | 558 | 0,990 / 0,963 | 0,959 / 0,923 | 858 / 9 / 33 |
+| `dai_bai_bo` | 571 | 178 | 0,970 / 0,895 | 0,941 / 0,681 | 291 / 9 / 34 |
+| `ngan_kho` | 1.074 | 334 | 0,902 / 0,803 | 0,811 / 0,738 | 1.341 / 145 / 328 |
+| `dai_kho` | 412 | 128 | 0,860 / 0,739 | 0,705 / 0,627 | 1.115 / 182 / 393 |
+| `ngan_sua_doi` | 376 | 117 | 0,780 / 0,965 | 0,721 / 0,777 | 192 / 54 / 7 |
+| `dai_sua_doi` | 58 | 20 | 0,609 / 0,800 | 0,469 / 0,622 | 28 / 18 / 7 |
+| `ngan_khac` | 71 | 22 | 0,963 / 0,897 | 0,800 / 0,778 | 26 / 1 / 3 |
+| `dai_khac` | 136 | 42 | 0,772 / 0,629 | 0,746 / 0,310 | 44 / 13 / 26 |
+| `ngan_khong_quan_he` | 6.579 | 513 | — / 0,000 | — / 0,000 | 0 / 0 / 27 |
+| `dai_khong_quan_he` | 1.129 | 88 | — / 0,000 | — / 0,000 | 0 / 0 / 2 |
+
+**Sót phát hiện** (860 quan hệ nhãn, không trọng số):
+
+| Loại sót | Số |
+| --- | --- |
+| Công cụ không có đích | 563 |
+| Công cụ có quan hệ nhưng để `unresolved` | 167 |
+| Đúng đích, khác hành động | 91 |
+| Văn bản mà công cụ không ra quan hệ nào | 39 |
+
+**Kiểm tự động trên 2.000 văn bản** (không cần nhãn):
+
+| Phép kiểm | Kết quả |
+| --- | --- |
+| Metadata | 99,1% |
+| Số quan hệ | 9.550 |
+| `unresolved = true` | 3,6% |
+| Evidence nguyên văn | 99,5% |
+| Nối được đích | 85% |
+
+**Lỗi thật tìm thấy** (chưa sửa, chờ người dùng quyết):
+
+| # | Lỗi | Ví dụ |
+| --- | --- | --- |
+| 1 | Văn bản không có Điều: outline LLM xếp đoạn cuối ("Kế hoạch này thay thế …", "Trong quá trình thực hiện …") vào phần kết. Đoạn đó không đi qua tầng trích quan hệ và không vào chunk. Khoảng 49 văn bản trong mẫu. | 681383, 671394, 669547 |
+| 2 | Tầng trích cắt `noi_dung` của đơn vị ở 6.000 ký tự. | 669605 |
+| 3 | Danh sách đích dài trong Nghị quyết HĐND bị sót hoặc để `unresolved`. | 663479, 663380; 668634 (cả 6 đích `unresolved`) |
+| 4 | Điều có phần đánh số La Mã I., II., III. bên trong: chỉ phần I vào chunk. | 672797: mất 13.843 ký tự, 87% văn bản |
+| 5 | Đích trùng số hiệu sau sáp nhập tỉnh. Dòng phụ lục ghi văn bản của tỉnh cũ (Bình Phước). Resolver nối văn bản Đồng Nai cùng số, khác ngày. Câu trích là câu của khoản, không có ngày, nên resolver không so được ngày. | 679575: 16/2021/QĐ-UBND, 40/2023/QĐ-UBND |
+| 6 | Văn bản hợp nhất: chunk có dòng không có trong bản gốc. | 666444, 680269 |
+
+**Giới hạn của nhãn:**
+
+- Nhãn do agent gán, chưa qua người duyệt. Số trên là số tạm.
+- Agent gán không thống nhất R2 (câu dẫn của đơn vị cha) và "bỏ cụm từ".
+- Agent ghi `doi_tuong` không đều. Vì vậy số đo liên quan tới `doi_tuong` chỉ để tham khảo.
+
+### 8.21. Độ phủ và độ chính xác từng trường (28/10/2026)
+
+Bộ chấm ở mục 8.20 chỉ so tập (hành động, đích, vị trí). Mục này đo từng trường của bản ghi. Script đo chưa có trong `eval/`.
+
+**Chunk:**
+
+| Phép đo | Kết quả |
+| --- | --- |
+| Độ phủ các trường bắt buộc | ~100% |
+| Độ chính xác trên mọi chunk của 1.000 văn bản `-v4` ngẫu nhiên (48.354 chunk) | ~100%, trừ `noi_dung` |
+| `noi_dung` có nguyên văn trong toàn văn | 99,1% |
+| Độ phủ `so_van_ban_refs` | 88,1% |
+| Văn bản không có lỗi cấu trúc so với nhãn | 93,4% |
+
+**Quan hệ so với nhãn của mẫu 2.000** (mục 8.20; tỉ lệ khớp từng trường):
+
+| Trường | Khớp |
+| --- | --- |
+| `action` | 0,969 |
+| `source_path` | 0,952 |
+| `target_doc` | 0,922 |
+| `vi_tri` | 0,877 |
+| `evidence` | 0,865 |
+| `target_section` | 0,833 |
+
+- Quan hệ của nhãn có ở công cụ: 0,769.
+- `vi_tri` của nhãn có ở công cụ: 0,928.
+
+**Kiểm toàn bộ 75.506 quan hệ `-v4`** (không cần nhãn):
+
+| Trường | Đúng |
+| --- | --- |
+| `source_*`, `cap_quan_he`, `hieu_luc_tac_dong` | 100% |
+| `target_matched_id` (85,1% quan hệ có trường này) | 99,99% |
+| `cum_tu` | 98,1%: 205 dòng `thay-cum-tu` thiếu `cum_tu` |
+
+**Hợp đồng [09](09-hop-dong-du-lieu-v4.md) khi đo** (28/10/2026) chưa mô tả: loại chunk `muc_doan`, `phu_luc_doan`; `is_full` ở chunk `phu_luc`, `muc` khi có đoạn; `so_muc`, `so_doan` ở loại mới; trường `loai_phan`, `muc_uid`, `phu_luc_uid`.

@@ -1,6 +1,6 @@
 # 11. Câu hỏi cho bên Graph: phạm vi của cạnh
 
-Tài liệu này nêu 3 việc bên Graph cần chốt. Bên dữ liệu chưa đổi hợp đồng cho tới khi bên Graph trả lời. Mỗi việc có bản ghi thật và cách xử lý đề xuất. Ngày soạn: 21/10/2026. Cập nhật: 27/10/2026.
+Tài liệu này nêu 3 việc bên Graph cần chốt. Bên dữ liệu chưa đổi hợp đồng cho tới khi bên Graph trả lời. Mỗi việc có bản ghi thật và cách xử lý đề xuất. Ngày soạn: 21/10/2026. Cập nhật: 28/10/2026.
 
 | Việc | Mục |
 | --- | --- |
@@ -85,17 +85,20 @@ Bên Graph có hỗ trợ trạng thái `relation_only` với 5 điểm trên kh
 
 Phần không có node riêng có `vi_tri` là node chứa nó. Đây là các quyết định C3, C4, E1 ở [07](07-gioi-han-va-can-chot.md#74-quyết-định-đã-chốt): mẫu biểu, đoạn, câu, gạch đầu dòng của khoản, tiết, dòng số thứ tự. Giới hạn thật chỉ còn trong `scope`. Hợp đồng dặn bên đọc không dùng `scope`.
 
-Đo trên `legal-changed-v4` sau lượt ghi ngày 22/10/2026 (11.000 văn bản, mục 11.4): 274/42.771 quan hệ có phần không có node riêng (193 mẫu biểu; 77 dòng số thứ tự; 4 gạch đầu dòng, đoạn).
+Đo trên `legal-changed-v4` sau lượt ghi ngày 22/10/2026 (11.000 văn bản): 274/42.771 quan hệ có phần không có node riêng (193 mẫu biểu; 77 dòng số thứ tự; 4 gạch đầu dòng, đoạn). Đếm 28/10/2026 (30.988 văn bản, mục 11.4): 3.646/75.506 quan hệ có `chi_tiet_vi_tri`, trong đó 3.574 quan hệ `validated`. Số theo từng loại phần: chưa đo.
 
-| Bản ghi | `scope` | `vi_tri` | `chi_tiet_vi_tri` | Tác động thật |
+| Bản ghi (kiểm 28/10/2026) | `scope` | `vi_tri` | `chi_tiet_vi_tri` | Tác động thật |
 | --- | --- | --- | --- | --- |
-| `legal-changed-v4/695211_6` (`thay-the` lên 05/2024/TT-BXD) | `Mẫu số 02 Phụ lục I` | `["Phụ lục I"]` | `Mẫu số 02` | 1 mẫu, không phải cả Phụ lục I |
-| `legal-changed-v4/688385_160` (`bai-bo` lên 226/2025/NĐ-CP) | nhiều vị trí | `["điểm a khoản 4 Điều 7"]` | `gạch đầu dòng thứ 1` | 1 gạch đầu dòng, không phải cả điểm a |
-| `legal-changed-v4/693748_0` (`bai-bo` lên 773/QĐ-UBND) | `Mục A Phụ lục I` | `["Mục A Phụ lục I"]` | `số thứ tự 06, 07` | 2 dòng của Mục A |
+| `legal-changed-v4/695211_3` (`thay-the` lên 05/2024/TT-BXD) | `Mẫu số 02 Phụ lục I` | `["Phụ lục I"]` | `Mẫu số 02` | 1 mẫu, không phải cả Phụ lục I |
+| `legal-changed-v4/688385_83` (`bai-bo` lên 226/2025/NĐ-CP) | nhiều vị trí | `["điểm a khoản 4 Điều 7"]` | `gạch đầu dòng thứ 1` | 1 gạch đầu dòng, không phải cả điểm a |
+| `legal-changed-v4/693748_0` (`bai-bo` lên 773/QĐ-UBND) | `Phụ lục I` | `["Phụ lục I"]` | `Mục A Phụ lục I; số thứ tự 06, 07` | 2 dòng của Mục A |
+
+- `_id` quan hệ đổi khi chạy lại văn bản nguồn. Ngày 22/10/2026, hai ví dụ đầu có `_id` `695211_6`, `688385_160`.
+- Ví dụ thứ ba ngày 22/10/2026 có `vi_tri = ["Mục A Phụ lục I"]`. Quy ước phụ lục đổi vị trí đó thành `Phụ lục I`.
 
 Nếu bên Graph coi cạnh như tác động lên cả node, đồ thị nói rộng hơn văn bản.
 
-Từ code `8b023ca` (27/10/2026), quy ước phụ lục cũng ghi chữ vị trí gốc vào `chi_tiet_vi_tri` ([09, mục 9.5.1](09-hop-dong-du-lieu-v4.md#951-quy-ước-phụ-lục)). Ví dụ: `692884_0` (lượt `fix9-H56`, chưa ghi ES) có `vi_tri = ["Phụ lục I"]`, `chi_tiet_vi_tri` "Mục II Phần B Phụ lục I". Đo 27/10/2026 trên lượt `fix9-H56` và `fix9-ho` (876 văn bản): 197/9.760 quan hệ `validated` có `chi_tiet_vi_tri`.
+Từ code `8b023ca` (27/10/2026), quy ước phụ lục cũng ghi chữ vị trí gốc vào `chi_tiet_vi_tri` ([09, mục 9.5.1](09-hop-dong-du-lieu-v4.md#951-quy-ước-phụ-lục)). Ví dụ: `legal-changed-v4/692884_0` có `vi_tri = ["Phụ lục I"]`, `chi_tiet_vi_tri` "Mục II Phần B Phụ lục I" (kiểm 28/10/2026). Đo 27/10/2026 trên lượt `fix9-H56` và `fix9-ho` (876 văn bản): 197/9.760 quan hệ `validated` có `chi_tiet_vi_tri`.
 
 ### Đề xuất
 
@@ -111,7 +114,7 @@ Quy tắc chung: khi giảm độ chi tiết của node để biểu diễn, gi�
 ### Câu hỏi 2
 
 1. Bên Graph đồng ý dùng `chi_tiet_vi_tri` như trên không?
-2. Bên Graph hiện có tính trạng thái hiệu lực của node từ các cạnh loại này không? Nếu có mà không đọc `chi_tiet_vi_tri`, 274 quan hệ trên bị tính rộng hơn văn bản.
+2. Bên Graph hiện có tính trạng thái hiệu lực của node từ các cạnh loại này không? Nếu có mà không đọc `chi_tiet_vi_tri`, 3.574 quan hệ `validated` có trường này bị tính rộng hơn văn bản (28/10/2026).
 
 ## 11.3. Thông tin đã chốt, báo để bên Graph biết
 
@@ -122,45 +125,52 @@ Quy tắc chung: khi giảm độ chi tiết của node để biểu diễn, gi�
 | Văn bản chỉ có tên trong ghi chú lịch sử, hoặc trong danh sách văn bản đi sau ghi chú đó, không là đích (26–27/10/2026). | [09, mục 9.10.7](09-hop-dong-du-lieu-v4.md#9107-trạng-thái-cạnh-và-nhánh-dò) |
 | Quan hệ tên văn bản chỉ lấy từ tên in trong văn bản (Q11). | [07, mục 7.4](07-gioi-han-va-can-chot.md#74-quyết-định-đã-chốt) |
 | `_id` quan hệ đổi khi chạy lại văn bản nguồn. Khi nhập lại, xóa cạnh cũ theo `source_id`, không theo `_id`. | [04, mục 4.8.2](04-hop-dong-du-lieu-v3.md#482-id) |
+| Không có quan hệ lấy từ tên văn bản và lời dẫn (`intro_`, `hd_`) (R6, 27/10/2026). Quan hệ hướng dẫn chỉ có khi một Điều nêu văn bản được hướng dẫn. Thay V1, Q2. | [07, mục 7.4](07-gioi-han-va-can-chot.md#74-quyết-định-đã-chốt) |
+| Một thay đổi có ở cả đơn vị cha và đơn vị con thì chỉ giữ cạnh của đơn vị con (R1, R2, 27/10/2026). | [07, mục 7.4](07-gioi-han-va-can-chot.md#74-quyết-định-đã-chốt) |
+| Chunk `phu_luc_doan`, `muc_doan` là đoạn tìm kiếm, không là node. Node là chunk `phu_luc`, `muc` (`phu_luc_uid`, `muc_uid`). | [09](09-hop-dong-du-lieu-v4.md) |
 
 ## 11.4. Dữ liệu v4 để bên Graph kiểm
 
-Trạng thái ngày 27/10/2026. Chi tiết ở [09, mục 9.1](09-hop-dong-du-lieu-v4.md#91-trạng-thái-v4).
+Trạng thái ngày 28/10/2026. Chi tiết ở [09, mục 9.1](09-hop-dong-du-lieu-v4.md#91-trạng-thái-v4). Dashboard số liệu: https://claude.ai/artifact/9sGL8D5ZSGcNLibgQwvMjQ (28/10/2026).
 
-Ngày 22/10/2026, bên dữ liệu ghi lại 3 index `-v4` trên ES 10.1.10.23 bằng code `2911b77` (docs 08 mục 8.15). Đếm ngày 27/10/2026: số bản ghi không đổi.
+Đêm 27–28/10/2026, bên dữ liệu ghi 3 index `-v4` trên ES 10.1.10.23 bằng code `1117e63`. Lượt `v4-next20000` thêm 19.988 văn bản mới. Lượt `v4-2710` ghi lại 11.000 văn bản cũ. 7 văn bản cũ lỗi khi ghi lại, nên còn bản ghi 22/10/2026 (code `2911b77`): 679994, 682498, 685655, 686325, 694929, 694935, 696357.
 
-| Index | Số bản ghi |
+| Index | Số bản ghi (đếm 28/10/2026) |
 | --- | --- |
-| `legal-docs-v4` | 11.000 văn bản mới nhất, ban hành từ 08/10/2025 đến 30/09/2026 |
-| `legal-chunk-section-v4` | 447.597 chunk |
-| `legal-changed-v4` | 42.771 quan hệ: 40.496 `validated`, 2.275 `unresolved` |
+| `legal-docs-v4` | 30.988 văn bản, ban hành từ 12/03/2025 đến 30/09/2026 |
+| `legal-chunk-section-v4` | 1.534.375 chunk, đủ vector |
+| `legal-changed-v4` | 75.506 quan hệ trên 13.627 văn bản: 70.954 `validated`, 4.552 `unresolved` |
 
-- Trong 42.771 quan hệ: 37.182 có `target_matched_id`; 1.819 có `doi_tuong_loai = thu_tuc_hanh_chinh`; 274 có `chi_tiet_vi_tri`.
-- Kiểm hợp đồng (`eval.check_contract v4`, 22/10/2026): 237 quy tắc, 5 quy tắc có lỗi nhỏ về đọc cấu trúc. Mỗi quy tắc lỗi dưới 1% số bản ghi ([09, mục 9.12](09-hop-dong-du-lieu-v4.md#912-bất-biến-để-kiểm)).
-- Ngày 26/10/2026, bên dữ liệu tạo lại vector của mọi văn bản và chunk `-v4`. Vector mới không cắt đầu vào ở 256 token.
-- v3 không đổi.
+- Trong 75.506 quan hệ: 64.277 có `target_matched_id` (85,1%); 7.717 có `doi_tuong_loai = thu_tuc_hanh_chinh`; 3.646 có `chi_tiet_vi_tri`; 74.847 có `evidence`.
+- Trường cũ `unresolved = true` có ở 2.147 quan hệ. Bên Graph đọc `resolution_status`, không đọc trường này.
+- Kiểm toàn bộ quan hệ (28/10/2026): `source_*`, `cap_quan_he`, `hieu_luc_tac_dong` đúng 100%; `target_matched_id` đúng 99,99%; 205 dòng `thay-cum-tu` thiếu `cum_tu`. Kết quả `eval.check_contract v4` trên dữ liệu này: chưa đo.
+- Chunk có thêm loại `phu_luc_doan` (377.099) và `muc_doan` (101.033). Hai loại này là đoạn tìm kiếm, không là node.
+- Vector văn bản và chunk `-v4` không cắt đầu vào ở 256 token. v3 vẫn dùng vector 256 token.
+- Chunk có 30.987 `doc_id` khác nhau (đếm chính xác 28/10/2026). 1 `doc_id` có chunk mà không có bản ghi văn bản: 672275 (1.500 chunk), một trong 10 văn bản mới lỗi. 2 văn bản không có chunk: 682498, 685655, thuộc 7 văn bản ghi lại lỗi. Nguyên nhân: lượt ghi xóa chunk cũ trước, rồi lỗi giữa chừng.
+- v3: không ghi lại toàn bộ. Hai ngoại lệ có người dùng duyệt: văn bản 132140 (15/10/2026) và 32 văn bản của bộ 88 testcase (27/10/2026). v3 có 236 văn bản (28/10/2026).
 
-**Code hiện tại khác dữ liệu này.** Code chốt hiện tại là `8b023ca` (27/10/2026). Dữ liệu `-v4` chưa có các thay đổi sau:
+Từ 28/10/2026, `-v4` có hai thay đổi chính của code 26–27/10/2026:
 
 | Thay đổi | Ảnh hưởng tới cạnh | Mục |
 | --- | --- | --- |
-| Quy ước phụ lục | Vị trí ngoài thân văn bản thành phụ lục; chữ gốc ghi ở `chi_tiet_vi_tri`. Phần nêu bằng tên thuộc phụ lục (thủ tục, danh mục, biểu mẫu, dòng của danh mục) có `vi_tri` là phụ lục và `cap_quan_he = vi_tri`. Dữ liệu `-v4` hiện ghi `vi_tri` rỗng và `cap_quan_he` là `noi_dung` hoặc `van_ban_kem_theo`. Ví dụ: `694022_0`. | [09, mục 9.5.1](09-hop-dong-du-lieu-v4.md#951-quy-ước-phụ-lục) |
-| Ghi chú lịch sử phủ cả danh sách | Văn bản chỉ có tên trong danh sách sau ghi chú lịch sử không là đích. Dữ liệu `-v4` còn đích sai loại này. Ví dụ: `675210_28` (`sua-doi` tới `89/2025/QH15`). | [09, mục 9.10.7](09-hop-dong-du-lieu-v4.md#9107-trạng-thái-cạnh-và-nhánh-dò) |
+| Quy ước phụ lục | Vị trí ngoài thân văn bản thành phụ lục; chữ gốc ghi ở `chi_tiet_vi_tri`. Phần nêu bằng tên thuộc phụ lục (thủ tục, danh mục, biểu mẫu, dòng của danh mục) có `vi_tri` là phụ lục và `cap_quan_he = vi_tri`. Ví dụ: `694022_0` có `vi_tri = ["Phụ lục 1"]` (kiểm 28/10/2026). | [09, mục 9.5.1](09-hop-dong-du-lieu-v4.md#951-quy-ước-phụ-lục) |
+| Ghi chú lịch sử phủ cả danh sách | Văn bản chỉ có tên trong danh sách sau ghi chú lịch sử không là đích. Ví dụ: 675210 không còn quan hệ tới `89/2025/QH15` (kiểm 28/10/2026). | [09, mục 9.10.7](09-hop-dong-du-lieu-v4.md#9107-trạng-thái-cạnh-và-nhánh-dò) |
 
-- Đợt 10.000 văn bản tiếp theo (ban hành 25/06/2025–08/10/2025) chưa chạy.
-- Người dùng chưa quyết có ghi lại 11.000 văn bản `-v4` bằng code `8b023ca` hay không.
+- Đợt tiếp theo chưa có lệnh chạy.
 
-Chất lượng quan hệ (docs 08, mục 8.14, 8.15, 8.17):
+Chất lượng quan hệ (docs 05, mục 5.4.3; docs 08, mục 8.14, 8.15, 8.17):
 
 | Dữ liệu | Bộ đo, ngày đo | Phát hiện P / R | Phạm vi P / R | Ghi chú |
 | --- | --- | --- | --- | --- |
-| `-v4` hiện có (code `2911b77`) | H5 + H6, 500 văn bản, 22/10/2026, bộ chấm cũ | 0,890 / 0,873 | 0,785 / 0,743 | Đã dùng để sửa lỗi. Không độc lập. |
+| `-v4` hiện có (code `1117e63`) | Mẫu 2.000 văn bản của đợt 20.000, 28/10/2026, có trọng số | 0,901 / 0,804 | 0,785 / 0,695 | Độc lập. Nhãn agent đã khóa, chưa qua người duyệt. |
+| `-v4` ngày 22/10 (code `2911b77`) | H5 + H6, 500 văn bản, 22/10/2026, bộ chấm cũ | 0,890 / 0,873 | 0,785 / 0,743 | Đã dùng để sửa lỗi. Không độc lập. |
 | Code `8b023ca` | H5 + H6, 27/10/2026, bộ chấm 27/10 | 0,895 / 0,873 | 0,833 / 0,773 | Không độc lập. |
 | Code `8b023ca` | Hold-out 300, 27/10/2026, bộ chấm 27/10 | 0,900 / 0,861 | 0,711 / 0,673 | Độc lập. Nhãn do agent gán, chưa qua người duyệt. Bỏ văn bản 675259. |
 
 - Phát hiện: đúng văn bản nguồn, hành động, văn bản đích. Phạm vi: đúng thêm vị trí bị tác động.
-- Bộ chấm 27/10 áp quy ước phụ lục như code. Số đo theo hai bộ chấm không so trực tiếp được.
-- Trên văn bản chưa từng xem, phạm vi thấp hơn rõ: P 0,711, R 0,673 ở hold-out 300.
+- Bộ chấm từ 27/10 áp quy ước phụ lục như code. Số đo theo hai bộ chấm không so trực tiếp được.
+- Trên văn bản chưa từng xem, phạm vi thấp hơn rõ: R 0,695 ở đợt 20.000, R 0,673 ở hold-out 300.
+- Lỗi thật tìm thấy khi chấm đợt 20.000 ở [07, mục 7.2](07-gioi-han-va-can-chot.md#72-lỗi-dữ-liệu-đã-biết). Một lỗi chạm cách nối cạnh: đích trùng số hiệu sau sáp nhập tỉnh (679575).
 
 ## 11.5. Kiểm thử bên Graph cần chạy
 
@@ -173,39 +183,45 @@ Chất lượng quan hệ (docs 08, mục 8.14, 8.15, 8.17):
 
 ### Hiện trạng
 
-Quy ước phụ lục ([09, mục 9.5.1](09-hop-dong-du-lieu-v4.md#951-quy-ước-phụ-lục), code `8b023ca`): phần ngoài thân văn bản có vị trí là phụ lục chứa nó. Chữ vị trí gốc ghi ở `chi_tiet_vi_tri`.
+Quy ước phụ lục ([09, mục 9.5.1](09-hop-dong-du-lieu-v4.md#951-quy-ước-phụ-lục), từ code `8b023ca`, có trong `-v4` từ 28/10/2026): phần ngoài thân văn bản có vị trí là phụ lục chứa nó. Chữ vị trí gốc ghi ở `chi_tiet_vi_tri`.
 
 | Vị trí | Khi nào | Node đích |
 | --- | --- | --- |
 | `Phụ lục <n>` | Chữ nêu đúng một ký hiệu phụ lục | `<doc>_pl<i>` với `phu_luc[i].ky_hieu = <n>` |
 | `Phụ lục` | Chữ không nêu ký hiệu, hoặc nêu từ hai ký hiệu trở lên | Chưa có node xác định |
 
-Đo 27/10/2026 trên lượt `fix9-H56` và `fix9-ho` (876 văn bản, code `8b023ca`, chưa ghi ES). Có 9.760 quan hệ `validated`:
+Số quan hệ `validated` theo nhóm. Cột `-v4`: đếm 28/10/2026 trên `legal-changed-v4` (code `1117e63`). Cột `fix9-*`: đo 27/10/2026 trên lượt `fix9-H56` và `fix9-ho` (876 văn bản, code `8b023ca`).
 
-| Nhóm | Quan hệ |
-| --- | --- |
-| Vị trí là phụ lục | 557 (5,7%) |
-| `Phụ lục <n>` | 265 |
-| `Phụ lục` | 292 |
-| `Phụ lục`, còn `doi_tuong` (phần nêu bằng tên) | 150 |
-| `Phụ lục`, không có `doi_tuong` (vị trí gốc đổi thành phụ lục) | 142 |
-| `Phụ lục`, có `chi_tiet_vi_tri` | 101 |
-| `Phụ lục`, có `target_matched_id` | 266 |
-| `Phụ lục`, `doi_tuong_loai = thu_tuc_hanh_chinh` | 79 |
-| `Phụ lục`, `source_path` bắt đầu bằng "Phụ lục" | 77 |
+| Nhóm | `-v4` (28/10/2026) | `fix9-*` (27/10/2026) |
+| --- | --- | --- |
+| Quan hệ `validated` | 70.954 | 9.760 |
+| Vị trí là phụ lục | 14.911 (21,0%) | 557 (5,7%) |
+| `Phụ lục <n>` | 3.921 | 265 |
+| `Phụ lục` | 10.990 (15,5%) | 292 (3,0%) |
+| `Phụ lục`, còn `doi_tuong` (phần nêu bằng tên) | 7.904 | 150 |
+| `Phụ lục`, không có `doi_tuong` (vị trí gốc đổi thành phụ lục) | 3.086 | 142 |
+| `Phụ lục`, có `chi_tiet_vi_tri` | 2.413 | 101 |
+| `Phụ lục`, có `target_matched_id` | 9.188 | 266 |
+| `Phụ lục`, `doi_tuong_loai = thu_tuc_hanh_chinh` | 6.808 | 79 |
+| `Phụ lục`, `source_path` bắt đầu bằng "Phụ lục" | 4.151 | 77 |
+
+- Ở `-v4`, nhóm `Phụ lục` có ở 3.550 văn bản nguồn. Văn bản 658621 có 423 cạnh loại này.
+- Phần lớn cạnh `Phụ lục` ở `-v4` là cạnh lên thủ tục hành chính (6.808/10.990). Ở lượt `fix9-*`, cạnh thủ tục chỉ chiếm 79/292.
 
 Bản ghi thật:
 
 | Bản ghi | Câu trích (`evidence`) | `doi_tuong` hoặc `chi_tiet_vi_tri` | Vì sao không có ký hiệu |
 | --- | --- | --- | --- |
-| `685249_0` (lượt `fix9-H56`): `bai-bo` tới `1548/QĐ-UBND` | "Bãi bỏ 03 thủ tục hành chính cấp tỉnh thuộc lĩnh vực hoạt động khoa học và công nghệ tại Quyết định số 1548/QĐ-UBND …" | `doi_tuong` "03 thủ tục hành chính cấp tỉnh thuộc lĩnh vực hoạt động khoa học và công nghệ" | Câu nêu thủ tục, không nêu phụ lục. |
-| `intro_687577_0` (lượt `fix9-H56`): `sua-doi` tới `223/NQ-HĐND` | "… ĐIỀU CHỈNH NỘI DUNG TẠI PHỤ LỤC BAN HÀNH KÈM THEO NGHỊ QUYẾT SỐ 223/NQ-HĐND …" | — | Tên văn bản nêu "phụ lục" không ký hiệu. |
-| `685398_10` (lượt `fix9-ho`): `thay-the` tới `733/QĐ-UBND` | "… Quy trình có số thứ tự 1, 2 … tại Mục I Phần D Phụ lục kèm theo Quyết định số 733/QĐ-UBND …" | `chi_tiet_vi_tri` "Phụ lục Mục I Phần D số thứ tự 1, 2; số thứ tự 1, 2" | Câu nêu "Phụ lục kèm theo" không ký hiệu. |
-| `681557_174` (lượt `fix9-ho`): `thay-the` tới `34/2014/NĐ-CP` | "Thay thế Phụ lục danh sách xã, phường, thị trấn khu vực biên giới đất liền ban hành kèm theo Nghị định số 34/2014/NĐ-CP bằng Phụ lục I …" | `chi_tiet_vi_tri` "Phụ lục danh sách xã, phường, thị trấn khu vực biên giới đất liền" | Phụ lục của văn bản đích không có ký hiệu. "Phụ lục I" là phụ lục của văn bản nguồn. |
-| `legal-changed-v4/697544_2`: `bo-sung` tới `17/2026/TT-BNNMT` | "Mẫu số 01 (Phụ lục ban hành kèm theo Thông tư số 17/2026/TT-BNNMT)" | — | Câu nêu "Phụ lục" không ký hiệu. Bản ghi có trong `-v4` hiện có. |
+| `legal-changed-v4/685249_0`: `bai-bo` tới `1548/QĐ-UBND` | "Bãi bỏ 03 thủ tục hành chính cấp tỉnh thuộc lĩnh vực hoạt động khoa học và công nghệ tại Quyết định số 1548/QĐ-UBND …" | `doi_tuong` "03 thủ tục hành chính cấp tỉnh thuộc lĩnh vực hoạt động khoa học và công nghệ" | Câu nêu thủ tục, không nêu phụ lục. |
+| `legal-changed-v4/685398_9`: `thay-the` tới `733/QĐ-UBND` | "Thay thế các quy trình nội bộ giải quyết thủ tục hành chính tại Quyết định số 733/QĐ-UBND ngày 23/4/2025;" | `chi_tiet_vi_tri` "Phụ lục Mục I Phần D số thứ tự 1, 2; số thứ tự 1, 2" | Chữ gốc nêu "Phụ lục Mục I Phần D", không có ký hiệu phụ lục. |
+| `legal-changed-v4/681557_130`: `thay-the` tới `34/2014/NĐ-CP` | "Thay thế Phụ lục danh sách xã, phường, thị trấn khu vực biên giới đất liền ban hành kèm theo Nghị định số 34/2014/NĐ-CP bằng Phụ lục I …" | `chi_tiet_vi_tri` "Phụ lục danh sách xã, phường, thị trấn khu vực biên giới đất liền" | Phụ lục của văn bản đích không có ký hiệu. "Phụ lục I" là phụ lục của văn bản nguồn. |
+| `legal-changed-v4/697544_2`: `bo-sung` tới `17/2026/TT-BNNMT` | "Mẫu số 01 (Phụ lục ban hành kèm theo Thông tư số 17/2026/TT-BNNMT)" | — | Câu nêu "Phụ lục" không ký hiệu. |
+
+- Bản ghi trên kiểm ngày 28/10/2026. Ngày 27/10/2026, `685398_9` và `681557_130` có `_id` `685398_10` và `681557_174` (lượt `fix9-ho`).
+- Bản 27/10/2026 của bảng có `intro_687577_0` (tên văn bản nêu "phụ lục" không ký hiệu). Code `1117e63` không ghi quan hệ từ tên văn bản (R6), nên bản ghi này không còn.
 
 - Code không đọc ký hiệu từ câu trích. Câu trích có thể nêu ký hiệu phụ lục của văn bản nguồn (`681557_174`).
-- Đo 27/10/2026 (cùng 2 lượt): 18/142 quan hệ không có `doi_tuong` có câu trích nêu đúng một ký hiệu phụ lục.
+- Đo 27/10/2026 trên lượt `fix9-*`: 18/142 quan hệ không có `doi_tuong` có câu trích nêu đúng một ký hiệu phụ lục. Trên `-v4`: chưa đo.
 - Nếu bên Graph nối cạnh này như cạnh lên cả văn bản, đồ thị nói rộng hơn văn bản. `685249_0` bãi bỏ 3 thủ tục, không bãi bỏ Quyết định 1548/QĐ-UBND.
 
 ### Đề xuất
@@ -225,5 +241,5 @@ Trong lúc chờ trả lời, dữ liệu giữ `vi_tri = ["Phụ lục"]`. Bên
 
 1. Bên Graph chọn phương án nào: A, B, C hay D?
 2. Với B: bên Graph đếm phụ lục của văn bản đích từ `legal-docs-v4.phu_luc`, hay từ index khác? Văn bản đích không có trong index thì bên Graph dùng A không?
-3. 150/292 cạnh `Phụ lục` còn `doi_tuong`. Bên Graph có dùng `doi_tuong` như giới hạn trong node, giống `chi_tiet_vi_tri` ở mục 11.2 không?
-4. Từ code `8b023ca`, bên dữ liệu ghi chữ vị trí gốc ở `chi_tiet_vi_tri` (101/292 cạnh `Phụ lục`). Bên Graph có dùng trường này cho cạnh vào phụ lục không?
+3. 7.904/10.990 cạnh `Phụ lục` của `-v4` còn `doi_tuong` (28/10/2026). Bên Graph có dùng `doi_tuong` như giới hạn trong node, giống `chi_tiet_vi_tri` ở mục 11.2 không?
+4. Từ code `8b023ca`, bên dữ liệu ghi chữ vị trí gốc ở `chi_tiet_vi_tri` (2.413/10.990 cạnh `Phụ lục` của `-v4`, 28/10/2026). Bên Graph có dùng trường này cho cạnh vào phụ lục không?
