@@ -1,0 +1,27 @@
+[
+ {
+  "doc_id": "649078",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "1111/QĐ-BTC",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực thi hành kể từ ngày 15/3/2025, thay thế Quyết định số 1111/QĐ-BTC ngày 15/5/2024 của Bộ trưởng Bộ Tài chính về việc ban hành Quy chế làm việc của Bộ Tài chính"
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "1298/QĐ-BKHĐT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 1298/QĐ-BKHĐT ngày 20/9/2017 của Bộ trưởng Bộ Kế hoạch và Đầu tư về việc ban hành Quy chế làm việc của Bộ Kế hoạch và Đầu tư."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 2 thay thế 2 quyết định. Quy chế kèm theo không tác động văn bản khác (chỉ nêu thẩm quyền đề nghị đình chỉ, bãi bỏ; kiến nghị sửa đổi)."
+ }
+]

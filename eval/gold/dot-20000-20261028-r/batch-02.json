@@ -1,0 +1,29 @@
+[
+ {
+  "doc_id": "648616",
+  "relations": [
+   {
+    "source_path": "Điều 37",
+    "action": "bai-bo",
+    "target_document": "08/2023/TT-BTP",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thông tư số 08/2023/TT-BTP ngày 02 tháng 10 năm 2023 của Bộ trưởng Bộ Tư pháp hướng dẫn tập sự hành nghề công chứng hết hiệu lực kể từ ngày Thông tư này có hiệu lực thi hành, trừ quy định tại khoản 9 Điều 38 của Thông tư này."
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 38 Khoản 10",
+    "loai": "gop_sai",
+    "ghi_chu": "noi_dung gộp chữ ký và toàn bộ các mẫu biểu kèm theo (Mẫu TP-TSCC-01a …) vào khoản 10."
+   },
+   {
+    "source_path": "Văn bản kèm theo 1 Điều 1",
+    "loai": "nhan_sai_dieu",
+    "ghi_chu": "'Điều 1' của mẫu quyết định (Mẫu TP-TSCC-02) bị nhận thành Điều của văn bản kèm theo; mẫu biểu không phải văn bản kèm theo chia Điều."
+   }
+  ],
+  "ghi_chu": "Thông tư mới thay TT 08/2023/TT-BTP (tuyên bố hết hiệu lực ở Điều 37). Điều 38 khoản 9 cho dùng tiếp Sổ theo dõi tập sự kèm TT 08/2023 đến 31/12/2025: là ngoại lệ chuyển tiếp của Điều 37, không ghi quan hệ riêng. Các nhắc TT 04/2015/TT-BTP ở Điều 38 chỉ là chuyển tiếp."
+ }
+]

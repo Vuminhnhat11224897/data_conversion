@@ -1,0 +1,27 @@
+[
+ {
+  "doc_id": "655856",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "quy-dinh-chi-tiet",
+    "target_document": "Luật Công nghiệp quốc phòng, an ninh và động viên công nghiệp",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "QUY ĐỊNH CHI TIẾT MỘT SỐ ĐIỀU CỦA LUẬT CÔNG NGHIỆP QUỐC PHÒNG, AN NINH VÀ ĐỘNG VIÊN CÔNG NGHIỆP"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "quy-dinh-chi-tiet",
+    "target_document": "Luật Công nghiệp quốc phòng, an ninh và động viên công nghiệp",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị định này quy định chi tiết một số điều của Luật Công nghiệp quốc phòng, an ninh và động viên công nghiệp về:"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Văn bản không nêu số hiệu của Luật nên ghi theo tên. Điều 1 không nêu số Điều của Luật được quy định chi tiết. Các chữ \"sửa đổi, bổ sung\" ở Điều 13, 19, 22 là thủ tục, giấy phép, không phải tác động lên văn bản."
+ }
+]

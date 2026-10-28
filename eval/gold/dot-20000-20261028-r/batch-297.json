@@ -1,0 +1,807 @@
+[
+ {
+  "doc_id": "652447",
+  "relations": [
+   {
+    "source_path": "Điều 2 Khoản 1",
+    "action": "thay-the",
+    "target_document": "202/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị quyết này thay thế Nghị quyết số 202/NQ-HĐND ngày 13 tháng 12 năm 2024 của Hội đồng nhân dân tỉnh về kế hoạch tổ chức các kỳ họp thường lệ của Hội đồng nhân dân năm 2025."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Các mục 'sửa đổi, bổ sung NQ ...' trong Kế hoạch là dự kiến nội dung kỳ họp, không phải tác động."
+ },
+ {
+  "doc_id": "652579",
+  "relations": [
+   {
+    "source_path": "Điều 1",
+    "action": "bo-sung",
+    "target_document": "2680/QĐ-BGDĐT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "địa điểm tổ chức thi của hoạt động liên kết tổ chức thi tiếng Anh Cambridge",
+    "evidence": "Bổ sung địa điểm tổ chức thi: Tòa nhà A32, Số 01, Đường Phù Đổng Thiên Vương, Phường 8, thành phố Đà Lạt, tỉnh Lâm Đồng"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 1 cho phép điều chỉnh hoạt động liên kết đã cho phép tại QĐ 2680/QĐ-BGDĐT: bổ sung địa điểm thi. Tên văn bản không nêu số hiệu nên không có quan hệ Phần đầu."
+ },
+ {
+  "doc_id": "654563",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "4970/QĐ-BGDĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Danh mục mã định danh điện tử các cơ quan, đơn vị thuộc và trực thuộc Bộ Giáo dục và Đào tạo",
+    "evidence": "SỬA ĐỔI, BỔ SUNG DANH MỤC MÃ ĐỊNH DANH ĐIỆN TỬ CÁC CƠ QUAN, ĐƠN VỊ THUỘC VÀ TRỰC THUỘC BỘ GIÁO DỤC VÀ ĐÀO TẠO PHỤC VỤ KẾT NỐI, CHIA SẺ DỮ LIỆU VỚI CÁC BỘ, NGÀNH, ĐỊA PHƯƠNG BAN HÀNH KÈM THEO QUYẾT ĐỊNH SỐ 4970/QĐ- BGDĐT NGÀY 30/12/2021 (LẦN 1)"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "4970/QĐ-BGDĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Danh mục mã định danh điện tử các cơ quan, đơn vị thuộc và trực thuộc Bộ Giáo dục và Đào tạo",
+    "evidence": "SỬA ĐỔI, BỔ SUNG DANH MỤC MÃ ĐỊNH DANH ĐIỆN TỬ CÁC CƠ QUAN, ĐƠN VỊ THUỘC VÀ TRỰC THUỘC BỘ GIÁO DỤC VÀ ĐÀO TẠO PHỤC VỤ KẾT NỐI, CHIA SẺ DỮ LIỆU VỚI CÁC BỘ, NGÀNH, ĐỊA PHƯƠNG BAN HÀNH KÈM THEO QUYẾT ĐỊNH SỐ 4970/QĐ- BGDĐT NGÀY 30/12/2021 (LẦN 1)"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "sua-doi",
+    "target_document": "4970/QĐ-BGDĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Danh mục mã định danh điện tử các cơ quan, đơn vị thuộc và trực thuộc Bộ Giáo dục và Đào tạo",
+    "evidence": "Sửa đổi, bổ sung Danh mục mã định danh điện tử các cơ quan, đơn vị thuộc và trực thuộc Bộ Giáo dục và Đào tạo phục vụ kết nối, chia sẻ dữ liệu với các hệ thống thông tin, cơ sở dữ liệu của các bộ, ngành, địa phương ban hành kèm theo Quyết định số 4970/QĐ-BGDĐT ngày 30/12/2021 (lần 1) (Phụ lục kèm theo)."
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bo-sung",
+    "target_document": "4970/QĐ-BGDĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Danh mục mã định danh điện tử các cơ quan, đơn vị thuộc và trực thuộc Bộ Giáo dục và Đào tạo",
+    "evidence": "Sửa đổi, bổ sung Danh mục mã định danh điện tử các cơ quan, đơn vị thuộc và trực thuộc Bộ Giáo dục và Đào tạo phục vụ kết nối, chia sẻ dữ liệu với các hệ thống thông tin, cơ sở dữ liệu của các bộ, ngành, địa phương ban hành kèm theo Quyết định số 4970/QĐ-BGDĐT ngày 30/12/2021 (lần 1) (Phụ lục kèm theo)."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 2 giao Cục KH,CN&TT thực hiện vai trò của Cục CNTT trong QĐ 4970 – không viết thành thay cụm từ, không ghi."
+ },
+ {
+  "doc_id": "655046",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "31/2020/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA NGHỊ QUYẾT SỐ 31/2020/NQ-HĐND NGÀY 10 THÁNG 12 NĂM 2020"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "31/2020/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA NGHỊ QUYẾT SỐ 31/2020/NQ-HĐND NGÀY 10 THÁNG 12 NĂM 2020"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "31/2020/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 Điều 1, như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "31/2020/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 Điều 1, như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "31/2020/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 2, như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "31/2020/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 2, như sau:"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": ""
+ },
+ {
+  "doc_id": "655361",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "19/2024/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG KHOẢN 2 ĐIỀU 1 QUYẾT ĐỊNH SỐ 19/2024/QĐ-UBND NGÀY 19 THÁNG 6 NĂM 2024"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "19/2024/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG KHOẢN 2 ĐIỀU 1 QUYẾT ĐỊNH SỐ 19/2024/QĐ-UBND NGÀY 19 THÁNG 6 NĂM 2024"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "sua-doi",
+    "target_document": "19/2024/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 Điều 1 Quyết định số 19/2024/QĐ-UBND ngày 19 tháng 6 năm 2024"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bo-sung",
+    "target_document": "19/2024/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 Điều 1 Quyết định số 19/2024/QĐ-UBND ngày 19 tháng 6 năm 2024"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": ""
+ },
+ {
+  "doc_id": "655399",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "47/2022/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Phụ lục 1"
+    ],
+    "doi_tuong": "vị trí đổ chất nạo vét trên đất liền",
+    "evidence": "BỔ SUNG VỊ TRÍ ĐỔ CHẤT NẠO VÉT TRÊN ĐẤT LIỀN VÀO PHỤ LỤC 1 QUYẾT ĐỊNH SỐ 47/2022/QĐ-UBND NGÀY 27/9/2022"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bo-sung",
+    "target_document": "47/2022/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Mục 7 Phụ lục 1"
+    ],
+    "doi_tuong": "01 vị trí nạo vét trên đất liền",
+    "evidence": "Bổ sung 01 vị trí nạo vét trên đất liền vào mục 7 Phụ lục 1 Quyết định số 47/2022/QĐ-UBND ngày 27/9/2022"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn 19619/UBND-CN chỉ là căn cứ chấp thuận vị trí."
+ },
+ {
+  "doc_id": "655409",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "24/2021/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA NGHỊ QUYẾT SỐ 24/2021/NQ-HĐND NGÀY 10 THÁNG 8 NĂM 2021"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "24/2021/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA NGHỊ QUYẾT SỐ 24/2021/NQ-HĐND NGÀY 10 THÁNG 8 NĂM 2021"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "24/2021/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 Điều 1 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "24/2021/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 Điều 1 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "24/2021/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 2 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "24/2021/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 2 như sau:"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": ""
+ },
+ {
+  "doc_id": "655443",
+  "relations": [
+   {
+    "source_path": "Điều 1",
+    "action": "bo-sung",
+    "target_document": "3136/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục II"
+    ],
+    "doi_tuong": "ngân hàng (cơ sở dữ liệu) tên đường và công trình công cộng – danh từ có ý nghĩa tiêu biểu “Bình Thuận”",
+    "evidence": "Bổ sung danh từ có ý nghĩa tiêu biểu “Bình Thuận” vào ngân hàng (cơ sở dữ liệu) tên đường và công trình công cộng trên địa bàn tỉnh (phụ lục đính kèm)."
+   },
+   {
+    "source_path": "Phụ lục 1",
+    "action": "bo-sung",
+    "target_document": "3136/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục II"
+    ],
+    "doi_tuong": "danh từ có ý nghĩa tiêu biểu thuộc ngân hàng (cơ sở dữ liệu) tên đường",
+    "evidence": "BỔ SUNG VÀO MỤC II. DANH TỪ CÓ Ý NGHĨA TIÊU BIỂU THUỘC NGÂN HÀNG (CƠ SỞ DỮ LIỆU) TÊN ĐƯỜNG TRÊN ĐỊA BÀN TỈNH BAN HÀNH KÈM THEO QUYẾT ĐỊNH SỐ 3136/QĐ-UBND NGÀY 13/11/2018"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 1 bổ sung vào ngân hàng tên đường; phụ lục nêu đích là Mục II ngân hàng tên đường kèm theo QĐ 3136/QĐ-UBND. Tên văn bản không nêu số hiệu."
+ },
+ {
+  "doc_id": "655455",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "652/QĐ-TTg",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "kế hoạch đầu tư công trung hạn vốn ngân sách trung ương giai đoạn 2021-2025 thực hiện Chương trình mục tiêu quốc gia xây dựng nông thôn mới",
+    "evidence": "VỀ VIỆC ĐIỀU CHỈNH KẾ HOẠCH ĐẦU TƯ CÔNG TRUNG HẠN VỐN NGÂN SÁCH TRUNG ƯƠNG GIAI ĐOẠN 2021 - 2025 THỰC HIỆN CHƯƠNG TRÌNH MỤC TIÊU QUỐC GIA XÂY DỰNG NÔNG THÔN MỚI GIAI ĐOẠN 2021-2025 CỦA CÁC ĐỊA PHƯƠNG TẠI CÁC QUYẾT ĐỊNH SỐ 652/QĐ-TTG NGÀY 28 THÁNG 5 NĂM 2022"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "147/QĐ-TTg",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "kế hoạch đầu tư công trung hạn vốn ngân sách trung ương giai đoạn 2021-2025 thực hiện Chương trình mục tiêu quốc gia xây dựng nông thôn mới",
+    "evidence": "SỐ 147/QĐ-TTG NGÀY 23 THÁNG 02 NĂM 2023 CỦA THỦ TƯỚNG CHÍNH PHỦ"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "652/QĐ-TTg",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "kế hoạch vốn trong nước của các địa phương",
+    "evidence": "Điều chỉnh giảm 43,66 tỷ đồng vốn trong nước của 06 địa phương"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "147/QĐ-TTg",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "kế hoạch vốn trong nước của các địa phương",
+    "evidence": "Điều chỉnh giảm 43,66 tỷ đồng vốn trong nước của 06 địa phương"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "652/QĐ-TTg",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "kế hoạch vốn nước ngoài của tỉnh Bình Thuận",
+    "evidence": "Điều chỉnh giảm 10,691 tỷ đồng vốn nước ngoài của tỉnh Bình Thuận tại Phụ lục kèm theo."
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "147/QĐ-TTg",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "kế hoạch vốn nước ngoài của tỉnh Bình Thuận",
+    "evidence": "Điều chỉnh giảm 10,691 tỷ đồng vốn nước ngoài của tỉnh Bình Thuận tại Phụ lục kèm theo."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 1 không nêu số hiệu; đích lấy từ tên văn bản (QĐ 652/QĐ-TTg, 147/QĐ-TTg đã giao kế hoạch). Không rõ phần nào thuộc QĐ nào nên ghi cả hai."
+ },
+ {
+  "doc_id": "655466",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "2434/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Kế hoạch thực hiện Chương trình mục tiêu quốc gia phát triển kinh tế - xã hội vùng đồng bào dân tộc thiểu số và miền núi",
+    "evidence": "VỀ VIỆC SỬA ĐỔI, BỔ SUNG MỘT SỐ NỘI DUNG CỦA KẾ HOẠCH THỰC HIỆN CHƯƠNG TRÌNH MỤC TIÊU QUỐC GIA PHÁT TRIỂN KINH TẾ - XÃ HỘI VÙNG ĐỒNG BÀO DÂN TỘC THIỂU SỐ VÀ MIỀN NÚI TỈNH BÌNH ĐỊNH, GIAI ĐOẠN 2021 - 2030, GIAI ĐOẠN I: TỪ NĂM 2021 ĐẾN NĂM 2025 BAN HÀNH KÈM THEO QUYẾT ĐỊNH SỐ 2434/QĐ-UBND"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "2434/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Kế hoạch thực hiện Chương trình mục tiêu quốc gia phát triển kinh tế - xã hội vùng đồng bào dân tộc thiểu số và miền núi",
+    "evidence": "VỀ VIỆC SỬA ĐỔI, BỔ SUNG MỘT SỐ NỘI DUNG CỦA KẾ HOẠCH THỰC HIỆN CHƯƠNG TRÌNH MỤC TIÊU QUỐC GIA PHÁT TRIỂN KINH TẾ - XÃ HỘI VÙNG ĐỒNG BÀO DÂN TỘC THIỂU SỐ VÀ MIỀN NÚI TỈNH BÌNH ĐỊNH, GIAI ĐOẠN 2021 - 2030, GIAI ĐOẠN I: TỪ NĂM 2021 ĐẾN NĂM 2025 BAN HÀNH KÈM THEO QUYẾT ĐỊNH SỐ 2434/QĐ-UBND"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "sua-doi",
+    "target_document": "2434/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục III",
+     "Mục V",
+     "Mục VI",
+     "Mục VII"
+    ],
+    "doi_tuong": "Kế hoạch thực hiện Chương trình mục tiêu quốc gia phát triển kinh tế - xã hội vùng đồng bào dân tộc thiểu số và miền núi",
+    "evidence": "Sửa đổi, bổ sung một số nội dung của Kế hoạch thực hiện Chương trình mục tiêu quốc gia phát triển kinh tế - xã hội vùng đồng bào dân tộc thiểu số và miền núi tỉnh Bình Định, giai đoạn 2021 - 2030, giai đoạn I: từ năm 2021 đến năm 2025 ban hành kèm theo Quyết định số 2434/QĐ-UBND"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bo-sung",
+    "target_document": "2434/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục III",
+     "Mục V",
+     "Mục VI",
+     "Mục VII"
+    ],
+    "doi_tuong": "Kế hoạch thực hiện Chương trình mục tiêu quốc gia phát triển kinh tế - xã hội vùng đồng bào dân tộc thiểu số và miền núi",
+    "evidence": "Sửa đổi, bổ sung một số nội dung của Kế hoạch thực hiện Chương trình mục tiêu quốc gia phát triển kinh tế - xã hội vùng đồng bào dân tộc thiểu số và miền núi tỉnh Bình Định, giai đoạn 2021 - 2030, giai đoạn I: từ năm 2021 đến năm 2025 ban hành kèm theo Quyết định số 2434/QĐ-UBND"
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "sua-doi",
+    "target_document": "2434/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Kế hoạch thực hiện Chương trình mục tiêu quốc gia phát triển kinh tế - xã hội vùng đồng bào dân tộc thiểu số và miền núi",
+    "evidence": "Quyết định này có hiệu lực kể từ ngày ký và sửa đổi, bổ sung một số nội dung của Kế hoạch thực hiện Chương trình mục tiêu quốc gia phát triển kinh tế - xã hội vùng đồng bào dân tộc thiểu số và miền núi tỉnh Bình Định"
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bo-sung",
+    "target_document": "2434/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Kế hoạch thực hiện Chương trình mục tiêu quốc gia phát triển kinh tế - xã hội vùng đồng bào dân tộc thiểu số và miền núi",
+    "evidence": "Quyết định này có hiệu lực kể từ ngày ký và sửa đổi, bổ sung một số nội dung của Kế hoạch thực hiện Chương trình mục tiêu quốc gia phát triển kinh tế - xã hội vùng đồng bào dân tộc thiểu số và miền núi tỉnh Bình Định"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 1 thay nội dung mục III, V (mục 4), VI, VII của Kế hoạch (vị trí suy từ đề mục trong ngoặc kép). Điều 2 nhắc lại tác động."
+ },
+ {
+  "doc_id": "655855",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "bo-sung",
+    "target_document": "1186/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "danh mục các dự án đầu tư xây dựng nhà ở, khu đô thị (Đợt 5)",
+    "evidence": "Nội dung phê duyệt tại Điều 1 Quyết định này bổ sung tương ứng vào các Quyết định số 1186/QĐ-UBND ngày 23 tháng 02 năm 2023"
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bo-sung",
+    "target_document": "5063/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "danh mục các dự án đầu tư xây dựng nhà ở, khu đô thị (Đợt 5)",
+    "evidence": "số 5063/QĐ-UBND ngày 19 tháng 12 năm 2022 của UBND Thành phố"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Các QĐ 3627, 4962, 4279, 6017, 4321, 225 chỉ nêu ở phần 'Tiếp theo các Quyết định'."
+ },
+ {
+  "doc_id": "656092",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "29/2025/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Bảng giá đất",
+    "evidence": "SỬA ĐỔI, BỔ SUNG BẢNG GIÁ ĐẤT BAN HÀNH KÈM THEO QUYẾT ĐỊNH SỐ 29/2025/QĐ-UBND NGÀY 27 THÁNG 3 NĂM 2025"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "29/2025/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Bảng giá đất",
+    "evidence": "SỬA ĐỔI, BỔ SUNG BẢNG GIÁ ĐẤT BAN HÀNH KÈM THEO QUYẾT ĐỊNH SỐ 29/2025/QĐ-UBND NGÀY 27 THÁNG 3 NĂM 2025"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "29/2025/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm 3 Mục I Bảng giá số 6"
+    ],
+    "doi_tuong": "cụm từ “thị xã Hoài Nhơn”",
+    "evidence": "Bổ sung cụm từ: “thị xã Hoài Nhơn” vào sau cụm từ: “...Đối với đất lâm nghiệp thuộc phạm vi địa giới hành chính các phường thuộc thị xã An Nhơn,” tại điểm 3 mục I Bảng giá số 6."
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "thay-cum-tu",
+    "target_document": "29/2025/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục III Phụ lục số 5 Bảng giá số 8"
+    ],
+    "doi_tuong": "số thứ tự 2 mục III Phụ lục số 5 Bảng giá số 8",
+    "evidence": "Thay thế cụm từ: “Đoạn từ Cầu Quảng Trác đến giáp đường vào kho đạn CK52” thành cụm từ: “Đoạn từ giáp ranh xã Phước An - Phước Thành đến giáp đường vào kho đạn CK52”"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "thay-cum-tu",
+    "target_document": "29/2025/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục III Phụ lục số 5 Bảng giá số 8"
+    ],
+    "doi_tuong": "số thứ tự 3 mục III Phụ lục số 5 Bảng giá số 8",
+    "evidence": "Thay thế cụm từ: “Đoạn từ Cầu Quảng Trác đến giáp đường vào kho đạn CK52” thành cụm từ: “Đoạn từ Cầu Quảng Trác đến giáp ranh xã Phước An - Phước Thành”"
+   },
+   {
+    "source_path": "Điều 1 Khoản 4",
+    "action": "bo-sung",
+    "target_document": "29/2025/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục V Bảng giá số 9"
+    ],
+    "doi_tuong": "giá đất ở tại số thứ tự 6 mục V Bảng giá số 9",
+    "evidence": "Bổ sung giá đất ở là 8.700.000 đ/m2 đối với tuyến đường Lộ giới 18m (Từ N14 đến N25) và ĐS 12, lộ giới 16m thuộc Khu dân cư đường Tôn Thất Tùng nối dài về phía Đông, phường Nhơn Hưng tại số thứ tự số 6 mục V Bảng giá số 9."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "QĐ 65/2019/QĐ-UBND chỉ nêu trong tên QĐ 29/2025, không phải đích."
+ },
+ {
+  "doc_id": "656143",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "01/2025/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Bảng giá đất",
+    "evidence": "SỬA ĐỔI, BỔ SUNG BẢNG GIÁ ĐẤT BAN HÀNH KÈM THEO NGHỊ QUYẾT SỐ 01/2025/NQ-HĐND NGÀY 21 THÁNG 3 NĂM 2025"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "01/2025/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Bảng giá đất",
+    "evidence": "SỬA ĐỔI, BỔ SUNG BẢNG GIÁ ĐẤT BAN HÀNH KÈM THEO NGHỊ QUYẾT SỐ 01/2025/NQ-HĐND NGÀY 21 THÁNG 3 NĂM 2025"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "01/2025/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm 3 Mục I Bảng giá số 6"
+    ],
+    "doi_tuong": "cụm từ “thị xã Hoài Nhơn”",
+    "evidence": "Bổ sung cụm từ “thị xã Hoài Nhơn” vào sau cụm từ “Đối với đất lâm nghiệp thuộc phạm vi địa giới hành chính các phường thuộc thị xã An Nhơn,” tại điểm 3 mục I Bảng giá số 6"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "thay-cum-tu",
+    "target_document": "01/2025/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục III Phụ lục số 5 Bảng giá số 8"
+    ],
+    "doi_tuong": "số thứ tự 2 mục III Phụ lục số 5 Bảng giá số 8",
+    "evidence": "Thay thế cụm từ “Quốc lộ 19C (Tỉnh lộ 638 cũ) thuộc xã Phước Thành: Đoạn từ Cầu Quảng Trác đến giáp đường vào kho đạn CK52 có giá đất ở là 7.000.000đ/m2”"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "thay-cum-tu",
+    "target_document": "01/2025/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục III Phụ lục số 5 Bảng giá số 8"
+    ],
+    "doi_tuong": "số thứ tự 3 mục III Phụ lục số 5 Bảng giá số 8",
+    "evidence": "Thay thế cụm từ “Quốc lộ 19C (Tỉnh lộ 638 cũ) thuộc xã Phước An: Đoạn từ Cầu Quảng Trác đến giáp đường vào kho đạn CK52 có giá đất ở là 8.500.000đ/m2.”"
+   },
+   {
+    "source_path": "Điều 1 Khoản 4",
+    "action": "bo-sung",
+    "target_document": "01/2025/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục V Bảng giá số 9"
+    ],
+    "doi_tuong": "giá đất ở tại số thứ tự 6 mục V Bảng giá số 9",
+    "evidence": "Bổ sung giá đất ở đối với tuyến đường Hoàng Hoa Thám, lộ giới 18m (Từ N14 đến N25) và ĐS12, lộ giới 16m thuộc Khu dân cư đường Tôn Thất Tùng nối dài về phía Đông, phường Nhơn Hưng là 8.700.000đ/m2 tại số thứ tự số 6 mục V Bảng giá số 9."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "NQ 47/2019/NQ-HĐND chỉ nêu trong tên NQ 01/2025, không phải đích."
+ },
+ {
+  "doc_id": "656248",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "249/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "tiêu chuẩn, định mức sử dụng thiết bị chuyên dùng của các đơn vị sự nghiệp y tế",
+    "evidence": "VỀ VIỆC ĐIỀU CHỈNH, BỔ SUNG MỘT SỐ NỘI DUNG CỦA QUYẾT ĐỊNH SỐ 249/QĐ-UBND NGÀY 28/6/2023"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "249/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "tiêu chuẩn, định mức sử dụng thiết bị chuyên dùng của các đơn vị sự nghiệp y tế",
+    "evidence": "VỀ VIỆC ĐIỀU CHỈNH, BỔ SUNG MỘT SỐ NỘI DUNG CỦA QUYẾT ĐỊNH SỐ 249/QĐ-UBND NGÀY 28/6/2023"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "sua-doi",
+    "target_document": "249/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "tiêu chuẩn, định mức sử dụng máy móc, thiết bị chuyên dùng của các đơn vị sự nghiệp y tế",
+    "evidence": "Phê duyệt điều chỉnh, bổ sung một số tiêu chuẩn, định mức sử dụng máy móc, thiết bị chuyên dùng của các đơn vị sự nghiệp y tế (có Danh mục chi tiết kèm theo)."
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bo-sung",
+    "target_document": "249/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "tiêu chuẩn, định mức sử dụng máy móc, thiết bị chuyên dùng của các đơn vị sự nghiệp y tế",
+    "evidence": "Phê duyệt điều chỉnh, bổ sung một số tiêu chuẩn, định mức sử dụng máy móc, thiết bị chuyên dùng của các đơn vị sự nghiệp y tế (có Danh mục chi tiết kèm theo)."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 1 không nêu số hiệu; đích lấy từ tên văn bản. QĐ 664/QĐ-UBND, 224/QĐ-UBND ở Điều 2 chỉ là 'tiếp tục thực hiện'."
+ },
+ {
+  "doc_id": "656252",
+  "relations": [
+   {
+    "source_path": "Điều 1",
+    "action": "sua-doi",
+    "target_document": "93/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm c khoản 2 Điều 1"
+    ],
+    "doi_tuong": "chỉ tiêu tuyển sinh vào lớp 10 năm học 2025-2026",
+    "evidence": "Điều chỉnh, bổ sung 837 chỉ tiêu tuyển sinh vào lớp 10 (trung học phổ thông) năm học 2025-2026 đối với các trường trung học phổ thông, phổ thông dân tộc nội trú trên địa bàn tỉnh theo điểm c khoản 2 Điều 1 Quyết định số 93/QĐ-UBND ngày 24 tháng 02 năm 2025"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bo-sung",
+    "target_document": "93/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm c khoản 2 Điều 1"
+    ],
+    "doi_tuong": "chỉ tiêu tuyển sinh vào lớp 10 năm học 2025-2026",
+    "evidence": "Điều chỉnh, bổ sung 837 chỉ tiêu tuyển sinh vào lớp 10 (trung học phổ thông) năm học 2025-2026 đối với các trường trung học phổ thông, phổ thông dân tộc nội trú trên địa bàn tỉnh theo điểm c khoản 2 Điều 1 Quyết định số 93/QĐ-UBND ngày 24 tháng 02 năm 2025"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên văn bản không nêu số hiệu nên không có quan hệ Phần đầu."
+ },
+ {
+  "doc_id": "656475",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "193/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 1"
+    ],
+    "doi_tuong": "Mục II Phần A và Phần B Điều 1",
+    "evidence": "SỬA ĐỔI MỤC II PHẦN A VÀ PHẦN B ĐIỀU 1 NGHỊ QUYẾT SỐ 193/NQ-HĐND NGÀY 10/12/2024"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "193/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 1"
+    ],
+    "doi_tuong": "điểm 2.1 khoản 2 Mục II Phần A Điều 1",
+    "evidence": "Sửa đổi điểm 2.1 khoản 2 Mục II Phần A như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "193/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 1"
+    ],
+    "doi_tuong": "Phần B Điều 1",
+    "evidence": "Sửa đổi Phần B như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "193/NQ-HĐND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Biểu số 07 (kinh phí đo đạc, đăng ký đất đai: giảm chi thường xuyên, tăng chi đầu tư phát triển khác)",
+    "evidence": "Tại biểu số 07, kinh phí thực hiện công tác đo đạc, đăng ký đất đai, lập cơ sở dữ liệu hồ sơ địa chính và cấp giấy chứng nhận quyền sử dụng đất theo Nghị quyết số 40/2022/NQ-HĐND: Giảm chi thường xuyên 10.900 triệu đồng, tăng chi đầu tư phát triển khác số tiền tương ứng"
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "loai": "gop_sai",
+    "ghi_chu": "Đoạn 'Tại biểu số 07 ...' và 'Các nội dung khác giữ nguyên ...' thuộc Điều 1, bị gộp vào khoản 2"
+   }
+  ],
+  "ghi_chu": "Vị trí Mục II Phần A, Phần B nằm trong Điều 1 NQ 193 nên vi_tri dừng ở Điều 1. NQ 40/2022 chỉ là căn cứ của khoản kinh phí."
+ },
+ {
+  "doc_id": "656871",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "40-HD/VPTW",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Văn phòng Trung ương Đảng sửa đổi, bổ sung một số điểm của Hướng dẫn số 40-HD/VPTW, ngày 07/11/2018 về số hoá tài liệu tại các cơ quan, tổ chức đảng, tổ chức chính trị - xã hội như sau:"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "40-HD/VPTW",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Văn phòng Trung ương Đảng sửa đổi, bổ sung một số điểm của Hướng dẫn số 40-HD/VPTW, ngày 07/11/2018 về số hoá tài liệu tại các cơ quan, tổ chức đảng, tổ chức chính trị - xã hội như sau:"
+   },
+   {
+    "source_path": "Mục 1",
+    "action": "sua-doi",
+    "target_document": "40-HD/VPTW",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Mục 1 Phần I",
+     "Mục 3 Phần I"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi Phần I- Hướng dẫn chung"
+   },
+   {
+    "source_path": "Mục 2",
+    "action": "sua-doi",
+    "target_document": "40-HD/VPTW",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Mục 1 Phần II",
+     "Mục 2 Phần II"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Phần II- Hướng dẫn cụ thể"
+   },
+   {
+    "source_path": "Mục 2",
+    "action": "bo-sung",
+    "target_document": "40-HD/VPTW",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Mục 2 Phần II",
+     "Mục 4 Phần II"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Phần II- Hướng dẫn cụ thể"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Mục 1: sửa điểm b Mục 1, điểm a Mục 3 Phần I. Mục 2: sửa Mục 1, Mục 2 Phần II (2.1-2.5, 2.7); bổ sung điểm d bước 2 (2.6) và Mục 4 (2.8). Văn bản đích là hướng dẫn của Đảng."
+ }
+]

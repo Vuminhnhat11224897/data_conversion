@@ -1,0 +1,66 @@
+[
+ {
+  "doc_id": "665168",
+  "relations": [
+   {
+    "source_path": "Điều 5",
+    "action": "thay-the",
+    "target_document": "26/2025/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực kể từ ngày ký ban hành và thay thế Quyết định số 26/2025/QĐ-UBND ngày 28 tháng 02 năm 2025 của Ủy ban nhân dân tỉnh Quảng Ninh về việc quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Sở Xây dựng tỉnh Quảng Ninh."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Thay thế toàn bộ QĐ 26/2025/QĐ-UBND."
+ },
+ {
+  "doc_id": "665169",
+  "relations": [
+   {
+    "source_path": "Điều 5",
+    "action": "thay-the",
+    "target_document": "15/2025/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực thi hành kể từ ngày ký ban hành và thay thế quyết định số 15/2025/QĐ-UBND ngày 28 tháng 2 năm 2025 của Ủy ban nhân dân tỉnh Quảng Ninh về việc quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Sở Tài chính Quảng Ninh."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Thay thế toàn bộ QĐ 15/2025/QĐ-UBND."
+ },
+ {
+  "doc_id": "665386",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "1546/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực thi hành kể từ ngày ký và thay thế Quyết định số 1546/QĐ-UBND ngày 04 tháng 12 năm 2024 của Chủ tịch Ủy ban nhân dân tỉnh Quảng Ngãi."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Thay thế toàn bộ QĐ 1546/QĐ-UBND. Kế hoạch kèm theo chỉ nêu nhiệm vụ xây dựng văn bản thay thế QĐ 536/QĐ-UBND (nhiệm vụ, không phải quan hệ)."
+ },
+ {
+  "doc_id": "665392",
+  "relations": [
+   {
+    "source_path": "Điều 9 Khoản 3",
+    "action": "bai-bo",
+    "target_document": "127/2022/NĐ-CP",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị định này bãi bỏ Nghị định số 127/2022/NĐ-CP ngày 30 tháng 12 năm 2022 của Chính phủ về Biểu thuế nhập khẩu ưu đãi đặc biệt của Việt Nam để thực hiện Hiệp định Thương mại giữa Chính phủ nước Cộng hòa xã hội chủ nghĩa Việt Nam và Chính phủ nước Cộng hòa dân chủ nhân dân Lào từ ngày 30 tháng 12 năm 2022 đến ngày 04 tháng 10 năm 2023."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Bãi bỏ toàn bộ NĐ 127/2022/NĐ-CP. Điều 5 chỉ dẫn chiếu Biểu thuế kèm NĐ 126/2022/NĐ-CP để áp dụng thuế suất, không phải quan hệ."
+ }
+]

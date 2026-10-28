@@ -1,0 +1,810 @@
+[
+ {
+  "doc_id": "662240",
+  "relations": [
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "quy-dinh-chi-tiet",
+    "target_document": "136/2025/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 64"
+    ],
+    "doi_tuong": null,
+    "evidence": "Quy định về hồ sơ, trình tự, biểu mẫu giải quyết thủ tục hành chính tại khoản 1 Điều 64 Nghị định số 136/2025/NĐ-CP"
+   },
+   {
+    "source_path": "Điều 26 Khoản 1",
+    "action": "thay-cum-tu",
+    "target_document": "21/2015/TT-BNNPTNT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 19"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế từ “huyện” bằng từ “xã” tại Điều 19."
+   },
+   {
+    "source_path": "Điều 26 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "21/2015/TT-BNNPTNT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 61"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung tiêu đề khoản 2 Điều 61 như sau:"
+   },
+   {
+    "source_path": "Điều 26 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "21/2015/TT-BNNPTNT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 61"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung tiêu đề khoản 2 Điều 61 như sau:"
+   },
+   {
+    "source_path": "Điều 26 Khoản 3",
+    "action": "sua-doi",
+    "target_document": "21/2015/TT-BNNPTNT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 62"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 62 như sau:"
+   },
+   {
+    "source_path": "Điều 26 Khoản 3",
+    "action": "bo-sung",
+    "target_document": "21/2015/TT-BNNPTNT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 62"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 62 như sau:"
+   },
+   {
+    "source_path": "Điều 26 Khoản 4",
+    "action": "bai-bo",
+    "target_document": "21/2015/TT-BNNPTNT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm b khoản 2 Điều 80",
+     "khoản 4 Điều 80",
+     "khoản 9 Điều 80"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ điểm b khoản 2, khoản 4 và khoản 9 Điều 80."
+   },
+   {
+    "source_path": "Điều 27 Khoản 1",
+    "action": "bai-bo",
+    "target_document": "05/2016/TTLT-BNNPTNT-BTNMT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 2 Điều 6"
+    ],
+    "doi_tuong": "cụm từ “Ủy ban nhân dân huyện, quận, thị xã, thành phố thuộc tỉnh (sau đây gọi chung là Ủy ban nhân dân cấp huyện)”",
+    "evidence": "Bỏ cụm từ “Ủy ban nhân dân huyện, quận, thị xã, thành phố thuộc tỉnh (sau đây gọi chung là Ủy ban nhân dân cấp huyện)” tại điểm a khoản 2 Điều 6."
+   },
+   {
+    "source_path": "Điều 27 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "05/2016/TTLT-BNNPTNT-BTNMT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 1 Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm a khoản 1 Điều 7 như sau:"
+   },
+   {
+    "source_path": "Điều 27 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "05/2016/TTLT-BNNPTNT-BTNMT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 1 Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm a khoản 1 Điều 7 như sau:"
+   },
+   {
+    "source_path": "Điều 27 Khoản 3",
+    "action": "sua-doi",
+    "target_document": "05/2016/TTLT-BNNPTNT-BTNMT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 3 Điều 7 như sau:"
+   },
+   {
+    "source_path": "Điều 27 Khoản 3",
+    "action": "bo-sung",
+    "target_document": "05/2016/TTLT-BNNPTNT-BTNMT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 3 Điều 7 như sau:"
+   },
+   {
+    "source_path": "Điều 27 Khoản 4",
+    "action": "sua-doi",
+    "target_document": "05/2016/TTLT-BNNPTNT-BTNMT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 8"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 8 như sau:"
+   },
+   {
+    "source_path": "Điều 27 Khoản 4",
+    "action": "bo-sung",
+    "target_document": "05/2016/TTLT-BNNPTNT-BTNMT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 8"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 8 như sau:"
+   },
+   {
+    "source_path": "Điều 27 Khoản 5",
+    "action": "bai-bo",
+    "target_document": "05/2016/TTLT-BNNPTNT-BTNMT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ khoản 2 Điều 7."
+   },
+   {
+    "source_path": "Điều 28",
+    "action": "sua-doi",
+    "target_document": "19/2019/TT-BNNPTNT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 8"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 3 Điều 8 Thông tư số 19/2019/TT-BNNPTNT ngày 15 tháng 11 năm 2019 quy định việc thu gom, xử lý, sử dụng phụ phẩm cây trồng như sau:"
+   },
+   {
+    "source_path": "Điều 28",
+    "action": "bo-sung",
+    "target_document": "19/2019/TT-BNNPTNT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 8"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 3 Điều 8 Thông tư số 19/2019/TT-BNNPTNT ngày 15 tháng 11 năm 2019 quy định việc thu gom, xử lý, sử dụng phụ phẩm cây trồng như sau:"
+   },
+   {
+    "source_path": "Điều 29",
+    "action": "thay-cum-tu",
+    "target_document": "42/2013/TTL-TBNNPTNT-BTC-BKHĐT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Bộ Nông nghiệp và Phát triển nông thôn” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Tài nguyên và Môi trường” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Kế hoạch và Đầu tư” thành “Bộ Tài chính”, “Vụ Khoa học, Công nghệ và Môi trường” thành “Vụ Khoa học và Công nghệ”, “Cục Bảo vệ thực vật” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Trồng trọt” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Thú y” thành “Cục Chăn nuôi và Thú y”, “Cục Chế biến và Phát triển thị trường nông sản” thành “Cục Chất lượng, Chế biến và Phát triển thị trường”, “Cục Lâm nghiệp” thành “Cục Lâm nghiệp và Kiểm lâm”, “Cục Thủy sản” thành “Cục Thủy sản và Kiểm ngư”, “Cục Chăn nuôi” thành “Cục Chăn nuôi và Thú y”, “Tong cục Quản lý đất đai” thành “Cục Quản lý đất đai”, “Tổng cục môi trường” thành “Cục Môi trường”, “Trung tâm tin học và Thống kê” thành “Cục Chuyển đổi số”, “Sở Nông nghiệp và Phát triển nông thôn” thành “Sở Nông nghiệp và Môi trường”, “Sở Tài Nguyên và Môi trường” thành “Sở Nông nghiệp và Môi trường”, “Sở Kế hoạch và Đầu tư” thành “Sở Tài chính” tại các Thông tư trong Phụ lục II ban hành kèm theo Thông tư này."
+   },
+   {
+    "source_path": "Điều 29",
+    "action": "thay-cum-tu",
+    "target_document": "22/2016/TTLT-BNNPTNT-BTNMT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Bộ Nông nghiệp và Phát triển nông thôn” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Tài nguyên và Môi trường” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Kế hoạch và Đầu tư” thành “Bộ Tài chính”, “Vụ Khoa học, Công nghệ và Môi trường” thành “Vụ Khoa học và Công nghệ”, “Cục Bảo vệ thực vật” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Trồng trọt” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Thú y” thành “Cục Chăn nuôi và Thú y”, “Cục Chế biến và Phát triển thị trường nông sản” thành “Cục Chất lượng, Chế biến và Phát triển thị trường”, “Cục Lâm nghiệp” thành “Cục Lâm nghiệp và Kiểm lâm”, “Cục Thủy sản” thành “Cục Thủy sản và Kiểm ngư”, “Cục Chăn nuôi” thành “Cục Chăn nuôi và Thú y”, “Tong cục Quản lý đất đai” thành “Cục Quản lý đất đai”, “Tổng cục môi trường” thành “Cục Môi trường”, “Trung tâm tin học và Thống kê” thành “Cục Chuyển đổi số”, “Sở Nông nghiệp và Phát triển nông thôn” thành “Sở Nông nghiệp và Môi trường”, “Sở Tài Nguyên và Môi trường” thành “Sở Nông nghiệp và Môi trường”, “Sở Kế hoạch và Đầu tư” thành “Sở Tài chính” tại các Thông tư trong Phụ lục II ban hành kèm theo Thông tư này."
+   },
+   {
+    "source_path": "Điều 29",
+    "action": "thay-cum-tu",
+    "target_document": "05/2016/TTLT-BNNPTNT-BTNMT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Bộ Nông nghiệp và Phát triển nông thôn” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Tài nguyên và Môi trường” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Kế hoạch và Đầu tư” thành “Bộ Tài chính”, “Vụ Khoa học, Công nghệ và Môi trường” thành “Vụ Khoa học và Công nghệ”, “Cục Bảo vệ thực vật” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Trồng trọt” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Thú y” thành “Cục Chăn nuôi và Thú y”, “Cục Chế biến và Phát triển thị trường nông sản” thành “Cục Chất lượng, Chế biến và Phát triển thị trường”, “Cục Lâm nghiệp” thành “Cục Lâm nghiệp và Kiểm lâm”, “Cục Thủy sản” thành “Cục Thủy sản và Kiểm ngư”, “Cục Chăn nuôi” thành “Cục Chăn nuôi và Thú y”, “Tong cục Quản lý đất đai” thành “Cục Quản lý đất đai”, “Tổng cục môi trường” thành “Cục Môi trường”, “Trung tâm tin học và Thống kê” thành “Cục Chuyển đổi số”, “Sở Nông nghiệp và Phát triển nông thôn” thành “Sở Nông nghiệp và Môi trường”, “Sở Tài Nguyên và Môi trường” thành “Sở Nông nghiệp và Môi trường”, “Sở Kế hoạch và Đầu tư” thành “Sở Tài chính” tại các Thông tư trong Phụ lục II ban hành kèm theo Thông tư này."
+   },
+   {
+    "source_path": "Điều 29",
+    "action": "thay-cum-tu",
+    "target_document": "21/2009/TT-BNNPTNT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Bộ Nông nghiệp và Phát triển nông thôn” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Tài nguyên và Môi trường” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Kế hoạch và Đầu tư” thành “Bộ Tài chính”, “Vụ Khoa học, Công nghệ và Môi trường” thành “Vụ Khoa học và Công nghệ”, “Cục Bảo vệ thực vật” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Trồng trọt” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Thú y” thành “Cục Chăn nuôi và Thú y”, “Cục Chế biến và Phát triển thị trường nông sản” thành “Cục Chất lượng, Chế biến và Phát triển thị trường”, “Cục Lâm nghiệp” thành “Cục Lâm nghiệp và Kiểm lâm”, “Cục Thủy sản” thành “Cục Thủy sản và Kiểm ngư”, “Cục Chăn nuôi” thành “Cục Chăn nuôi và Thú y”, “Tong cục Quản lý đất đai” thành “Cục Quản lý đất đai”, “Tổng cục môi trường” thành “Cục Môi trường”, “Trung tâm tin học và Thống kê” thành “Cục Chuyển đổi số”, “Sở Nông nghiệp và Phát triển nông thôn” thành “Sở Nông nghiệp và Môi trường”, “Sở Tài Nguyên và Môi trường” thành “Sở Nông nghiệp và Môi trường”, “Sở Kế hoạch và Đầu tư” thành “Sở Tài chính” tại các Thông tư trong Phụ lục II ban hành kèm theo Thông tư này."
+   },
+   {
+    "source_path": "Điều 29",
+    "action": "thay-cum-tu",
+    "target_document": "40/2009/TT-BNNPTNT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Bộ Nông nghiệp và Phát triển nông thôn” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Tài nguyên và Môi trường” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Kế hoạch và Đầu tư” thành “Bộ Tài chính”, “Vụ Khoa học, Công nghệ và Môi trường” thành “Vụ Khoa học và Công nghệ”, “Cục Bảo vệ thực vật” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Trồng trọt” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Thú y” thành “Cục Chăn nuôi và Thú y”, “Cục Chế biến và Phát triển thị trường nông sản” thành “Cục Chất lượng, Chế biến và Phát triển thị trường”, “Cục Lâm nghiệp” thành “Cục Lâm nghiệp và Kiểm lâm”, “Cục Thủy sản” thành “Cục Thủy sản và Kiểm ngư”, “Cục Chăn nuôi” thành “Cục Chăn nuôi và Thú y”, “Tong cục Quản lý đất đai” thành “Cục Quản lý đất đai”, “Tổng cục môi trường” thành “Cục Môi trường”, “Trung tâm tin học và Thống kê” thành “Cục Chuyển đổi số”, “Sở Nông nghiệp và Phát triển nông thôn” thành “Sở Nông nghiệp và Môi trường”, “Sở Tài Nguyên và Môi trường” thành “Sở Nông nghiệp và Môi trường”, “Sở Kế hoạch và Đầu tư” thành “Sở Tài chính” tại các Thông tư trong Phụ lục II ban hành kèm theo Thông tư này."
+   },
+   {
+    "source_path": "Điều 29",
+    "action": "thay-cum-tu",
+    "target_document": "61/2009/TT-BNNPTNT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Bộ Nông nghiệp và Phát triển nông thôn” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Tài nguyên và Môi trường” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Kế hoạch và Đầu tư” thành “Bộ Tài chính”, “Vụ Khoa học, Công nghệ và Môi trường” thành “Vụ Khoa học và Công nghệ”, “Cục Bảo vệ thực vật” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Trồng trọt” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Thú y” thành “Cục Chăn nuôi và Thú y”, “Cục Chế biến và Phát triển thị trường nông sản” thành “Cục Chất lượng, Chế biến và Phát triển thị trường”, “Cục Lâm nghiệp” thành “Cục Lâm nghiệp và Kiểm lâm”, “Cục Thủy sản” thành “Cục Thủy sản và Kiểm ngư”, “Cục Chăn nuôi” thành “Cục Chăn nuôi và Thú y”, “Tong cục Quản lý đất đai” thành “Cục Quản lý đất đai”, “Tổng cục môi trường” thành “Cục Môi trường”, “Trung tâm tin học và Thống kê” thành “Cục Chuyển đổi số”, “Sở Nông nghiệp và Phát triển nông thôn” thành “Sở Nông nghiệp và Môi trường”, “Sở Tài Nguyên và Môi trường” thành “Sở Nông nghiệp và Môi trường”, “Sở Kế hoạch và Đầu tư” thành “Sở Tài chính” tại các Thông tư trong Phụ lục II ban hành kèm theo Thông tư này."
+   },
+   {
+    "source_path": "Điều 29",
+    "action": "thay-cum-tu",
+    "target_document": "72/2009/TT-BNNPTNT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Bộ Nông nghiệp và Phát triển nông thôn” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Tài nguyên và Môi trường” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Kế hoạch và Đầu tư” thành “Bộ Tài chính”, “Vụ Khoa học, Công nghệ và Môi trường” thành “Vụ Khoa học và Công nghệ”, “Cục Bảo vệ thực vật” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Trồng trọt” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Thú y” thành “Cục Chăn nuôi và Thú y”, “Cục Chế biến và Phát triển thị trường nông sản” thành “Cục Chất lượng, Chế biến và Phát triển thị trường”, “Cục Lâm nghiệp” thành “Cục Lâm nghiệp và Kiểm lâm”, “Cục Thủy sản” thành “Cục Thủy sản và Kiểm ngư”, “Cục Chăn nuôi” thành “Cục Chăn nuôi và Thú y”, “Tong cục Quản lý đất đai” thành “Cục Quản lý đất đai”, “Tổng cục môi trường” thành “Cục Môi trường”, “Trung tâm tin học và Thống kê” thành “Cục Chuyển đổi số”, “Sở Nông nghiệp và Phát triển nông thôn” thành “Sở Nông nghiệp và Môi trường”, “Sở Tài Nguyên và Môi trường” thành “Sở Nông nghiệp và Môi trường”, “Sở Kế hoạch và Đầu tư” thành “Sở Tài chính” tại các Thông tư trong Phụ lục II ban hành kèm theo Thông tư này."
+   },
+   {
+    "source_path": "Điều 29",
+    "action": "thay-cum-tu",
+    "target_document": "84/2009/TT-BNNPTNT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Bộ Nông nghiệp và Phát triển nông thôn” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Tài nguyên và Môi trường” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Kế hoạch và Đầu tư” thành “Bộ Tài chính”, “Vụ Khoa học, Công nghệ và Môi trường” thành “Vụ Khoa học và Công nghệ”, “Cục Bảo vệ thực vật” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Trồng trọt” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Thú y” thành “Cục Chăn nuôi và Thú y”, “Cục Chế biến và Phát triển thị trường nông sản” thành “Cục Chất lượng, Chế biến và Phát triển thị trường”, “Cục Lâm nghiệp” thành “Cục Lâm nghiệp và Kiểm lâm”, “Cục Thủy sản” thành “Cục Thủy sản và Kiểm ngư”, “Cục Chăn nuôi” thành “Cục Chăn nuôi và Thú y”, “Tong cục Quản lý đất đai” thành “Cục Quản lý đất đai”, “Tổng cục môi trường” thành “Cục Môi trường”, “Trung tâm tin học và Thống kê” thành “Cục Chuyển đổi số”, “Sở Nông nghiệp và Phát triển nông thôn” thành “Sở Nông nghiệp và Môi trường”, “Sở Tài Nguyên và Môi trường” thành “Sở Nông nghiệp và Môi trường”, “Sở Kế hoạch và Đầu tư” thành “Sở Tài chính” tại các Thông tư trong Phụ lục II ban hành kèm theo Thông tư này."
+   },
+   {
+    "source_path": "Điều 29",
+    "action": "thay-cum-tu",
+    "target_document": "55/2009/TT-BNNPTNT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Bộ Nông nghiệp và Phát triển nông thôn” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Tài nguyên và Môi trường” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Kế hoạch và Đầu tư” thành “Bộ Tài chính”, “Vụ Khoa học, Công nghệ và Môi trường” thành “Vụ Khoa học và Công nghệ”, “Cục Bảo vệ thực vật” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Trồng trọt” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Thú y” thành “Cục Chăn nuôi và Thú y”, “Cục Chế biến và Phát triển thị trường nông sản” thành “Cục Chất lượng, Chế biến và Phát triển thị trường”, “Cục Lâm nghiệp” thành “Cục Lâm nghiệp và Kiểm lâm”, “Cục Thủy sản” thành “Cục Thủy sản và Kiểm ngư”, “Cục Chăn nuôi” thành “Cục Chăn nuôi và Thú y”, “Tong cục Quản lý đất đai” thành “Cục Quản lý đất đai”, “Tổng cục môi trường” thành “Cục Môi trường”, “Trung tâm tin học và Thống kê” thành “Cục Chuyển đổi số”, “Sở Nông nghiệp và Phát triển nông thôn” thành “Sở Nông nghiệp và Môi trường”, “Sở Tài Nguyên và Môi trường” thành “Sở Nông nghiệp và Môi trường”, “Sở Kế hoạch và Đầu tư” thành “Sở Tài chính” tại các Thông tư trong Phụ lục II ban hành kèm theo Thông tư này."
+   },
+   {
+    "source_path": "Điều 29",
+    "action": "thay-cum-tu",
+    "target_document": "11/2010/TT-BNNPTNT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Bộ Nông nghiệp và Phát triển nông thôn” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Tài nguyên và Môi trường” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Kế hoạch và Đầu tư” thành “Bộ Tài chính”, “Vụ Khoa học, Công nghệ và Môi trường” thành “Vụ Khoa học và Công nghệ”, “Cục Bảo vệ thực vật” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Trồng trọt” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Thú y” thành “Cục Chăn nuôi và Thú y”, “Cục Chế biến và Phát triển thị trường nông sản” thành “Cục Chất lượng, Chế biến và Phát triển thị trường”, “Cục Lâm nghiệp” thành “Cục Lâm nghiệp và Kiểm lâm”, “Cục Thủy sản” thành “Cục Thủy sản và Kiểm ngư”, “Cục Chăn nuôi” thành “Cục Chăn nuôi và Thú y”, “Tong cục Quản lý đất đai” thành “Cục Quản lý đất đai”, “Tổng cục môi trường” thành “Cục Môi trường”, “Trung tâm tin học và Thống kê” thành “Cục Chuyển đổi số”, “Sở Nông nghiệp và Phát triển nông thôn” thành “Sở Nông nghiệp và Môi trường”, “Sở Tài Nguyên và Môi trường” thành “Sở Nông nghiệp và Môi trường”, “Sở Kế hoạch và Đầu tư” thành “Sở Tài chính” tại các Thông tư trong Phụ lục II ban hành kèm theo Thông tư này."
+   },
+   {
+    "source_path": "Điều 29",
+    "action": "thay-cum-tu",
+    "target_document": "22/2010/TT-BNNPTNT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Bộ Nông nghiệp và Phát triển nông thôn” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Tài nguyên và Môi trường” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Kế hoạch và Đầu tư” thành “Bộ Tài chính”, “Vụ Khoa học, Công nghệ và Môi trường” thành “Vụ Khoa học và Công nghệ”, “Cục Bảo vệ thực vật” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Trồng trọt” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Thú y” thành “Cục Chăn nuôi và Thú y”, “Cục Chế biến và Phát triển thị trường nông sản” thành “Cục Chất lượng, Chế biến và Phát triển thị trường”, “Cục Lâm nghiệp” thành “Cục Lâm nghiệp và Kiểm lâm”, “Cục Thủy sản” thành “Cục Thủy sản và Kiểm ngư”, “Cục Chăn nuôi” thành “Cục Chăn nuôi và Thú y”, “Tong cục Quản lý đất đai” thành “Cục Quản lý đất đai”, “Tổng cục môi trường” thành “Cục Môi trường”, “Trung tâm tin học và Thống kê” thành “Cục Chuyển đổi số”, “Sở Nông nghiệp và Phát triển nông thôn” thành “Sở Nông nghiệp và Môi trường”, “Sở Tài Nguyên và Môi trường” thành “Sở Nông nghiệp và Môi trường”, “Sở Kế hoạch và Đầu tư” thành “Sở Tài chính” tại các Thông tư trong Phụ lục II ban hành kèm theo Thông tư này."
+   },
+   {
+    "source_path": "Điều 29",
+    "action": "thay-cum-tu",
+    "target_document": "26/2010/TT-BNNPTNT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Bộ Nông nghiệp và Phát triển nông thôn” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Tài nguyên và Môi trường” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Kế hoạch và Đầu tư” thành “Bộ Tài chính”, “Vụ Khoa học, Công nghệ và Môi trường” thành “Vụ Khoa học và Công nghệ”, “Cục Bảo vệ thực vật” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Trồng trọt” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Thú y” thành “Cục Chăn nuôi và Thú y”, “Cục Chế biến và Phát triển thị trường nông sản” thành “Cục Chất lượng, Chế biến và Phát triển thị trường”, “Cục Lâm nghiệp” thành “Cục Lâm nghiệp và Kiểm lâm”, “Cục Thủy sản” thành “Cục Thủy sản và Kiểm ngư”, “Cục Chăn nuôi” thành “Cục Chăn nuôi và Thú y”, “Tong cục Quản lý đất đai” thành “Cục Quản lý đất đai”, “Tổng cục môi trường” thành “Cục Môi trường”, “Trung tâm tin học và Thống kê” thành “Cục Chuyển đổi số”, “Sở Nông nghiệp và Phát triển nông thôn” thành “Sở Nông nghiệp và Môi trường”, “Sở Tài Nguyên và Môi trường” thành “Sở Nông nghiệp và Môi trường”, “Sở Kế hoạch và Đầu tư” thành “Sở Tài chính” tại các Thông tư trong Phụ lục II ban hành kèm theo Thông tư này."
+   },
+   {
+    "source_path": "Điều 29",
+    "action": "thay-cum-tu",
+    "target_document": "30/2010/TT-BNNPTNT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Bộ Nông nghiệp và Phát triển nông thôn” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Tài nguyên và Môi trường” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Kế hoạch và Đầu tư” thành “Bộ Tài chính”, “Vụ Khoa học, Công nghệ và Môi trường” thành “Vụ Khoa học và Công nghệ”, “Cục Bảo vệ thực vật” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Trồng trọt” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Thú y” thành “Cục Chăn nuôi và Thú y”, “Cục Chế biến và Phát triển thị trường nông sản” thành “Cục Chất lượng, Chế biến và Phát triển thị trường”, “Cục Lâm nghiệp” thành “Cục Lâm nghiệp và Kiểm lâm”, “Cục Thủy sản” thành “Cục Thủy sản và Kiểm ngư”, “Cục Chăn nuôi” thành “Cục Chăn nuôi và Thú y”, “Tong cục Quản lý đất đai” thành “Cục Quản lý đất đai”, “Tổng cục môi trường” thành “Cục Môi trường”, “Trung tâm tin học và Thống kê” thành “Cục Chuyển đổi số”, “Sở Nông nghiệp và Phát triển nông thôn” thành “Sở Nông nghiệp và Môi trường”, “Sở Tài Nguyên và Môi trường” thành “Sở Nông nghiệp và Môi trường”, “Sở Kế hoạch và Đầu tư” thành “Sở Tài chính” tại các Thông tư trong Phụ lục II ban hành kèm theo Thông tư này."
+   },
+   {
+    "source_path": "Điều 29",
+    "action": "thay-cum-tu",
+    "target_document": "34/2010/TT-BNNPTNT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Bộ Nông nghiệp và Phát triển nông thôn” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Tài nguyên và Môi trường” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Kế hoạch và Đầu tư” thành “Bộ Tài chính”, “Vụ Khoa học, Công nghệ và Môi trường” thành “Vụ Khoa học và Công nghệ”, “Cục Bảo vệ thực vật” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Trồng trọt” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Thú y” thành “Cục Chăn nuôi và Thú y”, “Cục Chế biến và Phát triển thị trường nông sản” thành “Cục Chất lượng, Chế biến và Phát triển thị trường”, “Cục Lâm nghiệp” thành “Cục Lâm nghiệp và Kiểm lâm”, “Cục Thủy sản” thành “Cục Thủy sản và Kiểm ngư”, “Cục Chăn nuôi” thành “Cục Chăn nuôi và Thú y”, “Tong cục Quản lý đất đai” thành “Cục Quản lý đất đai”, “Tổng cục môi trường” thành “Cục Môi trường”, “Trung tâm tin học và Thống kê” thành “Cục Chuyển đổi số”, “Sở Nông nghiệp và Phát triển nông thôn” thành “Sở Nông nghiệp và Môi trường”, “Sở Tài Nguyên và Môi trường” thành “Sở Nông nghiệp và Môi trường”, “Sở Kế hoạch và Đầu tư” thành “Sở Tài chính” tại các Thông tư trong Phụ lục II ban hành kèm theo Thông tư này."
+   },
+   {
+    "source_path": "Điều 29",
+    "action": "thay-cum-tu",
+    "target_document": "49/2010/TT-BNNPTNT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Bộ Nông nghiệp và Phát triển nông thôn” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Tài nguyên và Môi trường” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Kế hoạch và Đầu tư” thành “Bộ Tài chính”, “Vụ Khoa học, Công nghệ và Môi trường” thành “Vụ Khoa học và Công nghệ”, “Cục Bảo vệ thực vật” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Trồng trọt” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Thú y” thành “Cục Chăn nuôi và Thú y”, “Cục Chế biến và Phát triển thị trường nông sản” thành “Cục Chất lượng, Chế biến và Phát triển thị trường”, “Cục Lâm nghiệp” thành “Cục Lâm nghiệp và Kiểm lâm”, “Cục Thủy sản” thành “Cục Thủy sản và Kiểm ngư”, “Cục Chăn nuôi” thành “Cục Chăn nuôi và Thú y”, “Tong cục Quản lý đất đai” thành “Cục Quản lý đất đai”, “Tổng cục môi trường” thành “Cục Môi trường”, “Trung tâm tin học và Thống kê” thành “Cục Chuyển đổi số”, “Sở Nông nghiệp và Phát triển nông thôn” thành “Sở Nông nghiệp và Môi trường”, “Sở Tài Nguyên và Môi trường” thành “Sở Nông nghiệp và Môi trường”, “Sở Kế hoạch và Đầu tư” thành “Sở Tài chính” tại các Thông tư trong Phụ lục II ban hành kèm theo Thông tư này."
+   },
+   {
+    "source_path": "Điều 29",
+    "action": "thay-cum-tu",
+    "target_document": "55/2010/TT-BNNPTNT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Bộ Nông nghiệp và Phát triển nông thôn” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Tài nguyên và Môi trường” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Kế hoạch và Đầu tư” thành “Bộ Tài chính”, “Vụ Khoa học, Công nghệ và Môi trường” thành “Vụ Khoa học và Công nghệ”, “Cục Bảo vệ thực vật” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Trồng trọt” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Thú y” thành “Cục Chăn nuôi và Thú y”, “Cục Chế biến và Phát triển thị trường nông sản” thành “Cục Chất lượng, Chế biến và Phát triển thị trường”, “Cục Lâm nghiệp” thành “Cục Lâm nghiệp và Kiểm lâm”, “Cục Thủy sản” thành “Cục Thủy sản và Kiểm ngư”, “Cục Chăn nuôi” thành “Cục Chăn nuôi và Thú y”, “Tong cục Quản lý đất đai” thành “Cục Quản lý đất đai”, “Tổng cục môi trường” thành “Cục Môi trường”, “Trung tâm tin học và Thống kê” thành “Cục Chuyển đổi số”, “Sở Nông nghiệp và Phát triển nông thôn” thành “Sở Nông nghiệp và Môi trường”, “Sở Tài Nguyên và Môi trường” thành “Sở Nông nghiệp và Môi trường”, “Sở Kế hoạch và Đầu tư” thành “Sở Tài chính” tại các Thông tư trong Phụ lục II ban hành kèm theo Thông tư này."
+   },
+   {
+    "source_path": "Điều 29",
+    "action": "thay-cum-tu",
+    "target_document": "65/2010/TT-BNNPTNT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Bộ Nông nghiệp và Phát triển nông thôn” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Tài nguyên và Môi trường” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Kế hoạch và Đầu tư” thành “Bộ Tài chính”, “Vụ Khoa học, Công nghệ và Môi trường” thành “Vụ Khoa học và Công nghệ”, “Cục Bảo vệ thực vật” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Trồng trọt” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Thú y” thành “Cục Chăn nuôi và Thú y”, “Cục Chế biến và Phát triển thị trường nông sản” thành “Cục Chất lượng, Chế biến và Phát triển thị trường”, “Cục Lâm nghiệp” thành “Cục Lâm nghiệp và Kiểm lâm”, “Cục Thủy sản” thành “Cục Thủy sản và Kiểm ngư”, “Cục Chăn nuôi” thành “Cục Chăn nuôi và Thú y”, “Tong cục Quản lý đất đai” thành “Cục Quản lý đất đai”, “Tổng cục môi trường” thành “Cục Môi trường”, “Trung tâm tin học và Thống kê” thành “Cục Chuyển đổi số”, “Sở Nông nghiệp và Phát triển nông thôn” thành “Sở Nông nghiệp và Môi trường”, “Sở Tài Nguyên và Môi trường” thành “Sở Nông nghiệp và Môi trường”, “Sở Kế hoạch và Đầu tư” thành “Sở Tài chính” tại các Thông tư trong Phụ lục II ban hành kèm theo Thông tư này."
+   },
+   {
+    "source_path": "Điều 29",
+    "action": "thay-cum-tu",
+    "target_document": "70/2010/TT-BNNPTNT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Bộ Nông nghiệp và Phát triển nông thôn” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Tài nguyên và Môi trường” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Kế hoạch và Đầu tư” thành “Bộ Tài chính”, “Vụ Khoa học, Công nghệ và Môi trường” thành “Vụ Khoa học và Công nghệ”, “Cục Bảo vệ thực vật” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Trồng trọt” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Thú y” thành “Cục Chăn nuôi và Thú y”, “Cục Chế biến và Phát triển thị trường nông sản” thành “Cục Chất lượng, Chế biến và Phát triển thị trường”, “Cục Lâm nghiệp” thành “Cục Lâm nghiệp và Kiểm lâm”, “Cục Thủy sản” thành “Cục Thủy sản và Kiểm ngư”, “Cục Chăn nuôi” thành “Cục Chăn nuôi và Thú y”, “Tong cục Quản lý đất đai” thành “Cục Quản lý đất đai”, “Tổng cục môi trường” thành “Cục Môi trường”, “Trung tâm tin học và Thống kê” thành “Cục Chuyển đổi số”, “Sở Nông nghiệp và Phát triển nông thôn” thành “Sở Nông nghiệp và Môi trường”, “Sở Tài Nguyên và Môi trường” thành “Sở Nông nghiệp và Môi trường”, “Sở Kế hoạch và Đầu tư” thành “Sở Tài chính” tại các Thông tư trong Phụ lục II ban hành kèm theo Thông tư này."
+   },
+   {
+    "source_path": "Điều 29",
+    "action": "thay-cum-tu",
+    "target_document": "71/2010/TT-BNNPTN",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Bộ Nông nghiệp và Phát triển nông thôn” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Tài nguyên và Môi trường” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Kế hoạch và Đầu tư” thành “Bộ Tài chính”, “Vụ Khoa học, Công nghệ và Môi trường” thành “Vụ Khoa học và Công nghệ”, “Cục Bảo vệ thực vật” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Trồng trọt” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Thú y” thành “Cục Chăn nuôi và Thú y”, “Cục Chế biến và Phát triển thị trường nông sản” thành “Cục Chất lượng, Chế biến và Phát triển thị trường”, “Cục Lâm nghiệp” thành “Cục Lâm nghiệp và Kiểm lâm”, “Cục Thủy sản” thành “Cục Thủy sản và Kiểm ngư”, “Cục Chăn nuôi” thành “Cục Chăn nuôi và Thú y”, “Tong cục Quản lý đất đai” thành “Cục Quản lý đất đai”, “Tổng cục môi trường” thành “Cục Môi trường”, “Trung tâm tin học và Thống kê” thành “Cục Chuyển đổi số”, “Sở Nông nghiệp và Phát triển nông thôn” thành “Sở Nông nghiệp và Môi trường”, “Sở Tài Nguyên và Môi trường” thành “Sở Nông nghiệp và Môi trường”, “Sở Kế hoạch và Đầu tư” thành “Sở Tài chính” tại các Thông tư trong Phụ lục II ban hành kèm theo Thông tư này."
+   },
+   {
+    "source_path": "Điều 29",
+    "action": "thay-cum-tu",
+    "target_document": "17/2011/TT-BNNPTNT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Bộ Nông nghiệp và Phát triển nông thôn” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Tài nguyên và Môi trường” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Kế hoạch và Đầu tư” thành “Bộ Tài chính”, “Vụ Khoa học, Công nghệ và Môi trường” thành “Vụ Khoa học và Công nghệ”, “Cục Bảo vệ thực vật” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Trồng trọt” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Thú y” thành “Cục Chăn nuôi và Thú y”, “Cục Chế biến và Phát triển thị trường nông sản” thành “Cục Chất lượng, Chế biến và Phát triển thị trường”, “Cục Lâm nghiệp” thành “Cục Lâm nghiệp và Kiểm lâm”, “Cục Thủy sản” thành “Cục Thủy sản và Kiểm ngư”, “Cục Chăn nuôi” thành “Cục Chăn nuôi và Thú y”, “Tong cục Quản lý đất đai” thành “Cục Quản lý đất đai”, “Tổng cục môi trường” thành “Cục Môi trường”, “Trung tâm tin học và Thống kê” thành “Cục Chuyển đổi số”, “Sở Nông nghiệp và Phát triển nông thôn” thành “Sở Nông nghiệp và Môi trường”, “Sở Tài Nguyên và Môi trường” thành “Sở Nông nghiệp và Môi trường”, “Sở Kế hoạch và Đầu tư” thành “Sở Tài chính” tại các Thông tư trong Phụ lục II ban hành kèm theo Thông tư này."
+   },
+   {
+    "source_path": "Điều 29",
+    "action": "thay-cum-tu",
+    "target_document": "30/2011/TT-BNNPTNT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Bộ Nông nghiệp và Phát triển nông thôn” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Tài nguyên và Môi trường” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Kế hoạch và Đầu tư” thành “Bộ Tài chính”, “Vụ Khoa học, Công nghệ và Môi trường” thành “Vụ Khoa học và Công nghệ”, “Cục Bảo vệ thực vật” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Trồng trọt” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Thú y” thành “Cục Chăn nuôi và Thú y”, “Cục Chế biến và Phát triển thị trường nông sản” thành “Cục Chất lượng, Chế biến và Phát triển thị trường”, “Cục Lâm nghiệp” thành “Cục Lâm nghiệp và Kiểm lâm”, “Cục Thủy sản” thành “Cục Thủy sản và Kiểm ngư”, “Cục Chăn nuôi” thành “Cục Chăn nuôi và Thú y”, “Tong cục Quản lý đất đai” thành “Cục Quản lý đất đai”, “Tổng cục môi trường” thành “Cục Môi trường”, “Trung tâm tin học và Thống kê” thành “Cục Chuyển đổi số”, “Sở Nông nghiệp và Phát triển nông thôn” thành “Sở Nông nghiệp và Môi trường”, “Sở Tài Nguyên và Môi trường” thành “Sở Nông nghiệp và Môi trường”, “Sở Kế hoạch và Đầu tư” thành “Sở Tài chính” tại các Thông tư trong Phụ lục II ban hành kèm theo Thông tư này."
+   },
+   {
+    "source_path": "Điều 29",
+    "action": "thay-cum-tu",
+    "target_document": "41/2011/TT-BNNPTNT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Bộ Nông nghiệp và Phát triển nông thôn” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Tài nguyên và Môi trường” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Kế hoạch và Đầu tư” thành “Bộ Tài chính”, “Vụ Khoa học, Công nghệ và Môi trường” thành “Vụ Khoa học và Công nghệ”, “Cục Bảo vệ thực vật” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Trồng trọt” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Thú y” thành “Cục Chăn nuôi và Thú y”, “Cục Chế biến và Phát triển thị trường nông sản” thành “Cục Chất lượng, Chế biến và Phát triển thị trường”, “Cục Lâm nghiệp” thành “Cục Lâm nghiệp và Kiểm lâm”, “Cục Thủy sản” thành “Cục Thủy sản và Kiểm ngư”, “Cục Chăn nuôi” thành “Cục Chăn nuôi và Thú y”, “Tong cục Quản lý đất đai” thành “Cục Quản lý đất đai”, “Tổng cục môi trường” thành “Cục Môi trường”, “Trung tâm tin học và Thống kê” thành “Cục Chuyển đổi số”, “Sở Nông nghiệp và Phát triển nông thôn” thành “Sở Nông nghiệp và Môi trường”, “Sở Tài Nguyên và Môi trường” thành “Sở Nông nghiệp và Môi trường”, “Sở Kế hoạch và Đầu tư” thành “Sở Tài chính” tại các Thông tư trong Phụ lục II ban hành kèm theo Thông tư này."
+   },
+   {
+    "source_path": "Điều 29",
+    "action": "thay-cum-tu",
+    "target_document": "45/2011/TT-BNNPTNT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Bộ Nông nghiệp và Phát triển nông thôn” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Tài nguyên và Môi trường” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Kế hoạch và Đầu tư” thành “Bộ Tài chính”, “Vụ Khoa học, Công nghệ và Môi trường” thành “Vụ Khoa học và Công nghệ”, “Cục Bảo vệ thực vật” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Trồng trọt” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Thú y” thành “Cục Chăn nuôi và Thú y”, “Cục Chế biến và Phát triển thị trường nông sản” thành “Cục Chất lượng, Chế biến và Phát triển thị trường”, “Cục Lâm nghiệp” thành “Cục Lâm nghiệp và Kiểm lâm”, “Cục Thủy sản” thành “Cục Thủy sản và Kiểm ngư”, “Cục Chăn nuôi” thành “Cục Chăn nuôi và Thú y”, “Tong cục Quản lý đất đai” thành “Cục Quản lý đất đai”, “Tổng cục môi trường” thành “Cục Môi trường”, “Trung tâm tin học và Thống kê” thành “Cục Chuyển đổi số”, “Sở Nông nghiệp và Phát triển nông thôn” thành “Sở Nông nghiệp và Môi trường”, “Sở Tài Nguyên và Môi trường” thành “Sở Nông nghiệp và Môi trường”, “Sở Kế hoạch và Đầu tư” thành “Sở Tài chính” tại các Thông tư trong Phụ lục II ban hành kèm theo Thông tư này."
+   },
+   {
+    "source_path": "Điều 29",
+    "action": "thay-cum-tu",
+    "target_document": "51/2011/TT-BNNPTNT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Bộ Nông nghiệp và Phát triển nông thôn” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Tài nguyên và Môi trường” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Kế hoạch và Đầu tư” thành “Bộ Tài chính”, “Vụ Khoa học, Công nghệ và Môi trường” thành “Vụ Khoa học và Công nghệ”, “Cục Bảo vệ thực vật” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Trồng trọt” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Thú y” thành “Cục Chăn nuôi và Thú y”, “Cục Chế biến và Phát triển thị trường nông sản” thành “Cục Chất lượng, Chế biến và Phát triển thị trường”, “Cục Lâm nghiệp” thành “Cục Lâm nghiệp và Kiểm lâm”, “Cục Thủy sản” thành “Cục Thủy sản và Kiểm ngư”, “Cục Chăn nuôi” thành “Cục Chăn nuôi và Thú y”, “Tong cục Quản lý đất đai” thành “Cục Quản lý đất đai”, “Tổng cục môi trường” thành “Cục Môi trường”, “Trung tâm tin học và Thống kê” thành “Cục Chuyển đổi số”, “Sở Nông nghiệp và Phát triển nông thôn” thành “Sở Nông nghiệp và Môi trường”, “Sở Tài Nguyên và Môi trường” thành “Sở Nông nghiệp và Môi trường”, “Sở Kế hoạch và Đầu tư” thành “Sở Tài chính” tại các Thông tư trong Phụ lục II ban hành kèm theo Thông tư này."
+   },
+   {
+    "source_path": "Điều 29",
+    "action": "thay-cum-tu",
+    "target_document": "64/2011/TT-BNNPTNT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Bộ Nông nghiệp và Phát triển nông thôn” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Tài nguyên và Môi trường” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Kế hoạch và Đầu tư” thành “Bộ Tài chính”, “Vụ Khoa học, Công nghệ và Môi trường” thành “Vụ Khoa học và Công nghệ”, “Cục Bảo vệ thực vật” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Trồng trọt” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Thú y” thành “Cục Chăn nuôi và Thú y”, “Cục Chế biến và Phát triển thị trường nông sản” thành “Cục Chất lượng, Chế biến và Phát triển thị trường”, “Cục Lâm nghiệp” thành “Cục Lâm nghiệp và Kiểm lâm”, “Cục Thủy sản” thành “Cục Thủy sản và Kiểm ngư”, “Cục Chăn nuôi” thành “Cục Chăn nuôi và Thú y”, “Tong cục Quản lý đất đai” thành “Cục Quản lý đất đai”, “Tổng cục môi trường” thành “Cục Môi trường”, “Trung tâm tin học và Thống kê” thành “Cục Chuyển đổi số”, “Sở Nông nghiệp và Phát triển nông thôn” thành “Sở Nông nghiệp và Môi trường”, “Sở Tài Nguyên và Môi trường” thành “Sở Nông nghiệp và Môi trường”, “Sở Kế hoạch và Đầu tư” thành “Sở Tài chính” tại các Thông tư trong Phụ lục II ban hành kèm theo Thông tư này."
+   },
+   {
+    "source_path": "Điều 29",
+    "action": "thay-cum-tu",
+    "target_document": "82/2011/TT-BNNPTNT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Bộ Nông nghiệp và Phát triển nông thôn” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Tài nguyên và Môi trường” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Kế hoạch và Đầu tư” thành “Bộ Tài chính”, “Vụ Khoa học, Công nghệ và Môi trường” thành “Vụ Khoa học và Công nghệ”, “Cục Bảo vệ thực vật” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Trồng trọt” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Thú y” thành “Cục Chăn nuôi và Thú y”, “Cục Chế biến và Phát triển thị trường nông sản” thành “Cục Chất lượng, Chế biến và Phát triển thị trường”, “Cục Lâm nghiệp” thành “Cục Lâm nghiệp và Kiểm lâm”, “Cục Thủy sản” thành “Cục Thủy sản và Kiểm ngư”, “Cục Chăn nuôi” thành “Cục Chăn nuôi và Thú y”, “Tong cục Quản lý đất đai” thành “Cục Quản lý đất đai”, “Tổng cục môi trường” thành “Cục Môi trường”, “Trung tâm tin học và Thống kê” thành “Cục Chuyển đổi số”, “Sở Nông nghiệp và Phát triển nông thôn” thành “Sở Nông nghiệp và Môi trường”, “Sở Tài Nguyên và Môi trường” thành “Sở Nông nghiệp và Môi trường”, “Sở Kế hoạch và Đầu tư” thành “Sở Tài chính” tại các Thông tư trong Phụ lục II ban hành kèm theo Thông tư này."
+   },
+   {
+    "source_path": "Điều 29",
+    "action": "thay-cum-tu",
+    "target_document": "63/2012/TT-BNNPTNT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Bộ Nông nghiệp và Phát triển nông thôn” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Tài nguyên và Môi trường” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Kế hoạch và Đầu tư” thành “Bộ Tài chính”, “Vụ Khoa học, Công nghệ và Môi trường” thành “Vụ Khoa học và Công nghệ”, “Cục Bảo vệ thực vật” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Trồng trọt” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Thú y” thành “Cục Chăn nuôi và Thú y”, “Cục Chế biến và Phát triển thị trường nông sản” thành “Cục Chất lượng, Chế biến và Phát triển thị trường”, “Cục Lâm nghiệp” thành “Cục Lâm nghiệp và Kiểm lâm”, “Cục Thủy sản” thành “Cục Thủy sản và Kiểm ngư”, “Cục Chăn nuôi” thành “Cục Chăn nuôi và Thú y”, “Tong cục Quản lý đất đai” thành “Cục Quản lý đất đai”, “Tổng cục môi trường” thành “Cục Môi trường”, “Trung tâm tin học và Thống kê” thành “Cục Chuyển đổi số”, “Sở Nông nghiệp và Phát triển nông thôn” thành “Sở Nông nghiệp và Môi trường”, “Sở Tài Nguyên và Môi trường” thành “Sở Nông nghiệp và Môi trường”, “Sở Kế hoạch và Đầu tư” thành “Sở Tài chính” tại các Thông tư trong Phụ lục II ban hành kèm theo Thông tư này."
+   },
+   {
+    "source_path": "Điều 29",
+    "action": "thay-cum-tu",
+    "target_document": "09/2012/TT-BNNPTNT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Bộ Nông nghiệp và Phát triển nông thôn” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Tài nguyên và Môi trường” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Kế hoạch và Đầu tư” thành “Bộ Tài chính”, “Vụ Khoa học, Công nghệ và Môi trường” thành “Vụ Khoa học và Công nghệ”, “Cục Bảo vệ thực vật” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Trồng trọt” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Thú y” thành “Cục Chăn nuôi và Thú y”, “Cục Chế biến và Phát triển thị trường nông sản” thành “Cục Chất lượng, Chế biến và Phát triển thị trường”, “Cục Lâm nghiệp” thành “Cục Lâm nghiệp và Kiểm lâm”, “Cục Thủy sản” thành “Cục Thủy sản và Kiểm ngư”, “Cục Chăn nuôi” thành “Cục Chăn nuôi và Thú y”, “Tong cục Quản lý đất đai” thành “Cục Quản lý đất đai”, “Tổng cục môi trường” thành “Cục Môi trường”, “Trung tâm tin học và Thống kê” thành “Cục Chuyển đổi số”, “Sở Nông nghiệp và Phát triển nông thôn” thành “Sở Nông nghiệp và Môi trường”, “Sở Tài Nguyên và Môi trường” thành “Sở Nông nghiệp và Môi trường”, “Sở Kế hoạch và Đầu tư” thành “Sở Tài chính” tại các Thông tư trong Phụ lục II ban hành kèm theo Thông tư này."
+   },
+   {
+    "source_path": "Điều 29",
+    "action": "thay-cum-tu",
+    "target_document": "12/2012/TT-BNNPTNT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Bộ Nông nghiệp và Phát triển nông thôn” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Tài nguyên và Môi trường” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Kế hoạch và Đầu tư” thành “Bộ Tài chính”, “Vụ Khoa học, Công nghệ và Môi trường” thành “Vụ Khoa học và Công nghệ”, “Cục Bảo vệ thực vật” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Trồng trọt” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Thú y” thành “Cục Chăn nuôi và Thú y”, “Cục Chế biến và Phát triển thị trường nông sản” thành “Cục Chất lượng, Chế biến và Phát triển thị trường”, “Cục Lâm nghiệp” thành “Cục Lâm nghiệp và Kiểm lâm”, “Cục Thủy sản” thành “Cục Thủy sản và Kiểm ngư”, “Cục Chăn nuôi” thành “Cục Chăn nuôi và Thú y”, “Tong cục Quản lý đất đai” thành “Cục Quản lý đất đai”, “Tổng cục môi trường” thành “Cục Môi trường”, “Trung tâm tin học và Thống kê” thành “Cục Chuyển đổi số”, “Sở Nông nghiệp và Phát triển nông thôn” thành “Sở Nông nghiệp và Môi trường”, “Sở Tài Nguyên và Môi trường” thành “Sở Nông nghiệp và Môi trường”, “Sở Kế hoạch và Đầu tư” thành “Sở Tài chính” tại các Thông tư trong Phụ lục II ban hành kèm theo Thông tư này."
+   },
+   {
+    "source_path": "Điều 29",
+    "action": "thay-cum-tu",
+    "target_document": "17/2012/TT-BNNPTNT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Bộ Nông nghiệp và Phát triển nông thôn” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Tài nguyên và Môi trường” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Kế hoạch và Đầu tư” thành “Bộ Tài chính”, “Vụ Khoa học, Công nghệ và Môi trường” thành “Vụ Khoa học và Công nghệ”, “Cục Bảo vệ thực vật” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Trồng trọt” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Thú y” thành “Cục Chăn nuôi và Thú y”, “Cục Chế biến và Phát triển thị trường nông sản” thành “Cục Chất lượng, Chế biến và Phát triển thị trường”, “Cục Lâm nghiệp” thành “Cục Lâm nghiệp và Kiểm lâm”, “Cục Thủy sản” thành “Cục Thủy sản và Kiểm ngư”, “Cục Chăn nuôi” thành “Cục Chăn nuôi và Thú y”, “Tong cục Quản lý đất đai” thành “Cục Quản lý đất đai”, “Tổng cục môi trường” thành “Cục Môi trường”, “Trung tâm tin học và Thống kê” thành “Cục Chuyển đổi số”, “Sở Nông nghiệp và Phát triển nông thôn” thành “Sở Nông nghiệp và Môi trường”, “Sở Tài Nguyên và Môi trường” thành “Sở Nông nghiệp và Môi trường”, “Sở Kế hoạch và Đầu tư” thành “Sở Tài chính” tại các Thông tư trong Phụ lục II ban hành kèm theo Thông tư này."
+   },
+   {
+    "source_path": "Điều 29",
+    "action": "thay-cum-tu",
+    "target_document": "21/2012/TT-BNNPTNT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Bộ Nông nghiệp và Phát triển nông thôn” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Tài nguyên và Môi trường” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Kế hoạch và Đầu tư” thành “Bộ Tài chính”, “Vụ Khoa học, Công nghệ và Môi trường” thành “Vụ Khoa học và Công nghệ”, “Cục Bảo vệ thực vật” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Trồng trọt” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Thú y” thành “Cục Chăn nuôi và Thú y”, “Cục Chế biến và Phát triển thị trường nông sản” thành “Cục Chất lượng, Chế biến và Phát triển thị trường”, “Cục Lâm nghiệp” thành “Cục Lâm nghiệp và Kiểm lâm”, “Cục Thủy sản” thành “Cục Thủy sản và Kiểm ngư”, “Cục Chăn nuôi” thành “Cục Chăn nuôi và Thú y”, “Tong cục Quản lý đất đai” thành “Cục Quản lý đất đai”, “Tổng cục môi trường” thành “Cục Môi trường”, “Trung tâm tin học và Thống kê” thành “Cục Chuyển đổi số”, “Sở Nông nghiệp và Phát triển nông thôn” thành “Sở Nông nghiệp và Môi trường”, “Sở Tài Nguyên và Môi trường” thành “Sở Nông nghiệp và Môi trường”, “Sở Kế hoạch và Đầu tư” thành “Sở Tài chính” tại các Thông tư trong Phụ lục II ban hành kèm theo Thông tư này."
+   },
+   {
+    "source_path": "Điều 29",
+    "action": "thay-cum-tu",
+    "target_document": "44/2012/TT-BNNPTNT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Bộ Nông nghiệp và Phát triển nông thôn” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Tài nguyên và Môi trường” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Kế hoạch và Đầu tư” thành “Bộ Tài chính”, “Vụ Khoa học, Công nghệ và Môi trường” thành “Vụ Khoa học và Công nghệ”, “Cục Bảo vệ thực vật” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Trồng trọt” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Thú y” thành “Cục Chăn nuôi và Thú y”, “Cục Chế biến và Phát triển thị trường nông sản” thành “Cục Chất lượng, Chế biến và Phát triển thị trường”, “Cục Lâm nghiệp” thành “Cục Lâm nghiệp và Kiểm lâm”, “Cục Thủy sản” thành “Cục Thủy sản và Kiểm ngư”, “Cục Chăn nuôi” thành “Cục Chăn nuôi và Thú y”, “Tong cục Quản lý đất đai” thành “Cục Quản lý đất đai”, “Tổng cục môi trường” thành “Cục Môi trường”, “Trung tâm tin học và Thống kê” thành “Cục Chuyển đổi số”, “Sở Nông nghiệp và Phát triển nông thôn” thành “Sở Nông nghiệp và Môi trường”, “Sở Tài Nguyên và Môi trường” thành “Sở Nông nghiệp và Môi trường”, “Sở Kế hoạch và Đầu tư” thành “Sở Tài chính” tại các Thông tư trong Phụ lục II ban hành kèm theo Thông tư này."
+   },
+   {
+    "source_path": "Điều 29",
+    "action": "thay-cum-tu",
+    "target_document": "53/2012/TT-BNNPTNT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Bộ Nông nghiệp và Phát triển nông thôn” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Tài nguyên và Môi trường” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Kế hoạch và Đầu tư” thành “Bộ Tài chính”, “Vụ Khoa học, Công nghệ và Môi trường” thành “Vụ Khoa học và Công nghệ”, “Cục Bảo vệ thực vật” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Trồng trọt” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Thú y” thành “Cục Chăn nuôi và Thú y”, “Cục Chế biến và Phát triển thị trường nông sản” thành “Cục Chất lượng, Chế biến và Phát triển thị trường”, “Cục Lâm nghiệp” thành “Cục Lâm nghiệp và Kiểm lâm”, “Cục Thủy sản” thành “Cục Thủy sản và Kiểm ngư”, “Cục Chăn nuôi” thành “Cục Chăn nuôi và Thú y”, “Tong cục Quản lý đất đai” thành “Cục Quản lý đất đai”, “Tổng cục môi trường” thành “Cục Môi trường”, “Trung tâm tin học và Thống kê” thành “Cục Chuyển đổi số”, “Sở Nông nghiệp và Phát triển nông thôn” thành “Sở Nông nghiệp và Môi trường”, “Sở Tài Nguyên và Môi trường” thành “Sở Nông nghiệp và Môi trường”, “Sở Kế hoạch và Đầu tư” thành “Sở Tài chính” tại các Thông tư trong Phụ lục II ban hành kèm theo Thông tư này."
+   },
+   {
+    "source_path": "Điều 29",
+    "action": "thay-cum-tu",
+    "target_document": "06/2013/TT-BNNPTNT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Bộ Nông nghiệp và Phát triển nông thôn” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Tài nguyên và Môi trường” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Kế hoạch và Đầu tư” thành “Bộ Tài chính”, “Vụ Khoa học, Công nghệ và Môi trường” thành “Vụ Khoa học và Công nghệ”, “Cục Bảo vệ thực vật” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Trồng trọt” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Thú y” thành “Cục Chăn nuôi và Thú y”, “Cục Chế biến và Phát triển thị trường nông sản” thành “Cục Chất lượng, Chế biến và Phát triển thị trường”, “Cục Lâm nghiệp” thành “Cục Lâm nghiệp và Kiểm lâm”, “Cục Thủy sản” thành “Cục Thủy sản và Kiểm ngư”, “Cục Chăn nuôi” thành “Cục Chăn nuôi và Thú y”, “Tong cục Quản lý đất đai” thành “Cục Quản lý đất đai”, “Tổng cục môi trường” thành “Cục Môi trường”, “Trung tâm tin học và Thống kê” thành “Cục Chuyển đổi số”, “Sở Nông nghiệp và Phát triển nông thôn” thành “Sở Nông nghiệp và Môi trường”, “Sở Tài Nguyên và Môi trường” thành “Sở Nông nghiệp và Môi trường”, “Sở Kế hoạch và Đầu tư” thành “Sở Tài chính” tại các Thông tư trong Phụ lục II ban hành kèm theo Thông tư này."
+   },
+   {
+    "source_path": "Điều 29",
+    "action": "thay-cum-tu",
+    "target_document": "07/2013/TT-BNNPTNT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Bộ Nông nghiệp và Phát triển nông thôn” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Tài nguyên và Môi trường” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Kế hoạch và Đầu tư” thành “Bộ Tài chính”, “Vụ Khoa học, Công nghệ và Môi trường” thành “Vụ Khoa học và Công nghệ”, “Cục Bảo vệ thực vật” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Trồng trọt” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Thú y” thành “Cục Chăn nuôi và Thú y”, “Cục Chế biến và Phát triển thị trường nông sản” thành “Cục Chất lượng, Chế biến và Phát triển thị trường”, “Cục Lâm nghiệp” thành “Cục Lâm nghiệp và Kiểm lâm”, “Cục Thủy sản” thành “Cục Thủy sản và Kiểm ngư”, “Cục Chăn nuôi” thành “Cục Chăn nuôi và Thú y”, “Tong cục Quản lý đất đai” thành “Cục Quản lý đất đai”, “Tổng cục môi trường” thành “Cục Môi trường”, “Trung tâm tin học và Thống kê” thành “Cục Chuyển đổi số”, “Sở Nông nghiệp và Phát triển nông thôn” thành “Sở Nông nghiệp và Môi trường”, “Sở Tài Nguyên và Môi trường” thành “Sở Nông nghiệp và Môi trường”, “Sở Kế hoạch và Đầu tư” thành “Sở Tài chính” tại các Thông tư trong Phụ lục II ban hành kèm theo Thông tư này."
+   },
+   {
+    "source_path": "Điều 29",
+    "action": "thay-cum-tu",
+    "target_document": "32/2013/TT-BNNTNNT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Bộ Nông nghiệp và Phát triển nông thôn” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Tài nguyên và Môi trường” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Kế hoạch và Đầu tư” thành “Bộ Tài chính”, “Vụ Khoa học, Công nghệ và Môi trường” thành “Vụ Khoa học và Công nghệ”, “Cục Bảo vệ thực vật” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Trồng trọt” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Thú y” thành “Cục Chăn nuôi và Thú y”, “Cục Chế biến và Phát triển thị trường nông sản” thành “Cục Chất lượng, Chế biến và Phát triển thị trường”, “Cục Lâm nghiệp” thành “Cục Lâm nghiệp và Kiểm lâm”, “Cục Thủy sản” thành “Cục Thủy sản và Kiểm ngư”, “Cục Chăn nuôi” thành “Cục Chăn nuôi và Thú y”, “Tong cục Quản lý đất đai” thành “Cục Quản lý đất đai”, “Tổng cục môi trường” thành “Cục Môi trường”, “Trung tâm tin học và Thống kê” thành “Cục Chuyển đổi số”, “Sở Nông nghiệp và Phát triển nông thôn” thành “Sở Nông nghiệp và Môi trường”, “Sở Tài Nguyên và Môi trường” thành “Sở Nông nghiệp và Môi trường”, “Sở Kế hoạch và Đầu tư” thành “Sở Tài chính” tại các Thông tư trong Phụ lục II ban hành kèm theo Thông tư này."
+   },
+   {
+    "source_path": "Điều 29",
+    "action": "thay-cum-tu",
+    "target_document": "49/2013/TT-BNNPTNT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Bộ Nông nghiệp và Phát triển nông thôn” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Tài nguyên và Môi trường” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Kế hoạch và Đầu tư” thành “Bộ Tài chính”, “Vụ Khoa học, Công nghệ và Môi trường” thành “Vụ Khoa học và Công nghệ”, “Cục Bảo vệ thực vật” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Trồng trọt” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Thú y” thành “Cục Chăn nuôi và Thú y”, “Cục Chế biến và Phát triển thị trường nông sản” thành “Cục Chất lượng, Chế biến và Phát triển thị trường”, “Cục Lâm nghiệp” thành “Cục Lâm nghiệp và Kiểm lâm”, “Cục Thủy sản” thành “Cục Thủy sản và Kiểm ngư”, “Cục Chăn nuôi” thành “Cục Chăn nuôi và Thú y”, “Tong cục Quản lý đất đai” thành “Cục Quản lý đất đai”, “Tổng cục môi trường” thành “Cục Môi trường”, “Trung tâm tin học và Thống kê” thành “Cục Chuyển đổi số”, “Sở Nông nghiệp và Phát triển nông thôn” thành “Sở Nông nghiệp và Môi trường”, “Sở Tài Nguyên và Môi trường” thành “Sở Nông nghiệp và Môi trường”, “Sở Kế hoạch và Đầu tư” thành “Sở Tài chính” tại các Thông tư trong Phụ lục II ban hành kèm theo Thông tư này."
+   },
+   {
+    "source_path": "Điều 29",
+    "action": "thay-cum-tu",
+    "target_document": "33/2014/TT-BNNPTNT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Bộ Nông nghiệp và Phát triển nông thôn” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Tài nguyên và Môi trường” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Kế hoạch và Đầu tư” thành “Bộ Tài chính”, “Vụ Khoa học, Công nghệ và Môi trường” thành “Vụ Khoa học và Công nghệ”, “Cục Bảo vệ thực vật” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Trồng trọt” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Thú y” thành “Cục Chăn nuôi và Thú y”, “Cục Chế biến và Phát triển thị trường nông sản” thành “Cục Chất lượng, Chế biến và Phát triển thị trường”, “Cục Lâm nghiệp” thành “Cục Lâm nghiệp và Kiểm lâm”, “Cục Thủy sản” thành “Cục Thủy sản và Kiểm ngư”, “Cục Chăn nuôi” thành “Cục Chăn nuôi và Thú y”, “Tong cục Quản lý đất đai” thành “Cục Quản lý đất đai”, “Tổng cục môi trường” thành “Cục Môi trường”, “Trung tâm tin học và Thống kê” thành “Cục Chuyển đổi số”, “Sở Nông nghiệp và Phát triển nông thôn” thành “Sở Nông nghiệp và Môi trường”, “Sở Tài Nguyên và Môi trường” thành “Sở Nông nghiệp và Môi trường”, “Sở Kế hoạch và Đầu tư” thành “Sở Tài chính” tại các Thông tư trong Phụ lục II ban hành kèm theo Thông tư này."
+   },
+   {
+    "source_path": "Điều 29",
+    "action": "thay-cum-tu",
+    "target_document": "36/2014/TT-BNNPTNT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Bộ Nông nghiệp và Phát triển nông thôn” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Tài nguyên và Môi trường” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Kế hoạch và Đầu tư” thành “Bộ Tài chính”, “Vụ Khoa học, Công nghệ và Môi trường” thành “Vụ Khoa học và Công nghệ”, “Cục Bảo vệ thực vật” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Trồng trọt” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Thú y” thành “Cục Chăn nuôi và Thú y”, “Cục Chế biến và Phát triển thị trường nông sản” thành “Cục Chất lượng, Chế biến và Phát triển thị trường”, “Cục Lâm nghiệp” thành “Cục Lâm nghiệp và Kiểm lâm”, “Cục Thủy sản” thành “Cục Thủy sản và Kiểm ngư”, “Cục Chăn nuôi” thành “Cục Chăn nuôi và Thú y”, “Tong cục Quản lý đất đai” thành “Cục Quản lý đất đai”, “Tổng cục môi trường” thành “Cục Môi trường”, “Trung tâm tin học và Thống kê” thành “Cục Chuyển đổi số”, “Sở Nông nghiệp và Phát triển nông thôn” thành “Sở Nông nghiệp và Môi trường”, “Sở Tài Nguyên và Môi trường” thành “Sở Nông nghiệp và Môi trường”, “Sở Kế hoạch và Đầu tư” thành “Sở Tài chính” tại các Thông tư trong Phụ lục II ban hành kèm theo Thông tư này."
+   },
+   {
+    "source_path": "Điều 29",
+    "action": "thay-cum-tu",
+    "target_document": "47/2014/TT-BNNPTNT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Bộ Nông nghiệp và Phát triển nông thôn” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Tài nguyên và Môi trường” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Kế hoạch và Đầu tư” thành “Bộ Tài chính”, “Vụ Khoa học, Công nghệ và Môi trường” thành “Vụ Khoa học và Công nghệ”, “Cục Bảo vệ thực vật” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Trồng trọt” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Thú y” thành “Cục Chăn nuôi và Thú y”, “Cục Chế biến và Phát triển thị trường nông sản” thành “Cục Chất lượng, Chế biến và Phát triển thị trường”, “Cục Lâm nghiệp” thành “Cục Lâm nghiệp và Kiểm lâm”, “Cục Thủy sản” thành “Cục Thủy sản và Kiểm ngư”, “Cục Chăn nuôi” thành “Cục Chăn nuôi và Thú y”, “Tong cục Quản lý đất đai” thành “Cục Quản lý đất đai”, “Tổng cục môi trường” thành “Cục Môi trường”, “Trung tâm tin học và Thống kê” thành “Cục Chuyển đổi số”, “Sở Nông nghiệp và Phát triển nông thôn” thành “Sở Nông nghiệp và Môi trường”, “Sở Tài Nguyên và Môi trường” thành “Sở Nông nghiệp và Môi trường”, “Sở Kế hoạch và Đầu tư” thành “Sở Tài chính” tại các Thông tư trong Phụ lục II ban hành kèm theo Thông tư này."
+   },
+   {
+    "source_path": "Điều 29",
+    "action": "thay-cum-tu",
+    "target_document": "54/2014/TT-BNNPTNT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Bộ Nông nghiệp và Phát triển nông thôn” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Tài nguyên và Môi trường” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Kế hoạch và Đầu tư” thành “Bộ Tài chính”, “Vụ Khoa học, Công nghệ và Môi trường” thành “Vụ Khoa học và Công nghệ”, “Cục Bảo vệ thực vật” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Trồng trọt” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Thú y” thành “Cục Chăn nuôi và Thú y”, “Cục Chế biến và Phát triển thị trường nông sản” thành “Cục Chất lượng, Chế biến và Phát triển thị trường”, “Cục Lâm nghiệp” thành “Cục Lâm nghiệp và Kiểm lâm”, “Cục Thủy sản” thành “Cục Thủy sản và Kiểm ngư”, “Cục Chăn nuôi” thành “Cục Chăn nuôi và Thú y”, “Tong cục Quản lý đất đai” thành “Cục Quản lý đất đai”, “Tổng cục môi trường” thành “Cục Môi trường”, “Trung tâm tin học và Thống kê” thành “Cục Chuyển đổi số”, “Sở Nông nghiệp và Phát triển nông thôn” thành “Sở Nông nghiệp và Môi trường”, “Sở Tài Nguyên và Môi trường” thành “Sở Nông nghiệp và Môi trường”, “Sở Kế hoạch và Đầu tư” thành “Sở Tài chính” tại các Thông tư trong Phụ lục II ban hành kèm theo Thông tư này."
+   },
+   {
+    "source_path": "Điều 29",
+    "action": "thay-cum-tu",
+    "target_document": "01/2015/TT-BNNPTNT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Bộ Nông nghiệp và Phát triển nông thôn” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Tài nguyên và Môi trường” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Kế hoạch và Đầu tư” thành “Bộ Tài chính”, “Vụ Khoa học, Công nghệ và Môi trường” thành “Vụ Khoa học và Công nghệ”, “Cục Bảo vệ thực vật” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Trồng trọt” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Thú y” thành “Cục Chăn nuôi và Thú y”, “Cục Chế biến và Phát triển thị trường nông sản” thành “Cục Chất lượng, Chế biến và Phát triển thị trường”, “Cục Lâm nghiệp” thành “Cục Lâm nghiệp và Kiểm lâm”, “Cục Thủy sản” thành “Cục Thủy sản và Kiểm ngư”, “Cục Chăn nuôi” thành “Cục Chăn nuôi và Thú y”, “Tong cục Quản lý đất đai” thành “Cục Quản lý đất đai”, “Tổng cục môi trường” thành “Cục Môi trường”, “Trung tâm tin học và Thống kê” thành “Cục Chuyển đổi số”, “Sở Nông nghiệp và Phát triển nông thôn” thành “Sở Nông nghiệp và Môi trường”, “Sở Tài Nguyên và Môi trường” thành “Sở Nông nghiệp và Môi trường”, “Sở Kế hoạch và Đầu tư” thành “Sở Tài chính” tại các Thông tư trong Phụ lục II ban hành kèm theo Thông tư này."
+   },
+   {
+    "source_path": "Điều 29",
+    "action": "thay-cum-tu",
+    "target_document": "05/2015/TT-BNNPTNT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Bộ Nông nghiệp và Phát triển nông thôn” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Tài nguyên và Môi trường” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Kế hoạch và Đầu tư” thành “Bộ Tài chính”, “Vụ Khoa học, Công nghệ và Môi trường” thành “Vụ Khoa học và Công nghệ”, “Cục Bảo vệ thực vật” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Trồng trọt” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Thú y” thành “Cục Chăn nuôi và Thú y”, “Cục Chế biến và Phát triển thị trường nông sản” thành “Cục Chất lượng, Chế biến và Phát triển thị trường”, “Cục Lâm nghiệp” thành “Cục Lâm nghiệp và Kiểm lâm”, “Cục Thủy sản” thành “Cục Thủy sản và Kiểm ngư”, “Cục Chăn nuôi” thành “Cục Chăn nuôi và Thú y”, “Tong cục Quản lý đất đai” thành “Cục Quản lý đất đai”, “Tổng cục môi trường” thành “Cục Môi trường”, “Trung tâm tin học và Thống kê” thành “Cục Chuyển đổi số”, “Sở Nông nghiệp và Phát triển nông thôn” thành “Sở Nông nghiệp và Môi trường”, “Sở Tài Nguyên và Môi trường” thành “Sở Nông nghiệp và Môi trường”, “Sở Kế hoạch và Đầu tư” thành “Sở Tài chính” tại các Thông tư trong Phụ lục II ban hành kèm theo Thông tư này."
+   },
+   {
+    "source_path": "Điều 29",
+    "action": "thay-cum-tu",
+    "target_document": "21/2015/TT-BNNPTNT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Bộ Nông nghiệp và Phát triển nông thôn” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Tài nguyên và Môi trường” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Kế hoạch và Đầu tư” thành “Bộ Tài chính”, “Vụ Khoa học, Công nghệ và Môi trường” thành “Vụ Khoa học và Công nghệ”, “Cục Bảo vệ thực vật” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Trồng trọt” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Thú y” thành “Cục Chăn nuôi và Thú y”, “Cục Chế biến và Phát triển thị trường nông sản” thành “Cục Chất lượng, Chế biến và Phát triển thị trường”, “Cục Lâm nghiệp” thành “Cục Lâm nghiệp và Kiểm lâm”, “Cục Thủy sản” thành “Cục Thủy sản và Kiểm ngư”, “Cục Chăn nuôi” thành “Cục Chăn nuôi và Thú y”, “Tong cục Quản lý đất đai” thành “Cục Quản lý đất đai”, “Tổng cục môi trường” thành “Cục Môi trường”, “Trung tâm tin học và Thống kê” thành “Cục Chuyển đổi số”, “Sở Nông nghiệp và Phát triển nông thôn” thành “Sở Nông nghiệp và Môi trường”, “Sở Tài Nguyên và Môi trường” thành “Sở Nông nghiệp và Môi trường”, “Sở Kế hoạch và Đầu tư” thành “Sở Tài chính” tại các Thông tư trong Phụ lục II ban hành kèm theo Thông tư này."
+   },
+   {
+    "source_path": "Điều 29",
+    "action": "thay-cum-tu",
+    "target_document": "28/2015/TT-BNNPTNT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Bộ Nông nghiệp và Phát triển nông thôn” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Tài nguyên và Môi trường” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Kế hoạch và Đầu tư” thành “Bộ Tài chính”, “Vụ Khoa học, Công nghệ và Môi trường” thành “Vụ Khoa học và Công nghệ”, “Cục Bảo vệ thực vật” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Trồng trọt” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Thú y” thành “Cục Chăn nuôi và Thú y”, “Cục Chế biến và Phát triển thị trường nông sản” thành “Cục Chất lượng, Chế biến và Phát triển thị trường”, “Cục Lâm nghiệp” thành “Cục Lâm nghiệp và Kiểm lâm”, “Cục Thủy sản” thành “Cục Thủy sản và Kiểm ngư”, “Cục Chăn nuôi” thành “Cục Chăn nuôi và Thú y”, “Tong cục Quản lý đất đai” thành “Cục Quản lý đất đai”, “Tổng cục môi trường” thành “Cục Môi trường”, “Trung tâm tin học và Thống kê” thành “Cục Chuyển đổi số”, “Sở Nông nghiệp và Phát triển nông thôn” thành “Sở Nông nghiệp và Môi trường”, “Sở Tài Nguyên và Môi trường” thành “Sở Nông nghiệp và Môi trường”, “Sở Kế hoạch và Đầu tư” thành “Sở Tài chính” tại các Thông tư trong Phụ lục II ban hành kèm theo Thông tư này."
+   },
+   {
+    "source_path": "Điều 29",
+    "action": "thay-cum-tu",
+    "target_document": "30/2015/TT-BNNPTNT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Bộ Nông nghiệp và Phát triển nông thôn” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Tài nguyên và Môi trường” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Kế hoạch và Đầu tư” thành “Bộ Tài chính”, “Vụ Khoa học, Công nghệ và Môi trường” thành “Vụ Khoa học và Công nghệ”, “Cục Bảo vệ thực vật” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Trồng trọt” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Thú y” thành “Cục Chăn nuôi và Thú y”, “Cục Chế biến và Phát triển thị trường nông sản” thành “Cục Chất lượng, Chế biến và Phát triển thị trường”, “Cục Lâm nghiệp” thành “Cục Lâm nghiệp và Kiểm lâm”, “Cục Thủy sản” thành “Cục Thủy sản và Kiểm ngư”, “Cục Chăn nuôi” thành “Cục Chăn nuôi và Thú y”, “Tong cục Quản lý đất đai” thành “Cục Quản lý đất đai”, “Tổng cục môi trường” thành “Cục Môi trường”, “Trung tâm tin học và Thống kê” thành “Cục Chuyển đổi số”, “Sở Nông nghiệp và Phát triển nông thôn” thành “Sở Nông nghiệp và Môi trường”, “Sở Tài Nguyên và Môi trường” thành “Sở Nông nghiệp và Môi trường”, “Sở Kế hoạch và Đầu tư” thành “Sở Tài chính” tại các Thông tư trong Phụ lục II ban hành kèm theo Thông tư này."
+   },
+   {
+    "source_path": "Điều 29",
+    "action": "thay-cum-tu",
+    "target_document": "35/2015/TT-BNNPTNT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Bộ Nông nghiệp và Phát triển nông thôn” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Tài nguyên và Môi trường” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Kế hoạch và Đầu tư” thành “Bộ Tài chính”, “Vụ Khoa học, Công nghệ và Môi trường” thành “Vụ Khoa học và Công nghệ”, “Cục Bảo vệ thực vật” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Trồng trọt” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Thú y” thành “Cục Chăn nuôi và Thú y”, “Cục Chế biến và Phát triển thị trường nông sản” thành “Cục Chất lượng, Chế biến và Phát triển thị trường”, “Cục Lâm nghiệp” thành “Cục Lâm nghiệp và Kiểm lâm”, “Cục Thủy sản” thành “Cục Thủy sản và Kiểm ngư”, “Cục Chăn nuôi” thành “Cục Chăn nuôi và Thú y”, “Tong cục Quản lý đất đai” thành “Cục Quản lý đất đai”, “Tổng cục môi trường” thành “Cục Môi trường”, “Trung tâm tin học và Thống kê” thành “Cục Chuyển đổi số”, “Sở Nông nghiệp và Phát triển nông thôn” thành “Sở Nông nghiệp và Môi trường”, “Sở Tài Nguyên và Môi trường” thành “Sở Nông nghiệp và Môi trường”, “Sở Kế hoạch và Đầu tư” thành “Sở Tài chính” tại các Thông tư trong Phụ lục II ban hành kèm theo Thông tư này."
+   },
+   {
+    "source_path": "Điều 29",
+    "action": "thay-cum-tu",
+    "target_document": "46/2015/TT-BNNPTNT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Bộ Nông nghiệp và Phát triển nông thôn” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Tài nguyên và Môi trường” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Kế hoạch và Đầu tư” thành “Bộ Tài chính”, “Vụ Khoa học, Công nghệ và Môi trường” thành “Vụ Khoa học và Công nghệ”, “Cục Bảo vệ thực vật” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Trồng trọt” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Thú y” thành “Cục Chăn nuôi và Thú y”, “Cục Chế biến và Phát triển thị trường nông sản” thành “Cục Chất lượng, Chế biến và Phát triển thị trường”, “Cục Lâm nghiệp” thành “Cục Lâm nghiệp và Kiểm lâm”, “Cục Thủy sản” thành “Cục Thủy sản và Kiểm ngư”, “Cục Chăn nuôi” thành “Cục Chăn nuôi và Thú y”, “Tong cục Quản lý đất đai” thành “Cục Quản lý đất đai”, “Tổng cục môi trường” thành “Cục Môi trường”, “Trung tâm tin học và Thống kê” thành “Cục Chuyển đổi số”, “Sở Nông nghiệp và Phát triển nông thôn” thành “Sở Nông nghiệp và Môi trường”, “Sở Tài Nguyên và Môi trường” thành “Sở Nông nghiệp và Môi trường”, “Sở Kế hoạch và Đầu tư” thành “Sở Tài chính” tại các Thông tư trong Phụ lục II ban hành kèm theo Thông tư này."
+   },
+   {
+    "source_path": "Điều 29",
+    "action": "thay-cum-tu",
+    "target_document": "28/2016/TT-BNNPTNT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Bộ Nông nghiệp và Phát triển nông thôn” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Tài nguyên và Môi trường” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Kế hoạch và Đầu tư” thành “Bộ Tài chính”, “Vụ Khoa học, Công nghệ và Môi trường” thành “Vụ Khoa học và Công nghệ”, “Cục Bảo vệ thực vật” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Trồng trọt” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Thú y” thành “Cục Chăn nuôi và Thú y”, “Cục Chế biến và Phát triển thị trường nông sản” thành “Cục Chất lượng, Chế biến và Phát triển thị trường”, “Cục Lâm nghiệp” thành “Cục Lâm nghiệp và Kiểm lâm”, “Cục Thủy sản” thành “Cục Thủy sản và Kiểm ngư”, “Cục Chăn nuôi” thành “Cục Chăn nuôi và Thú y”, “Tong cục Quản lý đất đai” thành “Cục Quản lý đất đai”, “Tổng cục môi trường” thành “Cục Môi trường”, “Trung tâm tin học và Thống kê” thành “Cục Chuyển đổi số”, “Sở Nông nghiệp và Phát triển nông thôn” thành “Sở Nông nghiệp và Môi trường”, “Sở Tài Nguyên và Môi trường” thành “Sở Nông nghiệp và Môi trường”, “Sở Kế hoạch và Đầu tư” thành “Sở Tài chính” tại các Thông tư trong Phụ lục II ban hành kèm theo Thông tư này."
+   },
+   {
+    "source_path": "Điều 29",
+    "action": "thay-cum-tu",
+    "target_document": "06/2018/TT-BNNPTNT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Bộ Nông nghiệp và Phát triển nông thôn” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Tài nguyên và Môi trường” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Kế hoạch và Đầu tư” thành “Bộ Tài chính”, “Vụ Khoa học, Công nghệ và Môi trường” thành “Vụ Khoa học và Công nghệ”, “Cục Bảo vệ thực vật” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Trồng trọt” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Thú y” thành “Cục Chăn nuôi và Thú y”, “Cục Chế biến và Phát triển thị trường nông sản” thành “Cục Chất lượng, Chế biến và Phát triển thị trường”, “Cục Lâm nghiệp” thành “Cục Lâm nghiệp và Kiểm lâm”, “Cục Thủy sản” thành “Cục Thủy sản và Kiểm ngư”, “Cục Chăn nuôi” thành “Cục Chăn nuôi và Thú y”, “Tong cục Quản lý đất đai” thành “Cục Quản lý đất đai”, “Tổng cục môi trường” thành “Cục Môi trường”, “Trung tâm tin học và Thống kê” thành “Cục Chuyển đổi số”, “Sở Nông nghiệp và Phát triển nông thôn” thành “Sở Nông nghiệp và Môi trường”, “Sở Tài Nguyên và Môi trường” thành “Sở Nông nghiệp và Môi trường”, “Sở Kế hoạch và Đầu tư” thành “Sở Tài chính” tại các Thông tư trong Phụ lục II ban hành kèm theo Thông tư này."
+   },
+   {
+    "source_path": "Điều 29",
+    "action": "thay-cum-tu",
+    "target_document": "12/2018/TT-BNNPTNT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Bộ Nông nghiệp và Phát triển nông thôn” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Tài nguyên và Môi trường” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Kế hoạch và Đầu tư” thành “Bộ Tài chính”, “Vụ Khoa học, Công nghệ và Môi trường” thành “Vụ Khoa học và Công nghệ”, “Cục Bảo vệ thực vật” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Trồng trọt” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Thú y” thành “Cục Chăn nuôi và Thú y”, “Cục Chế biến và Phát triển thị trường nông sản” thành “Cục Chất lượng, Chế biến và Phát triển thị trường”, “Cục Lâm nghiệp” thành “Cục Lâm nghiệp và Kiểm lâm”, “Cục Thủy sản” thành “Cục Thủy sản và Kiểm ngư”, “Cục Chăn nuôi” thành “Cục Chăn nuôi và Thú y”, “Tong cục Quản lý đất đai” thành “Cục Quản lý đất đai”, “Tổng cục môi trường” thành “Cục Môi trường”, “Trung tâm tin học và Thống kê” thành “Cục Chuyển đổi số”, “Sở Nông nghiệp và Phát triển nông thôn” thành “Sở Nông nghiệp và Môi trường”, “Sở Tài Nguyên và Môi trường” thành “Sở Nông nghiệp và Môi trường”, “Sở Kế hoạch và Đầu tư” thành “Sở Tài chính” tại các Thông tư trong Phụ lục II ban hành kèm theo Thông tư này."
+   },
+   {
+    "source_path": "Điều 29",
+    "action": "thay-cum-tu",
+    "target_document": "34/2018/TT-BNNPTNT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Bộ Nông nghiệp và Phát triển nông thôn” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Tài nguyên và Môi trường” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Kế hoạch và Đầu tư” thành “Bộ Tài chính”, “Vụ Khoa học, Công nghệ và Môi trường” thành “Vụ Khoa học và Công nghệ”, “Cục Bảo vệ thực vật” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Trồng trọt” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Thú y” thành “Cục Chăn nuôi và Thú y”, “Cục Chế biến và Phát triển thị trường nông sản” thành “Cục Chất lượng, Chế biến và Phát triển thị trường”, “Cục Lâm nghiệp” thành “Cục Lâm nghiệp và Kiểm lâm”, “Cục Thủy sản” thành “Cục Thủy sản và Kiểm ngư”, “Cục Chăn nuôi” thành “Cục Chăn nuôi và Thú y”, “Tong cục Quản lý đất đai” thành “Cục Quản lý đất đai”, “Tổng cục môi trường” thành “Cục Môi trường”, “Trung tâm tin học và Thống kê” thành “Cục Chuyển đổi số”, “Sở Nông nghiệp và Phát triển nông thôn” thành “Sở Nông nghiệp và Môi trường”, “Sở Tài Nguyên và Môi trường” thành “Sở Nông nghiệp và Môi trường”, “Sở Kế hoạch và Đầu tư” thành “Sở Tài chính” tại các Thông tư trong Phụ lục II ban hành kèm theo Thông tư này."
+   },
+   {
+    "source_path": "Điều 29",
+    "action": "thay-cum-tu",
+    "target_document": "44/2018/TT-BNNPTNT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Bộ Nông nghiệp và Phát triển nông thôn” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Tài nguyên và Môi trường” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Kế hoạch và Đầu tư” thành “Bộ Tài chính”, “Vụ Khoa học, Công nghệ và Môi trường” thành “Vụ Khoa học và Công nghệ”, “Cục Bảo vệ thực vật” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Trồng trọt” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Thú y” thành “Cục Chăn nuôi và Thú y”, “Cục Chế biến và Phát triển thị trường nông sản” thành “Cục Chất lượng, Chế biến và Phát triển thị trường”, “Cục Lâm nghiệp” thành “Cục Lâm nghiệp và Kiểm lâm”, “Cục Thủy sản” thành “Cục Thủy sản và Kiểm ngư”, “Cục Chăn nuôi” thành “Cục Chăn nuôi và Thú y”, “Tong cục Quản lý đất đai” thành “Cục Quản lý đất đai”, “Tổng cục môi trường” thành “Cục Môi trường”, “Trung tâm tin học và Thống kê” thành “Cục Chuyển đổi số”, “Sở Nông nghiệp và Phát triển nông thôn” thành “Sở Nông nghiệp và Môi trường”, “Sở Tài Nguyên và Môi trường” thành “Sở Nông nghiệp và Môi trường”, “Sở Kế hoạch và Đầu tư” thành “Sở Tài chính” tại các Thông tư trong Phụ lục II ban hành kèm theo Thông tư này."
+   },
+   {
+    "source_path": "Điều 29",
+    "action": "thay-cum-tu",
+    "target_document": "01/2019/TT-BNNPTNT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Bộ Nông nghiệp và Phát triển nông thôn” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Tài nguyên và Môi trường” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Kế hoạch và Đầu tư” thành “Bộ Tài chính”, “Vụ Khoa học, Công nghệ và Môi trường” thành “Vụ Khoa học và Công nghệ”, “Cục Bảo vệ thực vật” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Trồng trọt” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Thú y” thành “Cục Chăn nuôi và Thú y”, “Cục Chế biến và Phát triển thị trường nông sản” thành “Cục Chất lượng, Chế biến và Phát triển thị trường”, “Cục Lâm nghiệp” thành “Cục Lâm nghiệp và Kiểm lâm”, “Cục Thủy sản” thành “Cục Thủy sản và Kiểm ngư”, “Cục Chăn nuôi” thành “Cục Chăn nuôi và Thú y”, “Tong cục Quản lý đất đai” thành “Cục Quản lý đất đai”, “Tổng cục môi trường” thành “Cục Môi trường”, “Trung tâm tin học và Thống kê” thành “Cục Chuyển đổi số”, “Sở Nông nghiệp và Phát triển nông thôn” thành “Sở Nông nghiệp và Môi trường”, “Sở Tài Nguyên và Môi trường” thành “Sở Nông nghiệp và Môi trường”, “Sở Kế hoạch và Đầu tư” thành “Sở Tài chính” tại các Thông tư trong Phụ lục II ban hành kèm theo Thông tư này."
+   },
+   {
+    "source_path": "Điều 29",
+    "action": "thay-cum-tu",
+    "target_document": "09/2019/TT-BNNPTNT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Bộ Nông nghiệp và Phát triển nông thôn” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Tài nguyên và Môi trường” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Kế hoạch và Đầu tư” thành “Bộ Tài chính”, “Vụ Khoa học, Công nghệ và Môi trường” thành “Vụ Khoa học và Công nghệ”, “Cục Bảo vệ thực vật” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Trồng trọt” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Thú y” thành “Cục Chăn nuôi và Thú y”, “Cục Chế biến và Phát triển thị trường nông sản” thành “Cục Chất lượng, Chế biến và Phát triển thị trường”, “Cục Lâm nghiệp” thành “Cục Lâm nghiệp và Kiểm lâm”, “Cục Thủy sản” thành “Cục Thủy sản và Kiểm ngư”, “Cục Chăn nuôi” thành “Cục Chăn nuôi và Thú y”, “Tong cục Quản lý đất đai” thành “Cục Quản lý đất đai”, “Tổng cục môi trường” thành “Cục Môi trường”, “Trung tâm tin học và Thống kê” thành “Cục Chuyển đổi số”, “Sở Nông nghiệp và Phát triển nông thôn” thành “Sở Nông nghiệp và Môi trường”, “Sở Tài Nguyên và Môi trường” thành “Sở Nông nghiệp và Môi trường”, “Sở Kế hoạch và Đầu tư” thành “Sở Tài chính” tại các Thông tư trong Phụ lục II ban hành kèm theo Thông tư này."
+   },
+   {
+    "source_path": "Điều 29",
+    "action": "thay-cum-tu",
+    "target_document": "17/2019/TT-BNNPTNT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Bộ Nông nghiệp và Phát triển nông thôn” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Tài nguyên và Môi trường” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Kế hoạch và Đầu tư” thành “Bộ Tài chính”, “Vụ Khoa học, Công nghệ và Môi trường” thành “Vụ Khoa học và Công nghệ”, “Cục Bảo vệ thực vật” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Trồng trọt” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Thú y” thành “Cục Chăn nuôi và Thú y”, “Cục Chế biến và Phát triển thị trường nông sản” thành “Cục Chất lượng, Chế biến và Phát triển thị trường”, “Cục Lâm nghiệp” thành “Cục Lâm nghiệp và Kiểm lâm”, “Cục Thủy sản” thành “Cục Thủy sản và Kiểm ngư”, “Cục Chăn nuôi” thành “Cục Chăn nuôi và Thú y”, “Tong cục Quản lý đất đai” thành “Cục Quản lý đất đai”, “Tổng cục môi trường” thành “Cục Môi trường”, “Trung tâm tin học và Thống kê” thành “Cục Chuyển đổi số”, “Sở Nông nghiệp và Phát triển nông thôn” thành “Sở Nông nghiệp và Môi trường”, “Sở Tài Nguyên và Môi trường” thành “Sở Nông nghiệp và Môi trường”, “Sở Kế hoạch và Đầu tư” thành “Sở Tài chính” tại các Thông tư trong Phụ lục II ban hành kèm theo Thông tư này."
+   },
+   {
+    "source_path": "Điều 29",
+    "action": "thay-cum-tu",
+    "target_document": "18/2019/TT-BNNPTNT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Bộ Nông nghiệp và Phát triển nông thôn” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Tài nguyên và Môi trường” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Kế hoạch và Đầu tư” thành “Bộ Tài chính”, “Vụ Khoa học, Công nghệ và Môi trường” thành “Vụ Khoa học và Công nghệ”, “Cục Bảo vệ thực vật” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Trồng trọt” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Thú y” thành “Cục Chăn nuôi và Thú y”, “Cục Chế biến và Phát triển thị trường nông sản” thành “Cục Chất lượng, Chế biến và Phát triển thị trường”, “Cục Lâm nghiệp” thành “Cục Lâm nghiệp và Kiểm lâm”, “Cục Thủy sản” thành “Cục Thủy sản và Kiểm ngư”, “Cục Chăn nuôi” thành “Cục Chăn nuôi và Thú y”, “Tong cục Quản lý đất đai” thành “Cục Quản lý đất đai”, “Tổng cục môi trường” thành “Cục Môi trường”, “Trung tâm tin học và Thống kê” thành “Cục Chuyển đổi số”, “Sở Nông nghiệp và Phát triển nông thôn” thành “Sở Nông nghiệp và Môi trường”, “Sở Tài Nguyên và Môi trường” thành “Sở Nông nghiệp và Môi trường”, “Sở Kế hoạch và Đầu tư” thành “Sở Tài chính” tại các Thông tư trong Phụ lục II ban hành kèm theo Thông tư này."
+   },
+   {
+    "source_path": "Điều 29",
+    "action": "thay-cum-tu",
+    "target_document": "19/2019/TT-BNNPTNT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Bộ Nông nghiệp và Phát triển nông thôn” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Tài nguyên và Môi trường” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Kế hoạch và Đầu tư” thành “Bộ Tài chính”, “Vụ Khoa học, Công nghệ và Môi trường” thành “Vụ Khoa học và Công nghệ”, “Cục Bảo vệ thực vật” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Trồng trọt” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Thú y” thành “Cục Chăn nuôi và Thú y”, “Cục Chế biến và Phát triển thị trường nông sản” thành “Cục Chất lượng, Chế biến và Phát triển thị trường”, “Cục Lâm nghiệp” thành “Cục Lâm nghiệp và Kiểm lâm”, “Cục Thủy sản” thành “Cục Thủy sản và Kiểm ngư”, “Cục Chăn nuôi” thành “Cục Chăn nuôi và Thú y”, “Tong cục Quản lý đất đai” thành “Cục Quản lý đất đai”, “Tổng cục môi trường” thành “Cục Môi trường”, “Trung tâm tin học và Thống kê” thành “Cục Chuyển đổi số”, “Sở Nông nghiệp và Phát triển nông thôn” thành “Sở Nông nghiệp và Môi trường”, “Sở Tài Nguyên và Môi trường” thành “Sở Nông nghiệp và Môi trường”, “Sở Kế hoạch và Đầu tư” thành “Sở Tài chính” tại các Thông tư trong Phụ lục II ban hành kèm theo Thông tư này."
+   },
+   {
+    "source_path": "Điều 29",
+    "action": "thay-cum-tu",
+    "target_document": "26/2019/TT-BNNPTNT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Bộ Nông nghiệp và Phát triển nông thôn” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Tài nguyên và Môi trường” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Kế hoạch và Đầu tư” thành “Bộ Tài chính”, “Vụ Khoa học, Công nghệ và Môi trường” thành “Vụ Khoa học và Công nghệ”, “Cục Bảo vệ thực vật” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Trồng trọt” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Thú y” thành “Cục Chăn nuôi và Thú y”, “Cục Chế biến và Phát triển thị trường nông sản” thành “Cục Chất lượng, Chế biến và Phát triển thị trường”, “Cục Lâm nghiệp” thành “Cục Lâm nghiệp và Kiểm lâm”, “Cục Thủy sản” thành “Cục Thủy sản và Kiểm ngư”, “Cục Chăn nuôi” thành “Cục Chăn nuôi và Thú y”, “Tong cục Quản lý đất đai” thành “Cục Quản lý đất đai”, “Tổng cục môi trường” thành “Cục Môi trường”, “Trung tâm tin học và Thống kê” thành “Cục Chuyển đổi số”, “Sở Nông nghiệp và Phát triển nông thôn” thành “Sở Nông nghiệp và Môi trường”, “Sở Tài Nguyên và Môi trường” thành “Sở Nông nghiệp và Môi trường”, “Sở Kế hoạch và Đầu tư” thành “Sở Tài chính” tại các Thông tư trong Phụ lục II ban hành kèm theo Thông tư này."
+   },
+   {
+    "source_path": "Điều 29",
+    "action": "thay-cum-tu",
+    "target_document": "15/2020/TT-BNNPTNT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Bộ Nông nghiệp và Phát triển nông thôn” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Tài nguyên và Môi trường” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Kế hoạch và Đầu tư” thành “Bộ Tài chính”, “Vụ Khoa học, Công nghệ và Môi trường” thành “Vụ Khoa học và Công nghệ”, “Cục Bảo vệ thực vật” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Trồng trọt” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Thú y” thành “Cục Chăn nuôi và Thú y”, “Cục Chế biến và Phát triển thị trường nông sản” thành “Cục Chất lượng, Chế biến và Phát triển thị trường”, “Cục Lâm nghiệp” thành “Cục Lâm nghiệp và Kiểm lâm”, “Cục Thủy sản” thành “Cục Thủy sản và Kiểm ngư”, “Cục Chăn nuôi” thành “Cục Chăn nuôi và Thú y”, “Tong cục Quản lý đất đai” thành “Cục Quản lý đất đai”, “Tổng cục môi trường” thành “Cục Môi trường”, “Trung tâm tin học và Thống kê” thành “Cục Chuyển đổi số”, “Sở Nông nghiệp và Phát triển nông thôn” thành “Sở Nông nghiệp và Môi trường”, “Sở Tài Nguyên và Môi trường” thành “Sở Nông nghiệp và Môi trường”, “Sở Kế hoạch và Đầu tư” thành “Sở Tài chính” tại các Thông tư trong Phụ lục II ban hành kèm theo Thông tư này."
+   },
+   {
+    "source_path": "Điều 29",
+    "action": "thay-cum-tu",
+    "target_document": "15/2021/TT-BNNPTNT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Bộ Nông nghiệp và Phát triển nông thôn” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Tài nguyên và Môi trường” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Kế hoạch và Đầu tư” thành “Bộ Tài chính”, “Vụ Khoa học, Công nghệ và Môi trường” thành “Vụ Khoa học và Công nghệ”, “Cục Bảo vệ thực vật” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Trồng trọt” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Thú y” thành “Cục Chăn nuôi và Thú y”, “Cục Chế biến và Phát triển thị trường nông sản” thành “Cục Chất lượng, Chế biến và Phát triển thị trường”, “Cục Lâm nghiệp” thành “Cục Lâm nghiệp và Kiểm lâm”, “Cục Thủy sản” thành “Cục Thủy sản và Kiểm ngư”, “Cục Chăn nuôi” thành “Cục Chăn nuôi và Thú y”, “Tong cục Quản lý đất đai” thành “Cục Quản lý đất đai”, “Tổng cục môi trường” thành “Cục Môi trường”, “Trung tâm tin học và Thống kê” thành “Cục Chuyển đổi số”, “Sở Nông nghiệp và Phát triển nông thôn” thành “Sở Nông nghiệp và Môi trường”, “Sở Tài Nguyên và Môi trường” thành “Sở Nông nghiệp và Môi trường”, “Sở Kế hoạch và Đầu tư” thành “Sở Tài chính” tại các Thông tư trong Phụ lục II ban hành kèm theo Thông tư này."
+   },
+   {
+    "source_path": "Điều 29",
+    "action": "thay-cum-tu",
+    "target_document": "20/2021/TT-BNNPTNT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Bộ Nông nghiệp và Phát triển nông thôn” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Tài nguyên và Môi trường” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Kế hoạch và Đầu tư” thành “Bộ Tài chính”, “Vụ Khoa học, Công nghệ và Môi trường” thành “Vụ Khoa học và Công nghệ”, “Cục Bảo vệ thực vật” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Trồng trọt” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Thú y” thành “Cục Chăn nuôi và Thú y”, “Cục Chế biến và Phát triển thị trường nông sản” thành “Cục Chất lượng, Chế biến và Phát triển thị trường”, “Cục Lâm nghiệp” thành “Cục Lâm nghiệp và Kiểm lâm”, “Cục Thủy sản” thành “Cục Thủy sản và Kiểm ngư”, “Cục Chăn nuôi” thành “Cục Chăn nuôi và Thú y”, “Tong cục Quản lý đất đai” thành “Cục Quản lý đất đai”, “Tổng cục môi trường” thành “Cục Môi trường”, “Trung tâm tin học và Thống kê” thành “Cục Chuyển đổi số”, “Sở Nông nghiệp và Phát triển nông thôn” thành “Sở Nông nghiệp và Môi trường”, “Sở Tài Nguyên và Môi trường” thành “Sở Nông nghiệp và Môi trường”, “Sở Kế hoạch và Đầu tư” thành “Sở Tài chính” tại các Thông tư trong Phụ lục II ban hành kèm theo Thông tư này."
+   },
+   {
+    "source_path": "Điều 29",
+    "action": "thay-cum-tu",
+    "target_document": "11/2022/TT-BNNPTNT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Bộ Nông nghiệp và Phát triển nông thôn” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Tài nguyên và Môi trường” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Kế hoạch và Đầu tư” thành “Bộ Tài chính”, “Vụ Khoa học, Công nghệ và Môi trường” thành “Vụ Khoa học và Công nghệ”, “Cục Bảo vệ thực vật” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Trồng trọt” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Thú y” thành “Cục Chăn nuôi và Thú y”, “Cục Chế biến và Phát triển thị trường nông sản” thành “Cục Chất lượng, Chế biến và Phát triển thị trường”, “Cục Lâm nghiệp” thành “Cục Lâm nghiệp và Kiểm lâm”, “Cục Thủy sản” thành “Cục Thủy sản và Kiểm ngư”, “Cục Chăn nuôi” thành “Cục Chăn nuôi và Thú y”, “Tong cục Quản lý đất đai” thành “Cục Quản lý đất đai”, “Tổng cục môi trường” thành “Cục Môi trường”, “Trung tâm tin học và Thống kê” thành “Cục Chuyển đổi số”, “Sở Nông nghiệp và Phát triển nông thôn” thành “Sở Nông nghiệp và Môi trường”, “Sở Tài Nguyên và Môi trường” thành “Sở Nông nghiệp và Môi trường”, “Sở Kế hoạch và Đầu tư” thành “Sở Tài chính” tại các Thông tư trong Phụ lục II ban hành kèm theo Thông tư này."
+   },
+   {
+    "source_path": "Điều 29",
+    "action": "thay-cum-tu",
+    "target_document": "28/2022/TT-BNNPTNT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Bộ Nông nghiệp và Phát triển nông thôn” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Tài nguyên và Môi trường” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Kế hoạch và Đầu tư” thành “Bộ Tài chính”, “Vụ Khoa học, Công nghệ và Môi trường” thành “Vụ Khoa học và Công nghệ”, “Cục Bảo vệ thực vật” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Trồng trọt” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Thú y” thành “Cục Chăn nuôi và Thú y”, “Cục Chế biến và Phát triển thị trường nông sản” thành “Cục Chất lượng, Chế biến và Phát triển thị trường”, “Cục Lâm nghiệp” thành “Cục Lâm nghiệp và Kiểm lâm”, “Cục Thủy sản” thành “Cục Thủy sản và Kiểm ngư”, “Cục Chăn nuôi” thành “Cục Chăn nuôi và Thú y”, “Tong cục Quản lý đất đai” thành “Cục Quản lý đất đai”, “Tổng cục môi trường” thành “Cục Môi trường”, “Trung tâm tin học và Thống kê” thành “Cục Chuyển đổi số”, “Sở Nông nghiệp và Phát triển nông thôn” thành “Sở Nông nghiệp và Môi trường”, “Sở Tài Nguyên và Môi trường” thành “Sở Nông nghiệp và Môi trường”, “Sở Kế hoạch và Đầu tư” thành “Sở Tài chính” tại các Thông tư trong Phụ lục II ban hành kèm theo Thông tư này."
+   },
+   {
+    "source_path": "Điều 29",
+    "action": "thay-cum-tu",
+    "target_document": "04/2023/TT-BNNPTNT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Bộ Nông nghiệp và Phát triển nông thôn” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Tài nguyên và Môi trường” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Kế hoạch và Đầu tư” thành “Bộ Tài chính”, “Vụ Khoa học, Công nghệ và Môi trường” thành “Vụ Khoa học và Công nghệ”, “Cục Bảo vệ thực vật” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Trồng trọt” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Thú y” thành “Cục Chăn nuôi và Thú y”, “Cục Chế biến và Phát triển thị trường nông sản” thành “Cục Chất lượng, Chế biến và Phát triển thị trường”, “Cục Lâm nghiệp” thành “Cục Lâm nghiệp và Kiểm lâm”, “Cục Thủy sản” thành “Cục Thủy sản và Kiểm ngư”, “Cục Chăn nuôi” thành “Cục Chăn nuôi và Thú y”, “Tong cục Quản lý đất đai” thành “Cục Quản lý đất đai”, “Tổng cục môi trường” thành “Cục Môi trường”, “Trung tâm tin học và Thống kê” thành “Cục Chuyển đổi số”, “Sở Nông nghiệp và Phát triển nông thôn” thành “Sở Nông nghiệp và Môi trường”, “Sở Tài Nguyên và Môi trường” thành “Sở Nông nghiệp và Môi trường”, “Sở Kế hoạch và Đầu tư” thành “Sở Tài chính” tại các Thông tư trong Phụ lục II ban hành kèm theo Thông tư này."
+   },
+   {
+    "source_path": "Điều 29",
+    "action": "thay-cum-tu",
+    "target_document": "03/2024/TT-BNNPTNT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Bộ Nông nghiệp và Phát triển nông thôn” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Tài nguyên và Môi trường” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Kế hoạch và Đầu tư” thành “Bộ Tài chính”, “Vụ Khoa học, Công nghệ và Môi trường” thành “Vụ Khoa học và Công nghệ”, “Cục Bảo vệ thực vật” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Trồng trọt” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Thú y” thành “Cục Chăn nuôi và Thú y”, “Cục Chế biến và Phát triển thị trường nông sản” thành “Cục Chất lượng, Chế biến và Phát triển thị trường”, “Cục Lâm nghiệp” thành “Cục Lâm nghiệp và Kiểm lâm”, “Cục Thủy sản” thành “Cục Thủy sản và Kiểm ngư”, “Cục Chăn nuôi” thành “Cục Chăn nuôi và Thú y”, “Tong cục Quản lý đất đai” thành “Cục Quản lý đất đai”, “Tổng cục môi trường” thành “Cục Môi trường”, “Trung tâm tin học và Thống kê” thành “Cục Chuyển đổi số”, “Sở Nông nghiệp và Phát triển nông thôn” thành “Sở Nông nghiệp và Môi trường”, “Sở Tài Nguyên và Môi trường” thành “Sở Nông nghiệp và Môi trường”, “Sở Kế hoạch và Đầu tư” thành “Sở Tài chính” tại các Thông tư trong Phụ lục II ban hành kèm theo Thông tư này."
+   },
+   {
+    "source_path": "Điều 29",
+    "action": "thay-cum-tu",
+    "target_document": "14/2024/TT-BNNPTNT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Bộ Nông nghiệp và Phát triển nông thôn” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Tài nguyên và Môi trường” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Kế hoạch và Đầu tư” thành “Bộ Tài chính”, “Vụ Khoa học, Công nghệ và Môi trường” thành “Vụ Khoa học và Công nghệ”, “Cục Bảo vệ thực vật” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Trồng trọt” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Thú y” thành “Cục Chăn nuôi và Thú y”, “Cục Chế biến và Phát triển thị trường nông sản” thành “Cục Chất lượng, Chế biến và Phát triển thị trường”, “Cục Lâm nghiệp” thành “Cục Lâm nghiệp và Kiểm lâm”, “Cục Thủy sản” thành “Cục Thủy sản và Kiểm ngư”, “Cục Chăn nuôi” thành “Cục Chăn nuôi và Thú y”, “Tong cục Quản lý đất đai” thành “Cục Quản lý đất đai”, “Tổng cục môi trường” thành “Cục Môi trường”, “Trung tâm tin học và Thống kê” thành “Cục Chuyển đổi số”, “Sở Nông nghiệp và Phát triển nông thôn” thành “Sở Nông nghiệp và Môi trường”, “Sở Tài Nguyên và Môi trường” thành “Sở Nông nghiệp và Môi trường”, “Sở Kế hoạch và Đầu tư” thành “Sở Tài chính” tại các Thông tư trong Phụ lục II ban hành kèm theo Thông tư này."
+   },
+   {
+    "source_path": "Điều 29",
+    "action": "thay-cum-tu",
+    "target_document": "25/2024/TT-BNNPTNT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Bộ Nông nghiệp và Phát triển nông thôn” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Tài nguyên và Môi trường” thành “Bộ Nông nghiệp và Môi trường”, “Bộ Kế hoạch và Đầu tư” thành “Bộ Tài chính”, “Vụ Khoa học, Công nghệ và Môi trường” thành “Vụ Khoa học và Công nghệ”, “Cục Bảo vệ thực vật” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Trồng trọt” thành “Cục Trồng trọt và Bảo vệ thực vật”, “Cục Thú y” thành “Cục Chăn nuôi và Thú y”, “Cục Chế biến và Phát triển thị trường nông sản” thành “Cục Chất lượng, Chế biến và Phát triển thị trường”, “Cục Lâm nghiệp” thành “Cục Lâm nghiệp và Kiểm lâm”, “Cục Thủy sản” thành “Cục Thủy sản và Kiểm ngư”, “Cục Chăn nuôi” thành “Cục Chăn nuôi và Thú y”, “Tong cục Quản lý đất đai” thành “Cục Quản lý đất đai”, “Tổng cục môi trường” thành “Cục Môi trường”, “Trung tâm tin học và Thống kê” thành “Cục Chuyển đổi số”, “Sở Nông nghiệp và Phát triển nông thôn” thành “Sở Nông nghiệp và Môi trường”, “Sở Tài Nguyên và Môi trường” thành “Sở Nông nghiệp và Môi trường”, “Sở Kế hoạch và Đầu tư” thành “Sở Tài chính” tại các Thông tư trong Phụ lục II ban hành kèm theo Thông tư này."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 29 thay cụm từ tên cơ quan tại 68 thông tư liệt kê ở Phụ lục II: mỗi thông tư một quan hệ, số hiệu chép như văn bản nêu (có số hiệu viết sai: 42/2013/TTL-TBNNPTNT-BTC-BKHĐT, 71/2010/TT-BNNPTN, 32/2013/TT-BNNTNNT). Quy-dinh-chi-tiet lên khoản 1 Điều 64 NĐ 136/2025 ghi ở Điều 1 Khoản 1 (tên Chương II cũng nêu 'quy định chi tiết ... tại Nghị định số 136/2025/NĐ-CP'). Chương III (Điều 22-25) chỉ dẫn chiếu Thông tư 21/2015, 05/2015, 44/2018, không phải hành động. Điều 1 Khoản 3 không nêu văn bản đích."
+ }
+]

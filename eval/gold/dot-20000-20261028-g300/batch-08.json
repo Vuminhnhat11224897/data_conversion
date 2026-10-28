@@ -1,0 +1,70 @@
+[
+ {
+  "doc_id": "673061",
+  "relations": [
+   {
+    "source_path": "Điều 2 Khoản 3",
+    "action": "thay-the",
+    "target_document": "26/2021/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này thay thế các Quyết định: Quyết định số 26/2021/QĐ-UBND ngày 13/7/2021 của Ủy ban nhân dân tỉnh Long An về việc ban hành Điều lệ tổ chức và hoạt động của Quỹ Đầu tư phát triển tỉnh Long An"
+   },
+   {
+    "source_path": "Điều 2 Khoản 3",
+    "action": "thay-the",
+    "target_document": "34/2024/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 34/2024/QĐ-UBND ngày 14/8/2024 của Ủy ban nhân dân tỉnh Long An về việc sửa đổi, bổ sung một số điều của Điều lệ tổ chức và hoạt động của Quỹ Đầu tư phát triển tỉnh Long An ban hành kèm theo Quyết định số 26/2021/QĐ-UBND ngày 13/7/2021 của Ủy ban nhân dân tỉnh Long An"
+   },
+   {
+    "source_path": "Điều 2 Khoản 3",
+    "action": "thay-the",
+    "target_document": "34/2025/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 34/2025/QĐ-UBND ngày 11/4/2025 của Ủy ban nhân dân tỉnh Long An về việc sửa đổi, bổ sung một số điều của Điều lệ tổ chức và hoạt động của Quỹ Đầu tư phát triển tỉnh Long An"
+   },
+   {
+    "source_path": "Điều 2 Khoản 4",
+    "action": "bai-bo",
+    "target_document": "1848/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này bãi bỏ các Quyết định: Quyết định số 1848/QĐ-UBND ngày 05/9/2022 của Ủy ban nhân dân tỉnh Tây Ninh về việc ban hành Điều lệ tổ chức và hoạt động của Quỹ Đầu tư phát triển Tây Ninh"
+   },
+   {
+    "source_path": "Điều 2 Khoản 4",
+    "action": "bai-bo",
+    "target_document": "1728/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 1728/QĐ-UBND ngày 26/6/2025 của Ủy ban nhân dân tỉnh Tây Ninh về việc sửa đổi, bổ sung một số điều của Quyết định số 1848/QĐ-UBND ngày 05/9/2022 của Ủy ban nhân dân tỉnh Tây Ninh ban hành Điều lệ tổ chức và hoạt động của Quỹ Đầu tư phát triển Tây Ninh."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Khoản 3 Điều 2 thay thế 3 QĐ của UBND tỉnh Long An (cũ); khoản 4 bãi bỏ 2 QĐ của UBND tỉnh Tây Ninh. Điều lệ kèm theo không có tác động."
+ },
+ {
+  "doc_id": "673433",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "27/2025/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực kể từ ngày ban hành và thay thế Quyết định số 27/2025/QĐ-UBND ngày 15/4/2025 của UBND tỉnh ban hành Quy chế phối hợp thực hiện chức năng, nhiệm vụ, quyền hạn giữa Văn phòng Đăng ký đất đai, Chi nhánh Văn phòng Đăng ký đất đai với cơ quan có chức năng quản lý đất đai cấp huyện, Ủy ban nhân dân cấp huyện, cơ quan tài chính, cơ quan thuế và các cơ quan, đơn vị khác có liên quan trên địa bàn tỉnh Hà Tĩnh."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Chỉ Điều 2 thay thế QĐ 27/2025/QĐ-UBND. Khoản 3 Điều 34 Quy chế là câu chung về văn bản viện dẫn, không phải quan hệ."
+ }
+]

@@ -1,0 +1,24 @@
+[
+ {
+  "doc_id": "681107",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Phê duyệt phương án đơn giản hóa TTHC; các nội dung 'Kiến nghị thực thi: Sửa đổi ... Nghị định 54/2024/NĐ-CP', 'sửa đổi Quyết định số 1907/QĐ-UBND', 'Bãi bỏ thủ tục hành chính' ở Phụ lục là đề xuất/kiến nghị, không phải tác động trực tiếp."
+ },
+ {
+  "doc_id": "688748",
+  "relations": [
+   {
+    "source_path": "Điều 3 Khoản 1",
+    "action": "thay-the",
+    "target_document": "841/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định có hiệu lực kể từ ngày ký và thay thế Quyết định số 841/QĐ-UBND ngày 17 tháng 4 năm 2023 của Chủ tịch Ủy ban nhân dân tỉnh Vĩnh Long"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Cột 'Phê duyệt quy trình nội bộ' (QĐ 1182/QĐ-UBND) và căn cứ pháp lý không phải đích."
+ }
+]

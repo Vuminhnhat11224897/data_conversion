@@ -1,0 +1,67 @@
+[
+ {
+  "doc_id": "659254",
+  "relations": [
+   {
+    "source_path": "Điều 3",
+    "action": "bai-bo",
+    "target_document": "2541/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục"
+    ],
+    "doi_tuong": "nội dung phê duyệt các quy trình nội bộ lĩnh vực giáo dục nghề nghiệp tại các số thứ tự nêu trong câu",
+    "evidence": "Bãi bỏ các nội dung phê duyệt đối với các quy trình nội bộ trong lĩnh vực giáo dục nghề nghiệp tại số thứ tự: 1, 2, 3, 4, 8, 9, 10, 11, 12, 13, 14 mục I phần I, 14, 15, 17, 18, 19 mục II phần I; 1, 2, 3, 4, 8, 9, 10, 11, 12, 13, 14 mục I phần II, 14, 15, 17, 18, 19 mục II phần II phụ lục kèm theo Quyết định số 2541/QĐ-UBND ngày 26/11/2021."
+   },
+   {
+    "source_path": "Điều 3",
+    "action": "bai-bo",
+    "target_document": "1573/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục"
+    ],
+    "doi_tuong": "nội dung phê duyệt các quy trình nội bộ lĩnh vực giáo dục nghề nghiệp tại các số thứ tự nêu trong câu",
+    "evidence": "Bãi bỏ các nội dung phê duyệt đối với các quy trình nội bộ trong lĩnh vực giáo dục nghề nghiệp tại số thứ tự: 1, 2, 3, 4, 5 mục I phần A, 1, 2 mục II phần A; 1, 2, 3, 4, 5 mục I phần B; 1, 2 mục II phần B phụ lục kèm theo Quyết định số 1573/QĐ-UBND ngày 23/8/2022."
+   },
+   {
+    "source_path": "Điều 3",
+    "action": "bai-bo",
+    "target_document": "2325/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục"
+    ],
+    "doi_tuong": "nội dung phê duyệt các quy trình nội bộ lĩnh vực giáo dục nghề nghiệp tại các số thứ tự nêu trong câu",
+    "evidence": "Bãi bỏ các nội dung phê duyệt đối với các quy trình nội bộ trong lĩnh vực giáo dục nghề nghiệp tại số thứ tự: 1, 2 tiểu mục III, mục B phần I; 1, 2 tiểu mục III, mục B phần II phụ lục kèm theo Quyết định số 2325/QĐ-UBND ngày 22/11/2023 của Chủ tịch UBND tỉnh Nam Định."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 3 bãi bỏ một phần (các số thứ tự quy trình nội bộ) trong phụ lục không đánh số của 3 quyết định. Phụ lục là nội dung quy trình, không có tác động."
+ },
+ {
+  "doc_id": "659286",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "1405/QĐ-BGTVT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực kể từ ngày ký và thay thế các Quyết định sau:\n- Quyết định số 1405/QĐ-BGTVT ngày 03/11/2023"
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "157/QĐ-BXD",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 157/QĐ-BXD ngày 08/3/2024 của Bộ trưởng Bộ Xây dựng ban hành Danh mục thủ tục hành chính thuộc thẩm quyền giải quyết của Bộ Xây dựng đủ điều kiện thực hiện dịch vụ công trực tuyến toàn trình."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 2 thay thế 2 quyết định. Phụ lục I, II là danh mục TTHC, cột ghi chú chỉ ghi 'Điều chỉnh tên TTHC', không nêu văn bản đích."
+ }
+]

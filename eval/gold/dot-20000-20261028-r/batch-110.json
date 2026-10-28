@@ -1,0 +1,65 @@
+[
+ {
+  "doc_id": "652325",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "986/QĐ-BXD",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực thi hành kể từ ngày ký và thay thế các quyết định sau đây:"
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "1604/QĐ-BGTVT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực thi hành kể từ ngày ký và thay thế các quyết định sau đây:"
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 2",
+    "loai": "thieu_noi_dung",
+    "ghi_chu": "noi_dung Điều 2 chỉ có câu dẫn; mất khoản 1 (QĐ 986/QĐ-BXD) và khoản 2 (QĐ 1604/QĐ-BGTVT) liệt kê văn bản bị thay thế, thấy trong toàn văn"
+   }
+  ],
+  "ghi_chu": "Điều 2 thay thế 2 quyết định liệt kê ở khoản 1, 2. Danh mục TTHC công bố không có hành động."
+ },
+ {
+  "doc_id": "652393",
+  "relations": [
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "2578/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "02 thủ tục hành chính nội bộ: Thẩm định đề cương và dự toán chi tiết hoạt động ứng dụng công nghệ thông tin sử dụng kinh phí chi thường xuyên nguồn vốn ngân sách nhà nước; Thẩm định phương án, giải pháp kỹ thuật, công nghệ của đề cương và dự toán chi tiết hoạt động ứng dụng CNTT sử dụng kinh phí chi thường xuyên nguồn vốn ngân sách nhà nước",
+    "evidence": "Bãi bỏ 02 thủ tục hành chính đã được công bố tại Quyết định số 2578/QĐ- UBND ngày 14 tháng 10 năm 2024 của UBND tỉnh Hải Dương"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Khoản 1 công bố TTHC sửa đổi, bổ sung không nêu văn bản đích; Phụ lục II cột 'Văn bản quy định bãi bỏ' là căn cứ pháp lý (NĐ 82/2024/NĐ-CP), không phải đích."
+ },
+ {
+  "doc_id": "653589",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "2520/QĐ-BKHĐT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 2520/QĐ-BKHĐT ngày 31 tháng 10 năm 2024 của Bộ trưởng Bộ Kế hoạch và Đầu tư ban hành quy trình nội bộ, quy trình điện tử đối với việc giải quyết từng thủ tục hành chính trong lĩnh vực đầu tư từ Việt Nam ra nước ngoài thuộc phạm vi thực hiện của Bộ Kế hoạch và Đầu tư hết hiệu lực thi hành kể từ ngày Quyết định này có hiệu lực thi hành."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 2 tuyên bố QĐ 2520/QĐ-BKHĐT hết hiệu lực."
+ }
+]

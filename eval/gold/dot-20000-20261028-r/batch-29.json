@@ -1,0 +1,36 @@
+[
+ {
+  "doc_id": "661748",
+  "relations": [
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "huong-dan",
+    "target_document": "24/2020/TT-BYT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Hướng dẫn ghi Phiếu chẩn đoán nguyên nhân tử vong thực hiện Thông tư số 24/2020/TT-BYT ngày 28/12/2020 của Bộ trưởng Bộ Y tế quy định về Phiếu chẩn đoán nguyên nhân tử vong, cấp Giấy báo tử và thống kê tử vong tại cơ sở khám bệnh, chữa bệnh"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "huong-dan",
+    "target_document": "63/2024/NĐ-CP",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bản hiển thị dữ liệu điện tử Giấy báo tử và Hướng dẫn liên thông dữ liệu điện tử có ký số Giấy báo tử từ các cơ sở khám bệnh, chữa bệnh kết nối, chia sẻ với Phần mềm dịch vụ công liên thông (Phụ lục 02) thực hiện Nghị định 63/2024/NĐ- CP ngày 10 tháng 6 năm 2024 của Chính phủ"
+   },
+   {
+    "source_path": "Điều 3",
+    "action": "thay-the",
+    "target_document": "1921/QĐ-BYT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực kể từ ngày ký ban hành, thay thế Quyết định số 1921/QĐ-BYT ngày 12/07/2022 về việc ban hành hướng dẫn ghi Phiếu chẩn đoán nguyên nhân tử vong tại các cơ sở khám bệnh, chữa bệnh."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên văn bản không nêu văn bản đích nên không có quan hệ Phần đầu. Phụ lục 02 ghi mẫu Giấy báo tử 'ban hành kèm theo Thông tư số 24/2020/TT-BYT..., có bổ sung Mã Giấy báo tử...' là mô tả bản hiển thị điện tử, không sửa Thông tư nên không ghi bo-sung. Hai quan hệ huong-dan dựa vào chữ 'Hướng dẫn ... thực hiện' ở Điều 1."
+ }
+]

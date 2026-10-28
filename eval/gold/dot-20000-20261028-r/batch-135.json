@@ -1,0 +1,54 @@
+[
+ {
+  "doc_id": "665223",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "3637/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Các thủ tục hành chính và quy trình điện tử giải quyết TTHC trong lĩnh vực quản lý nhà nước về hội, quỹ có mã số tương ứng",
+    "evidence": "Các thủ tục hành chính và quy trình điện tử giải quyết TTHC trong lĩnh vực quản lý nhà nước về hội, quỹ có mã số tương ứng được công bố tại các Quyết định số 3637/QĐ-UBND ngày 29/11/2024, Quyết định số 3524/QĐ-UBND ngày 21/11/2024, Quyết định số 3638/QĐ-UBND ngày 29/11/2024 của Chủ tịch UBND tỉnh Đồng Nai hết hiệu lực kể từ ngày Quyết định này có hiệu lực thi hành."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "3524/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Các thủ tục hành chính và quy trình điện tử giải quyết TTHC trong lĩnh vực quản lý nhà nước về hội, quỹ có mã số tương ứng",
+    "evidence": "Các thủ tục hành chính và quy trình điện tử giải quyết TTHC trong lĩnh vực quản lý nhà nước về hội, quỹ có mã số tương ứng được công bố tại các Quyết định số 3637/QĐ-UBND ngày 29/11/2024, Quyết định số 3524/QĐ-UBND ngày 21/11/2024, Quyết định số 3638/QĐ-UBND ngày 29/11/2024 của Chủ tịch UBND tỉnh Đồng Nai hết hiệu lực kể từ ngày Quyết định này có hiệu lực thi hành."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "3638/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Các thủ tục hành chính và quy trình điện tử giải quyết TTHC trong lĩnh vực quản lý nhà nước về hội, quỹ có mã số tương ứng",
+    "evidence": "Các thủ tục hành chính và quy trình điện tử giải quyết TTHC trong lĩnh vực quản lý nhà nước về hội, quỹ có mã số tương ứng được công bố tại các Quyết định số 3637/QĐ-UBND ngày 29/11/2024, Quyết định số 3524/QĐ-UBND ngày 21/11/2024, Quyết định số 3638/QĐ-UBND ngày 29/11/2024 của Chủ tịch UBND tỉnh Đồng Nai hết hiệu lực kể từ ngày Quyết định này có hiệu lực thi hành."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 2 tuyên bố TTHC và quy trình có mã số tương ứng công bố tại 3 quyết định hết hiệu lực. Bảng phụ lục: cột ghi chú chỉ nêu nguồn nội dung (627/QĐ-BNV) và căn cứ bãi bỏ (Nghị định), không phải đích."
+ },
+ {
+  "doc_id": "665454",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "4263/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục A Phần II"
+    ],
+    "doi_tuong": null,
+    "evidence": "thay thế các quy trình nội bộ, quy trình điện tử trong giải quyết thủ tục hành chính lĩnh vực môi trường tại Phần II Mục A (Thủ tục hành chính thuộc phạm vi chức năng của Ban Quản lý Khu kinh tế Đông Nam Nghệ An) phê duyệt kèm theo Quyết định số 4263/QĐ-UBND ngày 20/12/2023"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Thay thế quy trình tại Phần II Mục A kèm theo QĐ 4263/QĐ-UBND."
+ }
+]

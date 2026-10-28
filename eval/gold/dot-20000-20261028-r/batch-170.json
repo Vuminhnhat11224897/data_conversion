@@ -1,0 +1,20 @@
+[
+ {
+  "doc_id": "652174",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Nghị quyết ban hành Kế hoạch thực hiện Kết luận 132-KL/TW (văn bản của Đảng), không tác động lên văn bản pháp luật nào. Các câu 'sửa đổi, bổ sung Luật …, Bộ luật Hình sự' là giao nhiệm vụ, không ghi."
+ },
+ {
+  "doc_id": "654226",
+  "relations": [],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 1 Khoản 13 điểm d",
+    "loai": "gop_sai",
+    "ghi_chu": "Điểm d thuộc mục 13.1 nhưng nội dung gộp luôn các mục 13.2 trở đi của khoản 13."
+   }
+  ],
+  "ghi_chu": "Quyết định phê duyệt Quy hoạch chung; không có tác động trực tiếp lên văn bản khác. 'Điều chỉnh' trong ghi chú và phụ lục dự án là định hướng, không phải hành động."
+ }
+]

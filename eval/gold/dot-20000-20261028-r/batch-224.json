@@ -1,0 +1,331 @@
+[
+ {
+  "doc_id": "663403",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "23/2021/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2025 và thay thế Quyết định số 23/2021/QĐ-UBND ngày 09 tháng 9 năm 2021 của Ủy ban nhân dân tỉnh Lạng Sơn về việc ban hành Quy chế quản lý, khai thác, sử dụng cơ sở dữ liệu công chứng, chứng thực trên địa bàn tỉnh Lạng Sơn."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Chỉ Điều 2 thay thế QĐ 23/2021/QĐ-UBND."
+ },
+ {
+  "doc_id": "663456",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "bai-bo",
+    "target_document": "10/2015/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "BÃI BỎ QUYẾT ĐỊNH SỐ 10/2015/QĐ-UBND NGÀY 27 THÁNG 5 NĂM 2015 CỦA UBND TỈNH QUẢNG TRỊ BAN HÀNH QUY ĐỊNH QUẢN LÝ TÀI NGUYÊN NƯỚC TRÊN ĐỊA BÀN TỈNH QUẢNG TRỊ"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bai-bo",
+    "target_document": "10/2015/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ Quyết định số 10/2015/QĐ-UBND ngày 27 tháng 5 năm 2015 của UBND tỉnh Quảng Trị ban hành quy định quản lý tài nguyên nước trên địa bàn tỉnh Quảng Trị."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên văn bản và Điều 1 cùng bãi bỏ toàn bộ QĐ 10/2015/QĐ-UBND."
+ },
+ {
+  "doc_id": "663461",
+  "relations": [
+   {
+    "source_path": "Điều 2 Khoản 2",
+    "action": "thay-the",
+    "target_document": "31/2017/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này thay thế Quyết định số 31/2017/QĐ-UBND ngày 03 tháng 5 năm 2017 của Ủy ban nhân dân tỉnh ban hành quy định lộ giới và các chỉ tiêu chủ yếu về quản lý quy hoạch, xây dựng đối với nhà ở, công trình riêng lẻ trên địa bàn thị trấn Lộc Thắng, huyện Bảo Lâm, tỉnh Lâm Đồng."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Toàn văn không có nội dung Quy chế kèm theo (chỉ file đính kèm); phần quyết định đầy đủ."
+ },
+ {
+  "doc_id": "663465",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "bai-bo",
+    "target_document": "06/2017/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "một số nội dung của Quy định",
+    "evidence": "Ủy ban nhân dân tỉnh ban hành Quyết định bãi bỏ một số nội dung của Quy định kèm theo Quyết định số 06/2017/QĐ-UBND ngày 27 tháng 3 năm 2017"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bai-bo",
+    "target_document": "06/2017/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 1 Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ khoản 1 Điều 2 của Quy định kèm theo Quyết định số 06/2017/QĐ-UBND."
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "06/2017/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 1 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ khoản 1 Điều 3 của Quy định kèm theo Quyết định số 06/2017/QĐ-UBND."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên văn bản và lời dẫn cùng nêu bãi bỏ một số nội dung Quy định kèm theo QĐ 06/2017 (một quan hệ Phần đầu)."
+ },
+ {
+  "doc_id": "663478",
+  "relations": [
+   {
+    "source_path": "Điều 4 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "23/2023/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị quyết số 23/2023/NQ-HĐND ngày 08 tháng 12 năm 2023 của Hội đồng nhân dân tỉnh Lào Cai quy định một số nội dung và mức chi tổ chức thực hiện thực hiện bồi thường, hỗ trợ, tái định cư và cưỡng chế kiểm đếm, cưỡng chế thu hồi đất khi Nhà nước thu hồi đất trên địa bàn tỉnh Lào Cai hết hiệu lực kể từ ngày Nghị quyết này có hiệu lực thi hành."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 1 khoản 1 điểm a nói quy định mức chi 'theo quy định tại khoản 8 Điều 27 Nghị định số 88/2024/NĐ-CP' nhưng không dùng từ 'quy định chi tiết' nên không ghi quan hệ."
+ },
+ {
+  "doc_id": "663528",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "bai-bo",
+    "target_document": "34/2016/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Ủy ban nhân dân tỉnh ban hành Quyết định bãi bỏ Quyết định số 34/2016/QĐ-UBND ngày 16 tháng 9 năm 2016 của Ủy ban nhân dân tỉnh Bình Dương về việc sử dụng, quản lý hộ chiếu ngoại giao, hộ chiếu công vụ trên địa bàn tỉnh Bình Dương."
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bai-bo",
+    "target_document": "34/2016/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ Quyết định số 34/2016/QĐ-UBND ngày 16 tháng 9 năm 2016 của Ủy ban nhân dân tỉnh Bình Dương về việc sử dụng, quản lý hộ chiếu ngoại giao, hộ chiếu công vụ trên địa bàn tỉnh Bình Dương."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên, lời dẫn và Điều 1 bãi bỏ toàn bộ QĐ 34/2016/QĐ-UBND."
+ },
+ {
+  "doc_id": "663562",
+  "relations": [
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "quy-dinh-chi-tiet",
+    "target_document": "16/2025/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 4 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Nghị quyết này quy định chi tiết mức trợ cấp ngày công lao động cho lực lượng Dân quân trên địa bàn tỉnh Hà Tĩnh theo khoản 4 Điều 1 Nghị định số 16/2025/NĐ-CP ngày 04 tháng 02 năm 2025"
+   },
+   {
+    "source_path": "Điều 3 Khoản 3",
+    "action": "bai-bo",
+    "target_document": "271/2021/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ Điều 2 Nghị quyết số 271/2021/NQ-HĐND ngày 18 tháng 3 năm 2021 của Hội đồng nhân dân tỉnh về tổ chức lực lượng, huấn luyện, hoạt động và bảo đảm chế độ, chính sách cho Dân quân tự vệ trên địa tỉnh Hà Tĩnh giai đoạn 2021-2025."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quy định chi tiết khoản 4 Điều 1 NĐ 16/2025; bãi bỏ Điều 2 NQ 271/2021."
+ },
+ {
+  "doc_id": "663617",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "142/QĐ-BVHTTDL",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực thi hành kể từ ngày ký và thay thế Quyết định số 142/QĐ-BVHTTDL ngày 17 tháng 01 năm 2024 của Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch ban hành Quy chế tiếp công dân của Bộ Văn hóa, Thể thao và Du lịch."
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Phụ lục 1 Điều 16 Khoản 3",
+    "loai": "gop_sai",
+    "ghi_chu": "Đầu Mẫu số 01 (mẫu biểu sau Quy chế) bị gộp vào cuối khoản 3 Điều 16."
+   }
+  ],
+  "ghi_chu": "Chỉ Điều 2 thay thế QĐ 142/QĐ-BVHTTDL."
+ },
+ {
+  "doc_id": "663716",
+  "relations": [
+   {
+    "source_path": "Điều 2 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "57/2024/UBTVQH15",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị quyết số 57/2024/UBTVQH15 ngày 15 tháng 11 năm 2024 của Ủy ban Thường vụ Quốc hội phê chuẩn đề nghị của Chánh án Tòa án nhân dân tối cao về cục, Vụ và tương đương, cơ quan báo chí của Tòa án nhân dân tối cao và Nghị quyết số 69/2025/UBTVQH15 ngày 10 tháng 02 năm 2025 của Ủy ban Thường vụ Quốc hội sửa đổi, bổ sung khoản 1 Điều 1 của Nghị quyết số 57/2024/UBTVQH15 ngày 15 tháng 11 năm 2024 của Ủy ban Thường vụ Quốc hội hết hiệu lực kể từ ngày Nghị quyết này có hiệu lực thi hành."
+   },
+   {
+    "source_path": "Điều 2 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "69/2025/UBTVQH15",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị quyết số 57/2024/UBTVQH15 ngày 15 tháng 11 năm 2024 của Ủy ban Thường vụ Quốc hội phê chuẩn đề nghị của Chánh án Tòa án nhân dân tối cao về cục, Vụ và tương đương, cơ quan báo chí của Tòa án nhân dân tối cao và Nghị quyết số 69/2025/UBTVQH15 ngày 10 tháng 02 năm 2025 của Ủy ban Thường vụ Quốc hội sửa đổi, bổ sung khoản 1 Điều 1 của Nghị quyết số 57/2024/UBTVQH15 ngày 15 tháng 11 năm 2024 của Ủy ban Thường vụ Quốc hội hết hiệu lực kể từ ngày Nghị quyết này có hiệu lực thi hành."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Hai nghị quyết hết hiệu lực do chính văn bản này tuyên bố."
+ },
+ {
+  "doc_id": "663741",
+  "relations": [
+   {
+    "source_path": "Điều 4",
+    "action": "thay-the",
+    "target_document": "3565/QĐ-BVHTTDL",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực thi hành kể từ ngày ký ban hành và thay thế Quyết định số 3565/QĐ-BVHTTDL ngày 26 tháng 9 năm 2018 của Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Trung tâm Văn hóa Việt Nam tại Lào."
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 3 Khoản 2",
+    "loai": "gop_sai",
+    "ghi_chu": "Các đoạn không đánh số của Điều 3 (Giám đốc Trung tâm …) bị gộp vào khoản 2."
+   }
+  ],
+  "ghi_chu": "Chỉ Điều 4 thay thế QĐ 3565/QĐ-BVHTTDL."
+ },
+ {
+  "doc_id": "663823",
+  "relations": [
+   {
+    "source_path": "Điều 3",
+    "action": "thay-the",
+    "target_document": "381/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực kể từ ngày ký và thay thế Quyết định số 381/QĐ-UBND ngày 27/02/2023 của Ủy ban nhân dân tỉnh Quảng Bình."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Chỉ Điều 3 thay thế QĐ 381/QĐ-UBND."
+ },
+ {
+  "doc_id": "663864",
+  "relations": [
+   {
+    "source_path": "Điều 6 Khoản 1",
+    "action": "thay-the",
+    "target_document": "25/QĐ-CHQ",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực thi hành kể từ ngày 01 tháng 7 năm 2025 và thay thế Quyết định số 25/QĐ-CHQ ngày 05 tháng 3 năm 2025 của Cục trưởng Cục Hải quan về việc quy định chức năng, nhiệm vụ và quyền hạn của các Đội Kiểm tra sau thông quan khu vực thuộc Chi cục Kiểm tra sau thông quan."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Chỉ khoản 1 Điều 6 thay thế QĐ 25/QĐ-CHQ."
+ },
+ {
+  "doc_id": "664023",
+  "relations": [
+   {
+    "source_path": "Điều 5",
+    "action": "thay-the",
+    "target_document": "422/QĐ-TTg",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực kể từ ngày ký và thay thế các Quyết định: số 422/QĐ-TTg ngày 05 tháng 4 năm 2017 của Thủ tướng Chính phủ về việc kiện toàn Ủy ban hợp tác Việt Nam - Lào trong Ủy ban liên Chính phủ về hợp tác song phương giữa Chính phủ nước Cộng hoà xã hội chủ nghĩa Việt Nam và Chính phủ nước Cộng hòa Dân chủ Nhân dân Lào, số 1999/QĐ-TTg ngày 29 tháng 11 năm 2021"
+   },
+   {
+    "source_path": "Điều 5",
+    "action": "thay-the",
+    "target_document": "1999/QĐ-TTg",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực kể từ ngày ký và thay thế các Quyết định: số 422/QĐ-TTg ngày 05 tháng 4 năm 2017 của Thủ tướng Chính phủ về việc kiện toàn Ủy ban hợp tác Việt Nam - Lào trong Ủy ban liên Chính phủ về hợp tác song phương giữa Chính phủ nước Cộng hoà xã hội chủ nghĩa Việt Nam và Chính phủ nước Cộng hòa Dân chủ Nhân dân Lào, số 1999/QĐ-TTg ngày 29 tháng 11 năm 2021"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 5 thay thế 2 quyết định."
+ },
+ {
+  "doc_id": "664052",
+  "relations": [
+   {
+    "source_path": "Điều 6 Khoản 2",
+    "action": "thay-the",
+    "target_document": "03/2021/TT-BNG",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thông tư này thay thế Thông tư số 03/2021/TT-BNG ngày 28 tháng 10 năm 2021 của Bộ trưởng Bộ Ngoại giao hướng dẫn chức năng, nhiệm vụ, quyền hạn về công tác đối ngoại của cơ quan chuyên môn thuộc Ủy ban nhân dân cấp tỉnh và Ủy ban nhân dân cấp huyện."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "'Hướng dẫn chức năng, nhiệm vụ …' không nêu văn bản đích nên không ghi huong-dan."
+ },
+ {
+  "doc_id": "664183",
+  "relations": [
+   {
+    "source_path": "Điều 5 Khoản 2",
+    "action": "thay-the",
+    "target_document": "29/2024/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị quyết này thay thế Nghị quyết số 29/2024/NQ-HĐND ngày 19 tháng 11 năm 2024 của Hội đồng nhân dân Thành phố Hà Nội quy định về thẩm quyền quyết định phê duyệt nhiệm vụ và dự toán chi thường xuyên ngân sách Thành phố để thực hiện mua sắm tài sản, trang thiết bị phục vụ hoạt động của các cơ quan, đơn vị thuộc phạm vi quản lý của thành phố Hà Nội."
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 5 Khoản 2",
+    "loai": "gop_sai",
+    "ghi_chu": "Văn bản đánh số trùng hai khoản 2 trong Điều 5; khoản 2 thứ hai (điểm c khoản 2 Điều 3 của chính Nghị quyết hết hiệu lực) bị gộp vào khoản 2 đầu."
+   }
+  ],
+  "ghi_chu": "Khoản 2 thứ hai của Điều 5 tác động lên chính văn bản này, không ghi quan hệ."
+ }
+]

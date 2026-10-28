@@ -1,0 +1,111 @@
+[
+ {
+  "doc_id": "658014",
+  "relations": [
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "quy-dinh-chi-tiet",
+    "target_document": "45/2024/QH15",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 11"
+    ],
+    "doi_tuong": null,
+    "evidence": "Quy định chi tiết Điều 11 về kiểm kê di sản văn hóa phi vật thể và Danh mục kiểm kê di sản văn hóa phi vật thể."
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "quy-dinh-chi-tiet",
+    "target_document": "45/2024/QH15",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 23",
+     "khoản 2 Điều 23"
+    ],
+    "doi_tuong": null,
+    "evidence": "Quy định chi tiết khoản 1 và khoản 2 Điều 23 về kiểm kê di tích và Danh mục kiểm kê di tích."
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "quy-dinh-chi-tiet",
+    "target_document": "45/2024/QH15",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 31",
+     "khoản 3 Điều 31"
+    ],
+    "doi_tuong": null,
+    "evidence": "Quy định chi tiết về trình tự, thủ tục, hồ sơ đưa thêm, di dời, thay đổi hiện vật trong di tích quy định tại khoản 2 Điều 31 và quy định chi tiết khoản 3 Điều 31 về việc rà soát, cập nhật Bản thống kê hiện vật thuộc di tích."
+   },
+   {
+    "source_path": "Điều 1 Khoản 4",
+    "action": "quy-dinh-chi-tiet",
+    "target_document": "45/2024/QH15",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 40"
+    ],
+    "doi_tuong": null,
+    "evidence": "Quy định chi tiết khoản 1 Điều 40 về phân loại di vật, cổ vật."
+   },
+   {
+    "source_path": "Điều 1 Khoản 5",
+    "action": "quy-dinh-chi-tiet",
+    "target_document": "45/2024/QH15",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 54"
+    ],
+    "doi_tuong": null,
+    "evidence": "Quy định chi tiết Điều 54 về kiểm kê di sản tư liệu và Danh mục kiểm kê di sản tư liệu."
+   },
+   {
+    "source_path": "Điều 1 Khoản 6",
+    "action": "quy-dinh-chi-tiet",
+    "target_document": "45/2024/QH15",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 57"
+    ],
+    "doi_tuong": null,
+    "evidence": "Quy định chi tiết khoản 2 Điều 57 về yêu cầu đối với kho bảo quản di sản tư liệu."
+   },
+   {
+    "source_path": "Điều 1 Khoản 7",
+    "action": "quy-dinh-chi-tiet",
+    "target_document": "45/2024/QH15",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 85"
+    ],
+    "doi_tuong": null,
+    "evidence": "Quy định chi tiết khoản 3 Điều 85 về hướng dẫn việc khai thác, sử dụng cơ sở dữ liệu quốc gia về di sản văn hóa."
+   },
+   {
+    "source_path": "Điều 1 Khoản 8",
+    "action": "quy-dinh-chi-tiet",
+    "target_document": "45/2024/QH15",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 3 Điều 88",
+     "điểm b khoản 3 Điều 88",
+     "điểm d khoản 3 Điều 88",
+     "điểm đ khoản 3 Điều 88"
+    ],
+    "doi_tuong": null,
+    "evidence": "Quy định chi tiết điểm a, b, d và đ khoản 3 Điều 88 về di sản văn hóa hạn chế sử dụng, khai thác."
+   },
+   {
+    "source_path": "Điều 31 Khoản 2",
+    "action": "thay-the",
+    "target_document": "04/2010/TT-BVHTTDL",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thông tư này thay thế Thông tư số 04/2010/TT-BVHTTDL ngày 30/6/2010 của Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch quy định việc kiểm kê di sản văn hóa phi vật thể và lập hồ sơ khoa học di sản văn hóa phi vật thể để đưa vào Danh mục di sản văn hóa phi vật thể quốc gia."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Câu dẫn Điều 1 \"quy định chi tiết một số điều của Luật Di sản văn hóa số 45/2024/QH15\" được thay bằng các khoản con nêu vị trí cụ thể (khoản 1-8). Tên văn bản không nêu văn bản đích. Phụ lục chỉ là biểu mẫu, không có hành động."
+ }
+]

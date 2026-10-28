@@ -1,0 +1,86 @@
+[
+ {
+  "doc_id": "694200",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "09/2025/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực thi hành kể từ ngày 01 tháng 7 năm 2025 và thay thế Quyết định số 09/2025/QĐ-UBND ngày 10 tháng 03 năm 2025 của Ủy ban nhân dân tỉnh Yên Bái ban hành Quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Sở Khoa học và Công nghệ tỉnh Yên Bái; Quyết định số 21/2025/QĐ-UBND ngày 28 tháng 02 năm 2025 của Ủy ban nhân dân tỉnh Lào Cai ban hành Quy định vị trí, chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Sở Khoa học và Công nghệ tỉnh Lào Cai."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "21/2025/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực thi hành kể từ ngày 01 tháng 7 năm 2025 và thay thế Quyết định số 09/2025/QĐ-UBND ngày 10 tháng 03 năm 2025 của Ủy ban nhân dân tỉnh Yên Bái ban hành Quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Sở Khoa học và Công nghệ tỉnh Yên Bái; Quyết định số 21/2025/QĐ-UBND ngày 28 tháng 02 năm 2025 của Ủy ban nhân dân tỉnh Lào Cai ban hành Quy định vị trí, chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Sở Khoa học và Công nghệ tỉnh Lào Cai."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quyết định 09/2025/QĐ-UBND là của UBND tỉnh Yên Bái."
+ },
+ {
+  "doc_id": "644781",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "quy-dinh-chi-tiet",
+    "target_document": "Luật Công chứng",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bộ trưởng Bộ Tư pháp ban hành Thông tư quy định chi tiết một số điều và biện pháp thi hành Luật Công chứng."
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "quy-dinh-chi-tiet",
+    "target_document": "Luật Công chứng",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 6 Điều 11",
+     "khoản 4 Điều 32",
+     "khoản 5 Điều 38",
+     "khoản 4 Điều 48"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thông tư này quy định chi tiết khoản 6 Điều 11, khoản 4 Điều 32, khoản 5 Điều 38, khoản 4 Điều 48 của Luật Công chứng"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "huong-dan",
+    "target_document": "Luật Công chứng",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "một số biện pháp để tổ chức thực hiện và hướng dẫn thi hành Luật Công chứng về đào tạo nghề công chứng; thời gian công tác pháp luật; bồi dưỡng nghiệp vụ công chứng hằng năm; bàn giao hồ sơ công chứng trong trường hợp tổ chức hành nghề công chứng giải thể, chấm dứt hoạt động; việc báo cáo, kiểm tra về tổ chức, hoạt động công chứng; các loại sổ và biểu mẫu trong hoạt động công chứng."
+   },
+   {
+    "source_path": "Điều 26 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "01/2021/TT-BTP",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thông tư số 01/2021/TT-BTP ngày 03 tháng 02 năm 2021 của Bộ trưởng Bộ Tư pháp quy định chi tiết một số điều và biện pháp thi hành Luật Công chứng; Điều 3 Thông tư số 03/2024/TT-BTP ngày 15 tháng 5 năm 2024 của Bộ trưởng Bộ Tư pháp sửa đổi, bổ sung 08 Thông tư liên quan đến thủ tục hành chính trong lĩnh vực bổ trợ tư pháp hết hiệu lực thi hành kể từ ngày Thông tư này có hiệu lực thi hành"
+   },
+   {
+    "source_path": "Điều 26 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "03/2024/TT-BTP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thông tư số 01/2021/TT-BTP ngày 03 tháng 02 năm 2021 của Bộ trưởng Bộ Tư pháp quy định chi tiết một số điều và biện pháp thi hành Luật Công chứng; Điều 3 Thông tư số 03/2024/TT-BTP ngày 15 tháng 5 năm 2024 của Bộ trưởng Bộ Tư pháp sửa đổi, bổ sung 08 Thông tư liên quan đến thủ tục hành chính trong lĩnh vực bổ trợ tư pháp hết hiệu lực thi hành kể từ ngày Thông tư này có hiệu lực thi hành"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Luật Công chứng chỉ nêu bằng tên và ngày 26/11/2024, không có số hiệu trong văn bản. Điều 26 Khoản 2 tuyên bố hết hiệu lực, trừ khoản 29 Điều 30 Thông tư 01/2021/TT-BTP và điểm l, m khoản 3 Điều 3 Thông tư 03/2024/TT-BTP."
+ }
+]

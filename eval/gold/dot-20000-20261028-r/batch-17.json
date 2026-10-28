@@ -1,0 +1,24 @@
+[
+ {
+  "doc_id": "655834",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "702/QĐ-BXD",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực thi hành kể từ ngày ký và thay thế Quyết định số 702/QĐ-BXD ngày 18 tháng 08 năm 2022 của Bộ trưởng Bộ Xây dựng ban hành Quy chế quản lý các nhiệm vụ sự nghiệp kinh tế thuộc Bộ Xây dựng."
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Phụ lục 1 Văn bản kèm theo 1 Điều 3",
+    "loai": "nhan_sai_dieu",
+    "ghi_chu": "Các mẫu biểu (mẫu quyết định, mẫu hợp đồng) trong Quy chế và Phụ lục 4 bị nhận thành văn bản kèm theo có Điều (Phụ lục 1 Văn bản kèm theo 1/2, Phụ lục 4 Điều 3, 5, 9...)."
+   }
+  ],
+  "ghi_chu": "Chỉ Điều 2 thay thế QĐ 702/QĐ-BXD. Điều 24 Quy chế (chuyển tiếp) chỉ dẫn chiếu QĐ 702, không phải hành động."
+ }
+]

@@ -1,0 +1,536 @@
+[
+ {
+  "doc_id": "658661",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "166/QĐ-BHXH",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA QUY TRÌNH GIẢI QUYẾT HƯỞNG CÁC CHẾ ĐỘ BẢO HIỂM XÃ HỘI, CHI TRẢ CÁC CHẾ ĐỘ BẢO HIỂM XÃ HỘI, BẢO HIỂM THẤT NGHIỆP BAN HÀNH KÈM THEO QUYẾT ĐỊNH SỐ 166/QĐ-BHXH NGÀY 31/01/2019 CỦA TỔNG GIÁM ĐỐC BHXH VIỆT NAM"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "166/QĐ-BHXH",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA QUY TRÌNH GIẢI QUYẾT HƯỞNG CÁC CHẾ ĐỘ BẢO HIỂM XÃ HỘI, CHI TRẢ CÁC CHẾ ĐỘ BẢO HIỂM XÃ HỘI, BẢO HIỂM THẤT NGHIỆP BAN HÀNH KÈM THEO QUYẾT ĐỊNH SỐ 166/QĐ-BHXH NGÀY 31/01/2019 CỦA TỔNG GIÁM ĐỐC BHXH VIỆT NAM"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "166/QĐ-BHXH",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 1 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "1.1. Bổ sung vào khoản 1 các chữ viết tắt, rút gọn như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "166/QĐ-BHXH",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 1 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "1.2. Sửa đổi một số chữ viết tắt, rút gọn tại khoản 1 Điều 1 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "thay-cum-tu",
+    "target_document": "166/QĐ-BHXH",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "1.3. Thay thế một số cụm từ của quy trình giải quyết hưởng các chế độ BHXH, chi trả các chế độ BHXH, BHTN ban hành kèm theo Quyết định số 166/QĐ-BHXH như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "166/QĐ-BHXH",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "2. Sửa đổi Điều 2 (đã được sửa đổi, bổ sung tại khoản 3, 4, 5 Điều 1 Quyết định số 686/QĐ-BHXH và tại Mục II Công văn số 3194/BHXH- CSXH ngày 08/10/2020 của BHXH việt Nam) như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "sua-doi",
+    "target_document": "166/QĐ-BHXH",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 10 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "3.1. Sửa đổi khoản 10 Điều 3 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "bo-sung",
+    "target_document": "166/QĐ-BHXH",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 11 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "3.2. Bổ sung điểm 11.3 vào sau điểm 11.2 khoản 11 Điều 3 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 4",
+    "action": "sua-doi",
+    "target_document": "166/QĐ-BHXH",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 2 Điều 4",
+     "điểm 2.1 khoản 2 Điều 4"
+    ],
+    "doi_tuong": null,
+    "evidence": "4.1. Sửa đổi lời dẫn khoản 2 và điểm 2.1 khoản 2 Điều 4 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 4",
+    "action": "bo-sung",
+    "target_document": "166/QĐ-BHXH",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm 2.1 khoản 2 Điều 4"
+    ],
+    "doi_tuong": null,
+    "evidence": "4.2. Bổ sung tiểu tiết c vào sau tiểu tiết b, tiết 2.1.1 điểm 2.1 khoản 2 Điều 4 (đã được sửa đổi, bổ sung tại khoản 2 Công văn số 376/BHXH- CSXH ngày 16/02/2023 của BHXH Việt Nam) như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 4",
+    "action": "sua-doi",
+    "target_document": "166/QĐ-BHXH",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm 2.2 khoản 2 Điều 4"
+    ],
+    "doi_tuong": null,
+    "evidence": "4.3. Sửa đổi lời dẫn điểm 2.2 khoản 2 Điều 4 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 4",
+    "action": "sua-doi",
+    "target_document": "166/QĐ-BHXH",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm 2.2 khoản 2 Điều 4"
+    ],
+    "doi_tuong": null,
+    "evidence": "4.4. Sửa đổi tiết 2.2.1 điểm 2.2 khoản 2 Điều 4 (đã được sửa đổi, bổ sung tại khoản 3 Công văn số 376/BHXH-CSXH ngày 16/02/2023 của BHXH Việt Nam) như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 4",
+    "action": "sua-doi",
+    "target_document": "166/QĐ-BHXH",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm 2.3 khoản 2 Điều 4"
+    ],
+    "doi_tuong": null,
+    "evidence": "4.5. Sửa đổi, bổ sung tiết 2.3.1 điểm 2.3 khoản 2 Điều 4 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 4",
+    "action": "bo-sung",
+    "target_document": "166/QĐ-BHXH",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm 2.3 khoản 2 Điều 4"
+    ],
+    "doi_tuong": null,
+    "evidence": "4.5. Sửa đổi, bổ sung tiết 2.3.1 điểm 2.3 khoản 2 Điều 4 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 4",
+    "action": "bai-bo",
+    "target_document": "166/QĐ-BHXH",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 4 Điều 4"
+    ],
+    "doi_tuong": null,
+    "evidence": "4.6. Bãi bỏ khoản 4 Điều 4"
+   },
+   {
+    "source_path": "Điều 1 Khoản 4",
+    "action": "sua-doi",
+    "target_document": "166/QĐ-BHXH",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 5 Điều 4"
+    ],
+    "doi_tuong": null,
+    "evidence": "4.7. Sửa đổi khoản 5 Điều 4 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 5",
+    "action": "sua-doi",
+    "target_document": "166/QĐ-BHXH",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm 1.1 khoản 1 Điều 5",
+     "điểm 1.2 khoản 1 Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "5.1. Sửa đổi điểm 1.1 và 1.2 khoản 1 Điều 5 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 5",
+    "action": "sua-doi",
+    "target_document": "166/QĐ-BHXH",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm 2.1 khoản 2 Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "5.2. Sửa đổi điểm 2.1 khoản 2 Điều 5 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 5",
+    "action": "sua-doi",
+    "target_document": "166/QĐ-BHXH",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm 2.2 khoản 2 Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "5.3. Sửa đổi tiểu tiết a tiết 2.2.2 điểm 2.2 khoản 2 Điều 5 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 6",
+    "action": "sua-doi",
+    "target_document": "166/QĐ-BHXH",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm 1.2 khoản 1 Điều 6"
+    ],
+    "doi_tuong": null,
+    "evidence": "6.1. Sửa đổi lời dẫn tiết 1.2.1 điểm 1.2 khoản 1 Điều 6 (đã được sửa đổi, bổ sung tại khoản 1 Mục I Công văn số 3194/BHXH-CSXH ngày 08/10/2020 của BHXH Việt Nam) như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 6",
+    "action": "sua-doi",
+    "target_document": "166/QĐ-BHXH",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm 1.2 khoản 1 Điều 6"
+    ],
+    "doi_tuong": null,
+    "evidence": "6.2. Sửa đổi nội dung b1, nội dung b2 tiểu tiết b; nội dung c3 tiểu tiết c, tiểu tiết d tiết 1.2.1 điểm 1.2 khoản 1 Điều 6 (đã được sửa đổi, bổ sung tại khoản 2 Mục I Công văn số 3194/BHXH-CSXH ngày 08/10/2020 của BHXH Việt Nam) như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 6",
+    "action": "bo-sung",
+    "target_document": "166/QĐ-BHXH",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm 1.2 khoản 1 Điều 6"
+    ],
+    "doi_tuong": null,
+    "evidence": "6.3. Bổ sung tiểu tiết g vào sau tiểu tiết e tiết 1.2.1 điểm 1.2 khoản 1 Điều 6 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 6",
+    "action": "sua-doi",
+    "target_document": "166/QĐ-BHXH",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm 1.2 khoản 1 Điều 6"
+    ],
+    "doi_tuong": null,
+    "evidence": "6.4. Sửa đổi nội dung a4 tiểu tiết a tiết 1.2.3 điểm 1.2 khoản 1 Điều 6 (đã được sửa đổi, bổ sung tại khoản 1 Công văn số 376/BHXH-CSXH ngày 16/02/2023 của BHXH Việt Nam) như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 6",
+    "action": "sua-doi",
+    "target_document": "166/QĐ-BHXH",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm 1.2 khoản 1 Điều 6"
+    ],
+    "doi_tuong": null,
+    "evidence": "6.5. Sửa đổi lời dẫn tiết 1.2.4 điểm 1.2 khoản 1 Điều 6 (đã được sửa đổi, bổ sung tại khoản 3 Mục I Công văn số 3194/BHXH-CSXH ngày 08/10/2020 của BHXH Việt Nam) như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 6",
+    "action": "bai-bo",
+    "target_document": "166/QĐ-BHXH",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm 1.6 khoản 1 Điều 6"
+    ],
+    "doi_tuong": null,
+    "evidence": "6.6. Bãi bỏ điểm 1.6 khoản 1 Điều 6"
+   },
+   {
+    "source_path": "Điều 1 Khoản 6",
+    "action": "sua-doi",
+    "target_document": "166/QĐ-BHXH",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm 1.7 khoản 1 Điều 6"
+    ],
+    "doi_tuong": null,
+    "evidence": "6.7 Sửa đổi điểm 1.7 khoản 1 Điều 6 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 6",
+    "action": "sua-doi",
+    "target_document": "166/QĐ-BHXH",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm 2.1 khoản 2 Điều 6"
+    ],
+    "doi_tuong": null,
+    "evidence": "6.8. Sửa đổi điểm 2.1 khoản 2 Điều 6 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 6",
+    "action": "sua-doi",
+    "target_document": "166/QĐ-BHXH",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm 2.2 khoản 2 Điều 6"
+    ],
+    "doi_tuong": null,
+    "evidence": "6.9. Sửa đổi điểm 2.2 khoản 2 Điều 6 (đã được sửa đổi, bổ sung tại Khoản 4 Công văn số 3194/BHXH-CSXH ngày 08/10/2020 của BHXH Việt Nam) như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 6",
+    "action": "bo-sung",
+    "target_document": "166/QĐ-BHXH",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 2 Điều 6"
+    ],
+    "doi_tuong": null,
+    "evidence": "6.10. Bổ sung điểm 2.6 vào sau điểm 2.5 khoản 2 Điều 6 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 7",
+    "action": "sua-doi",
+    "target_document": "166/QĐ-BHXH",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm 1.1 khoản 1 Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "7.1. Sửa đổi tiểu tiết a tiết 1.1.1 điểm 1.1 khoản 1 Điều 7 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 7",
+    "action": "sua-doi",
+    "target_document": "166/QĐ-BHXH",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm 1.1 khoản 1 Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "7.2. Sửa đổi lời dẫn tiểu tiết a tiết 1.1.2 điểm 1.1 khoản 1 Điều 7 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 7",
+    "action": "sua-doi",
+    "target_document": "166/QĐ-BHXH",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm 1.1 khoản 1 Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "7.3. Sửa đổi tiểu tiết d tiết 1.1.3 điểm 1.1 khoản 1 Điều 7 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 7",
+    "action": "sua-doi",
+    "target_document": "166/QĐ-BHXH",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm 1.1 khoản 1 Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "7.4. Sửa đổi, bổ sung tiết 1.1.4 điểm 1.1 khoản 1 Điều 7 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 7",
+    "action": "bo-sung",
+    "target_document": "166/QĐ-BHXH",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm 1.1 khoản 1 Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "7.4. Sửa đổi, bổ sung tiết 1.1.4 điểm 1.1 khoản 1 Điều 7 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 7",
+    "action": "sua-doi",
+    "target_document": "166/QĐ-BHXH",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm 1.1 khoản 1 Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "7.5. Sửa đổi tiết 1.1.5 điểm 1.1 khoản 1 Điều 7 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 7",
+    "action": "sua-doi",
+    "target_document": "166/QĐ-BHXH",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm 1.2 khoản 1 Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "7.6. Sửa đổi, bổ sung điểm 1.2 khoản 1 Điều 7 (tiết 1.2.1 đã được sửa đổi, bổ sung tại khoản 6 Công văn số 3194/BHXH-CSXH ngày 08/10/2020 của BHXH Việt Nam) như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 7",
+    "action": "bo-sung",
+    "target_document": "166/QĐ-BHXH",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm 1.2 khoản 1 Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "7.6. Sửa đổi, bổ sung điểm 1.2 khoản 1 Điều 7 (tiết 1.2.1 đã được sửa đổi, bổ sung tại khoản 6 Công văn số 3194/BHXH-CSXH ngày 08/10/2020 của BHXH Việt Nam) như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 7",
+    "action": "sua-doi",
+    "target_document": "166/QĐ-BHXH",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm 2.1 khoản 2 Điều 7",
+     "điểm 2.2 khoản 2 Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "7.7. Sửa đổi, bổ sung điểm 2.1 và 2.2 khoản 2 Điều 7 (đã được sửa đổi, bổ sung tại khoản 10, 11 Điều 1 Quyết định số 686/QĐ-BHXH; khoản 1 Mục C, Mục D Công văn số 1665/BHXH-TCKT ngày 31/5/2024; khoản 1 Công văn số 2898/BHXH-TCKT ngày 27/8/2024; khoản 1 Công văn số 389/BHXH-CSXH ngày 04/4/2025 của BHXH Việt Nam) như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 7",
+    "action": "bo-sung",
+    "target_document": "166/QĐ-BHXH",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm 2.1 khoản 2 Điều 7",
+     "điểm 2.2 khoản 2 Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "7.7. Sửa đổi, bổ sung điểm 2.1 và 2.2 khoản 2 Điều 7 (đã được sửa đổi, bổ sung tại khoản 10, 11 Điều 1 Quyết định số 686/QĐ-BHXH; khoản 1 Mục C, Mục D Công văn số 1665/BHXH-TCKT ngày 31/5/2024; khoản 1 Công văn số 2898/BHXH-TCKT ngày 27/8/2024; khoản 1 Công văn số 389/BHXH-CSXH ngày 04/4/2025 của BHXH Việt Nam) như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 7",
+    "action": "sua-doi",
+    "target_document": "166/QĐ-BHXH",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 4 Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "7.8. Sửa đổi khoản 4 Điều 7 (đã được sửa đổi, bổ sung tại điểm 2.1 khoản 2, khoản 3 Mục C Công văn số 1665/BHXH-TCKT ngày 31/5/2024 và điểm 2.1 khoản 2 Công văn số 2898/BHXH-TCKT ngày 27/8/2024 của BHXH Việt Nam) như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 7",
+    "action": "sua-doi",
+    "target_document": "166/QĐ-BHXH",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 5 Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "7.9. Sửa đổi khoản 5 Điều 7 (đã được sửa đổi, bổ sung một phần tại Khoản 13, 14 Điều 1 Quyết định số 686/QĐ-BHXH) như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 7",
+    "action": "sua-doi",
+    "target_document": "166/QĐ-BHXH",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 6 Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "7.10. Sửa đổi khoản 6 Điều 7 (đã được sửa đổi, bổ sung tại khoản 7 mục 1 Công văn số 3194/BHXH-CSXH ngày 08/10/2020 của BHXH Việt Nam) như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 8",
+    "action": "bo-sung",
+    "target_document": "166/QĐ-BHXH",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm 2.2 khoản 2 Điều 8"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung tiểu tiết đ vào tiết 2.2.1 điểm 2.2 khoản 2 Điều 8 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 9",
+    "action": "sua-doi",
+    "target_document": "166/QĐ-BHXH",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 1 Điều 12"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi khoản 1 Điều 12 (đã được sửa đổi, bổ sung tại khoản 22 Điều 1 Quyết định số 686/QĐ-BHXH) như sau:"
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "loai": "gop_sai",
+    "ghi_chu": "Khoản 2 đến khoản 6 của Điều 1 (sửa đổi Điều 2, 3, 4, 5, 6 của Quy trình) bị gộp vào Điều 1 Khoản 1 và bị cắt ở 6.000 ký tự; không có đơn vị riêng."
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "loai": "thieu_noi_dung",
+    "ghi_chu": "Khoản 2-6 của Điều 1 không có trong don_vi; quan hệ lấy theo toàn văn."
+   }
+  ],
+  "ghi_chu": "Đích là Quy trình kèm theo QĐ 166/QĐ-BHXH. Mỗi mục con (1.1, 3.1, 4.6 …) ghi một quan hệ; vị trí tiết/tiểu tiết dừng ở điểm chứa nó (điểm 1.1, 2.2 …). Điều 4 khoản 2 nêu văn bản hết hiệu lực theo Phụ lục I nhưng Phụ lục I không có trong toàn văn nên không ghi quan hệ. Điều 2 khoản 1 \"biểu mẫu sửa đổi, bổ sung (Phụ lục II)\" không nêu văn bản đích, Phụ lục II không có trong toàn văn. Chú thích \"đã được sửa đổi tại QĐ 686/QĐ-BHXH, Công văn 3194…\" là lịch sử, không ghi."
+ },
+ {
+  "doc_id": "658889",
+  "relations": [
+   {
+    "source_path": "Điều 3",
+    "action": "sua-doi",
+    "target_document": "812/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "08 TTHC (mã số 2.000666; 2.000664; 2.000673; 2.000669; 2.000672; 2.000648; 2.000645; 2.000647)",
+    "evidence": "Quyết định này sửa đổi, bổ sung các quy định công bố đối với 08 TTHC đã được công bố tại Quyết định 812/QĐ-UBND ngày 09/5/2022 của Chủ tịch UBND tỉnh Đắk Nông"
+   },
+   {
+    "source_path": "Điều 3",
+    "action": "bo-sung",
+    "target_document": "812/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "08 TTHC (mã số 2.000666; 2.000664; 2.000673; 2.000669; 2.000672; 2.000648; 2.000645; 2.000647)",
+    "evidence": "Quyết định này sửa đổi, bổ sung các quy định công bố đối với 08 TTHC đã được công bố tại Quyết định 812/QĐ-UBND ngày 09/5/2022 của Chủ tịch UBND tỉnh Đắk Nông"
+   },
+   {
+    "source_path": "Điều 3",
+    "action": "bai-bo",
+    "target_document": "812/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "01 TTHC (mã số 2.000674)",
+    "evidence": "Quyết định này bãi bỏ các quy định công bố đối với 01 TTHC đã được công bố tại Quyết định 812/QĐ-UBND ngày 09/5/2022 của Chủ tịch UBND tỉnh Đắk Nông (mã số TTHC: 2.000674)."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 1 chỉ công bố danh mục; phụ lục không nêu văn bản đích ở từng dòng (chỉ căn cứ pháp lý). Hành động nằm ở đoạn 2, 3 Điều 3."
+ }
+]

@@ -1,0 +1,1125 @@
+[
+ {
+  "doc_id": "649954",
+  "relations": [
+   {
+    "source_path": "Điều 1",
+    "action": "bai-bo",
+    "target_document": "3282/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "các quy trình nội bộ giải quyết thủ tục hành chính lĩnh vực chứng thực (có danh mục kèm theo)",
+    "evidence": "Bãi bỏ các quy trình nội bộ giải quyết thủ tục hành chính lĩnh vực chứng thực (có danh mục kèm theo) được ban hành tại các Quyết định: Quyết định số 3282/QĐ-UBND ngày 09/12/2020"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bai-bo",
+    "target_document": "949/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "các quy trình nội bộ giải quyết thủ tục hành chính lĩnh vực chứng thực (có danh mục kèm theo)",
+    "evidence": "Quyết định số 949/QĐ-UBND ngày 26/4/2023 của Chủ tịch UBND tỉnh Khánh Hòa về việc phê duyệt quy trình nội bộ giải quyết thủ tục cấp bản sao từ sổ gốc"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên văn bản 'Bãi bỏ các quy trình nội bộ ...' không nêu số hiệu đích: không ghi Phần đầu. Phụ lục liệt kê quy trình bị bãi bỏ; cột Căn cứ pháp lý (306/QĐ-UBND) không phải đích."
+ },
+ {
+  "doc_id": "650005",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "49/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực kể từ ngày ký và thay thế Quyết định số 49/QĐ-UBND ngày 15 tháng 10 năm 2024"
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "53/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục II"
+    ],
+    "doi_tuong": null,
+    "evidence": "bãi bỏ Phụ lục II được ban hành kèm theo Quyết định số 53/QĐ-UBND ngày 14 tháng 01 năm 2025"
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "371/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục II"
+    ],
+    "doi_tuong": null,
+    "evidence": "bãi bỏ Phụ lục II được ban hành kèm theo Quyết định số 53/QĐ-UBND ngày 14 tháng 01 năm 2025 của Chủ tịch Ủy ban nhân dân tỉnh và Quyết định số 371/QĐ-UBND ngày 27 tháng 02 năm 2025"
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 3",
+    "loai": "tach_sai",
+    "ghi_chu": "Đoạn đầu của Điều 3 (Giám đốc Sở Xây dựng ... thông báo, đăng tải ...) bị đưa vào ten_dieu; noi_dung chỉ còn đoạn sau."
+   }
+  ],
+  "ghi_chu": "Câu 'bãi bỏ Phụ lục II ... kèm theo Quyết định số 53/QĐ-UBND ... và Quyết định số 371/QĐ-UBND' hiểu là Phụ lục II của cả hai Quyết định (371 vừa công bố TTHC vừa phê duyệt quy trình nội bộ). Phụ lục quy trình chỉ là file đính kèm, không có chữ trong gói."
+ },
+ {
+  "doc_id": "650110",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "19/2020/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA NGHỊ QUYẾT SỐ 19/2020/NQ-HĐND"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "19/2020/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA NGHỊ QUYẾT SỐ 19/2020/NQ-HĐND"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "19/2020/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 2 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "19/2020/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 2 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "19/2020/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 3 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "19/2020/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 3 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "sua-doi",
+    "target_document": "19/2020/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 4"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 Điều 4 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "bo-sung",
+    "target_document": "19/2020/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 4"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 Điều 4 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 4",
+    "action": "bai-bo",
+    "target_document": "19/2020/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục I"
+    ],
+    "doi_tuong": "cụm từ “hộ gia đình” tại tên gọi Phụ lục I",
+    "evidence": "Bỏ cụm từ “hộ gia đình” tại tên gọi Phụ lục I ban hành kèm theo Nghị quyết số 19/2020/NQ-HĐND"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Lời dẫn chỉ nêu Tờ trình về dự thảo Nghị quyết sửa đổi: không phải hành động."
+ },
+ {
+  "doc_id": "650114",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "14/2022/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU QUY ĐỊNH KÈM THEO NGHỊ QUYẾT SỐ 14/2022/NQ-HĐND NGÀY 20 THÁNG 7 NĂM 2022 VÀ NGHỊ QUYẾT SỐ 29/2023/NQ-HĐND"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "14/2022/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU QUY ĐỊNH KÈM THEO NGHỊ QUYẾT SỐ 14/2022/NQ-HĐND NGÀY 20 THÁNG 7 NĂM 2022 VÀ NGHỊ QUYẾT SỐ 29/2023/NQ-HĐND"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "29/2023/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU QUY ĐỊNH KÈM THEO NGHỊ QUYẾT SỐ 14/2022/NQ-HĐND NGÀY 20 THÁNG 7 NĂM 2022 VÀ NGHỊ QUYẾT SỐ 29/2023/NQ-HĐND"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "29/2023/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU QUY ĐỊNH KÈM THEO NGHỊ QUYẾT SỐ 14/2022/NQ-HĐND NGÀY 20 THÁNG 7 NĂM 2022 VÀ NGHỊ QUYẾT SỐ 29/2023/NQ-HĐND"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "14/2022/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm b khoản 1 Điều 8"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung phân bổ vốn sự nghiệp tại điểm b khoản 1 Điều 8 Quy định kèm theo Nghị quyết số 14/2022/NQ-HĐND"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "14/2022/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm b khoản 1 Điều 8"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung phân bổ vốn sự nghiệp tại điểm b khoản 1 Điều 8 Quy định kèm theo Nghị quyết số 14/2022/NQ-HĐND"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "14/2022/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm b khoản 2 Điều 8"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung phân bổ vốn sự nghiệp tại điểm b khoản 2 Điều 8 Quy định kèm theo Nghị quyết số 14/2022/NQ-HĐND"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "14/2022/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm b khoản 2 Điều 8"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung phân bổ vốn sự nghiệp tại điểm b khoản 2 Điều 8 Quy định kèm theo Nghị quyết số 14/2022/NQ-HĐND"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "sua-doi",
+    "target_document": "14/2022/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm b khoản 2 Điều 10"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung phân bổ vốn sự nghiệp tại điểm b khoản 2 Điều 10 Quy định kèm theo Nghị quyết số 14/2022/NQ-HĐND"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "bo-sung",
+    "target_document": "14/2022/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm b khoản 2 Điều 10"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung phân bổ vốn sự nghiệp tại điểm b khoản 2 Điều 10 Quy định kèm theo Nghị quyết số 14/2022/NQ-HĐND"
+   },
+   {
+    "source_path": "Điều 1 Khoản 4",
+    "action": "sua-doi",
+    "target_document": "14/2022/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm b khoản 3 Điều 10"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung phân bổ vốn sự nghiệp tại điểm b khoản 3 Điều 10 Quy định kèm theo Nghị quyết số 14/2022/NQ-HĐND"
+   },
+   {
+    "source_path": "Điều 1 Khoản 4",
+    "action": "bo-sung",
+    "target_document": "14/2022/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm b khoản 3 Điều 10"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung phân bổ vốn sự nghiệp tại điểm b khoản 3 Điều 10 Quy định kèm theo Nghị quyết số 14/2022/NQ-HĐND"
+   },
+   {
+    "source_path": "Điều 1 Khoản 5",
+    "action": "sua-doi",
+    "target_document": "14/2022/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm b khoản 4 Điều 10"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung phân bổ vốn sự nghiệp tại điểm b khoản 4 Điều 10 Quy định kèm theo Nghị định số 14/2022/NĐ-HĐND"
+   },
+   {
+    "source_path": "Điều 1 Khoản 5",
+    "action": "bo-sung",
+    "target_document": "14/2022/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm b khoản 4 Điều 10"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung phân bổ vốn sự nghiệp tại điểm b khoản 4 Điều 10 Quy định kèm theo Nghị định số 14/2022/NĐ-HĐND"
+   },
+   {
+    "source_path": "Điều 1 Khoản 6",
+    "action": "sua-doi",
+    "target_document": "14/2022/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm a khoản 1 Điều 11"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung phân bổ vốn đầu tư tại điểm a khoản 1 Điều 11 Quy định kèm theo Nghị quyết số 14/2022/NQ-HĐND"
+   },
+   {
+    "source_path": "Điều 1 Khoản 6",
+    "action": "bo-sung",
+    "target_document": "14/2022/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm a khoản 1 Điều 11"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung phân bổ vốn đầu tư tại điểm a khoản 1 Điều 11 Quy định kèm theo Nghị quyết số 14/2022/NQ-HĐND"
+   },
+   {
+    "source_path": "Điều 1 Khoản 7",
+    "action": "sua-doi",
+    "target_document": "14/2022/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm a khoản 2 Điều 11"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung phân bổ vốn sự nghiệp tại điểm a khoản 2 Điều 11 Quy định kèm theo Nghị quyết số 14/2022/NQ-HĐND"
+   },
+   {
+    "source_path": "Điều 1 Khoản 7",
+    "action": "bo-sung",
+    "target_document": "14/2022/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm a khoản 2 Điều 11"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung phân bổ vốn sự nghiệp tại điểm a khoản 2 Điều 11 Quy định kèm theo Nghị quyết số 14/2022/NQ-HĐND"
+   },
+   {
+    "source_path": "Điều 1 Khoản 8",
+    "action": "sua-doi",
+    "target_document": "14/2022/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm b khoản 2 Điều 14"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung phân bổ vốn sự nghiệp tại điểm b khoản 2 Điều 14 Quy định kèm theo Nghị quyết số 14/2022/NQ-HĐND"
+   },
+   {
+    "source_path": "Điều 1 Khoản 8",
+    "action": "bo-sung",
+    "target_document": "14/2022/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm b khoản 2 Điều 14"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung phân bổ vốn sự nghiệp tại điểm b khoản 2 Điều 14 Quy định kèm theo Nghị quyết số 14/2022/NQ-HĐND"
+   },
+   {
+    "source_path": "Điều 1 Khoản 9",
+    "action": "sua-doi",
+    "target_document": "14/2022/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm b khoản 1 Điều 15"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung phân bổ vốn sự nghiệp tại điểm b khoản 1 Điều 15 Quy định kèm theo Nghị quyết số 14/2022/NQ-HĐND"
+   },
+   {
+    "source_path": "Điều 1 Khoản 9",
+    "action": "bo-sung",
+    "target_document": "14/2022/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm b khoản 1 Điều 15"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung phân bổ vốn sự nghiệp tại điểm b khoản 1 Điều 15 Quy định kèm theo Nghị quyết số 14/2022/NQ-HĐND"
+   },
+   {
+    "source_path": "Điều 1 Khoản 10",
+    "action": "sua-doi",
+    "target_document": "14/2022/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm b khoản 2 Điều 15"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung phân bổ vốn sự nghiệp tại điểm b khoản 2 Điều 15 Quy định kèm theo Nghị quyết số 14/2022/NQ-HĐND"
+   },
+   {
+    "source_path": "Điều 1 Khoản 10",
+    "action": "bo-sung",
+    "target_document": "14/2022/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm b khoản 2 Điều 15"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung phân bổ vốn sự nghiệp tại điểm b khoản 2 Điều 15 Quy định kèm theo Nghị quyết số 14/2022/NQ-HĐND"
+   },
+   {
+    "source_path": "Điều 1 Khoản 11",
+    "action": "sua-doi",
+    "target_document": "14/2022/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm b khoản 3 Điều 15"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung phân bổ vốn sự nghiệp tại điểm b khoản 3 Điều 15 Quy định kèm theo Nghị quyết số 14/2022/NQ-HĐND"
+   },
+   {
+    "source_path": "Điều 1 Khoản 11",
+    "action": "bo-sung",
+    "target_document": "14/2022/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm b khoản 3 Điều 15"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung phân bổ vốn sự nghiệp tại điểm b khoản 3 Điều 15 Quy định kèm theo Nghị quyết số 14/2022/NQ-HĐND"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Khoản 5 viết nhầm 'Nghị định số 14/2022/NĐ-HĐND' (đã được sửa đổi tại khoản 1 Điều 1 NQ 29/2023): ghi đích 14/2022/NQ-HĐND. Khoản 12 (nội dung khác giữ nguyên) không phải hành động. Lời dẫn chỉ nêu Tờ trình."
+ },
+ {
+  "doc_id": "650252",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "58/2021/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA QUY ĐỊNH CHỨC NĂNG, NHIỆM VỤ, QUYỀN HẠN VÀ CƠ CẤU TỔ CHỨC CỦA SỞ TƯ PHÁP TỈNH LONG AN BAN HÀNH KÈM THEO QUYẾT ĐỊNH SỐ 58/2021/QĐ-UBND"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "58/2021/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA QUY ĐỊNH CHỨC NĂNG, NHIỆM VỤ, QUYỀN HẠN VÀ CƠ CẤU TỔ CHỨC CỦA SỞ TƯ PHÁP TỈNH LONG AN BAN HÀNH KÈM THEO QUYẾT ĐỊNH SỐ 58/2021/QĐ-UBND"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "58/2021/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 1 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi khoản 1 Điều 1 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "58/2021/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm c khoản 1 Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi điểm c khoản 1 Điều 2 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "bo-sung",
+    "target_document": "58/2021/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm d khoản 1 Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung điểm d vào khoản 1 Điều 2 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 4",
+    "action": "sua-doi",
+    "target_document": "58/2021/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 2 Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi khoản 2 Điều 2 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 5",
+    "action": "bai-bo",
+    "target_document": "58/2021/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 11 Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ khoản 11 Điều 2."
+   },
+   {
+    "source_path": "Điều 1 Khoản 6",
+    "action": "sua-doi",
+    "target_document": "58/2021/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm e khoản 15 Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi điểm e khoản 15 Điều 2 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 7",
+    "action": "sua-doi",
+    "target_document": "58/2021/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm a khoản 1 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi điểm a khoản 1 Điều 3 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 8",
+    "action": "sua-doi",
+    "target_document": "58/2021/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 3 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi khoản 3 Điều 3 như sau:"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": ""
+ },
+ {
+  "doc_id": "650318",
+  "relations": [
+   {
+    "source_path": "Điều 3",
+    "action": "sua-doi",
+    "target_document": "1610/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "các quy định về thủ tục hành chính",
+    "evidence": "Quyết định này sửa đổi, bổ sung các quy định về thủ tục hành chính tại Quyết định 1610/QĐ-UBND ngày 30/11/2024"
+   },
+   {
+    "source_path": "Điều 3",
+    "action": "bo-sung",
+    "target_document": "1610/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "các quy định về thủ tục hành chính",
+    "evidence": "Quyết định này sửa đổi, bổ sung các quy định về thủ tục hành chính tại Quyết định 1610/QĐ-UBND ngày 30/11/2024"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 1 công bố danh mục và quy trình: không phải hành động. Bảng phụ lục không nêu văn bản đích."
+ },
+ {
+  "doc_id": "650333",
+  "relations": [
+   {
+    "source_path": "Điều 3",
+    "action": "bai-bo",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "TTHC số 54, 55, 57. Mục VII. Lĩnh vực Quản lý an toàn đập, hồ chứa thủy điện",
+    "evidence": "Bãi bỏ TTHC số 54, 55, 57. Mục VII. Lĩnh vực Quản lý an toàn đập, hồ chứa thủy điện tại Quyết định số 1760/QĐ-UBND"
+   },
+   {
+    "source_path": "Điều 3",
+    "action": "bai-bo",
+    "target_document": "1759/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "TTHC số 14. Mục III. Lĩnh vực Quản lý an toàn đập, hồ chứa thủy điện",
+    "evidence": "Bãi bỏ TTHC số 14. Mục III. Lĩnh vực Quản lý an toàn đập, hồ chứa thủy điện tại Quyết định số 1759/QĐ-UBND"
+   },
+   {
+    "source_path": "Điều 3",
+    "action": "bai-bo",
+    "target_document": "2912/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ Quyết định số 2912/QĐ-UBND ngày 02 tháng 12 năm 2022"
+   },
+   {
+    "source_path": "Điều 3",
+    "action": "bai-bo",
+    "target_document": "2546/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ Quyết định số 2546/QĐ-UBND ngày 26 tháng 10 năm 2023"
+   },
+   {
+    "source_path": "Điều 3",
+    "action": "bai-bo",
+    "target_document": "859/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "TTHC số 2",
+    "evidence": "Bãi bỏ TTHC số 2 tại Quyết định số 859/QĐ-UBND"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 1 công bố danh mục TTHC mới, sửa đổi, bãi bỏ: không phải hành động; bảng phụ lục không nêu Quyết định đích (cột văn bản là căn cứ pháp lý)."
+ },
+ {
+  "doc_id": "650361",
+  "relations": [
+   {
+    "source_path": "Phụ lục 1 Mục I STT 1",
+    "action": "sua-doi",
+    "target_document": "102/2024/NQ-HĐND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Khu du lịch sinh thái tổng hợp thảo nguyên La Vuông",
+    "evidence": "Điều chỉnh, bổ sung tên dự án, diện tích tại Nghị quyết số 102/2024/NQ-HĐND ngày 12/12/2024 của HĐND tỉnh (Khu du lịch sinh thái tổng hợp thảo nguyên La Vuông, diện tích 500ha)"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục I STT 1",
+    "action": "bo-sung",
+    "target_document": "102/2024/NQ-HĐND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Khu du lịch sinh thái tổng hợp thảo nguyên La Vuông",
+    "evidence": "Điều chỉnh, bổ sung tên dự án, diện tích tại Nghị quyết số 102/2024/NQ-HĐND ngày 12/12/2024 của HĐND tỉnh (Khu du lịch sinh thái tổng hợp thảo nguyên La Vuông, diện tích 500ha)"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục I STT 2",
+    "action": "sua-doi",
+    "target_document": "102/2024/NQ-HĐND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Khu du lịch Bãi Con",
+    "evidence": "Điều chỉnh, bổ sung tên dự án, diện tích tại Nghị quyết số 102/2024/NQ-HĐND ngày 12/12/2024 của HĐND tỉnh (Khu du lịch Bãi Con, diện tích 58,48ha)"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục I STT 2",
+    "action": "bo-sung",
+    "target_document": "102/2024/NQ-HĐND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Khu du lịch Bãi Con",
+    "evidence": "Điều chỉnh, bổ sung tên dự án, diện tích tại Nghị quyết số 102/2024/NQ-HĐND ngày 12/12/2024 của HĐND tỉnh (Khu du lịch Bãi Con, diện tích 58,48ha)"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục II STT 2",
+    "action": "sua-doi",
+    "target_document": "102/2024/NQ-HĐND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Nâng cấp, mở rộng Cảng hàng không Phù Cát",
+    "evidence": "Điều chỉnh, bổ sung diện tích tại Nghị quyết số 102/2024/NQ-HĐND ngày 12/12/2024 của HĐND tỉnh (diện tích 8,04ha)"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục II STT 2",
+    "action": "bo-sung",
+    "target_document": "102/2024/NQ-HĐND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Nâng cấp, mở rộng Cảng hàng không Phù Cát",
+    "evidence": "Điều chỉnh, bổ sung diện tích tại Nghị quyết số 102/2024/NQ-HĐND ngày 12/12/2024 của HĐND tỉnh (diện tích 8,04ha)"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục II STT 3",
+    "action": "sua-doi",
+    "target_document": "102/2024/NQ-HĐND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Mỏ đất xã Cát Lâm (Núi Hoàn Quýt, thôn Thuận Phong)",
+    "evidence": "Điều chỉnh, bổ sung diện tích tại Nghị quyết số 102/2024/NQ-HĐND ngày 12/12/2024 của HĐND tỉnh (diện tích 51,0ha)"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục II STT 3",
+    "action": "bo-sung",
+    "target_document": "102/2024/NQ-HĐND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Mỏ đất xã Cát Lâm (Núi Hoàn Quýt, thôn Thuận Phong)",
+    "evidence": "Điều chỉnh, bổ sung diện tích tại Nghị quyết số 102/2024/NQ-HĐND ngày 12/12/2024 của HĐND tỉnh (diện tích 51,0ha)"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục II STT 4",
+    "action": "sua-doi",
+    "target_document": "102/2024/NQ-HĐND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Khu thương mại dịch vụ, du lịch Tân Thắng và Khu dân cư tại xã Cát Hải và xã Cát Thành, huyện Phù Cát",
+    "evidence": "Điều chỉnh tên dự án, diện tích tại Nghị quyết số 102/2024/NQ-HĐND ngày 12/12/2024 của HĐND tỉnh (Khu thương mại dịch vụ, du lịch Tân Thắng và Khu dân cư tại xã Cát Hải và xã Cát Thành, huyện Phù Cát, diện tích 603,36ha)"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục IV STT 1",
+    "action": "bo-sung",
+    "target_document": "102/2024/NQ-HĐND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Khu công nghiệp Phù Mỹ",
+    "evidence": "Bổ sung diện tích tại Nghị quyết số 102/2024/NQ-HĐND ngày 12/12/2024 của HĐND tỉnh (diện tích 200ha)"
+   },
+   {
+    "source_path": "Phụ lục 2 Mục I STT 1",
+    "action": "sua-doi",
+    "target_document": "102/2024/NQ-HĐND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Khu thể dục thể thao kết hợp thương mại dịch vụ, du lịch La Vuông",
+    "evidence": "Điều chỉnh, bổ sung tại Nghị quyết số 102/2024/NQ-HĐND ngày 12/12/2024 của HĐND tỉnh (Đất rừng phòng hộ 290,93ha, đất rừng sản xuất 209,07ha)"
+   },
+   {
+    "source_path": "Phụ lục 2 Mục I STT 1",
+    "action": "bo-sung",
+    "target_document": "102/2024/NQ-HĐND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Khu thể dục thể thao kết hợp thương mại dịch vụ, du lịch La Vuông",
+    "evidence": "Điều chỉnh, bổ sung tại Nghị quyết số 102/2024/NQ-HĐND ngày 12/12/2024 của HĐND tỉnh (Đất rừng phòng hộ 290,93ha, đất rừng sản xuất 209,07ha)"
+   },
+   {
+    "source_path": "Phụ lục 2 Mục I STT 2",
+    "action": "sua-doi",
+    "target_document": "102/2024/NQ-HĐND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Khu thể dục thể thao kết hợp thương mại dịch vụ, du lịch Bãi Con",
+    "evidence": "Điều chỉnh, bổ sung tại Nghị quyết số 102/2024/NQ-HĐND ngày 12/12/2024 của HĐND tỉnh (Đất rừng phòng hộ 32,2ha)"
+   },
+   {
+    "source_path": "Phụ lục 2 Mục I STT 2",
+    "action": "bo-sung",
+    "target_document": "102/2024/NQ-HĐND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Khu thể dục thể thao kết hợp thương mại dịch vụ, du lịch Bãi Con",
+    "evidence": "Điều chỉnh, bổ sung tại Nghị quyết số 102/2024/NQ-HĐND ngày 12/12/2024 của HĐND tỉnh (Đất rừng phòng hộ 32,2ha)"
+   },
+   {
+    "source_path": "Phụ lục 2 Mục II STT 1",
+    "action": "sua-doi",
+    "target_document": "102/2024/NQ-HĐND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Nâng cấp, mở rộng Cảng hàng không Phù Cát",
+    "evidence": "Điều chỉnh, bổ sung tại Nghị quyết số 102/2024/NQ-HĐND ngày 12/12/2024 của HĐND tỉnh (Đất trồng lúa 6,0ha)"
+   },
+   {
+    "source_path": "Phụ lục 2 Mục II STT 1",
+    "action": "bo-sung",
+    "target_document": "102/2024/NQ-HĐND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Nâng cấp, mở rộng Cảng hàng không Phù Cát",
+    "evidence": "Điều chỉnh, bổ sung tại Nghị quyết số 102/2024/NQ-HĐND ngày 12/12/2024 của HĐND tỉnh (Đất trồng lúa 6,0ha)"
+   },
+   {
+    "source_path": "Phụ lục 2 Mục II STT 2",
+    "action": "sua-doi",
+    "target_document": "102/2024/NQ-HĐND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Mỏ đất xã Cát Lâm (Núi Hoàn Quýt, thôn Thuận Phong)",
+    "evidence": "Điều chỉnh, bổ sung tại Nghị quyết số 102/2024/NQ-HĐND ngày 12/12/2024 của HĐND tỉnh (Đất rừng sản xuất 51,0ha)"
+   },
+   {
+    "source_path": "Phụ lục 2 Mục II STT 2",
+    "action": "bo-sung",
+    "target_document": "102/2024/NQ-HĐND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Mỏ đất xã Cát Lâm (Núi Hoàn Quýt, thôn Thuận Phong)",
+    "evidence": "Điều chỉnh, bổ sung tại Nghị quyết số 102/2024/NQ-HĐND ngày 12/12/2024 của HĐND tỉnh (Đất rừng sản xuất 51,0ha)"
+   },
+   {
+    "source_path": "Phụ lục 2 Mục II STT 3",
+    "action": "sua-doi",
+    "target_document": "102/2024/NQ-HĐND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Khu văn hoá, thể dục thể thao, vui chơi, giải trí kết hợp thương mại dịch vụ, du lịch",
+    "evidence": "Điều chỉnh, bổ sung tại Nghị quyết số 102/2024/NQ-HĐND ngày 12/12/2024 của HĐND tỉnh (Đất rừng phòng hộ 248,0ha, đất rừng sản xuất 1,26ha)"
+   },
+   {
+    "source_path": "Phụ lục 2 Mục II STT 3",
+    "action": "bo-sung",
+    "target_document": "102/2024/NQ-HĐND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Khu văn hoá, thể dục thể thao, vui chơi, giải trí kết hợp thương mại dịch vụ, du lịch",
+    "evidence": "Điều chỉnh, bổ sung tại Nghị quyết số 102/2024/NQ-HĐND ngày 12/12/2024 của HĐND tỉnh (Đất rừng phòng hộ 248,0ha, đất rừng sản xuất 1,26ha)"
+   },
+   {
+    "source_path": "Phụ lục 2 Mục IV STT 1",
+    "action": "bo-sung",
+    "target_document": "102/2024/NQ-HĐND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Khu công nghiệp Phù Mỹ",
+    "evidence": "Bổ sung tại Nghị quyết số 102/2024/NQ-HĐND ngày 12/12/2024 của HĐND tỉnh (Đất trồng lúa 24,92ha, đất rừng phòng hộ 132,58ha)"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên văn bản và Điều 1 'điều chỉnh, bổ sung danh mục ... năm 2025' không nêu văn bản đích: không ghi. Hành động lên NQ 102/2024/NQ-HĐND nằm ở cột Ghi chú của từng dòng bảng; 'Điều chỉnh' ghi sua-doi, 'bổ sung' ghi bo-sung. Mục là ký hiệu nhóm địa bàn (I, II, IV) trong bảng; STT đánh lại theo nhóm. Các dòng không có ghi chú là công trình mới, không ghi."
+ },
+ {
+  "doc_id": "650413",
+  "relations": [
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bai-bo",
+    "target_document": "1519/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 1519/QĐ-UBND ngày 11 tháng 7 năm 2024 của Chủ tịch Ủy ban nhân dân tỉnh Sóc Trăng về việc công bố thủ tục hành chính sửa đổi, bổ sung lĩnh vực Lý lịch tư pháp thuộc thẩm quyền giải quyết của Sở Tư pháp tỉnh Sóc Trăng"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "1189/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 1189/QĐ-UBND ngày 07 tháng 6 năm 2024 của Chủ tịch Ủy ban nhân dân tỉnh Sóc Trăng về việc phê duyệt quy trình nội bộ giải quyết thủ tục hành chính lĩnh vực lý lịch tư pháp thuộc thẩm quyền giải quyết của Sở Tư pháp tỉnh Sóc Trăng"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "3609/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "quy trình số 05, quy trình số 06",
+    "evidence": "Và bãi bỏ quy trình số 05, quy trình số 06 ban hành kèm theo Quyết định số 3609/QĐ-UBND ngày 17 tháng 12 năm 2019"
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "loai": "gop_sai",
+    "ghi_chu": "Đoạn 'Và bãi bỏ quy trình số 05, quy trình số 06 ... Quyết định số 3609/QĐ-UBND' là đoạn của Điều 1 (sau khoản 2), bị gộp vào Khoản 2."
+   }
+  ],
+  "ghi_chu": "Câu 'Lý do: Thực hiện theo Quyết định số 838/QĐ-BTP' là căn cứ, không ghi."
+ },
+ {
+  "doc_id": "650679",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "01/2025/TT-BNV",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bộ trưởng Bộ Nội vụ ban hành Thông tư sửa đổi, bổ sung một số điều của Thông tư số 01/2025/TT-BNV"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "01/2025/TT-BNV",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bộ trưởng Bộ Nội vụ ban hành Thông tư sửa đổi, bổ sung một số điều của Thông tư số 01/2025/TT-BNV"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "01/2025/TT-BNV",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 1 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "01/2025/TT-BNV",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 1 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "01/2025/TT-BNV",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 2 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "01/2025/TT-BNV",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 2 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "sua-doi",
+    "target_document": "01/2025/TT-BNV",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 2 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm a khoản 2 Điều 3"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "bo-sung",
+    "target_document": "01/2025/TT-BNV",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 2 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm a khoản 2 Điều 3"
+   },
+   {
+    "source_path": "Điều 1 Khoản 4",
+    "action": "sua-doi",
+    "target_document": "01/2025/TT-BNV",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 4"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 4 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 4",
+    "action": "bo-sung",
+    "target_document": "01/2025/TT-BNV",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 4"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 4 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 5",
+    "action": "bo-sung",
+    "target_document": "01/2025/TT-BNV",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 6a"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung Điều 6a như sau:"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Khoản 4 noi_dung bị cắt 6.000 ký tự; toàn văn không có hành động khác. Nội dung trong ngoặc kép (dẫn chiếu Nghị định 178/2024, 67/2025) không ghi."
+ },
+ {
+  "doc_id": "650780",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "1916/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục V Phụ lục"
+    ],
+    "doi_tuong": "Các nội dung công bố tại Mục V. Lĩnh vực đường thủy nội địa",
+    "evidence": "Các nội dung công bố tại Mục V. Lĩnh vực đường thủy nội địa tại Phụ lục kèm theo Quyết định số 1916/QĐ-UBND ngày 26/8/2022 của Chủ tịch UBND tỉnh hết hiệu lực kể từ ngày Quyết định này có hiệu lực thi hành."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Văn bản tự tuyên bố nội dung Mục V Phụ lục của QĐ 1916/QĐ-UBND hết hiệu lực: ghi bai-bo. Phụ lục quy trình không có chữ hành động."
+ },
+ {
+  "doc_id": "651073",
+  "relations": [
+   {
+    "source_path": "Điều 2 Khoản 1",
+    "action": "thay-the",
+    "target_document": "1703/QĐ-BGTVT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 1703/QĐ-BGTVT ngày 30/12/2024 của Bộ trưởng Bộ Giao thông vận tải ban hành Kế hoạch Kiểm soát thủ tục hành chính năm 2025 của Bộ Giao thông vận tải."
+   },
+   {
+    "source_path": "Điều 2 Khoản 2",
+    "action": "thay-the",
+    "target_document": "1318/QĐ-BXD",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 1318/QĐ-BXD ngày 31/12/2024 của Bộ trưởng Bộ Xây dựng ban hành Kế hoạch kiểm soát thủ tục hành chính năm 2025."
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 2",
+    "loai": "thieu_noi_dung",
+    "ghi_chu": "don_vi chỉ có câu dẫn Điều 2 'thay thế các Quyết định:'; khoản 1, 2 liệt kê hai Quyết định bị thay thế bị mất, lấy theo toàn văn."
+   }
+  ],
+  "ghi_chu": "Các dòng phụ lục kế hoạch ('Sửa đổi, bổ sung Thông tư số 13/2019/TT-BGTVT', 'Nghị định thay thế Nghị định số 64/2010/NĐ-CP') là nhiệm vụ, không ghi."
+ },
+ {
+  "doc_id": "651157",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "1352/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực kể từ ngày ký ban hành và thay thế các Quyết định số 1352/QĐ-UBND ngày 12 tháng 7 năm 2023"
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "1264/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 1264/QĐ-UBND ngày 03 tháng 6 năm 2020 về việc công bố danh mục thủ tục hành chính sửa đổi, bổ sung trong lĩnh vực khí tượng thủy văn"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": ""
+ },
+ {
+  "doc_id": "651159",
+  "relations": [
+   {
+    "source_path": "Điều 1",
+    "action": "sua-doi",
+    "target_document": "655/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "Tuyến cống dọc đường Lê Thánh Tôn (đoạn từ đường Đinh Tiên Hoàng đến Phạm Văn Đồng)",
+    "evidence": "655/QĐ-UBND ngày 12/7/2023 | BxH=2000x1500 (đi dưới lòng đường phía Nam) | BxH=2000x1500 (điều chỉnh đi dưới vỉa hè phía Nam)"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "sua-doi",
+    "target_document": "949/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "đồ án Điều chỉnh Quy hoạch chung xây dựng thành phố Quảng Ngãi đến năm 2040 (hạ tầng hệ thống thoát nước mưa, thoát nước thải)",
+    "evidence": "949/QĐ-UBND ngày 11/10/2021 | Công suất trạm bơm nước mưa Q=7.700 m 3 /h | Điều chỉnh công suất trạm bơm nước mưa Q=21.600 m 3 /h"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bo-sung",
+    "target_document": "949/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "đồ án Điều chỉnh Quy hoạch chung xây dựng thành phố Quảng Ngãi đến năm 2040 (hạ tầng hệ thống thoát nước mưa, thoát nước thải)",
+    "evidence": "949/QĐ-UBND ngày 11/10/2021 | Không có trong quy hoạch | Bổ sung tuyến cống tròn D300"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bo-sung",
+    "target_document": "164/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "Trạm bơm nước thải tại Bến Tam Thương (TB3)",
+    "evidence": "164/QĐ-UBND ngày 08/3/2023 | Điều chỉnh bỏ trạm bơm tại bến Tam Thương (theo quyết định số 164/QĐ-UBND) | Bổ sung Trạm bơm nước thải tại Bến Tam Thương (TB3)"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 1 phê duyệt điều chỉnh cục bộ đồ án quy hoạch; bảng trong Điều 1 nêu từng hạng mục 'Tại Quyết định số' 655/2023, 949/2021, 164/2023 với nội dung điều chỉnh (sua-doi) hoặc bổ sung (bo-sung); Điều 3 xác nhận các nội dung khác của 3 Quyết định giữ nguyên. Gộp mỗi cặp (văn bản, hành động) thành một quan hệ. Điều 2 Khoản 2 giao cập nhật, rà soát: nhiệm vụ."
+ }
+]

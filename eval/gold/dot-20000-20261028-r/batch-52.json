@@ -1,0 +1,43 @@
+[
+ {
+  "doc_id": "667232",
+  "relations": [
+   {
+    "source_path": "Điều 2 Khoản 2",
+    "action": "thay-the",
+    "target_document": "08/2025/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này thay thế Quyết định số 08/2025/QĐ-UBND ngày 28 tháng 02 năm 2025 của Ủy ban nhân dân tỉnh về ban hành Quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Sở Nội vụ tỉnh Lai Châu."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quyết định ban hành quy định chức năng Sở Nội vụ Lai Châu; chỉ có 1 quan hệ thay thế cả Quyết định 08/2025/QĐ-UBND. Các chữ 'hủy bỏ', 'gia hạn', 'tạm đình chỉ' trong phần kèm theo là nhiệm vụ của Sở, không phải hành động."
+ },
+ {
+  "doc_id": "668334",
+  "relations": [
+   {
+    "source_path": "Điều 13",
+    "action": "thay-the",
+    "target_document": "12/2025/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này thay thế Quyết định số 12/2025/QĐ-UBND ngày 12/3/2025 của Ủy ban nhân dân tỉnh Khánh Hòa quy định chức năng, nhiệm vụ, quyền hạn của Sở Tư pháp tỉnh Khánh Hòa"
+   },
+   {
+    "source_path": "Điều 13",
+    "action": "thay-the",
+    "target_document": "30/2025/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 30/2025/QD-UBND ngày 28/02/2025 của Ủy ban nhân dân tỉnh Ninh Thuận về việc quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Sở Tư pháp tỉnh Ninh Thuận"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 13 thay thế 2 quyết định: 12/2025/QĐ-UBND (UBND tỉnh Khánh Hòa) và 30/2025/QĐ-UBND (UBND tỉnh Ninh Thuận; văn bản viết 'QD' không dấu). Các chữ 'hủy bỏ', 'đình chỉ', 'gia hạn' ở Chương II là nhiệm vụ của Sở."
+ }
+]

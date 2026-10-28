@@ -1,0 +1,994 @@
+[
+ {
+  "doc_id": "669629",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quyết định phê duyệt phương án cắt giảm TTHC; các câu \"Kiến nghị thực thi - Sửa đổi ... Thông tư số 98/2024/TT-BQP, 67/2024/TT-BQP\" là kiến nghị sẽ thực hiện bằng văn bản khác: không phải quan hệ."
+ },
+ {
+  "doc_id": "669636",
+  "relations": [
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "140/QĐ-TTg",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi gạch đầu dòng thứ nhất mục II.3.a Điều 1 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "140/QĐ-TTg",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi gạch đầu dòng thứ nhất mục II.3.b (5) Điều 1 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "sua-doi",
+    "target_document": "140/QĐ-TTg",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi mục III Điều 1 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 4",
+    "action": "sua-doi",
+    "target_document": "140/QĐ-TTg",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Phụ lục II"
+    ],
+    "doi_tuong": "Chi tiết quy mô các nhóm cảng biển, cảng biển, khu bến cảng đến năm 2030",
+    "evidence": "Sửa đổi, bổ sung một số nội dung về “Chi tiết quy mô các nhóm cảng biển, cảng biển, khu bến cảng đến năm 2030” tại Phụ lục II kèm theo Quyết định số 140/QĐ-TTg ngày 16 tháng 01 năm 2025 của Thủ tướng Chính phủ"
+   },
+   {
+    "source_path": "Điều 1 Khoản 4",
+    "action": "bo-sung",
+    "target_document": "140/QĐ-TTg",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Phụ lục II"
+    ],
+    "doi_tuong": "Chi tiết quy mô các nhóm cảng biển, cảng biển, khu bến cảng đến năm 2030",
+    "evidence": "Sửa đổi, bổ sung một số nội dung về “Chi tiết quy mô các nhóm cảng biển, cảng biển, khu bến cảng đến năm 2030” tại Phụ lục II kèm theo Quyết định số 140/QĐ-TTg ngày 16 tháng 01 năm 2025 của Thủ tướng Chính phủ"
+   },
+   {
+    "source_path": "Điều 2 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "964/QĐ-BXD",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi mục I.1.a Điều 1 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "964/QĐ-BXD",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi mục I.2.b (1) Điều 1 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 3",
+    "action": "sua-doi",
+    "target_document": "964/QĐ-BXD",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi gạch đầu dòng thứ nhất mục II Điều 1 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 4",
+    "action": "sua-doi",
+    "target_document": "964/QĐ-BXD",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Phụ lục 02"
+    ],
+    "doi_tuong": "Danh mục quy hoạch chi tiết cảng biển Phú Yên đến năm 2030",
+    "evidence": "Sửa đổi, bổ sung một số nội dung về “Danh mục quy hoạch chi tiết cảng biển Phú Yên đến năm 2030” tại Phụ lục 02 kèm theo Quyết định số 964/QĐ-BXD ngày 30 tháng 6 năm 2025"
+   },
+   {
+    "source_path": "Điều 2 Khoản 4",
+    "action": "bo-sung",
+    "target_document": "964/QĐ-BXD",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Phụ lục 02"
+    ],
+    "doi_tuong": "Danh mục quy hoạch chi tiết cảng biển Phú Yên đến năm 2030",
+    "evidence": "Sửa đổi, bổ sung một số nội dung về “Danh mục quy hoạch chi tiết cảng biển Phú Yên đến năm 2030” tại Phụ lục 02 kèm theo Quyết định số 964/QĐ-BXD ngày 30 tháng 6 năm 2025"
+   },
+   {
+    "source_path": "Điều 2 Khoản 6",
+    "action": "sua-doi",
+    "target_document": "964/QĐ-BXD",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Phụ lục 03"
+    ],
+    "doi_tuong": "Thông số quy hoạch luồng tàu cảng biển Phú Yên đến năm 2030",
+    "evidence": "Sửa đổi, bổ sung một số nội dung về “Thông số quy hoạch luồng tàu cảng biển Phú Yên) đến năm 2030” tại Phụ lục 03 kèm theo Quyết định số 964/QĐ-BXD ngày 30 tháng 6 năm 2025"
+   },
+   {
+    "source_path": "Điều 2 Khoản 6",
+    "action": "bo-sung",
+    "target_document": "964/QĐ-BXD",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Phụ lục 03"
+    ],
+    "doi_tuong": "Thông số quy hoạch luồng tàu cảng biển Phú Yên đến năm 2030",
+    "evidence": "Sửa đổi, bổ sung một số nội dung về “Thông số quy hoạch luồng tàu cảng biển Phú Yên) đến năm 2030” tại Phụ lục 03 kèm theo Quyết định số 964/QĐ-BXD ngày 30 tháng 6 năm 2025"
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 2 Khoản 4",
+    "loai": "gop_sai",
+    "ghi_chu": "Khoản \"6.\" (sửa đổi, bổ sung Phụ lục 03 của QĐ 964/QĐ-BXD) bị gộp vào Khoản 4; văn bản gốc đánh số nhảy từ 4 sang 6."
+   }
+  ],
+  "ghi_chu": "Câu dẫn Điều 1, Điều 2 là câu chung, quan hệ ghi ở từng khoản. Mục La Mã/gạch đầu dòng trong Điều 1 của QĐ đích dừng ở Điều 1. Tên văn bản không nêu số hiệu đích."
+ },
+ {
+  "doc_id": "669673",
+  "relations": [
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "521/QĐ-BKHCN",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi Điều 1 của Quyết định số 521/QĐ-BKHCN ngày 09 tháng 4 năm 2025"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "522/QĐ-BKHCN",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi Điều 1 của Quyết định số 522/QĐ-BKHCN ngày 09 tháng 4 năm 2025"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "sua-doi",
+    "target_document": "523/QĐ-BKHCN",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi Điều 1 của Quyết định số 523/QĐ-BKHCN ngày 09 tháng 4 năm 2025"
+   },
+   {
+    "source_path": "Điều 1 Khoản 4",
+    "action": "sua-doi",
+    "target_document": "524/QĐ-BKHCN",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi Điều 1 của Quyết định số 524/QĐ-BKHCN ngày 09 tháng 4 năm 2025"
+   },
+   {
+    "source_path": "Điều 1 Khoản 5",
+    "action": "sua-doi",
+    "target_document": "525/QĐ-BKHCN",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi Điều 1 của Quyết định số 525/QĐ-BKHCN ngày 09 tháng 4 năm 2025"
+   },
+   {
+    "source_path": "Điều 1 Khoản 6",
+    "action": "sua-doi",
+    "target_document": "526/QĐ-BKHCN",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi Điều 1 của Quyết định số 526/QĐ-BKHCN ngày 09 tháng 4 năm 2025"
+   },
+   {
+    "source_path": "Điều 1 Khoản 7",
+    "action": "sua-doi",
+    "target_document": "527/QĐ-BKHCN",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi Điều 1 của Quyết định số 527/QĐ-BKHCN ngày 09 tháng 4 năm 2025"
+   },
+   {
+    "source_path": "Điều 1 Khoản 8",
+    "action": "sua-doi",
+    "target_document": "528/QĐ-BKHCN",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi Điều 1 của Quyết định số 528/QĐ-BKHCN ngày 09 tháng 4 năm 2025"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên văn bản \"sửa đổi một số điều của các Quyết định ...\" không nêu số hiệu: không ghi Phần đầu."
+ },
+ {
+  "doc_id": "669747",
+  "relations": [
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bai-bo",
+    "target_document": "09/2023/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định việc áp dụng, bãi bỏ Nghị quyết của Hội đồng nhân dân tỉnh Phú Thọ, tỉnh Vĩnh Phúc, tỉnh Hòa Bình trước khi hợp nhất để thực hiện trên địa bàn tỉnh Phú Thọ (Chi tiết có phụ lục I kèm theo Nghị quyết)."
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bai-bo",
+    "target_document": "267/2023/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định việc áp dụng, bãi bỏ Nghị quyết của Hội đồng nhân dân tỉnh Phú Thọ, tỉnh Vĩnh Phúc, tỉnh Hòa Bình trước khi hợp nhất để thực hiện trên địa bàn tỉnh Phú Thọ (Chi tiết có phụ lục I kèm theo Nghị quyết)."
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bai-bo",
+    "target_document": "02/2023/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định việc áp dụng, bãi bỏ Nghị quyết của Hội đồng nhân dân tỉnh Phú Thọ, tỉnh Vĩnh Phúc, tỉnh Hòa Bình trước khi hợp nhất để thực hiện trên địa bàn tỉnh Phú Thọ (Chi tiết có phụ lục I kèm theo Nghị quyết)."
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bai-bo",
+    "target_document": "163/2022/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định việc áp dụng, bãi bỏ Nghị quyết của Hội đồng nhân dân tỉnh Phú Thọ, tỉnh Vĩnh Phúc, tỉnh Hòa Bình trước khi hợp nhất để thực hiện trên địa bàn tỉnh Phú Thọ (Chi tiết có phụ lục I kèm theo Nghị quyết)."
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "04/2018/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định việc bãi bỏ Nghị quyết của Hội đồng nhân dân tỉnh Phú Thọ, tỉnh Vĩnh Phúc, tỉnh Hòa Bình trước khi hợp nhất (Chi tiết có phụ lục II kèm theo Nghị quyết)."
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "16/2019/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định việc bãi bỏ Nghị quyết của Hội đồng nhân dân tỉnh Phú Thọ, tỉnh Vĩnh Phúc, tỉnh Hòa Bình trước khi hợp nhất (Chi tiết có phụ lục II kèm theo Nghị quyết)."
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "22/2024/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định việc bãi bỏ Nghị quyết của Hội đồng nhân dân tỉnh Phú Thọ, tỉnh Vĩnh Phúc, tỉnh Hòa Bình trước khi hợp nhất (Chi tiết có phụ lục II kèm theo Nghị quyết)."
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "471/2024/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định việc bãi bỏ Nghị quyết của Hội đồng nhân dân tỉnh Phú Thọ, tỉnh Vĩnh Phúc, tỉnh Hòa Bình trước khi hợp nhất (Chi tiết có phụ lục II kèm theo Nghị quyết)."
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "08/2021/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định việc bãi bỏ Nghị quyết của Hội đồng nhân dân tỉnh Phú Thọ, tỉnh Vĩnh Phúc, tỉnh Hòa Bình trước khi hợp nhất (Chi tiết có phụ lục II kèm theo Nghị quyết)."
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "268/2023/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định việc bãi bỏ Nghị quyết của Hội đồng nhân dân tỉnh Phú Thọ, tỉnh Vĩnh Phúc, tỉnh Hòa Bình trước khi hợp nhất (Chi tiết có phụ lục II kèm theo Nghị quyết)."
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "04/2024/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định việc bãi bỏ Nghị quyết của Hội đồng nhân dân tỉnh Phú Thọ, tỉnh Vĩnh Phúc, tỉnh Hòa Bình trước khi hợp nhất (Chi tiết có phụ lục II kèm theo Nghị quyết)."
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "01/2014/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định việc bãi bỏ Nghị quyết của Hội đồng nhân dân tỉnh Phú Thọ, tỉnh Vĩnh Phúc, tỉnh Hòa Bình trước khi hợp nhất (Chi tiết có phụ lục II kèm theo Nghị quyết)."
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "01/2020/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định việc bãi bỏ Nghị quyết của Hội đồng nhân dân tỉnh Phú Thọ, tỉnh Vĩnh Phúc, tỉnh Hòa Bình trước khi hợp nhất (Chi tiết có phụ lục II kèm theo Nghị quyết)."
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "07/2020/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định việc bãi bỏ Nghị quyết của Hội đồng nhân dân tỉnh Phú Thọ, tỉnh Vĩnh Phúc, tỉnh Hòa Bình trước khi hợp nhất (Chi tiết có phụ lục II kèm theo Nghị quyết)."
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "18/2020/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định việc bãi bỏ Nghị quyết của Hội đồng nhân dân tỉnh Phú Thọ, tỉnh Vĩnh Phúc, tỉnh Hòa Bình trước khi hợp nhất (Chi tiết có phụ lục II kèm theo Nghị quyết)."
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "385/2021/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định việc bãi bỏ Nghị quyết của Hội đồng nhân dân tỉnh Phú Thọ, tỉnh Vĩnh Phúc, tỉnh Hòa Bình trước khi hợp nhất (Chi tiết có phụ lục II kèm theo Nghị quyết)."
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "01/2021/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định việc bãi bỏ Nghị quyết của Hội đồng nhân dân tỉnh Phú Thọ, tỉnh Vĩnh Phúc, tỉnh Hòa Bình trước khi hợp nhất (Chi tiết có phụ lục II kèm theo Nghị quyết)."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Khoản 1: 4 nghị quyết ở cột \"Nghị quyết bãi bỏ\" Phụ lục I (cột \"Nghị quyết áp dụng\" không phải đích). Khoản 2: 13 nghị quyết ở Phụ lục II."
+ },
+ {
+  "doc_id": "669845",
+  "relations": [
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bai-bo",
+    "target_document": "12/2010/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 20 nghị quyết sau đây:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "13/2010/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 20 nghị quyết sau đây:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "bai-bo",
+    "target_document": "28/2011/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 20 nghị quyết sau đây:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 4",
+    "action": "bai-bo",
+    "target_document": "32/2011/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 20 nghị quyết sau đây:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 5",
+    "action": "bai-bo",
+    "target_document": "12/2012/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 20 nghị quyết sau đây:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 6",
+    "action": "bai-bo",
+    "target_document": "17/2012/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 20 nghị quyết sau đây:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 7",
+    "action": "bai-bo",
+    "target_document": "19/2012/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 20 nghị quyết sau đây:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 8",
+    "action": "bai-bo",
+    "target_document": "19/2013/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 20 nghị quyết sau đây:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 9",
+    "action": "bai-bo",
+    "target_document": "99/2015/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 20 nghị quyết sau đây:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 10",
+    "action": "bai-bo",
+    "target_document": "32/2016/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 20 nghị quyết sau đây:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 11",
+    "action": "bai-bo",
+    "target_document": "44/2016/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 20 nghị quyết sau đây:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 12",
+    "action": "bai-bo",
+    "target_document": "45/2016/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 20 nghị quyết sau đây:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 13",
+    "action": "bai-bo",
+    "target_document": "09/2017/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 20 nghị quyết sau đây:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 14",
+    "action": "bai-bo",
+    "target_document": "07/2018/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 20 nghị quyết sau đây:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 15",
+    "action": "bai-bo",
+    "target_document": "04/2019/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 20 nghị quyết sau đây:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 16",
+    "action": "bai-bo",
+    "target_document": "06/2019/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 20 nghị quyết sau đây:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 17",
+    "action": "bai-bo",
+    "target_document": "13/2020/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 20 nghị quyết sau đây:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 18",
+    "action": "bai-bo",
+    "target_document": "06/2021/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 20 nghị quyết sau đây:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 19",
+    "action": "bai-bo",
+    "target_document": "18/2022/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 20 nghị quyết sau đây:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 20",
+    "action": "bai-bo",
+    "target_document": "01/2023/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 20 nghị quyết sau đây:"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên \"bãi bỏ các nghị quyết\" không nêu số hiệu: không ghi Phần đầu."
+ },
+ {
+  "doc_id": "670181",
+  "relations": [
+   {
+    "source_path": "Điều 4 Khoản 1 điểm a",
+    "action": "bai-bo",
+    "target_document": "18/2021/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị quyết này bãi bỏ:"
+   },
+   {
+    "source_path": "Điều 4 Khoản 1 điểm a",
+    "action": "bai-bo",
+    "target_document": "23/2024/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị quyết này bãi bỏ:"
+   },
+   {
+    "source_path": "Điều 4 Khoản 1 điểm b",
+    "action": "bai-bo",
+    "target_document": "13/2020/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 22"
+    ],
+    "doi_tuong": null,
+    "evidence": "Điều 22 của Quy định mức thu, chế độ thu, nộp, quản lý và sử dụng đối với các khoản phí, lệ phí trên địa bàn tỉnh Ninh Thuận kèm theo Nghị quyết số 13/2020/NQ-HĐND ngày 10/12/2020"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": ""
+ },
+ {
+  "doc_id": "670304",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quyết định công bố danh mục văn bản hết hiệu lực toàn bộ/một phần (kết quả hệ thống hóa): không ghi quan hệ."
+ },
+ {
+  "doc_id": "670332",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "258/2022/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ NỘI DUNG QUY ĐỊNH NGUYÊN TẮC, TIÊU CHÍ, ĐỊNH MỨC PHÂN BỔ VỐN NGÂN SÁCH TRUNG ƯƠNG VÀ TỶ LỆ VỐN ĐỐI ỨNG CỦA NGÂN SÁCH ĐỊA PHƯƠNG THỰC HIỆN CHƯƠNG TRÌNH MỤC TIÊU QUỐC GIA PHÁT TRIỂN KINH TẾ - XÃ HỘI VÙNG ĐỒNG BÀO DÂN TỘC THIỂU SỐ VÀ MIỀN NÚI TỈNH THANH HÓA GIAI ĐOẠN 2021 - 2030, GIAI ĐOẠN I: TỪ NĂM 2021 ĐẾN NĂM 2025 BAN HÀNH KÈM THEO NGHỊ QUYẾT SỐ 258/2022/NQ-HĐND"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "258/2022/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ NỘI DUNG QUY ĐỊNH NGUYÊN TẮC, TIÊU CHÍ, ĐỊNH MỨC PHÂN BỔ VỐN NGÂN SÁCH TRUNG ƯƠNG VÀ TỶ LỆ VỐN ĐỐI ỨNG CỦA NGÂN SÁCH ĐỊA PHƯƠNG THỰC HIỆN CHƯƠNG TRÌNH MỤC TIÊU QUỐC GIA PHÁT TRIỂN KINH TẾ - XÃ HỘI VÙNG ĐỒNG BÀO DÂN TỘC THIỂU SỐ VÀ MIỀN NÚI TỈNH THANH HÓA GIAI ĐOẠN 2021 - 2030, GIAI ĐOẠN I: TỪ NĂM 2021 ĐẾN NĂM 2025 BAN HÀNH KÈM THEO NGHỊ QUYẾT SỐ 258/2022/NQ-HĐND"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "thay-cum-tu",
+    "target_document": "258/2022/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 1 Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi cụm từ “Ủy ban nhân dân các huyện, thị xã” thành “Ủy ban nhân dân các xã” tại khoản 1, Điều 2 của Nghị quyết số 258/2022/NQ-HĐND ngày 13 tháng 7 năm 2022."
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "thay-cum-tu",
+    "target_document": "258/2022/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 6 Điều 3",
+     "khoản 9 Điều 3",
+     "khoản 1 Điều 4",
+     "khoản 2 Điều 4",
+     "Điều 5"
+    ],
+    "doi_tuong": "các Phụ lục",
+    "evidence": "Sửa đổi cụm từ “các huyện” thành “các xã” tại khoản 6, khoản 9 Điều 3; khoản 1, khoản 2 Điều 4; Điều 5 và tại các Phụ lục Nghị quyết số 258/2022/NQ-HĐND ngày 13 tháng 7 năm 2022"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "thay-cum-tu",
+    "target_document": "12/2023/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 1",
+     "khoản 3 Điều 1",
+     "khoản 4 Điều 1",
+     "khoản 5 Điều 1",
+     "khoản 6 Điều 1",
+     "khoản 7 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "sửa đổi khoản 2, khoản 3, khoản 4, khoản 5, khoản 6, khoản 7 Điều 1 tại Nghị quyết số 12/2023/NQ-HĐND ngày 29 tháng 9 năm 2023 của Hội đồng nhân dân tỉnh."
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "bai-bo",
+    "target_document": "258/2022/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 10 Điều 3"
+    ],
+    "doi_tuong": "cụm từ “cấp huyện”",
+    "evidence": "Bỏ cụm từ “cấp huyện” tại khoản 10 Điều 3"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "bai-bo",
+    "target_document": "258/2022/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục IX"
+    ],
+    "doi_tuong": "cụm từ “của huyện”",
+    "evidence": "cụm từ “của huyện” tại Phụ lục số IX của Nghị quyết số 258/2022/NQ-HĐND ngày 13 tháng 7 năm 2022."
+   },
+   {
+    "source_path": "Điều 1 Khoản 4",
+    "action": "thay-cum-tu",
+    "target_document": "258/2022/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục II"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi cụm từ “từng huyện” thành “từng xã” tại Phụ lục số II của Nghị quyết số 258/2022/NQ-HĐND ngày 13 tháng 7 năm 2022."
+   },
+   {
+    "source_path": "Điều 1 Khoản 5",
+    "action": "thay-cum-tu",
+    "target_document": "12/2023/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 6 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi cụm từ “Mỗi trung tâm y tế huyện, bệnh viện huyện được đầu tư xây dựng, sửa chữa, cải tạo” thành “Mỗi trung tâm y tế, bệnh viện được đầu tư xây dựng, sửa chữa, cải tạo” tại khoản 6 Điều 1 Nghị quyết số 12/2023/NQ-HĐND ngày 29 tháng 9 năm 2023."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên Điều 1 nói rõ sửa đổi quy định ban hành kèm theo NQ 258/2022 nên vị trí của NQ 258 ghi kem_theo. Khoản 2 vế sau \"sửa đổi khoản 2..7 Điều 1 tại NQ 12/2023\" không có nội dung mới, hiểu là thay cụm từ \"các huyện\" thành \"các xã\" (có thể chấm là sua-doi). \"Bỏ cụm từ\" ghi bai-bo + doi_tuong. Tên văn bản chỉ nhắc NQ 12/2023 như lịch sử sửa đổi."
+ },
+ {
+  "doc_id": "670348",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "275/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Phụ lục I"
+    ],
+    "doi_tuong": "Quy trình nội bộ TTHC lĩnh vực Văn hóa số thứ tự 44, 45 tại điểm A6 Mục A Phụ lục I",
+    "evidence": "Quy trình nội bộ TTHC lĩnh vực Văn hóa có số thứ tự 44, 45 tại điểm A6 Mục A Phụ lục I ban hành kèm theo Quyết định 275/QĐ-UBND ngày 21/02/2025"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 2 tự tuyên bố quy trình số 44, 45 của QĐ 275/QĐ-UBND hết hiệu lực: bai-bo."
+ },
+ {
+  "doc_id": "670375",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn hướng dẫn thực hiện Bộ tiêu chí NTM; V/v không nêu số hiệu đích. \"bỏ các nội dung ... do cấp huyện thực hiện\" (Tiêu chí 15.3) và \"Không tiếp tục thực hiện các chỉ tiêu ... huyện nông thôn mới\" là chỉ đạo thực hiện, không nêu rõ vị trí văn bản bị sửa: không ghi. Các câu \"sẽ nghiên cứu sửa đổi Thông tư 28/2020, 32/2021\" là dự kiến."
+ },
+ {
+  "doc_id": "670526",
+  "relations": [
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bai-bo",
+    "target_document": "28/2015/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ một số văn bản quy phạm pháp luật của Ủy ban nhân dân tỉnh Cao Bằng trong lĩnh vực khoa học và công nghệ"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "11/2015/CT-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ một số văn bản quy phạm pháp luật của Ủy ban nhân dân tỉnh Cao Bằng trong lĩnh vực khoa học và công nghệ"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Hành động ở tên Điều 1. Tên văn bản không nêu số hiệu đích."
+ },
+ {
+  "doc_id": "670791",
+  "relations": [
+   {
+    "source_path": "Điều 3",
+    "action": "thay-the",
+    "target_document": "1784/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực kể từ ngày ký và thay thế cho Quyết định số 1784/QĐ-UBND ngày 28/7/2021"
+   },
+   {
+    "source_path": "Điều 3",
+    "action": "thay-the",
+    "target_document": "1567/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực kể từ ngày ký và thay thế cho Quyết định số 1784/QĐ-UBND ngày 28/7/2021"
+   },
+   {
+    "source_path": "Điều 3",
+    "action": "thay-the",
+    "target_document": "2704/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực kể từ ngày ký và thay thế cho Quyết định số 1784/QĐ-UBND ngày 28/7/2021"
+   },
+   {
+    "source_path": "Điều 3",
+    "action": "thay-the",
+    "target_document": "208/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực kể từ ngày ký và thay thế cho Quyết định số 1784/QĐ-UBND ngày 28/7/2021"
+   },
+   {
+    "source_path": "Điều 3",
+    "action": "thay-the",
+    "target_document": "586/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực kể từ ngày ký và thay thế cho Quyết định số 1784/QĐ-UBND ngày 28/7/2021"
+   },
+   {
+    "source_path": "Điều 3",
+    "action": "thay-the",
+    "target_document": "1456/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực kể từ ngày ký và thay thế cho Quyết định số 1784/QĐ-UBND ngày 28/7/2021"
+   },
+   {
+    "source_path": "Điều 3",
+    "action": "thay-the",
+    "target_document": "1918/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực kể từ ngày ký và thay thế cho Quyết định số 1784/QĐ-UBND ngày 28/7/2021"
+   },
+   {
+    "source_path": "Điều 3",
+    "action": "thay-the",
+    "target_document": "2349/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực kể từ ngày ký và thay thế cho Quyết định số 1784/QĐ-UBND ngày 28/7/2021"
+   },
+   {
+    "source_path": "Điều 3",
+    "action": "thay-the",
+    "target_document": "2512/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực kể từ ngày ký và thay thế cho Quyết định số 1784/QĐ-UBND ngày 28/7/2021"
+   },
+   {
+    "source_path": "Điều 3",
+    "action": "thay-the",
+    "target_document": "589/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực kể từ ngày ký và thay thế cho Quyết định số 1784/QĐ-UBND ngày 28/7/2021"
+   },
+   {
+    "source_path": "Điều 3",
+    "action": "thay-the",
+    "target_document": "1092/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực kể từ ngày ký và thay thế cho Quyết định số 1784/QĐ-UBND ngày 28/7/2021"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 3 thay thế 11 quyết định (6 của UBND tỉnh Hưng Yên, 5 của UBND tỉnh Thái Bình). Điều 1 sửa đổi/cấp mới/đóng mã định danh, không tác động văn bản."
+ },
+ {
+  "doc_id": "670865",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "2180/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [],
+    "doi_tuong": "thủ tục hành chính số 62 Phần IX Mục A và số 15 Phần VI Mục B Phụ lục",
+    "evidence": "Thay thế thủ tục hành chính số 62, Phần IX, Mục A thủ tục hành chính cấp tỉnh và thủ tục hành chính số 15, Phần VI, Mục B thủ tục hành chính cấp huyện Phụ lục ban hành kèm theo Quyết định số 2180/QĐ-UBND"
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "2129/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [],
+    "doi_tuong": "thủ tục hành chính số 1 Phần I; số 1 Phần II Mục A Danh mục",
+    "evidence": "Thay thế thủ tục hành chính số 1 Phần I; thủ tục hành chính số 1 Phần II Mục A Danh mục ban hành kèm theo Quyết định số 2129/QĐ-UBND"
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "1012/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Phụ lục I"
+    ],
+    "doi_tuong": "thủ tục hành chính số 44 Mục 10",
+    "evidence": "Thay thế thủ tục hành chính số 44, Mục 10, Phụ lục I ban hành kèm theo Quyết định số 1012/QĐ-UBND ngày 29 tháng 6 năm 2023"
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "878/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Phụ lục 1"
+    ],
+    "doi_tuong": "thủ tục hành chính số 172",
+    "evidence": "Thay thế thủ tục hành chính số 172 Phụ lục 1 ban hành kèm theo Quyết định số 878/QĐ-UBND ngày 30 tháng 5 năm 2024"
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "1688/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Phụ lục 1",
+     "Phụ lục 2"
+    ],
+    "doi_tuong": "thủ tục hành chính số 72 Mục 10 Phụ lục 1 và số 200 Phụ lục 2",
+    "evidence": "Thay thế thủ tục hành chính số 72, Mục 10, Phụ lục 1 và thủ tục hành chính số 200 Phụ lục 2 ban hành kèm theo Quyết định số 1688/QĐ-UBND ngày 01 tháng 11 năm 2024"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 2 tự nói thay thế từng dòng TTHC trong danh mục của 5 quyết định công bố trước."
+ },
+ {
+  "doc_id": "671250",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "huong-dan",
+    "target_document": "12/2025/TT-BXD",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "V/v hướng dẫn nghiệp vụ về hoạt động cấp giấy phép lưu hành xe theo quy định tại Thông tư số 12/2025/TT-BXD"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Các mục 1-9 kể lại nội dung Thông tư 12/2025/TT-BXD đã sửa so với Thông tư 39/2024/TT-BGTVT: không phải tác động của công văn."
+ },
+ {
+  "doc_id": "671270",
+  "relations": [
+   {
+    "source_path": "Mục 1",
+    "action": "ngung-hieu-luc",
+    "target_document": "9748/KBNN-QLTT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "việc thay đổi mã Ngân hàng 8 số",
+    "evidence": "Tạm dừng việc thực hiện thay đổi mã Ngân hàng 8 số theo Công văn số 9748/KBNN-QLTT ngày 26/8/2025 của KBNN"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tạm dừng thực hiện công văn 9748 do chính KBNN ban hành: ghi ngung-hieu-luc (tạm ngưng)."
+ }
+]

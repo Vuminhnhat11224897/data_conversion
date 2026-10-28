@@ -1,0 +1,313 @@
+[
+ {
+  "doc_id": "677205",
+  "relations": [],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "loai": "gop_sai",
+    "ghi_chu": "Điều 3 (Tổ chức thực hiện) bị gộp vào noi_dung Điều 1 Khoản 2."
+   }
+  ],
+  "ghi_chu": "Điều chỉnh, bổ sung kế hoạch đầu tư công trung hạn; câu chỉ nhắc Nghị quyết 474/NQ-HĐND trong ngoặc (đã giao tại), không nêu tác động lên văn bản đó nên không ghi quan hệ. Số quyết định trong bảng phụ lục là căn cứ dự án."
+ },
+ {
+  "doc_id": "677255",
+  "relations": [
+   {
+    "source_path": "Điều 4 Khoản 3",
+    "action": "sua-doi",
+    "target_document": "92/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "nội dung phân bổ ngân sách",
+    "evidence": "Nghị quyết này điều chỉnh một phần nội dung phân bổ ngân sách tại các Nghị quyết của Hội đồng nhân dân tỉnh: số 92/NQ-HĐND ngày 06/12/2024, số 93/NQ-HĐND ngày 06/12/2024 và số 106/NQ-HĐND ngày 23/04/2025."
+   },
+   {
+    "source_path": "Điều 4 Khoản 3",
+    "action": "sua-doi",
+    "target_document": "93/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "nội dung phân bổ ngân sách",
+    "evidence": "Nghị quyết này điều chỉnh một phần nội dung phân bổ ngân sách tại các Nghị quyết của Hội đồng nhân dân tỉnh: số 92/NQ-HĐND ngày 06/12/2024, số 93/NQ-HĐND ngày 06/12/2024 và số 106/NQ-HĐND ngày 23/04/2025."
+   },
+   {
+    "source_path": "Điều 4 Khoản 3",
+    "action": "sua-doi",
+    "target_document": "106/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "nội dung phân bổ ngân sách",
+    "evidence": "Nghị quyết này điều chỉnh một phần nội dung phân bổ ngân sách tại các Nghị quyết của Hội đồng nhân dân tỉnh: số 92/NQ-HĐND ngày 06/12/2024, số 93/NQ-HĐND ngày 06/12/2024 và số 106/NQ-HĐND ngày 23/04/2025."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều chỉnh một phần nội dung phân bổ ngân sách tại 3 nghị quyết, không nêu vị trí."
+ },
+ {
+  "doc_id": "677370",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quyết định áp dụng 82 quyết định QPPL của tỉnh cũ trên địa bàn tỉnh mới (phụ lục danh sách, cột ghi chú trống); 'áp dụng' không phải tác động sửa, bỏ, thay."
+ },
+ {
+  "doc_id": "677541",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "2366/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "một số nội dung",
+    "evidence": "SỬA ĐỔI MỘT SỐ NỘI DUNG QUYẾT ĐỊNH SỐ 2366/QĐ-UBND NGÀY 31/12/2024 CỦA UBND TỈNH"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "2366/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi khoản 2, Điều 2 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "2366/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 4"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi khoản 2, Điều 4 như sau:"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Câu dẫn Điều 1: 'Sửa đổi một số nội dung Quyết định số 2366/QĐ-UBND ...'. Điều 2 'giữ nguyên' không phải tác động."
+ },
+ {
+  "doc_id": "677798",
+  "relations": [
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "2252/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục III"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Mục III. TỔ CHỨC THỰC HIỆN:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "2252/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục III"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Mục III. TỔ CHỨC THỰC HIỆN:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "2252/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục IV"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung Mục IV. CHẾ ĐỘ BÁO CÁO:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "bai-bo",
+    "target_document": "2252/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ Phụ lục tại Quyết định số 2252/QĐ-UBND ngày 29/4/2025 của UBND Thành phố"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "thay-the",
+    "target_document": "2252/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ Phụ lục tại Quyết định số 2252/QĐ-UBND ngày 29/4/2025 của UBND Thành phố và thay thế bằng Phụ lục kèm theo Quyết định này."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên Điều 1: Kế hoạch điều chỉnh nhiệm vụ CCHC 'được ban hành kèm theo Quyết định số 2252/QĐ-UBND'. Tên văn bản không nêu số hiệu. Nhiệm vụ 'thay thế Quyết định số 5152/QĐ-UBND' trong phụ lục là nhiệm vụ, không phải tác động."
+ },
+ {
+  "doc_id": "679292",
+  "relations": [
+   {
+    "source_path": "Điều 1",
+    "action": "sua-doi",
+    "target_document": "6830/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "nhiệm vụ công tác Cải cách hành chính nhà nước năm 2025",
+    "evidence": "Phê duyệt Kế hoạch điều chỉnh nhiệm vụ công tác Cải cách hành chính nhà nước năm 2025 của thành phố Hà Nội tại Quyết định số 6830/QĐ-UBND ngày 31/12/2024 của UBND Thành phố"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Phê duyệt kế hoạch điều chỉnh nhiệm vụ CCHC tại Kế hoạch ban hành kèm Quyết định 6830/QĐ-UBND; chi tiết ở phụ lục, không nêu vị trí. Ca biên (điều chỉnh qua kế hoạch)."
+ },
+ {
+  "doc_id": "684081",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "218/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm h khoản 1 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI ĐIỂM H KHOẢN 1 ĐIỀU 1 CỦA NGHỊ QUYẾT SỐ 218/NQ-HĐND NGÀY 20/02/2025 CỦA HỘI ĐỒNG NHÂN DÂN TỈNH"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "sua-doi",
+    "target_document": "218/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm h khoản 1 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi điểm h khoản 1 Điều 1 như sau:"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên Điều 1 ('Sửa đổi điểm h khoản 1 Điều 1 của Nghị quyết số 218/NQ-HĐND ...') bị gộp vào noi_dung, ten_dieu rỗng."
+ },
+ {
+  "doc_id": "684082",
+  "relations": [
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "237/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Điều chỉnh, bổ sung Điều 1 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "237/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Điều chỉnh, bổ sung Điều 1 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "237/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Điều chỉnh, bổ sung Điều 2 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "237/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Điều chỉnh, bổ sung Điều 2 như sau:"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Câu dẫn Điều 1: 'Điều chỉnh, bổ sung tại Điều 1, 2 của Nghị quyết số 237/NQ-HĐND ...'; 'điều chỉnh' tính là sửa đổi."
+ },
+ {
+  "doc_id": "686489",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "3326/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [
+     "Mục I Phụ lục 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "PHÊ DUYỆT ĐIỀU CHỈNH MỤC I, PHỤ LỤC 2, QUYẾT ĐỊNH SỐ 3326/QĐ-UBND NGÀY 27/8/2021 CỦA UBND TỈNH"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "3326/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [
+     "Mục I Phụ lục 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Điều chỉnh nhu cầu từ 02 xe ca (Hyundai County 29 chỗ ngồi) thành 02 xe ô tô chỉ huy (07 chỗ ngồi) phục vụ công tác phòng chống thiên tai và tìm kiếm cứu hộ, cứu nạn."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên Điều 1: 'Phê duyệt điều chỉnh Mục I, Phụ lục 2, Quyết định số 3326/QĐ-UBND'. Khoản 2, 3 chỉ dẫn chiếu/giữ nguyên."
+ },
+ {
+  "doc_id": "690865",
+  "relations": [
+   {
+    "source_path": "Điều 1 Khoản 1 điểm a",
+    "action": "sua-doi",
+    "target_document": "74/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "kế hoạch đầu tư công trung hạn giai đoạn 2021 - 2025 đối ứng thực hiện Chương trình mục tiêu quốc gia xây dựng nông thôn mới và một số chương trình, dự án khác",
+    "evidence": "Điều chỉnh giảm kế hoạch đầu tư công trung hạn giai đoạn 2021 - 2025 đối ứng thực hiện Chương trình mục tiêu quốc gia xây dựng nông thôn mới và một số chương trình, dự án khác tại Nghị quyết số 74/NQ-HĐND ngày 27 tháng 12 năm 2024 của Hội đồng nhân dân tỉnh là 6,1 tỷ đồng."
+   },
+   {
+    "source_path": "Điều 1 Khoản 1 điểm b",
+    "action": "sua-doi",
+    "target_document": "48/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "kế hoạch đầu tư công trung hạn giai đoạn 2021 - 2025 thực hiện Chương trình mục tiêu quốc gia giảm nghèo bền vững",
+    "evidence": "Điều chỉnh giảm kế hoạch đầu tư công trung hạn giai đoạn 2021 - 2025 thực hiện Chương trình mục tiêu quốc gia giảm nghèo bền vững tại Nghị quyết số 48/NQ-HĐND ngày 27 tháng 9 năm 2024 của Hội đồng nhân dân tỉnh là 1,975 tỷ đồng"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1 điểm c",
+    "action": "sua-doi",
+    "target_document": "34/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "kế hoạch đầu tư công trung hạn giai đoạn 2021 - 2025 thực hiện Chương trình mục tiêu quốc gia phát triển kinh tế - xã hội vùng đồng bào dân tộc thiểu số và miền núi",
+    "evidence": "Điều chỉnh giảm kế hoạch đầu tư công trung hạn giai đoạn 2021 - 2025 thực hiện Chương trình mục tiêu quốc gia phát triển kinh tế - xã hội vùng đồng bào dân tộc thiểu số và miền núi tại Nghị quyết số 34/NQ-HĐND ngày 22 tháng 7 năm 2024 của Hội đồng nhân dân tỉnh là 3,548 tỷ đồng."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "'Điều chỉnh giảm kế hoạch ... tại Nghị quyết số ...' tính là sửa đổi. Điều 3 Khoản 2 'không điều chỉnh ... vẫn giữ nguyên hiệu lực' không phải tác động; 20/NQ-HĐND chỉ được nêu ở đó."
+ }
+]

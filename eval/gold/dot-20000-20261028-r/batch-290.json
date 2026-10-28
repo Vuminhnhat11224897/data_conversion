@@ -1,0 +1,96 @@
+[
+ {
+  "doc_id": "670705",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Kế hoạch triển khai Nghị định 163/2025/NĐ-CP: giao nhiệm vụ, không tác động trực tiếp văn bản khác."
+ },
+ {
+  "doc_id": "670710",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Kế hoạch thực hiện kết luận của Thủ tướng: không có tác động lên văn bản."
+ },
+ {
+  "doc_id": "670729",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Không có điều khoản sửa đổi, thay thế, bãi bỏ văn bản khác."
+ },
+ {
+  "doc_id": "670758",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn đôn đốc giải quyết thủ tục đăng ký kinh doanh: không có tác động lên văn bản."
+ },
+ {
+  "doc_id": "670986",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Kế hoạch triển khai Nghị quyết 76/NQ-CP: chỉ giao nhiệm vụ, đề xuất sửa đổi."
+ },
+ {
+  "doc_id": "671088",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Nghị quyết tặng quà, bổ sung kinh phí ngân sách: không tác động văn bản khác."
+ },
+ {
+  "doc_id": "671223",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Ủy quyền giải quyết TTHC; Điều 3 khoản 1 giao Sở tham mưu sửa đổi danh mục kèm QĐ 2110/QĐ-UBND là nhiệm vụ, không phải quan hệ."
+ },
+ {
+  "doc_id": "671231",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Kế hoạch phát động thi đua: không có tác động lên văn bản."
+ },
+ {
+  "doc_id": "671251",
+  "relations": [],
+  "loi_cau_truc": [
+   {
+    "source_path": "Mục 1",
+    "loai": "gop_sai",
+    "ghi_chu": "Mục 2 (\"2. Thời hạn nộp thuế đối với số thuế thu nhập doanh nghiệp tạm nộp ...\") bị gộp vào Mục 1."
+   }
+  ],
+  "ghi_chu": "Thông báo nhắc lại thời hạn nộp thuế được gia hạn theo Nghị định 81/2025/NĐ-CP, 82/2025/NĐ-CP: gia hạn nộp thuế, không gia hạn văn bản; không phải quan hệ."
+ },
+ {
+  "doc_id": "671283",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn hướng dẫn cập nhật tên tiếng Anh; không nói rõ thay thế công văn 539/CT-VP: không ghi."
+ },
+ {
+  "doc_id": "671368",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Cho phép đổi tên Hội và phê duyệt Điều lệ (sửa đổi, bổ sung) của Hội; Điều lệ không phải văn bản có số hiệu: không ghi."
+ },
+ {
+  "doc_id": "671411",
+  "relations": [
+   {
+    "source_path": "Mục IV",
+    "action": "thay-the",
+    "target_document": "89/KH-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Kế hoạch này thay thế và kế thừa, thực hiện các nội dung của Kế hoạch số 89/KH-UBND ngày 26/4/2022 của Chủ tịch Ủy ban nhân dân tỉnh Cà Mau"
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Mục IV",
+    "loai": "thieu_noi_dung",
+    "ghi_chu": "Đoạn cuối \"Kế hoạch này thay thế và kế thừa ... Kế hoạch số 89/KH-UBND\" sau khoản 10 Mục IV không có trong đơn vị nào."
+   }
+  ],
+  "ghi_chu": "Câu thay thế nằm ở đoạn kết sau Mục IV, ghi source_path theo mục chứa nó trong toàn văn."
+ }
+]

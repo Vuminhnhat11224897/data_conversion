@@ -1,0 +1,42 @@
+[
+ {
+  "doc_id": "663656",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "hop-nhat",
+    "target_document": "06/2021/TT-BXD",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thông tư số 06/2021/TT-BXD ngày 30 tháng 6 năm 2021 của Bộ trưởng Bộ Xây dựng quy định về phân cấp công trình xây dựng và hướng dẫn áp dụng trong quản lý hoạt động đầu tư xây dựng được sửa đổi, bổ sung bởi:"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "hop-nhat",
+    "target_document": "02/2025/TT-BXD",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thông tư số 02/2025/TT-BXD ngày 31 tháng 3 năm 2025 của Bộ trưởng Bộ Xây dựng sửa đổi, bổ sung một số điều của Thông tư số 06/2021/TT-BXD ngày 30 tháng 6 năm 2021 của Bộ trưởng Bộ Xây dựng quy định về phân cấp công trình xây dựng và hướng dẫn áp dụng trong quản lý hoạt động đầu tư xây dựng;"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "hop-nhat",
+    "target_document": "09/2025/TT-BXD",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thông tư số 09/2025/TT-BXD ngày 13 tháng 6 năm 2025 của Bộ trưởng Bộ Xây dựng sửa đổi, bổ sung một số điều của các Thông tư thuộc lĩnh vực quản lý nhà nước của Bộ Xây dựng liên quan đến sắp xếp tổ chức bộ máy, thực hiện chính quyền địa phương 02 cấp và phân cấp cho chính quyền địa phương."
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 1",
+    "loai": "gop_sai",
+    "ghi_chu": "Số khoản '1[2].' dính chú thích nên khoản 1 và khoản 2 Điều 1 không được tách, gộp vào một đơn vị Điều 1."
+   }
+  ],
+  "ghi_chu": "Văn bản hợp nhất: quan hệ duy nhất là hợp nhất TT 06/2021/TT-BXD với các văn bản sửa đổi TT 02/2025/TT-BXD và TT 09/2025/TT-BXD (nêu ở phần đầu). Điều 5 khoản 1 'thay thế TT 03/2016/TT-BXD và TT 07/2019/TT-BXD' là hành động của TT 06/2021 được chép lại, không ghi là quan hệ của văn bản hợp nhất. Các chú thích '[n] ... được sửa đổi, bổ sung/bãi bỏ/thay thế theo ...' và '(được bãi bỏ)' trong bảng là ghi chú lịch sử, không ghi."
+ }
+]

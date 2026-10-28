@@ -1,0 +1,56 @@
+[
+ {
+  "doc_id": "655303",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "27/2023/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực kể từ ngày 29 tháng 4 năm 2025 và thay thế Quyết định số 27/2023/QĐ-UBND ngày 18 tháng 7 năm 2023 của UBND thành phố Đà Nẵng"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Chỉ Điều 2 thay thế QĐ 27/2023. Quy định kèm theo không có tác động lên văn bản khác."
+ },
+ {
+  "doc_id": "655412",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "08/2021/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực từ ngày 15 tháng 4 năm 2025 và thay thế Quyết định số 08/2021/QĐ-UBND ngày 23 tháng 3 năm 2021 của Ủy ban nhân dân tỉnh Đắk Lắk"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 21 Quy chế: câu chung về văn bản viện dẫn được sửa đổi, thay thế, không phải quan hệ."
+ },
+ {
+  "doc_id": "655469",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "28/2023/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ Quyết định số 28/2023/QĐ-UBND ngày 18 tháng 9 năm 2023 của Ủy ban nhân dân tỉnh về Đơn giá xây dựng, điều chỉnh bảng giá đất và định giá đất cụ thể trên địa bàn tỉnh Bình Dương."
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Phụ lục 1 Điều 8",
+    "loai": "gop_sai",
+    "ghi_chu": "Nội dung Điều 8 nằm trong ten_dieu; noi_dung là đầu đề PHỤ LỤC kế tiếp."
+   }
+  ],
+  "ghi_chu": "Chỉ Điều 2 bãi bỏ QĐ 28/2023."
+ }
+]

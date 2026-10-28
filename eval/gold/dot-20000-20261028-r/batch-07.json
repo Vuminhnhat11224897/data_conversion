@@ -1,0 +1,45 @@
+[
+ {
+  "doc_id": "651801",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "01/2020/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực thi hành kể từ ngày 15 tháng 4 năm 2025 và thay thế Quyết định số 01/2020/QĐ-UBND ngày 13 tháng 01 năm 2020 của Ủy ban nhân dân tỉnh Hà Giang về áp dụng định mức kinh tế - kỹ thuật thống kê, kiểm kê đất đai và lập bản đồ hiện trạng sử dụng đất trên địa bàn tỉnh Hà Giang."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Thay thế cả Quyết định 01/2020/QĐ-UBND; phụ lục định mức không có hành động."
+ },
+ {
+  "doc_id": "651986",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "16/QĐ-HĐTV",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực kể từ ngày Hệ thống công nghệ thông tin của gói thầu “Thiết kế, giải pháp, cung cấp lắp đặt và chuyển giao hệ thống công nghệ thông tin - Sở Giao dịch chứng khoán thành phố Hồ Chí Minh” chính thức vận hành và thay thế Quyết định số 16/QĐ-HĐTV ngày 10 tháng 8 năm 2023 của Hội đồng thành viên Tổng công ty Lưu ký và Bù trừ chứng khoán Việt Nam ban hành Quy chế hoạt động thanh toán giao dịch công cụ nợ của Chính phủ, trái phiếu được Chính phủ bảo lãnh do ngân hàng chính sách phát hành và trái phiếu chính quyền địa phương."
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Phụ lục 1 Điều 21 Khoản 2",
+    "loai": "gop_sai",
+    "ghi_chu": "Khoản 2 Điều 21 Quy chế bị gộp cả Phụ lục 01, 02, 03 của Quy chế (quy trình đăng ký tài khoản, danh mục chứng từ, trình tự thanh toán)."
+   },
+   {
+    "source_path": "Phụ lục 1 Điều 21 Khoản 3",
+    "loai": "tach_sai",
+    "ghi_chu": "Không phải khoản 3 Điều 21; là mục 3 của Phụ lục 03 kèm Quy chế (trình tự lùi thời hạn thanh toán)."
+   }
+  ],
+  "ghi_chu": "Thay thế cả Quyết định 16/QĐ-HĐTV. 'Loại bỏ thanh toán' trong Quy chế là nghiệp vụ, không phải tác động lên văn bản."
+ }
+]

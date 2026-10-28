@@ -1,0 +1,43 @@
+[
+ {
+  "doc_id": "675484",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "14/2021/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định có hiệu lực kể từ ngày 15 tháng 10 năm 2025 và thay thế Quyết định số 14/2021/QĐ-UBND ngày 14/6/2021 của Ủy ban nhân dân thành phố ban hành Quy chế phối hợp công tác quản lý nhà nước về tín ngưỡng, tôn giáo trên địa bàn thành phố Hải Phòng."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": ""
+ },
+ {
+  "doc_id": "675507",
+  "relations": [
+   {
+    "source_path": "Điều 12 Khoản 1",
+    "action": "thay-the",
+    "target_document": "45/QĐ-BHXH",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực thực hiện kể từ ngày ký và thay thế các Quyết định số 45/QĐ-BHXH ngày 06/3/2025, Quyết định số 2284/QĐ-BHXH ngày 06/8/2025 của Giám đốc Bảo hiểm xã hội Việt Nam."
+   },
+   {
+    "source_path": "Điều 12 Khoản 1",
+    "action": "thay-the",
+    "target_document": "2284/QĐ-BHXH",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực thực hiện kể từ ngày ký và thay thế các Quyết định số 45/QĐ-BHXH ngày 06/3/2025, Quyết định số 2284/QĐ-BHXH ngày 06/8/2025 của Giám đốc Bảo hiểm xã hội Việt Nam."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": ""
+ }
+]

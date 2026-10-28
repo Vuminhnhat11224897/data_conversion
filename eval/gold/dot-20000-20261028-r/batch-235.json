@@ -1,0 +1,333 @@
+[
+ {
+  "doc_id": "671470",
+  "relations": [
+   {
+    "source_path": "Mục IV",
+    "action": "thay-the",
+    "target_document": "194/KH-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Kế hoạch này thay thế Kế hoạch số 194/KH-UBND ngày 30/6/2025 của Chủ tịch Ủy ban nhân dân tỉnh thực hiện Nghị quyết số 68-NQ/TW ngày 04/5/2025 của Bộ Chính trị về phát triển kinh tế tư nhân (kèm theo Phụ lục Danh mục các nhiệm vụ)./."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Kế hoạch không chia Điều. Các nhiệm vụ 'triển khai chính sách bãi bỏ lệ phí môn bài…' là nhiệm vụ, không phải quan hệ. loi_dan trùng phan_dau."
+ },
+ {
+  "doc_id": "671526",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "bai-bo",
+    "target_document": "47/2021/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "BÃI BỎ TOÀN BỘ QUYẾT ĐỊNH SỐ 47/2021/QĐ-UBND NGÀY 09 THÁNG 9 NĂM 2021"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bai-bo",
+    "target_document": "47/2021/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ Quyết định số 47/2021/QĐ-UBND ngày 09 tháng 9 năm 2021 của Ủy ban nhân dân tỉnh Bắc Giang Ban hành Quy định về tổ chức, quản lý hoạt động của bãi đỗ xe trên địa bàn tỉnh Bắc Giang."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "QĐ 47/2021/QĐ-UBND của UBND tỉnh Bắc Giang (cũ)."
+ },
+ {
+  "doc_id": "671745",
+  "relations": [
+   {
+    "source_path": "Điều 2 Khoản 1",
+    "action": "bai-bo",
+    "target_document": "569/2014/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 569/2014/QĐ-UBND ngày 28 tháng 8 năm 2014 của Ủy ban nhân dân tỉnh Bắc Giang Về việc ủy quyền thu hồi đất, cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất trên địa bàn tỉnh Bắc Giang;"
+   },
+   {
+    "source_path": "Điều 2 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "508/2016/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 508/2016/QĐ-UBND ngày 31 tháng 8 năm 2016 của Ủy ban nhân dân tỉnh Bắc Giang Về việc quy định một số nội dung hỗ trợ bảo vệ và phát triển rừng, gắn với chính sách giảm nghèo nhanh, bền vững và hỗ trợ đồng bào dân tộc thiểu số trên địa bàn tỉnh Bắc Giang, giai đoạn 2016-2020;"
+   },
+   {
+    "source_path": "Điều 2 Khoản 3",
+    "action": "bai-bo",
+    "target_document": "37/2015/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 37/2015/QĐ-UBND ngày 26 tháng 11 năm 2015 của Ủy ban nhân dân tỉnh Bắc Ninh Về việc ban hành Quy chế phối hợp trong công tác phòng ngừa, xử lý vi phạm pháp luật về Đê điều trên địa bàn tỉnh Bắc Ninh."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 1 'áp dụng' văn bản cũ trên địa bàn tỉnh mới: không phải hành động trong danh sách. Điều 2 bãi bỏ 3 QĐ (câu dẫn ở tên Điều/đoạn đầu Điều 2)."
+ },
+ {
+  "doc_id": "671750",
+  "relations": [
+   {
+    "source_path": "Điều 2 Khoản 1",
+    "action": "bai-bo",
+    "target_document": "455/2012/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ Quyết định số 455/2012/QĐ-UBND ngày 25/12/2012 của Ủy ban nhân dân tỉnh Bắc Giang Ban hành Quy định dạy thêm, học thêm trên địa bàn tỉnh Bắc Giang."
+   },
+   {
+    "source_path": "Điều 2 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "48/2015/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ Quyết định số 48/2015/QĐ-UBND của Ủy ban nhân dân tỉnh Bắc Ninh về việc ban hành quy định mức thu học phí đối với cơ sở giáo dục mầm non, phổ thông công lập, giáo dục nghề nghiệp từ năm học 2015-2016 trên địa bàn tỉnh Bắc Ninh."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên văn bản 'áp dụng và bãi bỏ văn bản QPPL…' không nêu số hiệu nên không ghi Phần đầu. Điều 1 'áp dụng' không phải quan hệ."
+ },
+ {
+  "doc_id": "671790",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "bai-bo",
+    "target_document": "19/2020/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "BÃI BỎ TOÀN BỘ QUYẾT ĐỊNH SỐ 19/2020/QĐ-UBND NGÀY 05/5/2020"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bai-bo",
+    "target_document": "19/2020/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ Quyết định số 19/2020/QĐ-UBND ngày 05 tháng 5 năm 2020 của Ủy ban nhân dân tỉnh phân cấp phê duyệt hỗ trợ liên kết sản xuất và tiêu thụ sản phẩm nông nghiệp trên địa bàn tỉnh Sơn La."
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 1",
+    "loai": "tach_sai",
+    "ghi_chu": "Câu hành động 'Bãi bỏ toàn bộ Quyết định số 19/2020/QĐ-UBND…' bị nhận thành tên Điều; noi_dung chỉ còn dòng 'Lý do'."
+   }
+  ],
+  "ghi_chu": ""
+ },
+ {
+  "doc_id": "671805",
+  "relations": [
+   {
+    "source_path": "Điều 7 Khoản 2 điểm a",
+    "action": "bai-bo",
+    "target_document": "1595/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 1595/QĐ-UBND ngày 16 tháng 7 năm 2024 của Ủy ban nhân dân thành phố Cần Thơ (cũ) về việc ban hành danh mục tài sản mua sắm tập trung và phân công đơn vị mua sắm tập trung;"
+   },
+   {
+    "source_path": "Điều 7 Khoản 2 điểm b",
+    "action": "bai-bo",
+    "target_document": "346/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 346/QĐ-UBND ngày 20 tháng 02 năm 2020 của Ủy ban nhân dân tỉnh Sóc Trăng về việc ban hành danh mục tài sản mua sắm tập trung và phân công đơn vị mua sắm tập trung trên địa bàn tỉnh Sóc Trăng;"
+   },
+   {
+    "source_path": "Điều 7 Khoản 2 điểm c",
+    "action": "bai-bo",
+    "target_document": "732/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 732/QĐ-UBND ngày 28 tháng 3 năm 2023 của Ủy ban nhân dân tỉnh Sóc Trăng về việc sửa đổi, bổ sung một số nội dung Quyết định số 346/QĐ-UBND ngày 20/02/2020 của Ủy ban nhân dân tỉnh Sóc Trăng về việc ban hành danh mục tài sản mua sắm tập trung và phân công đơn vị mua sắm tập trung trên địa bàn tỉnh Sóc Trăng;"
+   },
+   {
+    "source_path": "Điều 7 Khoản 2 điểm d",
+    "action": "bai-bo",
+    "target_document": "551/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 551/QĐ-UBND ngày 14 tháng 3 năm 2025 của Ủy ban nhân dân tỉnh Sóc Trăng ban hành danh mục hàng hóa, dịch vụ mua sắm tập trung trên địa bàn tỉnh Sóc Trăng;"
+   },
+   {
+    "source_path": "Điều 7 Khoản 2 điểm đ",
+    "action": "bai-bo",
+    "target_document": "1761/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 1761/QĐ-UBND ngày 10 tháng 12 năm 2024 của Ủy ban nhân dân tỉnh Hậu Giang về việc giao đơn vị mua sắm tập trung và quy định về thời gian tổng hợp nhu cầu mua sắm tập trung của tỉnh Hậu Giang;"
+   },
+   {
+    "source_path": "Điều 7 Khoản 2 điểm e",
+    "action": "bai-bo",
+    "target_document": "1762/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 1762/QĐ-UBND ngày 10 tháng 12 năm 2024 của Ủy ban nhân dân tỉnh Hậu Giang về việc ban hành danh mục hàng hóa, dịch vụ áp dụng mua sắm tập trung cấp tỉnh trên địa bàn tỉnh Hậu Giang."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Khoản 2 Điều 7 bãi bỏ 6 QĐ (Cần Thơ cũ, Sóc Trăng, Hậu Giang)."
+ },
+ {
+  "doc_id": "672019",
+  "relations": [
+   {
+    "source_path": "Điều 4 Khoản 2",
+    "action": "thay-the",
+    "target_document": "995/QĐ-BTP",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này thay thế Quyết định số 995/QĐ-BTP ngày 18 tháng 3 năm 2025 của Bộ trưởng Bộ Tư pháp về việc phân công công tác của Bộ trưởng và các Thứ trưởng; Thông báo số 4250/TB-BTP ngày 16 tháng 7 năm 2025 của Bộ Tư pháp về phân công địa bàn chỉ đạo công tác của Bộ trưởng và các Thứ trưởng."
+   },
+   {
+    "source_path": "Điều 4 Khoản 2",
+    "action": "thay-the",
+    "target_document": "4250/TB-BTP",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này thay thế Quyết định số 995/QĐ-BTP ngày 18 tháng 3 năm 2025 của Bộ trưởng Bộ Tư pháp về việc phân công công tác của Bộ trưởng và các Thứ trưởng; Thông báo số 4250/TB-BTP ngày 16 tháng 7 năm 2025 của Bộ Tư pháp về phân công địa bàn chỉ đạo công tác của Bộ trưởng và các Thứ trưởng."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": ""
+ },
+ {
+  "doc_id": "672032",
+  "relations": [
+   {
+    "source_path": "Điều 4",
+    "action": "thay-the",
+    "target_document": "1128/QĐ-BTP",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực thi hành kể từ ngày ký; thay thế Quyết định số 1128/QĐ-BTP ngày 18 tháng 6 năm 2024 của Bộ trưởng Bộ Tư pháp về việc phân công công tác của Bộ trưởng và các Thứ trưởng, Thông báo số 366/TB- BTP ngày 21 tháng 01 năm 2025 của Bộ Tư pháp về phân công công tác tạm thời của Bộ trưởng và các Thứ trưởng, Thông báo số 1268/TB-BTP ngày 07 tháng 3 năm 2025 của Bộ Tư pháp về việc phân công tạm thời các Thứ trưởng phụ trách một số lĩnh vực công tác của Bộ."
+   },
+   {
+    "source_path": "Điều 4",
+    "action": "thay-the",
+    "target_document": "366/TB-BTP",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực thi hành kể từ ngày ký; thay thế Quyết định số 1128/QĐ-BTP ngày 18 tháng 6 năm 2024 của Bộ trưởng Bộ Tư pháp về việc phân công công tác của Bộ trưởng và các Thứ trưởng, Thông báo số 366/TB- BTP ngày 21 tháng 01 năm 2025 của Bộ Tư pháp về phân công công tác tạm thời của Bộ trưởng và các Thứ trưởng, Thông báo số 1268/TB-BTP ngày 07 tháng 3 năm 2025 của Bộ Tư pháp về việc phân công tạm thời các Thứ trưởng phụ trách một số lĩnh vực công tác của Bộ."
+   },
+   {
+    "source_path": "Điều 4",
+    "action": "thay-the",
+    "target_document": "1268/TB-BTP",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực thi hành kể từ ngày ký; thay thế Quyết định số 1128/QĐ-BTP ngày 18 tháng 6 năm 2024 của Bộ trưởng Bộ Tư pháp về việc phân công công tác của Bộ trưởng và các Thứ trưởng, Thông báo số 366/TB- BTP ngày 21 tháng 01 năm 2025 của Bộ Tư pháp về phân công công tác tạm thời của Bộ trưởng và các Thứ trưởng, Thông báo số 1268/TB-BTP ngày 07 tháng 3 năm 2025 của Bộ Tư pháp về việc phân công tạm thời các Thứ trưởng phụ trách một số lĩnh vực công tác của Bộ."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Số hiệu Thông báo 366 viết '366/TB- BTP' trong văn bản."
+ },
+ {
+  "doc_id": "672247",
+  "relations": [
+   {
+    "source_path": "Điều 4 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "14/2021/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị quyết số 14/2021/NQ-HĐND ngày 04 tháng 11 năm 2021 của Hội đồng nhân dân tỉnh Thái Nguyên quy định một số chính sách hỗ trợ dạy và học tiếng Anh trên địa bàn tỉnh Thái Nguyên hết hiệu lực kể từ ngày Nghị quyết này có hiệu lực thi hành."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Văn bản tự tuyên bố NQ 14/2021 hết hiệu lực → bai-bo. Điều 5 chuyển tiếp chỉ dẫn chiếu."
+ },
+ {
+  "doc_id": "672261",
+  "relations": [
+   {
+    "source_path": "Điều 16",
+    "action": "thay-the",
+    "target_document": "37/2021/QĐ-TTg",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực thi hành từ ngày 01 tháng 11 năm 2025 và thay thế Quyết định số 37/2021/QĐ-TTg ngày 18 tháng 12 năm 2021 của Thủ tướng Chính phủ về Mạng bưu chính phục vụ cơ quan Đảng, Nhà nước."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": ""
+ },
+ {
+  "doc_id": "672290",
+  "relations": [
+   {
+    "source_path": "Điều 3 Khoản 3",
+    "action": "bai-bo",
+    "target_document": "385/QĐ-BTC",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ Quyết định số 385/QĐ-BTC ngày 23/3/2018 của Bộ Tài chính về việc quy định mua sắm tập trung cấp Bộ của Bộ Tài chính."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": ""
+ },
+ {
+  "doc_id": "672402",
+  "relations": [
+   {
+    "source_path": "Điều 3",
+    "action": "thay-the",
+    "target_document": "1379/QĐ-BVHTTDL",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực thi hành kể từ ngày ký và thay thế Quyết định số 1379/QĐ-BVHTTDL ngày 22 tháng 5 năm 2024 của Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch về việc ban hành Quy chế tổ chức Lễ vinh danh các doanh nghiệp du lịch hàng đầu Việt Nam năm 2024."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": ""
+ },
+ {
+  "doc_id": "672454",
+  "relations": [
+   {
+    "source_path": "Điều 3 Khoản 1",
+    "action": "thay-the",
+    "target_document": "4175/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực kể từ ngày ký và thay thế Quyết định số 4175/QĐ-UBND ngày 11/10/2019 của Ủy ban nhân dân tỉnh."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": ""
+ }
+]

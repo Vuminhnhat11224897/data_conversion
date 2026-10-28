@@ -1,0 +1,191 @@
+[
+ {
+  "doc_id": "664277",
+  "relations": [
+   {
+    "source_path": "Điều 3",
+    "action": "thay-the",
+    "target_document": "286/QĐ-TTPVHCC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Phụ lục"
+    ],
+    "doi_tuong": "24 thủ tục hành chính từ số 120 đến 140 và 175 đến 177",
+    "evidence": "Thủ tục hành chính được công bố tại Quyết định này thay thế 24 thủ tục hành chính từ số 120 đến 140 và 175 đến 177 tại Phụ lục đính kèm Quyết định số 286/QĐ-TTPVHCC ngày 25/3/2025 của Giám đốc Trung tâm phục vụ hành chính công Thành phố."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công bố 25 TTHC sửa đổi, bổ sung; bảng phụ lục chỉ có căn cứ pháp lý, không nêu văn bản đích. Chỉ Điều 3 thay thế TTHC tại Phụ lục QĐ 286/QĐ-TTPVHCC."
+ },
+ {
+  "doc_id": "664476",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "quy-dinh-chi-tiet",
+    "target_document": "Luật Phòng không nhân dân",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "QUY ĐỊNH CHI TIẾT MỘT SỐ ĐIỀU VÀ BIỆN PHÁP THI HÀNH LUẬT PHÒNG KHÔNG NHÂN DÂN"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "quy-dinh-chi-tiet",
+    "target_document": "Luật Phòng không nhân dân",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 4 Điều 9",
+     "khoản 6 Điều 38",
+     "Điều 44"
+    ],
+    "doi_tuong": null,
+    "evidence": "Nghị định này quy định chi tiết khoản 4 Điều 9, khoản 6 Điều 38 và Điều 44 Luật Phòng không nhân dân"
+   },
+   {
+    "source_path": "Điều 27 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "74/2015/NĐ-CP",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị định số 74/2015/NĐ-CP ngày 09 tháng 9 năm 2015 của Chính phủ về Phòng không nhân dân hết hiệu lực kể từ ngày Nghị định này có hiệu lực thi hành."
+   },
+   {
+    "source_path": "Điều 27 Khoản 3 điểm a",
+    "action": "bai-bo",
+    "target_document": "32/2016/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "tên văn bản",
+     "Điều 1",
+     "khoản 1 Điều 12",
+     "khoản 2 Điều 12",
+     "khoản 1 Điều 13",
+     "khoản 2 Điều 19"
+    ],
+    "doi_tuong": "cụm từ “các trận địa quản lý bảo vệ vùng trời tại Việt Nam”",
+    "evidence": "Bãi bỏ cụm từ “các trận địa quản lý bảo vệ vùng trời tại Việt Nam” tại: Tên gọi của Nghị định số 32/2016/NĐ-CP; Điều 1; khoản 1, 2 Điều 12; khoản 1 Điều 13, khoản 2 Điều 19;"
+   },
+   {
+    "source_path": "Điều 27 Khoản 3 điểm b",
+    "action": "bai-bo",
+    "target_document": "32/2016/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 3",
+     "khoản 2 Điều 3",
+     "khoản 17 Điều 3",
+     "khoản 21 Điều 3",
+     "khoản 2 Điều 14"
+    ],
+    "doi_tuong": "cụm từ “hoạt động bình thường của các trận địa quản lý, bảo vệ vùng trời”",
+    "evidence": "Bãi bỏ cụm từ “hoạt động bình thường của các trận địa quản lý, bảo vệ vùng trời” tại khoản 1, 2, 17 và 21 Điều 3, khoản 2 Điều 14;"
+   },
+   {
+    "source_path": "Điều 27 Khoản 3 điểm c",
+    "action": "bai-bo",
+    "target_document": "32/2016/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 2",
+     "tên Điều 4",
+     "khoản 2 Điều 4",
+     "điểm b khoản 3 Điều 4",
+     "khoản 2 Điều 5",
+     "tên Chương II",
+     "khoản 3 Điều 9",
+     "tên Chương III",
+     "khoản 5 Điều 12",
+     "khoản 7 Điều 12",
+     "khoản 1 Điều 15",
+     "khoản 2 Điều 15",
+     "khoản 3 Điều 15",
+     "khoản 4 Điều 15",
+     "Điều 17",
+     "khoản 1 Điều 18"
+    ],
+    "doi_tuong": "cụm từ “các trận địa quản lý, bảo vệ vùng trời”",
+    "evidence": "Bãi bỏ cụm từ “các trận địa quản lý, bảo vệ vùng trời” tại: Điều 2; tên gọi và khoản 2, điểm b khoản 3 Điều 4; khoản 2 Điều 5, tên gọi Chương II; khoản 3 Điều 9; tên gọi Chương III; khoản 5 và 7 Điều 12; khoản 1, 2, 3 và 4 Điều 15; Điều 17 và khoản 1 Điều 18;"
+   },
+   {
+    "source_path": "Điều 27 Khoản 3 điểm d",
+    "action": "bai-bo",
+    "target_document": "32/2016/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 12"
+    ],
+    "doi_tuong": "cụm từ “hệ thống trận địa quản lý, bảo vệ vùng trời”",
+    "evidence": "Bãi bỏ cụm từ “hệ thống trận địa quản lý, bảo vệ vùng trời” tại khoản 3; cụm từ “quy hoạch trận địa quản lý, bảo vệ vùng trời” tại khoản 4 Điều 12;"
+   },
+   {
+    "source_path": "Điều 27 Khoản 3 điểm d",
+    "action": "bai-bo",
+    "target_document": "32/2016/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 4 Điều 12"
+    ],
+    "doi_tuong": "cụm từ “quy hoạch trận địa quản lý, bảo vệ vùng trời”",
+    "evidence": "Bãi bỏ cụm từ “hệ thống trận địa quản lý, bảo vệ vùng trời” tại khoản 3; cụm từ “quy hoạch trận địa quản lý, bảo vệ vùng trời” tại khoản 4 Điều 12;"
+   },
+   {
+    "source_path": "Điều 27 Khoản 3 điểm đ",
+    "action": "bai-bo",
+    "target_document": "32/2016/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 5 Điều 3",
+     "khoản 2 Điều 5",
+     "Phụ lục III"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ khoản 5 Điều 3; khoản 2 Điều 5 và Phụ lục III ban hành kèm theo Nghị định số 32/2016/NĐ-CP."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Khoản 3 Điều 27 là câu dẫn cho các điểm a-đ; ghi quan hệ ở từng điểm, không ghi riêng câu dẫn. Điểm d bỏ 2 cụm từ khác nhau: 2 quan hệ. Luật Phòng không nhân dân không có số hiệu trong văn bản. Khoản 5 Điều 27 là câu dẫn chiếu chung, không phải quan hệ."
+ },
+ {
+  "doc_id": "664602",
+  "relations": [
+   {
+    "source_path": "Điều 3",
+    "action": "thay-the",
+    "target_document": "1102/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực thi hành kể từ ngày ký và thay thế Quyết định số 1102/QĐ-UBND ngày 12/8/2024 của Chủ tịch UBND tỉnh"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công bố quy trình nội bộ; thay thế toàn bộ QĐ 1102/QĐ-UBND."
+ },
+ {
+  "doc_id": "664781",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "1835/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "các thủ tục hành chính tương ứng thuộc lĩnh vực luật sư",
+    "evidence": "Quyết định này có hiệu lực thi hành kể từ ngày 01/7/2025, các thủ tục hành chính tương ứng thuộc lĩnh vực luật sư đã công bố tại Quyết định số 1835/QĐ-UBND ngày 19 tháng 07 năm 2022 và Quyết định số 1546/QĐ-UBND ngày 24 tháng 5 năm 2024 của Chủ tịch UBND tỉnh hết hiệu lực kể từ ngày Quyết định này có hiệu lực thi hành."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "1546/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "các thủ tục hành chính tương ứng thuộc lĩnh vực luật sư",
+    "evidence": "Quyết định này có hiệu lực thi hành kể từ ngày 01/7/2025, các thủ tục hành chính tương ứng thuộc lĩnh vực luật sư đã công bố tại Quyết định số 1835/QĐ-UBND ngày 19 tháng 07 năm 2022 và Quyết định số 1546/QĐ-UBND ngày 24 tháng 5 năm 2024 của Chủ tịch UBND tỉnh hết hiệu lực kể từ ngày Quyết định này có hiệu lực thi hành."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 2 tuyên bố TTHC tương ứng tại 2 QĐ hết hiệu lực. Cột ghi chú bảng chỉ dẫn \"thực hiện theo\" QĐ của Bộ Tư pháp, không phải hành động. Câu \"đã được sửa đổi ... thì áp dụng văn bản hiện hành\" ở Điều 1 không phải quan hệ."
+ }
+]

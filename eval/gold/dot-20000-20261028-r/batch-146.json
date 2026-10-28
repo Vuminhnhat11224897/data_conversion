@@ -1,0 +1,1368 @@
+[
+ {
+  "doc_id": "670410",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "08/2022/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Hội đồng nhân dân tỉnh ban hành Nghị quyết sửa đổi, bổ sung một số điều của Quy định nội dung hỗ trợ, mẫu hồ sơ, trình tự, thủ tục lựa chọn dự án, kế hoạch, phương án sản xuất, lựa chọn đơn vị đặt hàng trong thực hiện các hoạt động hỗ trợ phát triển sản xuất thuộc các Chương trình mục tiêu quốc gia trên địa bàn tỉnh Thanh Hóa ban hành kèm theo Nghị quyết số 08/2022/NQ-HĐND ngày 11 tháng 12 năm 2022 của Hội đồng nhân dân tỉnh Thanh Hóa."
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "08/2022/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Hội đồng nhân dân tỉnh ban hành Nghị quyết sửa đổi, bổ sung một số điều của Quy định nội dung hỗ trợ, mẫu hồ sơ, trình tự, thủ tục lựa chọn dự án, kế hoạch, phương án sản xuất, lựa chọn đơn vị đặt hàng trong thực hiện các hoạt động hỗ trợ phát triển sản xuất thuộc các Chương trình mục tiêu quốc gia trên địa bàn tỉnh Thanh Hóa ban hành kèm theo Nghị quyết số 08/2022/NQ-HĐND ngày 11 tháng 12 năm 2022 của Hội đồng nhân dân tỉnh Thanh Hóa."
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "08/2022/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi Điều 1 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "08/2022/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 2 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "08/2022/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 2 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "sua-doi",
+    "target_document": "08/2022/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi Điều 3 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 4",
+    "action": "sua-doi",
+    "target_document": "08/2022/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 4"
+    ],
+    "doi_tuong": null,
+    "evidence": "4. Sửa đổi Điều 4 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 5",
+    "action": "sua-doi",
+    "target_document": "08/2022/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi Điều 5 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 6",
+    "action": "sua-doi",
+    "target_document": "08/2022/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 6"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 6 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 6",
+    "action": "bo-sung",
+    "target_document": "08/2022/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 6"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 6 như sau:"
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "thay-cum-tu",
+    "target_document": "06/2022/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm c khoản 2 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Chủ tịch Ủy ban nhân dân cấp huyện” bằng cụm từ “Chủ tịch Ủy ban nhân dân cấp xã” tại điểm c khoản 2 Điều 1 Nghị quyết số 06/2022/NQ-HĐND ngày 11 tháng 12 năm 2022."
+   },
+   {
+    "source_path": "Điều 4 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "10/2023/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị quyết này bãi bỏ Nghị quyết số 10/2023/NQ-HĐND ngày 29 tháng 9 năm 2023 của Hội đồng nhân dân tỉnh"
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 1 Khoản 3 điểm a",
+    "loai": "nhan_sai_dieu",
+    "ghi_chu": "Điểm a, b, c thuộc khoản 3 Điều 3 mới trong ngoặc kép (nội dung sửa đổi), bị nhận thành điểm của Điều 1 Khoản 3 văn bản này."
+   },
+   {
+    "source_path": "Điều 1 Khoản 4",
+    "loai": "gop_sai",
+    "ghi_chu": "Khoản 4 trong ngoặc kép (\"4. Phê duyệt dự án, kế hoạch liên kết\" của Điều 3 mới) bị nhận thành Điều 1 Khoản 4; khoản 4 thật \"Sửa đổi Điều 4 như sau\" bị gộp vào cuối đơn vị này."
+   }
+  ],
+  "ghi_chu": "Điều 1 sửa 6 Điều của Quy định kèm theo NQ 08/2022 (theo toàn văn: khoản 1-6 sửa Điều 1-6). Điều 2 thay cụm từ NQ 06/2022. Điều 4 Khoản 2 bãi bỏ NQ 10/2023."
+ },
+ {
+  "doc_id": "670424",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "07/2009/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "114/2013/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "16/2015/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "23/2015/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "63/2016/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "65/2016/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "66/2016/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "70/2016/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "78/2016/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "84/2016/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "85/2016/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "114/2017/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "124/2017/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "126/2017/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "129/2017/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "130/2017/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "137/2017/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "145/2017/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "164/2018/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "165/2018/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "170/2018/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "174/2018/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "196/2018/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "199/2018/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "201/2018/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "215/2018/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "235/2019/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "256/2019/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "257/2019/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "283/2019/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "308/2020/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "311/2020/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "312/2020/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "328/2020/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "330/2020/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "336/2020/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "375/2020/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "380/2020/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "48/2021/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "50/2021/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "62/2021/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "67/2021/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "69/2021/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "72/2021/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "85/2021/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "09/2022/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "12/2022/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "17/2022/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "18/2022/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "20/2022/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "27/2022/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "28/2022/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "38/2023/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "42/2023/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "43/2023/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "46/2023/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "05/2024/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "09/2024/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "13/2024/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "17/2024/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "19/2024/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "22/2024/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "153/2008/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "181/2008/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "215/2009/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "262/2010/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "03/2011/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "14/2011/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "15/2011/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "26/2012/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "34/2012/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "38/2012/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "40/2012/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "41/2012/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "50/2013/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "52/2013/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "60/2013/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "61/2013/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "64/2013/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "71/2014/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "74/2014/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "75/2014/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "76/2014/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "79/2014/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "80/2014/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "97/2014/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "98/2014/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "101/2014/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "119/2015/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "120/2015/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "126/2015/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "127/2015/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "130/2015/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "17/2016/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "18/2016/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "19/2016/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "20/2016/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "22/2016/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "25/2017/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "06/2018/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "08/2018/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "13/2018/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "14/2018/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "15/2018/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "20/2018/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "01/2019/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "04/2019/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "15/2019/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "02/2020/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "06/2020/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "07/2020/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "19/2020/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "22/2020/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "25/2020/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "05/2021/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "06/2021/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "02/2022/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "05/2022/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "08/2022/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "16/2022/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "26/2022/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "27/2022/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "04/2023/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "08/2023/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "10/2023/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "13/2023/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "14/2023/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "15/2023/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "22/2023/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "03/2024/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "05/2024/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "21/2024/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "24/2024/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "25/2024/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "26/2024/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ 135 nghị quyết quy phạm pháp luật của Hội đồng nhân dân tỉnh được nhập do sắp xếp đơn vị hành chính."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 2 bãi bỏ toàn bộ 135 nghị quyết liệt kê ở Phụ lục II (62 của Đồng Tháp cũ, 73 của Tiền Giang): mỗi nghị quyết một quan hệ, có số hiệu trùng giữa hai tỉnh (05/2024, 27/2022, 08/2022...). Điều 1 \"tiếp tục áp dụng\" 86 nghị quyết ở Phụ lục I không phải hành động. Điều 3 Khoản 1 \"đề nghị bãi bỏ...\" là giao nhiệm vụ."
+ }
+]

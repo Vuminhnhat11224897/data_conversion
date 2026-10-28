@@ -1,0 +1,338 @@
+[
+ {
+  "doc_id": "667748",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "33/2017/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 33/2017/QĐ-UBND ngày 09 tháng 10 năm 2017 của Ủy ban nhân dân Thành phố về phân cấp thu phí bảo vệ môi trường đối với nước thải công nghiệp trên địa bàn thành phố Hà Nội hết hiệu lực kể từ thời điểm Quyết định này có hiệu lực thi hành."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Các chú thích 'được sửa đổi, bổ sung tại khoản 54 Điều 1 Nghị định 05/2025/NĐ-CP' là trích dẫn, không ghi."
+ },
+ {
+  "doc_id": "667785",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "43/2023/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định có hiệu lực thi hành từ ngày 04 tháng 8 năm 2025 và thay thế Quyết định số 43/2023/QĐ-UBND ngày 31 tháng 12 năm 2023 của Ủy ban nhân dân tỉnh Sơn La"
+   },
+   {
+    "source_path": "Phụ lục 1 Điều 1",
+    "action": "quy-dinh-chi-tiet",
+    "target_document": "175/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 5 Điều 121"
+    ],
+    "doi_tuong": null,
+    "evidence": "Quy định này quy định chi tiết khoản 5 Điều 121 Nghị định số 175/2024/NĐ-CP ngày 30 tháng 12 năm 2024 của Chính phủ"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quy định kèm theo nêu rõ quy định chi tiết khoản 5 Điều 121 NĐ 175/2024/NĐ-CP."
+ },
+ {
+  "doc_id": "667815",
+  "relations": [
+   {
+    "source_path": "Điều 3 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "05/2025/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị quyết số 05/2025/NQ-HĐND ngày 03 tháng 4 năm 2025 của Hội đồng nhân dân tỉnh Bắc Kạn quy định mức hỗ trợ sản xuất nông nghiệp để khôi phục sản xuất vùng bị thiệt hại do thiên tai, dịch hại thực vật trên địa bàn tỉnh Bắc Kạn hết hiệu lực kể từ ngày Nghị quyết này có hiệu lực thi hành."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Đích là NQ của HĐND tỉnh Bắc Kạn (trước sáp nhập)."
+ },
+ {
+  "doc_id": "668002",
+  "relations": [
+   {
+    "source_path": "Điều 4",
+    "action": "thay-the",
+    "target_document": "42/2023/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực thi hành kể từ ngày 11 tháng 8 năm 2025 và thay thế Quyết định số 42/2023/QĐ-UBND ngày 08 tháng 8 năm 2023 của Ủy ban Nhân dân tỉnh Thừa Thiên Huế"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": ""
+ },
+ {
+  "doc_id": "668054",
+  "relations": [
+   {
+    "source_path": "Điều 8 Khoản 2",
+    "action": "thay-the",
+    "target_document": "02/2023/TT-TTCP",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thông tư này thay thế Thông tư số 02/2023/TT-TTCP ngày 22 tháng 12 năm 2023 của Thanh tra Chính phủ"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên 'hướng dẫn chức năng, nhiệm vụ...' chỉ mô tả nội dung, không nêu văn bản đích. Điều 5 khoản 5 'kiến nghị ... bãi bỏ' là thẩm quyền, không ghi."
+ },
+ {
+  "doc_id": "668061",
+  "relations": [
+   {
+    "source_path": "Điều 2 Khoản 2 điểm a",
+    "action": "bai-bo",
+    "target_document": "30/2016/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị quyết số 30/2016/NQ-HĐND ngày 14 tháng 12 năm 2016 của Hội đồng nhân dân tỉnh Nam Định (trước sắp xếp)"
+   },
+   {
+    "source_path": "Điều 2 Khoản 2 điểm b",
+    "action": "bai-bo",
+    "target_document": "42/2021/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị quyết số 42/2021/NQ-HĐND ngày 25 tháng 10 năm 2021 của Hội đồng nhân dân tỉnh Nam Định (trước sắp xếp)"
+   },
+   {
+    "source_path": "Điều 2 Khoản 2 điểm c",
+    "action": "bai-bo",
+    "target_document": "14/2023/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị quyết số 14/2023/NQ-HĐND ngày 24 tháng 4 năm 2023 của Hội đồng nhân dân tỉnh Nam Định (trước sắp xếp)"
+   },
+   {
+    "source_path": "Điều 2 Khoản 2 điểm d",
+    "action": "bai-bo",
+    "target_document": "14/2021/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị quyết số 14/2021/NQ-HĐND ngày 14 tháng 10 năm 2021 của Hội đồng nhân dân tỉnh Hà Nam (trước sắp xếp)"
+   },
+   {
+    "source_path": "Điều 2 Khoản 2 điểm đ",
+    "action": "bai-bo",
+    "target_document": "108/2021/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị quyết số 108/2021/NQ-HĐND ngày 10 tháng 12 năm 2021 của Hội đồng nhân dân tỉnh Ninh Bình (trước sắp xếp)"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Câu dẫn 'Các Nghị quyết sau hết hiệu lực kể từ ngày 30 tháng 7 năm 2025:' do chính văn bản tuyên bố: 5 quan hệ bai-bo. Điểm b, c chỉ nhắc 30/2016/NQ-HĐND trong tên văn bản bị bãi bỏ, không ghi thêm."
+ },
+ {
+  "doc_id": "668066",
+  "relations": [
+   {
+    "source_path": "Điều 6 Khoản 2 điểm a",
+    "action": "bai-bo",
+    "target_document": "28/2024/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị quyết số 28/2024/NQ-HĐND ngày 04 tháng 12 năm 2024 của Hội đồng nhân dân tỉnh Ninh Bình"
+   },
+   {
+    "source_path": "Điều 6 Khoản 2 điểm b",
+    "action": "bai-bo",
+    "target_document": "18/2025/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị quyết số 18/2025/NQ-HĐND ngày 01 tháng 3 năm 2025 của Hội đồng nhân dân tỉnh Hà Nam"
+   },
+   {
+    "source_path": "Điều 6 Khoản 2 điểm c",
+    "action": "bai-bo",
+    "target_document": "30/2025/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị quyết số 30/2025/NQ-HĐND ngày 10 tháng 6 năm 2025 của Hội đồng nhân dân tỉnh Nam Định"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Câu dẫn 'Các Nghị quyết sau hết hiệu lực kể từ ngày 30 tháng 7 năm 2025:'."
+ },
+ {
+  "doc_id": "668185",
+  "relations": [
+   {
+    "source_path": "Điều 2 Khoản 1",
+    "action": "bai-bo",
+    "target_document": "1138/QĐ-TTg",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "bãi bỏ Quyết định số 1138/QĐ-TTg ngày 02 tháng 10 năm 2023 của Thủ tướng Chính phủ ban hành danh sách đơn vị sự nghiệp công lập trực thuộc Ngân hàng Nhà nước Việt Nam"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": ""
+ },
+ {
+  "doc_id": "668204",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "bai-bo",
+    "target_document": "01/2020/TT-BKHĐT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "BÃI BỎ THÔNG TƯ SỐ 01/2020/TT-BKHĐT NGÀY 19 THÁNG 02 NĂM 2020 CỦA BỘ TRƯỞNG BỘ KẾ HOẠCH VÀ ĐẦU TƯ VỀ HƯỚNG DẪN PHÂN LOẠI VÀ ĐÁNH GIÁ HỢP TÁC XÃ"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bai-bo",
+    "target_document": "01/2020/TT-BKHĐT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ Thông tư số 01/2020/TT-BKHĐT ngày 19 tháng 02 năm 2020 của Bộ trưởng Bộ Kế hoạch và Đầu tư về hướng dẫn phân loại và đánh giá hợp tác xã."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên và lời dẫn cùng bãi bỏ TT 01/2020/TT-BKHĐT: ghi một quan hệ Phần đầu. Điều 2 khoản 2 cho tiếp tục áp dụng TT 01/2020 đến 31/12/2025 cho QĐ 167/QĐ-TTg, 1099/QĐ-BKHĐT: chuyển tiếp, không ghi."
+ },
+ {
+  "doc_id": "668338",
+  "relations": [
+   {
+    "source_path": "Điều 2 Khoản 2 điểm a",
+    "action": "bai-bo",
+    "target_document": "09/2018/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị quyết số 09/2018/NQ-HĐND của Hội đồng nhân dân thành phố Hải Phòng về việc quy định chế độ công tác phí, chế độ chi hội nghị sử dụng ngân sách địa phương."
+   },
+   {
+    "source_path": "Điều 2 Khoản 2 điểm b",
+    "action": "bai-bo",
+    "target_document": "51/2017/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị quyết số 51/2017/NQ-HĐND của Hội đồng nhân dân tỉnh Hải Dương"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Câu dẫn 'Bãi bỏ các văn bản quy phạm pháp luật sau đây:'. Thông tư 40/2017/TT-BTC chỉ được dẫn chiếu áp dụng."
+ },
+ {
+  "doc_id": "668430",
+  "relations": [
+   {
+    "source_path": "Điều 3",
+    "action": "bai-bo",
+    "target_document": "3109/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "danh sách mã định danh điện tử của Ủy ban nhân dân cấp huyện, các cơ quan, đơn vị thuộc, trực thuộc Ủy ban nhân dân cấp huyện",
+    "evidence": "Bãi bỏ danh sách mã định danh điện tử của Ủy ban nhân dân cấp huyện, các cơ quan, đơn vị thuộc, trực thuộc Ủy ban nhân dân cấp huyện ban hành tại các Quyết định của Ủy ban nhân dân tỉnh: số 3109/QĐ-UBND ngày 08/9/2021"
+   },
+   {
+    "source_path": "Điều 3",
+    "action": "bai-bo",
+    "target_document": "311/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "danh sách mã định danh điện tử của Ủy ban nhân dân cấp huyện, các cơ quan, đơn vị thuộc, trực thuộc Ủy ban nhân dân cấp huyện",
+    "evidence": "số 311/QĐ-UBND ngày 29/01/2024 về việc sửa đổi, bổ sung danh mục mã định danh điện tử"
+   },
+   {
+    "source_path": "Điều 3",
+    "action": "bai-bo",
+    "target_document": "322/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "danh sách mã định danh điện tử của Ủy ban nhân dân cấp huyện, các cơ quan, đơn vị thuộc, trực thuộc Ủy ban nhân dân cấp huyện",
+    "evidence": "số 322/QĐ-UBND ngày 18/02/2025 về việc sửa đổi, bổ sung danh mục mã định danh điện tử"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 1 'Sửa đổi, bổ sung mã định danh điện tử ... chi tiết tại Phụ lục' không nêu văn bản đích; phụ lục chỉ ghi 'Cấp mới'/'Đổi tên', không nêu văn bản: không ghi. Tên văn bản không nêu văn bản đích. Điều 3 bãi bỏ một phần (danh sách cấp huyện) của 3 quyết định."
+ },
+ {
+  "doc_id": "668500",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "bai-bo",
+    "target_document": "26/2018/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "BÃI BỎ QUYẾT ĐỊNH SỐ 26/2018/QĐ-UBND NGÀY 16/7/2018 CỦA ỦY BAN NHÂN DÂN TỈNH LAI CHÂU"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bai-bo",
+    "target_document": "26/2018/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ Quyết định số 26/2018/QĐ-UBND ngày 16 tháng 7 năm 2018 của Ủy ban nhân dân tỉnh Lai Châu"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên và lời dẫn cùng bãi bỏ: một quan hệ Phần đầu."
+ },
+ {
+  "doc_id": "668506",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "470/QĐ-TTg",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này thay thế các Quyết định: số 470/QĐ-TTg ngày 26 tháng 4 năm 2019 của Thủ tướng Chính phủ; số 472A/QĐ-BCT ngày 05 tháng 3 năm 2019 của Bộ trưởng Bộ Công Thương; số 78/QĐ-BCT ngày 24 tháng 01 năm 2024 của Bộ trưởng Bộ Công Thương."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "472A/QĐ-BCT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này thay thế các Quyết định: số 470/QĐ-TTg ngày 26 tháng 4 năm 2019 của Thủ tướng Chính phủ; số 472A/QĐ-BCT ngày 05 tháng 3 năm 2019 của Bộ trưởng Bộ Công Thương; số 78/QĐ-BCT ngày 24 tháng 01 năm 2024 của Bộ trưởng Bộ Công Thương."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "78/QĐ-BCT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này thay thế các Quyết định: số 470/QĐ-TTg ngày 26 tháng 4 năm 2019 của Thủ tướng Chính phủ; số 472A/QĐ-BCT ngày 05 tháng 3 năm 2019 của Bộ trưởng Bộ Công Thương; số 78/QĐ-BCT ngày 24 tháng 01 năm 2024 của Bộ trưởng Bộ Công Thương."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 2 thay thế 3 quyết định (kể cả QĐ 470/QĐ-TTg của Thủ tướng, văn bản tự nêu)."
+ }
+]

@@ -1,0 +1,741 @@
+[
+ {
+  "doc_id": "661180",
+  "relations": [
+   {
+    "source_path": "Phụ lục 1",
+    "action": "bai-bo",
+    "target_document": "1834/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Quy trình nội bộ, liên thông giải quyết thủ tục hành chính",
+    "evidence": "Quy trình nội bộ, liên thông giải quyết thủ tục hành chính được Chủ tịch Ủy ban nhân dân tỉnh phê duyệt kèm theo Quyết định số 1834/QĐ-UBND ngày 19/9/2024; tại số thứ tự 3, 7 mục I và số thứ tự 79, 80, 81, 82, 83, 84 mục XIV phần A của Quyết định số 2256/QĐ-UBND ngày 15/12/2023; số thứ tự 1, 2, 3, 4, mục A của Quyết định số 1281/QĐ-UBND ngày 27/6/2024 hết hiệu lực khi Quyết định này có hiệu lực thi hành."
+   },
+   {
+    "source_path": "Phụ lục 1",
+    "action": "bai-bo",
+    "target_document": "2256/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Quy trình nội bộ, liên thông tại số thứ tự 3, 7 mục I và số thứ tự 79, 80, 81, 82, 83, 84 mục XIV phần A",
+    "evidence": "Quy trình nội bộ, liên thông giải quyết thủ tục hành chính được Chủ tịch Ủy ban nhân dân tỉnh phê duyệt kèm theo Quyết định số 1834/QĐ-UBND ngày 19/9/2024; tại số thứ tự 3, 7 mục I và số thứ tự 79, 80, 81, 82, 83, 84 mục XIV phần A của Quyết định số 2256/QĐ-UBND ngày 15/12/2023; số thứ tự 1, 2, 3, 4, mục A của Quyết định số 1281/QĐ-UBND ngày 27/6/2024 hết hiệu lực khi Quyết định này có hiệu lực thi hành."
+   },
+   {
+    "source_path": "Phụ lục 1",
+    "action": "bai-bo",
+    "target_document": "1281/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Quy trình nội bộ, liên thông tại số thứ tự 1, 2, 3, 4 mục A",
+    "evidence": "Quy trình nội bộ, liên thông giải quyết thủ tục hành chính được Chủ tịch Ủy ban nhân dân tỉnh phê duyệt kèm theo Quyết định số 1834/QĐ-UBND ngày 19/9/2024; tại số thứ tự 3, 7 mục I và số thứ tự 79, 80, 81, 82, 83, 84 mục XIV phần A của Quyết định số 2256/QĐ-UBND ngày 15/12/2023; số thứ tự 1, 2, 3, 4, mục A của Quyết định số 1281/QĐ-UBND ngày 27/6/2024 hết hiệu lực khi Quyết định này có hiệu lực thi hành."
+   },
+   {
+    "source_path": "Phụ lục 2",
+    "action": "bai-bo",
+    "target_document": "1834/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Danh mục thủ tục hành chính",
+    "evidence": "Danh mục thủ tục hành chính được Chủ tịch Ủy ban nhân dân tỉnh công bố kèm theo Quyết định số 1834/QĐ- UBND ngày 19/9/2024; số thứ tự 2, 8 mục I và số thứ tự 102, 103, 104, 105, 106, 107, 108, 109, 110 mục XIV phần A của Quyết định số 2256/QĐ-UBND ngày 15/12/2023; số thứ tự 1, 2, 3, 4, 5 mục A của Quyết định số 1281/QĐ-UBND ngày 27/6/2024 hết hiệu lực khi Quyết định này có hiệu lực thi hành."
+   },
+   {
+    "source_path": "Phụ lục 2",
+    "action": "bai-bo",
+    "target_document": "2256/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Danh mục thủ tục hành chính tại số thứ tự 2, 8 mục I và số thứ tự 102 đến 110 mục XIV phần A",
+    "evidence": "Danh mục thủ tục hành chính được Chủ tịch Ủy ban nhân dân tỉnh công bố kèm theo Quyết định số 1834/QĐ- UBND ngày 19/9/2024; số thứ tự 2, 8 mục I và số thứ tự 102, 103, 104, 105, 106, 107, 108, 109, 110 mục XIV phần A của Quyết định số 2256/QĐ-UBND ngày 15/12/2023; số thứ tự 1, 2, 3, 4, 5 mục A của Quyết định số 1281/QĐ-UBND ngày 27/6/2024 hết hiệu lực khi Quyết định này có hiệu lực thi hành."
+   },
+   {
+    "source_path": "Phụ lục 2",
+    "action": "bai-bo",
+    "target_document": "1281/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Danh mục thủ tục hành chính tại số thứ tự 1, 2, 3, 4, 5 mục A",
+    "evidence": "Danh mục thủ tục hành chính được Chủ tịch Ủy ban nhân dân tỉnh công bố kèm theo Quyết định số 1834/QĐ- UBND ngày 19/9/2024; số thứ tự 2, 8 mục I và số thứ tự 102, 103, 104, 105, 106, 107, 108, 109, 110 mục XIV phần A của Quyết định số 2256/QĐ-UBND ngày 15/12/2023; số thứ tự 1, 2, 3, 4, 5 mục A của Quyết định số 1281/QĐ-UBND ngày 27/6/2024 hết hiệu lực khi Quyết định này có hiệu lực thi hành."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quyết định công bố chuẩn hóa TTHC; Điều 1 công bố, không là hành động. Hai đoạn 'Ghi chú' cuối Phụ lục 1 (Quy trình) và Phụ lục 2 (Danh mục) tự tuyên bố các phần của QĐ 1834, 2256, 1281 hết hiệu lực khi Quyết định này có hiệu lực: ghi bai-bo; các phần nêu bằng số thứ tự nên vi_tri rỗng, ghi doi_tuong."
+ },
+ {
+  "doc_id": "661397",
+  "relations": [
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "80/2021/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 1 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "80/2021/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 1 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "80/2021/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 6",
+     "điểm b khoản 2 Điều 6",
+     "khoản 3 Điều 6"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1, điểm b khoản 2, khoản 3 Điều 6 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "80/2021/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 6",
+     "điểm b khoản 2 Điều 6",
+     "khoản 3 Điều 6"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1, điểm b khoản 2, khoản 3 Điều 6 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "sua-doi",
+    "target_document": "80/2021/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 7",
+     "điểm b.2 khoản 3 Điều 7",
+     "khoản 4 Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1, điểm b.2 khoản 3, khoản 4 Điều 7 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "bo-sung",
+    "target_document": "80/2021/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 7",
+     "điểm b.2 khoản 3 Điều 7",
+     "khoản 4 Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1, điểm b.2 khoản 3, khoản 4 Điều 7 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 4",
+    "action": "sua-doi",
+    "target_document": "80/2021/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 9"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 3 Điều 9 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 4",
+    "action": "bo-sung",
+    "target_document": "80/2021/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 9"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 3 Điều 9 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 5",
+    "action": "sua-doi",
+    "target_document": "80/2021/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm đ khoản 2 Điều 11",
+     "khoản 4 Điều 11"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm đ khoản 2 Điều 11, khoản 4 Điều 11 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 5",
+    "action": "bo-sung",
+    "target_document": "80/2021/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm đ khoản 2 Điều 11",
+     "khoản 4 Điều 11"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm đ khoản 2 Điều 11, khoản 4 Điều 11 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 6",
+    "action": "sua-doi",
+    "target_document": "80/2021/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm d khoản 5 Điều 13"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm d khoản 5 Điều 13 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 6",
+    "action": "bo-sung",
+    "target_document": "80/2021/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm d khoản 5 Điều 13"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm d khoản 5 Điều 13 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 7 điểm a",
+    "action": "thay-cum-tu",
+    "target_document": "80/2021/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [],
+    "doi_tuong": "cụm từ “Phường/xã” tại các mẫu biểu",
+    "evidence": "Thay thế cụm từ “Phường/xã” tại chỉ tiêu [11a] mẫu 01/GTGT; tại chỉ tiêu [09a] và mục II mẫu 05/GTGT; tại chỉ tiêu [11a] mẫu 04/GTGT; tại chỉ tiêu [11a] mẫu 01/TTĐB; tại chỉ tiêu [11a] mẫu 02/TTĐB; tại chỉ tiêu [09a] mẫu 01/TAIN; tại chỉ tiêu [09a] mẫu 02/TAIN; tại chỉ tiêu [11b] mẫu 01/TBVMT; tại chỉ tiêu [03a] mẫu 01/MGTH; tại chỉ tiêu [03a] mẫu 06/MGTH; tại các chỉ tiêu [08], [09b] mẫu 02/TNDN; tại chỉ tiêu [09a] mẫu 03-3B/TNDN; tại chỉ tiêu [09a] mẫu 03-3C/TNDN; tại chỉ tiêu [09a] mẫu 03-3D/TNDN; tại các chỉ tiêu [08], [09b] mẫu 06/TNDN; tại chỉ tiêu [41.4] mẫu 03/BĐS-TNCN; tại tiêu đề cột 4 mẫu 03/TKTH-SDDPNN; tại chỉ tiêu [09a] tại mẫu 01/PBVMT; tại chỉ tiêu [09a] mẫu 02/PBVMT; tại điểm 1.2.2 mục 1 mẫu 01/LPTB bằng cụm từ “Xã/ phường/đặc khu”."
+   },
+   {
+    "source_path": "Điều 1 Khoản 7 điểm b",
+    "action": "thay-cum-tu",
+    "target_document": "80/2021/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [],
+    "doi_tuong": "từ “huyện” tại các mẫu biểu",
+    "evidence": "Thay thế từ “huyện” tại tiêu đề cột 4 điểm 2 mục I phần A mẫu 01/KHBS; tại chỉ tiêu [07] mẫu 01-2/GTGT; tại chỉ tiêu [10] mẫu 01-3/GTGT; tại chỉ tiêu [11] mẫu 01-6/GTGT; tại chỉ tiêu [11] mẫu 01-3/TTĐB; tại chỉ tiêu [07] mẫu 01-1/TAIN; tại tiêu đề cột 4 mẫu 01-1/TBVMT; tại tiêu đề cột 4 mẫu 01-2/TBVMT; tại tiêu đề cột 4 mẫu 03-8/TNDN; tại tiêu đề cột 4 mẫu 03-8A/TNDN; tại chỉ tiêu [07] mẫu 03-8B/TNDN; tại chỉ tiêu [09] mẫu 03-8C/TNDN; tại tiêu đề cột 4 mẫu 03-9/TNDN; tại các chỉ tiêu [08a], [21a] mẫu 05-1/PBT-KK-TNCN; tại tiêu đề cột 09 mẫu 01-1/QT-LNCL; tại phần tên cơ quan ban hành tại mẫu 07-1/HĐTV; tại phần ghi chú tại các mẫu: 01/GTGT, 01-2/GTGT, 01-3/GTGT, 01-6/GTGT, 05/GTGT, 04/GTGT, 01/TTĐB, 01-3/TTĐB, 02/TTĐB, 01/TAIN, 02/TAIN, 01-1/TAIN, 01/TBVMT, 01-1/TBVMT, 01-2/TBVMT, 03-3B/TNDN, 03-3C/TNDN, 03-3D/TNDN, 03-8/TNDN, 03-8A/TNDN, 03-8B/TNDN, 03-8C/TNDN, 03-9/TNDN, 05-1/PBT-KK-TNCN, 01/PBVMT, 02/PBVMT, 01-1/QT-LNCL bằng cụm từ “Xã/ phường/đặc khu”."
+   },
+   {
+    "source_path": "Điều 1 Khoản 7 điểm c",
+    "action": "thay-cum-tu",
+    "target_document": "80/2021/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [],
+    "doi_tuong": "cụm từ “Xã/phường/thị trấn” tại các mẫu biểu",
+    "evidence": "Thay thế cụm từ “Xã/phường/thị trấn” tại phần xác nhận mẫu 02/SDDNN; tại phần ghi xác nhận mẫu 01/MGTH; tại phần ghi xác nhận mẫu 06/MGTH; tại tên Quyết định, Điều 1 và Điều 4 mẫu 07-1/HĐTV; tại phần tên cơ quan ban hành tại 07-2/HĐTV; tại phần tên địa bàn tại các mẫu: 07-3/HĐTV, 07-4/HĐTV, 07-5/HĐTV, 07-6/HĐTV, 07-7/HĐTV bằng cụm từ “Xã/phường/đặc khu”."
+   },
+   {
+    "source_path": "Điều 1 Khoản 7 điểm d",
+    "action": "thay-cum-tu",
+    "target_document": "80/2021/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [],
+    "doi_tuong": "cụm từ “quận/huyện/thị xã” tại Điều 3 mẫu 07-1/HĐTV",
+    "evidence": "Thay thế cụm từ “quận/huyện/thị xã” tại Điều 3 mẫu 07-1/HĐTV bằng cụm từ “Xã/ phường/đặc khu”."
+   },
+   {
+    "source_path": "Điều 1 Khoản 7 điểm đ",
+    "action": "thay-cum-tu",
+    "target_document": "80/2021/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [],
+    "doi_tuong": "cụm từ “Xã/phường” tại các mẫu biểu",
+    "evidence": "Thay thế cụm từ “Xã/phường” tại chỉ tiêu [08] mẫu 02/GTGT; tại chỉ tiêu [09a] mẫu 03-3A/TNDN; tại mẫu 07/XN-NPT-TNCN; tại phần xác nhận mẫu 01/TK-SDDPNN; tại Điều 1 mẫu 05/MGTH; tại Điều 1 mẫu 07-1/HĐTV bằng cụm từ “Xã/ phường/đặc khu”."
+   },
+   {
+    "source_path": "Điều 1 Khoản 7 điểm e",
+    "action": "bai-bo",
+    "target_document": "80/2021/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [],
+    "doi_tuong": "cụm từ “Quận/Huyện” tại các mẫu biểu",
+    "evidence": "Bãi bỏ cụm từ “Quận/Huyện” tại chỉ tiêu [11b] mẫu 01/GTGT; tại chỉ tiêu [09b] và mục II mẫu 05/GTGT; tại chỉ tiêu [09] mẫu 02/GTGT; tại chỉ tiêu [11b] mẫu 04/GTGT; tại chỉ tiêu [11b] mẫu 01/TTĐB; tại chỉ tiêu [11b] mẫu 02/TTĐB; tại chỉ tiêu [09b] mẫu 01/TAIN; tại chỉ tiêu [09b] mẫu 02/TAIN; tại chỉ tiêu [11c] mẫu 01/TBVMT; tại các chỉ tiêu [08], [09c] mẫu 02/TNDN; tại chỉ tiêu [09b] mẫu số 03-3A/TNDN; tại chỉ tiêu [09b] mẫu 03-3B/TNDN; tại chỉ tiêu [09b] mẫu 03-3C/TNDN; tại chỉ tiêu [09b] mẫu 03-3D/TNDN; tại các chỉ tiêu [08], [09c] mẫu 06/TNDN; tại chỉ tiêu [41.5] mẫu 03/BĐS-TNCN; tại các chỉ tiêu [10.5], [17.5], [33.5] mẫu 01/TK-SDDPNN; tại các chỉ tiêu [06.5], [11.5] mẫu 02/TK-SDDPNN; tại chỉ tiêu [06.3], tiêu đề cột 5 mẫu 03/TKTH-SDDPNN; tại các chỉ tiêu [10.5], [17.5], [33.5] mẫu 04/TK-SDDPNN; tại các chỉ tiêu [06.5], [10.3] mẫu 01/SDDNN; tại các chỉ tiêu [10.5], [16.5] mẫu 02/SDDNN; tại các chỉ tiêu [10.5], [16.3] mẫu 03/SDDNN; tại các chỉ tiêu [10.5], [16.5] mẫu 01/TMĐN; tại chỉ tiêu [09b] mẫu 01/PBVMT; tại chỉ tiêu [09b] mẫu 02/PBVMT; tại điểm 1.2.3 mục 1 mẫu 01/LPTB; tại chỉ tiêu [03b] mẫu 01/MGTH; tại chỉ tiêu [03b] mẫu 06/MGTH."
+   },
+   {
+    "source_path": "Điều 1 Khoản 7 điểm g",
+    "action": "thay-cum-tu",
+    "target_document": "80/2021/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [],
+    "doi_tuong": "cụm từ “Quận/Huyện” tại các mẫu biểu",
+    "evidence": "Thay thế cụm từ “Quận/Huyện” tại chỉ tiêu [08] mẫu 01/LPTB; tại các chỉ tiêu [10], [18] mẫu 02/LPTB; tại các chỉ tiêu [14], [24] mẫu 01/TK-VSP; tại chỉ tiêu [07] mẫu 01/KTTSBĐ; tại chỉ tiêu [07] mẫu 01-1/KTTSBĐ; tại các chỉ tiêu [11], [21] mẫu 01-1/TNDN-VSP; tại các chỉ tiêu 10], [20] mẫu 01-1/PTHU-VSP; tại các chỉ tiêu [15], [23] mẫu 01/LNCN-VSP; tại các chỉ tiêu [10], [19] mẫu 02/TAIN-VSP; tại các chỉ tiêu [07], [16] mẫu 03/PTHU-DK; tại các chỉ tiêu [12], [20] mẫu 02/LNCN-PSC; tại các chỉ tiêu [10], [19] mẫu 02/TNDN-DK; tại chỉ tiêu [17] mẫu 03/TNDN-DK; tại các chỉ tiêu [07], [16] mẫu 01/BCTL-DK; tại các chỉ tiêu [09], [17] mẫu 01/TNS-DK; tại các chỉ tiêu [10], [20] mẫu 02/TNDN-VSP; tại chỉ tiêu [05], [15] mẫu 01/ĐCĐB-VSP; tại các chỉ tiêu [09], [19] mẫu 02/PTHU-VSP; tại các chỉ tiêu [12], [20] mẫu 02/LNCN-VSP; tại các chỉ tiêu [14], [23] mẫu 01/TAIN-DK; tại chỉ tiêu [14], [23] mẫu 01/TNDN-DK; tại các chỉ tiêu [12], [20] mẫu 01/LNCN-PSC; tại các chỉ tiêu [07], [16] mẫu 01/PTHU-DK; tại các chỉ tiêu [10], [19] mẫu 02/TAIN-DK; tại chỉ tiêu [07], [16] mẫu 02/PTHU-DK; tại các chỉ tiêu [07], [15] mẫu 02/KK-TNCN; tại các chỉ tiêu [07], [18] mẫu 02/QTT-TNCN; tại các chỉ tiêu [09], [16], [23] mẫu 03/BĐS-TNCN; tại các chỉ tiêu [07], [15], [32] mẫu 04/CNV-TNCN; tại các chỉ tiêu [07], [15] mẫu 04/ĐTV-TNCN; tại các chỉ tiêu [07], [18] mẫu 04/NNG-TNCN; tại các chỉ tiêu [09], [33] mẫu 04/TKQT-TNCN; tại chỉ tiêu [07] mẫu 05/KK-TNCN; tại chỉ tiêu [08] mẫu 05/QTT-TNCN; tại các chỉ tiêu [07],[15] mẫu 06/TNCN; tại chỉ tiêu [07] mẫu 07/THĐK-NPT-TNCN; tại chỉ tiêu [11] và tiêu đề cột 5 mẫu 03/TKTH-SDDPNN; tại chỉ tiêu [04] mẫu 01/HT; tại phần tên cơ quan ban hành tại 07-2/HĐTV bằng cụm từ “Xã/ phường/đặc khu”."
+   },
+   {
+    "source_path": "Điều 1 Khoản 7 điểm h",
+    "action": "thay-cum-tu",
+    "target_document": "80/2021/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [],
+    "doi_tuong": "cụm từ “Phường/xã/ thị trấn” tại các mẫu biểu",
+    "evidence": "Thay thế cụm từ “Phường/xã/ thị trấn” tại các chỉ tiêu [10.4], [17.4], [33.4] mẫu 01/TK-SDDPNN; tại các chỉ tiêu [06.4], [11.4] mẫu 02/TK-SDDPNN; tại chỉ tiêu [06.2] mẫu 03/TKTH-SDDPNN; tại các chỉ tiêu [10.4], [17.4], [33.4] mẫu 04/TK-SDDPNN; tại các chỉ tiêu [06.4], [10.2] mẫu 01/SDDNN; tại các chỉ tiêu [10.4], [16.4] mẫu 02/SDDNN; tại các chỉ tiêu [10.4], [16.2] mẫu 03/SDDNN; tại các chỉ tiêu [10.4], [16.4] mẫu 01/TMĐN bằng cụm từ “Xã/ phường/đặc khu”."
+   },
+   {
+    "source_path": "Điều 1 Khoản 7 điểm i",
+    "action": "thay-cum-tu",
+    "target_document": "80/2021/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [],
+    "doi_tuong": "cụm từ “quận/huyện/tỉnh/thành phố” tại tiêu đề cột 3 mẫu 01/LPMB",
+    "evidence": "Thay thế cụm từ “quận/huyện/tỉnh/thành phố” tại tiêu đề cột 3 mẫu 01/LPMB bằng cụm từ “xã/phường/đặc khu/tỉnh/thành phố”."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "sua-doi",
+    "target_document": "79/2000/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm b khoản 3 Mục III"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm b Khoản 3 Mục III Thông tư số 79/2000/TT-BTC ngày 28 tháng 7 năm 2000 của Bộ trưởng Bộ Tài chính hướng dẫn bổ sung việc giảm, miễn thuế sử dụng đất nông nghiệp đối với vùng lũ lụt, vùng khó khăn"
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bo-sung",
+    "target_document": "79/2000/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm b khoản 3 Mục III"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm b Khoản 3 Mục III Thông tư số 79/2000/TT-BTC ngày 28 tháng 7 năm 2000 của Bộ trưởng Bộ Tài chính hướng dẫn bổ sung việc giảm, miễn thuế sử dụng đất nông nghiệp đối với vùng lũ lụt, vùng khó khăn"
+   },
+   {
+    "source_path": "Điều 3 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "09/2002/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm 3.3 Mục I"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm 3.3 Mục I như sau:"
+   },
+   {
+    "source_path": "Điều 3 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "09/2002/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm 3.3 Mục I"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm 3.3 Mục I như sau:"
+   },
+   {
+    "source_path": "Điều 3 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "09/2002/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Mục II"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Mục II như sau:"
+   },
+   {
+    "source_path": "Điều 3 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "09/2002/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Mục II"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Mục II như sau:"
+   },
+   {
+    "source_path": "Điều 4 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "153/2011/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm d khoản 1.4 Điều 5"
+    ],
+    "doi_tuong": "tiêu đề điểm d khoản 1.4 Điều 5",
+    "evidence": "Sửa đổi, bổ sung tiêu đề điểm d khoản 1.4 Điều 5 như sau:"
+   },
+   {
+    "source_path": "Điều 4 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "153/2011/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm d khoản 1.4 Điều 5"
+    ],
+    "doi_tuong": "tiêu đề điểm d khoản 1.4 Điều 5",
+    "evidence": "Sửa đổi, bổ sung tiêu đề điểm d khoản 1.4 Điều 5 như sau:"
+   },
+   {
+    "source_path": "Điều 4 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "153/2011/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1.2 Điều 8"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1.2 Điều 8 như sau:"
+   },
+   {
+    "source_path": "Điều 4 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "153/2011/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1.2 Điều 8"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1.2 Điều 8 như sau:"
+   },
+   {
+    "source_path": "Điều 4 Khoản 3",
+    "action": "sua-doi",
+    "target_document": "153/2011/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a.1 khoản 2.2 Điều 16",
+     "điểm a.2 khoản 2.2 Điều 16",
+     "điểm a.3 khoản 2.2 Điều 16",
+     "điểm a.4 khoản 2.2 Điều 16",
+     "điểm a.5 khoản 2.2 Điều 16"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm a.1, a.2, a.3, a.4, a.5 khoản 2.2 Điều 16 như sau:"
+   },
+   {
+    "source_path": "Điều 4 Khoản 3",
+    "action": "bo-sung",
+    "target_document": "153/2011/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a.1 khoản 2.2 Điều 16",
+     "điểm a.2 khoản 2.2 Điều 16",
+     "điểm a.3 khoản 2.2 Điều 16",
+     "điểm a.4 khoản 2.2 Điều 16",
+     "điểm a.5 khoản 2.2 Điều 16"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm a.1, a.2, a.3, a.4, a.5 khoản 2.2 Điều 16 như sau:"
+   },
+   {
+    "source_path": "Điều 5",
+    "action": "sua-doi",
+    "target_document": "111/2013/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm e.2 khoản 1 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm e.2 khoản 1 Điều 3 Thông tư số 111/2013/TT-BTC ngày 15 tháng 08 năm 2013"
+   },
+   {
+    "source_path": "Điều 5",
+    "action": "bo-sung",
+    "target_document": "111/2013/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm e.2 khoản 1 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm e.2 khoản 1 Điều 3 Thông tư số 111/2013/TT-BTC ngày 15 tháng 08 năm 2013"
+   },
+   {
+    "source_path": "Điều 6",
+    "action": "sua-doi",
+    "target_document": "84/2016/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm đ khoản 2 Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm đ khoản 2 Điều 5 Thông tư số 84/2016/TT-BTC ngày 17 tháng 6 năm 2016 của Bộ trưởng Bộ Tài chính hướng dẫn thủ tục thu nộp ngân sách nhà nước đối với các khoản thuế và thu nội địa"
+   },
+   {
+    "source_path": "Điều 6",
+    "action": "bo-sung",
+    "target_document": "84/2016/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm đ khoản 2 Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm đ khoản 2 Điều 5 Thông tư số 84/2016/TT-BTC ngày 17 tháng 6 năm 2016 của Bộ trưởng Bộ Tài chính hướng dẫn thủ tục thu nộp ngân sách nhà nước đối với các khoản thuế và thu nội địa"
+   },
+   {
+    "source_path": "Điều 7 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "19/2021/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 14"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 Điều 14 như sau:"
+   },
+   {
+    "source_path": "Điều 7 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "19/2021/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 14"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 Điều 14 như sau:"
+   },
+   {
+    "source_path": "Điều 7 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "19/2021/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 2 Điều 35"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm a khoản 2 Điều 35 như sau:"
+   },
+   {
+    "source_path": "Điều 7 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "19/2021/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 2 Điều 35"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm a khoản 2 Điều 35 như sau:"
+   },
+   {
+    "source_path": "Điều 8 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "40/2021/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm c khoản 1 Điều 13",
+     "điểm d khoản 1 Điều 13",
+     "điểm a khoản 5 Điều 13",
+     "điểm b khoản 5 Điều 13",
+     "điểm đ khoản 5 Điều 13",
+     "điểm b.1 khoản 9 Điều 13",
+     "điểm b.2 khoản 9 Điều 13"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm c, điểm d khoản 1; điểm a, điểm b, điểm đ khoản 5; điểm b.1, điểm b.2 khoản 9 Điều 13 như sau:"
+   },
+   {
+    "source_path": "Điều 8 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "40/2021/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm c khoản 1 Điều 13",
+     "điểm d khoản 1 Điều 13",
+     "điểm a khoản 5 Điều 13",
+     "điểm b khoản 5 Điều 13",
+     "điểm đ khoản 5 Điều 13",
+     "điểm b.1 khoản 9 Điều 13",
+     "điểm b.2 khoản 9 Điều 13"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm c, điểm d khoản 1; điểm a, điểm b, điểm đ khoản 5; điểm b.1, điểm b.2 khoản 9 Điều 13 như sau:"
+   },
+   {
+    "source_path": "Điều 8 Khoản 2 điểm a",
+    "action": "bai-bo",
+    "target_document": "40/2021/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [],
+    "doi_tuong": "cụm từ “Quận/Huyện/Thị xã/ Thành phố thuộc tỉnh” tại mẫu 01/CNKD, 01/TTS, 01/TKN-CNKD",
+    "evidence": "Bãi bỏ cụm từ “Quận/Huyện/Thị xã/ Thành phố thuộc tỉnh” tại chỉ tiêu [12d], [13c], [18g.3], [18h.3] mẫu 01/CNKD; tại các chỉ tiêu [12g.3], [12h.3] mẫu 01/TTS; tại các chỉ tiêu [06c], [10g.3], [10h.3] mẫu 01/TKN-CNKD."
+   },
+   {
+    "source_path": "Điều 8 Khoản 2 điểm b",
+    "action": "thay-cum-tu",
+    "target_document": "40/2021/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [],
+    "doi_tuong": "cụm từ “Phường/Xã/Thị trấn” tại mẫu 01/CNKD, 01/TTS, 01/TKN-CNKD",
+    "evidence": "Thay thế cụm từ “Phường/Xã/Thị trấn” tại chỉ tiêu [12c], [13b], [18g.2], [18h.2] mẫu 01/CNKD, tại các chỉ tiêu [12g.2], [12h.2] mẫu 01/TTS; tại các chỉ tiêu [06b], [10g.2], [10h.2] mẫu 01/TKN-CNKD bằng cụm từ “Xã/phường/đặc khu”."
+   },
+   {
+    "source_path": "Điều 9 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "111/2021/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 20"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 Điều 20 như sau:"
+   },
+   {
+    "source_path": "Điều 9 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "111/2021/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 20"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 Điều 20 như sau:"
+   },
+   {
+    "source_path": "Điều 9 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "111/2021/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm 5.4 Mục III Phụ lục V"
+    ],
+    "doi_tuong": "cụm từ “địa bàn hành chính cấp huyện”",
+    "evidence": "Bãi bỏ cụm từ “địa bàn hành chính cấp huyện” tại điểm 5.4, mục III Phụ lục V."
+   },
+   {
+    "source_path": "Điều 10 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "86/2024/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm b khoản 1 Điều 7"
+    ],
+    "doi_tuong": "tiêu đề điểm b khoản 1 Điều 7",
+    "evidence": "Sửa đổi, bổ sung tiêu đề điểm b khoản 1 Điều 7 như sau:"
+   },
+   {
+    "source_path": "Điều 10 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "86/2024/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm b khoản 1 Điều 7"
+    ],
+    "doi_tuong": "tiêu đề điểm b khoản 1 Điều 7",
+    "evidence": "Sửa đổi, bổ sung tiêu đề điểm b khoản 1 Điều 7 như sau:"
+   },
+   {
+    "source_path": "Điều 10 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "86/2024/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 10"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 Điều 10 như sau:"
+   },
+   {
+    "source_path": "Điều 10 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "86/2024/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 10"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 Điều 10 như sau:"
+   },
+   {
+    "source_path": "Điều 10 Khoản 3",
+    "action": "sua-doi",
+    "target_document": "86/2024/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 25",
+     "khoản 3 Điều 25"
+    ],
+    "doi_tuong": "tiêu đề khoản 2, tiêu đề khoản 3 Điều 25",
+    "evidence": "Sửa đổi, bổ sung tiêu đề khoản 2, tiêu đề khoản 3 Điều 25 như sau:"
+   },
+   {
+    "source_path": "Điều 10 Khoản 3",
+    "action": "bo-sung",
+    "target_document": "86/2024/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 25",
+     "khoản 3 Điều 25"
+    ],
+    "doi_tuong": "tiêu đề khoản 2, tiêu đề khoản 3 Điều 25",
+    "evidence": "Sửa đổi, bổ sung tiêu đề khoản 2, tiêu đề khoản 3 Điều 25 như sau:"
+   },
+   {
+    "source_path": "Điều 10 Khoản 4 điểm a",
+    "action": "bai-bo",
+    "target_document": "86/2024/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [],
+    "doi_tuong": "cụm từ “Quận/Huyện/Thị xã/Thành phố thuộc tỉnh/Thành phố thuộc thành phố trực thuộc trung ương” tại các mẫu biểu",
+    "evidence": "Bãi bỏ cụm từ “Quận/Huyện/Thị xã/Thành phố thuộc tỉnh/Thành phố thuộc thành phố trực thuộc trung ương” tại các chỉ tiêu [3c], [4c], [14e], [14g] và phần hướng dẫn kê khai mẫu 01-ĐK-TCT; tại chỉ tiêu [3c], [4c], [14e] ,[14g] và phần hướng dẫn kê khai mẫu 02-ĐK-TCT; tại chỉ tiêu [6], [7] mục I, chỉ tiêu [2], [3] mục III và phần hướng dẫn kê khai mẫu 03-ĐK-TCT; tại các chỉ tiêu [3.5], [3.6] mẫu 05-ĐK-TCT."
+   },
+   {
+    "source_path": "Điều 10 Khoản 4 điểm b",
+    "action": "bai-bo",
+    "target_document": "86/2024/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [],
+    "doi_tuong": "cụm từ “Quận/huyện” tại các mẫu biểu",
+    "evidence": "Bãi bỏ cụm từ “Quận/huyện” tại mẫu BK03-ĐK-TCT; tại các chỉ tiêu [5c], [12d] mẫu 04-ĐK-TCT; tại các chỉ tiêu [4c] [5c] mẫu 04.1-ĐK-TCT; tại tiêu đề cột (13) và (18) mẫu 05-ĐK-TH-TCT; tại chỉ tiêu [2c] mẫu 06-ĐK-TCT; tại mẫu 09-MST; tại tiêu đề cột (12) và (16) mẫu 20-ĐK-TH-TCT; tại mẫu 41/UQ-ĐKT."
+   },
+   {
+    "source_path": "Điều 10 Khoản 4 điểm c",
+    "action": "thay-cum-tu",
+    "target_document": "86/2024/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [],
+    "doi_tuong": "cụm từ “Quận/huyện” tại các mẫu BK04-ĐK-TCT, BK05-ĐK-TCT, 04.1-ĐK-TCT-BK",
+    "evidence": "Thay thế cụm từ “Quận/huyện” tại các mẫu: BK04-ĐK-TCT, BK05-ĐK-TCT, 04.1-ĐK-TCT-BK bằng cụm từ “Xã/phường/đặc khu”."
+   },
+   {
+    "source_path": "Điều 10 Khoản 4 điểm d",
+    "action": "thay-cum-tu",
+    "target_document": "86/2024/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [],
+    "doi_tuong": "cụm từ “Phường/xã/ thị trấn” tại các mẫu biểu",
+    "evidence": "Thay thế cụm từ “Phường/xã/ thị trấn” tại các chỉ tiêu [3b], [4b], [14e], [14g] và phần hướng dẫn kê khai mẫu 01-ĐK-TCT; tại các chỉ tiêu [3b], [4b], [14e], [14g] và phần hướng dẫn kê khai mẫu 02-ĐK-TCT; tại các chỉ tiêu [6], [7] mục I, chỉ tiêu [2], [3] mục III và phần hướng dẫn kê khai mẫu 03-ĐK-TCT; tại chỉ tiêu [3.5], [3.6] mẫu 05-ĐK-TCT; tại mẫu 15/BB-XMHĐ bằng cụm từ “Xã/phường/đặc khu”."
+   },
+   {
+    "source_path": "Điều 10 Khoản 4 điểm đ",
+    "action": "thay-cum-tu",
+    "target_document": "86/2024/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [],
+    "doi_tuong": "cụm từ “Phường/xã”, “xã, phường” tại các mẫu biểu",
+    "evidence": "Thay thế cụm từ “Phường/xã” tại mẫu BK03-ĐK-TCT; tại chỉ tiêu [5b] [12d] mẫu số 04-ĐK-TCT; tại các chỉ tiêu [4b] [5b] mẫu 04.1-ĐK-TCT; tại chỉ tiêu [2b] mẫu 06-ĐK-TCT; tại mẫu 09-MST và cụm từ “xã, phường” tại tiêu đề cột (12), (17) mẫu 05-ĐK-TH-TCT; tiêu đề cột (11), (15) mẫu 20-ĐK-TH-TCT; tại mẫu 41/UQ-ĐKT bằng cụm từ “Xã/phường/đặc khu”."
+   },
+   {
+    "source_path": "Điều 11 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "117/1999/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 1 Mục II"
+    ],
+    "doi_tuong": "quy định về chi hội đồng tư vấn thuế cấp huyện, thị xã và cấp tỉnh, thành phố trực thuộc trung ương",
+    "evidence": "Bãi bỏ quy định về chi hội đồng tư vấn thuế cấp huyện, thị xã và cấp tỉnh, thành phố trực thuộc trung ương tại điểm a khoản 1 Mục II Thông tư số 117/1999/TT-BTC ngày 27 tháng 9 năm 1999 của Bộ trưởng Bộ Tài chính hướng dẫn chế độ tài chính đối với hoạt động thu thuế sử dụng đất nông nghiệp."
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 1 Khoản 2 điểm a",
+    "loai": "nhan_sai_dieu",
+    "ghi_chu": "Các điểm a–h là nội dung mới trong ngoặc kép (khoản 1 Điều 6 TT 80/2021) bị nhận thành điểm của Khoản 2; điểm h còn gộp cả điểm b, khoản 3 mới."
+   },
+   {
+    "source_path": "Điều 9 Khoản 1 điểm a",
+    "loai": "nhan_sai_dieu",
+    "ghi_chu": "Các điểm a–c là nội dung mới trong ngoặc kép (khoản 2 Điều 20 TT 111/2021) bị nhận thành điểm của Khoản 1."
+   }
+  ],
+  "ghi_chu": "Tên và lời dẫn chỉ nói 'các Thông tư thuộc lĩnh vực quản lý thuế', không nêu số hiệu: không có quan hệ Phần đầu. Khoản nêu chung 'Sửa đổi, bổ sung một số chỉ tiêu ... mẫu biểu' chỉ ghi ở các điểm con. Mẫu biểu không nêu phụ lục chứa nó nên vi_tri rỗng, ghi doi_tuong. Điều 11 khoản 4 là câu chung, không ghi."
+ }
+]

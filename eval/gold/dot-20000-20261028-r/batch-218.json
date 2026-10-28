@@ -1,0 +1,367 @@
+[
+ {
+  "doc_id": "657931",
+  "relations": [
+   {
+    "source_path": "Điều 14 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "1390/2001/QĐ-NHNN",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thông tư này bãi bỏ Quyết định số 1390/2001/QĐ-NHNN ngày 07/11/2001 của Thống đốc Ngân hàng Nhà nước Việt Nam ban hành Điều lệ mẫu về tổ chức và hoạt động của công ty quản lý nợ trực thuộc ngân hàng thương mại."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Bãi bỏ toàn bộ QĐ 1390/2001/QĐ-NHNN."
+ },
+ {
+  "doc_id": "658018",
+  "relations": [
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bai-bo",
+    "target_document": "12/2023/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 12/2023/QĐ-UBND ngày 31 tháng 5 năm 2023 của Ủy ban nhân dân tỉnh Hoà Bình ban hành Quy chế quản lý vật liệu nổ công nghiệp trên địa bàn tỉnh Hòa Bình."
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "40/2024/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 40/2024/QĐ-UBND ngày 26 tháng 9 năm 2024 của Ủy ban nhân dân tỉnh Hoà Bình sửa đổi bổ sung một số điều của Quy chế quản lý vật liệu nổ công nghiệp trên địa bàn tỉnh Hòa Bình kèm theo Quyết định số 12/2023/QĐ-UBND ngày 31 tháng 5 năm 2023 của Ủy ban nhân dân tỉnh Hoà Bình."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 1 bãi bỏ toàn bộ 2 quyết định liệt kê ở khoản 1, 2. Tên văn bản không nêu số hiệu nên không có quan hệ Phần đầu."
+ },
+ {
+  "doc_id": "658031",
+  "relations": [
+   {
+    "source_path": "Điều 5 Khoản 1",
+    "action": "thay-the",
+    "target_document": "449/QĐ-TTg",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực thi hành kể từ ngày ký và thay thế Quyết định số 449/QĐ-TTg ngày 26 tháng 3 năm 2021 của Thủ tướng Chính phủ về việc thành lập Hội đồng tiền lương quốc gia và Quyết định số 569/QĐ-TTg ngày 27 tháng 6 năm 2024 của Thủ tướng Chính phủ về việc bổ nhiệm ông Nguyễn Mạnh Cường, Phó Chủ tịch Liên minh Hợp tác xã Việt Nam, giữ chức Phó Chủ tịch Hội đồng tiền lương quốc gia."
+   },
+   {
+    "source_path": "Điều 5 Khoản 1",
+    "action": "thay-the",
+    "target_document": "569/QĐ-TTg",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực thi hành kể từ ngày ký và thay thế Quyết định số 449/QĐ-TTg ngày 26 tháng 3 năm 2021 của Thủ tướng Chính phủ về việc thành lập Hội đồng tiền lương quốc gia và Quyết định số 569/QĐ-TTg ngày 27 tháng 6 năm 2024 của Thủ tướng Chính phủ về việc bổ nhiệm ông Nguyễn Mạnh Cường, Phó Chủ tịch Liên minh Hợp tác xã Việt Nam, giữ chức Phó Chủ tịch Hội đồng tiền lương quốc gia."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Thay thế QĐ 449/QĐ-TTg và 569/QĐ-TTg."
+ },
+ {
+  "doc_id": "658471",
+  "relations": [
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "huy-bo",
+    "target_document": "37/2023/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Biểu 1.10"
+    ],
+    "doi_tuong": "dự án Khu liên hợp xử lý chất thải tổng hợp Dung Quất",
+    "evidence": "Hủy bỏ dự án Khu liên hợp xử lý chất thải tổng hợp Dung Quất (tại số thứ tự 2, Biểu 1.10) kèm theo Nghị quyết số 37/2023/NQ-HĐND ngày 08 tháng 12 năm 2023 của Hội đồng nhân dân tỉnh về việc thông qua danh mục công trình, dự án thu hồi đất năm 2024 trên địa bàn tỉnh Quảng Ngãi."
+   },
+   {
+    "source_path": "Phụ lục 2 Mục B STT 2",
+    "action": "sua-doi",
+    "target_document": "33/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục"
+    ],
+    "doi_tuong": "địa điểm thực hiện dự án Khu đô thị mới An Phú (Đảo Ngọc)",
+    "evidence": "Thống nhất điều chỉnh địa điểm thực hiện dự án Khu đô thị mới An Phú (Đảo Ngọc) tại số thứ tự 1, Phụ lục kèm theo Nghị quyết số 33/NQ-HĐND ngày 28 tháng 4 năm 2025 của Hội đồng nhân dân tỉnh về việc quyết định danh mục các khu đất thực hiện đấu thầu lựa chọn nhà đầu tư thực hiện dự án đầu tư có sử dụng đất trên địa bàn tỉnh Quảng Ngãi (đợt 3): Địa điểm \"Phường Trương Quang Trọng, xã Tịnh An\" thành \"phường Nghĩa Chánh, Phường Trương Quang Trọng, xã Tịnh An\""
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 1 khoản 2 hủy bỏ dự án tại STT 2 Biểu 1.10 kèm theo NQ 37/2023/NQ-HĐND. Cột ghi chú dòng 2 mục B Biểu 1.1 (Phụ lục 2) điều chỉnh địa điểm dự án tại STT 1 Phụ lục kèm theo NQ 33/NQ-HĐND. Các NQ, QĐ khác trong bảng là cơ sở pháp lý hoặc lịch sử, không phải đích."
+ },
+ {
+  "doc_id": "658794",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "508/QĐ-UBND-HC",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 508/QĐ-UBND-HC ngày 18/5/2022 của Uỷ ban nhân dân Tỉnh về việc ban hành Quy chế phối hợp quản lý cụm công nghiệp trên địa bàn tỉnh Đồng Tháp hết hiệu lực kể từ ngày Quyết định này có hiệu lực thi hành."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Văn bản tuyên bố QĐ 508/QĐ-UBND-HC hết hiệu lực."
+ },
+ {
+  "doc_id": "659143",
+  "relations": [
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bai-bo",
+    "target_document": "10/2014/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 10/2014/QĐ-UBND ngày 22 tháng 5 năm 2014 của Ủy ban nhân dân tỉnh Điện Biên quy định về việc lập dự toán, quản lý, sử dụng và quyết toán kinh phí thực hiện các hoạt động kiểm soát thủ tục hành chính trên địa bàn tỉnh Điện Biên."
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "22/2015/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 22/2015/QĐ-UBND ngày 23 tháng 11 năm 2015 của Ủy ban nhân dân tỉnh Điện Biên về việc ban hành Quy định tiêu chí dự án đầu tư công trọng điểm nhóm C của tỉnh Điện Biên."
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "bai-bo",
+    "target_document": "46/2018/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 46/2018/QĐ-UBND ngày 25 tháng 12 năm 2018 của Ủy ban nhân dân tỉnh Điện Biên ban hành Quy chế quản lý vật liệu nổ công nghiệp, tiền chất thuốc nổ sử dụng để sản xuất vật liệu nổ công nghiệp trên địa bàn tỉnh Điện Biên."
+   },
+   {
+    "source_path": "Điều 1 Khoản 4",
+    "action": "bai-bo",
+    "target_document": "09/2020/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 09/2020/QĐ-UBND ngày 30 tháng 6 năm 2020 của Ủy ban nhân dân tỉnh Điện Biên ban hành Quy định về các tiêu chí cho bến xe khách thấp hơn bến xe khách loại 6 thuộc vùng sâu, vùng xa, các khu vực có điều kiện kinh tế - xã hội khó khăn trên địa bàn tỉnh Điện Biên."
+   },
+   {
+    "source_path": "Điều 1 Khoản 5",
+    "action": "bai-bo",
+    "target_document": "08/2022/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 08/2022/QĐ-UBND ngày 04 tháng 4 năm 2022 của Ủy ban nhân dân tỉnh Điện Biên ban hành Quy định về an toàn phòng cháy và chữa cháy đối với nhà ở hộ gia đình và nhà ở kết hợp sản xuất, kinh doanh trên địa bàn tỉnh Điện Biên."
+   },
+   {
+    "source_path": "Điều 1 Khoản 6",
+    "action": "bai-bo",
+    "target_document": "43/2022/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 43/2022/QĐ-UBND ngày 10 tháng 11 năm 2022 của Ủy ban nhân dân tỉnh Điện Biên ban hành Quy định quản lý hoạt động của xe ô tô vận tải trung chuyển hành khách trên địa bàn tỉnh Điện Biên."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Bãi bỏ toàn bộ 6 quyết định. Tên văn bản không nêu số hiệu."
+ },
+ {
+  "doc_id": "659208",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "04/2023/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này thay thế Quyết định số 04/2023/QĐ-UBND ngày 30 tháng 8 năm 2023 của Ủy ban nhân dân huyện Cần Giờ về ban hành quy định về chức năng, nhiệm vụ, quyền hạn và tổ chức của Phòng Y tế huyện Cần Giờ."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "11/2008/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này bãi bỏ Quyết định số 11/2008/QĐ-UBND ngày 24 tháng 6 năm 2008 của Ủy ban nhân dân huyện Cần Giờ về thành lập Phòng Y tế huyện."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 2 thay thế QĐ 04/2023 và bãi bỏ QĐ 11/2008."
+ },
+ {
+  "doc_id": "659454",
+  "relations": [
+   {
+    "source_path": "Điều 2 Khoản 1",
+    "action": "thay-the",
+    "target_document": "248/QĐ-TTg",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực kể từ ngày ký ban hành và thay thế các Quyết định số 248/QĐ-TTg ngày 26 tháng 3 năm 2024 và Quyết định số 249/QĐ-TTg ngày 07 tháng 02 năm 2025 của Thủ tướng Chính phủ về việc kiện toàn Ban Chỉ đạo quốc gia về ODA và vốn vay ưu đãi."
+   },
+   {
+    "source_path": "Điều 2 Khoản 1",
+    "action": "thay-the",
+    "target_document": "249/QĐ-TTg",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực kể từ ngày ký ban hành và thay thế các Quyết định số 248/QĐ-TTg ngày 26 tháng 3 năm 2024 và Quyết định số 249/QĐ-TTg ngày 07 tháng 02 năm 2025 của Thủ tướng Chính phủ về việc kiện toàn Ban Chỉ đạo quốc gia về ODA và vốn vay ưu đãi."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Thay thế QĐ 248/QĐ-TTg và 249/QĐ-TTg (cũng là căn cứ ban hành)."
+ },
+ {
+  "doc_id": "659517",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "07/2020/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực kể từ ngày 15/6/2025 và thay thế Quyết định số 07/2020/QĐ-UBND ngày 04/5/2020 của Ủy ban nhân dân tỉnh Đắk Nông ban hành Quy định về dạy thêm, học thêm trên địa bàn tỉnh Đắk Nông."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Thay thế QĐ 07/2020/QĐ-UBND."
+ },
+ {
+  "doc_id": "659651",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "bai-bo",
+    "target_document": "19/2023/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Quy định bảo vệ môi trường trên địa bàn tỉnh Hà Nam",
+    "evidence": "BÃI BỎ MỘT SỐ ĐIỀU CỦA QUY ĐỊNH BẢO VỆ MÔI TRƯỜNG TRÊN ĐỊA BÀN TỈNH HÀ NAM BAN HÀNH KÈM THEO QUYẾT ĐỊNH SỐ 19/2023/QĐ-UBND NGÀY 24 THÁNG 3 NĂM 2023 CỦA UỶ BAN NHÂN DÂN TỈNH"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bai-bo",
+    "target_document": "19/2023/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 7",
+     "Điều 8"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ Điều 7 và Điều 8 của Quy định bảo vệ môi trường trên địa bàn tỉnh Hà Nam ban hành kèm theo Quyết định số 19/2023/QĐ-UBND ngày 24 tháng 3 năm 2023 của Ủy ban nhân dân tỉnh Hà Nam."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên và lời dẫn bãi bỏ một số điều (một quan hệ Phần đầu); Điều 1 bãi bỏ Điều 7, Điều 8 Quy định kèm theo QĐ 19/2023/QĐ-UBND."
+ },
+ {
+  "doc_id": "659656",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "bai-bo",
+    "target_document": "02/2020/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "VỀ VIỆC BÃI BỎ NGHỊ QUYẾT SỐ 02/2020/NQ-HĐND NGÀY 13/4/2020 CỦA HỘI ĐỒNG NHÂN DÂN TỈNH"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bai-bo",
+    "target_document": "02/2020/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ Nghị quyết số 02/2020/NQ-HĐND ngày 13 tháng 4 năm 2020 của Hội đồng nhân dân tỉnh về việc giao Ủy ban nhân dân tỉnh quyết định chủ trương đầu tư dự án nhóm C sử dụng vốn ngân sách cấp tỉnh, bao gồm vốn bổ sung có mục tiêu từ ngân sách cấp trên, các nguồn vốn hợp pháp khác của ngân sách cấp tỉnh."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên, lời dẫn và Điều 1 bãi bỏ toàn bộ NQ 02/2020/NQ-HĐND. Câu 'Xét Tờ trình ... về việc bãi bỏ' là đề nghị, không tính."
+ },
+ {
+  "doc_id": "659657",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "31/2012/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực thi hành kể từ ngày 09 tháng 6 năm 2025 và thay thế Quyết định số 31/2012/QĐ-UBND ngày 12 tháng 12 năm 2012 của Ủy ban nhân dân tỉnh Hà Nam ban hành Quy định về dạy thêm, học thêm trên địa bàn tỉnh Hà Nam và Quyết định số 08/2020/QĐ-UBND ngày 15 tháng 4 năm 2020 của Ủy ban nhân dân tỉnh Hà Nam về việc bãi bỏ một số điều của Quy định về dạy thêm, học thêm trên địa bàn tỉnh Hà Nam ban hành kèm theo Quyết định số 31/2012/QĐ-UBND ngày 12 tháng 12 năm 2012 của Ủy ban nhân dân tỉnh Hà Nam."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "08/2020/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực thi hành kể từ ngày 09 tháng 6 năm 2025 và thay thế Quyết định số 31/2012/QĐ-UBND ngày 12 tháng 12 năm 2012 của Ủy ban nhân dân tỉnh Hà Nam ban hành Quy định về dạy thêm, học thêm trên địa bàn tỉnh Hà Nam và Quyết định số 08/2020/QĐ-UBND ngày 15 tháng 4 năm 2020 của Ủy ban nhân dân tỉnh Hà Nam về việc bãi bỏ một số điều của Quy định về dạy thêm, học thêm trên địa bàn tỉnh Hà Nam ban hành kèm theo Quyết định số 31/2012/QĐ-UBND ngày 12 tháng 12 năm 2012 của Ủy ban nhân dân tỉnh Hà Nam."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Thay thế QĐ 31/2012 và QĐ 08/2020."
+ },
+ {
+  "doc_id": "659670",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "10/2019/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực thi hành từ ngày 10 tháng 6 năm 2025 và thay thế Quyết định số 10/2019/QĐ-UBND ngày 12 tháng 6 năm 2019 về ban hành Quy chế quản lý và sử dụng kinh phí khuyến công trên địa bàn tỉnh Hà Nam."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Thay thế QĐ 10/2019/QĐ-UBND."
+ },
+ {
+  "doc_id": "659704",
+  "relations": [
+   {
+    "source_path": "Mục III",
+    "action": "thay-the",
+    "target_document": "1857/KH-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "(Kế hoạch này thay thế Kế hoạch số 1857/KH-UBND ngày 27 tháng 5 năm 2025 của Ủy ban nhân dân tỉnh)"
+   },
+   {
+    "source_path": "Mục II",
+    "action": "thay-the",
+    "target_document": "4062/TB-VP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 1"
+    ],
+    "doi_tuong": "ghi chú (2)",
+    "evidence": "Nội dung này thay thế nội dung tại ghi chú (2) điểm a khoản 1 Thông báo số 4062/TB-VP ngày 27 tháng 5 năm 2025 của Văn phòng Ủy ban nhân dân tỉnh"
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Mục II",
+    "loai": "thieu_noi_dung",
+    "ghi_chu": "Chú thích [2] gắn ở Mục II (nội dung thay thế ghi chú (2) điểm a khoản 1 Thông báo 4062/TB-VP) chỉ có ở cuối toàn văn, không có trong don_vi."
+   }
+  ],
+  "ghi_chu": "Mục III thay thế KH 1857/KH-UBND; chú thích [2] (gắn ở Mục II) thay thế nội dung ghi chú (2) điểm a khoản 1 Thông báo 4062/TB-VP."
+ }
+]

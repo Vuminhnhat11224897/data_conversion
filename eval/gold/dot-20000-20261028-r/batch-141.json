@@ -1,0 +1,52 @@
+[
+ {
+  "doc_id": "668932",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "7291/QĐ-BYT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Các Quyết định sau hết hiệu lực khi Quyết định này có hiệu lực:"
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "4524/QĐ-BYT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Các Quyết định sau hết hiệu lực khi Quyết định này có hiệu lực:"
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "160/QĐ-BYT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Các Quyết định sau hết hiệu lực khi Quyết định này có hiệu lực:"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 2 tự tuyên bố 3 quyết định hết hiệu lực. Bảng TTHC bãi bỏ chỉ nêu Nghị định 188/2025/NĐ-CP là căn cứ, không nêu quyết định công bố cũ: không ghi."
+ },
+ {
+  "doc_id": "669059",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "2062/QĐ-BKHCN",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực thi hành kể từ ngày ký và thay thế Quyết định số 2062/QĐ-BKHCN ngày 06/8/2025 của Bộ trưởng Bộ Khoa học và Công nghệ"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": ""
+ }
+]

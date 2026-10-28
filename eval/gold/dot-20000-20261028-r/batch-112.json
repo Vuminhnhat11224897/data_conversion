@@ -1,0 +1,352 @@
+[
+ {
+  "doc_id": "654607",
+  "relations": [
+   {
+    "source_path": "Điều 2 Khoản 3 điểm a",
+    "action": "thay-the",
+    "target_document": "314/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Quy trình nội bộ số 59, 60, 61 khoản VIII, Mục A, Phần I, Phần II",
+    "evidence": "Thay thế các Quy trình nội bộ số: 59, 60, 61 khoản VIII, Mục A, Phần I, Phần II ban hành kèm theo Quyết định số 314/QĐ-UBND ngày 21 tháng 6 năm 2021"
+   },
+   {
+    "source_path": "Điều 2 Khoản 3 điểm b",
+    "action": "thay-the",
+    "target_document": "94/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Quy trình nội bộ số 4, 5, 6, 8, 9 khoản II, Mục B",
+    "evidence": "Thay thế các Quy trình nội bộ số: 4, 5, 6, 8, 9; bãi bỏ Quy trình nội bộ số 7 khoản II, Mục B ban hành kèm theo Quyết định số 94/QĐ-UBND ngày 01 tháng 3 năm 2022"
+   },
+   {
+    "source_path": "Điều 2 Khoản 3 điểm b",
+    "action": "bai-bo",
+    "target_document": "94/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Quy trình nội bộ số 7 khoản II, Mục B",
+    "evidence": "Thay thế các Quy trình nội bộ số: 4, 5, 6, 8, 9; bãi bỏ Quy trình nội bộ số 7 khoản II, Mục B ban hành kèm theo Quyết định số 94/QĐ-UBND ngày 01 tháng 3 năm 2022"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên và Điều 1 \"phê duyệt sửa đổi; bãi bỏ Quy trình nội bộ\" không nêu văn bản đích: không ghi. Quy trình nội bộ đánh số như dòng danh mục: vi_tri rỗng, ghi doi_tuong."
+ },
+ {
+  "doc_id": "655481",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "49/2019/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Quy định Bảng giá đất năm 2020 trên địa bàn tỉnh Yên Bái",
+    "evidence": "Hội đồng nhân dân ban hành Nghị quyết sửa đổi, bổ sung một số điều của Quy định Bảng giá đất năm 2020 trên địa bàn tỉnh Yên Bái ban hành kèm theo Nghị quyết số 49/2019/NQ-HĐND ngày 29 tháng 11 năm 2019, Nghị quyết số 57/2024/NQ-HĐND ngày 16 tháng 8 năm 2024 của Hội đồng nhân dân tỉnh Yên Bái."
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "49/2019/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Quy định Bảng giá đất năm 2020 trên địa bàn tỉnh Yên Bái",
+    "evidence": "Hội đồng nhân dân ban hành Nghị quyết sửa đổi, bổ sung một số điều của Quy định Bảng giá đất năm 2020 trên địa bàn tỉnh Yên Bái ban hành kèm theo Nghị quyết số 49/2019/NQ-HĐND ngày 29 tháng 11 năm 2019, Nghị quyết số 57/2024/NQ-HĐND ngày 16 tháng 8 năm 2024 của Hội đồng nhân dân tỉnh Yên Bái."
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "57/2024/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Quy định Bảng giá đất năm 2020 trên địa bàn tỉnh Yên Bái",
+    "evidence": "Hội đồng nhân dân ban hành Nghị quyết sửa đổi, bổ sung một số điều của Quy định Bảng giá đất năm 2020 trên địa bàn tỉnh Yên Bái ban hành kèm theo Nghị quyết số 49/2019/NQ-HĐND ngày 29 tháng 11 năm 2019, Nghị quyết số 57/2024/NQ-HĐND ngày 16 tháng 8 năm 2024 của Hội đồng nhân dân tỉnh Yên Bái."
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "57/2024/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Quy định Bảng giá đất năm 2020 trên địa bàn tỉnh Yên Bái",
+    "evidence": "Hội đồng nhân dân ban hành Nghị quyết sửa đổi, bổ sung một số điều của Quy định Bảng giá đất năm 2020 trên địa bàn tỉnh Yên Bái ban hành kèm theo Nghị quyết số 49/2019/NQ-HĐND ngày 29 tháng 11 năm 2019, Nghị quyết số 57/2024/NQ-HĐND ngày 16 tháng 8 năm 2024 của Hội đồng nhân dân tỉnh Yên Bái."
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "49/2019/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 1 Điều 6"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi khoản 1 Điều 6 Quy định Bảng giá đất năm 2020 trên địa bàn tỉnh Yên Bái ban hành kèm theo Nghị quyết số 49/2019/NQ-HĐND như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2 điểm a",
+    "action": "sua-doi",
+    "target_document": "57/2024/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 1"
+    ],
+    "doi_tuong": "mã đoạn của thành phố Yên Bái",
+    "evidence": "Sửa đổi, bổ sung một số mã đoạn của thành phố Yên Bái theo quy định tại Bảng 2 ban hành kèm theo Nghị quyết này;"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2 điểm a",
+    "action": "bo-sung",
+    "target_document": "57/2024/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 1"
+    ],
+    "doi_tuong": "mã đoạn của thành phố Yên Bái",
+    "evidence": "Sửa đổi, bổ sung một số mã đoạn của thành phố Yên Bái theo quy định tại Bảng 2 ban hành kèm theo Nghị quyết này;"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2 điểm b",
+    "action": "sua-doi",
+    "target_document": "57/2024/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 1"
+    ],
+    "doi_tuong": "mã đoạn của thị xã Nghĩa Lộ",
+    "evidence": "Sửa đổi, bổ sung một số mã đoạn của thị xã Nghĩa Lộ theo quy định tại Bảng 3 ban hành kèm theo Nghị quyết này;"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2 điểm b",
+    "action": "bo-sung",
+    "target_document": "57/2024/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 1"
+    ],
+    "doi_tuong": "mã đoạn của thị xã Nghĩa Lộ",
+    "evidence": "Sửa đổi, bổ sung một số mã đoạn của thị xã Nghĩa Lộ theo quy định tại Bảng 3 ban hành kèm theo Nghị quyết này;"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2 điểm c",
+    "action": "sua-doi",
+    "target_document": "57/2024/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 1"
+    ],
+    "doi_tuong": "mã đoạn của huyện Mù Cang Chải",
+    "evidence": "Sửa đổi, bổ sung một số mã đoạn của huyện Mù Cang Chải theo quy định tại Bảng 4 ban hành kèm theo Nghị quyết này;"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2 điểm c",
+    "action": "bo-sung",
+    "target_document": "57/2024/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 1"
+    ],
+    "doi_tuong": "mã đoạn của huyện Mù Cang Chải",
+    "evidence": "Sửa đổi, bổ sung một số mã đoạn của huyện Mù Cang Chải theo quy định tại Bảng 4 ban hành kèm theo Nghị quyết này;"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2 điểm d",
+    "action": "sua-doi",
+    "target_document": "57/2024/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 1"
+    ],
+    "doi_tuong": "mã đoạn của huyện Trạm Tấu",
+    "evidence": "Sửa đổi, bổ sung một số mã đoạn của huyện Trạm Tấu theo quy định tại Bảng 5 ban hành kèm theo Nghị quyết này;"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2 điểm d",
+    "action": "bo-sung",
+    "target_document": "57/2024/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 1"
+    ],
+    "doi_tuong": "mã đoạn của huyện Trạm Tấu",
+    "evidence": "Sửa đổi, bổ sung một số mã đoạn của huyện Trạm Tấu theo quy định tại Bảng 5 ban hành kèm theo Nghị quyết này;"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2 điểm đ",
+    "action": "sua-doi",
+    "target_document": "57/2024/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 1"
+    ],
+    "doi_tuong": "mã đoạn của huyện Văn Chấn",
+    "evidence": "Sửa đổi, bổ sung một số mã đoạn của huyện Văn Chấn theo quy định tại Bảng 6 ban hành kèm theo Nghị quyết này;"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2 điểm đ",
+    "action": "bo-sung",
+    "target_document": "57/2024/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 1"
+    ],
+    "doi_tuong": "mã đoạn của huyện Văn Chấn",
+    "evidence": "Sửa đổi, bổ sung một số mã đoạn của huyện Văn Chấn theo quy định tại Bảng 6 ban hành kèm theo Nghị quyết này;"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2 điểm e",
+    "action": "sua-doi",
+    "target_document": "57/2024/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 1"
+    ],
+    "doi_tuong": "mã đoạn của huyện Văn Yên",
+    "evidence": "Sửa đổi, bổ sung một số mã đoạn của huyện Văn Yên theo quy định tại Bảng 7 ban hành kèm theo Nghị quyết này;"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2 điểm e",
+    "action": "bo-sung",
+    "target_document": "57/2024/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 1"
+    ],
+    "doi_tuong": "mã đoạn của huyện Văn Yên",
+    "evidence": "Sửa đổi, bổ sung một số mã đoạn của huyện Văn Yên theo quy định tại Bảng 7 ban hành kèm theo Nghị quyết này;"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2 điểm g",
+    "action": "sua-doi",
+    "target_document": "57/2024/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 1"
+    ],
+    "doi_tuong": "mã đoạn của huyện Trấn Yên",
+    "evidence": "Sửa đổi, bổ sung một số mã đoạn của huyện Trấn Yên theo quy định tại Bảng 8 ban hành kèm theo Nghị quyết này;"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2 điểm g",
+    "action": "bo-sung",
+    "target_document": "57/2024/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 1"
+    ],
+    "doi_tuong": "mã đoạn của huyện Trấn Yên",
+    "evidence": "Sửa đổi, bổ sung một số mã đoạn của huyện Trấn Yên theo quy định tại Bảng 8 ban hành kèm theo Nghị quyết này;"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2 điểm h",
+    "action": "sua-doi",
+    "target_document": "57/2024/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 1"
+    ],
+    "doi_tuong": "mã đoạn của huyện Yên Bình",
+    "evidence": "Sửa đổi, bổ sung một số mã đoạn của huyện Yên Bình theo quy định tại Bảng 9 ban hành kèm theo Nghị quyết này;"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2 điểm h",
+    "action": "bo-sung",
+    "target_document": "57/2024/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 1"
+    ],
+    "doi_tuong": "mã đoạn của huyện Yên Bình",
+    "evidence": "Sửa đổi, bổ sung một số mã đoạn của huyện Yên Bình theo quy định tại Bảng 9 ban hành kèm theo Nghị quyết này;"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2 điểm i",
+    "action": "sua-doi",
+    "target_document": "57/2024/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 1"
+    ],
+    "doi_tuong": "mã đoạn của huyện Lục Yên",
+    "evidence": "Sửa đổi, bổ sung một số mã đoạn của huyện Lục Yên theo quy định tại Bảng 10 ban hành kèm theo Nghị quyết này."
+   },
+   {
+    "source_path": "Điều 1 Khoản 2 điểm i",
+    "action": "bo-sung",
+    "target_document": "57/2024/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 1"
+    ],
+    "doi_tuong": "mã đoạn của huyện Lục Yên",
+    "evidence": "Sửa đổi, bổ sung một số mã đoạn của huyện Lục Yên theo quy định tại Bảng 10 ban hành kèm theo Nghị quyết này."
+   },
+   {
+    "source_path": "Điều 2 Khoản 1",
+    "action": "thay-cum-tu",
+    "target_document": "49/2019/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Loại đất nông nghiệp quy định tại khoản 1 Điều 10 Luật Đất đai” bằng cụm từ “Loại đất nông nghiệp quy định tại khoản 2 Điều 9 Luật Đất đai năm 2024” tại Điều 5."
+   },
+   {
+    "source_path": "Điều 2 Khoản 2",
+    "action": "thay-cum-tu",
+    "target_document": "49/2019/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm e khoản 1 Điều 7",
+     "điểm a khoản 2 Điều 8",
+     "điểm d khoản 2 Điều 8",
+     "khoản 1 Điều 15",
+     "khoản 1 Điều 16"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Sở Tài nguyên và Môi trường” bằng cụm từ “Sở Nông nghiệp và Môi trường” tại điểm e khoản 1 Điều 7; điểm a, điểm d khoản 2 Điều 8; khoản 1 Điều 15 (được sửa đổi, bổ sung tại khoản 2 Điều 1 Nghị định số 57/2024/NQ-HĐND) và khoản 1 Điều 16."
+   },
+   {
+    "source_path": "Điều 2 Khoản 3",
+    "action": "thay-cum-tu",
+    "target_document": "49/2019/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm e khoản 1 Điều 7",
+     "điểm a khoản 2 Điều 8",
+     "điểm d khoản 2 Điều 8"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “ Cục Thuế tỉnh” bằng cụm từ “Chi cục Thuế khu vực VIII” tại điểm e khoản 1 Điều 7 và điểm a, điểm d khoản 2 Điều 8."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Phần đầu (tên, lời dẫn) nêu cả 49/2019 và 57/2024: sửa đổi, bổ sung. Điều 1 Khoản 2: mã đoạn tại khoản 3 Điều 1 NQ 57/2024, mỗi điểm một cặp sửa đổi/bổ sung. Điều 2 tên Điều cho văn bản đích 49/2019 (kèm theo). \"(được sửa đổi, bổ sung tại khoản 2 Điều 1 Nghị định số 57/2024/NQ-HĐND)\" là ghi chú lịch sử. Bảng 2-10 chỉ là bảng giá mới, không có chữ hành động."
+ },
+ {
+  "doc_id": "656026",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "2976/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Danh mục thủ tục hành chính trong lĩnh vực Địa chất và khoáng sản",
+    "evidence": "Bãi bỏ Danh mục thủ tục hành chính trong lĩnh vực Địa chất và khoáng sản tại các Quyết định sau: số 2976/QĐ-UBND ngày 24/12/2020; số 302/QĐ-UBND ngày 11/02/2025 của Chủ tịch UBND tỉnh."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "302/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Danh mục thủ tục hành chính trong lĩnh vực Địa chất và khoáng sản",
+    "evidence": "Bãi bỏ Danh mục thủ tục hành chính trong lĩnh vực Địa chất và khoáng sản tại các Quyết định sau: số 2976/QĐ-UBND ngày 24/12/2020; số 302/QĐ-UBND ngày 11/02/2025 của Chủ tịch UBND tỉnh."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quyết định công bố chuẩn hóa danh mục TTHC; Điều 2 bãi bỏ danh mục TTHC tại 2 quyết định. Phụ lục không có chữ hành động lên văn bản khác."
+ }
+]

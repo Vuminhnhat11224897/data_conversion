@@ -1,0 +1,50 @@
+[
+ {
+  "doc_id": "667864",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "27/2021/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định có hiệu lực thi hành từ ngày 04 tháng 8 năm 2025 và thay thế Quyết định số 27/2021/QĐ-UBND ngày 05/10/2021 của Ủy ban nhân dân tỉnh Sơn La ban hành Quy định về quy mô công trình, thời hạn tồn tại của công trình để cấp giấy phép xây dựng có thời hạn và phân cấp cấp giấy phép xây dựng trên địa bàn tỉnh Sơn La."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quy định kèm theo nêu nội dung 'được giao quy định tại khoản 2 Điều 103 Luật Xây dựng, khoản 1 Điều 61 NĐ 175/2024, khoản 3 Điều 5 NĐ 140/2025' nhưng không dùng từ 'quy định chi tiết'/'hướng dẫn': không ghi quan hệ. Các 'được sửa đổi, bổ sung bởi' là trích dẫn."
+ },
+ {
+  "doc_id": "669667",
+  "relations": [
+   {
+    "source_path": "Điều 2 Khoản 2",
+    "action": "thay-the",
+    "target_document": "1122/QĐ-BNN-TCCB",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này thay thế Quyết định số 1122/QĐ-BNN-TCCB ngày 19 tháng 4 năm 2024 của Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn về ban hành Điều lệ tổ chức và hoạt động của Quỹ Bảo vệ và phát triển rừng Việt Nam."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": ""
+ },
+ {
+  "doc_id": "672190",
+  "relations": [
+   {
+    "source_path": "Điều 2 Khoản 3",
+    "action": "bai-bo",
+    "target_document": "29/2025/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 29/2025/QĐ-UBND ngày 27/6/2025 của UBND tỉnh Quảng Bình quy định định mức kinh tế - kỹ thuật định giá đất trên địa bàn tỉnh Quảng Bình hết hiệu lực kể từ ngày Quyết định này có hiệu lực thi hành."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Văn bản đích của UBND tỉnh Quảng Bình (trước sáp nhập)."
+ }
+]

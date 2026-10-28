@@ -1,0 +1,2999 @@
+[
+ {
+  "doc_id": "653822",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "2323/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này thay thế Quyết định số 2323/QĐ-UBND ngày 12 tháng 6 năm 2020 của Chủ tịch Ủy ban nhân dân tỉnh phê duyệt quy trình nội bộ giải quyết thủ tục hành chính liên thông trong lĩnh vực Khí tượng và thủy văn thuộc phạm vi chức năng quản lý của Sở Tài nguyên và Môi trường."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": ""
+ },
+ {
+  "doc_id": "653829",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "2410/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục VI"
+    ],
+    "doi_tuong": null,
+    "evidence": "VỀ VIỆC SỬA ĐỔI MỤC VI KẾ HOẠCH THỰC HIỆN CHƯƠNG TRÌNH MỤC TIÊU QUỐC GIA GIẢM NGHÈO BỀN VỮNG TRÊN ĐỊA BÀN TỈNH BÌNH ĐỊNH GIAI ĐOẠN 2021 - 2025 BAN HÀNH KÈM THEO QUYẾT ĐỊNH SỐ 2410/QĐ-UBND NGÀY 03/8/2022 CỦA ỦY BAN NHÂN DÂN TỈNH"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "sua-doi",
+    "target_document": "2410/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục VI"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi mục VI Kế hoạch thực hiện Chương trình mục tiêu quốc gia giảm nghèo bền vững trên địa bàn tỉnh Bình Định giai đoạn 2021 - 2025 ban hành kèm theo Quyết định số 2410/QĐ-UBND ngày 03 tháng 8 năm 2022 của Ủy ban nhân dân tỉnh Bình Định như sau:"
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "loai": "nhan_sai_dieu",
+    "ghi_chu": "Điều 1 Khoản 1 đến Khoản 14 là nội dung mới của Mục VI trong ngoặc kép, bị nhận thành khoản của Quyết định này."
+   }
+  ],
+  "ghi_chu": "Kế hoạch kèm theo Quyết định 2410/QĐ-UBND không chia Điều, vị trí ghi theo Mục."
+ },
+ {
+  "doc_id": "654410",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "2008/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ Quyết định số 2008/QĐ-UBND ngày 26/9/2024 của Chủ tịch UBND tỉnh Nam Định."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Phụ lục danh mục TTHC chỉ là tệp đính kèm, không có trong toàn văn."
+ },
+ {
+  "doc_id": "654501",
+  "relations": [
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bai-bo",
+    "target_document": "20/2012/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 20/2012/QĐ-UBND ngày 22 tháng 6 năm 2012 của Ủy ban nhân dân tỉnh Bình Định ban hành Quy định về quản lý, sử dụng tạm thời một phần vỉa hè, lòng đường đô thị ngoài mục đích giao thông trên địa bàn tỉnh."
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "16/2013/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 16/2013/QĐ-UBND ngày 10 tháng 7 năm 2013 của Ủy ban nhân dân tỉnh Bình Định ban hành Quy định về tổ chức thực hiện quản lý thống nhất các hoạt động đối ngoại trên địa bàn tỉnh Bình Định."
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "bai-bo",
+    "target_document": "42/2016/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 42/2016/QĐ-UBND ngày 12 tháng 8 năm 2016 của Ủy ban nhân dân tỉnh Bình Định ban hành Quy định mức chi đón tiếp, thăm hỏi, chúc mừng đối với một số đối tượng do Ủy ban Mặt trận Tổ quốc Việt Nam tỉnh và Ủy ban Mặt trận Tổ quốc Việt Nam cấp huyện thực hiện trên địa bàn tỉnh Bình Định."
+   },
+   {
+    "source_path": "Điều 1 Khoản 4",
+    "action": "bai-bo",
+    "target_document": "15/2019/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 15/2019/QĐ-UBND ngày 01 tháng 4 năm 2019 của Ủy ban nhân dân tỉnh Bình Định ban hành Quy chế tuyển sinh trung học phổ thông trên địa bàn tỉnh Bình Định."
+   },
+   {
+    "source_path": "Điều 1 Khoản 5",
+    "action": "bai-bo",
+    "target_document": "18/2019/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 18/2019/QĐ-UBND ngày 02 tháng 5 năm 2019 của Ủy ban nhân dân tỉnh Bình Định ban hành Quy chế quản lý vật liệu nổ công nghiệp, tiền chất thuốc nổ trên địa bàn tỉnh Bình Định."
+   },
+   {
+    "source_path": "Điều 1 Khoản 6",
+    "action": "bai-bo",
+    "target_document": "67/2019/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 67/2019/QĐ-UBND ngày 18 tháng 12 năm 2019 của Ủy ban nhân dân tỉnh Bình Định quy định mức giá dịch vụ khám bệnh, chữa bệnh không thuộc phạm vi thanh toán của Quỹ bảo hiểm y tế trong các cơ sở khám bệnh, chữa bệnh của Nhà nước thuộc tỉnh Bình Định."
+   },
+   {
+    "source_path": "Điều 1 Khoản 7",
+    "action": "bai-bo",
+    "target_document": "20/2020/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 20/2020/QĐ-UBND ngày 28 tháng 4 năm 2020 của Ủy ban nhân dân tỉnh Bình Định sửa đổi, bổ sung một số điều của Quy chế tuyển sinh trung học phổ thông trên địa bàn tỉnh Bình Định ban hành kèm theo Quyết định số 15/2019/QĐ-UBND ngày 01 tháng 4 năm 2019 của Ủy ban nhân dân tỉnh."
+   },
+   {
+    "source_path": "Điều 1 Khoản 8",
+    "action": "bai-bo",
+    "target_document": "34/2020/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 34/2020/QĐ-UBND ngày 15 tháng 6 năm 2020 của Ủy ban nhân dân tỉnh Bình Định ban hành Quy chế phối hợp giải quyết thủ tục hành chính về đất đai trong Khu kinh tế Nhơn Hội."
+   },
+   {
+    "source_path": "Điều 1 Khoản 9",
+    "action": "bai-bo",
+    "target_document": "70/2020/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 70/2020/QĐ-UBND ngày 27 tháng 10 năm 2020 của Ủy ban nhân dân tỉnh Bình Định sửa đổi, bổ sung một số điều tại Quy định về quản lý, sử dụng tạm thời một phần vỉa hè, lòng đường đô thị ngoài mục đích giao thông trên địa bàn tỉnh Bình Định ban hành kèm theo Quyết định số 20/2012/QĐ-UBND ngày 22 tháng 6 năm 2012 của UBND tỉnh Bình Định."
+   },
+   {
+    "source_path": "Điều 1 Khoản 10",
+    "action": "bai-bo",
+    "target_document": "04/2021/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 04/2021/QĐ-UBND ngày 10 tháng 3 năm 2021 của Ủy ban nhân dân tỉnh Bình Định ban hành Quy chế quản lý và sử dụng kinh phí khuyến công trên địa bàn tỉnh Bình Định."
+   },
+   {
+    "source_path": "Điều 1 Khoản 11",
+    "action": "bai-bo",
+    "target_document": "58/2021/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 58/2021/QĐ-UBND ngày 30 tháng 9 năm 2021 của Ủy ban nhân dân tỉnh Bình Định sửa đổi, bổ sung một số điều của Quy chế phối hợp giải quyết thủ tục hành chính về đất đai trong Khu kinh tế Nhơn Hội ban hành kèm theo Quyết định số 34/2020/QĐ-UBND ngày 15 tháng 6 năm 2020 của Ủy ban nhân dân tỉnh."
+   },
+   {
+    "source_path": "Điều 1 Khoản 12",
+    "action": "bai-bo",
+    "target_document": "71/2021/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "12. Quyết định số 71/2021/QĐ-UBND ngày 03 tháng 12 năm 2021 của Ủy ban nhân dân tỉnh Bình Định ban hành Quy định về việc đăng ký khai thác nước dưới đất và mực nước hạ thấp cho phép trong khai thác nước dưới đất trên địa bàn tỉnh Bình Định."
+   },
+   {
+    "source_path": "Điều 1 Khoản 13",
+    "action": "bai-bo",
+    "target_document": "85/2022/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 85/2022/QĐ-UBND ngày 22 tháng 12 năm 2022 của Ủy ban nhân dân tỉnh Bình Định ban hành Quy định về quy trình xây dựng văn bản quy phạm pháp luật trên địa bàn tỉnh Bình Định."
+   },
+   {
+    "source_path": "Điều 1 Khoản 14",
+    "action": "bai-bo",
+    "target_document": "05/2023/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 05/2023/QĐ-UBND ngày 04 tháng 02 năm 2023 của Ủy ban nhân dân tỉnh Bình Định sửa đổi, bổ sung Quy chế tuyển sinh trung học phổ thông trên địa bàn tỉnh Bình Định ban hành kèm theo Quyết định số 15/2019/QĐ-UBND ngày 01 tháng 4 năm 2019 của Ủy ban nhân dân tỉnh Bình Định."
+   },
+   {
+    "source_path": "Điều 1 Khoản 15",
+    "action": "bai-bo",
+    "target_document": "79/2023/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 79/2023/QĐ-UBND ngày 15 tháng 12 năm 2023 của Ủy ban nhân dân tỉnh Bình Định quy định hệ số điều chỉnh giá đất để xác định giá đất tính thu tiền sử dụng đất, tiền thuê đất trên địa bàn tỉnh Bình Định."
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 1 Khoản 11",
+    "loai": "gop_sai",
+    "ghi_chu": "Khoản 12 (Quyết định số 71/2021/QĐ-UBND) bị gộp vào khoản 11 do toàn văn không xuống dòng."
+   }
+  ],
+  "ghi_chu": "Chữ hành động 'Bãi bỏ toàn bộ các quyết định sau đây:' ở Điều 1; 15 khoản liệt kê 15 quyết định, mỗi quyết định một quan hệ theo khoản. Tên văn bản không nêu số hiệu đích."
+ },
+ {
+  "doc_id": "655282",
+  "relations": [
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "70/2019/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 1 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "70/2019/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 1 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "70/2019/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 2 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "70/2019/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 2 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "sua-doi",
+    "target_document": "70/2019/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 3 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "bo-sung",
+    "target_document": "70/2019/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 3 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 4",
+    "action": "sua-doi",
+    "target_document": "70/2019/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm b khoản 2 Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm b khoản 2 Điều 5 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 4",
+    "action": "bo-sung",
+    "target_document": "70/2019/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm b khoản 2 Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm b khoản 2 Điều 5 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 5",
+    "action": "bai-bo",
+    "target_document": "70/2019/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 4 Điều 6"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ khoản 4 Điều 6."
+   },
+   {
+    "source_path": "Điều 1 Khoản 6",
+    "action": "sua-doi",
+    "target_document": "70/2019/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 7 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 6",
+    "action": "bo-sung",
+    "target_document": "70/2019/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 7 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 7",
+    "action": "sua-doi",
+    "target_document": "70/2019/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 1 Điều 8"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 Điều 8 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 7",
+    "action": "bo-sung",
+    "target_document": "70/2019/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 1 Điều 8"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 Điều 8 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 8",
+    "action": "sua-doi",
+    "target_document": "70/2019/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 4 Điều 8"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 4 Điều 8 của Quy định bảng giá các loại đất áp dụng giai đoạn 2020 - 2024 trên địa bàn tỉnh An Giang ban hành kèm theo Quyết định số 70/2019/QĐ-UBND ngày 23 tháng 12 năm 2019 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 8",
+    "action": "bo-sung",
+    "target_document": "70/2019/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 4 Điều 8"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 4 Điều 8 của Quy định bảng giá các loại đất áp dụng giai đoạn 2020 - 2024 trên địa bàn tỉnh An Giang ban hành kèm theo Quyết định số 70/2019/QĐ-UBND ngày 23 tháng 12 năm 2019 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 8",
+    "action": "bai-bo",
+    "target_document": "70/2019/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 6 Điều 8"
+    ],
+    "doi_tuong": null,
+    "evidence": "8. Bãi bỏ khoản 6 Điều 8."
+   },
+   {
+    "source_path": "Điều 1 Khoản 9",
+    "action": "bai-bo",
+    "target_document": "70/2019/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 11"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ Điều 11."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "sua-doi",
+    "target_document": "70/2019/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Bảng giá các loại đất áp dụng giai đoạn 2020 - 2024",
+    "evidence": "Sửa đổi, bổ sung Bảng giá các loại đất áp dụng giai đoạn 2020 - 2024 trên địa bàn tỉnh An Giang ban hành kèm theo Quyết định số 70/2019/QĐ-UBND ngày 23 tháng 12 năm 2019, Quyết định số 18/2022/QĐ- UBND ngày 04 tháng 5 năm 2022, Quyết định số 39/2023/QĐ-UBND ngày 31 tháng 10 năm 2023, Quyết định số 45/2023/QĐ-UBND ngày 15 tháng 12 năm 2023 như sau: theo Phụ lục ban hành kèm theo Quyết định này."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bo-sung",
+    "target_document": "70/2019/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Bảng giá các loại đất áp dụng giai đoạn 2020 - 2024",
+    "evidence": "Sửa đổi, bổ sung Bảng giá các loại đất áp dụng giai đoạn 2020 - 2024 trên địa bàn tỉnh An Giang ban hành kèm theo Quyết định số 70/2019/QĐ-UBND ngày 23 tháng 12 năm 2019, Quyết định số 18/2022/QĐ- UBND ngày 04 tháng 5 năm 2022, Quyết định số 39/2023/QĐ-UBND ngày 31 tháng 10 năm 2023, Quyết định số 45/2023/QĐ-UBND ngày 15 tháng 12 năm 2023 như sau: theo Phụ lục ban hành kèm theo Quyết định này."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "sua-doi",
+    "target_document": "18/2022/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Bảng giá các loại đất áp dụng giai đoạn 2020 - 2024",
+    "evidence": "Sửa đổi, bổ sung Bảng giá các loại đất áp dụng giai đoạn 2020 - 2024 trên địa bàn tỉnh An Giang ban hành kèm theo Quyết định số 70/2019/QĐ-UBND ngày 23 tháng 12 năm 2019, Quyết định số 18/2022/QĐ- UBND ngày 04 tháng 5 năm 2022, Quyết định số 39/2023/QĐ-UBND ngày 31 tháng 10 năm 2023, Quyết định số 45/2023/QĐ-UBND ngày 15 tháng 12 năm 2023 như sau: theo Phụ lục ban hành kèm theo Quyết định này."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bo-sung",
+    "target_document": "18/2022/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Bảng giá các loại đất áp dụng giai đoạn 2020 - 2024",
+    "evidence": "Sửa đổi, bổ sung Bảng giá các loại đất áp dụng giai đoạn 2020 - 2024 trên địa bàn tỉnh An Giang ban hành kèm theo Quyết định số 70/2019/QĐ-UBND ngày 23 tháng 12 năm 2019, Quyết định số 18/2022/QĐ- UBND ngày 04 tháng 5 năm 2022, Quyết định số 39/2023/QĐ-UBND ngày 31 tháng 10 năm 2023, Quyết định số 45/2023/QĐ-UBND ngày 15 tháng 12 năm 2023 như sau: theo Phụ lục ban hành kèm theo Quyết định này."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "sua-doi",
+    "target_document": "39/2023/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Bảng giá các loại đất áp dụng giai đoạn 2020 - 2024",
+    "evidence": "Sửa đổi, bổ sung Bảng giá các loại đất áp dụng giai đoạn 2020 - 2024 trên địa bàn tỉnh An Giang ban hành kèm theo Quyết định số 70/2019/QĐ-UBND ngày 23 tháng 12 năm 2019, Quyết định số 18/2022/QĐ- UBND ngày 04 tháng 5 năm 2022, Quyết định số 39/2023/QĐ-UBND ngày 31 tháng 10 năm 2023, Quyết định số 45/2023/QĐ-UBND ngày 15 tháng 12 năm 2023 như sau: theo Phụ lục ban hành kèm theo Quyết định này."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bo-sung",
+    "target_document": "39/2023/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Bảng giá các loại đất áp dụng giai đoạn 2020 - 2024",
+    "evidence": "Sửa đổi, bổ sung Bảng giá các loại đất áp dụng giai đoạn 2020 - 2024 trên địa bàn tỉnh An Giang ban hành kèm theo Quyết định số 70/2019/QĐ-UBND ngày 23 tháng 12 năm 2019, Quyết định số 18/2022/QĐ- UBND ngày 04 tháng 5 năm 2022, Quyết định số 39/2023/QĐ-UBND ngày 31 tháng 10 năm 2023, Quyết định số 45/2023/QĐ-UBND ngày 15 tháng 12 năm 2023 như sau: theo Phụ lục ban hành kèm theo Quyết định này."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "sua-doi",
+    "target_document": "45/2023/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Bảng giá các loại đất áp dụng giai đoạn 2020 - 2024",
+    "evidence": "Sửa đổi, bổ sung Bảng giá các loại đất áp dụng giai đoạn 2020 - 2024 trên địa bàn tỉnh An Giang ban hành kèm theo Quyết định số 70/2019/QĐ-UBND ngày 23 tháng 12 năm 2019, Quyết định số 18/2022/QĐ- UBND ngày 04 tháng 5 năm 2022, Quyết định số 39/2023/QĐ-UBND ngày 31 tháng 10 năm 2023, Quyết định số 45/2023/QĐ-UBND ngày 15 tháng 12 năm 2023 như sau: theo Phụ lục ban hành kèm theo Quyết định này."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bo-sung",
+    "target_document": "45/2023/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Bảng giá các loại đất áp dụng giai đoạn 2020 - 2024",
+    "evidence": "Sửa đổi, bổ sung Bảng giá các loại đất áp dụng giai đoạn 2020 - 2024 trên địa bàn tỉnh An Giang ban hành kèm theo Quyết định số 70/2019/QĐ-UBND ngày 23 tháng 12 năm 2019, Quyết định số 18/2022/QĐ- UBND ngày 04 tháng 5 năm 2022, Quyết định số 39/2023/QĐ-UBND ngày 31 tháng 10 năm 2023, Quyết định số 45/2023/QĐ-UBND ngày 15 tháng 12 năm 2023 như sau: theo Phụ lục ban hành kèm theo Quyết định này."
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 1 Khoản 8",
+    "loai": "gop_sai",
+    "ghi_chu": "Văn bản đánh số 8 hai lần; khoản '8. Bãi bỏ khoản 6 Điều 8' bị gộp vào khoản 8 trước đó."
+   }
+  ],
+  "ghi_chu": "Tên văn bản không nêu số hiệu đích nên không có quan hệ Phần đầu. Phụ lục Bảng giá chỉ là tệp đính kèm, không có trong toàn văn."
+ },
+ {
+  "doc_id": "655416",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "18/2021/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG NGHỊ QUYẾT SỐ 18/2021/NQ-HĐND NGÀY 09/12/2021 CỦA HỘI ĐỒNG NHÂN DÂN TỈNH VÀ SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA QUY CHẾ HOẠT ĐỘNG CỦA HỘI ĐỒNG NHÂN DÂN TỈNH BAN HÀNH KÈM THEO NGHỊ QUYẾT SỐ 18/2021/NQ-HĐND NGÀY 09/12/2021 CỦA HỘI ĐỒNG NHÂN DÂN TỈNH VĨNH LONG KHÓA X, NHIỆM KỲ 2021- 2026"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "18/2021/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG NGHỊ QUYẾT SỐ 18/2021/NQ-HĐND NGÀY 09/12/2021 CỦA HỘI ĐỒNG NHÂN DÂN TỈNH VÀ SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA QUY CHẾ HOẠT ĐỘNG CỦA HỘI ĐỒNG NHÂN DÂN TỈNH BAN HÀNH KÈM THEO NGHỊ QUYẾT SỐ 18/2021/NQ-HĐND NGÀY 09/12/2021 CỦA HỘI ĐỒNG NHÂN DÂN TỈNH VĨNH LONG KHÓA X, NHIỆM KỲ 2021- 2026"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "18/2021/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG NGHỊ QUYẾT SỐ 18/2021/NQ-HĐND NGÀY 09/12/2021 CỦA HỘI ĐỒNG NHÂN DÂN TỈNH VÀ SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA QUY CHẾ HOẠT ĐỘNG CỦA HỘI ĐỒNG NHÂN DÂN TỈNH BAN HÀNH KÈM THEO NGHỊ QUYẾT SỐ 18/2021/NQ-HĐND NGÀY 09/12/2021 CỦA HỘI ĐỒNG NHÂN DÂN TỈNH VĨNH LONG KHÓA X, NHIỆM KỲ 2021- 2026"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "18/2021/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG NGHỊ QUYẾT SỐ 18/2021/NQ-HĐND NGÀY 09/12/2021 CỦA HỘI ĐỒNG NHÂN DÂN TỈNH VÀ SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA QUY CHẾ HOẠT ĐỘNG CỦA HỘI ĐỒNG NHÂN DÂN TỈNH BAN HÀNH KÈM THEO NGHỊ QUYẾT SỐ 18/2021/NQ-HĐND NGÀY 09/12/2021 CỦA HỘI ĐỒNG NHÂN DÂN TỈNH VĨNH LONG KHÓA X, NHIỆM KỲ 2021- 2026"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "sua-doi",
+    "target_document": "18/2021/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [],
+    "doi_tuong": "căn cứ pháp lý",
+    "evidence": "Sửa đổi, bổ sung căn cứ pháp lý ban hành Nghị quyết số 18/2021/NQ-HĐND ngày 09 tháng 12 năm 2021 của Hội đồng nhân dân tỉnh Vĩnh Long Khóa X, nhiệm kỳ 2021 - 2026 như sau:"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bo-sung",
+    "target_document": "18/2021/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [],
+    "doi_tuong": "căn cứ pháp lý",
+    "evidence": "Sửa đổi, bổ sung căn cứ pháp lý ban hành Nghị quyết số 18/2021/NQ-HĐND ngày 09 tháng 12 năm 2021 của Hội đồng nhân dân tỉnh Vĩnh Long Khóa X, nhiệm kỳ 2021 - 2026 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "18/2021/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 3 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi khoản 3 Điều 1 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "18/2021/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi Điều 2 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 3",
+    "action": "bo-sung",
+    "target_document": "18/2021/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 4a"
+    ],
+    "doi_tuong": null,
+    "evidence": "3. Bổ sung Điều 4a như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 4",
+    "action": "sua-doi",
+    "target_document": "18/2021/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 16"
+    ],
+    "doi_tuong": null,
+    "evidence": "4. Sửa đổi Điều 16 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 5",
+    "action": "sua-doi",
+    "target_document": "18/2021/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 1 Điều 27",
+     "khoản 2 Điều 27",
+     "khoản 3 Điều 27"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi khoản 1, khoản 2, khoản 3 Điều 27 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 6",
+    "action": "sua-doi",
+    "target_document": "18/2021/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 30"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi Điều 30 như sau:"
+   },
+   {
+    "source_path": "Điều 3 Khoản 1",
+    "action": "thay-cum-tu",
+    "target_document": "18/2021/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 2 Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ \"Luật Tổ chức chính quyền địa phương năm 2015\" bằng cụm từ \"Luật Tổ chức chính quyền địa phương năm 2025\" tại khoản 2 Điều 5."
+   },
+   {
+    "source_path": "Điều 3 Khoản 2",
+    "action": "thay-cum-tu",
+    "target_document": "18/2021/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 1 Điều 9"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ \"tại khoản 2 Điều 124 Luật Ban hành văn bản quy phạm pháp luật năm 2015\" bằng cụm từ \"của Chính phủ\" tại khoản 1 Điều 9."
+   },
+   {
+    "source_path": "Điều 3 Khoản 3",
+    "action": "thay-cum-tu",
+    "target_document": "18/2021/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 1 Điều 17"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ \"tại Điều 87 Luật Tổ chức chính quyền địa phương năm 2015\" bằng cụm từ \"tại điểm o, khoản 1 Điều 15 Luật Tổ chức chính quyền địa phương năm 2025\" tại khoản 1 Điều 17."
+   },
+   {
+    "source_path": "Điều 3 Khoản 4",
+    "action": "thay-cum-tu",
+    "target_document": "18/2021/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 1 Điều 20"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ \"theo quy định tại khoản 4 Điều 104 và khoản 3 Điều 105 Luật Tổ chức chính quyền địa phương năm 2015 và Quy chế làm việc của Thường trực HĐND\" bằng cụm từ \"theo quy định tại khoản 5 Điều 29 Luật Tổ chức chính quyền địa phương năm 2025\" tại khoản 1 Điều 20."
+   },
+   {
+    "source_path": "Điều 3 Khoản 5",
+    "action": "thay-cum-tu",
+    "target_document": "18/2021/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 1 Điều 22"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ \"quy định tại Điều 107 của Luật Tổ chức chính quyền địa phương\" bằng cụm từ \"quy định tại khoản 6 Điều 29 của Luật Tổ chức chính quyền địa phương 2025\" tại khoản 1 Điều 22."
+   },
+   {
+    "source_path": "Điều 3 Khoản 6",
+    "action": "thay-cum-tu",
+    "target_document": "18/2021/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 3 Điều 24"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ \"khoản 3 Điều 124 Luật Ban hành văn bản quy phạm pháp luật năm 2015 và điểm c khoản 38 Điều 1 của Luật sửa đổi, bổ sung một số điều của Luật Ban hành văn bản quy phạm pháp luật năm 2020\" bằng cụm từ \"quy định của Chính phủ\" tại khoản 3 Điều 24."
+   },
+   {
+    "source_path": "Điều 3 Khoản 7",
+    "action": "thay-cum-tu",
+    "target_document": "18/2021/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 28"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ \"Điều 101, Điều 102 Luật Tổ chức chính quyền địa phương năm 2015; khoản 28 Điều 2 Luật sửa đổi, bổ sung một số điều của Luật Tổ chức Chính phủ và Luật Tổ chức chính quyền địa phương năm 2019\" bằng cụm từ \"Điều 36 Luật Tổ chức chính quyền địa phương năm 2025\" tại Điều 28."
+   },
+   {
+    "source_path": "Điều 3 Khoản 8",
+    "action": "bai-bo",
+    "target_document": "18/2021/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 2 Điều 5"
+    ],
+    "doi_tuong": "cụm từ \"Luật sửa đổi, bổ sung một số điều của Luật Tổ chức Chính phủ và Luật Tổ chức chính quyền địa phương năm 2019, Luật Ban hành văn bản quy phạm pháp luật năm 2015\"",
+    "evidence": "Bãi bỏ cụm từ: \"Luật sửa đổi, bổ sung một số điều của Luật Tổ chức Chính phủ và Luật Tổ chức chính quyền địa phương năm 2019, Luật Ban hành văn bản quy phạm pháp luật năm 2015\" tại khoản 2 Điều 5."
+   },
+   {
+    "source_path": "Điều 3 Khoản 9",
+    "action": "bai-bo",
+    "target_document": "18/2021/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 1 Điều 13"
+    ],
+    "doi_tuong": "cụm từ \"Điều 96 Luật Tổ chức chính quyền địa phương năm 2015\"",
+    "evidence": "Bãi bỏ cụm từ \"Điều 96 Luật Tổ chức chính quyền địa phương năm 2015\" tại khoản 1 Điều 13."
+   },
+   {
+    "source_path": "Điều 3 Khoản 10",
+    "action": "bai-bo",
+    "target_document": "18/2021/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 2 Điều 19"
+    ],
+    "doi_tuong": "cụm từ \"khoản 3 Điều 104 Luật Tổ chức chính quyền địa phương năm 2015\"",
+    "evidence": "Bãi bỏ cụm từ \"khoản 3 Điều 104 Luật Tổ chức chính quyền địa phương năm 2015\" tại khoản 2 Điều 19."
+   },
+   {
+    "source_path": "Điều 3 Khoản 11",
+    "action": "bai-bo",
+    "target_document": "18/2021/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 1 Điều 23"
+    ],
+    "doi_tuong": "cụm từ \"Luật Tổ chức chính quyền địa phương năm 2015, Luật sửa đổi, bổ sung một số điều của Luật Tổ chức Chính phủ và Luật Tổ chức chính quyền địa phương năm 2019\"",
+    "evidence": "Bãi bỏ cụm từ \"Luật Tổ chức chính quyền địa phương năm 2015, Luật sửa đổi, bổ sung một số điều của Luật Tổ chức Chính phủ và Luật Tổ chức chính quyền địa phương năm 2019\" tại khoản 1 Điều 23."
+   },
+   {
+    "source_path": "Điều 3 Khoản 12",
+    "action": "bai-bo",
+    "target_document": "18/2021/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 4 Điều 27"
+    ],
+    "doi_tuong": "cụm từ \"Điều 96 Luật Tổ chức chính quyền địa phương năm 2015 và\"",
+    "evidence": "Bãi bỏ cụm từ \"Điều 96 Luật Tổ chức chính quyền địa phương năm 2015 và\" tại khoản 4 Điều 27."
+   },
+   {
+    "source_path": "Điều 3 Khoản 13",
+    "action": "bai-bo",
+    "target_document": "18/2021/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 1 Điều 11",
+     "khoản 1 Điều 26"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ khoản 1 Điều 11; khoản 1 Điều 26."
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 2 Khoản 3",
+    "loai": "nhan_sai_dieu",
+    "ghi_chu": "Khoản 3, 4 trong don_vi là khoản 3, 4 của Điều 2 mới trong ngoặc kép."
+   },
+   {
+    "source_path": "Điều 2 Khoản 4",
+    "loai": "gop_sai",
+    "ghi_chu": "Khoản 3 thật (Bổ sung Điều 4a) và khoản 4 thật (Sửa đổi Điều 16) bị gộp vào đơn vị Điều 2 Khoản 4; source_path ghi theo toàn văn."
+   }
+  ],
+  "ghi_chu": "Tên văn bản và lời dẫn nêu cả sửa đổi, bổ sung Nghị quyết 18/2021 và Quy chế kèm theo: ghi Phần đầu cho cả hai phần. Bỏ cụm từ ghi bai-bo kèm doi_tuong."
+ },
+ {
+  "doc_id": "656089",
+  "relations": [
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bai-bo",
+    "target_document": "03/2010/TTLT-BYT-BCA",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thông tư liên tịch số 03/2010/TTLT-BYT-BCA ngày 20 tháng 01 năm 2010 của Bộ Y tế và Bộ Công an quy định việc cấp, phát, quản lý và sử dụng Thẻ nhân viên tiếp cận cộng đồng tham gia thực hiện các biện pháp can thiệp giảm tác hại trong dự phòng lây nhiễm HIV."
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "04/2019/TT-BYT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thông tư số 04/2019/TT-BYT ngày 28 tháng 3 năm 2019 của Bộ trưởng Bộ Y tế về việc quy định việc phân cấp thẩm quyền cấp, điều chỉnh, thu hồi giấy chứng nhận đủ điều kiện xét nghiệm khẳng định các trường hợp HIV dương tính và đình chỉ hoạt động xét nghiệm khẳng định các trường hợp HIV dương tính."
+   },
+   {
+    "source_path": "Điều 2 Khoản 1",
+    "action": "bai-bo",
+    "target_document": "06/2012/TT-BYT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 1 Điều 1",
+     "Điều 3",
+     "Điều 4"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ điểm a khoản 1 Điều 1, Điều 3 và Điều 4 của Thông tư số 06/2012/TT-BYT ngày 20 tháng 4 năm 2012 của Bộ trưởng Bộ Y tế quy định về điều kiện thành lập và nội dung hoạt động đối với tổ chức tư vấn về phòng, chống HIV/AIDS."
+   },
+   {
+    "source_path": "Điều 2 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "01/2015/TT-BYT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 6",
+     "khoản 1 Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ Điều 6, khoản 1 Điều 7 của Thông tư số 01/2015/TT-BYT ngày 27 tháng 02 năm 2015 của Bộ trưởng Bộ Y tế hướng dẫn tư vấn phòng, chống HIV/AIDS tại cơ sở y tế."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Chữ hành động 'Bãi bỏ toàn bộ 02 văn bản' ở tên Điều 1; khoản 1, 2 Điều 1 chỉ liệt kê văn bản. Tên văn bản không nêu số hiệu đích."
+ },
+ {
+  "doc_id": "657150",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Nghị quyết điều chỉnh, bổ sung dự toán ngân sách 2025 nhưng không nêu văn bản đích (số hiệu) bị điều chỉnh: không ghi quan hệ."
+ },
+ {
+  "doc_id": "657314",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "13/2019/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA NGHỊ QUYẾT SỐ 13/2019/NQ-HĐND NGÀY 06 THÁNG 12 NĂM 2019 CỦA HỘI ĐỒNG NHÂN DÂN TỈNH SÓC TRĂNG THÔNG QUA BẢNG GIÁ CÁC LOẠI ĐẤT TRÊN ĐỊA BÀN TỈNH SÓC TRĂNG GIAI ĐOẠN 2020 - 2024 ĐÃ ĐƯỢC SỬA ĐỔI, BỔ SUNG TẠI NGHỊ QUYẾT SỐ 08/2023/NQ-HĐND NGÀY 17 THÁNG 10 NĂM 2023 CỦA HỘI ĐỒNG NHÂN DÂN TỈNH SÓC TRĂNG"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "13/2019/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA NGHỊ QUYẾT SỐ 13/2019/NQ-HĐND NGÀY 06 THÁNG 12 NĂM 2019 CỦA HỘI ĐỒNG NHÂN DÂN TỈNH SÓC TRĂNG THÔNG QUA BẢNG GIÁ CÁC LOẠI ĐẤT TRÊN ĐỊA BÀN TỈNH SÓC TRĂNG GIAI ĐOẠN 2020 - 2024 ĐÃ ĐƯỢC SỬA ĐỔI, BỔ SUNG TẠI NGHỊ QUYẾT SỐ 08/2023/NQ-HĐND NGÀY 17 THÁNG 10 NĂM 2023 CỦA HỘI ĐỒNG NHÂN DÂN TỈNH SÓC TRĂNG"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "13/2019/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 5 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 5 Điều 1 Nghị quyết số 13/2019/NQ-HĐND ngày 06 tháng 12 năm 2019, như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "13/2019/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 5 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 5 Điều 1 Nghị quyết số 13/2019/NQ-HĐND ngày 06 tháng 12 năm 2019, như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2 điểm a",
+    "action": "bo-sung",
+    "target_document": "13/2019/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục 1"
+    ],
+    "doi_tuong": "Bảng giá đất ở",
+    "evidence": "Bổ sung giá đất ở một số tuyến đường và khu tái định cư mới hoàn chỉnh hạ tầng."
+   },
+   {
+    "source_path": "Điều 1 Khoản 2 điểm b",
+    "action": "sua-doi",
+    "target_document": "13/2019/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục 1"
+    ],
+    "doi_tuong": "giá đất ở của Tuyến tránh Quốc lộ 60",
+    "evidence": "Sửa đổi giá đất ở của Tuyến tránh Quốc lộ 60 trên địa bàn thành phố Sóc Trăng và huyện Châu Thành."
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "sua-doi",
+    "target_document": "13/2019/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 7 Phụ lục 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 7 Phụ lục 5 Nghị quyết số 13/2019/NQ-HĐND ngày 06 tháng 12 năm 2019, như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "bo-sung",
+    "target_document": "13/2019/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 7 Phụ lục 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 7 Phụ lục 5 Nghị quyết số 13/2019/NQ-HĐND ngày 06 tháng 12 năm 2019, như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 4",
+    "action": "sua-doi",
+    "target_document": "13/2019/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 2 Phụ lục 6"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 Phụ lục 6 Nghị quyết số 13/2019/NQ-HĐND ngày 06 tháng 12 năm 2019 được sửa đổi, bổ sung tại khoản 7 Điều 1 Nghị quyết số 08/2023/NQ-HĐND ngày 17 tháng 10 năm 2023, như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 4",
+    "action": "bo-sung",
+    "target_document": "13/2019/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 2 Phụ lục 6"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 Phụ lục 6 Nghị quyết số 13/2019/NQ-HĐND ngày 06 tháng 12 năm 2019 được sửa đổi, bổ sung tại khoản 7 Điều 1 Nghị quyết số 08/2023/NQ-HĐND ngày 17 tháng 10 năm 2023, như sau:"
+   },
+   {
+    "source_path": "Phụ lục 2",
+    "action": "sua-doi",
+    "target_document": "13/2019/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục 1"
+    ],
+    "doi_tuong": "giá đất ở của Tuyến tránh Quốc lộ 60",
+    "evidence": "Phụ lục này sửa đổi giá đất ở của Tuyến tránh Quốc lộ 60 trên địa bàn thành phố Sóc Trăng và huyện Châu Thành tại Phụ lục 1 (số thứ tự 102 Phần A; số thứ tự 5, Mục III và số thứ tự 5, Mục VIII Phần D) Bảng giá đất ở trên địa bàn tỉnh Sóc Trăng ban hành kèm theo Nghị quyết số 13/2019/NQ-HĐND ngày 06 tháng 12 năm 2019"
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Phụ lục 2",
+    "loai": "thieu_noi_dung",
+    "ghi_chu": "Đoạn văn đầu Phụ lục 2 nêu hành động sửa đổi Phụ lục 1 của Nghị quyết 13/2019 nhưng không có trong don_vi."
+   }
+  ],
+  "ghi_chu": "Nghị quyết 08/2023/NQ-HĐND chỉ được nêu là văn bản đã sửa đổi trước đó (lịch sử), không ghi là đích. Câu dẫn khoản 2 (Sửa đổi, bổ sung Phụ lục 1) thể hiện qua điểm a (bổ sung) và điểm b (sửa đổi)."
+ },
+ {
+  "doc_id": "658592",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quyết định áp dụng định mức theo Quyết định 2133/QĐ-BTTTT; hiệu lực gắn với Quyết định 468/QĐ-TTg. Không có hành động lên văn bản khác."
+ },
+ {
+  "doc_id": "658618",
+  "relations": [
+   {
+    "source_path": "Điều 3",
+    "action": "thay-the",
+    "target_document": "229/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực kể từ ngày ký và thay thế Quyết định số 229/QĐ-UBND ngày 12 tháng 01 năm 2024 của UBND thành phố Hà Nội về việc ủy quyền cho Sở Công Thương Hà Nội giải quyết thủ tục hành chính trong lĩnh vực Điện lực thuộc thẩm quyền giải quyết của Ủy ban nhân dân thành phố Hà Nội."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Câu 'Danh mục các thủ tục hành chính được ủy quyền đã công bố tại ... Quyết định số 257/QĐ-TTPVHCC ... 572/QĐ-TTPVHCC' chỉ dẫn chiếu, không phải quan hệ."
+ },
+ {
+  "doc_id": "661693",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "732/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực thi hành kể từ ngày ký, thay thế các Quyết định số 732/QĐ-UBND ngày 11 tháng 3 năm 2020 của Chủ tịch UBND tỉnh về việc phê duyệt quy trình điện tử thực hiện thủ tục hành chính thuộc thẩm quyền giải quyết của Sở Khoa học và Công nghệ tỉnh Đồng Nai"
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "105/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 105/QĐ-UBND ngày 13 tháng 01 năm 2020"
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "2661/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 2661/QĐ-UBND ngày 05 tháng 8 năm 2021"
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "1622/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 1622/QĐ-UBND ngày 23 tháng 6 năm 2022"
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "2139/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 2139/QĐ-UBND ngày 17 tháng 8 năm 2022"
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "1135/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 1135/QĐ-UBND ngày 18 tháng 5 năm 2023"
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "1822/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 1822/QĐ-UBND ngày 02 tháng 8 năm 2023"
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "3029/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 3029/QĐ-UBND ngày 27 tháng 11 năm 2023"
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "545/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 545/QĐ-UBND ngày 08 tháng 3 năm 2024"
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "865/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 865/QĐ-UBND ngày 02 tháng 4 năm 2024"
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "3805/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 3805/QĐ-UBND ngày 11 tháng 12 năm 2024"
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "366/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 366/QĐ-UBND ngày 04 tháng 02 năm 2025 của Chủ tịch UBND tỉnh Đồng Nai"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Một câu thay thế 12 quyết định: mỗi quyết định một quan hệ."
+ },
+ {
+  "doc_id": "662231",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "01/2022/TT-BTNMT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA THÔNG TƯ SỐ 01/2022/TT-BTNMT NGÀY 07 THÁNG 01 NĂM 2022 CỦA BỘ TRƯỞNG BỘ TÀI NGUYÊN VÀ MÔI TRƯỜNG QUY ĐỊNH CHI TIẾT THI HÀNH LUẬT BẢO VỆ MÔI TRƯỜNG VỀ ỨNG PHÓ VỚI BIẾN ĐỔI KHÍ HẬU"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "01/2022/TT-BTNMT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA THÔNG TƯ SỐ 01/2022/TT-BTNMT NGÀY 07 THÁNG 01 NĂM 2022 CỦA BỘ TRƯỞNG BỘ TÀI NGUYÊN VÀ MÔI TRƯỜNG QUY ĐỊNH CHI TIẾT THI HÀNH LUẬT BẢO VỆ MÔI TRƯỜNG VỀ ỨNG PHÓ VỚI BIẾN ĐỔI KHÍ HẬU"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "01/2022/TT-BTNMT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi Điều 1 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "01/2022/TT-BTNMT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 9"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi Điều 9 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "sua-doi",
+    "target_document": "01/2022/TT-BTNMT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 10"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi Điều 10 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 4",
+    "action": "sua-doi",
+    "target_document": "01/2022/TT-BTNMT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 11"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi Điều 11 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 5",
+    "action": "sua-doi",
+    "target_document": "01/2022/TT-BTNMT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 12"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi Điều 12 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 6",
+    "action": "sua-doi",
+    "target_document": "01/2022/TT-BTNMT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 13"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi Điều 13 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 7",
+    "action": "sua-doi",
+    "target_document": "01/2022/TT-BTNMT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 16"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi Điều 16 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 8",
+    "action": "sua-doi",
+    "target_document": "01/2022/TT-BTNMT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 17"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi Điều 17 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 9",
+    "action": "sua-doi",
+    "target_document": "01/2022/TT-BTNMT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 18"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi Điều 18 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 10",
+    "action": "bai-bo",
+    "target_document": "01/2022/TT-BTNMT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục II Phụ lục I.1",
+     "Mục III Phụ lục I.1",
+     "Mục IV Phụ lục I.1"
+    ],
+    "doi_tuong": "từ “huyện”",
+    "evidence": "Bỏ từ “huyện” tại mục II, mục III và mục IV của Phụ lục I.1 ban hành kèm theo Thông tư số 01/2022/TT-BTNMT."
+   },
+   {
+    "source_path": "Điều 1 Khoản 11",
+    "action": "bai-bo",
+    "target_document": "01/2022/TT-BTNMT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục II Phụ lục I.1"
+    ],
+    "doi_tuong": "cụm từ “Ví dụ, yêu cầu đánh giá rủi ro chi tiết đến cấp huyện, thì các chỉ số thành phần của hiểm họa tương ứng phải chi tiết đến cấp huyện”",
+    "evidence": "Bỏ cụm từ “Ví dụ, yêu cầu đánh giá rủi ro chi tiết đến cấp huyện, thì các chỉ số thành phần của hiểm họa tương ứng phải chi tiết đến cấp huyện” tại mục II của Phụ lục I.1 ban hành kèm theo Thông tư số 01/2022/TT-BTNMT."
+   },
+   {
+    "source_path": "Điều 1 Khoản 12",
+    "action": "thay-cum-tu",
+    "target_document": "01/2022/TT-BTNMT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 5",
+     "khoản 3 Điều 7",
+     "khoản 2 Điều 21"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Bộ Tài nguyên và Môi trường” bằng cụm từ “Bộ Nông nghiệp và Môi trường” tại khoản 1 Điều 5, khoản 3 Điều 7, khoản 2 Điều 21, mục II của Phụ lục I.2 ban hành kèm theo Thông tư số 01/2022/TT-BTNMT"
+   },
+   {
+    "source_path": "Điều 1 Khoản 12",
+    "action": "thay-cum-tu",
+    "target_document": "01/2022/TT-BTNMT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục II Phụ lục I.2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Bộ Tài nguyên và Môi trường” bằng cụm từ “Bộ Nông nghiệp và Môi trường” tại khoản 1 Điều 5, khoản 3 Điều 7, khoản 2 Điều 21, mục II của Phụ lục I.2 ban hành kèm theo Thông tư số 01/2022/TT-BTNMT"
+   },
+   {
+    "source_path": "Điều 1 Khoản 12",
+    "action": "thay-cum-tu",
+    "target_document": "01/2022/TT-BTNMT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục II Phụ lục I.2",
+     "Phụ lục III.2"
+    ],
+    "doi_tuong": null,
+    "evidence": "cụm từ “Bộ Nông nghiệp và Phát triển nông thôn” bằng cụm từ “Bộ Nông nghiệp và Môi trường” tại mục II của Phụ lục I.2 và Phụ lục III.2 ban hành kèm theo Thông tư số 01/2022/TT-BTNMT"
+   },
+   {
+    "source_path": "Điều 1 Khoản 12",
+    "action": "thay-cum-tu",
+    "target_document": "01/2022/TT-BTNMT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục II Phụ lục I.2"
+    ],
+    "doi_tuong": null,
+    "evidence": "cụm từ “Bộ Giao thông vận tải” bằng cụm từ “Bộ Xây dựng” mục II của Phụ lục I.2 ban hành kèm theo Thông tư số 01/2022/TT-BTNMT."
+   },
+   {
+    "source_path": "Điều 2 Khoản 1",
+    "action": "bai-bo",
+    "target_document": "01/2022/TT-BTNMT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 14"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ Điều 14."
+   },
+   {
+    "source_path": "Điều 2 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "01/2022/TT-BTNMT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 15",
+     "khoản 4 Điều 15"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ khoản 1 và khoản 4 Điều 15."
+   },
+   {
+    "source_path": "Điều 2 Khoản 3",
+    "action": "bai-bo",
+    "target_document": "01/2022/TT-BTNMT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục II"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ Phụ lục II."
+   },
+   {
+    "source_path": "Điều 2 Khoản 4",
+    "action": "bai-bo",
+    "target_document": "01/2022/TT-BTNMT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục III.1",
+     "Phụ lục III.4"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ Phụ lục III.1 và Phụ lục III.4 của Phụ lục III."
+   },
+   {
+    "source_path": "Điều 4 Khoản 2 điểm a",
+    "action": "bai-bo",
+    "target_document": "07/2025/TT-BNNMT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Điều 3 Thông tư số 07/2025/TT-BNNMT ngày 16 tháng 6 năm 2025 của Bộ trưởng Bộ Nông nghiệp và Môi trường quy định phân cấp, phân định thẩm quyền quản lý nhà nước trong lĩnh vực môi trường và biến đổi khí hậu;"
+   },
+   {
+    "source_path": "Điều 4 Khoản 2 điểm b",
+    "action": "bai-bo",
+    "target_document": "38/2024/TT-BTNMT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thông tư số 38/2024/TT-BTNMT ngày 25 tháng 12 năm 2024 của Bộ trưởng Bộ Tài nguyên và Môi trường ngưng hiệu lực thi hành khoản 1 và khoản 4 Điều 15 Thông tư số 01/2022/TT -BTNMT;"
+   },
+   {
+    "source_path": "Điều 4 Khoản 2 điểm c",
+    "action": "bai-bo",
+    "target_document": "19/2023/TT-BTNMT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Khoản 2 Điều 1 Thông tư số 19/2023/TT-BTNMT ngày 15 tháng 11 năm 2023 của Bộ trưởng Bộ Tài nguyên và Môi trường sửa đổi và bãi bỏ một số thông tư thuộc thẩm quyền ban hành của Bộ trưởng Bộ Tài nguyên và Môi trường."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Khoản 12 Điều 1 thay 3 cụm từ khác nhau: tách theo cụm từ; cụm từ thứ nhất tách thêm phần Điều (quyet_dinh) và phần Phụ lục (kem_theo). Điều 4 khoản 2 tự tuyên bố các văn bản, quy định hết hiệu lực: bai-bo. Điều 3 là quy định chuyển tiếp."
+ },
+ {
+  "doc_id": "662244",
+  "relations": [
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "06/2020/TT-BTNMT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm 2.2 Phụ lục G"
+    ],
+    "doi_tuong": "cụm từ “đơn vị”",
+    "evidence": "Bổ sung cụm từ “đơn vị” vào trước cụm từ “hành chính” trong tên các đối tượng địa lý sau: Địa phận hành chính cấp tỉnh mã AD02; Địa phận hành chính cấp xã mã AD03; Đường địa giới hành chính cấp tỉnh mã AD05; Đường địa giới hành chính cấp xã mã AD06; Mốc địa giới hành chính cấp tỉnh mã AD08; Mốc địa giới hành chính cấp xã mã AD09; Địa phận hành chính cấp tỉnh trên biển mã AE02; Địa phận hành chính cấp xã trên biển mã AE03; Đường ranh giới hành chính cấp tỉnh trên biển mã AE05; Đường ranh giới hành chính cấp xã trên biển mã AE06 tại điểm 2.2 Phụ lục G."
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "06/2020/TT-BTNMT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm 2.2 Phụ lục G"
+    ],
+    "doi_tuong": "các nội dung quy định đối với các đối tượng địa lý sau: Địa phận hành chính cấp huyện mã AD01; Đường địa giới hành chính cấp huyện mã AD04; Mốc địa giới hành chính cấp huyện mã AD07; Địa phận hành chính cấp huyện trên biển mã AE01; Đường ranh giới hành chính cấp huyện trên biển mã AE04; Trụ sở UBND cấp Huyện mã CV07",
+    "evidence": "Bãi bỏ các nội dung quy định đối với các đối tượng địa lý sau: Địa phận hành chính cấp huyện mã AD01; Đường địa giới hành chính cấp huyện mã AD04; Mốc địa giới hành chính cấp huyện mã AD07; Địa phận hành chính cấp huyện trên biển mã AE01; Đường ranh giới hành chính cấp huyện trên biển mã AE04; Trụ sở UBND cấp Huyện mã CV07 tại điểm 2.2 Phụ lục G."
+   },
+   {
+    "source_path": "Điều 2 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "08/2023/TT-BTNMT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm 2.1 Phần II",
+     "Phụ lục A",
+     "Phụ lục B",
+     "Phụ lục C",
+     "Phụ lục D",
+     "Phụ lục E"
+    ],
+    "doi_tuong": "cụm từ “đơn vị”",
+    "evidence": "Bổ sung cụm từ “đơn vị” vào trước cụm từ “hành chính” trong tên các đối tượng địa lý sau: Địa phận hành chính cấp tỉnh mã AD02; Địa phận hành chính cấp xã mã AD03; Đường địa giới hành chính cấp tỉnh mã AD05; Đường địa giới hành chính cấp xã mã AD06; Mốc địa giới hành chính cấp tỉnh mã AD08; Mốc địa giới hành chính cấp xã mã AD09; Địa phận hành chính cấp tỉnh trên biển mã AE02; Địa phận hành chính cấp xã trên biển mã AE03; Đường ranh giới hành chính cấp tỉnh trên biển mã AE05; Đường ranh giới hành chính cấp xã trên biển mã AE06 tại điểm 2.1 Phần II, tại Phụ lục A, tại Phụ lục B, tại Phụ lục C, tại Phụ lục D, tại Phụ lục E."
+   },
+   {
+    "source_path": "Điều 2 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "08/2023/TT-BTNMT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm 2.1 Phần II",
+     "Phụ lục A",
+     "Phụ lục B",
+     "Phụ lục D",
+     "Phụ lục E"
+    ],
+    "doi_tuong": "các nội dung quy định đối với các đối tượng địa lý sau: Địa phận hành chính cấp huyện mã AD01; Đường địa giới hành chính cấp huyện mã AD04; Mốc địa giới hành chính cấp huyện mã AD07; Địa phận hành chính cấp huyện trên biển mã AE01; Đường ranh giới hành chính cấp huyện trên biển mã AE04; Trụ sở UBND cấp Huyện mã CV07",
+    "evidence": "Bãi bỏ các nội dung quy định đối với các đối tượng địa lý sau: Địa phận hành chính cấp huyện mã AD01; Đường địa giới hành chính cấp huyện mã AD04; Mốc địa giới hành chính cấp huyện mã AD07; Địa phận hành chính cấp huyện trên biển mã AE01; Đường ranh giới hành chính cấp huyện trên biển mã AE04; Trụ sở UBND cấp Huyện mã CV07 tại điểm 2.1 Phần II, tại Phụ lục A, tại Phụ lục B, tại Phụ lục D, tại Phụ lục E."
+   },
+   {
+    "source_path": "Điều 3 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "21/2023/TT-BTNMT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm 2.1 Phần II",
+     "Phụ lục A",
+     "Phụ lục B",
+     "Phụ lục C",
+     "Phụ lục D",
+     "Phụ lục E"
+    ],
+    "doi_tuong": "cụm từ “đơn vị”",
+    "evidence": "Bổ sung cụm từ “đơn vị” vào trước cụm từ “hành chính” trong tên các đối tượng địa lý sau: Địa phận hành chính cấp tỉnh mã AD02; Đường địa giới hành chính cấp tỉnh mã AD05; Địa phận hành chính cấp tỉnh trên biển mã AE02; Đường ranh giới hành chính cấp tỉnh trên biển mã AE05; tại điểm 2.1 Phần II, tại Phụ lục A, tại Phụ lục B, tại Phụ lục C, tại Phụ lục D, tại Phụ lục E."
+   },
+   {
+    "source_path": "Điều 3 Khoản 2",
+    "action": "thay-cum-tu",
+    "target_document": "21/2023/TT-BTNMT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm 2.1 Phần II",
+     "Phụ lục A",
+     "Phụ lục B",
+     "Phụ lục D",
+     "Phụ lục E"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế các đối tượng địa lý sau: Địa phận hành chính cấp huyện mã AD01 bằng Địa phận đơn vị hành chính cấp xã mã AD03; Đường địa giới hành chính cấp huyện mã AD04 bằng Đường địa giới đơn vị hành chính cấp xã mã AD06; Địa phận hành chính cấp huyện trên biển mã AE01 bằng Địa phận đơn vị hành chính cấp xã trên biển mã AE03; Đường ranh giới hành chính cấp huyện trên biển mã AE04 bằng Đường ranh giới hành chính cấp xã trên biển mã AE06 tại điểm 2.1 Phần II, tại Phụ lục A, tại Phụ lục B, tại Phụ lục D, tại Phụ lục E."
+   },
+   {
+    "source_path": "Điều 3 Khoản 3",
+    "action": "bai-bo",
+    "target_document": "21/2023/TT-BTNMT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm 2.1 Phần II",
+     "Phụ lục A",
+     "Phụ lục B",
+     "Phụ lục D",
+     "Phụ lục E"
+    ],
+    "doi_tuong": "đối tượng địa lý “Trụ sở UBND cấp Huyện mã CV07”",
+    "evidence": "Bỏ đối tượng địa lý “Trụ sở UBND cấp Huyện mã CV07” tại điểm 2.1 Phần II, tại Phụ lục A, tại Phụ lục B, tại Phụ lục D, tại Phụ lục E."
+   },
+   {
+    "source_path": "Điều 4 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "03/2023/TT-BTNMT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm 2.3.6 Phần II"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi đoạn a điểm 2.3.6 phần II như sau:"
+   },
+   {
+    "source_path": "Điều 4 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "03/2023/TT-BTNMT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm 2.3.6 Phần II"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi đoạn c điểm 2.3.6 phần II như sau:"
+   },
+   {
+    "source_path": "Điều 4 Khoản 3",
+    "action": "thay-cum-tu",
+    "target_document": "03/2023/TT-BTNMT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm 2.3.1 Phần II",
+     "điểm 2.3.3 Phần II",
+     "điểm 2.3.5 Phần II",
+     "điểm 2.8.3 Phần II",
+     "điểm 2.9.7 Phần II"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “địa giới hành chính” bằng cụm từ “địa giới đơn vị hành chính” tại điểm 2.3.1, điểm 2.3.3, điểm 2.3.5, điểm 2.8.3, điểm 2.9.7 phần II."
+   },
+   {
+    "source_path": "Điều 4 Khoản 4",
+    "action": "thay-cum-tu",
+    "target_document": "03/2023/TT-BTNMT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm 2.4.1 Phần II"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “cấp huyện” bằng cụm từ “cấp xã” tại đoạn d điểm 2.4.1 phần II."
+   },
+   {
+    "source_path": "Điều 4 Khoản 5",
+    "action": "thay-cum-tu",
+    "target_document": "03/2023/TT-BTNMT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục B"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế một số tên ký hiệu sau: “Đường địa giới hành chính cấp tỉnh” bằng “ Đường địa giới đơn vị hành chính cấp tỉnh”, “Đường địa giới hành chính cấp huyện” bằng “Đường địa giới đơn vị hành chính cấp xã”, “Đường ranh giới hành chính cấp tỉnh trên biển” bằng “ Đường ranh giới đơn vị hành chính cấp tỉnh trên biển”, “Đường ranh giới hành chính cấp huyện trên biển” bằng “Đường ranh giới đơn vị hành chính cấp xã trên biển”, “Tên xã, phường” bằng “Tên xã”, “Tên thị trấn” bằng “Tên phường, đặc khu” tại Phụ lục B."
+   },
+   {
+    "source_path": "Điều 4 Khoản 6",
+    "action": "bai-bo",
+    "target_document": "03/2023/TT-BTNMT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục B"
+    ],
+    "doi_tuong": "tên ký hiệu “Đường địa giới hành chính cấp xã”, “Đường ranh giới hành chính cấp xã trên biển”, “Ủy ban nhân dân cấp huyện”, “Tên quận, huyện”, “Tên thị xã” và ký hiệu kèm theo",
+    "evidence": "Bỏ tên ký hiệu “Đường địa giới hành chính cấp xã”, “Đường ranh giới hành chính cấp xã trên biển”, “Ủy ban nhân dân cấp huyện”, “Tên quận, huyện”, “Tên thị xã” và ký hiệu kèm theo tại Phụ lục B."
+   },
+   {
+    "source_path": "Điều 4 Khoản 7",
+    "action": "bai-bo",
+    "target_document": "03/2023/TT-BTNMT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục C"
+    ],
+    "doi_tuong": "các danh từ chung và chữ viết tắt sau: “Thị xã”, “Quận”, “Huyện”, “Thị trấn”",
+    "evidence": "Bỏ các danh từ chung và chữ viết tắt sau: “Thị xã”, “Quận”, “Huyện”, “Thị trấn” tại Phụ lục C."
+   },
+   {
+    "source_path": "Điều 4 Khoản 8",
+    "action": "bai-bo",
+    "target_document": "03/2023/TT-BTNMT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục D"
+    ],
+    "doi_tuong": "các cụm từ sau: “Tên huyện góc khung”, “Tên huyện tiếp biên”",
+    "evidence": "Bỏ các cụm từ sau: “Tên huyện góc khung”, “Tên huyện tiếp biên”. tại Phụ lục D."
+   },
+   {
+    "source_path": "Điều 4 Khoản 9",
+    "action": "bai-bo",
+    "target_document": "03/2023/TT-BTNMT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm 2.3.6 Phần II"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ đoạn b điểm 2.3.6 phần II."
+   },
+   {
+    "source_path": "Điều 5 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "06/2022/TT-BTNMT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm 2.4.3 Phần II"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi điểm 2.4.3 phần II như sau:"
+   },
+   {
+    "source_path": "Điều 5 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "06/2022/TT-BTNMT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm 2.4.7 Phần II"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi đoạn a điểm 2.4.7 phần II như sau:"
+   },
+   {
+    "source_path": "Điều 5 Khoản 3",
+    "action": "sua-doi",
+    "target_document": "06/2022/TT-BTNMT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm 2.4.7 Phần II"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi đoạn c điểm 2.4.7 phần II như sau:"
+   },
+   {
+    "source_path": "Điều 5 Khoản 4",
+    "action": "sua-doi",
+    "target_document": "06/2022/TT-BTNMT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm 2.4.7 Phần II"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi đoạn đ điểm 2.4.7 phần II như sau:"
+   },
+   {
+    "source_path": "Điều 5 Khoản 5",
+    "action": "thay-cum-tu",
+    "target_document": "06/2022/TT-BTNMT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục B"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế một số tên ký hiệu sau: “Đường địa giới hành chính cấp tỉnh” bằng “ Đường địa giới đơn vị hành chính cấp tỉnh”, “Đường địa giới hành chính cấp huyện” bằng “Đường địa giới đơn vị hành chính cấp xã”, “Đường ranh giới hành chính cấp tỉnh trên biển” bằng “ Đường ranh giới đơn vị hành chính cấp tỉnh trên biển”, “Đường ranh giới hành chính cấp huyện trên biển” bằng “Đường ranh giới đơn vị hành chính cấp xã trên biển”, “Tên xã, phường” bằng “Tên xã”, “Tên thị trấn” bằng “Tên phường, đặc khu” tại Phụ lục B."
+   },
+   {
+    "source_path": "Điều 5 Khoản 6",
+    "action": "thay-cum-tu",
+    "target_document": "06/2022/TT-BTNMT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm 2.4.1 Phần II",
+     "điểm 2.4.5 Phần II",
+     "điểm 2.4.6 Phần II",
+     "điểm 2.5.9 Phần II",
+     "điểm 2.7.4 Phần II",
+     "điểm 2.9.7 Phần II"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “địa giới hành chính” bằng cụm từ “địa giới đơn vị hành chính” tại điểm 2.4.1, điểm 2.4.5, điểm 2.4.6, điểm 2.5.9, điểm 2.7.4, điểm 2.9.7 phần II."
+   },
+   {
+    "source_path": "Điều 5 Khoản 7",
+    "action": "bai-bo",
+    "target_document": "06/2022/TT-BTNMT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm 2.3.1 Phần II"
+    ],
+    "doi_tuong": "cụm từ “tên huyện góc khung”",
+    "evidence": "Bỏ cụm từ “tên huyện góc khung” tại đoạn g điểm 2.3.1 phần II."
+   },
+   {
+    "source_path": "Điều 5 Khoản 8",
+    "action": "bai-bo",
+    "target_document": "06/2022/TT-BTNMT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm 2.5.6 Phần II"
+    ],
+    "doi_tuong": "cụm từ “cấp huyện”",
+    "evidence": "Bỏ cụm từ “cấp huyện” tại điểm 2.5.6 phần II."
+   },
+   {
+    "source_path": "Điều 5 Khoản 9",
+    "action": "bai-bo",
+    "target_document": "06/2022/TT-BTNMT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục B"
+    ],
+    "doi_tuong": "tên ký hiệu “Đường địa giới hành chính cấp xã”, “Đường ranh giới hành chính cấp xã trên biển”, “Ủy ban nhân dân cấp huyện”, “Tên quận, huyện”, “Tên thị xã” và ký hiệu kèm theo",
+    "evidence": "Bỏ tên ký hiệu “Đường địa giới hành chính cấp xã”, “Đường ranh giới hành chính cấp xã trên biển”, “Ủy ban nhân dân cấp huyện”, “Tên quận, huyện”, “Tên thị xã” và ký hiệu kèm theo tại Phụ lục B."
+   },
+   {
+    "source_path": "Điều 5 Khoản 10",
+    "action": "bai-bo",
+    "target_document": "06/2022/TT-BTNMT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục C"
+    ],
+    "doi_tuong": "các danh từ chung và chữ viết tắt sau: “Thị xã”, “Quận”, “Huyện”, “Thị trấn”",
+    "evidence": "Bỏ các danh từ chung và chữ viết tắt sau: “Thị xã”, “Quận”, “Huyện”, “Thị trấn” tại Phụ lục C."
+   },
+   {
+    "source_path": "Điều 5 Khoản 11",
+    "action": "bai-bo",
+    "target_document": "06/2022/TT-BTNMT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm 2.4.7 Phần II"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ đoạn b điểm 2.4.7 phần II."
+   },
+   {
+    "source_path": "Điều 6 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "11/2023/TT-BTNMT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm 2.5.8.1 Phần II"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi điểm 2.5.8.1 phần II như sau:"
+   },
+   {
+    "source_path": "Điều 6 Khoản 2",
+    "action": "thay-cum-tu",
+    "target_document": "11/2023/TT-BTNMT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm 2.3.1 Phần II"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “cấp huyện” bằng cụm từ “cấp xã” tại điểm 2.3.1 phần II."
+   },
+   {
+    "source_path": "Điều 6 Khoản 3",
+    "action": "thay-cum-tu",
+    "target_document": "11/2023/TT-BTNMT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm 2.3.1 Phần II",
+     "điểm 2.3.3 Phần II",
+     "điểm 2.3.5 Phần II",
+     "điểm 2.5.4 Phần II",
+     "điểm 2.9.8.1 Phần II"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “địa giới hành chính” bằng cụm từ “địa giới đơn vị hành chính” tại điểm 2.3.1, điểm 2.3.3, điểm 2.3.5, điểm 2.5.4, điểm 2.9.8.1 phần II."
+   },
+   {
+    "source_path": "Điều 6 Khoản 4",
+    "action": "thay-cum-tu",
+    "target_document": "11/2023/TT-BTNMT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục B"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế một số tên ký hiệu sau: “Đường địa giới hành chính cấp tỉnh” thành “Đường địa giới đơn vị hành chính cấp tỉnh”, “Đường địa giới hành chính cấp huyện” thành “Đường địa giới đơn vị hành chính cấp xã”, “Đường ranh giới hành chính cấp tỉnh trên biển” thành “Đường ranh giới đơn vị hành chính cấp tỉnh trên biển”, “Đường ranh giới hành chính cấp huyện trên biển” thành “Đường ranh giới đơn vị hành chính cấp xã trên biển” tại Phụ lục B."
+   },
+   {
+    "source_path": "Điều 6 Khoản 5",
+    "action": "thay-cum-tu",
+    "target_document": "11/2023/TT-BTNMT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục B"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế tên ký hiệu “Tên thị trấn” bằng “Tên xã, phường, đặc khu” tại Phụ lục B."
+   },
+   {
+    "source_path": "Điều 6 Khoản 6",
+    "action": "thay-cum-tu",
+    "target_document": "11/2023/TT-BTNMT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục B"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Tên huyện” trong tên ký hiệu “Ghi chú đầu đường địa giới” bằng cụm từ “Tên xã, phường, đặc khu” tại Phụ lục B."
+   },
+   {
+    "source_path": "Điều 6 Khoản 7",
+    "action": "bai-bo",
+    "target_document": "11/2023/TT-BTNMT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục B"
+    ],
+    "doi_tuong": "tên ký hiệu và ký hiệu kèm theo của các ký hiệu sau: “Tên huyện lỵ trùng tên huyện”, “Tên huyện lỵ khác tên huyện”",
+    "evidence": "Bỏ tên ký hiệu và ký hiệu kèm theo của các ký hiệu sau: “Tên huyện lỵ trùng tên huyện”, “Tên huyện lỵ khác tên huyện” tại Phụ lục B."
+   },
+   {
+    "source_path": "Điều 6 Khoản 8",
+    "action": "bai-bo",
+    "target_document": "11/2023/TT-BTNMT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục C"
+    ],
+    "doi_tuong": "các danh từ chung và chữ viết tắt sau: “Thị xã”, “Quận”, “Huyện”, “Thị trấn”",
+    "evidence": "Bỏ các danh từ chung và chữ viết tắt sau: “Thị xã”, “Quận”, “Huyện”, “Thị trấn” tại Phụ lục C."
+   },
+   {
+    "source_path": "Điều 6 Khoản 9",
+    "action": "bai-bo",
+    "target_document": "11/2023/TT-BTNMT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm 2.5.8.3 Phần II",
+     "điểm 2.5.8.4 Phần II"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ điểm 2.5.8.3, điểm 2.5.8.4 phần II."
+   },
+   {
+    "source_path": "Điều 7 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "17/2023/TT-BTNMT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm 2.5.7.1 Phần II"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi điểm 2.5.7.1 phần II như sau:"
+   },
+   {
+    "source_path": "Điều 7 Khoản 2",
+    "action": "thay-cum-tu",
+    "target_document": "17/2023/TT-BTNMT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm 2.3.1 Phần II",
+     "điểm 2.3.3 Phần II"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “cấp huyện” bằng cụm từ “cấp xã” tại điểm 2.3.1, điểm 2.3.3 phần II."
+   },
+   {
+    "source_path": "Điều 7 Khoản 3",
+    "action": "thay-cum-tu",
+    "target_document": "17/2023/TT-BTNMT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm 2.3.1 Phần II",
+     "điểm 2.3.3 Phần II",
+     "điểm 2.3.5 Phần II",
+     "điểm 2.5.4 Phần II",
+     "điểm 2.9.8.1 Phần II"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “địa giới hành chính” thành cụm từ “địa giới đơn vị hành chính” tại điểm 2.3.1, điểm 2.3.3, điểm 2.3.5, điểm 2.5.4, điểm 2.9.8.1 phần II."
+   },
+   {
+    "source_path": "Điều 7 Khoản 4",
+    "action": "thay-cum-tu",
+    "target_document": "17/2023/TT-BTNMT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục A"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “địa giới hành chính” bằng cụm từ “đường địa giới đơn vị hành chính” tại Phụ lục A."
+   },
+   {
+    "source_path": "Điều 7 Khoản 5",
+    "action": "thay-cum-tu",
+    "target_document": "17/2023/TT-BTNMT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục D",
+     "Phụ lục E"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “đường địa giới hành chính” bằng cụm từ “đường địa giới đơn vị hành chính” tại Phụ lục D, tại Phụ lục E."
+   },
+   {
+    "source_path": "Điều 7 Khoản 6",
+    "action": "thay-cum-tu",
+    "target_document": "17/2023/TT-BTNMT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục B"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế tên ký hiệu của các ký hiệu sau: “Đường địa giới hành chính cấp tỉnh” bằng “Đường địa giới đơn vị hành chính cấp tỉnh”, “Đường địa giới hành chính cấp huyện” bằng “Đường địa giới đơn vị hành chính cấp xã”, “Đường ranh giới hành chính cấp tỉnh trên biển” thành “Đường ranh giới đơn vị hành chính cấp tỉnh trên biển”, “Đường ranh giới hành chính cấp huyện trên biển” thành “Đường ranh giới đơn vị hành chính cấp xã trên biển” tại Phụ lục B."
+   },
+   {
+    "source_path": "Điều 7 Khoản 7",
+    "action": "thay-cum-tu",
+    "target_document": "17/2023/TT-BTNMT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục B"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế tên ký hiệu “Tên thị trấn” bằng “Tên xã, phường, đặc khu” tại Phụ lục B."
+   },
+   {
+    "source_path": "Điều 7 Khoản 8",
+    "action": "thay-cum-tu",
+    "target_document": "17/2023/TT-BTNMT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục B"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Tên huyện” trong tên ký hiệu “Ghi chú đầu đường địa giới” thành “Tên xã, phường, đặc khu” tại Phụ lục B."
+   },
+   {
+    "source_path": "Điều 7 Khoản 9",
+    "action": "bai-bo",
+    "target_document": "17/2023/TT-BTNMT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục B"
+    ],
+    "doi_tuong": "tên ký hiệu và ký hiệu kèm theo của các ký hiệu sau: “Tên huyện lỵ trùng tên huyện”, “Tên huyện lỵ khác tên huyện”",
+    "evidence": "Bỏ tên ký hiệu và ký hiệu kèm theo của các ký hiệu sau: “Tên huyện lỵ trùng tên huyện”, “Tên huyện lỵ khác tên huyện” tại Phụ lục B."
+   },
+   {
+    "source_path": "Điều 7 Khoản 10",
+    "action": "bai-bo",
+    "target_document": "17/2023/TT-BTNMT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục C"
+    ],
+    "doi_tuong": "các danh từ chung và chữ viết tắt sau: “Thị xã”, “Huyện”",
+    "evidence": "Bỏ các danh từ chung và chữ viết tắt sau: “Thị xã”, “Huyện” tại Phụ lục C."
+   },
+   {
+    "source_path": "Điều 7 Khoản 11",
+    "action": "bai-bo",
+    "target_document": "17/2023/TT-BTNMT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm 2.5.7.3 Phần II",
+     "điểm 2.5.7.4 Phần II"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ điểm 2.5.7.3, điểm 2.5.7.4 phần II."
+   },
+   {
+    "source_path": "Điều 8 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "24/2024/TT-BTNMT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục A",
+     "Phụ lục B"
+    ],
+    "doi_tuong": "cụm từ “đơn vị”",
+    "evidence": "Bổ sung cụm từ “đơn vị” vào trước cụm từ “hành chính” trong tên các đối tượng địa lý sau: Địa phận hành chính cấp tỉnh mã AD02; Địa phận hành chính cấp xã mã AD03; Đường địa giới hành chính cấp tỉnh mã AD05; Đường địa giới hành chính cấp xã mã AD06; Đường ranh giới hành chính cấp tỉnh trên biển mã AE05; Đường ranh giới hành chính cấp xã trên biển mã AE06 tại Phụ lục A và Phụ lục B."
+   },
+   {
+    "source_path": "Điều 8 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "24/2024/TT-BTNMT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục A",
+     "Phụ lục B"
+    ],
+    "doi_tuong": "cụm từ “đơn vị hành chính”",
+    "evidence": "Bổ sung cụm từ “đơn vị hành chính” vào sau cụm từ “địa giới” trong tên các đối tượng địa lý sau: Mốc địa giới cấp tỉnh mã AD08, Mốc địa giới cấp xã mã AD09 tại Phụ lục A và Phụ lục B."
+   },
+   {
+    "source_path": "Điều 8 Khoản 3",
+    "action": "bai-bo",
+    "target_document": "24/2024/TT-BTNMT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục A",
+     "Phụ lục B"
+    ],
+    "doi_tuong": "cụm từ “Tên huyện tiếp biên”",
+    "evidence": "Bỏ cụm từ “Tên huyện tiếp biên” tại Phụ lục A và Phụ lục B."
+   },
+   {
+    "source_path": "Điều 8 Khoản 4",
+    "action": "bai-bo",
+    "target_document": "24/2024/TT-BTNMT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục A",
+     "Phụ lục B"
+    ],
+    "doi_tuong": "các nội dung quy định đối với các đối tượng địa lý sau: Địa phận hành chính cấp huyện mã AD01, Đường địa giới hành chính cấp huyện mã AD04, Mốc địa giới hành chính cấp huyện mã AD07, Địa phận hành chính cấp huyện trên biển mã AE01, Đường ranh giới hành chính cấp huyện trên biển mã AE04, Trụ sở UBND cấp Huyện mã CV07",
+    "evidence": "Bãi bỏ các nội dung quy định đối với các đối tượng địa lý sau: Địa phận hành chính cấp huyện mã AD01, Đường địa giới hành chính cấp huyện mã AD04, Mốc địa giới hành chính cấp huyện mã AD07, Địa phận hành chính cấp huyện trên biển mã AE01, Đường ranh giới hành chính cấp huyện trên biển mã AE04, Trụ sở UBND cấp Huyện mã CV07 tại Phụ lục A và Phụ lục B."
+   },
+   {
+    "source_path": "Điều 8 Khoản 5",
+    "action": "bai-bo",
+    "target_document": "24/2024/TT-BTNMT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục D"
+    ],
+    "doi_tuong": "các thông tin siêu dữ liệu là Huyện, Quận",
+    "evidence": "Bãi bỏ các thông tin siêu dữ liệu là Huyện, Quận tại Phụ lục D."
+   },
+   {
+    "source_path": "Điều 9 Khoản 1",
+    "action": "thay-cum-tu",
+    "target_document": "27/2024/TT-BTNMT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục B"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế các cụm từ sau: “DiaPhanHanhChinhTrenDatLien” bằng “DiaPhanDonViHanhChinhTrenDatLien”, “DuongDiaGioiHanhChinh” bằng “DuongDiaGioiDonViHanhChinh”, “MocDiaGioiHanhChinh” bằng “MocDiaGioiDonViHanhChinh”, “DiaPhanHanhChinhTrenBien” bằng “DiaPhanDonViHanhChinhTrenBien”, “DuongRanhGioiHanhChinhTrenBien” bằng “DuongRanhGioiDonViHanhChinhTrenBien” tại Phụ lục B."
+   },
+   {
+    "source_path": "Điều 9 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "27/2024/TT-BTNMT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục D"
+    ],
+    "doi_tuong": "các thông tin siêu dữ liệu là Huyện, Quận",
+    "evidence": "Bãi bỏ các thông tin siêu dữ liệu là Huyện, Quận tại Phụ lục D."
+   },
+   {
+    "source_path": "Điều 10 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "34/2024/TT-BTNMT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục III"
+    ],
+    "doi_tuong": "cụm từ “đơn vị”",
+    "evidence": "Bổ sung cụm từ “đơn vị” vào trước cụm từ “hành chính” trong tên các đối tượng địa lý sau: Đường địa giới hành chính cấp tỉnh mã AD05, Đường địa giới hành chính cấp xã mã AD06, Đường ranh giới hành chính cấp tỉnh trên biển mã AE05, Đường ranh giới hành chính cấp xã trên biển mã AE06 tại Phụ lục III ban hành kèm theo Thông tư số 34/2024/TT-BTNMT."
+   },
+   {
+    "source_path": "Điều 10 Khoản 2",
+    "action": "thay-cum-tu",
+    "target_document": "34/2024/TT-BTNMT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục I"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế các cụm từ sau: “DiaPhanHanhChinhTrenBien” bằng “DiaPhanDonViHanhChinhTrenBien”, “DuongRanhGioiHanhChinhTrenBien” bằng “DuongRanhGioiDonViHanhChinhTrenBien” tại Phụ lục I ban hành kèm theo Thông tư số 34/2024/TT-BTNMT."
+   },
+   {
+    "source_path": "Điều 10 Khoản 3",
+    "action": "thay-cum-tu",
+    "target_document": "34/2024/TT-BTNMT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục III"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế tên các đối tượng sau: “Tên huyện góc khung” bằng “Tên xã, phường, đặc khu; “Tên huyện tiếp biên” bằng “Tên xã, phường tiếp biên” tại Phụ lục III ban hành kèm theo Thông tư số 34/2024/TT-BTNMT."
+   },
+   {
+    "source_path": "Điều 10 Khoản 4",
+    "action": "bai-bo",
+    "target_document": "34/2024/TT-BTNMT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục III"
+    ],
+    "doi_tuong": "các nội dung quy định đối với các đối tượng địa lý sau: Đường địa giới hành chính cấp huyện mã AD04, Đường ranh giới hành chính cấp huyện trên biển mã AE04, Trụ sở UBND cấp Huyện mã CV07",
+    "evidence": "Bãi bỏ các nội dung quy định đối với các đối tượng địa lý sau: Đường địa giới hành chính cấp huyện mã AD04, Đường ranh giới hành chính cấp huyện trên biển mã AE04, Trụ sở UBND cấp Huyện mã CV07 tại Phụ lục III ban hành kèm theo Thông tư số 34/2024/TT-BTNMT."
+   },
+   {
+    "source_path": "Điều 10 Khoản 5",
+    "action": "bai-bo",
+    "target_document": "34/2024/TT-BTNMT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục V"
+    ],
+    "doi_tuong": "các thông tin siêu dữ liệu là Huyện, Quận",
+    "evidence": "Bãi bỏ các thông tin siêu dữ liệu là Huyện, Quận tại Phụ lục V ban hành kèm theo Thông tư số 34/2024/TT-BTNMT."
+   },
+   {
+    "source_path": "Điều 11 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "46/2017/TT-BTNMT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm 3.4.4 khoản 3.4 Điều 3 Phụ lục 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi đoạn c điểm 3.4.4 khoản 3.4 Điều 3 của Phụ lục số 1 như sau:"
+   },
+   {
+    "source_path": "Điều 11 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "46/2017/TT-BTNMT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm 1.4.1 khoản 1.4 Điều 1 Phụ lục 1"
+    ],
+    "doi_tuong": "từ “huyện”",
+    "evidence": "Bỏ từ “huyện” tại đoạn a điểm 1.4.1 khoản 1.4 Điều 1 của Phụ lục số 1."
+   },
+   {
+    "source_path": "Điều 11 Khoản 3",
+    "action": "bai-bo",
+    "target_document": "46/2017/TT-BTNMT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm 3.1.2 khoản 3.1 Điều 3 Phụ lục 1"
+    ],
+    "doi_tuong": "các cụm từ “Đoạn địa giới huyện”, “Đường địa giới huyện”",
+    "evidence": "Bỏ các cụm từ “Đoạn địa giới huyện”, “Đường địa giới huyện” tại điểm 3.1.2 khoản 3.1 Điều 3 của Phụ lục số 1."
+   },
+   {
+    "source_path": "Điều 11 Khoản 4",
+    "action": "bai-bo",
+    "target_document": "46/2017/TT-BTNMT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm 3.1.3 khoản 3.1 Điều 3 Phụ lục 1"
+    ],
+    "doi_tuong": "các cụm từ “Địa phận huyện”, “Hải phận huyện”",
+    "evidence": "Bỏ các cụm từ “Địa phận huyện”, “Hải phận huyện” tại điểm 3.1.3 khoản 3.1 Điều 3 của Phụ lục số 1."
+   },
+   {
+    "source_path": "Điều 11 Khoản 5",
+    "action": "bai-bo",
+    "target_document": "46/2017/TT-BTNMT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm 3.4.1 khoản 3.4 Điều 3 Phụ lục 1"
+    ],
+    "doi_tuong": "cụm từ “toàn huyện”",
+    "evidence": "Bỏ cụm từ “toàn huyện” tại đoạn c điểm 3.4.1 khoản 3.4 Điều 3 của Phụ lục số 1."
+   },
+   {
+    "source_path": "Điều 11 Khoản 6",
+    "action": "bai-bo",
+    "target_document": "46/2017/TT-BTNMT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm 3.4.4 khoản 3.4 Điều 3 Phụ lục 1"
+    ],
+    "doi_tuong": "cụm từ “Đối tượng Mốc địa giới cấp huyện và Đoạn địa giới huyện”",
+    "evidence": "Bỏ cụm từ “Đối tượng Mốc địa giới cấp huyện và Đoạn địa giới huyện” tại đoạn b điểm 3.4.4 khoản 3.4 Điều 3 của Phụ lục số 1."
+   },
+   {
+    "source_path": "Điều 11 Khoản 7",
+    "action": "bai-bo",
+    "target_document": "46/2017/TT-BTNMT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm 1.4.1 khoản 1.4 Điều 1 Phụ lục 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ các nội dung quy định tại đoạn b điểm 1.4.1 khoản 1.4 Điều 1 của Phụ lục số 1."
+   },
+   {
+    "source_path": "Điều 11 Khoản 8",
+    "action": "bai-bo",
+    "target_document": "46/2017/TT-BTNMT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm 3.4.4 khoản 3.4 Điều 3 Phụ lục 1"
+    ],
+    "doi_tuong": "các nội dung về đối tượng “Đoạn địa giới huyện” và “Đường địa giới huyện”",
+    "evidence": "Bãi bỏ các nội dung về đối tượng “Đoạn địa giới huyện” và “Đường địa giới huyện” tại đoạn a điểm 3.4.4 khoản 3.4 Điều 3 của Phụ lục số 1."
+   },
+   {
+    "source_path": "Điều 11 Khoản 9",
+    "action": "bai-bo",
+    "target_document": "46/2017/TT-BTNMT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục 2"
+    ],
+    "doi_tuong": "các nội dung quy định đối với các đối tượng địa lý sau: “Đoạn địa giới huyện” mã AC05, “Đường địa giới huyện” mã AC02, “Địa phận huyện” mã AD02, “Mốc địa giới cấp huyện” mã AG04, “Hải phận huyện” mã AE08",
+    "evidence": "Bãi bỏ các nội dung quy định đối với các đối tượng địa lý sau: “Đoạn địa giới huyện” mã AC05, “Đường địa giới huyện” mã AC02, “Địa phận huyện” mã AD02, “Mốc địa giới cấp huyện” mã AG04, “Hải phận huyện” mã AE08 tại Phụ lục số 2."
+   },
+   {
+    "source_path": "Điều 12 Khoản 1",
+    "action": "thay-cum-tu",
+    "target_document": "23/2011/TT-BTNMT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm 1.2.2 Phần II"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế nội dung “Tổng hợp, lập bảng kết quả chuẩn hóa địa danh trên bản đồ địa hình theo đơn vị hành chính cấp tỉnh từ kết quả chuẩn hóa địa danh cấp huyện theo mẫu quy định tại Phụ lục số 13 ban hành kèm theo Quy chuẩn này;” bằng nội dung “Tổng hợp, lập bảng kết quả chuẩn hóa địa danh trên bản đồ địa hình theo đơn vị hành chính cấp tỉnh từ kết quả chuẩn hóa địa danh cấp xã theo mẫu quy định tại Phụ lục số 13 ban hành kèm theo Quy chuẩn này;” tại đoạn d điểm 1.2.2 Phần II."
+   },
+   {
+    "source_path": "Điều 12 Khoản 2",
+    "action": "thay-cum-tu",
+    "target_document": "23/2011/TT-BTNMT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục 10",
+     "Phụ lục 11"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Xã/Phường/Thị trấn” bằng cụm từ “Xã/Phường/Đặc khu” tại Phụ lục số 10 và Phụ lục số 11."
+   },
+   {
+    "source_path": "Điều 12 Khoản 3",
+    "action": "bai-bo",
+    "target_document": "23/2011/TT-BTNMT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục 10",
+     "Phụ lục 11"
+    ],
+    "doi_tuong": "cụm từ “Huyện/Thành phố, Thị xã/Quận”",
+    "evidence": "Bỏ cụm từ “Huyện/Thành phố, Thị xã/Quận” tại Phụ lục số 10 và Phụ lục số 11."
+   },
+   {
+    "source_path": "Điều 12 Khoản 4",
+    "action": "bai-bo",
+    "target_document": "23/2011/TT-BTNMT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục 13"
+    ],
+    "doi_tuong": "các từ “Huyện”",
+    "evidence": "Bỏ các từ “Huyện” tại Phụ lục số 13."
+   },
+   {
+    "source_path": "Điều 12 Khoản 5",
+    "action": "bai-bo",
+    "target_document": "23/2011/TT-BTNMT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục 15"
+    ],
+    "doi_tuong": "cụm từ “Huyện/quận/thành phố/thị xã” và cụm từ “cấp huyện”",
+    "evidence": "Bỏ cụm từ “Huyện/quận/thành phố/thị xã” và cụm từ “cấp huyện” tại Phụ lục số 15."
+   },
+   {
+    "source_path": "Điều 12 Khoản 6",
+    "action": "bai-bo",
+    "target_document": "23/2011/TT-BTNMT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục 12"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ Phụ lục số 12."
+   },
+   {
+    "source_path": "Điều 12 Khoản 7",
+    "action": "bai-bo",
+    "target_document": "23/2011/TT-BTNMT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm 1.2.2 Phần II"
+    ],
+    "doi_tuong": "nội dung “xác minh địa danh tại đơn vị hành chính cấp huyện”",
+    "evidence": "Bãi bỏ nội dung “xác minh địa danh tại đơn vị hành chính cấp huyện” tại đoạn d điểm 1.2.2 Phần II."
+   },
+   {
+    "source_path": "Điều 13 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "28/2024/TT-BTNMT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm 4.2 Phần I"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi điểm 4.2 Phần I như sau:"
+   },
+   {
+    "source_path": "Điều 13 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "28/2024/TT-BTNMT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm 4.3 Phần I"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi điểm 4.3 phần I như sau:"
+   },
+   {
+    "source_path": "Điều 13 Khoản 3",
+    "action": "sua-doi",
+    "target_document": "28/2024/TT-BTNMT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm 4.2 Mục II.I.I"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi điểm 4.2 Mục II.I.I như sau:"
+   },
+   {
+    "source_path": "Điều 13 Khoản 4",
+    "action": "sua-doi",
+    "target_document": "28/2024/TT-BTNMT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm 4.3 Mục II.I.I"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi điểm 4.3 Mục II.I.I như sau:"
+   },
+   {
+    "source_path": "Điều 13 Khoản 5",
+    "action": "sua-doi",
+    "target_document": "28/2024/TT-BTNMT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm 3.5 Mục II.I.III"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi đoạn b điểm 3.5 Mục II.I.III như sau:"
+   },
+   {
+    "source_path": "Điều 13 Khoản 6",
+    "action": "sua-doi",
+    "target_document": "28/2024/TT-BTNMT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm 5.3 Mục II.I.III"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi điểm 5.3 Mục II.I.III như sau:"
+   },
+   {
+    "source_path": "Điều 13 Khoản 7",
+    "action": "sua-doi",
+    "target_document": "28/2024/TT-BTNMT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm 5.4 Mục II.I.III"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi điểm 5.4 Mục II.I.III như sau:"
+   },
+   {
+    "source_path": "Điều 13 Khoản 8",
+    "action": "thay-cum-tu",
+    "target_document": "28/2024/TT-BTNMT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 1",
+     "Điều 2",
+     "điểm 4.5 Phần I",
+     "điểm 1.3 Mục II.I.I Phần II",
+     "điểm 2.1 Mục II.I.III Phần II",
+     "điểm 2.3 Mục II.I.III Phần II",
+     "điểm 3.1 Mục II.I.III Phần II",
+     "điểm 4.5.3 Mục II.I.III Phần II",
+     "điểm 5.6.4 Mục II.I.III Phần II",
+     "Điều 2 Chương II.II Phần II",
+     "điểm 3.1.2 Mục II.III.I Phần II",
+     "điểm 3.3.2 Mục II.III.I Phần II",
+     "điểm 3.5.2 Mục II.III.I Phần II",
+     "điểm 4.2.3 Mục II.III.I Phần II",
+     "Mục II.III.II",
+     "Điều 1 Phần IV",
+     "Phụ lục C"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “cấp huyện” bằng cụm từ “cấp xã” tại Điều 1; Điều 2; điểm 4.5 Phần I; điểm 1.3 Mục II.I.I Phần II; điểm 2.1, điểm 2.3, điểm 3.1, điểm 4.5.3, điểm 5.6.4 của Mục II.I.III Phần II; Điều 2 Chương II.II Phần II; điểm 3.1.2, điểm 3.3.2, điểm 3.5.2, điểm 4.2.3 của Mục II.III.I Phần II; tại nội dung quy định chung của Mục II.III.II; Điều 1 Phần IV; tại cột nội dung biểu thị của Phụ lục C."
+   },
+   {
+    "source_path": "Điều 13 Khoản 9",
+    "action": "thay-cum-tu",
+    "target_document": "28/2024/TT-BTNMT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm 1.3 Mục II.I.III"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “của huyện” bằng cụm từ “của xã, phường, đặc khu” tại điểm 1.3 Mục II.I.III."
+   },
+   {
+    "source_path": "Điều 13 Khoản 10",
+    "action": "thay-cum-tu",
+    "target_document": "28/2024/TT-BTNMT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm 3.3 Mục II.I.III"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế một số cụm từ tại đoạn a, đoạn b điểm 3.3 Mục II.I.III như sau: “các mốc địa giới hành chính cấp tỉnh, huyện” bằng “các mốc địa giới đơn vị hành chính cấp tỉnh”; “các mốc địa giới hành chính cấp xã” bằng “các mốc địa giới đơn vị hành chính cấp xã”."
+   },
+   {
+    "source_path": "Điều 13 Khoản 11",
+    "action": "thay-cum-tu",
+    "target_document": "28/2024/TT-BTNMT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm 3.3 Mục II.I.III"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “bản đồ hành chính cấp huyện” bằng “bản đồ hành chính cấp xã” tại đoạn b điểm 3.3 Mục II.I.III."
+   },
+   {
+    "source_path": "Điều 13 Khoản 12",
+    "action": "thay-cum-tu",
+    "target_document": "28/2024/TT-BTNMT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm 3.5 Mục II.I.III"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “cấp huyện, cấp xã” bằng cụm từ “cấp xã” tại đoạn a điểm 3.5 Mục II.I.III."
+   },
+   {
+    "source_path": "Điều 13 Khoản 13",
+    "action": "thay-cum-tu",
+    "target_document": "28/2024/TT-BTNMT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm 5.6.2 Mục II.I.III"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế một số cụm từ sau: “cấp huyện” bằng “cấp xã”, “huyện thành lập bản đồ hành chính được thể hiện nổi bật so với các huyện còn lại” bằng “đơn vị hành chính cấp xã thành lập bản đồ hành chính được thể hiện nổi bật so với các đơn vị hành chính cấp xã còn lại” tại điểm 5.6.2 Mục II.I.III."
+   },
+   {
+    "source_path": "Điều 13 Khoản 14",
+    "action": "thay-cum-tu",
+    "target_document": "28/2024/TT-BTNMT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục E"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế tên ký hiệu “Đường địa giới hành chính cấp huyện” bằng “Đường địa giới đơn vị hành chính cấp xã” tại Phụ lục E."
+   },
+   {
+    "source_path": "Điều 13 Khoản 15",
+    "action": "thay-cum-tu",
+    "target_document": "28/2024/TT-BTNMT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục H"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “cấp huyện” thành “cấp xã” tại Phụ lục H."
+   },
+   {
+    "source_path": "Điều 13 Khoản 16",
+    "action": "thay-the",
+    "target_document": "28/2024/TT-BTNMT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục B"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế Phụ lục B bằng Phụ lục kèm theo Thông tư này."
+   },
+   {
+    "source_path": "Điều 13 Khoản 17",
+    "action": "bai-bo",
+    "target_document": "28/2024/TT-BTNMT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm 4.1.8 Mục II.I.II",
+     "điểm 4.3.3 Mục II.I.II"
+    ],
+    "doi_tuong": "cụm từ “cấp huyện”",
+    "evidence": "Bỏ cụm từ “cấp huyện” tại đoạn b điểm 4.1.8 Mục II.I.II, điểm 4.3.3 Mục II.I.II."
+   },
+   {
+    "source_path": "Điều 13 Khoản 18",
+    "action": "bai-bo",
+    "target_document": "28/2024/TT-BTNMT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục A"
+    ],
+    "doi_tuong": "các danh từ chung và chữ viết tắt sau: “Thị xã”, “Quận”, “Huyện”, “Thị trấn”",
+    "evidence": "Bỏ các danh từ chung và chữ viết tắt sau: “Thị xã”, “Quận”, “Huyện”, “Thị trấn” tại Phụ lục A."
+   },
+   {
+    "source_path": "Điều 13 Khoản 19",
+    "action": "bai-bo",
+    "target_document": "28/2024/TT-BTNMT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục E"
+    ],
+    "doi_tuong": "tên ký hiệu và ký hiệu kèm theo của các ký hiệu sau: Đường địa giới đơn vị hành chính cấp xã, Tên thị trấn (trong bản đồ cấp huyện), Ủy ban nhân dân cấp huyện",
+    "evidence": "Bỏ tên ký hiệu và ký hiệu kèm theo của các ký hiệu sau: Đường địa giới đơn vị hành chính cấp xã, Tên thị trấn (trong bản đồ cấp huyện), Ủy ban nhân dân cấp huyện tại Phụ lục E."
+   },
+   {
+    "source_path": "Điều 13 Khoản 20",
+    "action": "bai-bo",
+    "target_document": "28/2024/TT-BTNMT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm 4.4 Mục II.I.I"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ điểm 4.4 Mục II.I.I."
+   },
+   {
+    "source_path": "Điều 13 Khoản 21",
+    "action": "bai-bo",
+    "target_document": "28/2024/TT-BTNMT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm 5.5 Mục II.I.III"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ điểm 5.5 Mục II.I.III."
+   },
+   {
+    "source_path": "Điều 13 Khoản 22",
+    "action": "bai-bo",
+    "target_document": "28/2024/TT-BTNMT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục I"
+    ],
+    "doi_tuong": "các thông tin về siêu dữ liệu là quận, huyện",
+    "evidence": "Bãi bỏ các thông tin về siêu dữ liệu là quận, huyện tại Phụ lục I."
+   },
+   {
+    "source_path": "Điều 14 Khoản 1",
+    "action": "thay-cum-tu",
+    "target_document": "24/2018/TT-BTNMT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục XI.3 Phụ lục 1a"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “cấp huyện” thành “cấp xã” tại mục XI.3 Phụ lục 1a."
+   },
+   {
+    "source_path": "Điều 14 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "24/2018/TT-BTNMT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục X Phụ lục 1a"
+    ],
+    "doi_tuong": "cụm từ “cấp huyện” trong nội dung “Xác minh địa danh tại cấp xã, cấp huyện, tỉnh”",
+    "evidence": "Bỏ cụm từ “cấp huyện” trong nội dung “Xác minh địa danh tại cấp xã, cấp huyện, tỉnh” tại mục X Phụ lục 1a."
+   },
+   {
+    "source_path": "Điều 14 Khoản 3",
+    "action": "bai-bo",
+    "target_document": "24/2018/TT-BTNMT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục XI.2 Phụ lục 1a"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ mục XI.2 về Hồ sơ địa giới hành chính cấp huyện quy định tại Phụ lục 1a."
+   },
+   {
+    "source_path": "Điều 14 Khoản 4",
+    "action": "bai-bo",
+    "target_document": "24/2018/TT-BTNMT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm 2 Mục VII Phụ lục 2"
+    ],
+    "doi_tuong": "nội dung quy định sản phẩm giao nộp là “Kết quả chuẩn hóa địa danh cấp huyện”",
+    "evidence": "Bãi bỏ nội dung quy định sản phẩm giao nộp là “Kết quả chuẩn hóa địa danh cấp huyện” tại điểm 2 mục VII Phụ lục 2."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Mỗi Điều 1-14 tác động lên một Thông tư (QCVN hoặc phụ lục ban hành kèm theo): đích theo tên Điều. 'Bổ sung cụm từ' ghi bo-sung; 'Bỏ/Bãi bỏ cụm từ, tên ký hiệu, nội dung' ghi bai-bo kèm doi_tuong; 'Thay thế tên ký hiệu/đối tượng/nội dung' ghi thay-cum-tu. Vị trí dạng 'đoạn x' dừng ở điểm chứa nó. Thông tư 19/2024/TT-BTNMT ở tên Điều 14 là lịch sử sửa đổi, không ghi. Tên văn bản không nêu số hiệu đích. Phụ lục kinh tuyến trục là nội dung thay Phụ lục B (khoản 16 Điều 13)."
+ },
+ {
+  "doc_id": "662623",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "02/2025/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA QUY ĐỊNH MỨC THU, MIỄN, GIẢM; THU, NỘP, QUẢN LÝ VÀ SỬ DỤNG CÁC LOẠI PHÍ, LỆ PHÍ TRÊN ĐỊA BÀN TỈNH BẮC KẠN BAN HÀNH KÈM THEO NGHỊ QUYẾT SỐ 02/2025/NQ-HĐND NGÀY 03 THÁNG 4 NĂM 2025 CỦA HỘI ĐỒNG NHÂN DÂN TỈNH BẮC KẠN"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "02/2025/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA QUY ĐỊNH MỨC THU, MIỄN, GIẢM; THU, NỘP, QUẢN LÝ VÀ SỬ DỤNG CÁC LOẠI PHÍ, LỆ PHÍ TRÊN ĐỊA BÀN TỈNH BẮC KẠN BAN HÀNH KÈM THEO NGHỊ QUYẾT SỐ 02/2025/NQ-HĐND NGÀY 03 THÁNG 4 NĂM 2025 CỦA HỘI ĐỒNG NHÂN DÂN TỈNH BẮC KẠN"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1 điểm a",
+    "action": "sua-doi",
+    "target_document": "02/2025/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 1 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1 điểm a",
+    "action": "bo-sung",
+    "target_document": "02/2025/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 1 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1 điểm b",
+    "action": "sua-doi",
+    "target_document": "02/2025/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 2 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1 điểm b",
+    "action": "bo-sung",
+    "target_document": "02/2025/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 2 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1 điểm c",
+    "action": "sua-doi",
+    "target_document": "02/2025/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 5 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 5 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1 điểm c",
+    "action": "bo-sung",
+    "target_document": "02/2025/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 5 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 5 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "02/2025/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 5 Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 5 Điều 5 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "02/2025/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 5 Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 5 Điều 5 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3 điểm a",
+    "action": "sua-doi",
+    "target_document": "02/2025/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 1 Điều 8"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung tên của mục I tiết a điểm 1.2 khoản 1 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3 điểm a",
+    "action": "bo-sung",
+    "target_document": "02/2025/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 1 Điều 8"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung tên của mục I tiết a điểm 1.2 khoản 1 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3 điểm b",
+    "action": "sua-doi",
+    "target_document": "02/2025/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 1 Điều 8"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung tên của cột thứ tư tiết c điểm 1.2 khoản 1 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3 điểm b",
+    "action": "bo-sung",
+    "target_document": "02/2025/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 1 Điều 8"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung tên của cột thứ tư tiết c điểm 1.2 khoản 1 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3 điểm c",
+    "action": "sua-doi",
+    "target_document": "02/2025/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm b khoản 5 Điều 8",
+     "điểm c khoản 5 Điều 8"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm b, điểm c khoản 5 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3 điểm c",
+    "action": "bo-sung",
+    "target_document": "02/2025/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm b khoản 5 Điều 8",
+     "điểm c khoản 5 Điều 8"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm b, điểm c khoản 5 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 5",
+    "action": "sua-doi",
+    "target_document": "02/2025/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm c khoản 5 Điều 11"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm c khoản 5 Điều 11 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 5",
+    "action": "bo-sung",
+    "target_document": "02/2025/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm c khoản 5 Điều 11"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm c khoản 5 Điều 11 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 6",
+    "action": "sua-doi",
+    "target_document": "02/2025/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm b khoản 5 Điều 12"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm b khoản 5 Điều 12 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 6",
+    "action": "bo-sung",
+    "target_document": "02/2025/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm b khoản 5 Điều 12"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm b khoản 5 Điều 12 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 7",
+    "action": "sua-doi",
+    "target_document": "02/2025/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm b khoản 5 Điều 13"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm b khoản 5 Điều 13 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 7",
+    "action": "bo-sung",
+    "target_document": "02/2025/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm b khoản 5 Điều 13"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm b khoản 5 Điều 13 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 8 điểm a",
+    "action": "sua-doi",
+    "target_document": "02/2025/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 1 Điều 15"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 8 điểm a",
+    "action": "bo-sung",
+    "target_document": "02/2025/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 1 Điều 15"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 8 điểm b",
+    "action": "sua-doi",
+    "target_document": "02/2025/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 5 Điều 15"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 5 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 8 điểm b",
+    "action": "bo-sung",
+    "target_document": "02/2025/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 5 Điều 15"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 5 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 9 điểm a",
+    "action": "sua-doi",
+    "target_document": "02/2025/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 1 Điều 17"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung nội dung tại số thứ tự 3, 4 khoản 1 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 9 điểm a",
+    "action": "bo-sung",
+    "target_document": "02/2025/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 1 Điều 17"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung nội dung tại số thứ tự 3, 4 khoản 1 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 9 điểm b",
+    "action": "sua-doi",
+    "target_document": "02/2025/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm b khoản 5 Điều 17",
+     "điểm c khoản 5 Điều 17"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm b, điểm c khoản 5 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 9 điểm b",
+    "action": "bo-sung",
+    "target_document": "02/2025/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm b khoản 5 Điều 17",
+     "điểm c khoản 5 Điều 17"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm b, điểm c khoản 5 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 10",
+    "action": "sua-doi",
+    "target_document": "02/2025/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm b khoản 5 Điều 18"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm b khoản 5 Điều 18 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 10",
+    "action": "bo-sung",
+    "target_document": "02/2025/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm b khoản 5 Điều 18"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm b khoản 5 Điều 18 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 11 điểm a",
+    "action": "sua-doi",
+    "target_document": "02/2025/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm a khoản 1 Điều 19"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm a khoản 1 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 11 điểm a",
+    "action": "bo-sung",
+    "target_document": "02/2025/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm a khoản 1 Điều 19"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm a khoản 1 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 11 điểm b",
+    "action": "sua-doi",
+    "target_document": "02/2025/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm b khoản 5 Điều 19"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm b khoản 5 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 11 điểm b",
+    "action": "bo-sung",
+    "target_document": "02/2025/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm b khoản 5 Điều 19"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm b khoản 5 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 12",
+    "action": "sua-doi",
+    "target_document": "02/2025/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 20"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 20 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 12",
+    "action": "bo-sung",
+    "target_document": "02/2025/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 20"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 20 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 4 điểm a",
+    "action": "bai-bo",
+    "target_document": "02/2025/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 1 Điều 10"
+    ],
+    "doi_tuong": "nội dung tại số thứ tự 3 khoản 1",
+    "evidence": "Bãi bỏ toàn bộ các nội dung tại số thứ tự 3 khoản 1."
+   },
+   {
+    "source_path": "Điều 1 Khoản 4 điểm b",
+    "action": "bai-bo",
+    "target_document": "02/2025/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm b khoản 5 Điều 10"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ điểm b khoản 5."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Câu dẫn các khoản 'Sửa đổi, bổ sung một số khoản của Điều …' thể hiện qua các điểm con. Tên mục, tên cột, tiết trong khoản 1 Điều 8 dừng ở khoản 1 Điều 8; dòng số thứ tự 3, 4 khoản 1 Điều 17 dừng ở khoản 1 Điều 17."
+ }
+]

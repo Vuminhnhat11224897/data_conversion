@@ -1,0 +1,33 @@
+[
+ {
+  "doc_id": "683740",
+  "relations": [
+   {
+    "source_path": "Điều 1",
+    "action": "huong-dan",
+    "target_document": "131/2021/NĐ-CP",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thông tư này hướng dẫn về quy trình công nhận người có công với cách mạng (sau đây viết tắt là người có công); quản lý hồ sơ và thực hiện chế độ ưu đãi người có công thuộc trách nhiệm của Bộ Công an quy định tại Nghị định số 131/2021/NĐ-CP ngày 30 tháng 12 năm 2021 của Chính phủ"
+   },
+   {
+    "source_path": "Điều 26",
+    "action": "bai-bo",
+    "target_document": "14/2023/TT-BCA",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thông tư số 14/2023/TT-BCA ngày 20 tháng 4 năm 2023 của Bộ trưởng Bộ Công an hướng dẫn quy trình công nhận và thực hiện chế độ ưu đãi đối với người có công với cách mạng thuộc trách nhiệm của Bộ Công an hết hiệu lực thi hành kể từ ngày Thông tư này có hiệu lực thi hành."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên văn bản 'hướng dẫn quy trình…' không nêu văn bản đích: không có quan hệ Phần đầu."
+ },
+ {
+  "doc_id": "657153",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Nghị quyết ban hành Kế hoạch hành động; các câu 'rà soát, sửa đổi Luật…, bãi bỏ…' là nhiệm vụ giao các bộ, không phải tác động trực tiếp."
+ }
+]

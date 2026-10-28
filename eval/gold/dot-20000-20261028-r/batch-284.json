@@ -1,0 +1,120 @@
+[
+ {
+  "doc_id": "662526",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quyết định quy định mới; không có tác động lên văn bản khác."
+ },
+ {
+  "doc_id": "662601",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn trả lời doanh nghiệp; việc hết hiệu lực TBXĐTMS 4467/TB-TCHQ là do công văn 7206/CHQ-NVTHQ khác thông báo (kể lại), không phải hành động của văn bản này."
+ },
+ {
+  "doc_id": "662685",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Nghị quyết giảm thuế suất GTGT trong thời hạn, không sửa đổi Luật 48/2024/QH15; khoản 2 Điều 1 giao Chính phủ quy định chi tiết chính Nghị quyết này."
+ },
+ {
+  "doc_id": "662730",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn hướng dẫn phân loại thiết bị điện tử khi áp dụng các Nghị định giảm thuế GTGT; không nêu hành động trực tiếp lên văn bản cụ thể."
+ },
+ {
+  "doc_id": "662786",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quy chế mới; Điều 15 Quy chế chỉ dẫn chiếu Quy chế 1033/QĐ-TCT cho hồ sơ chuyển tiếp, không có câu thay thế/bãi bỏ."
+ },
+ {
+  "doc_id": "662875",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn hướng dẫn bổ sung (tiếp theo công văn 1345/UBTVQH15-CTĐB) nhưng không nêu sửa đổi, bổ sung phần nào của văn bản đó."
+ },
+ {
+  "doc_id": "662896",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "huong-dan",
+    "target_document": "374/QĐ-TTg",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "V/v hướng dẫn triển khai các nhiệm vụ, giải pháp của Quyết định số 374/QĐ-TTg"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên (V/v) và lời dẫn: hướng dẫn triển khai nhiệm vụ, giải pháp của QĐ 374/QĐ-TTg. Không có don_vi; các mục 1-5 là nhiệm vụ giao các cơ sở GDĐH."
+ },
+ {
+  "doc_id": "662923",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Thông báo cập nhật địa chỉ người nộp thuế; không có tác động."
+ },
+ {
+  "doc_id": "662947",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Thông báo cập nhật địa chỉ người nộp thuế; không có tác động."
+ },
+ {
+  "doc_id": "662982",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Chương trình hành động thực hiện Quy định 189-QĐ/TW; các dòng 'Sửa đổi, bổ sung Luật …' là nhiệm vụ xây dựng văn bản, không phải hành động."
+ },
+ {
+  "doc_id": "663259",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Thông báo tài khoản thu NSNN; phụ lục là file đính kèm không có trong toàn văn."
+ },
+ {
+  "doc_id": "663458",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quy định mới. Điều 14 Quy định thay cụm từ trong chính Quy định này (không phải văn bản khác)."
+ },
+ {
+  "doc_id": "663660",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quyết định ủy quyền ký; không có tác động lên văn bản khác."
+ },
+ {
+  "doc_id": "663808",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Ban hành giá tối đa dịch vụ công chứng; không có tác động."
+ },
+ {
+  "doc_id": "663873",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn đề nghị địa phương triển khai; chỉ dẫn chiếu các văn bản khác."
+ },
+ {
+  "doc_id": "663934",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn đề nghị; Mục 2 chỉ yêu cầu tiếp tục thực hiện Công văn 2407/BGDĐT-HSSV."
+ },
+ {
+  "doc_id": "664012",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn thông báo ý kiến Phó Thủ tướng; kể lại văn bản 5889/VPCP-CN."
+ },
+ {
+  "doc_id": "664147",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Ban hành danh mục TTHC đủ điều kiện DVC trực tuyến toàn trình; không có câu thay thế/bãi bỏ văn bản khác."
+ }
+]

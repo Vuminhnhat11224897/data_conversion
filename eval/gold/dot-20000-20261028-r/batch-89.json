@@ -1,0 +1,47 @@
+[
+ {
+  "doc_id": "671126",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "hop-nhat",
+    "target_document": "45/2024/QH15",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Luật Di sản văn hóa số 45/2024/QH15 ngày 23 tháng 11 năm 2024 của Quốc hội, có hiệu lực kể từ ngày 01 tháng 7 năm 2025, được sửa đổi, bổ sung bởi:"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "hop-nhat",
+    "target_document": "84/2025/QH15",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Luật Thanh tra số 84/2025/QH15 ngày 25 tháng 6 năm 2025 của Quốc hội, có hiệu lực kể từ ngày 01 tháng 7 năm 2025."
+   },
+   {
+    "source_path": "Điều 93",
+    "action": "bo-sung",
+    "target_document": "50/2014/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm h khoản 3 Điều 49"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung điểm h vào sau điểm g khoản 3 Điều 49 của Luật Xây dựng số 50/2014/QH13 đã được sửa đổi, bổ sung một số điều theo Luật số 03/2016/QH14, Luật số 35/2018/QH14, Luật số 40/2019/QH14 và Luật số 62/2020/QH14 như sau:"
+   },
+   {
+    "source_path": "Điều 94 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "28/2001/QH10",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Luật Di sản văn hóa số 28/2001/QH10 đã được sửa đổi, bổ sung một số điều theo Luật số 32/2009/QH12 hết hiệu lực kể từ ngày Luật này có hiệu lực thi hành, trừ trường hợp quy định tại khoản 1 Điều 95 của Luật này."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Văn bản hợp nhất Luật Di sản văn hóa 45/2024/QH15 với Luật Thanh tra 84/2025/QH15. Quan hệ Điều 93 (bổ sung Luật Xây dựng) và khoản 2 Điều 94 (Luật 28/2001/QH10 hết hiệu lực) là điều khoản của Luật 45/2024/QH15 được chép lại trong văn bản hợp nhất; ghi theo chữ của đơn vị, người duyệt có thể bỏ nếu chỉ tính tác động riêng của VBHN. Chú thích [2], [3], [4] (bỏ cụm từ, bãi bỏ Điều 92 theo Luật Thanh tra; Điều 63 Luật Thanh tra) là ghi chú lịch sử, không ghi."
+ }
+]

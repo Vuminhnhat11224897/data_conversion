@@ -1,0 +1,225 @@
+[
+ {
+  "doc_id": "670684",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "1722/QĐ-BTC",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "nội dung công bố thủ tục hành chính tại số thứ tự 1 điểm A mục 1 phần I",
+    "evidence": "Bãi bỏ nội dung công bố thủ tục hành chính tại: Số thứ tự 1 điểm A mục 1 phần I ban hành kèm theo Quyết định số 1722/QĐ-BTC ngày 10/8/2023 của Bộ trưởng Bộ Tài chính"
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "671/QĐ-BTC",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "nội dung công bố thủ tục hành chính tại số thứ tự 3, 4, 5, 6, 7, 9, 10, 11, 12, 13 điểm A mục 1 phần I, số thứ tự 5, 6, 7 điểm C mục 2 phần I",
+    "evidence": "số thứ tự 3, 4, 5, 6, 7, 9, 10, 11, 12, 13 điểm A mục 1 phần I, số thứ tự 5, 6, 7 điểm C mục 2 phần I ban hành kèm theo Quyết định số 671/QĐ-BTC ngày 24/4/2020 của Bộ trưởng Bộ Tài chính."
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 1 STT 1",
+    "action": "sua-doi",
+    "target_document": "1722/QĐ-BTC",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Xác định trước xuất xứ hàng hóa xuất khẩu, nhập khẩu",
+    "evidence": "Quyết định số 1722/QĐ-BTC ngày 10/8/2023 (STT 1 điểm A mục 1 phần I)"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 1 STT 1",
+    "action": "bo-sung",
+    "target_document": "1722/QĐ-BTC",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Xác định trước xuất xứ hàng hóa xuất khẩu, nhập khẩu",
+    "evidence": "Quyết định số 1722/QĐ-BTC ngày 10/8/2023 (STT 1 điểm A mục 1 phần I)"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 1 STT 2",
+    "action": "sua-doi",
+    "target_document": "671/QĐ-BTC",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Thủ tục hải quan đối với hành lý của người nhập cảnh vượt quá định mức miễn thuế; hành lý của người xuất cảnh, nhập cảnh gửi trước, gửi sau chuyển đi",
+    "evidence": "Quyết định số 671/QĐ-BTC ngày 24/4/2020 (STT 7 điểm A mục 1 phần I)"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 1 STT 2",
+    "action": "bo-sung",
+    "target_document": "671/QĐ-BTC",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Thủ tục hải quan đối với hành lý của người nhập cảnh vượt quá định mức miễn thuế; hành lý của người xuất cảnh, nhập cảnh gửi trước, gửi sau chuyển đi",
+    "evidence": "Quyết định số 671/QĐ-BTC ngày 24/4/2020 (STT 7 điểm A mục 1 phần I)"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 1 STT 3",
+    "action": "sua-doi",
+    "target_document": "671/QĐ-BTC",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Thủ tục hải quan đối với tàu bay xuất cảnh, nhập cảnh, quá cảnh",
+    "evidence": "Quyết định số 671/QĐ-BTC ngày 24/4/2020 (STT 11 điểm A mục 1 phần I)"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 1 STT 3",
+    "action": "bo-sung",
+    "target_document": "671/QĐ-BTC",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Thủ tục hải quan đối với tàu bay xuất cảnh, nhập cảnh, quá cảnh",
+    "evidence": "Quyết định số 671/QĐ-BTC ngày 24/4/2020 (STT 11 điểm A mục 1 phần I)"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 1 STT 4",
+    "action": "sua-doi",
+    "target_document": "671/QĐ-BTC",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Thủ tục hải quan đối với tàu biển xuất cảnh, nhập cảnh, quá cảnh, chuyển cảng",
+    "evidence": "Quyết định số 671/QĐ-BTC ngày 24/4/2020 (STT 13 điểm A mục 1 phần I)"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 1 STT 4",
+    "action": "bo-sung",
+    "target_document": "671/QĐ-BTC",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Thủ tục hải quan đối với tàu biển xuất cảnh, nhập cảnh, quá cảnh, chuyển cảng",
+    "evidence": "Quyết định số 671/QĐ-BTC ngày 24/4/2020 (STT 13 điểm A mục 1 phần I)"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 1 STT 5",
+    "action": "sua-doi",
+    "target_document": "671/QĐ-BTC",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Thủ tục hải quan đối với tàu hoả xuất cảnh, nhập cảnh, quá cảnh",
+    "evidence": "Quyết định số 671/QĐ-BTC ngày 24/4/2020 (STT 12 điểm A mục 1 phần I)"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 1 STT 5",
+    "action": "bo-sung",
+    "target_document": "671/QĐ-BTC",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Thủ tục hải quan đối với tàu hoả xuất cảnh, nhập cảnh, quá cảnh",
+    "evidence": "Quyết định số 671/QĐ-BTC ngày 24/4/2020 (STT 12 điểm A mục 1 phần I)"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 1 STT 6",
+    "action": "sua-doi",
+    "target_document": "671/QĐ-BTC",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Thủ tục hải quan đối với ô tô, mô tô, xe gắn máy xuất cảnh, nhập cảnh",
+    "evidence": "Quyết định số 671/QĐ-BTC ngày 24/4/2020 (STT 10 điểm A mục 1 phần I)"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 1 STT 6",
+    "action": "bo-sung",
+    "target_document": "671/QĐ-BTC",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Thủ tục hải quan đối với ô tô, mô tô, xe gắn máy xuất cảnh, nhập cảnh",
+    "evidence": "Quyết định số 671/QĐ-BTC ngày 24/4/2020 (STT 10 điểm A mục 1 phần I)"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 1 STT 7",
+    "action": "sua-doi",
+    "target_document": "671/QĐ-BTC",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Thủ tục hải quan đối với phương tiện thủy nội địa xuất cảnh, nhập cảnh và phương tiện qua lại khu vực cửa khẩu biên giới để giao nhận hàng hóa",
+    "evidence": "Quyết định số 671/QĐ-BTC ngày 24/4/2020 (STT 9 điểm A mục 1 phần I)"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 1 STT 7",
+    "action": "bo-sung",
+    "target_document": "671/QĐ-BTC",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Thủ tục hải quan đối với phương tiện thủy nội địa xuất cảnh, nhập cảnh và phương tiện qua lại khu vực cửa khẩu biên giới để giao nhận hàng hóa",
+    "evidence": "Quyết định số 671/QĐ-BTC ngày 24/4/2020 (STT 9 điểm A mục 1 phần I)"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 1 STT 8",
+    "action": "sua-doi",
+    "target_document": "671/QĐ-BTC",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Thủ tục hải quan đối với hàng hóa tạm xuất, tái nhập và hàng hóa tạm nhập, tái xuất.",
+    "evidence": "Quyết định số 671/QĐ-BTC ngày 24/4/2020 (STT 5 điểm C mục 2 phần I)"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 1 STT 8",
+    "action": "bo-sung",
+    "target_document": "671/QĐ-BTC",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Thủ tục hải quan đối với hàng hóa tạm xuất, tái nhập và hàng hóa tạm nhập, tái xuất.",
+    "evidence": "Quyết định số 671/QĐ-BTC ngày 24/4/2020 (STT 5 điểm C mục 2 phần I)"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 2 STT 1",
+    "action": "bai-bo",
+    "target_document": "671/QĐ-BTC",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Thủ tục hải quan đối với tàu biển, tàu bay tạm nhập - tái xuất, tạm xuất - tái nhập để sửa chữa, bảo dưỡng",
+    "evidence": "Quyết định số 671/QĐ-BTC ngày 24/4/2020 (STT 3 điểm A mục 1 phần I)"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 2 STT 2",
+    "action": "bai-bo",
+    "target_document": "671/QĐ-BTC",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Thủ tục hải quan đối với hàng hóa tạm nhập - tái xuất, tạm xuất - tái nhập để phục vụ hội nghị, hội thảo, nghiên cứu khoa học, giáo dục, thi đấu thể thao, biểu diễn văn hóa, nghệ thuật, khám chữa bệnh, nghiên cứu và phát triển sản phẩm trong thời gian nhất định",
+    "evidence": "Quyết định số 671/QĐ-BTC ngày 24/4/2020 (STT 4 điểm A mục 1 phần I)"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 2 STT 3",
+    "action": "bai-bo",
+    "target_document": "671/QĐ-BTC",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Thủ tục hải quan đối với hàng hóa tạm nhập - tái xuất, tạm xuất - tái nhập để tổ chức hoặc tham dự hội chợ, triển lãm, giới thiệu sản phẩm",
+    "evidence": "Quyết định số 671/QĐ-BTC ngày 24/4/2020 (STT 7 điểm C mục 2 phần I)"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 2 STT 4",
+    "action": "bai-bo",
+    "target_document": "671/QĐ-BTC",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Thủ tục hải quan đối với hàng hóa tạm nhập - tái xuất, tạm xuất - tái nhập để bảo hành, sửa chữa, thay thế",
+    "evidence": "Quyết định số 671/QĐ-BTC ngày 24/4/2020 (STT 5 điểm A mục 1 phần I)"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 2 STT 5",
+    "action": "bai-bo",
+    "target_document": "671/QĐ-BTC",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Thủ tục hải quan đối với máy móc, thiết bị, linh kiện, phụ tùng, vật dụng tạm nhập để phục vụ thay thế, sửa chữa tàu biển, tàu bay nước ngoài hoặc tạm xuất để thay thế, sửa chữa tàu biển, tàu bay Việt Nam ở nước ngoài",
+    "evidence": "Quyết định số 671/QĐ-BTC ngày 24/4/2020 (STT 6 điểm C mục 2 phần I)"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 2 STT 6",
+    "action": "bai-bo",
+    "target_document": "671/QĐ-BTC",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Thủ tục hải quan đối với hàng hóa tạm nhập - tái xuất, tạm xuất - tái nhập khác",
+    "evidence": "Quyết định số 671/QĐ-BTC ngày 24/4/2020 (STT 6 điểm A mục 1 phần I)"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 1 chỉ công bố (không phải hành động). Điều 2 bãi bỏ nội dung công bố tại 2 QĐ. Bảng Mục 1 (TTHC sửa đổi, bổ sung) và Mục 2 (TTHC bị bãi bỏ) Phần I phụ lục: mỗi dòng nêu QĐ đã công bố TTHC → quan hệ theo dòng; vị trí STT trong danh mục ghi ở evidence, doi_tuong là tên TTHC."
+ }
+]

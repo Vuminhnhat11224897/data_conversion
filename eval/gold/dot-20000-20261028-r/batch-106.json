@@ -1,0 +1,27 @@
+[
+ {
+  "doc_id": "649295",
+  "relations": [
+   {
+    "source_path": "Điều 3",
+    "action": "sua-doi",
+    "target_document": "82/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này điều chỉnh, bổ sung Quyết định số 82/QĐ-UBND ngày 10 tháng 01 năm 2023 của UBND tỉnh và có hiệu lực kể từ ngày ký."
+   },
+   {
+    "source_path": "Điều 3",
+    "action": "bo-sung",
+    "target_document": "82/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này điều chỉnh, bổ sung Quyết định số 82/QĐ-UBND ngày 10 tháng 01 năm 2023 của UBND tỉnh và có hiệu lực kể từ ngày ký."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 3 tự nói điều chỉnh, bổ sung QĐ 82/QĐ-UBND (quy hoạch sử dụng đất Phù Mỹ); điều chỉnh ghi là sua-doi. Phụ lục là bảng số liệu, không có hành động."
+ }
+]

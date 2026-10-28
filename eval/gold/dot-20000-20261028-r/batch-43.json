@@ -1,0 +1,43 @@
+[
+ {
+  "doc_id": "664250",
+  "relations": [
+   {
+    "source_path": "Điều 3",
+    "action": "thay-the",
+    "target_document": "512/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực thi hành kể từ ngày ký và thay thế cho Quyết định số 512/QĐ-UBND ngày 21/02/2025 của Ủy ban nhân dân tỉnh."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Chương trình hành động và các phụ lục nhiệm vụ chỉ nhắc văn bản khác (NQ 71/NQ-CP...), không có hành động."
+ },
+ {
+  "doc_id": "664322",
+  "relations": [
+   {
+    "source_path": "Điều 3 Khoản 2 điểm a",
+    "action": "bai-bo",
+    "target_document": "14/2025/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Các Quyết định sau hết hiệu lực kể từ ngày Quyết định này có hiệu lực thi hành:"
+   },
+   {
+    "source_path": "Điều 3 Khoản 2 điểm b",
+    "action": "bai-bo",
+    "target_document": "13/2025/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Các Quyết định sau hết hiệu lực kể từ ngày Quyết định này có hiệu lực thi hành:"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Văn bản tự tuyên bố 2 QĐ hết hiệu lực (QĐ 14/2025 của tỉnh Tiền Giang, QĐ 13/2025 của tỉnh Đồng Tháp): ghi bai-bo. Các chữ \"sửa đổi, bổ sung\" ở Điều 2 là nhiệm vụ của Sở."
+ }
+]

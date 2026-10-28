@@ -1,0 +1,89 @@
+[
+ {
+  "doc_id": "661005",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "48/2019/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 2",
+     "khoản 2 Điều 2",
+     "khoản 3 Điều 2",
+     "khoản 4 Điều 2",
+     "khoản 2 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG KHOẢN 1, KHOẢN 2, KHOẢN 3, KHOẢN 4 ĐIỀU 2; KHOẢN 2 ĐIỀU 3 QUYẾT ĐỊNH SỐ 48/2019/QĐ-UBND NGÀY 20/12/2019 VỀ VIỆC BAN HÀNH BẢNG GIÁ ĐẤT TRÊN ĐỊA BÀN HUYỆN CON CUÔNG GIAI ĐOẠN 2020-2024"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "48/2019/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 2",
+     "khoản 2 Điều 2",
+     "khoản 3 Điều 2",
+     "khoản 4 Điều 2",
+     "khoản 2 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG KHOẢN 1, KHOẢN 2, KHOẢN 3, KHOẢN 4 ĐIỀU 2; KHOẢN 2 ĐIỀU 3 QUYẾT ĐỊNH SỐ 48/2019/QĐ-UBND NGÀY 20/12/2019 VỀ VIỆC BAN HÀNH BẢNG GIÁ ĐẤT TRÊN ĐỊA BÀN HUYỆN CON CUÔNG GIAI ĐOẠN 2020-2024"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "48/2019/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 2",
+     "khoản 2 Điều 2",
+     "khoản 3 Điều 2",
+     "khoản 4 Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1, khoản 2, khoản 3, khoản 4 Điều 2 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "48/2019/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 2",
+     "khoản 2 Điều 2",
+     "khoản 3 Điều 2",
+     "khoản 4 Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1, khoản 2, khoản 3, khoản 4 Điều 2 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "48/2019/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 Điều 3 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "48/2019/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 Điều 3 như sau:"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 1 chỉ là câu dẫn, khoản 1 và 2 thực hiện hành động (con thay cha). Các phụ lục là bảng giá đất điều chỉnh, bổ sung (nội dung mới của khoản 1 Điều 2), tiêu đề phụ lục chỉ là tên, cột Ghi chú rỗng: không ghi quan hệ. Toàn văn có 13 phụ lục (thêm xã Bồng Khê) nhưng phu_luc chỉ liệt kê 12."
+ }
+]

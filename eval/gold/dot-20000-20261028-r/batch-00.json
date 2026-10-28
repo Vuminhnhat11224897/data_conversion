@@ -1,0 +1,184 @@
+[
+ {
+  "doc_id": "634791",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "quy-dinh-chi-tiet",
+    "target_document": "Luật Bảo hiểm xã hội",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bộ trưởng Bộ Nội vụ ban hành Thông tư quy định chi tiết một số điều của Luật Bảo hiểm xã hội về bảo hiểm xã hội bắt buộc."
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "quy-dinh-chi-tiet",
+    "target_document": "Luật Bảo hiểm xã hội",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 8 Điều 33"
+    ],
+    "doi_tuong": null,
+    "evidence": "Khoản 8 Điều 33 về đóng tiếp một lần cho thời gian còn thiếu tối đa 06 tháng để đủ điều kiện hưởng lương hưu hoặc trợ cấp tuất hằng tháng."
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "quy-dinh-chi-tiet",
+    "target_document": "Luật Bảo hiểm xã hội",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 6 Điều 45"
+    ],
+    "doi_tuong": null,
+    "evidence": "Khoản 6 Điều 45 về ngày làm việc; quy định việc tính, việc xác định điều kiện đối với từng trường hợp để giải quyết chế độ ốm đau."
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "quy-dinh-chi-tiet",
+    "target_document": "Luật Bảo hiểm xã hội",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 4 Điều 46"
+    ],
+    "doi_tuong": null,
+    "evidence": "Khoản 4 Điều 46 về việc tính, việc xác định điều kiện đối với từng trường hợp nghỉ dưỡng sức, phục hồi sức khoẻ sau khi ốm đau."
+   },
+   {
+    "source_path": "Điều 1 Khoản 4",
+    "action": "quy-dinh-chi-tiet",
+    "target_document": "Luật Bảo hiểm xã hội",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 5 Điều 59"
+    ],
+    "doi_tuong": null,
+    "evidence": "Khoản 5 Điều 59 về việc tính, việc xác định điều kiện đối với từng trường hợp hưởng chế độ thai sản."
+   },
+   {
+    "source_path": "Điều 1 Khoản 5",
+    "action": "quy-dinh-chi-tiet",
+    "target_document": "Luật Bảo hiểm xã hội",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 5 Điều 60"
+    ],
+    "doi_tuong": null,
+    "evidence": "Khoản 5 Điều 60 về việc tính, việc xác định điều kiện đối với từng trường hợp được nghỉ dưỡng sức, phục hồi sức khoẻ sau thai sản."
+   },
+   {
+    "source_path": "Điều 1 Khoản 6",
+    "action": "quy-dinh-chi-tiet",
+    "target_document": "Luật Bảo hiểm xã hội",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 69"
+    ],
+    "doi_tuong": null,
+    "evidence": "Khoản 3 Điều 69 về thời điểm hưởng lương hưu; quy định thời điểm hưởng lương hưu đối với trường hợp theo quy định tại khoản 7 Điều 33; quy định về việc tính, việc xác định điều kiện đối với từng trường hợp để giải quyết chế độ hưu trí."
+   },
+   {
+    "source_path": "Điều 1 Khoản 7",
+    "action": "quy-dinh-chi-tiet",
+    "target_document": "Luật Bảo hiểm xã hội",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 5 Điều 86"
+    ],
+    "doi_tuong": null,
+    "evidence": "Khoản 5 Điều 86 về việc tính, việc xác định điều kiện đối với từng trường hợp để giải quyết chế độ tử tuất."
+   },
+   {
+    "source_path": "Điều 1 Khoản 8",
+    "action": "quy-dinh-chi-tiet",
+    "target_document": "Luật Bảo hiểm xã hội",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 87"
+    ],
+    "doi_tuong": null,
+    "evidence": "Khoản 1 Điều 87 về việc xác định thân nhân không có người trực tiếp nuôi dưỡng."
+   },
+   {
+    "source_path": "Điều 9 Khoản 4",
+    "action": "huong-dan",
+    "target_document": "Luật Bảo hiểm xã hội",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 8 Điều 53"
+    ],
+    "doi_tuong": null,
+    "evidence": "Việc tính thời gian nghỉ việc hưởng chế độ thai sản là thời gian đóng bảo hiểm xã hội bắt buộc được thực hiện theo quy định tại khoản 8 Điều 53 của Luật Bảo hiểm xã hội và được hướng dẫn cụ thể như sau:"
+   },
+   {
+    "source_path": "Điều 12 Khoản 2",
+    "action": "quy-dinh-chi-tiet",
+    "target_document": "Luật Bảo hiểm xã hội",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 7 Điều 33"
+    ],
+    "doi_tuong": null,
+    "evidence": "Người lao động đủ điều kiện về tuổi hưởng lương hưu mà thời gian đóng bảo hiểm xã hội bắt buộc còn thiếu tối đa 06 tháng để đủ điều kiện hưởng lương hưu thì người lao động được đóng tiếp một lần cho số tháng còn thiếu với mức đóng hằng tháng bằng tổng mức đóng của người lao động và người sử dụng lao động trước khi người lao động nghỉ việc vào quỹ hưu trí và tử tuất theo quy định tại khoản 7 Điều 33 của Luật Bảo hiểm xã hội và được quy định chi tiết như sau:"
+   },
+   {
+    "source_path": "Điều 15",
+    "action": "quy-dinh-chi-tiet",
+    "target_document": "Luật Bảo hiểm xã hội",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 69"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thời điểm hưởng lương hưu đối với người lao động theo quy định tại Điều 69 của Luật Bảo hiểm xã hội và được quy định chi tiết như sau:"
+   },
+   {
+    "source_path": "Điều 20 Khoản 2 điểm a",
+    "action": "bai-bo",
+    "target_document": "59/2015/TT-BLĐTBXH",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thông tư số 59/2015/TT-BLĐTBXH ngày 29 tháng 12 năm 2015 của Bộ trưởng Bộ Lao động - Thương binh và Xã hội quy định chi tiết và hướng dẫn thi hành một số điều của Luật Bảo hiểm xã hội về bảo hiểm xã hội bắt buộc;"
+   },
+   {
+    "source_path": "Điều 20 Khoản 2 điểm b",
+    "action": "bai-bo",
+    "target_document": "06/2021/TT-BLĐTBXH",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thông tư số 06/2021/TT-BLĐTBXH ngày 07 tháng 7 năm 2021 của Bộ trưởng Bộ Lao động - Thương binh và Xã hội sửa đổi, bổ sung một số điều của Thông tư số 59/2015/TT-BLĐTBXH"
+   },
+   {
+    "source_path": "Điều 20 Khoản 2 điểm c",
+    "action": "bai-bo",
+    "target_document": "37/2021/TT-BLĐTBXH",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Điều 3 của Thông tư số 37/2021/TT-BLĐTBXH ngày 31 tháng 12 năm 2021 của Bộ trưởng Bộ Lao động - Thương binh và Xã hội hướng dẫn điều chỉnh lương hưu, trợ cấp bảo hiểm xã hội và trợ cấp hằng tháng, thời điểm hưởng lương hưu đối với trường hợp không còn hồ sơ gốc."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Luật Bảo hiểm xã hội không nêu số hiệu trong văn bản (căn cứ chỉ ghi ngày 29/6/2024). Các Điều có câu \"được hướng dẫn cụ thể/được quy định chi tiết như sau\" ghi quan hệ; câu \"được tính như sau\" không ghi. Điều 20 khoản 2: văn bản tự tuyên bố hết hiệu lực -> bai-bo."
+ },
+ {
+  "doc_id": "647431",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "08/2021/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực thi hành kể từ ngày 25 tháng 3 năm 2025 và thay thế Quyết định số 08/2021/QĐ-UBND ngày 29 tháng 4 năm 2021 của Ủy ban nhân dân tỉnh Lạng Sơn ban hành tiêu chuẩn, định mức sử dụng máy móc, thiết bị chuyên dùng thuộc lĩnh vực y tế cho các đơn vị sự nghiệp y tế công lập thuộc phạm vi quản lý của tỉnh Lạng Sơn."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Phụ lục là bảng tiêu chuẩn, định mức, không có hành động lên văn bản khác."
+ }
+]

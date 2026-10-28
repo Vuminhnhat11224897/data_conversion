@@ -1,0 +1,34 @@
+[
+ {
+  "doc_id": "673861",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "30/2025/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực thi hành kể từ ngày 11 tháng 9 năm 2025 và thay thế Quyết định số 30/2025/QĐ-UBND ngày 31/5/2025 của UBND tỉnh Bắc Giang ban hành Quy định Định mức kinh tế - kỹ thuật thống kê, kiểm kê đất đai và lập bản đồ hiện trạng sử dụng đất trên địa bàn tỉnh Bắc Giang."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Văn bản đích là quyết định của UBND tỉnh Bắc Giang (cũ)."
+ },
+ {
+  "doc_id": "674434",
+  "relations": [
+   {
+    "source_path": "Điều 27 Khoản 1",
+    "action": "thay-the",
+    "target_document": "25/2020/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực thi hành từ ngày 15 tháng 10 năm 2025 và thay thế Quyết định số 25/2020/QĐ-UBND ngày 08 tháng 9 năm 2020 của Ủy ban nhân dân tỉnh Hưng Yên về việc ban hành quy định về tổ chức lại và quản lý, sử dụng Quỹ Phát triển đất tỉnh Hưng Yên."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 27 khoản 2 là câu chung về văn bản dẫn chiếu được sửa đổi, thay thế: không phải quan hệ."
+ }
+]

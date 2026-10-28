@@ -1,0 +1,940 @@
+[
+ {
+  "doc_id": "621341",
+  "relations": [
+   {
+    "source_path": "Điều 49 Khoản 1",
+    "action": "bai-bo",
+    "target_document": "67/2006/QH11",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 9 Điều 4",
+     "khoản 10 Điều 4",
+     "khoản 11 Điều 4",
+     "khoản 12 Điều 4",
+     "Mục 3 Chương III",
+     "Mục 4 Chương III"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ các khoản 9, 10, 11 và 12 Điều 4; Mục 3 và Mục 4 Chương III của Luật Công nghệ thông tin số 67/2006/QH11 đã được sửa đổi, bổ sung theo Luật số 21/2017/QH14, Luật số 20/2023/QH15 và Luật số 24/2023/QH15."
+   },
+   {
+    "source_path": "Điều 49 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "21/2008/QH12",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 1 Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm a khoản 1 Điều 5 của Luật Công nghệ cao số 21/2008/QH12 đã được sửa đổi, bổ sung theo Luật số 32/2013/QH13 và Luật số 67/2014/QH13 như sau:"
+   },
+   {
+    "source_path": "Điều 49 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "21/2008/QH12",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 1 Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm a khoản 1 Điều 5 của Luật Công nghệ cao số 21/2008/QH12 đã được sửa đổi, bổ sung theo Luật số 32/2013/QH13 và Luật số 67/2014/QH13 như sau:"
+   },
+   {
+    "source_path": "Điều 49 Khoản 3",
+    "action": "bo-sung",
+    "target_document": "04/2007/QH12",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 17 Điều 4"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung khoản 17 vào sau khoản 16 Điều 4 của Luật Thuế thu nhập cá nhân số 04/2007/QH12 đã được sửa đổi, bổ sung theo Luật số 26/2012/QH13, Luật số 71/2014/QH13, Luật số 31/2024/QH15, Luật số 48/2024/QH15 và Luật số 56/2024/QH15 như sau:"
+   },
+   {
+    "source_path": "Điều 49 Khoản 4",
+    "action": "bo-sung",
+    "target_document": "45/2019/QH14",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 8a Điều 154"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung khoản 8a vào sau khoản 8 và trước khoản 9 Điều 154 của Bộ luật Lao động số 45/2019/QH14 như sau:"
+   },
+   {
+    "source_path": "Điều 49 Khoản 5 điểm a",
+    "action": "thay-cum-tu",
+    "target_document": "31/2024/QH15",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 22 Điều 79",
+     "khoản 1 Điều 202"
+    ],
+    "doi_tuong": null,
+    "evidence": "Khoản 22 Điều 79 và khoản 1 Điều 202 của Luật Đất đai số 31/2024/QH15 đã được sửa đổi, bổ sung theo Luật số 43/2024/QH15, Luật số 47/2024/QH15 và Luật số 58/2024/QH15;"
+   },
+   {
+    "source_path": "Điều 49 Khoản 5 điểm b",
+    "action": "thay-cum-tu",
+    "target_document": "39/2024/QH15",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 24"
+    ],
+    "doi_tuong": null,
+    "evidence": "Khoản 1 Điều 24 của Luật Thủ đô số 39/2024/QH15 đã được sửa đổi, bổ sung theo Luật số 47/2024/QH15, Luật số 55/2024/QH15, Luật số 57/2024/QH15, Luật số 58/2024/QH15 và Luật số 65/2025/QH15;"
+   },
+   {
+    "source_path": "Điều 49 Khoản 5 điểm c",
+    "action": "thay-cum-tu",
+    "target_document": "47/2024/QH15",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 5 Điều 2",
+     "khoản 2 Điều 16"
+    ],
+    "doi_tuong": null,
+    "evidence": "Khoản 5 Điều 2 và khoản 2 Điều 16 của Luật Quy hoạch đô thị và nông thôn số 47/2024/QH15;"
+   },
+   {
+    "source_path": "Điều 49 Khoản 5 điểm d",
+    "action": "thay-cum-tu",
+    "target_document": "61/2020/QH14",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 36a"
+    ],
+    "doi_tuong": null,
+    "evidence": "Điều 36a của Luật Đầu tư số 61/2020/QH14 đã được sửa đổi, bổ sung theo Luật số 72/2020/QH14, Luật số 03/2022/QH15, Luật số 05/2022/QH15, Luật số 08/2022/QH15, Luật số 09/2022/QH15, Luật số 20/2023/QH15, Luật số 26/2023/QH15, Luật số 27/2023/QH15, Luật số 28/2023/QH15, Luật số 31/2024/QH15, Luật số 33/2024/QH15, Luật số 43/2024/QH15 và Luật số 57/2024/QH15;"
+   },
+   {
+    "source_path": "Điều 49 Khoản 5 điểm đ",
+    "action": "thay-cum-tu",
+    "target_document": "81/2023/QH15",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm b khoản 1 Điều 3",
+     "khoản 3 Điều 9"
+    ],
+    "doi_tuong": null,
+    "evidence": "Điểm b khoản 1 Điều 3 và khoản 3 Điều 9 của Nghị quyết số 81/2023/QH15 ngày 09 tháng 01 năm 2023 của Quốc hội về Quy hoạch tổng thể quốc gia thời kỳ 2021-2030, tầm nhìn đến năm 2050;"
+   },
+   {
+    "source_path": "Điều 49 Khoản 5 điểm e",
+    "action": "thay-cum-tu",
+    "target_document": "98/2023/QH15",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm d khoản 1 Điều 8"
+    ],
+    "doi_tuong": null,
+    "evidence": "Điểm d khoản 1 Điều 8 của Nghị quyết số 98/2023/QH15 ngày 24 tháng 6 năm 2023 của Quốc hội về thí điểm cơ chế, chính sách đặc thù phát triển Thành phố Hồ Chí Minh;"
+   },
+   {
+    "source_path": "Điều 49 Khoản 5 điểm g",
+    "action": "thay-cum-tu",
+    "target_document": "136/2024/QH15",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 11",
+     "điểm a khoản 5 Điều 11",
+     "điểm a khoản 2 Điều 14"
+    ],
+    "doi_tuong": null,
+    "evidence": "Khoản 3, điểm a khoản 5 Điều 11 và điểm a khoản 2 Điều 14 của Nghị quyết số 136/2024/QH15 ngày 26 tháng 6 năm 2024 của Quốc hội về tổ chức chính quyền đô thị và thí điểm một số cơ chế, chính sách đặc thù phát triển thành phố Đà Nẵng."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Luật; chỉ Điều 49 tác động lên luật, nghị quyết khác. Khoản 5: thay cụm từ ở 7 văn bản, mỗi điểm một quan hệ."
+ },
+ {
+  "doc_id": "641752",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "quy-dinh-chi-tiet",
+    "target_document": "Luật Quy hoạch đô thị và nông thôn",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Chính phủ ban hành Nghị định quy định chi tiết một số điều của Luật Quy hoạch đô thị và nông thôn."
+   },
+   {
+    "source_path": "Điều 1 Khoản 1 điểm a",
+    "action": "quy-dinh-chi-tiet",
+    "target_document": "47/2024/QH15",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 4 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Khoản 4 Điều 3 về lập quy hoạch chung đô thị;"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1 điểm b",
+    "action": "quy-dinh-chi-tiet",
+    "target_document": "47/2024/QH15",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 5 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Điểm a khoản 5 Điều 3 về các trường hợp lập quy hoạch phân khu theo yêu cầu quản lý, phát triển trong thành phố trực thuộc trung ương;"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1 điểm c",
+    "action": "quy-dinh-chi-tiet",
+    "target_document": "47/2024/QH15",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm b khoản 5 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Điểm b khoản 5 Điều 3 về các trường hợp lập quy hoạch phân khu theo quy mô diện tích, yêu cầu quản lý, phát triển đối với khu chức năng không phải là khu kinh tế, khu du lịch quốc gia;"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1 điểm d",
+    "action": "quy-dinh-chi-tiet",
+    "target_document": "47/2024/QH15",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 6 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Điểm a khoản 6 Điều 3 về các trường hợp lập quy hoạch chi tiết theo quy mô diện tích, yêu cầu quản lý, phát triển;"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1 điểm đ",
+    "action": "quy-dinh-chi-tiet",
+    "target_document": "47/2024/QH15",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm c khoản 2 Điều 8"
+    ],
+    "doi_tuong": null,
+    "evidence": "Điểm c khoản 2 Điều 8 về trình tự, thủ tục báo cáo, quyết định quy hoạch được thực hiện trong trường hợp có sự mâu thuẫn giữa các quy hoạch đô thị và nông thôn cùng cấp độ;"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1 điểm e",
+    "action": "quy-dinh-chi-tiet",
+    "target_document": "47/2024/QH15",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 4 Điều 10"
+    ],
+    "doi_tuong": null,
+    "evidence": "Khoản 4 Điều 10 về quản lý kinh phí cho hoạt động quy hoạch đô thị và nông thôn;"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1 điểm g",
+    "action": "quy-dinh-chi-tiet",
+    "target_document": "47/2024/QH15",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 11"
+    ],
+    "doi_tuong": null,
+    "evidence": "Khoản 3 Điều 11 về tiếp nhận, quản lý, sử dụng nguồn lực hỗ trợ hoạt động quy hoạch đô thị và nông thôn;"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1 điểm h",
+    "action": "quy-dinh-chi-tiet",
+    "target_document": "47/2024/QH15",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 16"
+    ],
+    "doi_tuong": null,
+    "evidence": "Khoản 3 Điều 16 trình tự, thủ tục lập, thẩm định, phê duyệt nhiệm vụ quy hoạch, quy hoạch đô thị và nông thôn;"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1 điểm i",
+    "action": "quy-dinh-chi-tiet",
+    "target_document": "47/2024/QH15",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 18"
+    ],
+    "doi_tuong": null,
+    "evidence": "Điều 18 về điều kiện của tổ chức tư vấn, cá nhân tham gia lập nhiệm vụ quy hoạch, quy hoạch đô thị và nông thôn;"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1 điểm k",
+    "action": "quy-dinh-chi-tiet",
+    "target_document": "47/2024/QH15",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 5 Điều 19"
+    ],
+    "doi_tuong": null,
+    "evidence": "Khoản 5 Điều 19 về thi tuyển, lựa chọn tổ chức tư vấn lập nhiệm vụ quy hoạch, quy hoạch đô thị và nông thôn;"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1 điểm l",
+    "action": "quy-dinh-chi-tiet",
+    "target_document": "47/2024/QH15",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 4 Điều 25"
+    ],
+    "doi_tuong": null,
+    "evidence": "Khoản 4 Điều 25 về thời hạn hoàn thành việc lập, phê duyệt quy hoạch phân khu;"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1 điểm m",
+    "action": "quy-dinh-chi-tiet",
+    "target_document": "47/2024/QH15",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 4 Điều 49"
+    ],
+    "doi_tuong": null,
+    "evidence": "Khoản 4 Điều 49 về quy định quản lý theo quy hoạch đô thị và nông thôn;"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1 điểm n",
+    "action": "quy-dinh-chi-tiet",
+    "target_document": "47/2024/QH15",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 54"
+    ],
+    "doi_tuong": null,
+    "evidence": "Khoản 3 Điều 54 về xây dựng, quản lý, vận hành, khai thác cơ sở dữ liệu quy hoạch đô thị và nông thôn;"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1 điểm o",
+    "action": "quy-dinh-chi-tiet",
+    "target_document": "47/2024/QH15",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 8 Điều 59"
+    ],
+    "doi_tuong": null,
+    "evidence": "Khoản 8 Điều 59 về việc tiếp tục thực hiện lập, thẩm định, phê duyệt, rà soát, điều chỉnh quy hoạch phân khu theo quy định của pháp luật về quy hoạch đô thị, pháp luật xây dựng đối với đô thị loại III, đô thị loại IV, khu kinh tế, khu du lịch quốc gia đã có quy hoạch chung được phê duyệt trước ngày Luật Quy hoạch đô thị và nông thôn có hiệu lực thi hành."
+   },
+   {
+    "source_path": "Điều 28 Khoản 1 điểm a",
+    "action": "thay-cum-tu",
+    "target_document": "175/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 1",
+     "điểm g khoản 2 Điều 17",
+     "khoản 1 Điều 61",
+     "điểm c khoản 4 Điều 70",
+     "điểm c khoản 5 Điều 70",
+     "điểm c khoản 2 Điều 71",
+     "điểm a khoản 2 Điều 119",
+     "khoản 5 Điều 121",
+     "khoản 6 Điều 121",
+     "khoản 5 Điều 122"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “quy hoạch xây dựng” tại khoản 3 Điều 1, điểm g khoản 2 Điều 17, khoản 1 Điều 61, điểm c khoản 4 và điểm c khoản 5 Điều 70, điểm c khoản 2 Điều 71, điểm a khoản 2 Điều 119, khoản 5 và khoản 6 Điều 121, khoản 5 Điều 122 thành cụm từ “quy hoạch đô thị và nông thôn”;"
+   },
+   {
+    "source_path": "Điều 28 Khoản 1 điểm b",
+    "action": "thay-cum-tu",
+    "target_document": "175/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 4 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “quy hoạch xây dựng hoặc quy hoạch không gian ngầm” tại khoản 4 Điều 3 thành cụm từ “quy hoạch đô thị và nông thôn”;"
+   },
+   {
+    "source_path": "Điều 28 Khoản 1 điểm c",
+    "action": "thay-cum-tu",
+    "target_document": "175/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 13 Điều 3",
+     "khoản 14 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “thiết kế quy hoạch xây dựng” tại khoản 13 và khoản 14 Điều 3 thành cụm từ “quy hoạch đô thị và nông thôn”;"
+   },
+   {
+    "source_path": "Điều 28 Khoản 1 điểm d",
+    "action": "sua-doi",
+    "target_document": "175/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 21 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 21 Điều 3 như sau:"
+   },
+   {
+    "source_path": "Điều 28 Khoản 1 điểm d",
+    "action": "bo-sung",
+    "target_document": "175/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 21 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 21 Điều 3 như sau:"
+   },
+   {
+    "source_path": "Điều 28 Khoản 1 điểm đ",
+    "action": "thay-cum-tu",
+    "target_document": "175/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 1 Điều 4"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “quy hoạch xây dựng” tại điểm a khoản 1 Điều 4 thành cụm từ “quy hoạch theo pháp luật về quy hoạch đô thị và nông thôn”;"
+   },
+   {
+    "source_path": "Điều 28 Khoản 1 điểm e",
+    "action": "sua-doi",
+    "target_document": "175/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 2 Điều 13"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm a khoản 2 Điều 13 như sau:"
+   },
+   {
+    "source_path": "Điều 28 Khoản 1 điểm e",
+    "action": "bo-sung",
+    "target_document": "175/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 2 Điều 13"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm a khoản 2 Điều 13 như sau:"
+   },
+   {
+    "source_path": "Điều 28 Khoản 1 điểm g",
+    "action": "thay-cum-tu",
+    "target_document": "175/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm g khoản 2 Điều 13"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “quy hoạch xây dựng hoặc quy hoạch có tính chất kỹ thuật chuyên ngành” tại điểm g khoản 2 Điều 13 thành cụm từ “quy hoạch đô thị và nông thôn”;"
+   },
+   {
+    "source_path": "Điều 28 Khoản 1 điểm h",
+    "action": "sua-doi",
+    "target_document": "175/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 3 Điều 13"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm a khoản 3 Điều 13 như sau:"
+   },
+   {
+    "source_path": "Điều 28 Khoản 1 điểm h",
+    "action": "bo-sung",
+    "target_document": "175/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 3 Điều 13"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm a khoản 3 Điều 13 như sau:"
+   },
+   {
+    "source_path": "Điều 28 Khoản 1 điểm i",
+    "action": "sua-doi",
+    "target_document": "175/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 2 Điều 18"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm a khoản 2 Điều 18 như sau:"
+   },
+   {
+    "source_path": "Điều 28 Khoản 1 điểm i",
+    "action": "bo-sung",
+    "target_document": "175/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 2 Điều 18"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm a khoản 2 Điều 18 như sau:"
+   },
+   {
+    "source_path": "Điều 28 Khoản 1 điểm k",
+    "action": "thay-cum-tu",
+    "target_document": "175/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm d khoản 1 Điều 44"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “quy hoạch đô thị, quy hoạch xây dựng khu chức năng hoặc quy hoạch chi tiết xây dựng điểm dân cư nông thôn” tại điểm d khoản 1 Điều 44 thành cụm từ “quy hoạch đô thị và nông thôn”;"
+   },
+   {
+    "source_path": "Điều 28 Khoản 1 điểm l",
+    "action": "thay-cum-tu",
+    "target_document": "175/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 65",
+     "khoản 2 Điều 65"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “quy hoạch xây dựng” tại khoản 1, khoản 2 Điều 65 thành cụm từ “quy hoạch”;"
+   },
+   {
+    "source_path": "Điều 28 Khoản 1 điểm m",
+    "action": "thay-cum-tu",
+    "target_document": "175/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm b khoản 1 Điều 74",
+     "điểm b khoản 1 Điều 94",
+     "điểm h khoản 1 Điều 99"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Thiết kế quy hoạch xây dựng” tại điểm b khoản 1 Điều 74, điểm b khoản 1 Điều 94 và điểm h khoản 1 Điều 99 thành cụm từ"
+   },
+   {
+    "source_path": "Điều 28 Khoản 1 điểm n",
+    "action": "sua-doi",
+    "target_document": "175/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 81"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 81 như sau:"
+   },
+   {
+    "source_path": "Điều 28 Khoản 1 điểm n",
+    "action": "bo-sung",
+    "target_document": "175/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 81"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 81 như sau:"
+   },
+   {
+    "source_path": "Điều 28 Khoản 1 điểm o",
+    "action": "sua-doi",
+    "target_document": "175/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm b khoản 5 Điều 98"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm b khoản 5 Điều 98 như sau:"
+   },
+   {
+    "source_path": "Điều 28 Khoản 1 điểm o",
+    "action": "bo-sung",
+    "target_document": "175/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm b khoản 5 Điều 98"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm b khoản 5 Điều 98 như sau:"
+   },
+   {
+    "source_path": "Điều 28 Khoản 1 điểm p",
+    "action": "sua-doi",
+    "target_document": "175/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 103"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 103 như sau:"
+   },
+   {
+    "source_path": "Điều 28 Khoản 1 điểm p",
+    "action": "bo-sung",
+    "target_document": "175/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 103"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 103 như sau:"
+   },
+   {
+    "source_path": "Điều 28 Khoản 1 điểm q",
+    "action": "thay-cum-tu",
+    "target_document": "175/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 13 Điều 122"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “quy hoạch đô thị, quy hoạch xây dựng” tại khoản 13 Điều 122 thành cụm từ “quy hoạch đô thị và nông thôn”."
+   },
+   {
+    "source_path": "Điều 28 Khoản 1 điểm r",
+    "action": "sua-doi",
+    "target_document": "175/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Phụ lục VIII"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung tại số thứ tự 2 tại Phụ lục VIII kèm theo Nghị định số 175/2024/NĐ-CP ngày 30 tháng 12 năm 2024 của Chính phủ như sau:"
+   },
+   {
+    "source_path": "Điều 28 Khoản 1 điểm r",
+    "action": "bo-sung",
+    "target_document": "175/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Phụ lục VIII"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung tại số thứ tự 2 tại Phụ lục VIII kèm theo Nghị định số 175/2024/NĐ-CP ngày 30 tháng 12 năm 2024 của Chính phủ như sau:"
+   },
+   {
+    "source_path": "Điều 28 Khoản 2 điểm a",
+    "action": "thay-cum-tu",
+    "target_document": "111/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 1",
+     "khoản 3 Điều 3",
+     "điểm b khoản 1 Điều 7",
+     "khoản 4 Điều 8",
+     "tên khoản 5 Điều 10",
+     "điểm b khoản 5 Điều 10",
+     "khoản 5 Điều 12"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “quy hoạch xây dựng” tại khoản 2 Điều 1, khoản 3 Điều 3, điểm b khoản 1 Điều 7, khoản 4 Điều 8, tên khoản 5 và điểm b khoản 5 Điều 10, khoản 5 Điều 12 thành cụm từ “quy hoạch đô thị và nông thôn”;"
+   },
+   {
+    "source_path": "Điều 28 Khoản 2 điểm b",
+    "action": "sua-doi",
+    "target_document": "111/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 6"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 6 như sau:"
+   },
+   {
+    "source_path": "Điều 28 Khoản 2 điểm b",
+    "action": "bo-sung",
+    "target_document": "111/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 6"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 6 như sau:"
+   },
+   {
+    "source_path": "Điều 28 Khoản 2 điểm c",
+    "action": "thay-cum-tu",
+    "target_document": "111/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "tên khoản 2 Điều 8",
+     "khoản 1 Điều 10"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “đồ án quy hoạch xây dựng” tại tên khoản 2 Điều 8, khoản 1 Điều 10 thành “quy hoạch đô thị và nông thôn”."
+   },
+   {
+    "source_path": "Điều 28 Khoản 3 điểm a",
+    "action": "thay-cum-tu",
+    "target_document": "100/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 5",
+     "điểm a khoản 2 Điều 27"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “quy hoạch xây dựng” tại Điều 5 và điểm a khoản 2 Điều 27 thành cụm từ “quy hoạch đô thị và nông thôn”;"
+   },
+   {
+    "source_path": "Điều 28 Khoản 3 điểm b",
+    "action": "thay-cum-tu",
+    "target_document": "100/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 58"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “quy hoạch xây dựng” tại khoản 1 Điều 58 thành cụm từ “quy hoạch”."
+   },
+   {
+    "source_path": "Điều 28 Khoản 4 điểm a",
+    "action": "bo-sung",
+    "target_document": "98/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [],
+    "doi_tuong": "phần căn cứ",
+    "evidence": "Bổ sung “Căn cứ Luật Quy hoạch đô thị và nông thôn ngày 26 tháng 11 năm 2024” tại phần về căn cứ"
+   },
+   {
+    "source_path": "Điều 28 Khoản 4 điểm b",
+    "action": "thay-cum-tu",
+    "target_document": "98/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm c khoản 2 Điều 24"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “quy hoạch xây dựng” tại điểm c khoản 2 Điều 24 thành cụm từ “quy hoạch đô thị và nông thôn”."
+   },
+   {
+    "source_path": "Điều 28 Khoản 4 điểm c",
+    "action": "thay-cum-tu",
+    "target_document": "98/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 5 Điều 6"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “quy hoạch đô thị” tại khoản 5 Điều 6 thành cụm từ “quy hoạch đô thị và nông thôn”."
+   },
+   {
+    "source_path": "Điều 28 Khoản 5 điểm a",
+    "action": "thay-cum-tu",
+    "target_document": "96/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 37",
+     "Phụ lục X",
+     "Phụ lục XII",
+     "Phụ lục XIII"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “quy hoạch xây dựng” tại khoản 2 Điều 37 và Phụ lục X, Phụ lục XII và Phụ lục XIII thành cụm từ “quy hoạch đô thị và nông thôn”;"
+   },
+   {
+    "source_path": "Điều 28 Khoản 5 điểm b",
+    "action": "thay-cum-tu",
+    "target_document": "96/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 2 Điều 4",
+     "điểm b khoản 2 Điều 9",
+     "điểm d khoản 3 Điều 10",
+     "khoản 2 Điều 35"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “quy hoạch xây dựng” tại điểm a khoản 2 Điều 4, điểm b khoản 2 Điều 9, điểm d khoản 3 Điều 10 và khoản 2 Điều 35 thành cụm từ “quy hoạch đô thị và nông thôn”."
+   },
+   {
+    "source_path": "Điều 28 Khoản 6 điểm a",
+    "action": "thay-cum-tu",
+    "target_document": "95/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 14",
+     "Phụ lục II"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “quy hoạch xây dựng, quy hoạch đô thị” tại Điều 14 và Phụ lục II thành cụm từ “quy hoạch đô thị và nông thôn”;"
+   },
+   {
+    "source_path": "Điều 28 Khoản 6 điểm b",
+    "action": "thay-cum-tu",
+    "target_document": "95/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 1 Điều 68"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “quy hoạch xây dựng nhà ở công vụ, quy hoạch xây dựng công trình thuộc dự án quan trọng quốc gia” tại điểm a khoản 1 Điều 68 thành cụm từ “quy hoạch để xây dựng nhà ở công vụ, công trình thuộc dự án quan trọng quốc gia”;"
+   },
+   {
+    "source_path": "Điều 28 Khoản 6 điểm c",
+    "action": "thay-cum-tu",
+    "target_document": "95/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Phụ lục V"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “quy hoạch xây dựng” tại Mẫu đơn số 02 Phụ lục V thành cụm từ “quy hoạch đô thị và nông thôn”."
+   },
+   {
+    "source_path": "Điều 28 Khoản 7 điểm a",
+    "action": "thay-cum-tu",
+    "target_document": "10/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 5 Điều 4",
+     "khoản 2 Điều 9",
+     "khoản 5 Điều 10",
+     "điểm c khoản 3 Điều 24",
+     "khoản 6 Điều 45",
+     "điểm d khoản 4 Điều 47"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “quy hoạch xây dựng khu công nghệ cao” tại khoản 5 Điều 4, khoản 2 Điều 9, khoản 5 Điều 10, điểm c khoản 3 Điều 24, khoản 6 Điều 45, điểm d khoản 4 Điều 47 thành cụm từ “quy hoạch khu công nghệ cao”;"
+   },
+   {
+    "source_path": "Điều 28 Khoản 7 điểm b",
+    "action": "bai-bo",
+    "target_document": "10/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 17",
+     "khoản 6 Điều 44",
+     "khoản 7 Điều 45"
+    ],
+    "doi_tuong": "cụm từ “xây dựng” trong cụm từ “quy hoạch xây dựng”",
+    "evidence": "Bỏ cụm từ “xây dựng” trong cụm từ “quy hoạch xây dựng” tại khoản 1 Điều 17, khoản 6 Điều 44, khoản 7 Điều 45;"
+   },
+   {
+    "source_path": "Điều 28 Khoản 7 điểm c",
+    "action": "thay-cum-tu",
+    "target_document": "10/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 4 Điều 21",
+     "khoản 2 Điều 40",
+     "điểm b khoản 6 Điều 47",
+     "điểm a khoản 7 Điều 47"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “quy hoạch xây dựng” tại điểm a khoản 4 Điều 21, khoản 2 Điều 40, điểm b khoản 6 và điểm a khoản 7 Điều 47 thành cụm từ “quy hoạch đô thị và nông thôn”."
+   },
+   {
+    "source_path": "Điều 28 Khoản 8 điểm a",
+    "action": "bai-bo",
+    "target_document": "35/2022/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [],
+    "doi_tuong": "cụm từ “xây dựng” trong các cụm từ “quy hoạch xây dựng khu công nghiệp’, “quy hoạch xây dựng khu kinh tế”, “quy hoạch chung xây dựng”, “quy hoạch phân khu xây dựng” và “quy hoạch chi tiết xây dựng”",
+    "evidence": "Bỏ cụm từ “xây dựng” trong các cụm từ “quy hoạch xây dựng khu công nghiệp’, “quy hoạch xây dựng khu kinh tế”, “quy hoạch chung xây dựng”, “quy hoạch phân khu xây dựng” và “quy hoạch chi tiết xây dựng” tại nội dung quy định của Nghị định số 35/2022/NĐ-CP ngày 28 tháng 5 năm 2022 của Chính phủ quy định về quản lý khu công nghiệp và khu kinh tế;"
+   },
+   {
+    "source_path": "Điều 28 Khoản 8 điểm b",
+    "action": "thay-cum-tu",
+    "target_document": "35/2022/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm d khoản 4 Điều 4",
+     "khoản 7 Điều 9",
+     "khoản 5 Điều 29"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung cụm từ “quy hoạch xây dựng nhà ở” tại điểm d khoản 4 Điều 4, khoản 7 Điều 9, khoản 5 Điều 29 thành cụm từ “quy hoạch, xây dựng nhà ở”;"
+   },
+   {
+    "source_path": "Điều 28 Khoản 8 điểm c",
+    "action": "thay-cum-tu",
+    "target_document": "35/2022/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 12 Điều 7",
+     "điểm a khoản 3 Điều 27",
+     "điểm a khoản 3 Điều 29",
+     "khoản 1 Điều 38",
+     "điểm a khoản 2 Điều 68"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “quy hoạch xây dựng” tại khoản 12 Điều 7, điểm a khoản 3 Điều 27, điểm a khoản 3 Điều 29, khoản 1 Điều 38, điểm a khoản 2 Điều 68 thành cụm từ “quy hoạch theo pháp luật về quy hoạch đô thị và nông thôn”;"
+   },
+   {
+    "source_path": "Điều 28 Khoản 8 điểm d",
+    "action": "thay-cum-tu",
+    "target_document": "35/2022/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 51",
+     "điểm l khoản 3 Điều 69"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “quy hoạch xây dựng” tại khoản 2 Điều 51, điểm l khoản 3 Điều 69 thành cụm từ “quy hoạch đô thị và nông thôn”."
+   },
+   {
+    "source_path": "Điều 28 Khoản 9 điểm a",
+    "action": "sua-doi",
+    "target_document": "85/2020/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 17"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 Điều 17 như sau:"
+   },
+   {
+    "source_path": "Điều 28 Khoản 9 điểm a",
+    "action": "bo-sung",
+    "target_document": "85/2020/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 17"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 Điều 17 như sau:"
+   },
+   {
+    "source_path": "Điều 28 Khoản 9 điểm b",
+    "action": "thay-cum-tu",
+    "target_document": "85/2020/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm e khoản 1 Điều 13"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “quy hoạch xây dựng nông thôn” tại điểm e khoản 1 Điều 13 thành cụm từ “quy hoạch nông thôn”."
+   },
+   {
+    "source_path": "Điều 29 Khoản 2 điểm a",
+    "action": "bai-bo",
+    "target_document": "37/2010/NĐ-CP",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị định số 37/2010/NĐ-CP ngày 07 tháng 4 năm 2010 của Chính phủ về lập, thẩm định, phê duyệt và quản lý quy hoạch đô thị;"
+   },
+   {
+    "source_path": "Điều 29 Khoản 2 điểm b",
+    "action": "bai-bo",
+    "target_document": "44/2015/NĐ-CP",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị định số 44/2015/NĐ-CP ngày 06 tháng 5 năm 2015 của Chính phủ quy định chi tiết một số nội dung về quy hoạch xây dựng;"
+   },
+   {
+    "source_path": "Điều 29 Khoản 2 điểm c",
+    "action": "bai-bo",
+    "target_document": "72/2019/NĐ-CP",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị định số 72/2019/NĐ-CP ngày 30 tháng 8 năm 2019 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 37/2010/NĐ-CP ngày 07 tháng 4 năm 2010 về lập, thẩm định, phê duyệt và quản lý quy hoạch đô thị và Nghị định số 44/2015/NĐ-CP ngày 06 tháng 5 năm 2015 quy định chi tiết một số nội dung về quy hoạch xây dựng."
+   },
+   {
+    "source_path": "Điều 29 Khoản 3",
+    "action": "bai-bo",
+    "target_document": "35/2023/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 1",
+     "Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ Điều 1 và Điều 2 quy định về quy hoạch chi tiết theo quy trình rút gọn tại Nghị định số 35/2023/NĐ-CP ngày 20 tháng 6 năm 2023 của Chính phủ sửa đổi, bổ sung một số điều của các Nghị định thuộc lĩnh vực quản lý nhà nước của Bộ Xây dựng."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Nghị định quy định chi tiết Luật Quy hoạch đô thị và nông thôn 47/2024/QH15. Phần đầu: tên và lời dẫn chỉ nêu tên luật, căn cứ không nêu số hiệu nên ghi tên luật. Điều 28 sửa 9 nghị định, mỗi điểm một quan hệ; \"Bỏ cụm từ\" ghi bai-bo + doi_tuong; Khoản 8 điểm b \"Sửa đổi, bổ sung cụm từ X thành Y\" ghi thay-cum-tu. Điều 28 Khoản 1 noi_dung bị cắt 6000 ký tự, đã đọc toàn văn."
+ }
+]

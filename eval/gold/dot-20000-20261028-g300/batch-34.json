@@ -1,0 +1,150 @@
+[
+ {
+  "doc_id": "657073",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "1614/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Danh mục hồ, ao, đầm không được san lấp",
+    "evidence": "VỀ VIỆC ĐIỀU CHỈNH, BỔ SUNG DANH MỤC HỒ, AO, ĐẦM KHÔNG ĐƯỢC SAN LẤP TẠI QUYẾT ĐỊNH SỐ 1614/QĐ-UBND NGÀY 20/3/2023 CỦA UBND THÀNH PHỐ."
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "1614/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Danh mục hồ, ao, đầm không được san lấp",
+    "evidence": "VỀ VIỆC ĐIỀU CHỈNH, BỔ SUNG DANH MỤC HỒ, AO, ĐẦM KHÔNG ĐƯỢC SAN LẤP TẠI QUYẾT ĐỊNH SỐ 1614/QĐ-UBND NGÀY 20/3/2023 CỦA UBND THÀNH PHỐ."
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "1614/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Danh mục hồ, ao, đầm không được san lấp",
+    "evidence": "Phê duyệt điều chỉnh, bổ sung Danh mục hồ, ao, đầm không được san lấp tại Quyết định số 1614/QĐ-UBND ngày 20/3/2023 của UBND Thành phố như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "1614/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Danh mục hồ, ao, đầm không được san lấp",
+    "evidence": "Phê duyệt điều chỉnh, bổ sung Danh mục hồ, ao, đầm không được san lấp tại Quyết định số 1614/QĐ-UBND ngày 20/3/2023 của UBND Thành phố như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "1614/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Điều chỉnh Danh mục hồ, ao, đầm không được san lấp trên địa bàn thành phố Hà Nội ghi tại Điều 1 Quyết định số 1614/QĐ-UBND ngày 20/3/2023 của UBND Thành phố thành: 3.501 hồ, ao, đầm không được san lấp."
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 1.1 STT 1",
+    "action": "bai-bo",
+    "target_document": "1614/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "STT 10 mục 6 Quận Tây Hồ (Ao Đầm Trị) của Danh mục hồ, ao, đầm không được san lấp",
+    "evidence": "STT 10 mục 6 Quận Tây Hồ Tại QĐ số 1614/QĐ-UBND ngày 20/3/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 3.2 STT 1",
+    "action": "sua-doi",
+    "target_document": "1614/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "STT 14 Mục 8 (Ao ông Vực) của Danh mục hồ, ao, đầm không được san lấp",
+    "evidence": "Điều chỉnh đơn vị quản lý tại STT 14, Mục 8 tại Quyết định số 1614/QĐ-UBND ngày 20/3/2023 của UBND TP"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 3.2 STT 2",
+    "action": "sua-doi",
+    "target_document": "1614/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "STT 35 Mục 8 (Hồ Định Công) của Danh mục hồ, ao, đầm không được san lấp",
+    "evidence": "Điều chỉnh diện tích STT 35, Mục 8 tại Quyết định số 1614/QĐ- UBND ngày 20/3/2023 của UBND TP"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 3.2 STT 3",
+    "action": "sua-doi",
+    "target_document": "1614/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "STT 36 Mục 8 (Hồ Đầm Sòi) của Danh mục hồ, ao, đầm không được san lấp",
+    "evidence": "Điều chỉnh diện tích STT 36, Mục 8 tại Quyết định số 1614/QĐ- UBND ngày 20/3/2023 của UBND TP"
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Phụ lục 1",
+    "loai": "thieu_noi_dung",
+    "ghi_chu": "Bảng danh mục kèm theo không có đơn vị trong don_vi; 4 dòng có hành động nêu QĐ 1614 (Mục 1.1 dòng 1; Mục 3.2 STT 1-3) bị bỏ sót."
+   }
+  ],
+  "ghi_chu": "Điều chỉnh = sua-doi. Dòng Phụ lục 1 Mục 1.1 (Tây Hồ, 'Điều chỉnh giảm (đưa ra khỏi danh mục)', dòng không có số TT) ghi bai-bo vì đưa mục ra khỏi danh mục; ghi chú dòng ghi ngày 20/3/2025 (sai, QĐ 1614 ngày 20/3/2023). Mục 6.1, 6.2 (Ứng Hòa: 'Đề xuất điều chỉnh bỏ', 'Điều chỉnh tên, vị trí') không nêu văn bản đích: không ghi quan hệ dòng. Khoản 3 Điều 1 giữ nguyên hiệu lực: không phải quan hệ."
+ },
+ {
+  "doc_id": "664872",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "204/CT-CS",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Cục Thuế bổ sung một số nội dung tại công văn số 204/CT-CS ngày 19/3/2025 như sau:"
+   },
+   {
+    "source_path": "Mục I",
+    "action": "thay-cum-tu",
+    "target_document": "204/CT-CS",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Các phụ lục kèm theo công văn số 204/CT-CS (tên gọi cơ quan thuế, chức danh người có thẩm quyền)",
+    "evidence": "Các phụ lục kèm theo công văn số 204/CT-CS được đổi tương ứng như trên."
+   },
+   {
+    "source_path": "Mục III",
+    "action": "huong-dan",
+    "target_document": "70/2025/NĐ-CP",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "tên gọi cơ quan, chức danh thẩm quyền",
+    "evidence": "Ngoài ra, Cục Thuế bổ sung thêm các nội dung hướng dẫn chuyển đổi tên gọi cơ quan, chức danh thẩm quyền của các văn bản ban hành trong thời gian từ 1/3/2025 đến 30/6/2025 tại Phụ lục gửi kèm."
+   },
+   {
+    "source_path": "Mục III",
+    "action": "huong-dan",
+    "target_document": "31/2025/TT-BTC",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "tên gọi cơ quan, chức danh thẩm quyền",
+    "evidence": "Ngoài ra, Cục Thuế bổ sung thêm các nội dung hướng dẫn chuyển đổi tên gọi cơ quan, chức danh thẩm quyền của các văn bản ban hành trong thời gian từ 1/3/2025 đến 30/6/2025 tại Phụ lục gửi kèm."
+   },
+   {
+    "source_path": "Mục III",
+    "action": "huong-dan",
+    "target_document": "40/2025/TT-BTC",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "tên gọi cơ quan, chức danh thẩm quyền",
+    "evidence": "Ngoài ra, Cục Thuế bổ sung thêm các nội dung hướng dẫn chuyển đổi tên gọi cơ quan, chức danh thẩm quyền của các văn bản ban hành trong thời gian từ 1/3/2025 đến 30/6/2025 tại Phụ lục gửi kèm."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn. Lời dẫn bổ sung CV 204/CT-CS. Mục I khoản 1-2 nêu tên gọi, chức danh mới (nội dung bổ sung cho CV 204); khoản 3 đổi tương ứng các phụ lục kèm theo CV 204. Mục II chỉ phổ biến NĐ 122/2025, NĐ 125/2025, TT 40/2025: không ghi. Mục III: 3 phụ lục là bảng đối chiếu tên gọi cho từng khoản của NĐ 70/2025/NĐ-CP (20 dòng), TT 31/2025/TT-BTC (Điều 2), TT 40/2025/TT-BTC (11 dòng); ghi huong-dan mức chung (vi_tri rỗng) — ca biên, cần người duyệt xác nhận. Chữ 'Bổ sung khoản 14', 'Sửa đổi, bổ sung khoản 3 Điều 12' trong bảng là trích nội dung NĐ 70 (lên NĐ 123/2020), không phải hành động của công văn."
+ }
+]

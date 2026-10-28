@@ -1,0 +1,27 @@
+[
+ {
+  "doc_id": "666541",
+  "relations": [
+   {
+    "source_path": "Điều 4",
+    "action": "thay-the",
+    "target_document": "3819/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực thi hành kể từ ngày ký ban hành và thay thế Quyết định số 3819/QĐ-UBND ngày 31/12/2021 của UBND tỉnh"
+   },
+   {
+    "source_path": "Điều 4",
+    "action": "thay-the",
+    "target_document": "1297/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 1297/QĐ-UBND ngày 14/6/2025 của UBND tỉnh"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 4 thay thế 2 quyết định nêu số hiệu; cụm \"các Quyết định trước ngày 01/7/2025 của UBND tỉnh về cập nhật, bổ sung mã định danh điện tử\" không nêu số hiệu nên không ghi quan hệ. Phụ lục chỉ là bảng mã định danh, không có hành động."
+ }
+]

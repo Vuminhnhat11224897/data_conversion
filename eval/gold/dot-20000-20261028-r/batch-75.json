@@ -1,0 +1,124 @@
+[
+ {
+  "doc_id": "676747",
+  "relations": [
+   {
+    "source_path": "Điều 2 Khoản 2 điểm a",
+    "action": "thay-the",
+    "target_document": "58/2024/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 58/2024/QĐ-UBND ngày 25 tháng 10 năm 2024 của Ủy ban nhân dân tỉnh Đồng Nai ban hành Quy định về bồi thường, hỗ trợ và tái định cư khi Nhà nước thu hồi đất trên địa bàn tỉnh Đồng Nai;"
+   },
+   {
+    "source_path": "Điều 2 Khoản 2 điểm b",
+    "action": "thay-the",
+    "target_document": "62/2024/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [
+     "Điều 4",
+     "khoản 3 Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Điều 4 và khoản 3 Điều 5 Quyết định số 62/2024/QĐ-UBND ngày 25 tháng 10 năm 2024 của Ủy ban nhân dân tỉnh Đồng Nai ban hành Quy định về bồi thường chi phí di chuyển tài sản; bồi thường, hỗ trợ chi phí di dời mồ mả khi nhà nước thu hồi đất trên địa bàn tỉnh Đồng Nai;"
+   },
+   {
+    "source_path": "Điều 2 Khoản 2 điểm c",
+    "action": "thay-the",
+    "target_document": "05/2025/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 05/2025/QĐ-UBND ngày 24 tháng 01 năm 2025 của Ủy ban nhân dân tỉnh Bình Phước ban hành Quy định về bồi thường, hỗ trợ và tái định cư khi Nhà nước thu hồi đất trên địa bàn tỉnh Bình Phước."
+   },
+   {
+    "source_path": "Phụ lục 1 Điều 1",
+    "action": "quy-dinh-chi-tiet",
+    "target_document": "31/2024/QH15",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 104",
+     "khoản 5 Điều 109",
+     "khoản 4 Điều 111",
+     "khoản 7 Điều 111",
+     "khoản 10 Điều 111"
+    ],
+    "doi_tuong": null,
+    "evidence": "Quy định này quy định chi tiết khoản 2 Điều 104, khoản 5 Điều 109, khoản 4, khoản 7 và khoản 10 Điều 111 của Luật Đất đai số 31/2024/QH15 được sửa đổi, bổ sung một số điều bởi các Luật số 43/2024/QH15, số 47/2024/QH15, số 58/2024/QH15, số 71/2025/QH15, số 84/2025/QH15, số 93/2025/QH15 và số 95/2025/QH15; khoản 3 Điều 4, điểm a và điểm d khoản 1 Điều 14, khoản 2 Điều 15, Điều 16, điểm b khoản 2 Điều 17, điểm c khoản 1 Điều 18, Điều 19, điểm b khoản 3, khoản 4, khoản 5 và khoản 6 Điều 20, Điều 21, khoản 3 Điều 22, khoản 2 Điều 23, điểm c khoản 1 và khoản 2 Điều 24 của Nghị định số 88/2024/NĐ-CP của Chính phủ quy định về bồi thường, hỗ trợ, tái định cư khi Nhà nước thu hồi đất được sửa đổi, bổ sung bởi Nghị định số 151/2025/NĐ-CP, Nghị định số 226/2025/NĐ-CP trên địa bàn tỉnh Đồng Nai."
+   },
+   {
+    "source_path": "Phụ lục 1 Điều 1",
+    "action": "quy-dinh-chi-tiet",
+    "target_document": "88/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 4",
+     "điểm a khoản 1 Điều 14",
+     "điểm d khoản 1 Điều 14",
+     "khoản 2 Điều 15",
+     "Điều 16",
+     "điểm b khoản 2 Điều 17",
+     "điểm c khoản 1 Điều 18",
+     "Điều 19",
+     "điểm b khoản 3 Điều 20",
+     "khoản 4 Điều 20",
+     "khoản 5 Điều 20",
+     "khoản 6 Điều 20",
+     "Điều 21",
+     "khoản 3 Điều 22",
+     "khoản 2 Điều 23",
+     "điểm c khoản 1 Điều 24",
+     "khoản 2 Điều 24"
+    ],
+    "doi_tuong": null,
+    "evidence": "Quy định này quy định chi tiết khoản 2 Điều 104, khoản 5 Điều 109, khoản 4, khoản 7 và khoản 10 Điều 111 của Luật Đất đai số 31/2024/QH15 được sửa đổi, bổ sung một số điều bởi các Luật số 43/2024/QH15, số 47/2024/QH15, số 58/2024/QH15, số 71/2025/QH15, số 84/2025/QH15, số 93/2025/QH15 và số 95/2025/QH15; khoản 3 Điều 4, điểm a và điểm d khoản 1 Điều 14, khoản 2 Điều 15, Điều 16, điểm b khoản 2 Điều 17, điểm c khoản 1 Điều 18, Điều 19, điểm b khoản 3, khoản 4, khoản 5 và khoản 6 Điều 20, Điều 21, khoản 3 Điều 22, khoản 2 Điều 23, điểm c khoản 1 và khoản 2 Điều 24 của Nghị định số 88/2024/NĐ-CP của Chính phủ quy định về bồi thường, hỗ trợ, tái định cư khi Nhà nước thu hồi đất được sửa đổi, bổ sung bởi Nghị định số 151/2025/NĐ-CP, Nghị định số 226/2025/NĐ-CP trên địa bàn tỉnh Đồng Nai."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 2 khoản 2 thay thế 2 quyết định và Điều 4, khoản 3 Điều 5 của QĐ 62/2024 (câu không nói thuộc Quy định kèm theo → khong_ro). Quy định kèm theo Điều 1 quy định chi tiết Luật Đất đai 31/2024/QH15 và NĐ 88/2024/NĐ-CP. Tên các Điều 3-19 chỉ dẫn lại vị trí được quy định chi tiết, đã gộp ở Điều 1. 'được sửa đổi, bổ sung bởi …' là lịch sử, Điều 22 là câu chung: không ghi."
+ },
+ {
+  "doc_id": "676887",
+  "relations": [
+   {
+    "source_path": "Điều 8",
+    "action": "bai-bo",
+    "target_document": "214/QĐ-TM",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Các Quyết định của Tổng Tham mưu trưởng Quân đội nhân dân Việt Nam: Số 214/QĐ-TM ngày 05 tháng 02 năm 2020 về việc ban hành Chương trình huấn luyện cứu hộ, cứu nạn cơ bản của các đối tượng; số 215/QĐ-TM ngày 05 tháng 02 năm 2020 về việc ban hành Chương trình huấn luyện cứu hộ, cứu nạn cơ bản trong các học viện, trường sĩ quan hết hiệu lực thi hành kể từ ngày Thông tư này có hiệu lực thi hành."
+   },
+   {
+    "source_path": "Điều 8",
+    "action": "bai-bo",
+    "target_document": "215/QĐ-TM",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Các Quyết định của Tổng Tham mưu trưởng Quân đội nhân dân Việt Nam: Số 214/QĐ-TM ngày 05 tháng 02 năm 2020 về việc ban hành Chương trình huấn luyện cứu hộ, cứu nạn cơ bản của các đối tượng; số 215/QĐ-TM ngày 05 tháng 02 năm 2020 về việc ban hành Chương trình huấn luyện cứu hộ, cứu nạn cơ bản trong các học viện, trường sĩ quan hết hiệu lực thi hành kể từ ngày Thông tư này có hiệu lực thi hành."
+   },
+   {
+    "source_path": "Điều 8",
+    "action": "bai-bo",
+    "target_document": "2831/QĐ-TM",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Các nội dung về huấn luyện cứu hộ, cứu nạn; nội dung về Chương trình huấn luyện cơ bản các đơn vị bộ binh, bộ binh cơ giới",
+    "evidence": "Các nội dung về huấn luyện cứu hộ, cứu nạn quy định tại Quyết định số 2831/QĐ-TM ngày 08 tháng 12 năm 2021 của Tổng Tham mưu trưởng Quân đội nhân dân Việt Nam về việc ban hành Chương trình huấn luyện cơ bản cho các đối tượng năm 2021, nội dung về Chương trình huấn luyện cơ bản các đơn vị bộ binh, bộ binh cơ giới hết hiệu lực thi hành kể từ ngày Thông tư này có hiệu lực thi hành."
+   },
+   {
+    "source_path": "Điều 8",
+    "action": "bai-bo",
+    "target_document": "2831/QĐ-TM",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Các nội dung về huấn luyện theo nhiệm vụ phòng, chống lụt bão, phân chậm lũ đối với các đơn vị làm nhiệm vụ kiêm nhiệm; nội dung về Chương trình huấn luyện cơ bản các đơn vị công binh",
+    "evidence": "Các nội dung về huấn luyện theo nhiệm vụ phòng, chống lụt bão, phân chậm lũ đối với các đơn vị làm nhiệm vụ kiêm nhiệm của quy định tại Quyết định số 2831/QĐ-TM ngày 08 tháng 12 năm 2021 của Tổng Tham mưu trưởng Quân đội nhân dân Việt Nam về việc ban hành Chương trình huấn luyện cơ bản cho các đối tượng năm 2021, nội dung về Chương trình huấn luyện cơ bản các đơn vị công binh hết hiệu lực thi hành kể từ ngày Thông tư này có hiệu lực thi hành."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 8 tuyên bố hết hiệu lực QĐ 214/QĐ-TM, 215/QĐ-TM và hai nhóm nội dung của QĐ 2831/QĐ-TM (nêu bằng tên, vị trí không rõ, thuộc Chương trình ban hành kèm theo nhưng câu không nêu phần)."
+ }
+]

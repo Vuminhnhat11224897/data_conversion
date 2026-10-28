@@ -1,0 +1,128 @@
+[
+ {
+  "doc_id": "663288",
+  "relations": [
+   {
+    "source_path": "Điều 4 Khoản 2",
+    "action": "thay-the",
+    "target_document": "16/2025/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này thay thế Quyết định số 16/2025/QĐ-UBND ngày 26 tháng 02 năm 2025 của Ủy ban nhân dân tỉnh quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Sở Nội vụ tỉnh Sơn La."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 2 chỉ là nhiệm vụ, quyền hạn (tham mưu, hướng dẫn), không tác động lên văn bản khác."
+ },
+ {
+  "doc_id": "663365",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "19/2025/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 19/2025/QĐ-UBND ngày 28 tháng 02 năm 2025 của Ủy ban nhân dân tỉnh Đồng Nai ban hành Quy định về chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Sở Y tế tỉnh Đồng Nai."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "24/2023/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 24/2023/QĐ-UBND ngày 18 tháng 5 năm 2023 của Ủy ban nhân dân tỉnh Bình Phước ban hành Quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Sở Y tế tỉnh Bình Phước."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "437/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 437/QĐ-UBND ngày 27 tháng 02 năm 2025 của Ủy ban nhân dân tỉnh Bình Phước về việc giao thực hiện chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Sở Y tế tỉnh Bình Phước"
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "25/2023/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 25/2023/QĐ-UBND ngày 18 tháng 5 năm 2023 của Ủy ban nhân dân tỉnh Bình Phước về việc ban hành Quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Sở Lao động - Thương binh và Xã hội tỉnh Bình Phước"
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 2",
+    "loai": "thieu_noi_dung",
+    "ghi_chu": "don_vi Điều 2 chỉ có câu dẫn '... thay thế các Quyết định sau:', mất khoản 1-4 liệt kê 4 quyết định bị thay thế."
+   }
+  ],
+  "ghi_chu": "Chữ hành động ở câu dẫn Điều 2; 4 văn bản đích lấy từ toàn văn khoản 1-4. Câu cuối Quy định (đề xuất sửa đổi, bổ sung Quy định này) không phải quan hệ. QĐ 25/2023 bị thay thế toàn bộ dù câu ghi chú '(bao gồm lĩnh vực ...)'."
+ },
+ {
+  "doc_id": "663708",
+  "relations": [
+   {
+    "source_path": "Điều 1",
+    "action": "quy-dinh-chi-tiet",
+    "target_document": "47/2024/QH15",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 5 Điều 10"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thông tư này quy định về định mức, phương pháp lập và quản lý chi phí cho hoạt động quy hoạch đô thị và nông thôn quy định tại khoản 5 Điều 10 Luật Quy hoạch đô thị và nông thôn."
+   },
+   {
+    "source_path": "Điều 13 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "20/2019/TT-BXD",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thông tư số 20/2019/TT-BXD ngày 31/12/2019 hướng dẫn xác định, quản lý chi phí quy hoạch xây dựng và quy hoạch đô thị và Thông tư số 02/2024/TT-BXD ngày 20 tháng 5 năm 2024 hướng dẫn xác định và quản lý chi phí quy hoạch chi tiết theo quy trình rút gọn của Bộ Xây dựng hết hiệu lực kể từ ngày Thông tư này có hiệu lực thi hành."
+   },
+   {
+    "source_path": "Điều 13 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "02/2024/TT-BXD",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thông tư số 20/2019/TT-BXD ngày 31/12/2019 hướng dẫn xác định, quản lý chi phí quy hoạch xây dựng và quy hoạch đô thị và Thông tư số 02/2024/TT-BXD ngày 20 tháng 5 năm 2024 hướng dẫn xác định và quản lý chi phí quy hoạch chi tiết theo quy trình rút gọn của Bộ Xây dựng hết hiệu lực kể từ ngày Thông tư này có hiệu lực thi hành."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 1 nêu phạm vi là nội dung quy định tại khoản 5 Điều 10 Luật Quy hoạch đô thị và nông thôn, ghi quy-dinh-chi-tiet. Căn cứ ghi số hiệu luật là '47/2014/QH15 ngày 26 tháng 11 năm 2024' (lỗi năm), ghi 47/2024/QH15."
+ },
+ {
+  "doc_id": "663720",
+  "relations": [
+   {
+    "source_path": "Điều 2 Khoản 2 điểm a",
+    "action": "bai-bo",
+    "target_document": "11/2025/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 11/2025/QĐ-UBND ngày 27 tháng 02 năm 2025 của UBND tỉnh Quảng Ngãi Ban hành Quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Sở Khoa học và Công nghệ tỉnh Quảng Ngãi;"
+   },
+   {
+    "source_path": "Điều 2 Khoản 2 điểm b",
+    "action": "bai-bo",
+    "target_document": "18/2025/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 18/2025/QĐ-UBND ngày 28 tháng 02 năm 2025 của UBND tỉnh Kon Tum ban hành Quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Sở Khoa học và Công nghệ tỉnh Kon Tum."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Câu dẫn 'Các Quyết định sau hết hiệu lực kể từ ngày Quyết định này có hiệu lực thi hành' do chính văn bản tuyên bố: bai-bo, ghi ở từng điểm."
+ }
+]

@@ -1,0 +1,931 @@
+[
+ {
+  "doc_id": "666362",
+  "relations": [
+   {
+    "source_path": "Điều 1",
+    "action": "bai-bo",
+    "target_document": "1900/QĐ-BCT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "biện pháp chống bán phá giá đối với một số sản phẩm bằng plastic được làm từ các polyme từ propylen",
+    "evidence": "Chấm dứt, không gia hạn việc áp dụng biện pháp chống bán phá giá đối với một số sản phẩm bằng plastic được làm từ các polyme từ propylen được quy định cụ thể tại Quyết định số 1900/QĐ-BCT ngày 20 tháng 7 năm 2020."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 1 chấm dứt, không gia hạn biện pháp chống bán phá giá quy định tại QĐ 1900/QĐ-BCT: ghi bai-bo (chấm dứt áp dụng do văn bản này quyết định). Ca biên: có thể coi là hết hạn tự nhiên vì không gia hạn."
+ },
+ {
+  "doc_id": "666425",
+  "relations": [
+   {
+    "source_path": "Điều 1",
+    "action": "sua-doi",
+    "target_document": "673/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "thời hạn giải quyết của một số thủ tục hành chính",
+    "evidence": "Điều chỉnh thời hạn giải quyết của một số thủ tục hành ban hành kèm theo Quyết định số 673/QĐ-UBND ngày 26 tháng 3 năm 2025"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 1 điều chỉnh thời hạn giải quyết 5 TTHC công bố kèm QĐ 673/QĐ-UBND; Khoản 1, 2 liệt kê thủ tục, không nêu lại văn bản đích nên ghi một quan hệ ở Điều 1."
+ },
+ {
+  "doc_id": "666452",
+  "relations": [
+   {
+    "source_path": "Điều 3",
+    "action": "thay-the",
+    "target_document": "1002/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "TTHC có số thứ tự 16 tiểu mục II Mục A - TTHC cấp tỉnh, Phần I; số thứ tự 15 tiểu mục II Mục B - TTHC cấp huyện, Phần I tại Danh mục",
+    "evidence": "Thay thế TTHC có số thứ tự 16 tiểu mục II Mục A - TTHC cấp tỉnh, Phần I; số thứ tự 15 tiểu mục II Mục B - TTHC cấp huyện, Phần I tại Danh mục được ban hành kèm theo Quyết định số 1002/QĐ-UBND ngày 12/4/2025"
+   },
+   {
+    "source_path": "Điều 3",
+    "action": "thay-the",
+    "target_document": "1017/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục I",
+     "Phụ lục II"
+    ],
+    "doi_tuong": "quy trình nội bộ, quy trình điện tử có số thứ tự 2 Mục II Phụ lục I; số thứ tự 1 Mục II Phụ lục II",
+    "evidence": "Thay thế quy trình nội bộ, quy trình điện tử có số thứ tự 2 Mục II - Lĩnh vực Phòng chống tệ nạn xã hội, Phụ lục I; số thứ tự 1 Mục II - Lĩnh vực Phòng chống tệ nạn xã hội, Phụ lục II được ban hành kèm Quyết định số 1017/QĐ - UBND ngày 14/4/2025"
+   },
+   {
+    "source_path": "Điều 3",
+    "action": "bai-bo",
+    "target_document": "1017/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Phụ lục I"
+    ],
+    "doi_tuong": "quy trình nội bộ, quy trình điện tử có số thứ tự 3, 4 Mục II Phụ lục I",
+    "evidence": "Bãi bỏ các quy trình nội bộ, quy trình điện tử có số thứ 3, 4 Mục II – Lĩnh vực Phòng chống tệ nạn xã hội, Phụ lục I được quy định tại Quyết định số 1017/QĐ - UBND ngày 14/4/2025"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Phụ lục I Phần III (TTHC bị bãi bỏ) chỉ nêu Nghị định 162/2025/NĐ-CP ở cột căn cứ, không nêu Quyết định công bố: không ghi quan hệ."
+ },
+ {
+  "doc_id": "666966",
+  "relations": [
+   {
+    "source_path": "Điều 2 Khoản 1",
+    "action": "thay-the",
+    "target_document": "2100/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thay thế Quyết định số 2100/QĐ-UBND ngày 11/9/2023 của UBND tỉnh (nay là UBND thành phố);"
+   },
+   {
+    "source_path": "Điều 2 Khoản 2",
+    "action": "thay-the",
+    "target_document": "2947/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thay thế Quyết định số 2947/QĐ-UBND ngày 14/11/2024 của UBND tỉnh (nay là UBND thành phố);"
+   },
+   {
+    "source_path": "Điều 2 Khoản 3",
+    "action": "thay-the",
+    "target_document": "2727/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thay thế Quyết định số 2727/QĐ-UBND ngày 21/10/2024 của UBND tỉnh (nay là UBND thành phố)."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Phụ lục danh mục là tệp đính kèm, không có trong toàn văn."
+ },
+ {
+  "doc_id": "667367",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 2 'thay thế toàn bộ quy trình nội bộ ... được Chủ tịch UBND tỉnh công bố trước đây' không nêu văn bản cụ thể: không ghi quan hệ. QĐ 1604/QĐ-UBND chỉ là nơi công bố TTHC."
+ },
+ {
+  "doc_id": "667404",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "56/2021/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA QUY ĐỊNH VỀ PHÂN CẤP NGUỒN THU, NHIỆM VỤ CHI VÀ TỶ LỆ PHẦN TRĂM PHÂN CHIA CÁC KHOẢN THU GIỮA CÁC CẤP NGÂN SÁCH TRÊN ĐỊA BÀN TỈNH GIAI ĐOẠN 2022-2025 BAN HÀNH KÈM THEO NGHỊ QUYẾT SỐ 56/2021/NQ-HĐND"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "56/2021/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA QUY ĐỊNH VỀ PHÂN CẤP NGUỒN THU, NHIỆM VỤ CHI VÀ TỶ LỆ PHẦN TRĂM PHÂN CHIA CÁC KHOẢN THU GIỮA CÁC CẤP NGÂN SÁCH TRÊN ĐỊA BÀN TỈNH GIAI ĐOẠN 2022-2025 BAN HÀNH KÈM THEO NGHỊ QUYẾT SỐ 56/2021/NQ-HĐND"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "56/2021/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 3 Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 3, Điều 2 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "56/2021/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 3 Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 3, Điều 2 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "56/2021/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 6 Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 6, Điều 2 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "56/2021/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 6 Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 6, Điều 2 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "sua-doi",
+    "target_document": "56/2021/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 6 Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 6, Điều 2 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "bo-sung",
+    "target_document": "56/2021/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 6 Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 6, Điều 2 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 4",
+    "action": "sua-doi",
+    "target_document": "56/2021/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 1 Điều 3",
+     "khoản 2 Điều 3",
+     "khoản 3 Điều 3",
+     "khoản 4 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1, khoản 2, khoản 3, khoản 4 Điều 3 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 4",
+    "action": "bo-sung",
+    "target_document": "56/2021/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 1 Điều 3",
+     "khoản 2 Điều 3",
+     "khoản 3 Điều 3",
+     "khoản 4 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1, khoản 2, khoản 3, khoản 4 Điều 3 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 5",
+    "action": "sua-doi",
+    "target_document": "56/2021/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "tên Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung tên Điều 5 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 5",
+    "action": "bo-sung",
+    "target_document": "56/2021/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "tên Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung tên Điều 5 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 6",
+    "action": "sua-doi",
+    "target_document": "56/2021/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 3 Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 3, Điều 5 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 6",
+    "action": "bo-sung",
+    "target_document": "56/2021/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 3 Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 3, Điều 5 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 7",
+    "action": "sua-doi",
+    "target_document": "56/2021/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 5 Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 5, Điều 5 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 7",
+    "action": "bo-sung",
+    "target_document": "56/2021/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 5 Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 5, Điều 5 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 8",
+    "action": "sua-doi",
+    "target_document": "56/2021/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 6 Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 6, Điều 5 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 8",
+    "action": "bo-sung",
+    "target_document": "56/2021/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 6 Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 6, Điều 5 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 9",
+    "action": "sua-doi",
+    "target_document": "56/2021/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 8 Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 8, Điều 5 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 9",
+    "action": "bo-sung",
+    "target_document": "56/2021/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 8 Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 8, Điều 5 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 10",
+    "action": "sua-doi",
+    "target_document": "56/2021/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 9 Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 9, Điều 5 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 10",
+    "action": "bo-sung",
+    "target_document": "56/2021/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 9 Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 9, Điều 5 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 11",
+    "action": "sua-doi",
+    "target_document": "56/2021/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 11 Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 11, Điều 5 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 11",
+    "action": "bo-sung",
+    "target_document": "56/2021/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 11 Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 11, Điều 5 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 12",
+    "action": "sua-doi",
+    "target_document": "56/2021/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "tên Điều 6"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi tên Điều 6 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 13",
+    "action": "sua-doi",
+    "target_document": "56/2021/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 7 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 13",
+    "action": "bo-sung",
+    "target_document": "56/2021/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 7 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 14",
+    "action": "bo-sung",
+    "target_document": "56/2021/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm f khoản 1 Điều 8"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung điểm f vào sau điểm e khoản 1 Điều 8 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 15",
+    "action": "sua-doi",
+    "target_document": "56/2021/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 9 Điều 9"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi khoản 9 Điều 9 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 16",
+    "action": "sua-doi",
+    "target_document": "56/2021/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 13 Điều 9"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi khoản 13 Điều 9 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 17",
+    "action": "sua-doi",
+    "target_document": "56/2021/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 3 Điều 10"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi khoản 3, Điều 10 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 18",
+    "action": "sua-doi",
+    "target_document": "56/2021/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 1 Điều 14"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1, Điều 14 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 18",
+    "action": "bo-sung",
+    "target_document": "56/2021/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 1 Điều 14"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1, Điều 14 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 19",
+    "action": "sua-doi",
+    "target_document": "56/2021/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 15"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 15 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 19",
+    "action": "bo-sung",
+    "target_document": "56/2021/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 15"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 15 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 20",
+    "action": "sua-doi",
+    "target_document": "56/2021/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 16"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 16 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 20",
+    "action": "bo-sung",
+    "target_document": "56/2021/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 16"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 16 như sau:"
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "56/2021/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 4",
+     "Điều 11",
+     "Điều 12",
+     "Điều 13"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ Điều 4, Điều 11, Điều 12, Điều 13 của Quy định về phân cấp nguồn thu, nhiệm vụ chi và tỷ lệ phần trăm phân chia các khoản thu giữa các cấp ngân sách trên địa bàn tỉnh giai đoạn 2022-2025 ban hành kèm theo Nghị quyết số 56/2021/NQ-HĐND"
+   },
+   {
+    "source_path": "Điều 4 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "71/2024/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Khoản 1 Điều 1 Nghị quyết số 71/2024/NQ-HĐND ngày 09 tháng 12 năm 2024 của Hội đồng nhân dân tỉnh sửa đổi, bổ sung một số điều của Quy định ban hành kèm theo Nghị quyết số 56/2021/NQ-HĐND ngày 10 tháng 12 năm 2021 và Quy định ban hành kèm theo Nghị quyết số 58/2021/NQ-HĐND ngày 10 tháng 12 năm 2021 của Hội đồng nhân dân tỉnh Lai Châu hết hiệu lực"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên và lời dẫn cùng nêu NQ 56/2021: ghi một cặp Phần đầu. Khoản 2 Điều 1 nói sửa khoản 6 Điều 2 nhưng nội dung mới là khoản 5 (có thể lỗi văn bản); ghi theo câu."
+ },
+ {
+  "doc_id": "667494",
+  "relations": [
+   {
+    "source_path": "Điều 3",
+    "action": "thay-the",
+    "target_document": "1112/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực kể từ ngày ký ban hành và thay thế Quyết định số 1112/QĐ-UBND ngày 10/5/2024, Quyết định số 1223/QĐ-UBND ngày 23/5/2024 và Quyết định số 2552/QĐ-UBND ngày 22/10/2024 của UBND tỉnh."
+   },
+   {
+    "source_path": "Điều 3",
+    "action": "thay-the",
+    "target_document": "1223/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực kể từ ngày ký ban hành và thay thế Quyết định số 1112/QĐ-UBND ngày 10/5/2024, Quyết định số 1223/QĐ-UBND ngày 23/5/2024 và Quyết định số 2552/QĐ-UBND ngày 22/10/2024 của UBND tỉnh."
+   },
+   {
+    "source_path": "Điều 3",
+    "action": "thay-the",
+    "target_document": "2552/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực kể từ ngày ký ban hành và thay thế Quyết định số 1112/QĐ-UBND ngày 10/5/2024, Quyết định số 1223/QĐ-UBND ngày 23/5/2024 và Quyết định số 2552/QĐ-UBND ngày 22/10/2024 của UBND tỉnh."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": ""
+ },
+ {
+  "doc_id": "667500",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "1298/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này thay thế Quyết định số 1298/QĐ-UBND ngày 05/6/2025 của Chủ tịch Ủy ban nhân dân tỉnh Tây Ninh"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Phần 'toàn bộ danh mục các thủ tục hành chính tương ứng ... được UBND tỉnh công bố trước đây' không nêu văn bản cụ thể: không ghi."
+ },
+ {
+  "doc_id": "667545",
+  "relations": [
+   {
+    "source_path": "Điều 3",
+    "action": "thay-the",
+    "target_document": "694/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực kể từ ngày ký và thay thế Quyết định số 694/QĐ-UBND ngày 01/02/2024 của Chủ tịch Ủy ban nhân dân thành phố Hà Nội."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": ""
+ },
+ {
+  "doc_id": "667581",
+  "relations": [
+   {
+    "source_path": "Điều 6 Khoản 2 điểm a",
+    "action": "bai-bo",
+    "target_document": "24/2023/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị quyết số 24/2023/NQ-HĐND ngày 08 tháng 12 năm 2023 của Hội đồng nhân dân Thành phố về quy định chức năng, nhiệm vụ, quyền hạn, tổ chức bộ máy của Sở An toàn thực phẩm Thành phố Hồ Chí Minh;"
+   },
+   {
+    "source_path": "Điều 6 Khoản 2 điểm b",
+    "action": "bai-bo",
+    "target_document": "03/2025/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị quyết số 03/2025/NQ-HĐND ngày 20 tháng 02 năm 2025 của Hội đồng nhân dân Thành phố về việc sửa đổi Nghị quyết số 24/2023/NQ-HĐND"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Câu dẫn 'Nghị quyết này bãi bỏ:' ở Khoản 2; quan hệ ghi ở từng điểm."
+ },
+ {
+  "doc_id": "667595",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "16/2022/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA NGHỊ QUYẾT SỐ 16/2022/NQ-HĐND"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "16/2022/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA NGHỊ QUYẾT SỐ 16/2022/NQ-HĐND"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "16/2022/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 2 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm a, khoản 2, Điều 1 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "16/2022/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 2 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm a, khoản 2, Điều 1 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2 điểm a",
+    "action": "bai-bo",
+    "target_document": "16/2022/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 3"
+    ],
+    "doi_tuong": "cụm từ “cấp tỉnh, cấp huyện”",
+    "evidence": "Bỏ cụm từ “cấp tỉnh, cấp huyện” tại khoản 1, Điều 3."
+   },
+   {
+    "source_path": "Điều 1 Khoản 2 điểm b",
+    "action": "thay-cum-tu",
+    "target_document": "16/2022/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [],
+    "doi_tuong": "cụm từ “cấp huyện”, “các huyện, thành phố” đối với phân bổ vốn sự nghiệp tại các phụ lục kèm theo nghị quyết",
+    "evidence": "Thay thế cụm từ “cấp huyện” bằng cụm từ “cấp xã”; cụm từ “các huyện, thành phố” bằng cụm từ “các xã, phường” đối với phân bổ vốn sự nghiệp tại các phụ lục kèm theo nghị quyết."
+   },
+   {
+    "source_path": "Điều 1 Khoản 2 điểm c",
+    "action": "thay-cum-tu",
+    "target_document": "16/2022/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Mục 4.2 Phần 4 Phụ lục 5",
+     "Mục 2.2 Phần 2 Phụ lục 9",
+     "Mục 3.2 Phần 3 Phụ lục 10"
+    ],
+    "doi_tuong": "cụm từ “Ban Dân tộc”",
+    "evidence": "Thay thế cụm từ “Ban Dân tộc” bằng cụm từ “Sở Dân tộc và Tôn giáo” tại các mục 4.2, phần 4, Phụ lục số 5; mục 2.2, phần 2, Phụ lục số 9; mục 3.2, phần 3, Phụ lục số 10."
+   },
+   {
+    "source_path": "Điều 1 Khoản 2 điểm d",
+    "action": "sua-doi",
+    "target_document": "16/2022/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Mục 2.2 Phần 2 Phụ lục 3"
+    ],
+    "doi_tuong": "tiêu chí, định mức phân bổ vốn sự nghiệp",
+    "evidence": "Sửa đổi, bổ sung tiêu chí, định mức phân bổ vốn sự nghiệp tại mục 2.2, phần 2, Phụ lục số 3 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2 điểm d",
+    "action": "bo-sung",
+    "target_document": "16/2022/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Mục 2.2 Phần 2 Phụ lục 3"
+    ],
+    "doi_tuong": "tiêu chí, định mức phân bổ vốn sự nghiệp",
+    "evidence": "Sửa đổi, bổ sung tiêu chí, định mức phân bổ vốn sự nghiệp tại mục 2.2, phần 2, Phụ lục số 3 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2 điểm đ",
+    "action": "sua-doi",
+    "target_document": "16/2022/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Mục 3.2 Phần 3 Phụ lục 5"
+    ],
+    "doi_tuong": "phân bổ vốn sự nghiệp cho cấp tỉnh",
+    "evidence": "Sửa đổi, bổ sung phân bổ vốn sự nghiệp cho cấp tỉnh tại mục 3.2, phần 3, Phụ lục số 5 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2 điểm đ",
+    "action": "bo-sung",
+    "target_document": "16/2022/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Mục 3.2 Phần 3 Phụ lục 5"
+    ],
+    "doi_tuong": "phân bổ vốn sự nghiệp cho cấp tỉnh",
+    "evidence": "Sửa đổi, bổ sung phân bổ vốn sự nghiệp cho cấp tỉnh tại mục 3.2, phần 3, Phụ lục số 5 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2 điểm e",
+    "action": "sua-doi",
+    "target_document": "16/2022/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Phần 2 Phụ lục 8"
+    ],
+    "doi_tuong": "phân bổ vốn sự nghiệp cho cấp tỉnh",
+    "evidence": "Sửa đổi, bổ sung phân bổ vốn sự nghiệp cho cấp tỉnh tại phần 2, Phụ lục số 8 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2 điểm e",
+    "action": "bo-sung",
+    "target_document": "16/2022/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Phần 2 Phụ lục 8"
+    ],
+    "doi_tuong": "phân bổ vốn sự nghiệp cho cấp tỉnh",
+    "evidence": "Sửa đổi, bổ sung phân bổ vốn sự nghiệp cho cấp tỉnh tại phần 2, Phụ lục số 8 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2 điểm f",
+    "action": "sua-doi",
+    "target_document": "16/2022/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Mục 1.2 Phần 1 Phụ lục 9"
+    ],
+    "doi_tuong": "phân bổ vốn sự nghiệp cho cấp tỉnh",
+    "evidence": "Sửa đổi, bổ sung phân bổ vốn sự nghiệp cho cấp tỉnh tại mục 1.2, phần 1, Phụ lục số 9 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2 điểm f",
+    "action": "bo-sung",
+    "target_document": "16/2022/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Mục 1.2 Phần 1 Phụ lục 9"
+    ],
+    "doi_tuong": "phân bổ vốn sự nghiệp cho cấp tỉnh",
+    "evidence": "Sửa đổi, bổ sung phân bổ vốn sự nghiệp cho cấp tỉnh tại mục 1.2, phần 1, Phụ lục số 9 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2 điểm g",
+    "action": "sua-doi",
+    "target_document": "16/2022/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Mục 1.2 Phần 1 Phụ lục 10"
+    ],
+    "doi_tuong": "phân bổ vốn sự nghiệp cho cấp tỉnh",
+    "evidence": "Sửa đổi, bổ sung phân bổ vốn sự nghiệp cho cấp tỉnh tại mục 1.2, phần 1, Phụ lục số 10 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2 điểm g",
+    "action": "bo-sung",
+    "target_document": "16/2022/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Mục 1.2 Phần 1 Phụ lục 10"
+    ],
+    "doi_tuong": "phân bổ vốn sự nghiệp cho cấp tỉnh",
+    "evidence": "Sửa đổi, bổ sung phân bổ vốn sự nghiệp cho cấp tỉnh tại mục 1.2, phần 1, Phụ lục số 10 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2 điểm h",
+    "action": "thay-cum-tu",
+    "target_document": "16/2022/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Phần 2 Phụ lục 10"
+    ],
+    "doi_tuong": "cụm từ “Sở Thông tin và Truyền thông”",
+    "evidence": "Thay thế cụm từ “Sở Thông tin và Truyền thông” bằng cụm từ “Sở Khoa học và Công nghệ” tại phần 2, Phụ lục số 10."
+   },
+   {
+    "source_path": "Điều 1 Khoản 2 điểm i",
+    "action": "sua-doi",
+    "target_document": "16/2022/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm b khoản 2 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm b, khoản 2, Điều 3 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2 điểm i",
+    "action": "bo-sung",
+    "target_document": "16/2022/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm b khoản 2 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm b, khoản 2, Điều 3 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "sua-doi",
+    "target_document": "16/2022/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 4"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 3, Điều 4 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "bo-sung",
+    "target_document": "16/2022/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 4"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 3, Điều 4 như sau:"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Bỏ cụm từ ghi bai-bo + doi_tuong. Điểm b thay 2 cụm từ trong cùng câu, cùng vị trí: một quan hệ. Câu dẫn Khoản 2 không ghi riêng."
+ },
+ {
+  "doc_id": "667693",
+  "relations": [
+   {
+    "source_path": "Điều 20 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "1603/2007/QĐ-BCA(X14)",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 1603/2007/QĐ-BCA(X14) ngày 14 tháng 12 năm 2007 của Bộ trưởng Bộ Công an ban hành Quy chế quản lý, giáo dục học sinh các trường Văn hóa Công an nhân dân hết hiệu lực kể từ ngày Thông tư này có hiệu lực."
+   },
+   {
+    "source_path": "Điều 20 Khoản 3",
+    "action": "bai-bo",
+    "target_document": "1107/2008/QĐ-BCA(X11)",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "các quy định đối với học sinh nước ngoài học tập chương trình giáo dục trung học phổ thông, Chương trình bồi dưỡng tiếng Việt, ôn tập kiến thức văn hóa trung học cơ sở tại Trường Văn hóa",
+    "evidence": "Bãi bỏ các quy định đối với học sinh nước ngoài học tập chương trình giáo dục trung học phổ thông, Chương trình bồi dưỡng tiếng Việt, ôn tập kiến thức văn hóa trung học cơ sở tại Trường Văn hóa trong Quyết định số 1107/2008/QĐ-BCA(X11)"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 20 Khoản 4 là câu chung về văn bản viện dẫn: không phải quan hệ."
+ },
+ {
+  "doc_id": "667707",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "697/QĐ-CHHĐTVN",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực thi hành kể từ ngày ký và thay thế Quyết định số 697/QĐ-CHHĐTVN ngày 30 tháng 5 năm 2025"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": ""
+ }
+]

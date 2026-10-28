@@ -1,0 +1,61 @@
+[
+ {
+  "doc_id": "672430",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "hop-nhat",
+    "target_document": "30/2013/QH13",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Luật Giáo dục quốc phòng và an ninh số 30/2013/QH13 ngày 19 tháng 6 năm 2013 của Quốc hội, có hiệu lực kể từ ngày 01 tháng 01 năm 2014, được sửa đổi, bổ sung bởi:"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "hop-nhat",
+    "target_document": "35/2018/QH14",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Luật số 35/2018/QH14 ngày 20 tháng 11 năm 2018 của Quốc hội sửa đổi, bổ sung một số điều của 37 luật có liên quan đến quy hoạch, có hiệu lực kể từ ngày 01 tháng 01 năm 2019;"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "hop-nhat",
+    "target_document": "98/2025/QH15",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Luật số 98/2025/QH15 ngày 27 tháng 6 năm 2025 của Quốc hội sửa đổi, bổ sung một số điều của 11 luật về quân sự, quốc phòng, có hiệu lực kể từ ngày 01 tháng 7 năm 2025."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Văn bản hợp nhất: quan hệ hop-nhat (Phần đầu) với luật gốc và các luật sửa đổi được hợp nhất. Các chú thích cuối trang ('được bãi bỏ/sửa đổi/thay thế theo …') và các câu 'Chính phủ/Chánh án … quy định chi tiết Điều này' là lịch sử hoặc giao nhiệm vụ trong chính luật, không ghi quan hệ."
+ },
+ {
+  "doc_id": "672448",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "hop-nhat",
+    "target_document": "58/2020/QH14",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Luật Hòa giải, đối thoại tại Tòa án số 58/2020/QH14 ngày 16 tháng 6 năm 2020 của Quốc hội, có hiệu lực kể từ ngày 01 tháng 01 năm 2021, được sửa đổi, bổ sung bởi:"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "hop-nhat",
+    "target_document": "85/2025/QH15",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Luật số 85/2025/QH15 ngày 25 tháng 6 năm 2025 của Quốc hội sửa đổi, bổ sung một số điều của Bộ luật Tố tụng dân sự, Luật Tố tụng hành chính, Luật Tư pháp người chưa thành niên, Luật Phá sản và Luật Hòa giải, đối thoại tại Tòa án, có hiệu lực kể từ ngày 01 tháng 7 năm 2025."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Văn bản hợp nhất: quan hệ hop-nhat (Phần đầu) với luật gốc và các luật sửa đổi được hợp nhất. Các chú thích cuối trang ('được bãi bỏ/sửa đổi/thay thế theo …') và các câu 'Chính phủ/Chánh án … quy định chi tiết Điều này' là lịch sử hoặc giao nhiệm vụ trong chính luật, không ghi quan hệ."
+ }
+]

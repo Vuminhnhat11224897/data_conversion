@@ -1,0 +1,59 @@
+[
+ {
+  "doc_id": "656384",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "538/QĐ-BTC",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực thi hành kể từ ngày ký và thay thế Quyết định số 538/QĐ-BTC ngày 24/3/2017 của Bộ trưởng Bộ Tài chính"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Phụ lục 1 Điều 16 'có quyền hủy bỏ quyết định của cấp dưới' là thẩm quyền: không ghi."
+ },
+ {
+  "doc_id": "656402",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "50/2015/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực thi hành kể từ ngày 20 tháng 5 năm 2025 và thay thế Quyết định số 50/2015/QĐ-UBND ngày 30 tháng 10 năm 2015 của Ủy ban nhân dân tỉnh Quảng Ngãi"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Phụ lục 1 Điều 19 khoản 2 (văn bản dẫn chiếu được sửa đổi, thay thế thì áp dụng văn bản mới) là câu chung: không ghi."
+ },
+ {
+  "doc_id": "656555",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "22/2021/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực kể từ ngày ký ban hành và thay thế Quyết định số 22/2021/QĐ-UBND ngày 08 tháng 10 năm 2021 của Ủy ban nhân dân tỉnh"
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "01/2023/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 01/2023/QĐ-UBND ngày 18 tháng 01 năm 2023 của Ủy ban nhân dân tỉnh ban hành Quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Sở Thông tin và Truyền thông tỉnh Bình Thuận"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": ""
+ }
+]

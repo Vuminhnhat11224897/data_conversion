@@ -1,0 +1,103 @@
+[
+ {
+  "doc_id": "664575",
+  "relations": [
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "quy-dinh-chi-tiet",
+    "target_document": "Luật Địa chất và khoáng sản",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 5 Điều 96"
+    ],
+    "doi_tuong": null,
+    "evidence": "Quy định chi tiết khoản 5 Điều 96 của Luật Địa chất và khoáng sản."
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "quy-dinh-chi-tiet",
+    "target_document": "193/2025/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 5 Điều 135",
+     "khoản 4 Điều 136",
+     "khoản 4 Điều 140",
+     "khoản 5 Điều 141",
+     "khoản 3 Điều 146",
+     "khoản 3 Điều 149"
+    ],
+    "doi_tuong": null,
+    "evidence": "Quy định chi tiết khoản 5 Điều 135; khoản 4 Điều 136; khoản 4 Điều 140; khoản 5 Điều 141; khoản 3 Điều 146; khoản 3 Điều 149 của Nghị định số 193/2025/NĐ-CP."
+   },
+   {
+    "source_path": "Điều 13 Khoản 2 điểm a",
+    "action": "bai-bo",
+    "target_document": "16/2014/TT-BTNMT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "a) Thông tư số 16/2014/TT-BTNMT ngày 14 tháng 4 năm 2014 của Bộ trưởng Bộ Tài nguyên và Môi trường ban hành quy chế hoạt động của Hội đồng đấu giá quyền khai thác khoáng sản;"
+   },
+   {
+    "source_path": "Điều 13 Khoản 2 điểm b",
+    "action": "bai-bo",
+    "target_document": "54/2014/TTLT-BTNMT-BTC",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thông tư liên tịch số 54/2014/TTLT-BTNMT-BTC ngày 09 tháng 9 năm 2014 của Bộ trưởng Bộ Tài nguyên và Môi trường, Bộ trưởng Bộ Tài chính quy định chi tiết một số điều của Nghị định số 22/2012/NĐ-CP ngày 26 tháng 3 năm 2012 của Chính phủ quy định về đấu giá quyền khai thác khoáng sản;"
+   },
+   {
+    "source_path": "Điều 13 Khoản 2 điểm c",
+    "action": "bai-bo",
+    "target_document": "38/2017/TT-BTNMT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "c) Thông tư số 38/2017/TT-BTNMT ngày 16 tháng 10 năm 2017 của Bộ trưởng Bộ Tài nguyên và Môi trường quy định phương pháp quy đổi từ giá tính thuế tài nguyên để xác định giá tính tiền cấp quyền khai thác khoáng sản;"
+   },
+   {
+    "source_path": "Điều 13 Khoản 2 điểm d",
+    "action": "bai-bo",
+    "target_document": "23/2018/TT-BTNMT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "d) Thông tư số 23/2018/TT-BTNMT ngày 15 tháng 11 năm 2018 của Bộ trưởng Bộ Tài nguyên và Môi trường quy định về tổ chức xác định, thẩm định và phê duyệt kết quả xác định chi phí đánh giá tiềm năng khoáng sản, chi phí thăm dò khoáng sản phải hoàn trả do Nhà nước đã đầu tư."
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 13 Khoản 2",
+    "loai": "thieu_noi_dung",
+    "ghi_chu": "don_vi chỉ có điểm b; các điểm a, c, d (Thông tư bị chấm dứt hiệu lực) không thành đơn vị riêng, chỉ nằm trong nội dung khoản 2."
+   }
+  ],
+  "ghi_chu": "Khoản 2 Điều 13 \"chấm dứt hiệu lực thi hành\" 4 Thông tư: ghi bai-bo. Luật Địa chất và khoáng sản không nêu số hiệu trong văn bản. Tên văn bản không nêu văn bản đích."
+ },
+ {
+  "doc_id": "666444",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "hop-nhat",
+    "target_document": "03/2021/TTLT-TANDTC-VKSNDTC-BCA-BQP",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thông tư liên tịch số 03/2021/TTLT-TANDTC-VKSNDTC-BCA-BQP ngày 11 tháng 10 năm 2021 của Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao, Bộ Công an, Bộ Quốc phòng quy định phối hợp trong thực hiện trình tự, thủ tục rút ngắn thời gian thử thách đối với người được tha tù trước thời hạn có điều kiện, người được hưởng án treo, có hiệu lực thi hành kể từ ngày 26 tháng 11 năm 2021, được sửa đổi, bổ sung bởi:"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "hop-nhat",
+    "target_document": "01/2025/TTLT-TANDTC-VKSNDTC-BCA-BQP",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thông tư liên tịch số 01/2025/TTLT-TANDTC-VKSNDTC-BCA-BQP ngày 30 tháng 6 năm 2025 của Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao, Bộ Công an, Bộ Quốc phòng sửa đổi, bổ sung một số điều của một số Thông tư liên tịch"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Văn bản hợp nhất: chỉ ghi hop-nhat 2 TTLT nêu ở phần đầu. Điều 9 (thay thế phần trình tự, thủ tục của TTLT 04/2018 và 08/2012) là nội dung chép lại của TTLT 03/2021, không ghi cho VBHN. Chú thích [1]-[6] là ghi chú lịch sử sửa đổi, không ghi."
+ }
+]

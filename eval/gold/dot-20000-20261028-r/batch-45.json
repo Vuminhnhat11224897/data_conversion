@@ -1,0 +1,30 @@
+[
+ {
+  "doc_id": "664743",
+  "relations": [
+   {
+    "source_path": "Điều 1",
+    "action": "quy-dinh-chi-tiet",
+    "target_document": "08/2022/TT-BTNMT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 18",
+     "khoản 2 Điều 19"
+    ],
+    "doi_tuong": null,
+    "evidence": "Quyết định này quy định chi tiết khoản 2 Điều 18 và khoản 2 Điều 19 của Thông tư số 08/2022/TT-BTNMT về nội dung bản tin dự báo, cảnh báo khí tượng thủy văn, tần suất ban hành bản tin dự báo, cảnh báo khí tượng thủy văn và phân cấp trách nhiệm ban hành bản tin dự báo, cảnh báo khí tượng thủy văn trong điều kiện bình thường."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "194/QĐ-KTTV",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực kể từ ngày 01 tháng 7 năm 2025 và thay thế Quyết định số 194/QĐ-KTTV ngày 8 tháng 5 năm 2025 của Cục trưởng Cục Khí tượng Thủy văn quy định về nội dung, tần suất và phân cấp trách nhiệm ban hành bản tin dự báo, cảnh báo khí tượng thủy văn trong điều kiện bình thường."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 1 quy định chi tiết khoản 2 Điều 18, khoản 2 Điều 19 TT 08/2022/TT-BTNMT; Điều 2 thay thế QĐ 194/QĐ-KTTV. Quy định kèm theo và 11 phụ lục (danh sách vị trí dự báo) không có tác động. Tiêu đề Phụ lục VII ghi nhầm \"30/QĐ-KTTV\" (chính văn bản này), không phải đích. QĐ 18/2021/QĐ-TTg chỉ được dẫn chiếu."
+ }
+]

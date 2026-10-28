@@ -1,0 +1,70 @@
+[
+ {
+  "doc_id": "658017",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "07/2023/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 07/2023/QĐ-UBND ngày 07/4/2023 của UBND tỉnh Bắc Ninh ban hành Quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Sở Y tế tỉnh Bắc Ninh hết hiệu lực kể từ ngày Quyết định này có hiệu lực thi hành."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "38/2024/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ Quyết định số 38/2024/QĐ-UBND ngày 23/10/2024 của UBND tỉnh Bắc Ninh ban hành quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Ban Quản lý An toàn thực phẩm tỉnh Bắc Ninh"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 2 tuyên bố QĐ 07/2023 hết hiệu lực và bãi bỏ QĐ 38/2024. \"các Quyết định trước đây trái với Quyết định này\" là câu chung, không ghi. Quy định kèm theo không có hành động lên văn bản khác."
+ },
+ {
+  "doc_id": "658028",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "1215/QĐ-BXD",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định có hiệu lực kể từ ngày ký và thay thế Quyết định số 1215/QĐ-BXD ngày 14/9/2020 của Bộ trưởng Bộ Xây dựng."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 2 thay thế QĐ 1215/QĐ-BXD. Phương án kèm theo chỉ nêu căn cứ."
+ },
+ {
+  "doc_id": "658819",
+  "relations": [
+   {
+    "source_path": "Điều 2 Khoản 2",
+    "action": "thay-the",
+    "target_document": "101/QĐ-BXD",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thay thế Quyết định số 101/QĐ-BXD ngày 24/01/2025 của Bộ trưởng Bộ Xây dựng ban hành quy chế soạn thảo, ban hành văn bản quy phạm pháp luật thuộc phạm vi chức năng quản lý nhà nước của Bộ Xây dựng."
+   },
+   {
+    "source_path": "Điều 2 Khoản 3",
+    "action": "bai-bo",
+    "target_document": "394/QĐ-BXD",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 8"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ Điều 8 của Quy chế ban hành kèm theo Quyết định số 394/QĐ-BXD ngày 11/4/2025 của Bộ trưởng Bộ Xây dựng ban hành Quy chế phát ngôn và cung cấp thông tin cho báo chí của Bộ Xây dựng."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 2 Khoản 2 thay thế QĐ 101/QĐ-BXD; Khoản 3 bãi bỏ Điều 8 Quy chế kèm theo QĐ 394/QĐ-BXD. Quy chế kèm theo (Điều 9, 48...) chỉ quy định thủ tục chung, không tác động văn bản cụ thể."
+ }
+]

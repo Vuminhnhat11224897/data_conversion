@@ -1,0 +1,130 @@
+[
+ {
+  "doc_id": "666347",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Kế hoạch phòng chống ma túy; không có tác động lên văn bản."
+ },
+ {
+  "doc_id": "667136",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn trả lời về thuế suất; không có tác động."
+ },
+ {
+  "doc_id": "667316",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 1 nêu quy định \"theo Điều 15 Nghị định số 112/2024/NĐ-CP\" nhưng không nói quy định chi tiết hoặc hướng dẫn: không ghi. Khoản 2 Điều 3 là câu chung về văn bản viện dẫn."
+ },
+ {
+  "doc_id": "667982",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn hướng dẫn công tác tiếp nhận, bổ nhiệm; không hướng dẫn hay tác động lên văn bản cụ thể."
+ },
+ {
+  "doc_id": "668288",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quyết định ủy quyền giải quyết TTHC; \"Bãi bỏ đường ngang\" là tên thủ tục, không phải hành động."
+ },
+ {
+  "doc_id": "668380",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn trả lời doanh nghiệp; không có tác động."
+ },
+ {
+  "doc_id": "668611",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quyết định công bố danh mục dự án nạo vét; không có tác động."
+ },
+ {
+  "doc_id": "669282",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quyết định công bố đơn giá; không có tác động lên văn bản."
+ },
+ {
+  "doc_id": "669605",
+  "relations": [
+   {
+    "source_path": "Mục II",
+    "action": "thay-the",
+    "target_document": "09/KH-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Kế hoạch này thay thế Kế hoạch số 09/KH-UBND ngày 15/01/2025 của UBND tỉnh"
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Mục II",
+    "loai": "thieu_noi_dung",
+    "ghi_chu": "noi_dung của Mục II bị cắt ở 6.000 ký tự; câu cuối \"Kế hoạch này thay thế Kế hoạch số 09/KH-UBND…\" (đoạn kết sau Mục II) không có trong don_vi."
+   }
+  ],
+  "ghi_chu": "Câu thay thế nằm ở đoạn kết của Kế hoạch, sau Mục II; ghi source_path Mục II theo toàn văn."
+ },
+ {
+  "doc_id": "670544",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Kế hoạch triển khai Nghị quyết 193/NQ-CP; \"rà soát, sửa đổi, bổ sung quy chế\" là nhiệm vụ, không ghi."
+ },
+ {
+  "doc_id": "670606",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Nghị quyết giám sát kiến nghị cử tri; không có tác động."
+ },
+ {
+  "doc_id": "671355",
+  "relations": [
+   {
+    "source_path": "Điều 1",
+    "action": "sua-doi",
+    "target_document": "919/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Danh mục địa điểm tổ chức hội chợ, triển lãm thương mại năm 2025",
+    "evidence": "Phê duyệt sửa đổi, bổ sung Danh mục địa điểm tổ chức hội chợ, triển lãm thương mại trên địa bàn tỉnh Bắc Ninh năm 2025 (Chi tiết tại Phụ lục kèm theo)."
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "sua-doi",
+    "target_document": "519/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Danh mục địa điểm tổ chức hội chợ, triển lãm thương mại năm 2025",
+    "evidence": "Phê duyệt sửa đổi, bổ sung Danh mục địa điểm tổ chức hội chợ, triển lãm thương mại trên địa bàn tỉnh Bắc Ninh năm 2025 (Chi tiết tại Phụ lục kèm theo)."
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "sua-doi",
+    "target_document": "862/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Danh mục địa điểm tổ chức hội chợ, triển lãm thương mại năm 2025",
+    "evidence": "Phê duyệt sửa đổi, bổ sung Danh mục địa điểm tổ chức hội chợ, triển lãm thương mại trên địa bàn tỉnh Bắc Ninh năm 2025 (Chi tiết tại Phụ lục kèm theo)."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 1 phê duyệt sửa đổi, bổ sung Danh mục (chi tiết tại Phụ lục). Phụ lục mục I \"Sửa đổi Danh mục\" liệt kê địa điểm sửa đổi tại QĐ 919/QĐ-UBND (Bắc Giang), 519/QĐ-UBND (Bắc Ninh cũ), 862/QĐ-UBND (Bắc Giang). Mục II \"Bổ sung\" chỉ thêm 1 địa điểm vào danh mục năm 2025, không nêu văn bản đích: không ghi bo-sung. Tên văn bản không nêu số hiệu đích."
+ },
+ {
+  "doc_id": "671413",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quyết định ban hành khung kế hoạch năm học; không có tác động."
+ },
+ {
+  "doc_id": "672135",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quyết định ủy quyền; không có tác động lên văn bản."
+ }
+]

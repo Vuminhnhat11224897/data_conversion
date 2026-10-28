@@ -1,0 +1,34 @@
+[
+ {
+  "doc_id": "656691",
+  "relations": [
+   {
+    "source_path": "Điều 2 Khoản 2",
+    "action": "thay-the",
+    "target_document": "03/2023/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này thay thế Quyết định số 03/2023/QĐ-UBND ngày 25 tháng 12 năm 2023 của Ủy ban nhân dân quận Tân Bình về ban hành Quy định về chức năng, nhiệm vụ, quyền hạn, tổ chức, chế độ làm việc, quy chế phối hợp trong công tác của Phòng Nội vụ và quyền hạn, trách nhiệm, chức danh, tiêu chuẩn công chức của Phòng Nội vụ thuộc Ủy ban nhân dân quận Tân Bình."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quyết định ban hành Quy định mới, thay thế toàn bộ QĐ 03/2023/QĐ-UBND. Quy định kèm theo không có tác động."
+ },
+ {
+  "doc_id": "656712",
+  "relations": [
+   {
+    "source_path": "Điều 3",
+    "action": "thay-the",
+    "target_document": "646/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực kể từ ngày ký và thay thế Quyết định số 646/QĐ-UBND ngày 11/4/2025 của UBND tỉnh Vĩnh Phúc về việc phê duyệt Đề án hỗ trợ người có công với cách mạng và thân nhân liệt sĩ về nhà ở trên địa bàn tỉnh Vĩnh Phúc năm 2025."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 1 \"điều chỉnh Đề án\" không nêu số hiệu văn bản, chỉ ghi quan hệ thay thế QĐ 646/QĐ-UBND ở Điều 3."
+ }
+]

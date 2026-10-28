@@ -1,0 +1,367 @@
+[
+ {
+  "doc_id": "667836",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "6281/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "Danh mục thủ tục hành chính",
+    "evidence": "Các Danh mục thủ tục hành chính quy định tại Quyết định này thay thế các Danh mục thủ tục hành chính quy định tại Quyết định số 6281/QĐ-UBND ngày 05/12/2024 của Chủ tịch Ủy ban nhân dân thành phố Hà Nội; Quyết định số 122/QĐ-TTPVHCC ngày 19/02/2025 của Giám đốc Trung tâm Phục vụ Hành chính công thành phố Hà Nội."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "122/QĐ-TTPVHCC",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "Danh mục thủ tục hành chính",
+    "evidence": "Các Danh mục thủ tục hành chính quy định tại Quyết định này thay thế các Danh mục thủ tục hành chính quy định tại Quyết định số 6281/QĐ-UBND ngày 05/12/2024 của Chủ tịch Ủy ban nhân dân thành phố Hà Nội; Quyết định số 122/QĐ-TTPVHCC ngày 19/02/2025 của Giám đốc Trung tâm Phục vụ Hành chính công thành phố Hà Nội."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 2 thay thế các Danh mục TTHC quy định tại 2 quyết định. Điều 1 chỉ công bố danh mục; các văn bản trong phụ lục là căn cứ pháp lý."
+ },
+ {
+  "doc_id": "668068",
+  "relations": [
+   {
+    "source_path": "Điều 2 Khoản 2 điểm a",
+    "action": "bai-bo",
+    "target_document": "35/2016/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Các Nghị quyết sau hết hiệu lực kể từ ngày 30 tháng 7 năm 2025:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 2 điểm a",
+    "action": "bai-bo",
+    "target_document": "19/2019/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Các Nghị quyết sau hết hiệu lực kể từ ngày 30 tháng 7 năm 2025:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 2 điểm a",
+    "action": "bai-bo",
+    "target_document": "26/2020/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Các Nghị quyết sau hết hiệu lực kể từ ngày 30 tháng 7 năm 2025:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 2 điểm a",
+    "action": "bai-bo",
+    "target_document": "08/2022/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Các Nghị quyết sau hết hiệu lực kể từ ngày 30 tháng 7 năm 2025:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 2 điểm a",
+    "action": "bai-bo",
+    "target_document": "36/2023/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Các Nghị quyết sau hết hiệu lực kể từ ngày 30 tháng 7 năm 2025:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 2 điểm a",
+    "action": "bai-bo",
+    "target_document": "96/2023/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Các Nghị quyết sau hết hiệu lực kể từ ngày 30 tháng 7 năm 2025:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 2 điểm a",
+    "action": "bai-bo",
+    "target_document": "03/2023/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Các Nghị quyết sau hết hiệu lực kể từ ngày 30 tháng 7 năm 2025:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 2 điểm a",
+    "action": "bai-bo",
+    "target_document": "24/2024/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Các Nghị quyết sau hết hiệu lực kể từ ngày 30 tháng 7 năm 2025:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 2 điểm a",
+    "action": "bai-bo",
+    "target_document": "06/2025/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Các Nghị quyết sau hết hiệu lực kể từ ngày 30 tháng 7 năm 2025:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 2 điểm b",
+    "action": "bai-bo",
+    "target_document": "18/2020/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Các Nghị quyết sau hết hiệu lực kể từ ngày 30 tháng 7 năm 2025:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 2 điểm b",
+    "action": "bai-bo",
+    "target_document": "11/2022/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Các Nghị quyết sau hết hiệu lực kể từ ngày 30 tháng 7 năm 2025:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 2 điểm b",
+    "action": "bai-bo",
+    "target_document": "05/2023/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Các Nghị quyết sau hết hiệu lực kể từ ngày 30 tháng 7 năm 2025:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 2 điểm b",
+    "action": "bai-bo",
+    "target_document": "01/2023/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Các Nghị quyết sau hết hiệu lực kể từ ngày 30 tháng 7 năm 2025:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 2 điểm b",
+    "action": "bai-bo",
+    "target_document": "10/2024/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Các Nghị quyết sau hết hiệu lực kể từ ngày 30 tháng 7 năm 2025:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 2 điểm b",
+    "action": "bai-bo",
+    "target_document": "04/2023/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Các Nghị quyết sau hết hiệu lực kể từ ngày 30 tháng 7 năm 2025:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 2 điểm b",
+    "action": "bai-bo",
+    "target_document": "07/2021/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Các Nghị quyết sau hết hiệu lực kể từ ngày 30 tháng 7 năm 2025:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 2 điểm c",
+    "action": "bai-bo",
+    "target_document": "46/2017/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Các Nghị quyết sau hết hiệu lực kể từ ngày 30 tháng 7 năm 2025:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 2 điểm c",
+    "action": "bai-bo",
+    "target_document": "50/2017/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Các Nghị quyết sau hết hiệu lực kể từ ngày 30 tháng 7 năm 2025:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 2 điểm c",
+    "action": "bai-bo",
+    "target_document": "51/2017/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Các Nghị quyết sau hết hiệu lực kể từ ngày 30 tháng 7 năm 2025:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 2 điểm c",
+    "action": "bai-bo",
+    "target_document": "52/2017/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Các Nghị quyết sau hết hiệu lực kể từ ngày 30 tháng 7 năm 2025:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 2 điểm c",
+    "action": "bai-bo",
+    "target_document": "76/2017/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Các Nghị quyết sau hết hiệu lực kể từ ngày 30 tháng 7 năm 2025:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 2 điểm c",
+    "action": "bai-bo",
+    "target_document": "05/2018/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Các Nghị quyết sau hết hiệu lực kể từ ngày 30 tháng 7 năm 2025:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 2 điểm c",
+    "action": "bai-bo",
+    "target_document": "78/2022/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Các Nghị quyết sau hết hiệu lực kể từ ngày 30 tháng 7 năm 2025:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 2 điểm c",
+    "action": "bai-bo",
+    "target_document": "79/2022/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Các Nghị quyết sau hết hiệu lực kể từ ngày 30 tháng 7 năm 2025:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 2 điểm c",
+    "action": "bai-bo",
+    "target_document": "80/2022/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Các Nghị quyết sau hết hiệu lực kể từ ngày 30 tháng 7 năm 2025:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 2 điểm c",
+    "action": "bai-bo",
+    "target_document": "81/2022/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Các Nghị quyết sau hết hiệu lực kể từ ngày 30 tháng 7 năm 2025:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 2 điểm c",
+    "action": "bai-bo",
+    "target_document": "83/2022/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Các Nghị quyết sau hết hiệu lực kể từ ngày 30 tháng 7 năm 2025:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 2 điểm c",
+    "action": "bai-bo",
+    "target_document": "75/2023/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Các Nghị quyết sau hết hiệu lực kể từ ngày 30 tháng 7 năm 2025:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 2 điểm c",
+    "action": "bai-bo",
+    "target_document": "115/2023/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Các Nghị quyết sau hết hiệu lực kể từ ngày 30 tháng 7 năm 2025:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 2 điểm c",
+    "action": "bai-bo",
+    "target_document": "134/2023/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Các Nghị quyết sau hết hiệu lực kể từ ngày 30 tháng 7 năm 2025:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 2 điểm c",
+    "action": "bai-bo",
+    "target_document": "143/2023/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Các Nghị quyết sau hết hiệu lực kể từ ngày 30 tháng 7 năm 2025:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 2 điểm c",
+    "action": "bai-bo",
+    "target_document": "58/2024/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Các Nghị quyết sau hết hiệu lực kể từ ngày 30 tháng 7 năm 2025:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 2 điểm c",
+    "action": "bai-bo",
+    "target_document": "127/2024/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Các Nghị quyết sau hết hiệu lực kể từ ngày 30 tháng 7 năm 2025:"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Khoản 2 Điều 2 tuyên bố 33 nghị quyết (Ninh Bình, Hà Nam, Nam Định) hết hiệu lực; mỗi nghị quyết một quan hệ ở điểm chứa nó. 06/2025/NQ-HĐND ngày 22/6/2025 là văn bản khác cùng số hiệu. Quy định kèm theo không tác động văn bản khác."
+ },
+ {
+  "doc_id": "668193",
+  "relations": [
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "461/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "Danh mục các công trình, dự án thực hiện trong Kế hoạch sử dụng đất năm 2025 huyện Đan Phượng",
+    "evidence": "Điều chỉnh, bổ sung 50 công trình, dự án (với tổng diện tích sử dụng đất khoảng 171,9ha) trong Danh mục các công trình, dự án thực hiện trong Kế hoạch sử dụng đất năm 2025 huyện Đan Phượng."
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "461/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "Danh mục các công trình, dự án thực hiện trong Kế hoạch sử dụng đất năm 2025 huyện Đan Phượng",
+    "evidence": "Điều chỉnh, bổ sung 50 công trình, dự án (với tổng diện tích sử dụng đất khoảng 171,9ha) trong Danh mục các công trình, dự án thực hiện trong Kế hoạch sử dụng đất năm 2025 huyện Đan Phượng."
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "461/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Điều chỉnh nội dung “Danh mục các công trình, dự án nằm trong kế hoạch sử dụng đất năm 2025 bao gồm 106 dự án với tổng diện tích là 1.370,61ha” tại khoản 1 Điều 1 Quyết định số 461/QĐ-UBND ngày 23/01/2025 của UBND Thành phố thành “Danh mục các công trình, dự án trong Kế hoạch sử dụng đất năm 2025 huyện Đan Phượng bao gồm 142 dự án, với tổng diện tích khoảng 1.484,88 ha.”"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 1 (câu dẫn) phê duyệt điều chỉnh, bổ sung Kế hoạch sử dụng đất 2025 đã phê duyệt tại QĐ 461/QĐ-UBND; hành động cụ thể ghi ở khoản 1, 2 (đích lấy từ câu dẫn Điều 1 cho khoản 1). Tên văn bản không nêu số hiệu đích. Phụ lục 2 là danh mục dự án bổ sung theo khoản 4 Điều 67 Luật Đất đai, không nói tác động văn bản khác."
+ }
+]

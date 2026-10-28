@@ -1,0 +1,100 @@
+[
+ {
+  "doc_id": "657704",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "729/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "định mức kinh tế - kỹ thuật trong công tác quản lý khai thác công trình thủy lợi trên địa bàn tỉnh Bắc Kạn của Công ty TNHH MTV Quản lý, khai thác công trình thủy lợi Bắc Kạn",
+    "evidence": "Bãi bỏ định mức kinh tế - kỹ thuật trong công tác quản lý khai thác công trình thủy lợi trên địa bàn tỉnh Bắc Kạn của Công ty TNHH MTV Quản lý, khai thác công trình thủy lợi Bắc Kạn theo Quyết định số 729/QĐ-UBND ngày 25 tháng 5 năm 2021 của Ủy ban nhân dân tỉnh Bắc Kạn."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Bãi bỏ định mức được ban hành theo QĐ 729/QĐ-UBND; câu không nêu vị trí."
+ },
+ {
+  "doc_id": "657766",
+  "relations": [
+   {
+    "source_path": "Điều 2 Khoản 2 điểm a",
+    "action": "bai-bo",
+    "target_document": "39/2010/TT-BTNMT",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "QCVN 26:2010/BTNMT - Quy chuẩn kỹ thuật quốc gia về tiếng ồn",
+    "evidence": "QCVN 26:2010/BTNMT - Quy chuẩn kỹ thuật quốc gia về tiếng ồn (ban hành kèm theo Thông tư số 39/2010/TT-BTNMT ngày 16 tháng 12 năm 2010 của Bộ trưởng Bộ Tài nguyên và Môi trường quy định quy chuẩn kỹ thuật quốc gia về môi trường);"
+   },
+   {
+    "source_path": "Điều 2 Khoản 2 điểm b",
+    "action": "bai-bo",
+    "target_document": "39/2010/TT-BTNMT",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "QCVN 27:2010/BTNMT - Quy chuẩn kỹ thuật quốc gia về độ rung",
+    "evidence": "QCVN 27:2010/BTNMT - Quy chuẩn kỹ thuật quốc gia về độ rung (ban hành kèm theo Thông tư số 39/2010/TT-BTNMT ngày 16 tháng 12 năm 2010 của Bộ trưởng Bộ Tài nguyên và Môi trường quy định quy chuẩn kỹ thuật quốc gia về môi trường);"
+   },
+   {
+    "source_path": "Điều 2 Khoản 2 điểm c",
+    "action": "bai-bo",
+    "target_document": "78/2010/TT-BTNMT",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "QCVN 43:2017/BTNMT - Quy chuẩn kỹ thuật quốc gia về chất lượng trầm tích",
+    "evidence": "QCVN 43:2017/BTNMT - Quy chuẩn kỹ thuật quốc gia về chất lượng trầm tích (ban hành kèm theo Thông tư số 78/2010/TT-BTNMT ngày 29 tháng 12 năm 2017 của Bộ trưởng Bộ Tài nguyên và Môi trường ban hành quy chuẩn kỹ thuật quốc gia về môi trường)."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Câu dẫn khoản 2: các QCVN sau hết hiệu lực; đích là Thông tư ban hành kèm QCVN. Số hiệu '78/2010/TT-BTNMT ngày 29/12/2017' ghi đúng như văn bản (có thể sai năm). Câu 'QCVN 26:2025/BNNMT thay thế QCVN 26:2010/BTNMT' (và 27, 43) trong phần quy chuẩn kèm theo chỉ nêu quy chuẩn, không ghi quan hệ."
+ },
+ {
+  "doc_id": "657787",
+  "relations": [
+   {
+    "source_path": "Điều 2 Khoản 2",
+    "action": "thay-the",
+    "target_document": "09/2014/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này thay thế các Quyết định:\n\n- Quyết định số 09/2014/QĐ-UBND ngày 14 tháng 7 năm 2014 của Ủy ban nhân dân tỉnh Sóc Trăng"
+   },
+   {
+    "source_path": "Điều 2 Khoản 2",
+    "action": "thay-the",
+    "target_document": "27/2017/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "- Quyết định số 27/2017/QĐ-UBND ngày 08 tháng 8 năm 2017 của Ủy ban nhân dân tỉnh Sóc Trăng ban hành Quy định việc trình, thẩm định phương án giá"
+   },
+   {
+    "source_path": "Phụ lục 1 Điều 1",
+    "action": "quy-dinh-chi-tiet",
+    "target_document": "Luật Giá",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 16",
+     "khoản 5 Điều 16"
+    ],
+    "doi_tuong": null,
+    "evidence": "chi tiết khoản 1, khoản 5 Điều 16 Luật Giá năm 2023, điểm c khoản 3 Điều 28 Nghị định số 85/2024/NĐ-CP ngày 10 tháng 7 năm 2024 của Chính phủ"
+   },
+   {
+    "source_path": "Phụ lục 1 Điều 1",
+    "action": "quy-dinh-chi-tiet",
+    "target_document": "85/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm c khoản 3 Điều 28"
+    ],
+    "doi_tuong": null,
+    "evidence": "chi tiết khoản 1, khoản 5 Điều 16 Luật Giá năm 2023, điểm c khoản 3 Điều 28 Nghị định số 85/2024/NĐ-CP ngày 10 tháng 7 năm 2024 của Chính phủ"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Luật Giá không nêu số hiệu trong văn bản."
+ }
+]

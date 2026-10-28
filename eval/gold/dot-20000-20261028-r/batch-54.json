@@ -1,0 +1,66 @@
+[
+ {
+  "doc_id": "668418",
+  "relations": [
+   {
+    "source_path": "Điều 1",
+    "action": "quy-dinh-chi-tiet",
+    "target_document": "45/2019/QH14",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 157",
+     "khoản 1 Điều 154",
+     "khoản 2 Điều 154",
+     "khoản 9 Điều 154"
+    ],
+    "doi_tuong": null,
+    "evidence": "Nghị định này quy định về người lao động nước ngoài làm việc tại Việt Nam theo các điều, khoản sau đây của Bộ luật Lao động: Điều kiện, trình tự, thủ tục cấp, cấp lại, gia hạn, thu hồi giấy phép lao động, giấy xác nhận không thuộc diện cấp giấy phép lao động đối với người lao động nước ngoài làm việc tại Việt Nam theo Điều 157 của Bộ luật Lao động và người lao động nước ngoài làm việc tại Việt Nam không thuộc diện cấp giấy phép lao động theo các khoản 1, 2 và 9 Điều 154 của Bộ luật Lao động."
+   },
+   {
+    "source_path": "Điều 35 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "152/2020/NĐ-CP",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "Nội dung về lao động nước ngoài làm việc tại Việt Nam",
+    "evidence": "Nội dung về lao động nước ngoài làm việc tại Việt Nam quy định tại Nghị định số 152/2020/NĐ-CP ngày 30 tháng 12 năm 2020 của Chính phủ quy định về người lao động nước ngoài làm việc tại Việt Nam và tuyển dụng, quản lý người lao động Việt Nam làm việc cho tổ chức, cá nhân nước ngoài tại Việt Nam được sửa đổi, bổ sung tại Nghị định số 70/2023/NĐ-CP ngày 18 tháng 9 năm 2023 của Chính phủ hết hiệu lực thi hành kể từ ngày Nghị định này có hiệu lực."
+   },
+   {
+    "source_path": "Điều 35 Khoản 3",
+    "action": "bai-bo",
+    "target_document": "128/2025/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 8",
+     "Mục 2 Phụ lục II"
+    ],
+    "doi_tuong": null,
+    "evidence": "Điều 8 và Mục 2 Phụ lục II ban hành kèm theo Nghị định số 128/2025/NĐ-CP ngày 11 tháng 6 năm 2025 của Chính phủ quy định về phân quyền, phân cấp trong quản lý nhà nước lĩnh vực nội vụ hết hiệu lực thi hành kể từ ngày Nghị định này có hiệu lực."
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 1",
+    "loai": "thieu_noi_dung",
+    "ghi_chu": "Điều 1 (phạm vi điều chỉnh) không có trong don_vi; tiêu đề Điều 1 bị che trong toàn văn bởi đoạn 'Hãy đăng nhập ... Thành viên Pro', chỉ còn câu nội dung."
+   }
+  ],
+  "ghi_chu": "Toàn văn bị cắt nhiều chỗ (khoảng 50 đoạn '... Hãy đăng nhập hoặc đăng ký Thành viên Pro'), ví dụ Điều 34 khoản 2, Điều 36 khoản 1 điểm a; chỉ ghi quan hệ thấy được. Điều 1 nêu quy định theo Điều 157, khoản 1, 2, 9 Điều 154 Bộ luật Lao động (số hiệu lấy từ căn cứ) nên ghi quy-dinh-chi-tiet. Điều 35 khoản 2: nội dung NĐ 152/2020 (được sửa đổi tại NĐ 70/2023) hết hiệu lực; 70/2023 chỉ là ghi chú lịch sử, không ghi riêng. Điều 34 là chuyển tiếp, không phải quan hệ."
+ },
+ {
+  "doc_id": "668564",
+  "relations": [
+   {
+    "source_path": "Điều 2 Khoản 2",
+    "action": "thay-the",
+    "target_document": "07/2025/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này thay thế Quyết định số 07/2025/QĐ-UBND ngày 28 tháng 02 năm 2025 của Ủy ban nhân dân tỉnh ban hành quy định chức năng, nhiệm vụ, quyền hạn và tổ chức của Sở Nông nghiệp và Môi trường tỉnh Lai Châu."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 2 khoản 2 thay thế Quyết định 07/2025/QĐ-UBND. Quy định kèm theo chỉ có nhiệm vụ tham mưu sửa đổi, không phải quan hệ."
+ }
+]

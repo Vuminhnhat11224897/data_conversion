@@ -1,0 +1,27 @@
+[
+ {
+  "doc_id": "656886",
+  "relations": [
+   {
+    "source_path": "Điều 3",
+    "action": "thay-the",
+    "target_document": "168/QĐ-BTC",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực kể từ ngày ký, thay thế Quyết định số 168/QĐ-BTC ngày 05/02/2025 của Bộ Tài chính về việc ban hành Kế hoạch Chuyển đổi số của Bộ Tài chính năm 2025 và Quyết định số 2500/QĐ-BKHĐT ngày 30/10/2024 của Bộ Kế hoạch và Đầu tư về ban hành Kế hoạch Chuyển đổi số năm 2025 của Bộ Kế hoạch và Đầu tư."
+   },
+   {
+    "source_path": "Điều 3",
+    "action": "thay-the",
+    "target_document": "2500/QĐ-BKHĐT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực kể từ ngày ký, thay thế Quyết định số 168/QĐ-BTC ngày 05/02/2025 của Bộ Tài chính về việc ban hành Kế hoạch Chuyển đổi số của Bộ Tài chính năm 2025 và Quyết định số 2500/QĐ-BKHĐT ngày 30/10/2024 của Bộ Kế hoạch và Đầu tư về ban hành Kế hoạch Chuyển đổi số năm 2025 của Bộ Kế hoạch và Đầu tư."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 3 thay thế 2 quyết định. Kế hoạch và phụ lục chỉ có nhiệm vụ (bãi bỏ điều kiện kinh doanh, thay thế thiết bị), không tác động lên văn bản."
+ }
+]

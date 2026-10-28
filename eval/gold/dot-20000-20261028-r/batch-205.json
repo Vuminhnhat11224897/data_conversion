@@ -1,0 +1,99 @@
+[
+ {
+  "doc_id": "655280",
+  "relations": [
+   {
+    "source_path": "Điều 3",
+    "action": "thay-the",
+    "target_document": "1173/QĐ-NHNN",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực thi hành kể từ ngày ký, thay thế Quyết định số 1173/QĐ-NHNN ngày 30/5/2019 của Thống đốc Ngân hàng Nhà nước về việc ban hành Chương trình, kế hoạch triển khai thực hiện Chỉ thị số 06/CT-TTg ngày 12/3/2019 của Thủ tướng Chính phủ về việc tăng cường giải pháp nhằm đảm bảo an toàn hoạt động, củng cố vững chắc hệ thống quỹ tín dụng nhân dân và Đề án củng cố, phát triển hệ thống quỹ tín dụng nhân dân đến năm 2020, định hướng đến năm 2030."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Kế hoạch hành động kèm theo chỉ giao nhiệm vụ nghiên cứu sửa đổi văn bản (không phải tác động trực tiếp)."
+ },
+ {
+  "doc_id": "658567",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Phê duyệt kế hoạch sử dụng đất; không có tác động lên văn bản khác."
+ },
+ {
+  "doc_id": "666934",
+  "relations": [
+   {
+    "source_path": "Điều 7 Khoản 2",
+    "action": "thay-the",
+    "target_document": "12/2020/TT-BGDĐT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thông tư này thay thế Thông tư số 12/2020/TT-BGDĐT ngày 22 tháng 5 năm 2020 của Bộ trưởng Bộ Giáo dục và Đào tạo hướng dẫn về chức năng, nhiệm vụ, quyền hạn của Sở Giáo dục và Đào tạo thuộc Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương, Phòng Giáo dục và Đào tạo thuộc Ủy ban nhân dân huyện, quận, thị xã, thành phố thuộc tỉnh, thành phố thuộc thành phố trực thuộc Trung ương."
+   },
+   {
+    "source_path": "Điều 7 Khoản 3 điểm a",
+    "action": "bo-sung",
+    "target_document": "09/2025/TT-BGDĐT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 5"
+    ],
+    "doi_tuong": "cụm từ “Ủy ban nhân dân cấp huyện”, “Phòng giáo dục và đào tạo giúp Ủy ban nhân dân cấp huyện”",
+    "evidence": "Bổ sung các cụm từ: “Ủy ban nhân dân cấp huyện”, “Phòng giáo dục và đào tạo giúp Ủy ban nhân dân cấp huyện” sau cụm từ “Chủ tịch Ủy ban nhân dân cấp huyện” và sửa cụm từ “Giám đốc Sở Giáo dục và Đào tạo” thành “Chủ tịch Ủy ban nhân dân cấp xã” tại khoản 2 Điều 5;"
+   },
+   {
+    "source_path": "Điều 7 Khoản 3 điểm a",
+    "action": "thay-cum-tu",
+    "target_document": "09/2025/TT-BGDĐT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung các cụm từ: “Ủy ban nhân dân cấp huyện”, “Phòng giáo dục và đào tạo giúp Ủy ban nhân dân cấp huyện” sau cụm từ “Chủ tịch Ủy ban nhân dân cấp huyện” và sửa cụm từ “Giám đốc Sở Giáo dục và Đào tạo” thành “Chủ tịch Ủy ban nhân dân cấp xã” tại khoản 2 Điều 5;"
+   },
+   {
+    "source_path": "Điều 7 Khoản 3 điểm b",
+    "action": "bai-bo",
+    "target_document": "09/2025/TT-BGDĐT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 5",
+     "khoản 2 Điều 5"
+    ],
+    "doi_tuong": "cụm từ “Ủy ban nhân dân cấp huyện”, “khoản 1 Điều 6”, “khoản 1”",
+    "evidence": "Bỏ các cụm từ: “Ủy ban nhân dân cấp huyện”, “khoản 1 Điều 6” tại khoản 1 và cụm từ “khoản 1” tại khoản 2 Điều 5."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Thông tư hướng dẫn chức năng, nhiệm vụ chung, không nêu văn bản được hướng dẫn. Khoản 3 Điều 7: bổ sung cụm từ, sửa cụm từ, bỏ cụm từ tại TT 09/2025/TT-BGDĐT."
+ },
+ {
+  "doc_id": "669400",
+  "relations": [
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "76/NQ-HĐND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "diện tích chuyển mục đích sử dụng đất của dự án Nghĩa trang nhân dân … thành phố Cao Bằng",
+    "evidence": "Điều chỉnh diện tích chuyển mục đích sử dụng đất trồng lúa, đất rừng đặc dụng, đất rừng phòng hộ, đất rừng sản xuất của 03 dự án đã được Hội đồng nhân dân tỉnh thông qua danh mục các dự án, công trình đăng ký nhu cầu chuyển mục đích sử dụng đất tại các Nghị quyết số 76/NQ-HĐND ngày 25 tháng 9 năm 2024; Nghị quyết sô 106/NQ-HĐND ngày 11 tháng 12 năm 2024"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "106/NQ-HĐND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "diện tích chuyển mục đích sử dụng đất của dự án Thủy điện Bảo Lạc A",
+    "evidence": "Điều chỉnh diện tích chuyển mục đích sử dụng đất trồng lúa, đất rừng đặc dụng, đất rừng phòng hộ, đất rừng sản xuất của 03 dự án đã được Hội đồng nhân dân tỉnh thông qua danh mục các dự án, công trình đăng ký nhu cầu chuyển mục đích sử dụng đất tại các Nghị quyết số 76/NQ-HĐND ngày 25 tháng 9 năm 2024; Nghị quyết sô 106/NQ-HĐND ngày 11 tháng 12 năm 2024"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Khoản 2 Điều 1 điều chỉnh diện tích 03 dự án đã thông qua tại NQ 76/NQ-HĐND và 106/NQ-HĐND (chi tiết Phụ lục 2; dự án Nà Mùng không rõ thuộc NQ nào). Khoản 1 bổ sung dự án mới, không nêu văn bản đích."
+ }
+]

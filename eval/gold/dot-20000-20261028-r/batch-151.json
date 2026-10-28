@@ -1,0 +1,1206 @@
+[
+ {
+  "doc_id": "672806",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "32/2018/TT-BGDĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ NỘI DUNG TRONG CHƯƠNG TRÌNH GIÁO DỤC PHỔ THÔNG BAN HÀNH KÈM THEO THÔNG TƯ SỐ 32/2018/TT-BGDĐT NGÀY 26 THÁNG 12 NĂM 2018 CỦA BỘ TRƯỞNG BỘ GIÁO DỤC VÀ ĐÀO TẠO"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "32/2018/TT-BGDĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ NỘI DUNG TRONG CHƯƠNG TRÌNH GIÁO DỤC PHỔ THÔNG BAN HÀNH KÈM THEO THÔNG TƯ SỐ 32/2018/TT-BGDĐT NGÀY 26 THÁNG 12 NĂM 2018 CỦA BỘ TRƯỞNG BỘ GIÁO DỤC VÀ ĐÀO TẠO"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "32/2018/TT-BGDĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Chương trình giáo dục phổ thông môn Lịch sử và Địa lí cấp tiểu học",
+    "evidence": "Sửa đổi, bổ sung Chương trình giáo dục phổ thông môn Lịch sử và Địa lí cấp tiểu học (Phụ lục I kèm theo Thông tư này)."
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "32/2018/TT-BGDĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Chương trình giáo dục phổ thông môn Lịch sử và Địa lí cấp tiểu học",
+    "evidence": "Sửa đổi, bổ sung Chương trình giáo dục phổ thông môn Lịch sử và Địa lí cấp tiểu học (Phụ lục I kèm theo Thông tư này)."
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "32/2018/TT-BGDĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Chương trình giáo dục phổ thông môn Lịch sử và Địa lí cấp trung học cơ sở",
+    "evidence": "Sửa đổi, bổ sung Chương trình giáo dục phổ thông môn Lịch sử và Địa lí cấp trung học cơ sở (Phụ lục II kèm theo Thông tư này)."
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "32/2018/TT-BGDĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Chương trình giáo dục phổ thông môn Lịch sử và Địa lí cấp trung học cơ sở",
+    "evidence": "Sửa đổi, bổ sung Chương trình giáo dục phổ thông môn Lịch sử và Địa lí cấp trung học cơ sở (Phụ lục II kèm theo Thông tư này)."
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "sua-doi",
+    "target_document": "32/2018/TT-BGDĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Chương trình giáo dục phổ thông môn Lịch sử - Lớp 10",
+    "evidence": "Sửa đổi, bổ sung Chương trình giáo dục phổ thông môn Lịch sử - Lớp 10 (Phụ lục III kèm theo Thông tư này)."
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "bo-sung",
+    "target_document": "32/2018/TT-BGDĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Chương trình giáo dục phổ thông môn Lịch sử - Lớp 10",
+    "evidence": "Sửa đổi, bổ sung Chương trình giáo dục phổ thông môn Lịch sử - Lớp 10 (Phụ lục III kèm theo Thông tư này)."
+   },
+   {
+    "source_path": "Điều 1 Khoản 4",
+    "action": "sua-doi",
+    "target_document": "32/2018/TT-BGDĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Chương trình giáo dục phổ thông môn Địa lí",
+    "evidence": "Sửa đổi, bổ sung Chương trình giáo dục phổ thông môn Địa lí (Phụ lục IV kèm theo Thông tư này)."
+   },
+   {
+    "source_path": "Điều 1 Khoản 4",
+    "action": "bo-sung",
+    "target_document": "32/2018/TT-BGDĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Chương trình giáo dục phổ thông môn Địa lí",
+    "evidence": "Sửa đổi, bổ sung Chương trình giáo dục phổ thông môn Địa lí (Phụ lục IV kèm theo Thông tư này)."
+   },
+   {
+    "source_path": "Điều 1 Khoản 5",
+    "action": "sua-doi",
+    "target_document": "32/2018/TT-BGDĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Chương trình giáo dục phổ thông môn Giáo dục công dân",
+    "evidence": "Sửa đổi, bổ sung Chương trình giáo dục phổ thông môn Giáo dục công dân (Phụ lục V kèm theo Thông tư này)."
+   },
+   {
+    "source_path": "Điều 1 Khoản 5",
+    "action": "bo-sung",
+    "target_document": "32/2018/TT-BGDĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Chương trình giáo dục phổ thông môn Giáo dục công dân",
+    "evidence": "Sửa đổi, bổ sung Chương trình giáo dục phổ thông môn Giáo dục công dân (Phụ lục V kèm theo Thông tư này)."
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 1",
+    "action": "bai-bo",
+    "target_document": "32/2018/TT-BGDĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục V.1"
+    ],
+    "doi_tuong": "Chương trình giáo dục phổ thông môn Lịch sử và Địa lí cấp tiểu học",
+    "evidence": "bãi bỏ mạch nội dung Tây Nguyên, trang 6 dòng 4 từ dưới lên."
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 1",
+    "action": "sua-doi",
+    "target_document": "32/2018/TT-BGDĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục V.1"
+    ],
+    "doi_tuong": "Chương trình giáo dục phổ thông môn Lịch sử và Địa lí cấp tiểu học",
+    "evidence": "1. Tại Nội dung V.1 1. Các mạch nội dung, sửa đổi mạch nội dung Địa phương em (tỉnh, thành phố trực thuộc trung ương) trang 6 dòng 8 từ dưới lên thành: Địa phương em (tỉnh, thành phố)"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 2",
+    "action": "sua-doi",
+    "target_document": "32/2018/TT-BGDĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục V.1.2"
+    ],
+    "doi_tuong": "Chương trình giáo dục phổ thông môn Lịch sử và Địa lí cấp tiểu học",
+    "evidence": "2. Tại nội dung V.1.2. Các chủ đề, sửa mạch nội dung Địa phương em (tỉnh, thành phố trực thuộc trung ương) trang 7 dòng 10 từ trên xuống thành: Địa phương em (tỉnh, thành phố)"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 3",
+    "action": "sua-doi",
+    "target_document": "32/2018/TT-BGDĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục V.1.2"
+    ],
+    "doi_tuong": "Chương trình giáo dục phổ thông môn Lịch sử và Địa lí cấp tiểu học",
+    "evidence": "3. Tại nội dung V.1.2. Các chủ đề, sửa đổi mạch nội dung Duyên hải miền Trung trang 7 và Tây Nguyên trang 8 thành:"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 4",
+    "action": "sua-doi",
+    "target_document": "32/2018/TT-BGDĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục V.2"
+    ],
+    "doi_tuong": "Chương trình giáo dục phổ thông môn Lịch sử và Địa lí cấp tiểu học",
+    "evidence": "4. Tại nội dung V.2. Nội dung cụ thể và yêu cầu cần đạt ở các lớp, lớp 4 sửa phần nội dung: Địa phương em (tỉnh, thành phố trực thuộc trung ương) trang 9 dòng 3 dưới lên thành: Địa phương em (tỉnh, thành phố)."
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 5",
+    "action": "thay-cum-tu",
+    "target_document": "32/2018/TT-BGDĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục V.2"
+    ],
+    "doi_tuong": "Chương trình giáo dục phổ thông môn Lịch sử và Địa lí cấp tiểu học",
+    "evidence": "5. Tại nội dung V.2. Nội dung cụ thể và yêu cầu cần đạt ở các lớp, lớp 4 phần nội dung và yêu cầu cần đạt về Trung du và miền núi Bắc Bộ, trang 10 các dòng 1, 2, 3, 5, 7, 10, 12 từ dưới lên trang 11 dòng 2, 3, 4, 5 trên xuống sửa đổi cụm từ “Trung du miền núi Bắc Bộ” thành “Trung du và miền núi phía Bắc”."
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 6",
+    "action": "sua-doi",
+    "target_document": "32/2018/TT-BGDĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục V.2"
+    ],
+    "doi_tuong": "Chương trình giáo dục phổ thông môn Lịch sử và Địa lí cấp tiểu học",
+    "evidence": "6. Tại nội dung V.2. Nội dung cụ thể và yêu cầu cần đạt ở các lớp, lớp 4 sửa đổi yêu cầu cần đạt của nội dung Dân cư, hoạt động sản xuất và một số nét văn hóa, trang 11 dòng 5, 6, 7 từ trên xuống thành: Mô tả được một số nét văn hóa của các dân tộc ở vùng trung du và miền núi phía Bắc (ví dụ: lễ hội Gầu Tào, hát Then, múa xòe Thái, lễ hội Lồng Tồng, chợ phiên vùng cao,...)."
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 7",
+    "action": "sua-doi",
+    "target_document": "32/2018/TT-BGDĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục V.2"
+    ],
+    "doi_tuong": "Chương trình giáo dục phổ thông môn Lịch sử và Địa lí cấp tiểu học",
+    "evidence": "7. Tại nội dung V.2. Nội dung cụ thể và yêu cầu cần đạt ở các lớp, lớp 4 sửa đổi yêu cầu cần đạt của nội dung Đền Hùng và lễ giỗ Tổ Hùng Vương, trang 11 dòng 8, 9 từ trên xuống thành: Xác định được vị trí của khu di tích Đền Hùng trên bản đồ hoặc lược đồ."
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 8",
+    "action": "sua-doi",
+    "target_document": "32/2018/TT-BGDĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục V.2"
+    ],
+    "doi_tuong": "Chương trình giáo dục phổ thông môn Lịch sử và Địa lí cấp tiểu học",
+    "evidence": "8. Tại nội dung V.2. Nội dung cụ thể và yêu cầu cần đạt ở các lớp, lớp 4 sửa đổi yêu cầu cần đạt của nội dung Thăng Long - Hà Nội, trang 12 dòng 3, 4 từ dưới lên thành: Nêu được địa thế trung tâm thuận lợi của Thăng Long thể hiện ở Chiếu dời đô của Lý Công Uẩn."
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 9",
+    "action": "sua-doi",
+    "target_document": "32/2018/TT-BGDĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục V.2"
+    ],
+    "doi_tuong": "Chương trình giáo dục phổ thông môn Lịch sử và Địa lí cấp tiểu học",
+    "evidence": "9. Tại nội dung V.2. Nội dung cụ thể và yêu cầu cần đạt ở các lớp, lớp 4 sửa đổi yêu cầu cần đạt của nội dung Thăng Long - Hà Nội, trang 13 dòng 4, 5 từ trên xuống thành: Nêu được Hà Nội là trung tâm chính trị, kinh tế, văn hóa, giáo dục quan trọng của Việt Nam có sử dụng các nguồn tư liệu lịch sử và địa lí."
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 10",
+    "action": "sua-doi",
+    "target_document": "32/2018/TT-BGDĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục V.2"
+    ],
+    "doi_tuong": "Chương trình giáo dục phổ thông môn Lịch sử và Địa lí cấp tiểu học",
+    "evidence": "10. Tại nội dung V.2. Nội dung cụ thể và yêu cầu cần đạt ở các lớp, lớp 4, sửa đổi yêu cầu cần đạt của nội dung Văn Miếu - Quốc Tử Giám, trang 13 dòng 7, 8 từ trên xuống thành: Xác định được vị trí của một số công trình tiêu biểu: Khuê Văn Các, nhà bia tiến sĩ, Văn Miếu, Quốc Tử Giám trên sơ đồ khu di tích Văn Miếu - Quốc Tử Giám."
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 11",
+    "action": "sua-doi",
+    "target_document": "32/2018/TT-BGDĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục V.2"
+    ],
+    "doi_tuong": "Chương trình giáo dục phổ thông môn Lịch sử và Địa lí cấp tiểu học",
+    "evidence": "11. Tại nội dung V.2. Nội dung cụ thể và yêu cầu cần đạt ở các lớp, lớp 4, sửa đổi yêu cầu cần đạt của nội dung Văn Miếu - Quốc Tử Giám, trang 13 dòng 12 từ trên xuống thành: Đề xuất được ở mức độ đơn giản một số biện pháp để giữ gìn và phát huy giá trị của di tích Văn Miếu - Quốc Tử Giám."
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 12",
+    "action": "sua-doi",
+    "target_document": "32/2018/TT-BGDĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục V.2"
+    ],
+    "doi_tuong": "Chương trình giáo dục phổ thông môn Lịch sử và Địa lí cấp tiểu học",
+    "evidence": "12. Tại nội dung V.2. Nội dung cụ thể và yêu cầu cần đạt ở các lớp, lớp 4 sửa đổi bổ sung nội dung và yêu cầu cần đạt của Duyên hải miền Trung trang 13, 14 và Tây Nguyên trang 14, 15, 16 thành:"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 12",
+    "action": "bo-sung",
+    "target_document": "32/2018/TT-BGDĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục V.2"
+    ],
+    "doi_tuong": "Chương trình giáo dục phổ thông môn Lịch sử và Địa lí cấp tiểu học",
+    "evidence": "12. Tại nội dung V.2. Nội dung cụ thể và yêu cầu cần đạt ở các lớp, lớp 4 sửa đổi bổ sung nội dung và yêu cầu cần đạt của Duyên hải miền Trung trang 13, 14 và Tây Nguyên trang 14, 15, 16 thành:"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 13",
+    "action": "sua-doi",
+    "target_document": "32/2018/TT-BGDĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục V.2"
+    ],
+    "doi_tuong": "Chương trình giáo dục phổ thông môn Lịch sử và Địa lí cấp tiểu học",
+    "evidence": "13. Tại nội dung V.2. Nội dung cụ thể và yêu cầu cần đạt ở các lớp, lớp 4, sửa đổi yêu cầu cần đạt của nội dung Thành phố Hồ Chí Minh, trang 17 dòng 4, 5 từ trên xuống thành: Nêu được Thành phố Hồ Chí Minh là trung tâm kinh tế, văn hóa, giáo dục quan trọng của Việt Nam có sử dụng tư liệu lịch sử và địa lí."
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 14",
+    "action": "sua-doi",
+    "target_document": "32/2018/TT-BGDĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục V.2"
+    ],
+    "doi_tuong": "Chương trình giáo dục phổ thông môn Lịch sử và Địa lí cấp tiểu học",
+    "evidence": "14. Tại nội dung V.2. Nội dung cụ thể và yêu cầu cần đạt ở các lớp, lớp 5, sửa đổi yêu cầu cần đạt của nội dung Dân cư và dân tộc ở Việt Nam, trang 18 dòng 6, 7, 8 từ dưới lên thành: Nhận xét được sự gia tăng dân số ở Việt Nam"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 15",
+    "action": "sua-doi",
+    "target_document": "32/2018/TT-BGDĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục V.2"
+    ],
+    "doi_tuong": "Chương trình giáo dục phổ thông môn Lịch sử và Địa lí cấp tiểu học",
+    "evidence": "15. Tại nội dung V.2. Nội dung cụ thể và yêu cầu cần đạt ở các lớp, lớp 5, sửa đổi yêu cầu cần đạt của nội dung Đấu tranh giành độc lập thời kì Bắc thuộc, trang 19 dòng 7, 8 từ dưới lên thành: Kể được tên và vẽ được đường thời gian thể hiện một số cuộc đấu tranh tiêu biểu trong thời kì Bắc thuộc (ví dụ: 179 TCN, 40, 248, 542, 938,...)."
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 16",
+    "action": "bai-bo",
+    "target_document": "32/2018/TT-BGDĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục VIII.2"
+    ],
+    "doi_tuong": "Chương trình giáo dục phổ thông môn Lịch sử và Địa lí cấp tiểu học",
+    "evidence": "bãi bỏ nội dung “Tây Nguyên” trang 30 dòng 10 từ trên xuống."
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 16",
+    "action": "sua-doi",
+    "target_document": "32/2018/TT-BGDĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục VIII.2"
+    ],
+    "doi_tuong": "Chương trình giáo dục phổ thông môn Lịch sử và Địa lí cấp tiểu học",
+    "evidence": "16. Tại nội dung VIII.2. Thời lượng thực hiện chương trình, sửa nội dung Địa phương em (tỉnh, thành phố trực thuộc trung ương), trang 30 dòng 6 từ trên xuống thành: Địa phương em (tỉnh, thành phố)"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 17",
+    "action": "sua-doi",
+    "target_document": "32/2018/TT-BGDĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục VIII.2"
+    ],
+    "doi_tuong": "Chương trình giáo dục phổ thông môn Lịch sử và Địa lí cấp tiểu học",
+    "evidence": "17. Tại nội dung VIII.2. Thời lượng thực hiện chương trình, sửa đổi bổ sung trang 30 dòng 2, 3 từ trên xuống và sửa đổi thời lượng đối với Lớp 4 thành:"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 17",
+    "action": "bo-sung",
+    "target_document": "32/2018/TT-BGDĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục VIII.2"
+    ],
+    "doi_tuong": "Chương trình giáo dục phổ thông môn Lịch sử và Địa lí cấp tiểu học",
+    "evidence": "17. Tại nội dung VIII.2. Thời lượng thực hiện chương trình, sửa đổi bổ sung trang 30 dòng 2, 3 từ trên xuống và sửa đổi thời lượng đối với Lớp 4 thành:"
+   },
+   {
+    "source_path": "Phụ lục 2 Mục 1",
+    "action": "sua-doi",
+    "target_document": "32/2018/TT-BGDĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Chương trình giáo dục phổ thông môn Lịch sử và Địa lí cấp trung học cơ sở",
+    "evidence": "1. Tại nội dung Thời nguyên thủy sửa đổi yêu cầu cần đạt Nhận biết được vai trò của lao động đối với quá trình phát triển của người nguyên thủy cũng như của con người và xã hội loài người tại dòng 14, 15 từ trên xuống, trang 16 thành: Nêu được vai trò của lao động đối với quá trình phát triển của người nguyên thủy cũng như của con người và xã hội loài người."
+   },
+   {
+    "source_path": "Phụ lục 2 Mục 1",
+    "action": "bai-bo",
+    "target_document": "32/2018/TT-BGDĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Chương trình giáo dục phổ thông môn Lịch sử và Địa lí cấp trung học cơ sở",
+    "evidence": "Lược bỏ yêu cầu cần đạt: Nêu được đôi nét về đời sống của người nguyên thủy trên đất nước Việt Nam tại dòng 6, 7 từ dưới lên, trang 16."
+   },
+   {
+    "source_path": "Phụ lục 2 Mục 2",
+    "action": "bai-bo",
+    "target_document": "32/2018/TT-BGDĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Chương trình giáo dục phổ thông môn Lịch sử và Địa lí cấp trung học cơ sở",
+    "evidence": "- Lược bỏ yêu cầu cần đạt Mô tả được sơ lược quá trình thống nhất và sự xác lập chế độ phong kiến ở Trung Quốc dưới thời Tần Thủy Hoàng tại dòng 1, 2 từ dưới lên, trang 17."
+   },
+   {
+    "source_path": "Phụ lục 2 Mục 2",
+    "action": "sua-doi",
+    "target_document": "32/2018/TT-BGDĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Chương trình giáo dục phổ thông môn Lịch sử và Địa lí cấp trung học cơ sở",
+    "evidence": "- Sửa đổi yêu cầu cần đạt Xây dựng được đường thời gian từ đế chế Hán, Nam Bắc triều đến nhà Tùy tại dòng 2, 3 từ trên xuống, trang 18 thành: Vẽ được trục thời gian các giai đoạn phát triển của Trung Quốc thời cổ đại."
+   },
+   {
+    "source_path": "Phụ lục 2 Mục 3",
+    "action": "bai-bo",
+    "target_document": "32/2018/TT-BGDĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Chương trình giáo dục phổ thông môn Lịch sử và Địa lí cấp trung học cơ sở",
+    "evidence": "3. Tại nội dung Việt Nam từ khoảng thế kỉ VII trước Công nguyên đến đầu thế kỉ X, lược bỏ yêu cầu cần đạt Nêu được khoảng thời gian thành lập và xác định được phạm vi không gian của nước Văn Lang, Âu Lạc trên bản đồ hoặc lược đồ tại dòng 1, 2 từ dưới lên, trang 18."
+   },
+   {
+    "source_path": "Phụ lục 2 Mục 3",
+    "action": "sua-doi",
+    "target_document": "32/2018/TT-BGDĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Chương trình giáo dục phổ thông môn Lịch sử và Địa lí cấp trung học cơ sở",
+    "evidence": "- Sửa đổi yêu cầu cần đạt Trình bày được tổ chức nhà nước của Văn Lang, Âu Lạc tại dòng 2 từ trên xuống, trang 19 thành: Trình bày được sự thành lập và tổ chức nhà nước của Văn Lang, Âu Lạc."
+   },
+   {
+    "source_path": "Phụ lục 2 Mục 4",
+    "action": "sua-doi",
+    "target_document": "32/2018/TT-BGDĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Chương trình giáo dục phổ thông môn Lịch sử và Địa lí cấp trung học cơ sở",
+    "evidence": "4. Tại nội dung Trung Quốc từ thế kỉ VII đến giữa thế kỉ XIX, sửa đổi yêu cầu cần đạt Lập được sơ đồ tiến trình phát triển của Trung Quốc từ thế kỉ VII đến giữa thế kỉ XIX (các thời Đường, Tống, Nguyên, Minh, Thanh) tại dòng 7, 8 từ dưới lên, trang 25 thành: Lập được sơ đồ tiến trình phát triển của Trung Quốc từ thế kỉ III TCN đến giữa thế kỉ XIX (các thời Tần, Hán, Đường, Tống, Nguyên, Minh, Thanh)."
+   },
+   {
+    "source_path": "Phụ lục 2 Mục 5",
+    "action": "sua-doi",
+    "target_document": "32/2018/TT-BGDĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Chương trình giáo dục phổ thông môn Lịch sử và Địa lí cấp trung học cơ sở",
+    "evidence": "5. Tại nội dung Vùng đất phía nam từ đầu thế kỉ X đến đầu thế kỉ XVI, sửa đổi yêu cầu cần đạt Nêu được những diễn biến cơ bản về chính trị, kinh tế văn hóa ở vùng đất phía nam từ đầu thế kỉ X đến đầu thế kỉ XVI tại dòng 9, 10 từ trên xuống, trang 29 thành: Nêu được những nét cơ bản về chính trị, kinh tế, văn hóa ở vùng đất phía nam từ đầu thế kỉ X đến đầu thế kỉ XVI."
+   },
+   {
+    "source_path": "Phụ lục 2 Mục 6",
+    "action": "sua-doi",
+    "target_document": "32/2018/TT-BGDĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục V.2"
+    ],
+    "doi_tuong": "Chương trình giáo dục phổ thông môn Lịch sử và Địa lí cấp trung học cơ sở",
+    "evidence": "6. Tại nội dung V.2. Nội dung cụ thể và yêu cầu cần đạt ở các lớp, lớp 8 Địa lí sửa đổi bổ sung yêu cầu cần đạt của nội dung Đặc điểm vị trí địa lí và phạm vi lãnh thổ trang 30, dòng 9 từ dưới lên thành: Trình bày được đặc điểm vị trí địa lí"
+   },
+   {
+    "source_path": "Phụ lục 2 Mục 6",
+    "action": "bo-sung",
+    "target_document": "32/2018/TT-BGDĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục V.2"
+    ],
+    "doi_tuong": "Chương trình giáo dục phổ thông môn Lịch sử và Địa lí cấp trung học cơ sở",
+    "evidence": "6. Tại nội dung V.2. Nội dung cụ thể và yêu cầu cần đạt ở các lớp, lớp 8 Địa lí sửa đổi bổ sung yêu cầu cần đạt của nội dung Đặc điểm vị trí địa lí và phạm vi lãnh thổ trang 30, dòng 9 từ dưới lên thành: Trình bày được đặc điểm vị trí địa lí"
+   },
+   {
+    "source_path": "Phụ lục 2 Mục 7",
+    "action": "sua-doi",
+    "target_document": "32/2018/TT-BGDĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục V.2"
+    ],
+    "doi_tuong": "Chương trình giáo dục phổ thông môn Lịch sử và Địa lí cấp trung học cơ sở",
+    "evidence": "7. Tại nội dung V.2. Nội dung cụ thể và yêu cầu cần đạt ở các lớp, lớp 8 Địa lí sửa đổi bổ sung yêu cầu cần đạt của nội dung Khí hậu nhiệt đới ẩm gió mùa, phân hóa đa dạng trang 31, dòng 10, 11 từ trên xuống thành: Đọc được biểu đồ khí hậu của một số trạm khí tượng thủy văn."
+   },
+   {
+    "source_path": "Phụ lục 2 Mục 7",
+    "action": "bo-sung",
+    "target_document": "32/2018/TT-BGDĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục V.2"
+    ],
+    "doi_tuong": "Chương trình giáo dục phổ thông môn Lịch sử và Địa lí cấp trung học cơ sở",
+    "evidence": "7. Tại nội dung V.2. Nội dung cụ thể và yêu cầu cần đạt ở các lớp, lớp 8 Địa lí sửa đổi bổ sung yêu cầu cần đạt của nội dung Khí hậu nhiệt đới ẩm gió mùa, phân hóa đa dạng trang 31, dòng 10, 11 từ trên xuống thành: Đọc được biểu đồ khí hậu của một số trạm khí tượng thủy văn."
+   },
+   {
+    "source_path": "Phụ lục 2 Mục 8",
+    "action": "sua-doi",
+    "target_document": "32/2018/TT-BGDĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục V.2"
+    ],
+    "doi_tuong": "Chương trình giáo dục phổ thông môn Lịch sử và Địa lí cấp trung học cơ sở",
+    "evidence": "8. Tại nội dung V.2. Nội dung cụ thể và yêu cầu cần đạt ở các lớp, lớp 8 Địa lí sửa đổi bổ sung yêu cầu cần đạt của nội dung Tác động của biến đổi khí hậu đối với khí hậu và thủy văn Việt Nam trang 31, dòng 6, 7 từ dưới lên, cột trái thành: Tác động của biến đổi khí hậu đối với tự nhiên Việt Nam"
+   },
+   {
+    "source_path": "Phụ lục 2 Mục 8",
+    "action": "bo-sung",
+    "target_document": "32/2018/TT-BGDĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục V.2"
+    ],
+    "doi_tuong": "Chương trình giáo dục phổ thông môn Lịch sử và Địa lí cấp trung học cơ sở",
+    "evidence": "8. Tại nội dung V.2. Nội dung cụ thể và yêu cầu cần đạt ở các lớp, lớp 8 Địa lí sửa đổi bổ sung yêu cầu cần đạt của nội dung Tác động của biến đổi khí hậu đối với khí hậu và thủy văn Việt Nam trang 31, dòng 6, 7 từ dưới lên, cột trái thành: Tác động của biến đổi khí hậu đối với tự nhiên Việt Nam"
+   },
+   {
+    "source_path": "Phụ lục 2 Mục 9",
+    "action": "sua-doi",
+    "target_document": "32/2018/TT-BGDĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục V.2"
+    ],
+    "doi_tuong": "Chương trình giáo dục phổ thông môn Lịch sử và Địa lí cấp trung học cơ sở",
+    "evidence": "9. Tại nội dung V.2. Nội dung cụ thể và yêu cầu cần đạt ở các lớp, lớp 8 Địa lí sửa đổi bổ sung yêu cầu cần đạt của nội dung Các vùng biển của Việt Nam ở Biển Đông trang 32, dòng 1 từ dưới lên và trang 33, dòng 2, 3, 4 từ trên xuống thành: Trình bày được các vùng biển nước ta: nội thủy, lãnh hải, tiếp giáp lãnh hải, vùng đặc quyền kinh tế, thềm lục địa của Việt Nam (theo Luật Biển Việt Nam)."
+   },
+   {
+    "source_path": "Phụ lục 2 Mục 9",
+    "action": "bo-sung",
+    "target_document": "32/2018/TT-BGDĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục V.2"
+    ],
+    "doi_tuong": "Chương trình giáo dục phổ thông môn Lịch sử và Địa lí cấp trung học cơ sở",
+    "evidence": "9. Tại nội dung V.2. Nội dung cụ thể và yêu cầu cần đạt ở các lớp, lớp 8 Địa lí sửa đổi bổ sung yêu cầu cần đạt của nội dung Các vùng biển của Việt Nam ở Biển Đông trang 32, dòng 1 từ dưới lên và trang 33, dòng 2, 3, 4 từ trên xuống thành: Trình bày được các vùng biển nước ta: nội thủy, lãnh hải, tiếp giáp lãnh hải, vùng đặc quyền kinh tế, thềm lục địa của Việt Nam (theo Luật Biển Việt Nam)."
+   },
+   {
+    "source_path": "Phụ lục 2 Mục 10",
+    "action": "bo-sung",
+    "target_document": "32/2018/TT-BGDĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục V.2"
+    ],
+    "doi_tuong": "Chương trình giáo dục phổ thông môn Lịch sử và Địa lí cấp trung học cơ sở",
+    "evidence": "10. Tại nội dung V.2. Nội dung cụ thể và yêu cầu cần đạt ở các lớp, lớp 8 Địa lí bổ sung thêm yêu cầu cần đạt vào nội dung Phạm vi các vùng biển và hải đảo Việt Nam trang 38, dòng 8 từ dưới lên như sau:"
+   },
+   {
+    "source_path": "Phụ lục 2 Mục 11",
+    "action": "sua-doi",
+    "target_document": "32/2018/TT-BGDĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Chương trình giáo dục phổ thông môn Lịch sử và Địa lí cấp trung học cơ sở",
+    "evidence": "11. Tại nội dung Việt Nam từ đầu thế kỉ XVI đến cuối thế kỉ XVIII, gộp và sửa đổi yêu cầu cần đạt: Giải thích được nguyên nhân bùng nổ xung đột Nam - Bắc triều, Trịnh - Nguyễn"
+   },
+   {
+    "source_path": "Phụ lục 2 Mục 11",
+    "action": "bai-bo",
+    "target_document": "32/2018/TT-BGDĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Chương trình giáo dục phổ thông môn Lịch sử và Địa lí cấp trung học cơ sở",
+    "evidence": "- Lược bỏ yêu cầu cần đạt Mô tả và nêu được ý nghĩa của quá trình thực thi chủ quyền đối với quần đảo Hoàng Sa và quần đảo Trường Sa của các chúa Nguyễn tại dòng 5, 6 từ dưới lên, trang 34."
+   },
+   {
+    "source_path": "Phụ lục 2 Mục 12",
+    "action": "sua-doi",
+    "target_document": "32/2018/TT-BGDĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục V.2"
+    ],
+    "doi_tuong": "Chương trình giáo dục phổ thông môn Lịch sử và Địa lí cấp trung học cơ sở",
+    "evidence": "12. Tại nội dung V.2. Nội dung cụ thể và yêu cầu cần đạt ở các lớp, lớp 9 Địa lí, tại nội dung Gia tăng dân số ở các thời kì cột bên trái sửa đổi thành: Quy mô dân số và gia tăng dân số ở các thời kì"
+   },
+   {
+    "source_path": "Phụ lục 2 Mục 13",
+    "action": "bo-sung",
+    "target_document": "32/2018/TT-BGDĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục V.2"
+    ],
+    "doi_tuong": "Chương trình giáo dục phổ thông môn Lịch sử và Địa lí cấp trung học cơ sở",
+    "evidence": "13. Tại nội dung V.2. Nội dung cụ thể và yêu cầu cần đạt ở các lớp, lớp 9 Địa lí bổ sung thêm yêu cầu cần đạt vào nội dung Lao động và việc làm trang 39 như sau:"
+   },
+   {
+    "source_path": "Phụ lục 2 Mục 14",
+    "action": "sua-doi",
+    "target_document": "32/2018/TT-BGDĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục V.2"
+    ],
+    "doi_tuong": "Chương trình giáo dục phổ thông môn Lịch sử và Địa lí cấp trung học cơ sở",
+    "evidence": "14. Tại nội dung V.2. Nội dung cụ thể và yêu cầu cần đạt ở các lớp, lớp 9 Địa lí, sửa đổi, bổ sung yêu cầu cần đạt của nội dung Các nhân tố chính ảnh hưởng đến phát triển và phân bố nông, lâm, thủy sản trang 39, dòng 3, 4 từ dưới lên thành: Phân tích được một trong các nhân tố chính ảnh hưởng đến sự phát triển và phân bố nông, lâm, thủy sản."
+   },
+   {
+    "source_path": "Phụ lục 2 Mục 14",
+    "action": "bo-sung",
+    "target_document": "32/2018/TT-BGDĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục V.2"
+    ],
+    "doi_tuong": "Chương trình giáo dục phổ thông môn Lịch sử và Địa lí cấp trung học cơ sở",
+    "evidence": "14. Tại nội dung V.2. Nội dung cụ thể và yêu cầu cần đạt ở các lớp, lớp 9 Địa lí, sửa đổi, bổ sung yêu cầu cần đạt của nội dung Các nhân tố chính ảnh hưởng đến phát triển và phân bố nông, lâm, thủy sản trang 39, dòng 3, 4 từ dưới lên thành: Phân tích được một trong các nhân tố chính ảnh hưởng đến sự phát triển và phân bố nông, lâm, thủy sản."
+   },
+   {
+    "source_path": "Phụ lục 2 Mục 15",
+    "action": "bai-bo",
+    "target_document": "32/2018/TT-BGDĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục V.2"
+    ],
+    "doi_tuong": "Chương trình giáo dục phổ thông môn Lịch sử và Địa lí cấp trung học cơ sở",
+    "evidence": "15. Tại nội dung V.2. Nội dung cụ thể và yêu cầu cần đạt ở các lớp, lớp 9 Địa lí, bãi bỏ yêu cầu cần đạt: Phân tích được đặc điểm phân bố tài nguyên rừng và nguồn lợi thủy sản trang 39, dòng 1, 2 từ dưới lên."
+   },
+   {
+    "source_path": "Phụ lục 2 Mục 16",
+    "action": "bai-bo",
+    "target_document": "32/2018/TT-BGDĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục V.2"
+    ],
+    "doi_tuong": "Chương trình giáo dục phổ thông môn Lịch sử và Địa lí cấp trung học cơ sở",
+    "evidence": "16. Tại nội dung V.2. Nội dung cụ thể và yêu cầu cần đạt ở các lớp, lớp 9 Địa lí, bãi bỏ nội dung và yêu cầu cần đạt vấn đề phát triển nông nghiệp xanh trang 40, dòng 5 từ trên xuống."
+   },
+   {
+    "source_path": "Phụ lục 2 Mục 17",
+    "action": "sua-doi",
+    "target_document": "32/2018/TT-BGDĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục V.2"
+    ],
+    "doi_tuong": "Chương trình giáo dục phổ thông môn Lịch sử và Địa lí cấp trung học cơ sở",
+    "evidence": "17. Tại nội dung V.2. Nội dung cụ thể và yêu cầu cần đạt ở các lớp, lớp 9 Địa lí, sửa đổi bổ sung yêu cầu cần đạt của nội dung Sự phát triển và phân bố các ngành công nghiệp chủ yếu, trang 40, dòng 11 từ trên xuống thành: Xác định được trên bản đồ một số hình thức tổ chức lãnh thổ công nghiệp."
+   },
+   {
+    "source_path": "Phụ lục 2 Mục 17",
+    "action": "bo-sung",
+    "target_document": "32/2018/TT-BGDĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục V.2"
+    ],
+    "doi_tuong": "Chương trình giáo dục phổ thông môn Lịch sử và Địa lí cấp trung học cơ sở",
+    "evidence": "17. Tại nội dung V.2. Nội dung cụ thể và yêu cầu cần đạt ở các lớp, lớp 9 Địa lí, sửa đổi bổ sung yêu cầu cần đạt của nội dung Sự phát triển và phân bố các ngành công nghiệp chủ yếu, trang 40, dòng 11 từ trên xuống thành: Xác định được trên bản đồ một số hình thức tổ chức lãnh thổ công nghiệp."
+   },
+   {
+    "source_path": "Phụ lục 2 Mục 18",
+    "action": "bo-sung",
+    "target_document": "32/2018/TT-BGDĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục V.2"
+    ],
+    "doi_tuong": "Chương trình giáo dục phổ thông môn Lịch sử và Địa lí cấp trung học cơ sở",
+    "evidence": "18. Tại nội dung V.2. Nội dung cụ thể và yêu cầu cần đạt ở các lớp, lớp 9 Địa lí, bổ sung yêu cầu cần đạt của nội dung Giao thông vận tải và bưu chính viễn thông, trang 40, dòng 3 từ dưới lên thành: Trình bày được sự phát triển và phân bố ngành bưu chính viễn thông."
+   },
+   {
+    "source_path": "Phụ lục 2 Mục 19",
+    "action": "sua-doi",
+    "target_document": "32/2018/TT-BGDĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục V.2"
+    ],
+    "doi_tuong": "Chương trình giáo dục phổ thông môn Lịch sử và Địa lí cấp trung học cơ sở",
+    "evidence": "19. Tại nội dung V.2. Nội dung cụ thể và yêu cầu cần đạt ở các lớp, lớp 9 Địa lí, sửa đổi tiêu mục Sự phân hóa lãnh thổ, trang 41 dòng 2 từ trên xuống thành: Địa lí các vùng kinh tế - xã hội."
+   },
+   {
+    "source_path": "Phụ lục 2 Mục 20",
+    "action": "sua-doi",
+    "target_document": "32/2018/TT-BGDĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục V.2"
+    ],
+    "doi_tuong": "Chương trình giáo dục phổ thông môn Lịch sử và Địa lí cấp trung học cơ sở",
+    "evidence": "20. Tại nội dung V.2. Nội dung cụ thể và yêu cầu cần đạt ở các lớp, lớp 9 Địa lí, sửa đổi tên Vùng Trung du và miền núi Bắc Bộ, trang 41 dòng 3 từ trên xuống thành: Vùng Trung du và miền núi phía Bắc."
+   },
+   {
+    "source_path": "Phụ lục 2 Mục 21",
+    "action": "bai-bo",
+    "target_document": "32/2018/TT-BGDĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục V.2"
+    ],
+    "doi_tuong": "Chương trình giáo dục phổ thông môn Lịch sử và Địa lí cấp trung học cơ sở",
+    "evidence": "21. Tại nội dung V.2. Nội dung cụ thể và yêu cầu cần đạt ở các lớp, lớp 9 Địa lí, bãi bỏ nội dung và yêu cầu cần đạt về Vùng kinh tế trọng điểm Bắc Bộ, trang 42, dòng 4 trên xuống."
+   },
+   {
+    "source_path": "Phụ lục 2 Mục 22",
+    "action": "bai-bo",
+    "target_document": "32/2018/TT-BGDĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục V.2"
+    ],
+    "doi_tuong": "Chương trình giáo dục phổ thông môn Lịch sử và Địa lí cấp trung học cơ sở",
+    "evidence": "22. Tại nội dung V.2. Nội dung cụ thể và yêu cầu cần đạt ở các lớp, lớp 9 Địa lí, bãi bỏ nội dung và yêu cầu cần đạt ở nội dung Vùng Duyên hải Nam Trung Bộ, Vùng Tây Nguyên trang 42 và 43."
+   },
+   {
+    "source_path": "Phụ lục 2 Mục 23",
+    "action": "bo-sung",
+    "target_document": "32/2018/TT-BGDĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục V.2"
+    ],
+    "doi_tuong": "Chương trình giáo dục phổ thông môn Lịch sử và Địa lí cấp trung học cơ sở",
+    "evidence": "23. Tại nội dung V.2. Nội dung cụ thể và yêu cầu cần đạt ở các lớp, lớp 19 Địa lí, bổ sung nội dung và yêu cầu cần đạt sau vùng Bắc Trung Bộ trang 42 như sau: Vùng Nam Trung Bộ (Duyên hải Nam Trung Bộ và Tây Nguyên):"
+   },
+   {
+    "source_path": "Phụ lục 2 Mục 24",
+    "action": "bai-bo",
+    "target_document": "32/2018/TT-BGDĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục V.2"
+    ],
+    "doi_tuong": "Chương trình giáo dục phổ thông môn Lịch sử và Địa lí cấp trung học cơ sở",
+    "evidence": "24. Tại nội dung V.2. Nội dung cụ thể và yêu cầu cần đạt ở các lớp, lớp 9 Địa lí, bãi bỏ nội dung và yêu cầu cần đạt về Vùng kinh tế trọng điểm phía Nam trang 44, dòng 9, 10 từ trên xuống"
+   },
+   {
+    "source_path": "Phụ lục 2 Mục 25",
+    "action": "bai-bo",
+    "target_document": "32/2018/TT-BGDĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục V.2"
+    ],
+    "doi_tuong": "Chương trình giáo dục phổ thông môn Lịch sử và Địa lí cấp trung học cơ sở",
+    "evidence": "25. Tại nội dung V.2. Nội dung cụ thể và yêu cầu cần đạt ở các lớp, lớp 9 Địa lí, bãi bỏ nội dung và yêu cầu cần đạt về Vùng kinh tế trọng điểm vùng Đồng bằng sông Cửu Long trang 44, dòng 1, 2 từ dưới lên."
+   },
+   {
+    "source_path": "Phụ lục 2 Mục 26",
+    "action": "sua-doi",
+    "target_document": "32/2018/TT-BGDĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục V.2"
+    ],
+    "doi_tuong": "Chương trình giáo dục phổ thông môn Lịch sử và Địa lí cấp trung học cơ sở",
+    "evidence": "26. Tại nội dung V.2. Nội dung cụ thể và yêu cầu cần đạt ở các lớp, lớp 9 Địa lí, sửa đổi, bổ sung yêu cầu cần đạt của nội dung Phát triển tổng hợp kinh tế và bảo vệ tài nguyên, môi trường biển đảo trang 45, dòng 3, 4, 5, 6, 7, 8, 9, 10, 11 từ trên xuống thành:"
+   },
+   {
+    "source_path": "Phụ lục 2 Mục 26",
+    "action": "bo-sung",
+    "target_document": "32/2018/TT-BGDĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục V.2"
+    ],
+    "doi_tuong": "Chương trình giáo dục phổ thông môn Lịch sử và Địa lí cấp trung học cơ sở",
+    "evidence": "26. Tại nội dung V.2. Nội dung cụ thể và yêu cầu cần đạt ở các lớp, lớp 9 Địa lí, sửa đổi, bổ sung yêu cầu cần đạt của nội dung Phát triển tổng hợp kinh tế và bảo vệ tài nguyên, môi trường biển đảo trang 45, dòng 3, 4, 5, 6, 7, 8, 9, 10, 11 từ trên xuống thành:"
+   },
+   {
+    "source_path": "Phụ lục 2 Mục 27",
+    "action": "sua-doi",
+    "target_document": "32/2018/TT-BGDĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Chương trình giáo dục phổ thông môn Lịch sử và Địa lí cấp trung học cơ sở",
+    "evidence": "27. Tại chương Việt Nam từ năm 1918 đến năm 1945, sửa đổi yêu cầu cần đạt tại các dòng 4, 5, 6, 7, 8, 9, 10, 11, 12 từ trên xuống, trang 47 thành:"
+   },
+   {
+    "source_path": "Phụ lục 2 Mục 28",
+    "action": "sua-doi",
+    "target_document": "32/2018/TT-BGDĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Chương trình giáo dục phổ thông môn Lịch sử và Địa lí cấp trung học cơ sở",
+    "evidence": "28. Tại chương Việt Nam từ năm 1945 đến năm 1975, sửa đổi yêu cầu cần đạt Nhận biết được những biện pháp chủ yếu... trong năm đầu sau Cách mạng tháng Tám năm 1945 tại dòng thứ 10, 11, 12, 13 từ trên xuống, trang 48 thành: Nêu được những biện pháp chủ yếu... trong năm đầu sau Cách mạng tháng Tám năm 1945."
+   },
+   {
+    "source_path": "Phụ lục 2 Mục 29",
+    "action": "sua-doi",
+    "target_document": "32/2018/TT-BGDĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục VIII.2"
+    ],
+    "doi_tuong": "Chương trình giáo dục phổ thông môn Lịch sử và Địa lí cấp trung học cơ sở",
+    "evidence": "29. Tại mục VIII.2. Thời lượng thực hiện chương trình, sửa đổi, bổ sung thời lượng thực hiện chương trình trang 60, dòng 8 từ dưới lên thành:"
+   },
+   {
+    "source_path": "Phụ lục 2 Mục 29",
+    "action": "bo-sung",
+    "target_document": "32/2018/TT-BGDĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục VIII.2"
+    ],
+    "doi_tuong": "Chương trình giáo dục phổ thông môn Lịch sử và Địa lí cấp trung học cơ sở",
+    "evidence": "29. Tại mục VIII.2. Thời lượng thực hiện chương trình, sửa đổi, bổ sung thời lượng thực hiện chương trình trang 60, dòng 8 từ dưới lên thành:"
+   },
+   {
+    "source_path": "Phụ lục 3 Mục 1",
+    "action": "sua-doi",
+    "target_document": "32/2018/TT-BGDĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Chương trình giáo dục phổ thông môn Lịch sử - Lớp 10",
+    "evidence": "- Sửa đổi yêu cầu cần đạt: Nêu được cơ sở hình thành văn minh Văn Lang - Âu Lạc tại dòng thứ 2, từ dưới lên, trang 15 thành: Phân tích được cơ sở hình thành văn minh Văn Lang - Âu Lạc"
+   },
+   {
+    "source_path": "Phụ lục 3 Mục 1",
+    "action": "bo-sung",
+    "target_document": "32/2018/TT-BGDĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Chương trình giáo dục phổ thông môn Lịch sử - Lớp 10",
+    "evidence": "- Bổ sung yêu cầu cần đạt: Biết sưu tầm và sử dụng tư liệu lịch sử để tìm hiểu về văn minh Champa sau dòng thứ 3, từ trên xuống, trang 16."
+   },
+   {
+    "source_path": "Phụ lục 3 Mục 2",
+    "action": "sua-doi",
+    "target_document": "32/2018/TT-BGDĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Chương trình giáo dục phổ thông môn Lịch sử - Lớp 10",
+    "evidence": "2. Tại chủ đề Cộng đồng các dân tộc Việt Nam, sửa đổi yêu cầu cần đạt: Nêu được vai trò, tầm quan trọng của khối đại đoàn kết dân tộc trong sự nghiệp xây dựng và bảo vệ Tổ quốc hiện nay tại dòng 7, 8 cột bên trái từ trên xuống, trang 18 thành: Phân tích được vai trò, tầm quan trọng của khối đại đoàn kết dân tộc trong sự nghiệp xây dựng và bảo vệ Tổ quốc hiện nay."
+   },
+   {
+    "source_path": "Phụ lục 3 Mục 3",
+    "action": "sua-doi",
+    "target_document": "32/2018/TT-BGDĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Chương trình giáo dục phổ thông môn Lịch sử - Lớp 10",
+    "evidence": "- Tại nội dung: Bối cảnh ra đời của các bản Hiến pháp Việt Nam trang 26, dòng 3 từ trên xuống sửa đổi thành: Bối cảnh ra đời của các bản Hiến pháp Việt Nam: các năm 1946, 1959, 1980, 1992, 2013 và năm 2025 (năm sửa đổi, bổ sung Hiến pháp năm 2013)."
+   },
+   {
+    "source_path": "Phụ lục 3 Mục 3",
+    "action": "bo-sung",
+    "target_document": "32/2018/TT-BGDĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Chương trình giáo dục phổ thông môn Lịch sử - Lớp 10",
+    "evidence": "- Tại nội dung Hiến pháp của thời kì đổi mới, bổ sung thêm Hiến pháp 2013 sửa đổi, bổ sung trang 26, dòng 2 từ dưới lên"
+   },
+   {
+    "source_path": "Phụ lục 4 Mục 1",
+    "action": "sua-doi",
+    "target_document": "32/2018/TT-BGDĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục V.1"
+    ],
+    "doi_tuong": "Chương trình giáo dục phổ thông môn Địa lí",
+    "evidence": "1. Tại mục V.1 Nội dung khái quát a) Kiến thức cốt lõi, nội dung Thực hành tìm hiểu địa lí địa phương tỉnh, thành phố trực thuộc Trung ương trang 9, dòng 2 từ trên xuống sửa đổi thành: Thực hành tìm hiểu địa lí địa phương (tỉnh, thành phố)."
+   },
+   {
+    "source_path": "Phụ lục 4 Mục 2",
+    "action": "sua-doi",
+    "target_document": "32/2018/TT-BGDĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục V.2"
+    ],
+    "doi_tuong": "Chương trình giáo dục phổ thông môn Địa lí",
+    "evidence": "2. Tại nội dung V.2. Nội dung cụ thể và yêu cầu cần đạt ở các lớp, lớp 12 Địa lí Việt Nam, sửa đổi bổ sung yêu cầu cần đạt vào nội dung Vị trí địa lí và phạm vi lãnh thổ trang 28, dòng 5 từ trên xuống thành: Xác định được đặc điểm vị trí địa lí, phạm vi lãnh thổ Việt Nam và các tỉnh, thành phố trên bản đồ."
+   },
+   {
+    "source_path": "Phụ lục 4 Mục 2",
+    "action": "bo-sung",
+    "target_document": "32/2018/TT-BGDĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục V.2"
+    ],
+    "doi_tuong": "Chương trình giáo dục phổ thông môn Địa lí",
+    "evidence": "2. Tại nội dung V.2. Nội dung cụ thể và yêu cầu cần đạt ở các lớp, lớp 12 Địa lí Việt Nam, sửa đổi bổ sung yêu cầu cần đạt vào nội dung Vị trí địa lí và phạm vi lãnh thổ trang 28, dòng 5 từ trên xuống thành: Xác định được đặc điểm vị trí địa lí, phạm vi lãnh thổ Việt Nam và các tỉnh, thành phố trên bản đồ."
+   },
+   {
+    "source_path": "Phụ lục 4 Mục 3",
+    "action": "sua-doi",
+    "target_document": "32/2018/TT-BGDĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục V.2"
+    ],
+    "doi_tuong": "Chương trình giáo dục phổ thông môn Địa lí",
+    "evidence": "3. Tại nội dung V.2. Nội dung cụ thể và yêu cầu cần đạt ở các lớp, lớp 12 Địa lí Việt Nam, sửa đổi yêu cầu cần đạt về Sử dụng lao động trang 30, dòng 9, 10 từ trên xuống thành: Trình bày được đặc điểm nguồn lao động"
+   },
+   {
+    "source_path": "Phụ lục 4 Mục 4",
+    "action": "bai-bo",
+    "target_document": "32/2018/TT-BGDĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục V.2"
+    ],
+    "doi_tuong": "Chương trình giáo dục phổ thông môn Địa lí",
+    "evidence": "4. Tại nội dung V.2. Nội dung cụ thể và yêu cầu cần đạt ở các lớp, lớp 12 Địa lí Việt Nam, bãi bỏ nội dung Phân bố mạng lưới đô thị dòng 3 dưới lên cột bên trái trang 30 và một phần yêu cầu cần đạt ở nội dung Phân bố mạng lưới đô thị trang 30, dòng 5 từ dưới lên cột bên phải thành: Trình bày được đặc điểm đô thị hoá ở Việt Nam."
+   },
+   {
+    "source_path": "Phụ lục 4 Mục 5",
+    "action": "bai-bo",
+    "target_document": "32/2018/TT-BGDĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục V.2"
+    ],
+    "doi_tuong": "Chương trình giáo dục phổ thông môn Địa lí",
+    "evidence": "5. Tại nội dung V.2. Nội dung cụ thể và yêu cầu cần đạt ở các lớp, lớp 12 Địa lí Việt Nam, bãi bỏ nội dung và yêu cầu cần đạt ở nội dung: Chuyển dịch cơ cấu kinh tế theo ngành, theo thành phần kinh tế, theo lãnh thổ trang 31, dòng 8, 9, 10 từ trên xuống."
+   },
+   {
+    "source_path": "Phụ lục 4 Mục 6",
+    "action": "sua-doi",
+    "target_document": "32/2018/TT-BGDĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục V.2"
+    ],
+    "doi_tuong": "Chương trình giáo dục phổ thông môn Địa lí",
+    "evidence": "6. Tại nội dung V.2. Nội dung cụ thể và yêu cầu cần đạt ở các lớp, lớp 12 Địa lí Việt Nam, sửa đổi bổ sung yêu cầu cần đạt của nội dung vấn đề phát triển nông nghiệp, lâm nghiệp, thủy sản: Tổ chức lãnh thổ nông nghiệp trang 32, dòng 8, 9 từ trên xuống thành: Phân tích được một số hình thức tổ chức lãnh thổ nông nghiệp ở Việt Nam: trang trại, khu nông nghiệp công nghệ cao, vùng chuyên canh."
+   },
+   {
+    "source_path": "Phụ lục 4 Mục 6",
+    "action": "bo-sung",
+    "target_document": "32/2018/TT-BGDĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục V.2"
+    ],
+    "doi_tuong": "Chương trình giáo dục phổ thông môn Địa lí",
+    "evidence": "6. Tại nội dung V.2. Nội dung cụ thể và yêu cầu cần đạt ở các lớp, lớp 12 Địa lí Việt Nam, sửa đổi bổ sung yêu cầu cần đạt của nội dung vấn đề phát triển nông nghiệp, lâm nghiệp, thủy sản: Tổ chức lãnh thổ nông nghiệp trang 32, dòng 8, 9 từ trên xuống thành: Phân tích được một số hình thức tổ chức lãnh thổ nông nghiệp ở Việt Nam: trang trại, khu nông nghiệp công nghệ cao, vùng chuyên canh."
+   },
+   {
+    "source_path": "Phụ lục 4 Mục 7",
+    "action": "sua-doi",
+    "target_document": "32/2018/TT-BGDĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục V.2"
+    ],
+    "doi_tuong": "Chương trình giáo dục phổ thông môn Địa lí",
+    "evidence": "7. Tại nội dung V.2. Nội dung cụ thể và yêu cầu cần đạt ở các lớp, lớp 12 Địa lí Việt Nam, sửa đổi bổ sung yêu cầu cần đạt của nội dung vấn đề phát triển công nghiệp: Tổ chức lãnh thổ công nghiệp trang 32, dòng 3, 4 từ dưới lên thành: Phân tích được một số hình thức tổ chức lãnh thổ công nghiệp ở Việt Nam: khu công nghiệp, khu công nghệ cao."
+   },
+   {
+    "source_path": "Phụ lục 4 Mục 7",
+    "action": "bo-sung",
+    "target_document": "32/2018/TT-BGDĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục V.2"
+    ],
+    "doi_tuong": "Chương trình giáo dục phổ thông môn Địa lí",
+    "evidence": "7. Tại nội dung V.2. Nội dung cụ thể và yêu cầu cần đạt ở các lớp, lớp 12 Địa lí Việt Nam, sửa đổi bổ sung yêu cầu cần đạt của nội dung vấn đề phát triển công nghiệp: Tổ chức lãnh thổ công nghiệp trang 32, dòng 3, 4 từ dưới lên thành: Phân tích được một số hình thức tổ chức lãnh thổ công nghiệp ở Việt Nam: khu công nghiệp, khu công nghệ cao."
+   },
+   {
+    "source_path": "Phụ lục 4 Mục 8",
+    "action": "sua-doi",
+    "target_document": "32/2018/TT-BGDĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục V.2"
+    ],
+    "doi_tuong": "Chương trình giáo dục phổ thông môn Địa lí",
+    "evidence": "8. Tại nội dung V.2. Nội dung cụ thể và yêu cầu cần đạt ở các lớp, lớp 12 Địa lí Việt Nam, sửa đổi bổ sung yêu cầu cần đạt của nội dung vấn đề phát triển dịch vụ: Du lịch trang 33, dòng 7, 8 từ trên xuống thành: Phân tích được sự phân hóa lãnh thổ du lịch (các điểm du lịch, khu du lịch), du lịch với sự phát triển bền vững."
+   },
+   {
+    "source_path": "Phụ lục 4 Mục 8",
+    "action": "bo-sung",
+    "target_document": "32/2018/TT-BGDĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục V.2"
+    ],
+    "doi_tuong": "Chương trình giáo dục phổ thông môn Địa lí",
+    "evidence": "8. Tại nội dung V.2. Nội dung cụ thể và yêu cầu cần đạt ở các lớp, lớp 12 Địa lí Việt Nam, sửa đổi bổ sung yêu cầu cần đạt của nội dung vấn đề phát triển dịch vụ: Du lịch trang 33, dòng 7, 8 từ trên xuống thành: Phân tích được sự phân hóa lãnh thổ du lịch (các điểm du lịch, khu du lịch), du lịch với sự phát triển bền vững."
+   },
+   {
+    "source_path": "Phụ lục 4 Mục 9",
+    "action": "sua-doi",
+    "target_document": "32/2018/TT-BGDĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục V.2"
+    ],
+    "doi_tuong": "Chương trình giáo dục phổ thông môn Địa lí",
+    "evidence": "9. Tại nội dung V.2. Nội dung cụ thể và yêu cầu cần đạt ở các lớp, lớp 12 Địa lí Việt Nam, sửa đổi nội dung Địa lí các vùng kinh tế trang 33, dòng 8 từ dưới lên thành: Địa lí các vùng kinh tế - xã hội."
+   },
+   {
+    "source_path": "Phụ lục 4 Mục 10",
+    "action": "sua-doi",
+    "target_document": "32/2018/TT-BGDĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục V.2"
+    ],
+    "doi_tuong": "Chương trình giáo dục phổ thông môn Địa lí",
+    "evidence": "10. Tại nội dung V.2. Nội dung cụ thể và yêu cầu cần đạt ở các lớp, lớp 12 Địa lí Việt Nam sửa đổi nội dung Khai thác thế mạnh ở Trung du và miền núi Bắc Bộ trang 33, dòng 7 từ dưới lên thành: Khai thác thế mạnh ở Trung du và miền núi phía Bắc"
+   },
+   {
+    "source_path": "Phụ lục 4 Mục 10",
+    "action": "bo-sung",
+    "target_document": "32/2018/TT-BGDĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục V.2"
+    ],
+    "doi_tuong": "Chương trình giáo dục phổ thông môn Địa lí",
+    "evidence": "sửa đổi bổ sung yêu cầu cần đạt của nội dung Khai thác thế mạnh ở Trung du và miền núi phía Bắc trang 33, dòng 3, 4, 5 từ dưới lên thành: Chứng minh được các thế mạnh để phát triển kinh tế của vùng về khoáng sản và thuỷ điện, cây trồng có nguồn gốc cận nhiệt và ôn đới (cây công nghiệp, rau quả), chăn nuôi gia súc lớn."
+   },
+   {
+    "source_path": "Phụ lục 4 Mục 11",
+    "action": "bo-sung",
+    "target_document": "32/2018/TT-BGDĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục V.2"
+    ],
+    "doi_tuong": "Chương trình giáo dục phổ thông môn Địa lí",
+    "evidence": "11. Tại nội dung V.2. Nội dung cụ thể và yêu cầu cần đạt ở các lớp, lớp 12 Địa lí Việt Nam, bổ sung yêu cầu cần đạt của nội dung Phát triển kinh tế - xã hội ở Đồng bằng sông Hồng trang 34, dòng 9, 10 từ trên xuống thành: Phân tích được một số vấn đề về phát triển kinh tế - xã hội của vùng: Vấn đề phát triển công nghiệp, vấn đề phát triển dịch vụ, vấn đề phát triển kinh tế biển."
+   },
+   {
+    "source_path": "Phụ lục 4 Mục 12",
+    "action": "sua-doi",
+    "target_document": "32/2018/TT-BGDĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục V.2"
+    ],
+    "doi_tuong": "Chương trình giáo dục phổ thông môn Địa lí",
+    "evidence": "12. Tại nội dung V.2. Nội dung cụ thể và yêu cầu cần đạt ở các lớp, lớp 12 Địa lí Việt Nam, sửa đổi tên vùng Phát triển nông nghiệp, lâm nghiệp, thủy sản ở Bắc Trung Bộ trang 34 dòng 8 từ dưới lên thành: Phát triển kinh tế - xã hội ở Bắc Trung Bộ."
+   },
+   {
+    "source_path": "Phụ lục 4 Mục 13",
+    "action": "bo-sung",
+    "target_document": "32/2018/TT-BGDĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục V.2"
+    ],
+    "doi_tuong": "Chương trình giáo dục phổ thông môn Địa lí",
+    "evidence": "13. Tại nội dung V.2. Nội dung cụ thể và yêu cầu cần đạt ở các lớp, lớp 12 Địa lí Việt Nam, bổ sung thêm nội dung và yêu cầu cần đạt của nội dung Phát triển kinh tế - xã hội ở Bắc Trung Bộ trang 34, cột bên trái: Thế mạnh và tình hình phát triển du lịch"
+   },
+   {
+    "source_path": "Phụ lục 4 Mục 14",
+    "action": "bai-bo",
+    "target_document": "32/2018/TT-BGDĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục V.2"
+    ],
+    "doi_tuong": "Chương trình giáo dục phổ thông môn Địa lí",
+    "evidence": "14. Tại nội dung V.2. Nội dung cụ thể và yêu cầu cần đạt ở các lớp, lớp 12 Địa lí Việt Nam, bãi bỏ nội dung và yêu cầu cần đạt ở nội dung Phát triển kinh tế biển ở Duyên hải Nam Trung Bộ trang 35 và nội dung Khai thác thế mạnh để phát triển kinh tế ở Tây Nguyên trang 35."
+   },
+   {
+    "source_path": "Phụ lục 4 Mục 15",
+    "action": "bo-sung",
+    "target_document": "32/2018/TT-BGDĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục V.2"
+    ],
+    "doi_tuong": "Chương trình giáo dục phổ thông môn Địa lí",
+    "evidence": "15. Tại nội dung V.2. Nội dung cụ thể và yêu cầu cần đạt ở các lớp, lớp 12 Địa lí Việt Nam, bổ sung nội dung và yêu cầu cần đạt đặt sau Phát triển kinh tế - xã hội ở Bắc Trung Bộ trang 34 như sau: Phát triển kinh tế - xã hội ở Nam Trung Bộ:"
+   },
+   {
+    "source_path": "Phụ lục 4 Mục 16",
+    "action": "sua-doi",
+    "target_document": "32/2018/TT-BGDĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục V.2"
+    ],
+    "doi_tuong": "Chương trình giáo dục phổ thông môn Địa lí",
+    "evidence": "16. Tại nội dung V.2. Nội dung cụ thể và yêu cầu cần đạt ở các lớp, lớp 12 Địa lí Việt Nam, sửa đổi, bổ sung yêu cầu cần đạt ở nội dung Phát triển kinh tế - xã hội ở Đông Nam Bộ trang 36, dòng 6 từ trên xuống như sau: Trình bày được tình hình phát triển các ngành kinh tế: công nghiệp"
+   },
+   {
+    "source_path": "Phụ lục 4 Mục 16",
+    "action": "bo-sung",
+    "target_document": "32/2018/TT-BGDĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục V.2"
+    ],
+    "doi_tuong": "Chương trình giáo dục phổ thông môn Địa lí",
+    "evidence": "16. Tại nội dung V.2. Nội dung cụ thể và yêu cầu cần đạt ở các lớp, lớp 12 Địa lí Việt Nam, sửa đổi, bổ sung yêu cầu cần đạt ở nội dung Phát triển kinh tế - xã hội ở Đông Nam Bộ trang 36, dòng 6 từ trên xuống như sau: Trình bày được tình hình phát triển các ngành kinh tế: công nghiệp"
+   },
+   {
+    "source_path": "Phụ lục 4 Mục 17",
+    "action": "bai-bo",
+    "target_document": "32/2018/TT-BGDĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục V.2"
+    ],
+    "doi_tuong": "Chương trình giáo dục phổ thông môn Địa lí",
+    "evidence": "17. Tại nội dung V.2. Nội dung cụ thể và yêu cầu cần đạt ở các lớp, lớp 12 Địa lí Việt Nam, bãi bỏ nội dung và yêu cầu cần đạt về Phát triển các vùng kinh tế trọng điểm trang 37."
+   },
+   {
+    "source_path": "Phụ lục 4 Mục 18",
+    "action": "sua-doi",
+    "target_document": "32/2018/TT-BGDĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục V.2"
+    ],
+    "doi_tuong": "Chương trình giáo dục phổ thông môn Địa lí",
+    "evidence": "18. Tại nội dung V.2. Nội dung cụ thể và yêu cầu cần đạt ở các lớp, lớp 12 Địa lí Việt Nam, sửa đổi nội dung Thực hành tìm hiểu địa lí địa phương (tỉnh, thành phố trực thuộc trung ương) theo các chủ đề sau đây trang 38, dòng 10 từ trên xuống thành Thực hành tìm hiểu Địa lí địa phương (đơn vị hành chính cấp tỉnh) theo các chủ đề sau đây."
+   },
+   {
+    "source_path": "Phụ lục 4 Mục 19",
+    "action": "sua-doi",
+    "target_document": "32/2018/TT-BGDĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục V.2"
+    ],
+    "doi_tuong": "Chương trình giáo dục phổ thông môn Địa lí",
+    "evidence": "19. Tại nội dung V.2. Nội dung cụ thể và yêu cầu cần đạt ở các lớp, lớp 12 Địa lí Việt Nam, sửa đổi, bổ sung nội dung và yêu cầu cần đạt của nội dung Thực hành tìm hiểu địa lí địa phương trang 38, dòng 11, 12, 13 từ trên xuống thành: Cột bên trái: Vị trí địa lí, phạm vi lãnh thổ"
+   },
+   {
+    "source_path": "Phụ lục 4 Mục 19",
+    "action": "bo-sung",
+    "target_document": "32/2018/TT-BGDĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục V.2"
+    ],
+    "doi_tuong": "Chương trình giáo dục phổ thông môn Địa lí",
+    "evidence": "19. Tại nội dung V.2. Nội dung cụ thể và yêu cầu cần đạt ở các lớp, lớp 12 Địa lí Việt Nam, sửa đổi, bổ sung nội dung và yêu cầu cần đạt của nội dung Thực hành tìm hiểu địa lí địa phương trang 38, dòng 11, 12, 13 từ trên xuống thành: Cột bên trái: Vị trí địa lí, phạm vi lãnh thổ"
+   },
+   {
+    "source_path": "Phụ lục 4 Mục 20",
+    "action": "thay-cum-tu",
+    "target_document": "32/2018/TT-BGDĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục V.2"
+    ],
+    "doi_tuong": "Chương trình giáo dục phổ thông môn Địa lí",
+    "evidence": "20. Tại nội dung V.2. Nội dung cụ thể và yêu cầu cần đạt ở các lớp, lớp 12 Địa lí Việt Nam, sửa đổi bổ sung cụm từ \"atlat địa lí Việt Nam, bản đồ\" thành \"bản đồ\"."
+   },
+   {
+    "source_path": "Phụ lục 4 Mục 21",
+    "action": "sua-doi",
+    "target_document": "32/2018/TT-BGDĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục VIII"
+    ],
+    "doi_tuong": "Chương trình giáo dục phổ thông môn Địa lí",
+    "evidence": "21. Tại mục VIII. Giải thích và hướng dẫn thực hiện chương trình, sửa đổi thời lượng thực hiện chương trình tại mục 2.a trang 47, dòng 9 từ trên xuống thành:"
+   },
+   {
+    "source_path": "Phụ lục 5 Mục 1",
+    "action": "sua-doi",
+    "target_document": "32/2018/TT-BGDĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Chương trình giáo dục phổ thông môn Giáo dục công dân",
+    "evidence": "1. Tại chủ đề Nền kinh tế và các chủ thể của nền kinh tế, lớp 10, sửa đổi yêu cầu cần đạt: Nhận biết được vai trò của các chủ thể tham gia trong nền kinh tế tại dòng thứ 2, 3 từ trên xuống, trang 40 thành:"
+   },
+   {
+    "source_path": "Phụ lục 5 Mục 2",
+    "action": "bo-sung",
+    "target_document": "32/2018/TT-BGDĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Chương trình giáo dục phổ thông môn Giáo dục công dân",
+    "evidence": "2. Tại chủ đề Ngân sách Nhà nước và thuế, lớp 10 bổ sung khái niệm thuế, trong yêu cầu cần đạt “Nêu được khái niệm ngân sách nhà nước”, tại dòng 8 từ dưới lên, trang 40."
+   },
+   {
+    "source_path": "Phụ lục 5 Mục 3",
+    "action": "sua-doi",
+    "target_document": "32/2018/TT-BGDĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Chương trình giáo dục phổ thông môn Giáo dục công dân",
+    "evidence": "3. Tại chủ đề Ngân sách Nhà nước và thuế, lớp 10, sửa đổi yêu cầu cần đạt: Gọi tên được một số loại thuế phổ biến, tại dòng 5 từ dưới lên, trang 40 thành: Nêu được một số loại thuế phổ biến."
+   },
+   {
+    "source_path": "Phụ lục 5 Mục 4",
+    "action": "sua-doi",
+    "target_document": "32/2018/TT-BGDĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Chương trình giáo dục phổ thông môn Giáo dục công dân",
+    "evidence": "4. Tại chủ đề Ngân sách Nhà nước và thuế, lớp 10, sửa đổi yêu cầu cần đạt: Nêu được quy định cơ bản của pháp luật về quyền và nghĩa vụ công dân trong việc thực hiện pháp luật ngân sách và pháp luật thuế tại dòng 3, 4 từ dưới lên, trang 40 thành: Nêu được quyền và nghĩa vụ của công dân trong việc thực hiện pháp luật về ngân sách Nhà nước và thuế."
+   },
+   {
+    "source_path": "Phụ lục 5 Mục 5",
+    "action": "sua-doi",
+    "target_document": "32/2018/TT-BGDĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Chương trình giáo dục phổ thông môn Giáo dục công dân",
+    "evidence": "5. Tại chủ đề Ngân sách Nhà nước và thuế, lớp 10, sửa đổi yêu cầu cần đạt: Ủng hộ những hành vi chấp hành và phê phán những hành vi vi phạm pháp luật về thu, chi ngân sách và thuế tại dòng 1, 2 từ dưới lên trang 40 thành: Ủng hộ những hành vi chấp hành và phê phán những hành vi vi phạm pháp luật về ngân sách Nhà nước và thuế."
+   },
+   {
+    "source_path": "Phụ lục 5 Mục 6",
+    "action": "sua-doi",
+    "target_document": "32/2018/TT-BGDĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Chương trình giáo dục phổ thông môn Giáo dục công dân",
+    "evidence": "6. Tại chủ đề Sản xuất kinh doanh và các mô hình sản xuất kinh doanh lớp 10 sửa đổi yêu cầu cần đạt: Lựa chọn được mô hình kinh tế thích hợp trong tương lai đối với bản thân tại dòng 3 từ trên xuống, trang 41 thành: Lựa chọn được mô hình sản xuất kinh doanh phù hợp với bản thân."
+   },
+   {
+    "source_path": "Phụ lục 5 Mục 7",
+    "action": "sua-doi",
+    "target_document": "32/2018/TT-BGDĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Chương trình giáo dục phổ thông môn Giáo dục công dân",
+    "evidence": "7. Tại chủ đề Hệ thống chính trị nước Cộng hòa xã hội chủ nghĩa Việt Nam, lớp 10, sửa đổi yêu cầu cần đạt tại các dòng 1, 2, 3, 4, 5, 6, 7, 8 từ dưới lên, trang 41 và dòng thứ 1, 2 từ trên xuống trang 42 thành:"
+   },
+   {
+    "source_path": "Phụ lục 5 Mục 8",
+    "action": "sua-doi",
+    "target_document": "32/2018/TT-BGDĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Chương trình giáo dục phổ thông môn Giáo dục công dân",
+    "evidence": "8. Tại chủ đề Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, lớp 10, trang 42, tại các dòng t11, 12, 13, 14, 15, 16 từ trên xuống: Sửa đổi yêu cầu cần đạt: Nội dung cơ bản của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam năm 2013 về chính trị, kinh tế, văn hóa, giáo dục, khoa học, công nghệ, môi trường"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 1 (câu dẫn) không ghi riêng, các khoản 1-5 mang hành động. Phụ lục I-V viết thành đoạn văn: mỗi mục đánh số là một source_path; cùng hành động trong một mục gộp một quan hệ. Vị trí trong chương trình môn học chỉ nêu theo trang/dòng hoặc mục La Mã của chương trình; ghi mục La Mã khi có, tên chương trình môn ở doi_tuong. 'Lược bỏ' ghi bai-bo; 'sửa đổi (bổ sung) cụm từ X thành Y' ghi thay-cum-tu."
+ },
+ {
+  "doc_id": "673064",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Kế hoạch thực hiện NQ 138/NQ-CP; chỉ giao nhiệm vụ rà soát, kiến nghị sửa đổi; không có tác động trực tiếp."
+ }
+]

@@ -1,0 +1,158 @@
+[
+ {
+  "doc_id": "673599",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "hop-nhat",
+    "target_document": "58/2024/QH15",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "hợp nhất Luật Đầu tư công"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "hop-nhat",
+    "target_document": "90/2025/QH15",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Luật Đầu tư công số 58/2024/QH15 ngày 29 tháng 11 năm 2024 của Quốc hội, có hiệu lực kể từ ngày 01 tháng 01 năm 2025, được sửa đổi, bổ sung bởi:"
+   },
+   {
+    "source_path": "Điều 102 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "39/2019/QH14",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Luật Đầu tư công số 39/2019/QH14 đã được sửa đổi, bổ sung theo Luật số 64/2020/QH14, Luật số 72/2020/QH14, Luật số 03/2022/QH15, Luật số 27/2023/QH15 và Luật số 38/2024/QH15 (sau đây gọi là Luật Đầu tư công số 39/2019/QH14) hết hiệu lực kể từ ngày Luật này có hiệu lực thi hành"
+   },
+   {
+    "source_path": "Điều 102 Khoản 4",
+    "action": "sua-doi",
+    "target_document": "31/2024/QH15",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 4 Điều 67"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm a khoản 4 Điều 67 của Luật Đất đai số 31/2024/QH15 đã được sửa đổi, bổ sung một số điều theo Luật số 43/2024/QH15 như sau:"
+   },
+   {
+    "source_path": "Điều 102 Khoản 4",
+    "action": "bo-sung",
+    "target_document": "31/2024/QH15",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 4 Điều 67"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm a khoản 4 Điều 67 của Luật Đất đai số 31/2024/QH15 đã được sửa đổi, bổ sung một số điều theo Luật số 43/2024/QH15 như sau:"
+   },
+   {
+    "source_path": "Điều 102 Khoản 5 điểm a",
+    "action": "bo-sung",
+    "target_document": "77/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 9 Điều 21"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung khoản 9 vào sau khoản 8 Điều 21 như sau:"
+   },
+   {
+    "source_path": "Điều 102 Khoản 5 điểm b",
+    "action": "bo-sung",
+    "target_document": "77/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 7 Điều 28"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung khoản 7 vào sau khoản 6 Điều 28 như sau:"
+   },
+   {
+    "source_path": "Điều 102 Khoản 5 điểm c",
+    "action": "bo-sung",
+    "target_document": "77/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 4 Điều 35"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung khoản 4 vào sau khoản 3 Điều 35 như sau:"
+   },
+   {
+    "source_path": "Điều 102 Khoản 5 điểm d",
+    "action": "bo-sung",
+    "target_document": "77/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 6 Điều 49"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung khoản 6 vào sau khoản 5 Điều 49 như sau:"
+   },
+   {
+    "source_path": "Điều 102 Khoản 5 điểm đ",
+    "action": "bo-sung",
+    "target_document": "77/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 4 Điều 63"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung khoản 4 vào sau khoản 3 Điều 63 như sau:"
+   },
+   {
+    "source_path": "Điều 102 Khoản 5 điểm e",
+    "action": "bo-sung",
+    "target_document": "77/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 4 Điều 70"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung khoản 4 vào sau khoản 3 Điều 70 như sau:"
+   },
+   {
+    "source_path": "Điều 102 Khoản 6 điểm a",
+    "action": "sua-doi",
+    "target_document": "39/2024/QH15",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm b khoản 2 Điều 37"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi điểm b khoản 2 Điều 37 như sau:"
+   },
+   {
+    "source_path": "Điều 102 Khoản 6 điểm b",
+    "action": "bai-bo",
+    "target_document": "39/2024/QH15",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 1 Điều 12"
+    ],
+    "doi_tuong": "cụm từ “và điểm d”",
+    "evidence": "Bỏ cụm từ “và điểm d” tại điểm a khoản 1 Điều 12;"
+   },
+   {
+    "source_path": "Điều 102 Khoản 6 điểm c",
+    "action": "bai-bo",
+    "target_document": "39/2024/QH15",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm b khoản 5 Điều 9",
+     "điểm d khoản 3 Điều 11"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ điểm b khoản 5 Điều 9, điểm d khoản 3 Điều 11."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Văn bản hợp nhất Luật Đầu tư công 58/2024/QH15 và Luật 90/2025/QH15 (hop-nhat ở Phần đầu). Các quan hệ Điều 102 là nội dung gốc của Luật 58/2024/QH15 được chép lại trong VBHN. Chú thích cuối trang (\"được sửa đổi, bổ sung theo ... Luật số 90/2025/QH15\") là lịch sử, không ghi. Khoản 5 Điều 102 (câu dẫn chung) không ghi riêng, đã ghi ở từng điểm."
+ }
+]

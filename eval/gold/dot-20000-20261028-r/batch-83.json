@@ -1,0 +1,168 @@
+[
+ {
+  "doc_id": "663448",
+  "relations": [
+   {
+    "source_path": "Điều 1",
+    "action": "quy-dinh-chi-tiet",
+    "target_document": "Luật sửa đổi, bổ sung một số điều của Luật Dược",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thông tư này quy định chi tiết và hướng dẫn thi hành một số điều của Luật Dược ngày 06 tháng 4 năm 2016 và Luật sửa đổi, bổ sung một số điều của Luật Dược ngày 21 tháng 11 năm 2024 (sau đây gọi là Luật Dược), bao gồm:"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "huong-dan",
+    "target_document": "Luật sửa đổi, bổ sung một số điều của Luật Dược",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thông tư này quy định chi tiết và hướng dẫn thi hành một số điều của Luật Dược ngày 06 tháng 4 năm 2016 và Luật sửa đổi, bổ sung một số điều của Luật Dược ngày 21 tháng 11 năm 2024 (sau đây gọi là Luật Dược), bao gồm:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "quy-dinh-chi-tiet",
+    "target_document": "Luật Dược",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 72",
+     "khoản 3 Điều 72",
+     "khoản 4 Điều 89"
+    ],
+    "doi_tuong": null,
+    "evidence": "Quy định về dữ liệu lâm sàng để bảo đảm an toàn, hiệu quả trong hồ sơ đăng ký thuốc cổ truyền và tiêu chí để xác định trường hợp miễn thử, miễn một số giai đoạn thử thuốc cổ truyền trên lâm sàng tại Việt Nam và thuốc cổ truyền phải yêu cầu thử lâm sàng giai đoạn 4 tại khoản 2, khoản 3 Điều 72 và khoản 4 Điều 89 Luật Dược."
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "huong-dan",
+    "target_document": "Luật Dược",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 72",
+     "khoản 3 Điều 72",
+     "khoản 4 Điều 89"
+    ],
+    "doi_tuong": null,
+    "evidence": "Quy định về dữ liệu lâm sàng để bảo đảm an toàn, hiệu quả trong hồ sơ đăng ký thuốc cổ truyền và tiêu chí để xác định trường hợp miễn thử, miễn một số giai đoạn thử thuốc cổ truyền trên lâm sàng tại Việt Nam và thuốc cổ truyền phải yêu cầu thử lâm sàng giai đoạn 4 tại khoản 2, khoản 3 Điều 72 và khoản 4 Điều 89 Luật Dược."
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "quy-dinh-chi-tiet",
+    "target_document": "Luật Dược",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 9 Điều 56",
+     "khoản 2 Điều 58"
+    ],
+    "doi_tuong": null,
+    "evidence": "Quy định về hồ sơ, thủ tục cấp, gia hạn, thay đổi, bổ sung, thu hồi giấy đăng ký lưu hành thuốc cổ truyền, vị thuốc cổ truyền, dược liệu dùng cho người tại Việt Nam tại khoản 9 Điều 56 và khoản 2 Điều 58 Luật Dược."
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "huong-dan",
+    "target_document": "Luật Dược",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 9 Điều 56",
+     "khoản 2 Điều 58"
+    ],
+    "doi_tuong": null,
+    "evidence": "Quy định về hồ sơ, thủ tục cấp, gia hạn, thay đổi, bổ sung, thu hồi giấy đăng ký lưu hành thuốc cổ truyền, vị thuốc cổ truyền, dược liệu dùng cho người tại Việt Nam tại khoản 9 Điều 56 và khoản 2 Điều 58 Luật Dược."
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "quy-dinh-chi-tiet",
+    "target_document": "Luật Dược",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 27 Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Nguyên tắc, tiêu chí phân loại thuốc cổ truyền không kê đơn theo quy định tại khoản 27 Điều 2 Luật Dược."
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "huong-dan",
+    "target_document": "Luật Dược",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 27 Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Nguyên tắc, tiêu chí phân loại thuốc cổ truyền không kê đơn theo quy định tại khoản 27 Điều 2 Luật Dược."
+   },
+   {
+    "source_path": "Điều 1 Khoản 4",
+    "action": "quy-dinh-chi-tiet",
+    "target_document": "Luật Dược",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 78"
+    ],
+    "doi_tuong": null,
+    "evidence": "Quy định về báo cáo an toàn, hiệu quả của thuốc cổ truyền sau khi được cấp giấy đăng ký lưu hành để triển khai hoạt động cảnh giác dược theo quy định tại khoản 2 Điều 78 Luật Dược."
+   },
+   {
+    "source_path": "Điều 1 Khoản 4",
+    "action": "huong-dan",
+    "target_document": "Luật Dược",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 78"
+    ],
+    "doi_tuong": null,
+    "evidence": "Quy định về báo cáo an toàn, hiệu quả của thuốc cổ truyền sau khi được cấp giấy đăng ký lưu hành để triển khai hoạt động cảnh giác dược theo quy định tại khoản 2 Điều 78 Luật Dược."
+   },
+   {
+    "source_path": "Điều 38 Khoản 1",
+    "action": "bai-bo",
+    "target_document": "07/2017/TT-BYT",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Nội dung quy định liên quan đến thuốc cổ truyền",
+    "evidence": "a) Nội dung quy định liên quan đến thuốc cổ truyền quy định tại Thông tư số 07/2017/TT-BYT ngày 03 tháng 5 năm 2017 của Bộ trưởng Bộ Y tế ban hành danh mục thuốc không kê đơn;"
+   },
+   {
+    "source_path": "Điều 38 Khoản 1",
+    "action": "bai-bo",
+    "target_document": "21/2018/TT-BYT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "b) Thông tư số 21/2018/TT-BYT ngày 12 tháng 9 năm 2018 của Bộ trưởng Bộ Y tế quy định việc đăng ký lưu hành thuốc cổ truyền, dược liệu;"
+   },
+   {
+    "source_path": "Điều 38 Khoản 1 điểm c",
+    "action": "bai-bo",
+    "target_document": "39/2021/TT-BYT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thông tư số 39/2021/TT-BYT ngày 31 tháng 12 năm 2021 của Bộ trưởng Bộ Y tế sửa đổi, bổ sung một số điều của Thông tư số 21/2018/TT-BYT ngày 12 tháng 9 năm 2018 của Bộ trưởng Bộ Y tế quy định việc đăng ký lưu hành thuốc cổ truyền, dược liệu;"
+   },
+   {
+    "source_path": "Điều 38 Khoản 1 điểm d",
+    "action": "bai-bo",
+    "target_document": "54/2024/TT-BYT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thông tư số 54/2024/TT-BYT ngày 31 tháng 12 năm 2024 của Bộ trưởng Bộ Y tế sửa đổi, bổ sung một số điều về gia hạn giấy đăng ký lưu hành thuốc cổ truyền, vị thuốc cổ truyền, dược liệu tại Thông tư số 21/2018/TT-BYT ngày 12 tháng 9 năm 2018 của Bộ trưởng Bộ Y tế quy định việc đăng ký lưu hành thuốc cổ truyền, dược liệu.\n\n3. Lộ trình thực hiện phân cấp thẩm quyền thực hiện thủ tục hành chính cấp, gia hạn, thay đổi, bổ sung, thu hồi giấy đăng ký lưu hành vị thuốc cổ truyền, dược liệu quy định tại các Điều 30, 31, 32, 33, 35, 36 và Điều 37 Thông tư này cụ thể như sau:\n\na) Trước ngày 01 tháng 7 năm 2027, Cục Quản lý Y, Dược cổ truyền thực hiện cấp, gia hạn, thay đổi, bổ sung, thu hồi giấy đăng ký lưu hành vị thuốc cổ truyền, dược liệu;\n\nb) Kể từ ngày 01 tháng 7 năm 2027, cơ quan chuyên môn về y tế thuộc Ủy ban nhân dân cấp tỉnh thực hiện cấp, gia hạn, thay đổi, bổ sung, thu hồi giấy đăng ký lưu hành vị thuốc cổ truyền, dược liệu."
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 38 Khoản 1",
+    "loai": "gop_sai",
+    "ghi_chu": "Khoản 2 Điều 38 (danh sách a-d văn bản 07/2017, 21/2018, 39/2021, 54/2024) và khoản 3 bị gộp vào khoản 1; điểm a, b không thành đơn vị riêng; điểm c, d mang đường dẫn 'Khoản 1'."
+   },
+   {
+    "source_path": "Điều 38 Khoản 1",
+    "loai": "thieu_noi_dung",
+    "ghi_chu": "Câu dẫn của khoản 2 Điều 38 bị mất, thay bằng '... Hãy đăng nhập hoặc đăng ký Thành viên Pro...'."
+   }
+  ],
+  "ghi_chu": "Toàn văn bị khuyết 217 chỗ ('... Hãy đăng nhập hoặc đăng ký Thành viên Pro'), nên có thể sót tác động. Câu dẫn khoản 2 Điều 38 bị mất: 4 quan hệ bai-bo (07/2017 phần thuốc cổ truyền, 21/2018, 39/2021, 54/2024) suy từ vị trí ở Điều 'Hiệu lực thi hành' và Điều 39 chuyển tiếp; chữ hành động (bãi bỏ/hết hiệu lực) không đọc được, cần người duyệt kiểm lại. Điều 1: quy định chi tiết và hướng dẫn thi hành Luật Dược 2016 (ghi ở khoản 1-4 theo vị trí) và Luật sửa đổi Luật Dược 2024 (ghi ở Điều 1); văn bản không nêu số hiệu hai Luật. Khoản 5 Điều 1 không nêu điều luật. Điều 40 tham chiếu chung, không phải quan hệ."
+ }
+]

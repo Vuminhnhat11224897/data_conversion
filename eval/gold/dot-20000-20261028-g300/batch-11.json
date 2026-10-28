@@ -1,0 +1,50 @@
+[
+ {
+  "doc_id": "675859",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "123/QĐ-TANDTC-TĐKT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực kể từ ngày ký và thay thế Quyết định số 123/QĐ-TANDTC-TĐKT ngày 05/4/2023 của Chánh án Tòa án nhân dân tối cao về việc ban hành Bảng chấm điểm thi đua áp dụng trong Tòa án nhân dân."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Ba bảng chấm điểm kèm theo không có hành động lên văn bản khác."
+ },
+ {
+  "doc_id": "676116",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "149/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực thi hành kể từ ngày ký và thay thế Quyết định số 149/QĐ-UBND ngày 16 tháng 02 ăm 2017 của Uỷ ban nhân dân tỉnh Gia Lai Ban hành Quy chế quản lý hoạt động tại cửa khẩu quốc tế Lệ Thanh, tỉnh Gia Lai."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quy chế kèm theo không có hành động lên văn bản khác."
+ },
+ {
+  "doc_id": "677310",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "26/2025/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực thi hành kể từ ngày 15 tháng 10 năm 2025 và thay thế Quyết định số 26/2025/QĐ-UBND ngày 14 tháng 3 năm 2025 của Ủy ban nhân dân tỉnh ban hành Quy chế phối hợp quản lý nhà nước tại khu kinh tế cửa khẩu, các khu công nghiệp, các cửa khẩu ngoài khu kinh tế cửa khẩu giữa Ban Quản lý Khu kinh tế cửa khẩu Đồng Đăng - Lạng Sơn với các sở, ban, ngành, Ủy ban nhân dân các huyện, thành phố."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quy chế kèm theo không có hành động lên văn bản khác."
+ }
+]

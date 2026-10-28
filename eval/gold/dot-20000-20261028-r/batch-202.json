@@ -1,0 +1,105 @@
+[
+ {
+  "doc_id": "649748",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "26/2023/NĐ-CP",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Biểu thuế nhập khẩu ưu đãi theo Danh mục mặt hàng chịu thuế",
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỨC THUẾ SUẤT THUẾ NHẬP KHẨU ƯU ĐÃI CỦA MỘT SỐ MẶT HÀNG TẠI BIỂU THUẾ NHẬP KHẨU ƯU ĐÃI THEO DANH MỤC MẶT HÀNG CHỊU THUẾ BAN HÀNH KÈM THEO NGHỊ ĐỊNH SỐ 26/2023/NĐ-CP NGÀY 31 THÁNG 5 NĂM 2023 CỦA CHÍNH PHỦ VỀ BIỂU THUẾ XUẤT KHẨU, BIỂU THUẾ NHẬP KHẨU ƯU ĐÃI, DANH MỤC HÀNG HÓA VÀ MỨC THUẾ TUYỆT ĐỐI, THUẾ HỖN HỢP, THUẾ NHẬP KHẨU NGOÀI HẠN NGẠCH THUẾ QUAN"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "26/2023/NĐ-CP",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Biểu thuế nhập khẩu ưu đãi theo Danh mục mặt hàng chịu thuế",
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỨC THUẾ SUẤT THUẾ NHẬP KHẨU ƯU ĐÃI CỦA MỘT SỐ MẶT HÀNG TẠI BIỂU THUẾ NHẬP KHẨU ƯU ĐÃI THEO DANH MỤC MẶT HÀNG CHỊU THUẾ BAN HÀNH KÈM THEO NGHỊ ĐỊNH SỐ 26/2023/NĐ-CP NGÀY 31 THÁNG 5 NĂM 2023 CỦA CHÍNH PHỦ VỀ BIỂU THUẾ XUẤT KHẨU, BIỂU THUẾ NHẬP KHẨU ƯU ĐÃI, DANH MỤC HÀNG HÓA VÀ MỨC THUẾ TUYỆT ĐỐI, THUẾ HỖN HỢP, THUẾ NHẬP KHẨU NGOÀI HẠN NGẠCH THUẾ QUAN"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "sua-doi",
+    "target_document": "26/2023/NĐ-CP",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục II"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung mức thuế suất thuế nhập khẩu ưu đãi của một số mặt hàng quy định tại Phụ lục II - Biểu thuế nhập khẩu ưu đãi theo Danh mục mặt hàng chịu thuế quy định tại Điều 3 Nghị định số 26/2023/NĐ-CP ngày 31 tháng 5 năm 2023 của Chính phủ thành các mức thuế suất thuế nhập khẩu ưu đãi mới quy định tại Phụ lục ban hành kèm theo Nghị định này."
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bo-sung",
+    "target_document": "26/2023/NĐ-CP",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục II"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung mức thuế suất thuế nhập khẩu ưu đãi của một số mặt hàng quy định tại Phụ lục II - Biểu thuế nhập khẩu ưu đãi theo Danh mục mặt hàng chịu thuế quy định tại Điều 3 Nghị định số 26/2023/NĐ-CP ngày 31 tháng 5 năm 2023 của Chính phủ thành các mức thuế suất thuế nhập khẩu ưu đãi mới quy định tại Phụ lục ban hành kèm theo Nghị định này."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Phụ lục chia Mục I (sửa đổi thuế suất tại Mục I Phụ lục II NĐ 26/2023) và Mục II (bổ sung Ethane vào Chương 98 tại khoản 3 Mục II Phụ lục II): đây là đề mục, hành động do Điều 1 thực hiện nên không ghi quan hệ riêng."
+ },
+ {
+  "doc_id": "650623",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "57/2024/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA QUYẾT ĐỊNH SỐ 57/2024/QĐ-UBND NGÀY 31 THÁNG 10 NĂM 2024 CỦA ỦY BAN NHÂN DÂN TỈNH GIA LAI BAN HÀNH ĐƠN GIÁ BỒI THƯỜNG THIỆT HẠI VỀ CÂY TRỒNG, VẬT NUÔI KHI NHÀ NƯỚC THU HỒI ĐẤT ÁP DỤNG TRÊN ĐỊA BÀN TỈNH GIA LAI"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "57/2024/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA QUYẾT ĐỊNH SỐ 57/2024/QĐ-UBND NGÀY 31 THÁNG 10 NĂM 2024 CỦA ỦY BAN NHÂN DÂN TỈNH GIA LAI BAN HÀNH ĐƠN GIÁ BỒI THƯỜNG THIỆT HẠI VỀ CÂY TRỒNG, VẬT NUÔI KHI NHÀ NƯỚC THU HỒI ĐẤT ÁP DỤNG TRÊN ĐỊA BÀN TỈNH GIA LAI"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "sua-doi",
+    "target_document": "57/2024/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 Điều 3 Quyết định số 57/2024/QĐ-UBND như sau:"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bo-sung",
+    "target_document": "57/2024/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 Điều 3 Quyết định số 57/2024/QĐ-UBND như sau:"
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "57/2024/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Phụ lục ban hành kèm theo Quyết định số 57/2024/QĐ-UBND",
+    "evidence": "Thay thế Phụ lục ban hành kèm theo Quyết định số 57/2024/QĐ-UBND bằng Phụ lục ban hành kèm theo Quyết định này."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Phụ lục I-III là đơn giá mới thay thế phụ lục của QĐ 57/2024 (không đánh số), không có hành động riêng trong bảng."
+ }
+]

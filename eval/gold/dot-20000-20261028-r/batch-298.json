@@ -1,0 +1,735 @@
+[
+ {
+  "doc_id": "657075",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Kế hoạch: 'Điều chỉnh, bổ sung Kế hoạch số 43/KH-UBND', 'Kế hoạch số 402/KH-UBND' là nhiệm vụ giao Sở KH&CN, không phải quan hệ."
+ },
+ {
+  "doc_id": "657205",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "50/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG ĐIỀU 1 NGHỊ QUYẾT SỐ 50/NQ-HĐND NGÀY 09 THÁNG 12 NĂM 2024 CỦA HỘI ĐỒNG NHÂN DÂN TỈNH VỀ KẾ HOẠCH ĐẦU TƯ CÔNG TỈNH TIỀN GIANG NĂM 2025"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "50/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG ĐIỀU 1 NGHỊ QUYẾT SỐ 50/NQ-HĐND NGÀY 09 THÁNG 12 NĂM 2024 CỦA HỘI ĐỒNG NHÂN DÂN TỈNH VỀ KẾ HOẠCH ĐẦU TƯ CÔNG TỈNH TIỀN GIANG NĂM 2025"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "50/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 Điều 1 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "50/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 Điều 1 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "50/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 Điều 1 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "50/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 Điều 1 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "sua-doi",
+    "target_document": "50/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 4 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 4 Điều 1 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "bo-sung",
+    "target_document": "50/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 4 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 4 Điều 1 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 4",
+    "action": "bai-bo",
+    "target_document": "50/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 5 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ khoản 5 Điều 1."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Khoản 5 Điều 1 'chấp thuận việc điều chỉnh tên các chủ đầu tư' không nêu vị trí cụ thể trong NQ 50/NQ-HĐND: không ghi quan hệ. Lời dẫn chỉ nêu Tờ trình đề nghị."
+ },
+ {
+  "doc_id": "657232",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "27/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 1",
+     "khoản 2 Điều 1",
+     "khoản 3 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "VỀ SỬA ĐỔI, BỔ SUNG KHOẢN 1, KHOẢN 2 VÀ KHOẢN 3 ĐIỀU 1 NGHỊ QUYẾT SỐ 27/NQ-HĐND NGÀY 17 THÁNG 9 NĂM 2021 CỦA HỘI ĐỒNG NHÂN DÂN TỈNH"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "27/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 1",
+     "khoản 2 Điều 1",
+     "khoản 3 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "VỀ SỬA ĐỔI, BỔ SUNG KHOẢN 1, KHOẢN 2 VÀ KHOẢN 3 ĐIỀU 1 NGHỊ QUYẾT SỐ 27/NQ-HĐND NGÀY 17 THÁNG 9 NĂM 2021 CỦA HỘI ĐỒNG NHÂN DÂN TỈNH"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "27/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 Điều 1 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "27/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 Điều 1 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "27/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 Điều 1 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "27/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 Điều 1 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "sua-doi",
+    "target_document": "27/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 3 Điều 1 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "bo-sung",
+    "target_document": "27/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 3 Điều 1 như sau:"
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "48/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị quyết này thay thế Nghị quyết số 48/NQ-HĐND ngày 09 tháng 12 năm 2024 của Hội đồng nhân dân tỉnh về sửa đổi, bổ sung khoản 1, khoản 2 và khoản 3 Điều 1 Nghị quyết số 27/NQ-HĐND ngày 17 tháng 9 năm 2021"
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 2",
+    "loai": "thieu_noi_dung",
+    "ghi_chu": "Câu 'Nghị quyết này thay thế Nghị quyết số 48/NQ-HĐND' ở đoạn kết sau Điều 2 không có trong don_vi; ghi source_path theo Điều gần nhất (Điều 2)."
+   }
+  ],
+  "ghi_chu": "Khoản 4 Điều 1 'chấp thuận điều chỉnh tên các chủ đầu tư' không nêu vị trí cụ thể: không ghi quan hệ."
+ },
+ {
+  "doc_id": "657430",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "2381/2009/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA QUYẾT ĐỊNH SỐ 2381/2009/QĐ-UBND NGÀY 20 THÁNG 8 NĂM 2009 CỦA ỦY BAN NHÂN DÂN TỈNH VỀ VIỆC THÀNH LẬP QUỸ HỖ TRỢ PHÁT TRIỂN HỢP TÁC XÃ TỈNH PHÚ THỌ"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "2381/2009/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA QUYẾT ĐỊNH SỐ 2381/2009/QĐ-UBND NGÀY 20 THÁNG 8 NĂM 2009 CỦA ỦY BAN NHÂN DÂN TỈNH VỀ VIỆC THÀNH LẬP QUỸ HỖ TRỢ PHÁT TRIỂN HỢP TÁC XÃ TỈNH PHÚ THỌ"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "2381/2009/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi khoản 2 Điều 1 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "2381/2009/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi Điều 2 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "sua-doi",
+    "target_document": "2381/2009/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi Điều 3 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 4",
+    "action": "sua-doi",
+    "target_document": "2381/2009/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 4"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi Điều 4 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 5",
+    "action": "sua-doi",
+    "target_document": "2381/2009/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 Điều 5 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 5",
+    "action": "bo-sung",
+    "target_document": "2381/2009/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 Điều 5 như sau:"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên và lời dẫn cùng sửa đổi, bổ sung QĐ 2381/2009/QĐ-UBND: một cặp Phần đầu."
+ },
+ {
+  "doc_id": "657466",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Khoản 1 Điều 7 giao UBND TP rà soát, sửa đổi, bổ sung nội dung tại QĐ 2492/QĐ-UBND: nhiệm vụ, không phải quan hệ."
+ },
+ {
+  "doc_id": "657635",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "23/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "VỀ VIỆC SỬA ĐỔI MỘT SỐ NỘI DUNG CỦA QUYẾT ĐỊNH SỐ 23/QĐ-UBND NGÀY 13/01/2025[1] VÀ QUYẾT ĐỊNH SỐ 174/QĐ-UBND NGÀY 06/3/2025[2] CỦA ỦY BAN NHÂN DÂN TỈNH NINH BÌNH"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "174/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "VỀ VIỆC SỬA ĐỔI MỘT SỐ NỘI DUNG CỦA QUYẾT ĐỊNH SỐ 23/QĐ-UBND NGÀY 13/01/2025[1] VÀ QUYẾT ĐỊNH SỐ 174/QĐ-UBND NGÀY 06/3/2025[2] CỦA ỦY BAN NHÂN DÂN TỈNH NINH BÌNH"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "23/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi khoản 2 Điều 1 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "23/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi tiết 3.2 khoản 3 Điều 1 như sau:"
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "sua-doi",
+    "target_document": "174/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục 01"
+    ],
+    "doi_tuong": "số lượng người làm việc (viên chức) hưởng lương từ ngân sách nhà nước và hợp đồng lao động thực hiện công việc hỗ trợ phục vụ tại Sở Nội vụ, Sở Y tế, Ủy ban nhân dân huyện Yên Mô",
+    "evidence": "Sửa đổi số lượng người làm việc (viên chức) hưởng lương từ ngân sách nhà nước và hợp đồng lao động thực hiện công việc hỗ trợ phục vụ tại Sở Nội vụ, Sở Y tế, Ủy ban nhân dân huyện Yên Mô tại Phụ lục số 01 ban hành kèm theo Quyết định số 174/QĐ-UBND ngày 06/3/2025"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Khoản 2 Điều 1 sửa tiết 3.2: vị trí dừng ở khoản 3 Điều 1."
+ },
+ {
+  "doc_id": "658333",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "37/2025/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "VỀ VIỆC BỔ SUNG MỘT SỐ ĐIỀU CỦA QUYẾT ĐỊNH SỐ 37/2025/QĐ-UBND NGÀY 31 THÁNG 3 NĂM 2025 CỦA UBND TỈNH"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "37/2025/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung nội dung tại Điều 2 Quyết định số 37/2025/QĐ-UBND ngày 31 tháng 3 năm 2025"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "37/2025/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm b khoản 2 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung nội dung tại Điểm b, khoản 2, điều 3 Quyết định số 37/2025/QĐ-UBND ngày 31 tháng 3 năm 2025"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": ""
+ },
+ {
+  "doc_id": "658537",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "3473/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "VỀ VIỆC PHÊ DUYỆT ĐIỀU CHỈNH QUY ĐỊNH GIÁ SẢN PHẨM, DỊCH VỤ THỦY LỢI NĂM 2024 TRÊN ĐỊA BÀN TỈNH BÌNH ĐỊNH BAN HÀNH KÈM THEO QUYẾT ĐỊNH SỐ 3473/QĐ-UBND NGÀY 04/10/2024 CỦA ỦY BAN NHÂN DÂN TỈNH"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "sua-doi",
+    "target_document": "3473/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 4 Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Phê duyệt điều chỉnh khoản 4 Điều 2 của Quy định giá sản phẩm, dịch vụ thủy lợi năm 2024 trên địa bàn tỉnh Bình Định ban hành kèm theo Quyết định số 3473/QĐ-UBND ngày 04/10/2024 của Ủy ban nhân dân tỉnh như sau:"
+   },
+   {
+    "source_path": "Điều 3",
+    "action": "sua-doi",
+    "target_document": "3473/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này điều chỉnh, bổ sung Quyết định số 3473/QĐ-UBND ngày 04/10/2024 của Ủy ban nhân dân tỉnh."
+   },
+   {
+    "source_path": "Điều 3",
+    "action": "bo-sung",
+    "target_document": "3473/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này điều chỉnh, bổ sung Quyết định số 3473/QĐ-UBND ngày 04/10/2024 của Ủy ban nhân dân tỉnh."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "'Điều chỉnh' ghi là sua-doi."
+ },
+ {
+  "doc_id": "658686",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "10/2025/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 4 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG KHOẢN 4 ĐIỀU 3 CỦA QUYẾT ĐỊNH SỐ 10/2025/QĐ-UBND NGÀY 26 THÁNG 02 NĂM 2025 CỦA ỦY BAN NHÂN DÂN TỈNH"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "10/2025/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 4 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG KHOẢN 4 ĐIỀU 3 CỦA QUYẾT ĐỊNH SỐ 10/2025/QĐ-UBND NGÀY 26 THÁNG 02 NĂM 2025 CỦA ỦY BAN NHÂN DÂN TỈNH"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "sua-doi",
+    "target_document": "10/2025/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 4 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 4 Điều 3 như sau:"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bo-sung",
+    "target_document": "10/2025/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 4 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 4 Điều 3 như sau:"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": ""
+ },
+ {
+  "doc_id": "658853",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "08/2025/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA QUY ĐỊNH ĐỊNH MỨC KINH TẾ KỸ THUẬT ĐỂ LẬP DỰ TOÁN NGÂN SÁCH NHÀ NƯỚC PHỤC VỤ CÔNG TÁC ĐỊNH GIÁ ĐẤT TRÊN ĐỊA BÀN TỈNH ĐẮK NÔNG BAN HÀNH KÈM THEO QUYẾT ĐỊNH SỐ 08/2025/QĐ-UBND"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "08/2025/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA QUY ĐỊNH ĐỊNH MỨC KINH TẾ KỸ THUẬT ĐỂ LẬP DỰ TOÁN NGÂN SÁCH NHÀ NƯỚC PHỤC VỤ CÔNG TÁC ĐỊNH GIÁ ĐẤT TRÊN ĐỊA BÀN TỈNH ĐẮK NÔNG BAN HÀNH KÈM THEO QUYẾT ĐỊNH SỐ 08/2025/QĐ-UBND"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "08/2025/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục I"
+    ],
+    "doi_tuong": "Bảng 03 và Bảng 05 Phụ lục I",
+    "evidence": "Sửa đổi, bổ sung Bảng 03 và Bảng 05 Phụ lục I (thể hiện chi tiết Định mức kinh tế - kỹ thuật xây dựng bảng giá đất theo khu vực, vị trí đất) thuộc Điều 5 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "08/2025/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục I"
+    ],
+    "doi_tuong": "Bảng 03 và Bảng 05 Phụ lục I",
+    "evidence": "Sửa đổi, bổ sung Bảng 03 và Bảng 05 Phụ lục I (thể hiện chi tiết Định mức kinh tế - kỹ thuật xây dựng bảng giá đất theo khu vực, vị trí đất) thuộc Điều 5 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "08/2025/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục II"
+    ],
+    "doi_tuong": "số hiệu bảng tại mục 4.b phần Ghi chú Bảng 08 Phụ lục II",
+    "evidence": "Sửa đổi số hiệu bảng tại mục 4.b phần Ghi chú Bảng 08 Phụ lục II (thể hiện chi tiết Định mức kinh tế - kỹ thuật định giá đất cụ thể theo phương pháp so sánh, thu nhập và thặng dư) thuộc Điều 6 như sau:"
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "thay-cum-tu",
+    "target_document": "08/2025/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "tiểu điểm 2 điểm b khoản 1 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “142 điểm điều tra” bằng cụm từ “71 điểm điều tra” tại nội dung gạch đầu dòng thứ 2 thuộc điểm b khoản 1 Điều 3."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Đích là Quy định kèm theo QĐ 08/2025/QĐ-UBND (tên văn bản). Bảng thuộc phụ lục: vị trí ghi phụ lục, tên bảng ở doi_tuong."
+ },
+ {
+  "doc_id": "659274",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn trả lời chính sách thuế; chỉ trích dẫn các thông tư, không có hành động."
+ },
+ {
+  "doc_id": "659308",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "32/2025/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm c khoản 1 Điều 7",
+     "điểm d khoản 1 Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG ĐIỂM C, D KHOẢN 1 ĐIỀU 7 CỦA QUYẾT ĐỊNH SỐ 32/2025/QĐ-UBND NGÀY 28 THÁNG 2 NĂM 2025 CỦA ỦY BAN NHÂN DÂN TỈNH"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "32/2025/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm c khoản 1 Điều 7",
+     "điểm d khoản 1 Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG ĐIỂM C, D KHOẢN 1 ĐIỀU 7 CỦA QUYẾT ĐỊNH SỐ 32/2025/QĐ-UBND NGÀY 28 THÁNG 2 NĂM 2025 CỦA ỦY BAN NHÂN DÂN TỈNH"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "sua-doi",
+    "target_document": "32/2025/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm c khoản 1 Điều 7",
+     "điểm d khoản 1 Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm c, d khoản 1 Điều 7 của Quyết định số 32/2025/QĐ-UBND ngày 28 tháng 02 năm 2025"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bo-sung",
+    "target_document": "32/2025/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm c khoản 1 Điều 7",
+     "điểm d khoản 1 Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm c, d khoản 1 Điều 7 của Quyết định số 32/2025/QĐ-UBND ngày 28 tháng 02 năm 2025"
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 1",
+    "loai": "gop_sai",
+    "ghi_chu": "Tên Điều 1 ('Sửa đổi, bổ sung điểm c, d khoản 1 Điều 7 ...') nằm trong noi_dung, ten_dieu rỗng."
+   }
+  ],
+  "ghi_chu": "Tên Điều 1 nói sửa đổi, bổ sung; câu thân Điều 1 nói 'Bổ sung điểm c, d khoản 1 Điều 7'."
+ },
+ {
+  "doc_id": "659614",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "41/2025/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 12 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI KHOẢN 12 ĐIỀU 3 NGHỊ ĐỊNH SỐ 41/2025/NĐ-CP NGÀY 26 THÁNG 02 NĂM 2025 CỦA CHÍNH PHỦ"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "sua-doi",
+    "target_document": "41/2025/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 12 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi khoản 12 Điều 3 như sau:"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": ""
+ },
+ {
+  "doc_id": "659962",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "22/2025/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA QUY ĐỊNH BAN HÀNH KÈM THEO QUYẾT ĐỊNH SỐ 22/2025/QĐ-UBND NGÀY 28 THÁNG 02 NĂM 2025 CỦA ỦY BAN NHÂN DÂN TỈNH"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "22/2025/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA QUY ĐỊNH BAN HÀNH KÈM THEO QUYẾT ĐỊNH SỐ 22/2025/QĐ-UBND NGÀY 28 THÁNG 02 NĂM 2025 CỦA ỦY BAN NHÂN DÂN TỈNH"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "sua-doi",
+    "target_document": "22/2025/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm c khoản 1 Điều 4"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm c khoản 1 Điều 4 của Quy định ban hành kèm theo Quyết định số 22/2025/QĐ-UBND ngày 28 tháng 02 năm 2025"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bo-sung",
+    "target_document": "22/2025/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm c khoản 1 Điều 4"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm c khoản 1 Điều 4 của Quy định ban hành kèm theo Quyết định số 22/2025/QĐ-UBND ngày 28 tháng 02 năm 2025"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": ""
+ },
+ {
+  "doc_id": "660119",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Ban hành Kế hoạch hành động; NQ 71/NQ-CP chỉ được nhắc (đã sửa chương trình hành động). Các dòng phụ lục 'xây dựng, trình ... thay thế/sửa đổi Nghị định ...' là nhiệm vụ."
+ }
+]

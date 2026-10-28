@@ -1,0 +1,339 @@
+[
+ {
+  "doc_id": "659833",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "2644/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực kể từ ngày ký và thay thế Quyết định số 2644/QĐ-UBND ngày 09/10/2024 của UBND tỉnh Nghệ An."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Các câu 'Nghị định 26/2019 được sửa đổi, bổ sung tại ... Nghị định 37/2024' là trích dẫn, không ghi."
+ },
+ {
+  "doc_id": "659946",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "bai-bo",
+    "target_document": "156/2001/QĐ-UB",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "BÃI BỎ QUYẾT ĐỊNH SỐ 156/2001/QĐ-UB NGÀY 12 THÁNG 10 NĂM 2001 CỦA UBND THÀNH PHỐ ĐÀ NẴNG VỀ VIỆC BAN HÀNH QUY CHẾ QUẢN LÝ TÀI CHÍNH CỦA TRUNG TÂM KỸ THUẬT VÀ THÔNG TIN LƯU TRỮ ĐỊA CHÍNH - NHÀ ĐẤT THÀNH PHỐ ĐÀ NẴNG"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bai-bo",
+    "target_document": "156/2001/QĐ-UB",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ Quyết định số 156/2001/QĐ-UB ngày 12 tháng 10 năm 2001 của Ủy ban nhân dân thành phố Đà Nẵng về việc ban hành Quy chế chính của Trung tâm Kỹ thuật và Thông tin lưu trữ địa chính - nhà đất thành phố Đà Nẵng."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên và lời dẫn cùng bãi bỏ QĐ 156/2001/QĐ-UB: một quan hệ Phần đầu."
+ },
+ {
+  "doc_id": "659959",
+  "relations": [
+   {
+    "source_path": "Điều 5 Khoản 2",
+    "action": "thay-the",
+    "target_document": "43/2023/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực thi hành kể từ ngày 30 tháng 5 năm 2025; thay thế Quyết định số 43/2023/QĐ-UBND ngày 29 tháng 11 năm 2023 của Ủy ban nhân dân tỉnh Bến Tre về việc quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Văn phòng Điều phối Chương trình xây dựng nông thôn mới tỉnh Bến Tre./."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": ""
+ },
+ {
+  "doc_id": "660070",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "bai-bo",
+    "target_document": "19/2012/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Ủy ban nhân dân tỉnh ban hành Quyết định bãi bỏ các Quyết định: số 19/2012/QĐ-UBND ngày 16/5/2012, số 20/2014/QĐ-UBND ngày 28/4/2014 của Ủy ban nhân dân tỉnh về huy động vốn, cơ chế lồng ghép, quản lý các nguồn vốn trong xây dựng nông thôn mới trên địa bàn tỉnh Hà Tĩnh."
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bai-bo",
+    "target_document": "20/2014/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Ủy ban nhân dân tỉnh ban hành Quyết định bãi bỏ các Quyết định: số 19/2012/QĐ-UBND ngày 16/5/2012, số 20/2014/QĐ-UBND ngày 28/4/2014 của Ủy ban nhân dân tỉnh về huy động vốn, cơ chế lồng ghép, quản lý các nguồn vốn trong xây dựng nông thôn mới trên địa bàn tỉnh Hà Tĩnh."
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bai-bo",
+    "target_document": "19/2012/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ các Quyết định: số 19/2012/QĐ-UBND ngày 16/5/2012, số 20/2014/QĐ-UBND ngày 28/4/2014 của UBND tỉnh về huy động vốn, cơ chế lồng ghép, quản lý các nguồn vốn trong xây dựng nông thôn mới trên địa bàn tỉnh Hà Tĩnh."
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bai-bo",
+    "target_document": "20/2014/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ các Quyết định: số 19/2012/QĐ-UBND ngày 16/5/2012, số 20/2014/QĐ-UBND ngày 28/4/2014 của UBND tỉnh về huy động vốn, cơ chế lồng ghép, quản lý các nguồn vốn trong xây dựng nông thôn mới trên địa bàn tỉnh Hà Tĩnh."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên văn bản không nêu số hiệu; lời dẫn nêu 2 quyết định nên có quan hệ Phần đầu."
+ },
+ {
+  "doc_id": "660076",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "120/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực thi hành kể từ ngày ký và thay thế Quyết định số 120/QĐ-UBND ngày 11/01/2023 của Chủ tịch Ủy ban nhân dân tỉnh về việc ban hành Điều lệ tổ chức và hoạt động của Quỹ Bảo vệ và Phát triển rừng tỉnh Bình Định."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": ""
+ },
+ {
+  "doc_id": "660092",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "2080/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực kể từ ngày ký ban hành và bãi bỏ Quyết định số 2080/QĐ-UBND ngày 06/12/2014 của Chủ tịch UBND tỉnh ban hành Quy chế phối hợp giữa các cơ quan tham gia tiếp công dân tại Trụ sở Tiếp công dân của tỉnh."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": ""
+ },
+ {
+  "doc_id": "660112",
+  "relations": [
+   {
+    "source_path": "Điều 1",
+    "action": "bai-bo",
+    "target_document": "109/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ Nghị quyết số 109/NQ-HĐND ngày 17 tháng 4 năm 2018 của Hội đồng nhân dân tỉnh Bắc Ninh khóa XVIII, nhiệm kỳ 2016-2021 về Quy hoạch khu vực khai thác, tập kết cát, sỏi lòng sông và vật liệu xây dựng trên địa bàn tỉnh Bắc Ninh."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên văn bản không nêu số hiệu; lời dẫn chỉ nêu Tờ trình đề nghị bãi bỏ: không có quan hệ Phần đầu."
+ },
+ {
+  "doc_id": "660146",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "77/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực thi hành kể từ ngày ký và thay thế Quyết định số 77/QĐ-UBND ngày 09/01/2025 của UBND tỉnh về việc phê duyệt Kiến trúc Chính quyền điện tử tỉnh Bình Định, phiên bản 3.0, hướng tới Chính quyền số."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": ""
+ },
+ {
+  "doc_id": "660180",
+  "relations": [
+   {
+    "source_path": "Điều 5 Khoản 1",
+    "action": "thay-the",
+    "target_document": "18/2012/TT-BTTTT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thông tư này có hiệu lực thi hành kể từ ngày 20 tháng 7 năm 2025 và thay thế cho Thông tư số 18/2012/TT-BTTTT ngày 15 tháng 11 năm 2012 của Bộ trưởng Bộ Thông tin và Truyền thông danh mục doanh nghiệp viễn thông, nhóm doanh nghiệp viễn thông có vị trí thống lĩnh thị trường đối với các dịch vụ viễn thông quan trọng"
+   },
+   {
+    "source_path": "Điều 5 Khoản 1",
+    "action": "thay-the",
+    "target_document": "15/2015/TT-BTTTT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thông tư số 15/2015/TT-BTTTT ngày 15 tháng 6 năm 2015 của Bộ trưởng Bộ Thông tin và Truyền thông sửa đổi một số quy định của Thông tư số 18/2012/TT-BTTTT"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 5 khoản 1 thay thế 2 thông tư; khoản 2 chỉ giao đề xuất sửa đổi danh mục."
+ },
+ {
+  "doc_id": "660184",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "414/QĐ-BTC",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực thi hành kể từ ngày ký và thay thế Quyết định số 414/QĐ-BTC ngày 26/3/2020 của Bộ Tài chính"
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "1367/QĐ-BKHĐT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 1367/QĐ-BKHĐT ngày 07/9/2020 của Bộ Kế hoạch và Đầu tư"
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "1823/KH-BHXH",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Kế hoạch số 1823/KH-BHXH ngày 09/6/2020 của Bảo hiểm xã hội Việt Nam"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên văn bản 'Kế hoạch hành động triển khai Quyết định 149/QĐ-TTg' chỉ là triển khai, không phải hướng dẫn hay sửa đổi: không ghi."
+ },
+ {
+  "doc_id": "660209",
+  "relations": [
+   {
+    "source_path": "Điều 3",
+    "action": "thay-the",
+    "target_document": "2078/QĐ-BYT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này thay thế Quyết định số 2078/QĐ-BYT ngày 23/6/2011 của Bộ trưởng Bộ Y tế về việc ban hành Hướng dẫn chẩn đoán, điều trị cúm mùa."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "'Hướng dẫn chẩn đoán và điều trị cúm mùa' là tài liệu chuyên môn, không phải hướng dẫn văn bản khác."
+ },
+ {
+  "doc_id": "660306",
+  "relations": [
+   {
+    "source_path": "Điều 3",
+    "action": "thay-the",
+    "target_document": "481/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực thi hành kể từ ngày ký ban hành và thay thế Quyết định số 481/QĐ-UBND ngày 28/8/2018 của UBND tỉnh về việc phê duyệt đơn giá bán nước sạch nông thôn tại các trạm cấp nước sạch tập trung do Trung tâm Nước sạch và Vệ sinh môi trường nông thôn Bắc Ninh làm chủ đầu tư."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": ""
+ },
+ {
+  "doc_id": "660398",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "bai-bo",
+    "target_document": "2929/1998/QĐ.UBT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "BÃI BỎ QUYẾT ĐỊNH SỐ 2929/1998/QĐ.UBT NGÀY 27 THÁNG 10 NĂM 1998 CỦA ỦY BAN NHÂN DÂN TỈNH CẦN THƠ VỀ THỰC HIỆN CHỨC NĂNG QUẢN LÝ NHÀ NƯỚC VỀ KIỂM TRA, KIỂM ĐỊNH CÁC THIẾT BỊ ÁP LỰC VÀ THIẾT BỊ NÂNG"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bai-bo",
+    "target_document": "2929/1998/QĐ.UBT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ Quyết định số 2929/1998/QĐ.UBT ngày 27 tháng 10 năm 1998 của Ủy ban nhân dân tỉnh Cần Thơ về thực hiện chức năng quản lý Nhà nước về kiểm tra, kiểm định các thiết bị áp lực và thiết bị nâng."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên và lời dẫn cùng bãi bỏ: một quan hệ Phần đầu."
+ },
+ {
+  "doc_id": "660553",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "36/2012/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực thi hành kể từ ngày 25 tháng 06 năm 2025 và thay thế Quyết định số 36/2012/QĐ-UBND ngày 28 tháng 12 năm 2012 của Ủy ban nhân dân tỉnh Quảng Bình về ban hành Quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Ban Quản lý Vườn Quốc gia Phong Nha - Kẻ Bàng tỉnh Quảng Bình."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": ""
+ },
+ {
+  "doc_id": "660600",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "bai-bo",
+    "target_document": "28/2023/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "BÃI BỎ QUYẾT ĐỊNH SỐ 28/2023/QĐ-UBND NGÀY 29 THÁNG 8 NĂM 2023 CỦA UBND TỈNH VỀ VIỆC PHÊ DUYỆT ĐỊNH MỨC LẬP DỰ TOÁN, QUẢN LÝ SỬ DỤNG KINH PHÍ NGÂN SÁCH NHÀ NƯỚC THỰC HIỆN NHIỆM VỤ KHOA HỌC VÀ CÔNG NGHỆ TRÊN ĐỊA BÀN TỈNH VĨNH PHÚC"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bai-bo",
+    "target_document": "28/2023/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ Quyết định số 28/2023/QĐ-UBND ngày 29 tháng 8 năm 2023 của Ủy ban nhân dân tỉnh Vĩnh Phúc về việc phê duyệt định mức lập dự toán, quản lý sử dụng kinh phí ngân sách nhà nước thực hiện nhiệm vụ khoa học và công nghệ trên địa bàn tỉnh Vĩnh Phúc."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên và lời dẫn cùng bãi bỏ: một quan hệ Phần đầu."
+ },
+ {
+  "doc_id": "660625",
+  "relations": [
+   {
+    "source_path": "Điều 7",
+    "action": "thay-the",
+    "target_document": "20/2024/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực kể từ ngày 15 tháng 6 năm 2025 và thay thế Quyết định số 20/2024/QĐ-UBND ngày 17 tháng 6 năm 2024 của Ủy ban nhân dân tỉnh Điện Biên ban hành Quy định mức độ khôi phục lại tình trạng ban đầu của đất đối với từng loại vi phạm quy định tại Nghị định số 91/2019/NĐ-CP ngày 19 tháng 11 năm 2019 của Chính phủ về xử phạt vi phạm hành chính trong lĩnh vực đất đai trên địa bàn tỉnh Điện Biên."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 1 quy định theo khoản 5 Điều 14 Nghị định 123/2024/NĐ-CP nhưng không nói 'quy định chi tiết': không ghi quan hệ."
+ }
+]

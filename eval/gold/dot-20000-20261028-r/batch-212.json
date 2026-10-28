@@ -1,0 +1,356 @@
+[
+ {
+  "doc_id": "651988",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "23/QĐ-HĐTV",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực kể từ ngày Hệ thống công nghệ thông tin của gói thầu “Thiết kế, giải pháp, cung cấp lắp đặt và chuyển giao hệ thống công nghệ thông tin - Sở Giao dịch chứng khoán thành phố Hồ Chí Minh” chính thức vận hành và thay thế Quyết định số 23/QĐ-HĐTV ngày 10 tháng 08 năm 2023 của Hội đồng thành viên Tổng Công ty Lưu ký và Bù trừ chứng khoán Việt Nam"
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Phụ lục 1 Điều 12 Khoản 1",
+    "loai": "gop_sai",
+    "ghi_chu": "Khoản 2 (\"2.Trường hợp các văn bản ... dẫn chiếu\") bị gộp vào khoản 1 do thiếu dấu cách sau số."
+   }
+  ],
+  "ghi_chu": "Câu chung về văn bản dẫn chiếu được sửa đổi, thay thế không phải quan hệ."
+ },
+ {
+  "doc_id": "652023",
+  "relations": [
+   {
+    "source_path": "Điều 2 Khoản 2",
+    "action": "thay-the",
+    "target_document": "132/2002/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này thay thế Quyết định số 132/2002/QĐ-UBND ngày 18 tháng 11 năm 2002 của Ủy ban nhân dân Thành phố về phân cấp quản lý một số lĩnh vực hạ tầng kỹ thuật đô thị từ Sở Giao thông Công chánh cho Ủy ban nhân dân các quận - huyện."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": ""
+ },
+ {
+  "doc_id": "652076",
+  "relations": [
+   {
+    "source_path": "Điều 3 Khoản 1",
+    "action": "thay-the",
+    "target_document": "19/2024/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực thi hành kể từ ngày 01 tháng 5 năm 2025 và thay thế Quyết định số 19/2024/QĐ-UBND ngày 30 tháng 5 năm 2024 của Ủy ban nhân dân tỉnh Quảng Ninh về việc ban hành Bảng giá tính lệ phí trước bạ đối với nhà trên địa bàn tỉnh Quảng Ninh."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": ""
+ },
+ {
+  "doc_id": "652091",
+  "relations": [
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "quy-dinh-chi-tiet",
+    "target_document": "112/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 15"
+    ],
+    "doi_tuong": null,
+    "evidence": "Nghị quyết này quy định cụ thể nguyên tắc, phạm vi, định mức hỗ trợ và việc sử dụng kinh phí hỗ trợ bảo vệ đất trồng lúa trên địa bàn tỉnh Quảng Trị theo quy định tại khoản 1 Điều 15 Nghị định số 112/2024/NĐ-CP ngày 11 tháng 9 năm 2024 của Chính phủ quy định chi tiết về đất trồng lúa."
+   },
+   {
+    "source_path": "Điều 3 Khoản 4",
+    "action": "bai-bo",
+    "target_document": "28/2020/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ Nghị quyết số 28/2020/NQ-HĐND ngày 09/6/2020 của Hội đồng nhân dân tỉnh Quảng Trị quy định mức thu tiền bảo vệ, phát triển đất trồng lúa khi chuyển mục đích từ đất chuyên trồng lúa sang sử dụng vào mục đích phi nông nghiệp trên địa bàn tỉnh Quảng Trị."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quan hệ quy-dinh-chi-tiet: phạm vi điều chỉnh nêu quy định cụ thể theo khoản 1 Điều 15 NĐ 112/2024 (nội dung được giao)."
+ },
+ {
+  "doc_id": "652145",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "1815/QĐ-CTUBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 1815/QĐ-CTUBND ngày 13 tháng 8 năm 2007 của UBND tỉnh về việc ban hành Nội quy mẫu về chợ hết hiệu lực kể từ ngày Quyết định này có hiệu lực thi hành."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Văn bản tự tuyên bố QĐ 1815 hết hiệu lực."
+ },
+ {
+  "doc_id": "652152",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "bai-bo",
+    "target_document": "04/2025/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "BÃI BỎ NGHỊ QUYẾT SỐ 04/2025/NQ-HĐND NGÀY 19 THÁNG 02 NĂM 2025 CỦA HỘI ĐỒNG NHÂN DÂN TỈNH QUY ĐỊNH CHÍNH SÁCH HỖ TRỢ CÁN BỘ, CÔNG CHỨC, VIÊN CHỨC, NGƯỜI LAO ĐỘNG NGHỈ CÔNG TÁC TRONG THỰC HIỆN SẮP XẾP TỔ CHỨC BỘ MÁY CỦA HỆ THỐNG CHÍNH TRỊ"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bai-bo",
+    "target_document": "04/2025/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ Nghị quyết số 04/2025/NQ-HĐND ngày 19 tháng 02 năm 2025 của Hội đồng nhân dân tỉnh quy định chính sách hỗ trợ cán bộ, công chức, viên chức, người lao động nghỉ công tác trong thực hiện sắp xếp tổ chức bộ máy của hệ thống chính trị."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Câu \"Xét Tờ trình ... về dự thảo Nghị quyết bãi bỏ\" chỉ nêu đề nghị, không ghi."
+ },
+ {
+  "doc_id": "652233",
+  "relations": [
+   {
+    "source_path": "Mục 11",
+    "action": "thay-the",
+    "target_document": "09/CT-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "(Chỉ thị này thay thế Chỉ thị số 09/CT-UBND ngày 16/4/2025 của Chủ tịch Ủy ban nhân dân tỉnh)"
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Mục 11",
+    "loai": "gop_sai",
+    "ghi_chu": "Đoạn kết của Chỉ thị (yêu cầu thực hiện và câu thay thế Chỉ thị 09/CT-UBND) bị gộp vào Mục 11."
+   },
+   {
+    "source_path": "Mục 1",
+    "loai": "nhan_sai_dieu",
+    "ghi_chu": "Khoản 1 Điều 11 trích từ NĐ 70/2025 (trong ngoặc kép) và đoạn dẫn của Chỉ thị bị gộp vào Mục 1."
+   }
+  ],
+  "ghi_chu": "Câu thay thế nằm ở cuối văn bản, parser gộp vào Mục 11."
+ },
+ {
+  "doc_id": "652277",
+  "relations": [
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bai-bo",
+    "target_document": "22/2020/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 22/2020/QĐ-UBND ngày 28 tháng 10 năm 2020 của Ủy ban nhân dân tỉnh ban hành quy định về quản lý và khai thác vận tải hành khách công cộng bằng xe buýt trên địa bàn tỉnh Tiền Giang."
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "42/2021/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 42/2021/QĐ-UBND ngày 01 tháng 10 năm 2021 của Ủy ban nhân dân tỉnh ban hành quy định về quản lý hoạt động của xe ô tô vận tải trung chuyển hành khách trên địa bàn tỉnh Tiền Giang."
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "bai-bo",
+    "target_document": "28/2022/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 28/2022/QĐ-UBND ngày 08 tháng 8 năm 2022 của Ủy ban nhân dân tỉnh ban hành quy định về tổ chức, quản lý hoạt động của bãi đỗ xe trên địa bàn tỉnh Tiền Giang."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Chữ hành động ở câu dẫn Điều 1 \"Bãi bỏ toàn bộ các quyết định sau đây\". Tên văn bản không nêu số hiệu nên không có quan hệ Phần đầu."
+ },
+ {
+  "doc_id": "652298",
+  "relations": [
+   {
+    "source_path": "Điều 3 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "2813/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 2813/QĐ-UBND ngày 09 tháng 9 năm 2016 của Ủy ban nhân dân thành phố Cần Thơ về việc thực hiện thu tiền bảo vệ, phát triển đất trồng lúa hết hiệu lực thi hành kể từ ngày Quyết định này có hiệu lực."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": ""
+ },
+ {
+  "doc_id": "652316",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "13/2013/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này thay thế Quyết định số 13/2013/QĐ-UBND ngày 29/3/2013 của Ủy ban nhân dân tỉnh ban hành Quy định về dạy thêm, học thêm trên địa bàn tỉnh Bình Thuận."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": ""
+ },
+ {
+  "doc_id": "652317",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "22/2018/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực thi hành kể từ ngày 29 tháng 4 năm 2025 và thay thế Quyết định số 22/2018/QĐ-UBND ngày 14 tháng 9 năm 2018 của Ủy ban nhân dân tỉnh về việc ban hành Quy định về dạy thêm, học thêm trên địa bàn tỉnh Nam Định."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": ""
+ },
+ {
+  "doc_id": "652332",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "25/2019/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định có hiệu lực thi hành kể từ ngày 28 tháng 4 năm 2025 và thay thế Quyết định số 25/2019/QĐ-UBND ngày 19 tháng 12 năm 2019 của Ủy ban nhân dân tỉnh Ban hành Quy chế công khai kết luận, kết quả xử lý các vụ việc thanh tra, kiểm tra, giải quyết khiếu nại, tố cáo, kiến nghị, phản ánh và phòng, chống tham nhũng trên Cổng/trang thông tin điện tử và các phương tiện thông tin truyền thông của tỉnh Kon Tum"
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "25/2020/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 25/2020/QĐ-UBND ngày 29 tháng 9 năm 2020 của Ủy ban nhân dân tỉnh sửa đổi, bổ sung tên gọi của Quyết định và một số điều của Quy chế công khai kết luận"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": ""
+ },
+ {
+  "doc_id": "652492",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "bai-bo",
+    "target_document": "11/2018/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "V/V BÃI BỎ TOÀN BỘ QUYẾT ĐỊNH SỐ 11/2018/QĐ-UBND NGÀY 09/5/2018 CỦA UBND THÀNH PHỐ BAN HÀNH QUY CHẾ PHÁT TRIỂN ĐIỆN LỰC TRÊN ĐỊA BÀN THÀNH PHỐ HÀ NỘI"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bai-bo",
+    "target_document": "11/2018/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ Quyết định số 11/2018/QĐ-UBND ngày 09/5/2018 của UBND thành phố Hà Nội ban hành quy chế phát triển điện lực hên địa bàn thành phố Hà Nội."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Lời dẫn \"Theo đề nghị ... về ban hành Quyết định bãi bỏ\" chỉ nêu đề nghị, không ghi."
+ },
+ {
+  "doc_id": "652613",
+  "relations": [
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bai-bo",
+    "target_document": "13/2017/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 13/2017/QĐ-UBND ngày 15 tháng 4 năm 2017 của Uỷ ban nhân dân tỉnh Lạng Sơn ban hành Quy định đối tượng và điểm cộng ưu tiên, khuyến khích trong tuyển sinh vào trường phổ thông dân tộc nội trú trên địa bàn tỉnh Lạng Sơn."
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "41/2018/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 41/2018/QĐ-UBND ngày 07 tháng 6 năm 2018 của Uỷ ban nhân dân tỉnh Lạng Sơn sửa đổi, bổ sung Quyết định số 13/2017/QĐ-UBND"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Chữ hành động ở câu \"Bãi bỏ toàn bộ các quyết định sau đây:\" của Điều 1. Tên văn bản và lời dẫn không nêu số hiệu."
+ },
+ {
+  "doc_id": "653603",
+  "relations": [
+   {
+    "source_path": "Điều 3",
+    "action": "bai-bo",
+    "target_document": "2495/QĐ-BKHĐT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 2495/QĐ-BKHĐT ngày 29 tháng 10 năm 2024 của Bộ trưởng Bộ Kế hoạch và Đầu tư về việc phân công, ủy quyền đối với hoạt động đầu tư từ Việt Nam ra nước ngoài hết hiệu lực thi hành kể từ ngày Quyết định này có hiệu lực thi hành."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": ""
+ },
+ {
+  "doc_id": "653702",
+  "relations": [
+   {
+    "source_path": "Điều 4 Khoản 1",
+    "action": "thay-the",
+    "target_document": "22/2024/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực từ ngày 01 tháng 5 năm 2025; thay thế Quyết định số 22/2024/QĐ-UBND ngày 07 tháng 10 năm 2024 của Ủy ban nhân dân tỉnh Quảng Trị Quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Chi cục Trồng trọt và Bảo vệ thực vật tỉnh Quảng Trị."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": ""
+ },
+ {
+  "doc_id": "653709",
+  "relations": [
+   {
+    "source_path": "Điều 4 Khoản 1",
+    "action": "thay-the",
+    "target_document": "29/2019/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực kể từ ngày 14 tháng 4 năm 2025 và thay thế Quyết định số 29/2019/QĐ-UBND ngày 12 tháng 11 năm 2019 của Ủy ban nhân dân tỉnh Vĩnh Long quy định về giá tính lệ phí trước bạ đối với nhà trên địa bàn tỉnh Vĩnh Long."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 4 khoản 2 là câu chung về văn bản dẫn chiếu."
+ }
+]

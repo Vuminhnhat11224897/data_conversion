@@ -1,0 +1,120 @@
+[
+ {
+  "doc_id": "658871",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Phê duyệt danh mục bổ sung công trình và điều chỉnh kế hoạch sử dụng đất 2025; không câu nào tự nói sửa đổi QĐ 266/QĐ-UBND (Điều 3 chỉ nói nội dung không điều chỉnh của QĐ 266 giữ nguyên hiệu lực). Bảng phụ biểu chỉ nêu căn cứ pháp lý."
+ },
+ {
+  "doc_id": "658884",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Kế hoạch giao nhiệm vụ; phụ lục có nhiệm vụ 'tham mưu sửa đổi hoặc bãi bỏ' là nhiệm vụ, không phải quan hệ."
+ },
+ {
+  "doc_id": "658951",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn trả lời, chỉ trích dẫn Luật 48/2010/QH12 và Thông tư 153/2011/TT-BTC."
+ },
+ {
+  "doc_id": "658979",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn trả lời, chỉ dẫn chiếu quy định."
+ },
+ {
+  "doc_id": "658988",
+  "relations": [
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "quy-dinh-chi-tiet",
+    "target_document": "Luật Trật tự, an toàn giao thông đường bộ",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 4 Điều 44"
+    ],
+    "doi_tuong": null,
+    "evidence": "Quyết định này quy định chi tiết khoản 4 Điều 44 Luật Trật tự, an toàn giao thông đường bộ năm 2024"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Văn bản không nêu số hiệu của Luật Trật tự, an toàn giao thông đường bộ (căn cứ chỉ nêu ngày 27/6/2024). Điều 5 khoản 2 là câu chung."
+ },
+ {
+  "doc_id": "659229",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Phê duyệt kế hoạch sử dụng đất năm 2025; không có tác động lên văn bản khác."
+ },
+ {
+  "doc_id": "659325",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Ban hành Nội quy mẫu chợ theo khoản 5 Điều 10 Nghị định 60/NĐ-CP nhưng không tự nói quy định chi tiết; không có thay thế, bãi bỏ."
+ },
+ {
+  "doc_id": "659364",
+  "relations": [
+   {
+    "source_path": "Điều 4",
+    "action": "thay-the",
+    "target_document": "19/2024/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "có hiệu lực kể từ ngày thông qua và thay thế Nghị quyết số 19/2024/NQ-HĐND ngày 10 tháng 12 năm 2024 của Hội đồng nhân dân tỉnh Bình Dương"
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 4",
+    "loai": "thieu_noi_dung",
+    "ghi_chu": "Đoạn kết 'Nghị quyết này đã được ... thông qua ... và thay thế Nghị quyết số 19/2024/NQ-HĐND' không có trong don_vi."
+   }
+  ],
+  "ghi_chu": "Câu thay thế nằm ở đoạn kết sau khoản 2 Điều 4 (không có trong don_vi); ghi source_path Điều 4."
+ },
+ {
+  "doc_id": "659379",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quyết định phân cấp; không có tác động lên văn bản khác."
+ },
+ {
+  "doc_id": "659567",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Kế hoạch tuyên truyền; không có tác động."
+ },
+ {
+  "doc_id": "659597",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Nghị quyết tán thành chủ trương sắp xếp tỉnh; không có tác động lên văn bản khác."
+ },
+ {
+  "doc_id": "659604",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Kế hoạch phòng, chống ma túy; không có tác động."
+ },
+ {
+  "doc_id": "659675",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 1 quy định theo khoản 1 Điều 9 Nghị định 112/2024/NĐ-CP nhưng không tự nói quy định chi tiết; không có thay thế, bãi bỏ."
+ },
+ {
+  "doc_id": "659783",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn thông báo thu hồi thuốc; không có tác động lên văn bản."
+ },
+ {
+  "doc_id": "659784",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công điện; mục 3 yêu cầu trình sửa đổi luật là nhiệm vụ, không phải quan hệ."
+ }
+]

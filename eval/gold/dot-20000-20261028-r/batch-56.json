@@ -1,0 +1,99 @@
+[
+ {
+  "doc_id": "669517",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "308/QĐ-CT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực thi hành kể từ ngày 01/7/2025 và thay thế Quyết định số 308/QĐ-CT ngày 08/3/2025 quy định mô hình tổ chức quản lý thuế của Đội Thuế cấp huyện."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quy định kèm theo chỉ nêu nhiệm vụ 'đề xuất, kiến nghị sửa đổi' của các Tổ; không phải quan hệ."
+ },
+ {
+  "doc_id": "669688",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "28/2022/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Các Quyết định sau đây hết hiệu lực kể từ ngày Quyết định này có hiệu lực thi hành"
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "63/2022/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Các Quyết định sau đây hết hiệu lực kể từ ngày Quyết định này có hiệu lực thi hành"
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "14/2025/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Các Quyết định sau đây hết hiệu lực kể từ ngày Quyết định này có hiệu lực thi hành"
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 2",
+    "loai": "thieu_noi_dung",
+    "ghi_chu": "Đơn vị Điều 2 thiếu 3 khoản liệt kê các Quyết định hết hiệu lực (28/2022/QĐ-UBND, 63/2022/QĐ-UBND tỉnh Quảng Bình; 14/2025/QĐ-UBND tỉnh Quảng Trị); toàn văn có đủ."
+   }
+  ],
+  "ghi_chu": "Điều 2 tự tuyên bố 3 Quyết định hết hiệu lực kể từ ngày Quyết định này có hiệu lực: ghi bai-bo."
+ },
+ {
+  "doc_id": "669697",
+  "relations": [
+   {
+    "source_path": "Điều 4",
+    "action": "thay-the",
+    "target_document": "05/2023/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "thay thế Quyết định số 05/2023/QĐ-UBND ngày 19/01/2023 của Ủy ban nhân dân tỉnh Nghệ An quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Sở Tài chính tỉnh Nghệ An"
+   },
+   {
+    "source_path": "Điều 4",
+    "action": "thay-the",
+    "target_document": "09/2023/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 09/2023/QĐ-UBND ngày 28/3/2023 của Ủy ban nhân dân tỉnh Nghệ An quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Sở Kế hoạch và Đầu tư tỉnh Nghệ An"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 4 thay thế 2 Quyết định (05/2023 và 09/2023); văn bản gốc có ký tự lạc 'và)' giữa hai số hiệu."
+ },
+ {
+  "doc_id": "669758",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "27/2025/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực thi hành kể từ ngày 25 tháng 8 năm 2025 và thay thế Quyết định số 27/2025/QĐ-UBND ngày 26 tháng 3 năm 2024 của Ủy ban nhân dân thành phố Huế ban hành Quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Sở Tư pháp thành phố Huế."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Văn bản ghi ngày 26/3/2024 cho Quyết định 27/2025/QĐ-UBND (có thể sai năm trong văn bản gốc); số hiệu ghi theo câu."
+ }
+]

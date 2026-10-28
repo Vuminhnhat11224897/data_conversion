@@ -1,0 +1,132 @@
+[
+ {
+  "doc_id": "661242",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Kế hoạch triển khai nhiệm vụ; không có tác động lên văn bản khác. Câu \"nếu thấy cần thiết phải sửa đổi, bổ sung\" là đề nghị."
+ },
+ {
+  "doc_id": "661405",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn hướng dẫn tiêu chuẩn diện tích, chỉ dẫn chiếu Thông tư 01/2017/TT-BTNMT, QCVN 01:2021/BXD, Nghị định 93/2020/NĐ-CP để áp dụng; không hướng dẫn một văn bản cụ thể, không ghi."
+ },
+ {
+  "doc_id": "661831",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "huong-dan",
+    "target_document": "1000/QĐ-CTN",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thực hiện Quyết định số 1000/QĐ-CTN ngày 13 tháng 6 năm 2025 của Chủ tịch nước về việc tặng quà nhân dịp kỷ niệm 78 năm ngày Thương binh - Liệt sĩ (27/7/1947 - 27/7/2025) (gửi kèm theo), Bộ Nội vụ hướng dẫn thêm một số điểm như sau:"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Câu mở đầu hướng dẫn QĐ 1000/QĐ-CTN; mục 1-3 lần lượt hướng dẫn khoản 1 và điểm a khoản 2, điểm b khoản 2, điểm c khoản 2 Điều 1 QĐ 1000/QĐ-CTN (các mục này không có trong don_vi)."
+ },
+ {
+  "doc_id": "662339",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quyết định của Đảng thành lập Đảng bộ tỉnh; không có tác động lên văn bản."
+ },
+ {
+  "doc_id": "662907",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn trả lời doanh nghiệp; không có tác động."
+ },
+ {
+  "doc_id": "662969",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn đề nghị rà soát kinh phí; không có tác động."
+ },
+ {
+  "doc_id": "663161",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Không bãi bỏ, thay thế văn bản nào; câu \"để kịp thời sửa đổi, bổ sung\" là đề nghị."
+ },
+ {
+  "doc_id": "663232",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn trả lời; không có tác động."
+ },
+ {
+  "doc_id": "663664",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 3 \"thay thế các quyết định trước đây quy định về cơ cấu tổ chức của Sở Khoa học và Công nghệ tỉnh Đắk Lắk (cũ) và Sở Khoa học và Công nghệ tỉnh Phú Yên\" không nêu số hiệu văn bản đích: không ghi quan hệ."
+ },
+ {
+  "doc_id": "663809",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn phổ biến điểm mới của Luật Thuế GTGT 48/2024/QH15; các câu \"sửa đổi, bổ sung\", \"thay thế\" kể lại nội dung luật, không ghi."
+ },
+ {
+  "doc_id": "664163",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quyết định cơ cấu tổ chức; không có tác động."
+ },
+ {
+  "doc_id": "664216",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn trả lời; không có tác động."
+ },
+ {
+  "doc_id": "664630",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Nghị quyết thành lập Sở; không có tác động lên văn bản."
+ },
+ {
+  "doc_id": "664637",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Nghị quyết thành lập Sở; không có tác động lên văn bản."
+ },
+ {
+  "doc_id": "664644",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Nghị quyết thành lập Sở; không có tác động lên văn bản."
+ },
+ {
+  "doc_id": "664670",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn phổ biến QĐ 1898/QĐ-BTP và CV 3769/BTP-TCTHADS; kể lại nội dung, không ghi."
+ },
+ {
+  "doc_id": "664689",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Nghị quyết chủ trương đầu tư; các cơ chế đặc biệt cho Dự án không sửa đổi điều khoản của văn bản nào; không ghi."
+ },
+ {
+  "doc_id": "664746",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn trả lời; không có tác động."
+ },
+ {
+  "doc_id": "665405",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quyết định ban hành Quy chế; không có tác động lên văn bản khác."
+ },
+ {
+  "doc_id": "666031",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quyết định ban hành Phương án điều tra; không có tác động."
+ }
+]

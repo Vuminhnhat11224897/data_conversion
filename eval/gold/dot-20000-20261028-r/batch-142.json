@@ -1,0 +1,36 @@
+[
+ {
+  "doc_id": "669221",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "1442/QĐ-BKHCN",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "VỀ VIỆC SỬA ĐỔI, BỔ SUNG QUYẾT ĐỊNH SỐ 1442/QĐ-BKHCN NGÀY 26 THÁNG 4 NĂM 2025"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "1442/QĐ-BKHCN",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "VỀ VIỆC SỬA ĐỔI, BỔ SUNG QUYẾT ĐỊNH SỐ 1442/QĐ-BKHCN NGÀY 26 THÁNG 4 NĂM 2025"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bo-sung",
+    "target_document": "1442/QĐ-BKHCN",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Danh mục và nội dung chi tiết thủ tục hành chính",
+    "evidence": "Công bố bổ sung 08 thủ tục hành chính lĩnh vực An toàn bức xạ và hạt nhân tại Danh mục và nội dung chi tiết ban hành kèm theo Quyết định số 1442/QĐ-BKHCN ngày 26 tháng 4 năm 2025"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 1 bổ sung 08 TTHC vào Danh mục kèm theo QĐ 1442/QĐ-BKHCN: ghi bo-sung kem_theo vì câu nói rõ bổ sung vào phần kèm theo văn bản đích. Phụ lục chỉ là danh mục/nội dung TTHC; cột 'Tên VBQPPL quy định việc sửa đổi, bổ sung' (NĐ 133/2025/NĐ-CP) là căn cứ, không phải đích; các Thông tư trong mục căn cứ pháp lý không ghi."
+ }
+]

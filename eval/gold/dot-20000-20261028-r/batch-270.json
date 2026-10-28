@@ -1,0 +1,207 @@
+[
+ {
+  "doc_id": "649157",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Thông báo kết quả xác định trước mã số; chỉ có căn cứ, không có tác động."
+ },
+ {
+  "doc_id": "649188",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Kế hoạch công tác gia đình; chỉ có nhiệm vụ rà soát, kiến nghị sửa đổi, không có tác động."
+ },
+ {
+  "doc_id": "649267",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Chỉ thị phòng chống thiên tai; không có tác động."
+ },
+ {
+  "doc_id": "649347",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn trả lời doanh nghiệp; chỉ trích dẫn quy định, không có tác động."
+ },
+ {
+  "doc_id": "649649",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quyết định ban hành Kế hoạch xây dựng Bộ luật Hình sự (sửa đổi); kế hoạch chỉ giao nhiệm vụ, không có tác động."
+ },
+ {
+  "doc_id": "649769",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Không có điều khoản bãi bỏ, thay thế; câu dẫn chiếu văn bản được sửa đổi, thay thế là câu chung."
+ },
+ {
+  "doc_id": "649814",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn hướng dẫn phân loại hàng hóa; không có tác động."
+ },
+ {
+  "doc_id": "649874",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 3 bãi bỏ 'các nội dung nêu tại Điều 1 Quyết định này đã được Chủ tịch UBND tỉnh công bố trước đây' nhưng không nêu số hiệu văn bản đích: không ghi quan hệ."
+ },
+ {
+  "doc_id": "649924",
+  "relations": [
+   {
+    "source_path": "Phụ lục 1 STT 1",
+    "action": "bai-bo",
+    "target_document": "2263/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục"
+    ],
+    "doi_tuong": null,
+    "evidence": "Cấp mới Giấy phép lái xe (Thủ tục số 01, phần l, Phụ lục kèm theo Quyết định số 2263/QĐ-UBND ngày 26/12/2024 của UBND tỉnh) Mã số TTHC: 1.002835"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 2",
+    "action": "bai-bo",
+    "target_document": "2263/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục"
+    ],
+    "doi_tuong": null,
+    "evidence": "Cấp lại Giấy phép lái xe (Thủ tục số 02, phần I, Phụ lục kèm theo Quyết định số 2263/QĐ-UBND ngày 26/12/2024 của UBND tỉnh) Mã số TTHC: 1.002820"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 3",
+    "action": "bai-bo",
+    "target_document": "2263/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục"
+    ],
+    "doi_tuong": null,
+    "evidence": "Đổi Giấy phép lái xe do ngành Giao thông vận tải cấp (Thủ tục số 03, phần I, Phụ lục kèm theo Quyết định số 2263/QĐ-UBND ngày 26/12/2024 của UBND tỉnh) Mã số TTHC: 1.002809"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 4",
+    "action": "bai-bo",
+    "target_document": "2263/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục"
+    ],
+    "doi_tuong": null,
+    "evidence": "Đổi giấy phép lái xe quân sự do Bộ Quốc phòng cấp sang giấy phép lái xe do ngành Giao thông vận tải cấp (Thủ tục số 04, phần I, Phụ lục kèm theo Quyết định số 2263/QĐ-UBND ngày 26/12/2024 của UBND tỉnh) Mã số TTHC: 1.002804"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 5",
+    "action": "bai-bo",
+    "target_document": "2263/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục"
+    ],
+    "doi_tuong": null,
+    "evidence": "Đổi giấy phép lái xe do ngành Công an cấp sang giấy phép lái xe do ngành Giao thông vận tải cấp (Thủ tục số 05, phần I, Phụ lục kèm theo Quyết định số 2263/QĐ-UBND ngày 26/12/2024 của UBND tỉnh) Mã số TTHC: 1.002801"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 6",
+    "action": "bai-bo",
+    "target_document": "2263/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục"
+    ],
+    "doi_tuong": null,
+    "evidence": "Đổi giấy phép lái xe hoặc bằng lái xe của nước ngoài sang giấy phép lái xe do ngành Giao thông vận tải cấp (Thủ tục số 06, phần I, Phụ lục kèm theo Quyết định số 2263/QĐ-UBND ngày 26/12/2024 của UBND tỉnh) Mã số TTHC: 1.002796"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 7",
+    "action": "bai-bo",
+    "target_document": "159/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục"
+    ],
+    "doi_tuong": null,
+    "evidence": "Chấp thuận hoạt động của sân tập lái để sát hạch lái xe mô tô (Thủ tục số 01, phần I, Phụ lục kèm theo Quyết định số 159/QĐ-UBND ngày 05/02/2025 của UBND tỉnh) Mã số TTHC: 1.013240"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 8",
+    "action": "bai-bo",
+    "target_document": "159/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục"
+    ],
+    "doi_tuong": null,
+    "evidence": "Chấp thuận lại hoạt động của sân tập lái để sát hạch lái xe mô tô (Thủ tục số 02, phần I, Phụ lục kèm theo Quyết định số 159/QĐ-UBND ngày 05/02/2025 của UBND tỉnh) Mã số TTHC: 1.013241"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 9",
+    "action": "bai-bo",
+    "target_document": "159/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục"
+    ],
+    "doi_tuong": null,
+    "evidence": "Chấp thuận bố trí mặt bằng tổng thể hình sát hạch trung tâm sát hạch lái xe loại 1, loại 2 (Thủ tục số 15, phần II, Phụ lục kèm theo Quyết định số 159/QĐ-UBND ngày 05/02/2025 của UBND tỉnh) Mã số TTHC: 1.000004"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 10",
+    "action": "bai-bo",
+    "target_document": "159/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục"
+    ],
+    "doi_tuong": null,
+    "evidence": "Cấp Giấy phép sát hạch cho trung tâm sát hạch lái xe loại 1, loại 2 (Thủ tục số 16, phần II, Phụ lục kèm theo Quyết định số 159/QĐ-UBND ngày 05/02/2025 của UBND tỉnh) Mã số TTHC: 1.004998"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 11",
+    "action": "bai-bo",
+    "target_document": "159/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục"
+    ],
+    "doi_tuong": null,
+    "evidence": "Cấp Giấy phép sát hạch cho trung tâm sát hạch lái xe loại 3 (Thủ tục số 17, phần II, Phụ lục kèm theo Quyết định số 159/QĐ-UBND ngày 05/02/2025 của UBND tỉnh) Mã số TTHC: 1.004995"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 12",
+    "action": "bai-bo",
+    "target_document": "159/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục"
+    ],
+    "doi_tuong": null,
+    "evidence": "Cấp lại Giấy phép sát hạch cho trung tâm sát hạch lái xe (Thủ tục số 18, phần II, Phụ lục kèm theo Quyết định số 159/QĐ-UBND ngày 05/02/2025 của UBND tỉnh) Mã số TTHC: 1.004987"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Phụ lục 'Danh mục TTHC bị bãi bỏ': mỗi dòng nêu thủ tục số, phần, Phụ lục kèm theo Quyết định 2263/QĐ-UBND hoặc 159/QĐ-UBND: 12 quan hệ ở dòng bảng. Điều 1 chỉ công bố danh mục, không ghi. Tên văn bản không nêu số hiệu đích."
+ },
+ {
+  "doc_id": "649943",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quyết định ban hành Quy định xã hội hóa hạ tầng bảo vệ môi trường cụm công nghiệp; không có tác động."
+ },
+ {
+  "doc_id": "649952",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Phê duyệt quy trình nội bộ TTHC mới; không có tác động."
+ },
+ {
+  "doc_id": "649989",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Kế hoạch sở hữu trí tuệ năm 2025; không có tác động."
+ }
+]

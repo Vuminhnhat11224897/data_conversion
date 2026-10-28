@@ -1,0 +1,68 @@
+[
+ {
+  "doc_id": "668648",
+  "relations": [
+   {
+    "source_path": "Điều 3 Khoản 1",
+    "action": "bai-bo",
+    "target_document": "414/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ các Quyết định: Quyết định số 414/QĐ-UBND ngày 25 tháng 02 năm 2025 của Chủ tịch Ủy ban nhân dân tỉnh Đắk Lắk về việc ban hành danh mục thuốc mua sắm tập trung thuộc phạm vi quản lý của tỉnh Đắk Lắk; Quyết định số 838/QĐ-UBND ngày 09 tháng 4 năm 2025 của Chủ tịch Ủy ban nhân dân tỉnh Đắk Lắk về việc bổ sung danh mục thuốc mua sắm tập trung thuộc phạm vi quản lý của tỉnh Đắk Lắk."
+   },
+   {
+    "source_path": "Điều 3 Khoản 1",
+    "action": "bai-bo",
+    "target_document": "838/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ các Quyết định: Quyết định số 414/QĐ-UBND ngày 25 tháng 02 năm 2025 của Chủ tịch Ủy ban nhân dân tỉnh Đắk Lắk về việc ban hành danh mục thuốc mua sắm tập trung thuộc phạm vi quản lý của tỉnh Đắk Lắk; Quyết định số 838/QĐ-UBND ngày 09 tháng 4 năm 2025 của Chủ tịch Ủy ban nhân dân tỉnh Đắk Lắk về việc bổ sung danh mục thuốc mua sắm tập trung thuộc phạm vi quản lý của tỉnh Đắk Lắk."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Khoản 1 Điều 3 bãi bỏ 2 quyết định danh mục thuốc; các phụ lục chỉ là danh mục thuốc."
+ },
+ {
+  "doc_id": "668866",
+  "relations": [
+   {
+    "source_path": "Điều 8 Khoản 2",
+    "action": "thay-the",
+    "target_document": "06/2025/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này thay thế các Quyết định: Quyết định số 06/2025/QĐ- UBND ngày 18 tháng 02 năm 2025 của Ủy ban nhân dân thành phố Hải Phòng (cũ) ban hành Định mức Kinh tế-kỹ thuật để lập dự toán ngân sách nhà nước phục vụ công tác định giá đất trên địa bàn thành phố Hải Phòng; Quyết định số 32/2025/QĐ-UBND ngày 17 tháng 3 năm 2025 của Ủy ban nhân dân tỉnh Hải Dương (cũ) ban hành Định mức Kinh tế-kỹ thuật để lập dự toán ngân sách nhà nước phục vụ công tác định giá đất trên địa bàn tỉnh Hải Dương."
+   },
+   {
+    "source_path": "Điều 8 Khoản 2",
+    "action": "thay-the",
+    "target_document": "32/2025/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này thay thế các Quyết định: Quyết định số 06/2025/QĐ- UBND ngày 18 tháng 02 năm 2025 của Ủy ban nhân dân thành phố Hải Phòng (cũ) ban hành Định mức Kinh tế-kỹ thuật để lập dự toán ngân sách nhà nước phục vụ công tác định giá đất trên địa bàn thành phố Hải Phòng; Quyết định số 32/2025/QĐ-UBND ngày 17 tháng 3 năm 2025 của Ủy ban nhân dân tỉnh Hải Dương (cũ) ban hành Định mức Kinh tế-kỹ thuật để lập dự toán ngân sách nhà nước phục vụ công tác định giá đất trên địa bàn tỉnh Hải Dương."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Thay thế QĐ 06/2025 (Hải Phòng cũ) và QĐ 32/2025 (Hải Dương cũ); số hiệu nguồn viết '06/2025/QĐ- UBND'."
+ },
+ {
+  "doc_id": "669516",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "02/QĐ-CT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực thi hành kể từ ngày 01/7/2025 và thay thế Quyết định số 02/QĐ-CT ngày 03/3/2025 của Cục trưởng Cục Thuế quy định chức năng, nhiệm vụ, quyền hạn của Văn phòng, các Phòng thuộc Chi cục Thuế khu vực."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Chỉ Điều 2 thay thế QĐ 02/QĐ-CT."
+ }
+]

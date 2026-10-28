@@ -1,0 +1,332 @@
+[
+ {
+  "doc_id": "651440",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "78/2023/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục I",
+     "Phụ lục II",
+     "Phụ lục IV"
+    ],
+    "doi_tuong": null,
+    "evidence": "BỔ SUNG, THAY THẾ, BÃI BỎ MỘT SỐ NỘI DUNG TRONG PHỤ LỤC I, II, IV BAN HÀNH KÈM THEO NGHỊ QUYẾT SỐ 78/2023/NQ-HĐND NGÀY 14 THÁNG 7 NĂM 2023 CỦA HỘI ĐỒNG NHÂN DÂN TỈNH"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "thay-the",
+    "target_document": "78/2023/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục I",
+     "Phụ lục II",
+     "Phụ lục IV"
+    ],
+    "doi_tuong": null,
+    "evidence": "BỔ SUNG, THAY THẾ, BÃI BỎ MỘT SỐ NỘI DUNG TRONG PHỤ LỤC I, II, IV BAN HÀNH KÈM THEO NGHỊ QUYẾT SỐ 78/2023/NQ-HĐND NGÀY 14 THÁNG 7 NĂM 2023 CỦA HỘI ĐỒNG NHÂN DÂN TỈNH"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bai-bo",
+    "target_document": "78/2023/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục I",
+     "Phụ lục II",
+     "Phụ lục IV"
+    ],
+    "doi_tuong": null,
+    "evidence": "BỔ SUNG, THAY THẾ, BÃI BỎ MỘT SỐ NỘI DUNG TRONG PHỤ LỤC I, II, IV BAN HÀNH KÈM THEO NGHỊ QUYẾT SỐ 78/2023/NQ-HĐND NGÀY 14 THÁNG 7 NĂM 2023 CỦA HỘI ĐỒNG NHÂN DÂN TỈNH"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "78/2023/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục I"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung “Số thứ tự 369 - Đường trục phía Nam thành phố” vào sau “Số thứ tự 368” và trước “mục 2. Bảng giá đất ở huyện Mỹ Lộc cũ nay thuộc thành phố Nam Định” Phụ lục I - Bảng giá đất ở trên địa bàn thành phố Nam Định kèm theo Nghị quyết số 78/2023/NQ-HĐND như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "78/2023/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục II"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung, bãi bỏ một số nội dung trong Phụ lục II - Bảng giá đất ở trên địa bàn các huyện kèm theo Nghị quyết số 78/2023/NQ-HĐND: Chi tiết tại Phụ lục I kèm theo Nghị quyết này."
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "78/2023/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục II"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung, bãi bỏ một số nội dung trong Phụ lục II - Bảng giá đất ở trên địa bàn các huyện kèm theo Nghị quyết số 78/2023/NQ-HĐND: Chi tiết tại Phụ lục I kèm theo Nghị quyết này."
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "bo-sung",
+    "target_document": "78/2023/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục IV"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung, thay thế, bãi bỏ một số nội dung trong Phụ lục IV - Bảng giá đất sản xuất kinh doanh trên địa bàn các huyện kèm theo Nghị quyết số 78/2023/NQ-HĐND: Chi tiết tại Phụ lục II kèm theo Nghị quyết này."
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "thay-the",
+    "target_document": "78/2023/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục IV"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung, thay thế, bãi bỏ một số nội dung trong Phụ lục IV - Bảng giá đất sản xuất kinh doanh trên địa bàn các huyện kèm theo Nghị quyết số 78/2023/NQ-HĐND: Chi tiết tại Phụ lục II kèm theo Nghị quyết này."
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "bai-bo",
+    "target_document": "78/2023/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục IV"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung, thay thế, bãi bỏ một số nội dung trong Phụ lục IV - Bảng giá đất sản xuất kinh doanh trên địa bàn các huyện kèm theo Nghị quyết số 78/2023/NQ-HĐND: Chi tiết tại Phụ lục II kèm theo Nghị quyết này."
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 1",
+    "action": "bo-sung",
+    "target_document": "78/2023/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục 2.2 Phụ lục II"
+    ],
+    "doi_tuong": null,
+    "evidence": "1. Bổ sung tên đường, vị trí các lô đất và đơn giá vào số thứ tự 1 (thị trấn Gôi)"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 2",
+    "action": "bo-sung",
+    "target_document": "78/2023/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục 2.3 Phụ lục II"
+    ],
+    "doi_tuong": null,
+    "evidence": "2. Bổ sung tên đường, vị trí các lô đất và đơn giá vào số thứ tự số 9 (xã Phú Hưng - xã Yên Phú cũ)"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 3",
+    "action": "bo-sung",
+    "target_document": "78/2023/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục 2.4 Phụ lục II"
+    ],
+    "doi_tuong": null,
+    "evidence": "3. Bổ sung tên đường, vị trí các lô đất và đơn giá vào số thứ tự 3 (Xã Nam Điền - Xã Nam Toàn cũ)"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 4",
+    "action": "bo-sung",
+    "target_document": "78/2023/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục 2.5 Phụ lục II"
+    ],
+    "doi_tuong": null,
+    "evidence": "4. Bổ sung tên đường, vị trí các lô đất và đơn giá vào số thứ tự 2 (xã Đồng Thịnh - xã Nghĩa Thịnh cũ)"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 5",
+    "action": "bo-sung",
+    "target_document": "78/2023/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục 2.6 Phụ lục II"
+    ],
+    "doi_tuong": null,
+    "evidence": "5. Bổ sung tên đường, vị trí các lô đất và đơn giá vào số thứ tự 2 (Thị trấn Cát Thành)"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 6",
+    "action": "bo-sung",
+    "target_document": "78/2023/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục 2.7 Phụ lục II"
+    ],
+    "doi_tuong": null,
+    "evidence": "6. Bổ sung tên đường, vị trí các lô đất và đơn giá vào số thứ tự 9 (xã Xuân Giang - xã Xuân Thủy cũ)"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 7",
+    "action": "bo-sung",
+    "target_document": "78/2023/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục 2.8 Phụ lục II"
+    ],
+    "doi_tuong": null,
+    "evidence": "7. Bổ sung một số nội dung tại mục 2.8. Bảng giá đất ở tại huyện Hải Hậu"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 8",
+    "action": "bo-sung",
+    "target_document": "78/2023/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục 2.9 Phụ lục II"
+    ],
+    "doi_tuong": null,
+    "evidence": "8. Bổ sung tên đường, vị trí các lô đất và đơn giá vào số thứ tự 1 (Thị trấn Giao Thủy - Thị trấn Ngô Đồng cũ), số thứ tự 2 (Thị trấn Quất Lâm), số thứ tự 3 (Xã Giao Thịnh), số thứ tự 4 (Thị trấn Giao Thủy - xã Giao Tiến cũ), số thứ tự 5 (Xã Hoành Sơn), số thứ tự 7 (Xã Giao Thanh), số thứ tự 8 (Xã Giao An), số thứ tự 9 (Xã Giao Nhân), số thứ tự 10 (Xã Giao Châu), số thứ tự 11 (Xã Giao Yến), số thứ tự 12 (Xã Giao Phong), số thứ tự 15 (Xã Giao Xuân), số thứ tự 16 (Xã Giao Lạc), số thứ tự 17 (Xã Giao Hà), số thứ tự 19 (Xã Giao Hương), số thứ tự 20 (Xã Giao Long), số thứ tự 21 (Xã Bạch Long), số thứ tự 22 (Xã Giao Tân) tại mục 2.9. Bảng giá đất ở tại huyện Giao Thủy như sau:"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 9",
+    "action": "bai-bo",
+    "target_document": "78/2023/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục 2.2 Phụ lục II",
+     "Mục 2.3 Phụ lục II",
+     "Mục 2.4 Phụ lục II",
+     "Mục 2.5 Phụ lục II",
+     "Mục 2.6 Phụ lục II",
+     "Mục 2.7 Phụ lục II",
+     "Mục 2.8 Phụ lục II",
+     "Mục 2.9 Phụ lục II"
+    ],
+    "doi_tuong": "cụm từ “Bao gồm … xã, thị trấn” tại các mục 2.2 đến 2.9",
+    "evidence": "9. Bãi bỏ các cụm từ tại Phụ lục II kèm theo Nghị quyết số 78/2023/NQ-HĐND như sau:"
+   },
+   {
+    "source_path": "Phụ lục 2 Mục 1",
+    "action": "bai-bo",
+    "target_document": "78/2023/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục 4.3 Phụ lục IV"
+    ],
+    "doi_tuong": "cụm từ “Bao gồm 31 xã và thị trấn”",
+    "evidence": "a) Bãi bỏ cụm từ “Bao gồm 31 xã và thị trấn\" tại mục 4.3. Huyện Ý Yên;"
+   },
+   {
+    "source_path": "Phụ lục 2 Mục 1",
+    "action": "bo-sung",
+    "target_document": "78/2023/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục 4.3 Phụ lục IV"
+    ],
+    "doi_tuong": null,
+    "evidence": "b) Bổ sung vị trí, đơn giá vào số thứ tự 29 (Xã Yên Nhân) như sau:"
+   },
+   {
+    "source_path": "Phụ lục 2 Mục 2",
+    "action": "bai-bo",
+    "target_document": "78/2023/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục 4.8 Phụ lục IV"
+    ],
+    "doi_tuong": "cụm từ “Bao gồm 34 xã và thị trấn”",
+    "evidence": "a) Bãi bỏ cụm từ “Bao gồm 34 xã và thị trấn” tại mục 4.8. Huyện Hải Hậu;"
+   },
+   {
+    "source_path": "Phụ lục 2 Mục 2",
+    "action": "bo-sung",
+    "target_document": "78/2023/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục 4.8 Phụ lục IV"
+    ],
+    "doi_tuong": null,
+    "evidence": "b) Bổ sung vị trí, đơn giá vào số thứ tự 17 (Xã Hải Hưng - Cũ là xã Hải Thanh):"
+   },
+   {
+    "source_path": "Phụ lục 2 Mục 3",
+    "action": "thay-cum-tu",
+    "target_document": "78/2023/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục 4.1 Phụ lục IV"
+    ],
+    "doi_tuong": null,
+    "evidence": "a) Thay thế cụm từ “HUYỆN MỸ LỘC” bằng cụm từ “Thành phố Nam Định”"
+   },
+   {
+    "source_path": "Phụ lục 2 Mục 3",
+    "action": "bai-bo",
+    "target_document": "78/2023/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục 4.1 Phụ lục IV",
+     "Mục 4.2 Phụ lục IV",
+     "Mục 4.4 Phụ lục IV",
+     "Mục 4.5 Phụ lục IV",
+     "Mục 4.6 Phụ lục IV",
+     "Mục 4.7 Phụ lục IV",
+     "Mục 4.9 Phụ lục IV"
+    ],
+    "doi_tuong": "cụm từ “Bao gồm … xã và thị trấn” tại các mục 4.1, 4.2, 4.4 đến 4.7, 4.9",
+    "evidence": "3. Thay thế, bãi bỏ một số cụm từ tại Phụ lục IV kèm theo Nghị quyết số 78/2023/NQ-HĐND như sau:"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Đích là các phụ lục kèm Nghị quyết 78/2023/NQ-HĐND; tiêu đề hai phụ lục ghi nhầm \"78/2023/QĐ-UBND\". Phụ lục 1, 2 viết thành đoạn có đề mục số, ghi quan hệ theo từng đề mục."
+ },
+ {
+  "doc_id": "651791",
+  "relations": [
+   {
+    "source_path": "Điều 1",
+    "action": "thay-the",
+    "target_document": "1928/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "04 thủ tục hành chính nội bộ",
+    "evidence": "Công bố kèm theo Quyết định này 07 thủ tục hành chính nội bộ lĩnh vực khoa học và công nghệ thuộc phạm vi quản lý của UBND thành phố Hà Nội, thay thế 04 thủ tục hành chính nội bộ tại các Quyết định: số 1928/QĐ-UBND ngày 31/3/2023; số 4090/QĐ-UBND ngày 15/8/2023 và số 6227/QĐ-UBND ngày 03/12/2024 của Chủ tịch UBND Thành phố (chi tiết tại Phụ lục kèm theo)."
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "thay-the",
+    "target_document": "4090/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "04 thủ tục hành chính nội bộ",
+    "evidence": "Công bố kèm theo Quyết định này 07 thủ tục hành chính nội bộ lĩnh vực khoa học và công nghệ thuộc phạm vi quản lý của UBND thành phố Hà Nội, thay thế 04 thủ tục hành chính nội bộ tại các Quyết định: số 1928/QĐ-UBND ngày 31/3/2023; số 4090/QĐ-UBND ngày 15/8/2023 và số 6227/QĐ-UBND ngày 03/12/2024 của Chủ tịch UBND Thành phố (chi tiết tại Phụ lục kèm theo)."
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "thay-the",
+    "target_document": "6227/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "04 thủ tục hành chính nội bộ",
+    "evidence": "Công bố kèm theo Quyết định này 07 thủ tục hành chính nội bộ lĩnh vực khoa học và công nghệ thuộc phạm vi quản lý của UBND thành phố Hà Nội, thay thế 04 thủ tục hành chính nội bộ tại các Quyết định: số 1928/QĐ-UBND ngày 31/3/2023; số 4090/QĐ-UBND ngày 15/8/2023 và số 6227/QĐ-UBND ngày 03/12/2024 của Chủ tịch UBND Thành phố (chi tiết tại Phụ lục kèm theo)."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 1 tự nói thay thế 04 TTHC nội bộ tại 3 quyết định; phụ lục không nêu TTHC nào bị thay thế."
+ },
+ {
+  "doc_id": "651866",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Kế hoạch; chỉ nêu nhiệm vụ nghiên cứu sửa đổi Quyết định 06/2020/QĐ-TTg, không có tác động trực tiếp."
+ }
+]

@@ -1,0 +1,50 @@
+[
+ {
+  "doc_id": "673279",
+  "relations": [
+   {
+    "source_path": "Điều 6 Khoản 1",
+    "action": "thay-the",
+    "target_document": "10/2025/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực thi hành kể từ ngày 10 tháng 9 năm 2025 và thay thế Quyết định số 10/2025/QĐ-UBND ngày 28 tháng 02 năm 2025 của Ủy ban nhân dân tỉnh Điện Biên quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Sở Nông nghiệp và Môi trường tỉnh Điện Biên."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Các đơn vị khác chỉ là nhiệm vụ, quyền hạn (công nhận, hủy bỏ quyết định công nhận...), không phải quan hệ."
+ },
+ {
+  "doc_id": "673284",
+  "relations": [
+   {
+    "source_path": "Điều 6 Khoản 1",
+    "action": "thay-the",
+    "target_document": "07/2025/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực thi hành kể từ ngày 10 tháng 9 năm 2025 và thay thế Quyết định số 07/2025/QĐ-UBND ngày 28 tháng 02 năm 2025 của Ủy ban nhân dân tỉnh Điện Biên quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Sở Xây dựng tỉnh Điện Biên."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Các đơn vị khác chỉ là nhiệm vụ, quyền hạn, không phải quan hệ."
+ },
+ {
+  "doc_id": "673291",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "22/2022/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực thi hành kể từ ngày 01 tháng 10 năm 2025 và thay thế Quyết định số 22/2022/QĐ-UBND ngày 18 tháng 7 năm 2022 của Ủy ban nhân dân tỉnh Điện Biên ban hành Quy chế phối hợp trong công tác quản lý nhà nước về tín ngưỡng, tôn giáo trên địa bàn tỉnh Điện Biên."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quy chế kèm theo chỉ quy định trách nhiệm phối hợp, không có tác động lên văn bản khác."
+ }
+]

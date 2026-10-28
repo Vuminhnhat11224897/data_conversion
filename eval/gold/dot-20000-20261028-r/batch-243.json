@@ -1,0 +1,212 @@
+[
+ {
+  "doc_id": "676024",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "476/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực thi hành kể từ ngày ký và thay thế Quyết định số 476/QĐ-UBND ngày 28 tháng 02 năm 2023 của Ủy ban nhân dân tỉnh Hưng Yên"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": ""
+ },
+ {
+  "doc_id": "676091",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "438/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 438/QĐ-UBND ngày 07 tháng 7 năm 2022 của Ủy ban nhân dân tỉnh Tuyên Quang Ban hành Quy chế Quản lý, vận hành, sử dụng hệ thống Hội nghị truyền hình trực tuyến tỉnh Tuyên Quang hết hiệu lực kể từ ngày Quyết định này có hiệu lực thi hành."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 2 tự tuyên bố Quyết định 438/QĐ-UBND hết hiệu lực: bai-bo."
+ },
+ {
+  "doc_id": "676117",
+  "relations": [
+   {
+    "source_path": "Điều 2 Khoản 1",
+    "action": "thay-the",
+    "target_document": "148/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực thi hành kể từ ngày ký và thay thế Quyết định số 148/QĐ-UBND ngày 16 tháng 02 năm 2017 của Ủy ban nhân dân tỉnh Gia Lai Ban hành Nội quy cửa khẩu quốc tế Lệ Thanh, tỉnh Gia Lai."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": ""
+ },
+ {
+  "doc_id": "676156",
+  "relations": [
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bai-bo",
+    "target_document": "3346/QĐ-UB-QLĐT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ các quyết định sau đây:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "95/2005/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ các quyết định sau đây:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "bai-bo",
+    "target_document": "16/2007/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ các quyết định sau đây:"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên văn bản \"bãi bỏ các quyết định\" không nêu số hiệu đích: không ghi Phần đầu."
+ },
+ {
+  "doc_id": "676170",
+  "relations": [
+   {
+    "source_path": "Điều 13 Khoản 2",
+    "action": "thay-the",
+    "target_document": "01-QC/UBKTTW",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quy chế này có hiệu lực kể từ ngày ký và thay thế Quy chế số 01-QC/UBKTTW, ngày 13/12/2021 của Ủy ban Kiểm tra Trung ương"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": ""
+ },
+ {
+  "doc_id": "676204",
+  "relations": [
+   {
+    "source_path": "Điều 7 Khoản 3",
+    "action": "thay-the",
+    "target_document": "02/2023/TT-BNV",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thông tư này thay thế Thông tư số 02/2023/TT-BNV ngày 23 tháng 3 năm 2023 của Bộ trưởng Bộ Nội vụ quy định Chế độ báo cáo thống kê ngành Nội vụ"
+   },
+   {
+    "source_path": "Điều 7 Khoản 3 điểm a",
+    "action": "bai-bo",
+    "target_document": "02/2025/TT-BLĐTBXH",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Phụ lục I",
+     "Phụ lục II",
+     "Phụ lục III"
+    ],
+    "doi_tuong": "Hệ thống biểu mẫu, nội dung biểu mẫu thống kê các lĩnh vực Lao động - Việc làm, Người có công, Bình đẳng giới",
+    "evidence": "Hệ thống biểu mẫu, nội dung biểu mẫu thống kê tại Phụ lục I, II, III ban hành kèm theo Thông tư số 02/2025/TT-BLĐTBXH ngày 10 tháng 01 năm 2025 của Bộ trưởng Bộ Lao động-Thương binh và Xã hội"
+   },
+   {
+    "source_path": "Điều 7 Khoản 3 điểm b",
+    "action": "bai-bo",
+    "target_document": "07/2021/TT-BNV",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Mục II Phụ lục 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Mục II - Báo cáo về lĩnh vực công chức, viên chức, Phụ lục số 2, Thông tư số 07/2021/TT-BNV ngày 31 tháng 12 năm 2021"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Hành động bãi bỏ ở câu dẫn khoản 3 \"... và bãi bỏ các quy định sau:\"; điểm a chỉ bãi bỏ phần biểu các lĩnh vực Lao động - Việc làm, Người có công, Bình đẳng giới của Phụ lục I-III."
+ },
+ {
+  "doc_id": "676245",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "148/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực thi hành kể từ ngày ký ban hành và thay thế Quyết định số 148/QĐ-UBND ngày 20 tháng 4 năm 2023 của Ủy ban nhân dân tỉnh Tuyên Quang (cũ)"
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "1335/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 1335/QĐ-UBND ngày 11 tháng 10 năm 2024 của Ủy ban nhân dân tỉnh Hà Giang (cũ) ban hành Quy định đánh giá kết quả cải cách hành chính trên địa bàn tỉnh Hà Giang."
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Phụ lục 1 Văn bản kèm theo 1 Điều 1",
+    "loai": "tach_sai",
+    "ghi_chu": "Văn bản gốc đánh số Điều lại từ 1 ở Chương II; Chương II-III của Bộ tiêu chí bị tách thành \"Văn bản kèm theo 1\" riêng."
+   }
+  ],
+  "ghi_chu": ""
+ },
+ {
+  "doc_id": "676662",
+  "relations": [
+   {
+    "source_path": "Điều 7 Khoản 2 điểm a",
+    "action": "thay-the",
+    "target_document": "178/2010/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị quyết này thay thế các Nghị quyết sau:"
+   },
+   {
+    "source_path": "Điều 7 Khoản 2 điểm b",
+    "action": "thay-the",
+    "target_document": "03/2020/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị quyết này thay thế các Nghị quyết sau:"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": ""
+ },
+ {
+  "doc_id": "676670",
+  "relations": [
+   {
+    "source_path": "Điều 12 Khoản 2",
+    "action": "thay-the",
+    "target_document": "39/2017/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thay thế Quyết định số 39/2017/QĐ-UBND ngày 13 tháng 10 năm 2017 của Ủy ban nhân dân tỉnh Đồng Nai"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": ""
+ }
+]

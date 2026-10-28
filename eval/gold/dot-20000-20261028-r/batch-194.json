@@ -1,0 +1,36 @@
+[
+ {
+  "doc_id": "667604",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "quy-dinh-chi-tiet",
+    "target_document": "Luật Thủ đô",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 8 Điều 21"
+    ],
+    "doi_tuong": null,
+    "evidence": "Hội đồng nhân dân Thành phố ban hành Nghị quyết quy định về khu phát triển thương mại và văn hóa trên địa bàn thành phố Hà Nội (thực hiện khoản 8, Điều 21 Luật Thủ đô)."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên và lời dẫn: Nghị quyết quy định về khu phát triển thương mại và văn hóa 'thực hiện khoản 8 Điều 21 Luật Thủ đô' (luật được giao HĐND quy định) → ghi quy-dinh-chi-tiet ở Phần đầu; văn bản không nêu số hiệu Luật Thủ đô. Thân Nghị quyết và Quy chế mẫu không tác động lên văn bản khác."
+ },
+ {
+  "doc_id": "668223",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "huong-dan",
+    "target_document": "02/2025/TT-BGDĐT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bộ GDĐT hướng dẫn triển khai thực hiện Khung NLS cho học sinh phổ thông và học viên giáo dục thường xuyên (sau đây gọi chung là học sinh) theo Thông tư số 02 như sau:"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn hướng dẫn thực hiện Khung NLS theo Thông tư số 02/2025/TT-BGDĐT (câu ở phần đầu). Trích yếu 'V/v hướng dẫn triển khai thực hiện khung năng lực số' không nêu văn bản đích. NQ 57-NQ/TW, KH 01-KH/BCĐTW, QĐ 899/QĐ-BGDĐT chỉ là căn cứ thực hiện."
+ }
+]

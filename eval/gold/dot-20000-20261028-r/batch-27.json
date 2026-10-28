@@ -1,0 +1,67 @@
+[
+ {
+  "doc_id": "660394",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "747-QĐ/KTTW",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định có hiệu lực kể từ ngày ký, thay thế Quyết định số 747-QĐ/KTTW, ngày 03/11/2022 của Ủy ban Kiểm tra Trung ương."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 2 thay thế QĐ 747-QĐ/KTTW. noi_dung Điều 2 trong don_vi bị dính thêm một câu của Quy định kèm theo."
+ },
+ {
+  "doc_id": "660486",
+  "relations": [
+   {
+    "source_path": "Điều 10 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "60/2016/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [
+     "Điều 16",
+     "Điều 17",
+     "Điều 18"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ Điều 16, Điều 17, Điều 18 Quyết định số 60/2016/QĐ-UBND ngày 25 tháng 1 1 năm 2016 của Ủy ban nhân dân tỉnh Bình Định ban hành quy định về quản lý và bảo vệ kết cấu hạ tầng giao thông đường bộ đối với hệ thống đường địa phương trên địa bàn tỉnh Bình Định."
+   },
+   {
+    "source_path": "Điều 10 Khoản 3",
+    "action": "bai-bo",
+    "target_document": "46/2018/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 10 Điều 1",
+     "khoản 11 Điều 1",
+     "khoản 12 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ khoản 10, khoản 11, khoản 12 Điều 1 Quyết định số 46/2018/QĐ-UBND ngày 10 tháng 10 năm 2018 của Ủy ban nhân dân tỉnh Bình Định sửa đổi, bổ sung một số điều của Quy định ban hành kèm theo Quyết định số 60/2016/QĐ-UBND ngày 25 tháng 11 năm 2016 của Ủy ban nhân dân tỉnh Bình Định ban hành quy định về quản lý và bảo vệ kết cấu hạ tầng giao thông đường bộ đối với hệ thống đường địa phương trên địa bàn tỉnh Bình Định."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 16-18 của QĐ 60/2016 nhiều khả năng thuộc Quy định kèm theo nhưng câu không nói rõ: khong_ro."
+ },
+ {
+  "doc_id": "660786",
+  "relations": [
+   {
+    "source_path": "Điều 15 Khoản 1",
+    "action": "thay-the",
+    "target_document": "137-QĐ/TW",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quy định này có hiệu lực thi hành kể từ ngày 01/7/2025 và thay thế Quy định số 137-QĐ/TW, ngày 01/12/2023 về chức năng, nhiệm vụ, tổ chức bộ máy cơ quan chuyên trách tham mưu, giúp việc tỉnh ủy, thành ủy."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quy định thay thế Quy định 137-QĐ/TW."
+ }
+]

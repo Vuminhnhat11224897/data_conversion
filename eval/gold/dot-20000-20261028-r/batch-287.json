@@ -1,0 +1,139 @@
+[
+ {
+  "loi_cau_truc": [],
+  "doc_id": "666852",
+  "relations": [],
+  "ghi_chu": "Phê duyệt quy trình nội bộ giải quyết TTHC; không có tác động lên văn bản khác."
+ },
+ {
+  "loi_cau_truc": [],
+  "doc_id": "667150",
+  "relations": [],
+  "ghi_chu": "Lệnh công bố Luật Năng lượng nguyên tử; không có quan hệ tác động."
+ },
+ {
+  "loi_cau_truc": [],
+  "doc_id": "667157",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "122/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Phụ lục I"
+    ],
+    "doi_tuong": null,
+    "evidence": "ĐIỀU CHỈNH DANH MỤC TẠI PHỤ LỤC I NGHỊ QUYẾT SỐ 122/NQ-HĐND NGÀY 10 THÁNG 12 NĂM 2024 CỦA HỘI ĐỒNG NHÂN DÂN TỈNH THỪA THIÊN HUẾ"
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "sua-doi",
+    "target_document": "122/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Phụ lục I"
+    ],
+    "doi_tuong": null,
+    "evidence": "Điều chỉnh danh mục 05 công trình, dự án phải thu hồi đất tại Phụ lục I Nghị quyết số 122/NQ-HĐND ngày 10 ngày 12 tháng 2024 của Hội đồng nhân dân tỉnh Thừa Thiên Huế (nay là Hội đồng nhân dân thành phố Huế)."
+   }
+  ],
+  "ghi_chu": "'Điều chỉnh' danh mục ghi là sua-doi. Chi tiết ở Phụ lục III: đề mục I 'Điều chỉnh danh mục tại STT 4,5,6 Mục VIII Phần B Phụ lục I Nghị quyết số 122/NQ-HĐND' (3 dòng đổi diện tích); 2 dòng sau (KCN Chân Mây số 1, 2) không có đề mục nhóm trong toàn văn nên không rõ là điều chỉnh hay bổ sung. Không ghi quan hệ riêng cho dòng bảng."
+ },
+ {
+  "loi_cau_truc": [],
+  "doc_id": "667171",
+  "relations": [],
+  "ghi_chu": "Công văn hướng dẫn chung (thực hiện QĐ 1160/QĐ-TTg); không nêu hướng dẫn một văn bản/vị trí cụ thể; không ghi quan hệ."
+ },
+ {
+  "loi_cau_truc": [],
+  "doc_id": "667213",
+  "relations": [],
+  "ghi_chu": "Ban hành Quy chế mới; không có tác động lên văn bản khác. Điều 16 khoản 3 Quy chế chỉ là đề xuất sửa đổi."
+ },
+ {
+  "loi_cau_truc": [],
+  "doc_id": "667443",
+  "relations": [],
+  "ghi_chu": "Nghị quyết nhiệm vụ, giải pháp 6 tháng cuối năm; không có quan hệ."
+ },
+ {
+  "loi_cau_truc": [],
+  "doc_id": "667610",
+  "relations": [],
+  "ghi_chu": "Điều 2: quy trình nội bộ 'thay thế toàn bộ quy trình nội bộ ... được Ủy ban nhân dân tỉnh công bố trước đây' không nêu văn bản đích; không ghi quan hệ. Nội dung danh mục là tệp đính kèm, không có trong toàn văn."
+ },
+ {
+  "loi_cau_truc": [],
+  "doc_id": "667647",
+  "relations": [
+   {
+    "source_path": "Mục 2",
+    "action": "huong-dan",
+    "target_document": "20/2023/TT-BGDĐT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 4 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Hướng dẫn tiêu chí và quy trình để xác định nội dung quy định tại khoản 4 Điều 3 Thông tư số 20/2023/TT-BGDĐT ngày 30/10/2023 của Bộ trưởng Bộ Giáo dục và Đào tạo"
+   }
+  ],
+  "ghi_chu": "Mục 2 của công văn hướng dẫn cách thực hiện khoản 4 Điều 3 TT 20/2023/TT-BGDĐT (định mức học sinh/lớp trường hợp đặc biệt). Mục 1, 3, 4 chỉ giải thích, nêu văn bản đã/đang ban hành; không ghi quan hệ."
+ },
+ {
+  "loi_cau_truc": [],
+  "doc_id": "667857",
+  "relations": [],
+  "ghi_chu": "Phê duyệt kế hoạch truyền thông; Điều 3 chỉ là câu áp dụng văn bản thay thế chung; không có quan hệ."
+ },
+ {
+  "loi_cau_truc": [],
+  "doc_id": "667870",
+  "relations": [],
+  "ghi_chu": "Nghị quyết quy định mới; không sửa, bãi bỏ văn bản nào."
+ },
+ {
+  "loi_cau_truc": [],
+  "doc_id": "667956",
+  "relations": [],
+  "ghi_chu": "Ban hành mức giá tối đa dịch vụ công chứng; không có tác động lên văn bản khác."
+ },
+ {
+  "loi_cau_truc": [],
+  "doc_id": "668030",
+  "relations": [],
+  "ghi_chu": "Công văn truyền đạt ý kiến chỉ đạo về tình hình thực hiện NĐ 106/2024/NĐ-CP; không có quan hệ. Toàn văn thiếu mục 2 (từ mục 1 sang mục 3)."
+ },
+ {
+  "loi_cau_truc": [],
+  "doc_id": "668035",
+  "relations": [],
+  "ghi_chu": "Công văn đề nghị xử lý hồ sơ trực tuyến; không có quan hệ."
+ },
+ {
+  "loi_cau_truc": [],
+  "doc_id": "668278",
+  "relations": [],
+  "ghi_chu": "Phê chuẩn tổng quyết toán ngân sách 2024; không có quan hệ."
+ },
+ {
+  "loi_cau_truc": [],
+  "doc_id": "668287",
+  "relations": [],
+  "ghi_chu": "Phê duyệt kế hoạch sử dụng đất năm 2025 huyện Trảng Bom; không có quan hệ."
+ },
+ {
+  "loi_cau_truc": [],
+  "doc_id": "668363",
+  "relations": [],
+  "ghi_chu": "Nghị quyết về kỳ họp thường lệ; không có quan hệ."
+ },
+ {
+  "loi_cau_truc": [],
+  "doc_id": "668403",
+  "relations": [],
+  "ghi_chu": "Quy định đặc điểm kinh tế - kỹ thuật dịch vụ công chứng; không có quan hệ."
+ }
+]

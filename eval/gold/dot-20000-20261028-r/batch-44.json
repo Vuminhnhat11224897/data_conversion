@@ -1,0 +1,43 @@
+[
+ {
+  "doc_id": "664422",
+  "relations": [
+   {
+    "source_path": "Điều 2 Khoản 2",
+    "action": "thay-the",
+    "target_document": "54/2023/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này thay thế Quyết định số 54/2023/QĐ-UBND ngày 18 tháng 12 năm 2023 của Ủy ban nhân dân Thành phố Hồ Chí Minh về ban hành Quy chế làm việc của Ủy ban nhân dân Thành phố Hồ Chí Minh nhiệm kỳ 2021 - 2026."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quy chế kèm theo chỉ nêu thẩm quyền ('bãi bỏ cơ quan', 'kiến nghị ... bãi bỏ'), không có tác động."
+ },
+ {
+  "doc_id": "664532",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "08/2025/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực kể từ ngày 01 tháng 7 năm 2025 và thay thế Quyết định số 08/2025/QĐ-UBND ngày 28 tháng 02 năm 2025 của UBND thành phố"
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "11/2025/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 11/2025/QĐ-UBND ngày 21 tháng 02 năm 2025 của UBND tỉnh Quảng Nam ban hành Quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Sở Nội vụ tỉnh Quảng Nam."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 2 thay thế 2 quyết định (Đà Nẵng và Quảng Nam trước sáp nhập). Quy định kèm theo chỉ nêu thẩm quyền."
+ }
+]

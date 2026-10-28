@@ -1,0 +1,24 @@
+[
+ {
+  "doc_id": "663066",
+  "relations": [
+   {
+    "source_path": "Điều 2 Khoản 2",
+    "action": "thay-the",
+    "target_document": "173/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực thi hành kể từ ngày ký và thay thế Quyết định số 173/QĐ-UBND ngày 28/4/2025 của Ủy ban nhân dân tỉnh Tuyên Quang"
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 2 Khoản 2",
+    "loai": "gop_sai",
+    "ghi_chu": "Văn bản đánh số trùng 'Điều 2' (thực chất là Điều 3 hiệu lực, thay thế 173/QĐ-UBND); parser gộp Điều này vào cuối Điều 2 Khoản 2."
+   }
+  ],
+  "ghi_chu": "Điều 2 Khoản 1 giao Sở rà soát, trình công bố sửa đổi, bãi bỏ TTHC: nhiệm vụ, không ghi. Các câu 'được sửa đổi, bổ sung tại' trong phụ lục là trích dẫn."
+ }
+]

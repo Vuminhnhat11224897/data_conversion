@@ -1,0 +1,70 @@
+[
+ {
+  "doc_id": "672722",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "huong-dan",
+    "target_document": "118/2025/NĐ-CP",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "HƯỚNG DẪN THI HÀNH MỘT SỐ NỘI DUNG CỦA NGHỊ ĐỊNH SỐ 118/2025/NĐ-CP NGÀY 09 THÁNG 6 NĂM 2025 CỦA CHÍNH PHỦ VỀ THỰC HIỆN THỦ TỤC HÀNH CHÍNH THEO CƠ CHẾ MỘT CỬA, MỘT CỬA LIÊN THÔNG TẠI BỘ PHẬN MỘT CỬA VÀ CỔNG DỊCH VỤ CÔNG QUỐC GIA"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "huong-dan",
+    "target_document": "118/2025/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm b khoản 1 Điều 35",
+     "điểm c khoản 1 Điều 35",
+     "điểm h khoản 1 Điều 35"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thông tư này hướng dẫn thi hành một số nội dung về triển khai thiết lập và hoạt động của Bộ phận Một cửa các cấp; các biểu mẫu trong giải quyết thủ tục hành chính; mã số hồ sơ và mã ngành, lĩnh vực thủ tục hành chính trên Hệ thống thông tin giải quyết thủ tục hành chính cấp bộ, cấp tỉnh quy định tại điểm b, c và h khoản 1 Điều 35 Nghị định số 118/2025/NĐ-CP"
+   },
+   {
+    "source_path": "Điều 17 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "01/2018/TT-VPCP",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thông tư số 01/2018/TT-VPCP ngày 23 tháng 11 năm 2018 của Bộ trưởng, Chủ nhiệm Văn phòng Chính phủ hướng dẫn thi hành một số quy định của Nghị định số 61/2018/NĐ-CP ngày 23 tháng 4 năm 2018 của Chính phủ về thực hiện cơ chế một cửa, một cửa liên thông trong giải quyết thủ tục hành chính hết hiệu lực kể từ ngày Thông tư này có hiệu lực thi hành."
+   },
+   {
+    "source_path": "Điều 17 Khoản 3 điểm a",
+    "action": "sua-doi",
+    "target_document": "01/2023/TT-VPCP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi khoản 3 Điều 5 như sau:"
+   },
+   {
+    "source_path": "Điều 17 Khoản 3 điểm b",
+    "action": "bai-bo",
+    "target_document": "01/2023/TT-VPCP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 4 Điều 4",
+     "khoản 3 Điều 8",
+     "Điều 23"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ khoản 4 Điều 4, khoản 3 Điều 8 và Điều 23."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Câu dẫn khoản 3 Điều 17 (Sửa đổi, bãi bỏ một số điều, khoản tại Thông tư 01/2023/TT-VPCP) được thể hiện qua các điểm a, b. Lời dẫn cũng nêu hướng dẫn Nghị định 118/2025/NĐ-CP, gộp vào quan hệ Phần đầu."
+ },
+ {
+  "doc_id": "676636",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quyết định công bố TTHC mới, sửa đổi, bổ sung, bị bãi bỏ. Các dòng danh mục chỉ nêu văn bản QPPL làm căn cứ (Nghị định 184/2025/NĐ-CP, Thông tư 06/2025/TT-BCA), không nêu Quyết định công bố trước đó: không có quan hệ."
+ }
+]

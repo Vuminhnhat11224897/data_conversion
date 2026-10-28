@@ -1,0 +1,38 @@
+[
+ {
+  "doc_id": "655835",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "716/QĐ-BXD",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực thi hành kể từ ngày ký và thay thế Quyết định số 716/QĐ-BXD ngày 26 tháng 8 năm 2022 của Bộ trưởng Bộ Xây dựng ban hành Quy chế quản lý các nhiệm vụ sự nghiệp môi trường thuộc Bộ Xây dựng"
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "406/QĐ-BGTVT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 406/QĐ-BGTVT ngày 08 tháng 4 năm 2024 của Bộ trưởng Bộ Giao thông vận tải về việc ban hành Quy chế quản lý nhiệm vụ bảo vệ môi trường sử dụng kinh phí sự nghiệp bảo vệ môi trường do Bộ Giao thông vận tải quản lý"
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Phụ lục 1 Điều 21 Khoản 8",
+    "loai": "gop_sai",
+    "ghi_chu": "Mẫu số 01 - ĐĐKNV (biểu mẫu sau Quy chế) bị gộp vào khoản 8 Điều 21; các dòng a), b) của mẫu bị nhận thành điểm a, điểm b khoản 8."
+   },
+   {
+    "source_path": "Phụ lục 1 Văn bản kèm theo 1 Điều 4",
+    "loai": "nhan_sai_dieu",
+    "ghi_chu": "Các Điều của mẫu quyết định, mẫu hợp đồng trong biểu mẫu (Văn bản kèm theo 1-7) là nội dung mẫu, không phải Điều của văn bản."
+   }
+  ],
+  "ghi_chu": "Điều 2 thay thế 2 quyết định. Điều 3 (chuyển tiếp) và câu \"văn bản ... được sửa đổi, bổ sung hoặc thay thế ... thì áp dụng theo văn bản mới\" không phải quan hệ."
+ }
+]

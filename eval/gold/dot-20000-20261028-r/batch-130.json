@@ -1,0 +1,18 @@
+[
+ {
+  "doc_id": "663142",
+  "relations": [
+   {
+    "source_path": "Điều 3",
+    "action": "bai-bo",
+    "target_document": "1526/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Phụ lục danh mục thủ tục hành chính mới ban hành (TTHC STT 1-9 mục A phần I; STT 1-3 mục B phần I; STT 1-3 tiểu mục I mục A phần II; STT 1-3 mục B phần II)",
+    "evidence": "Quyết định này bãi bỏ các thủ tục hành chính có số thứ tự 1, 2, 3, 4, 5, 6, 7, 8, 9 tại mục A, phần I, các thủ tục hành chính có số thứ tự 1, 2, 3 tại mục B, phần I,các thủ tục hành chính có số thứ tự 1, 2, 3 tại tiểu mục I, mục A, phần II và các thủ tục hành chính có số thứ tự 1, 2, 3 tại mục B, phần II, Phụ lục danh mục thủ tục hành chính mới ban hành trong lĩnh vực công chức; lĩnh vực viên chức; lĩnh vực tổ chức - biên chế; lĩnh vực tổ chức phi chính phủ thuộc phạm vi chức năng quản lý của Sở Nội vụ tỉnh Cao Bằng ban hành kèm theo Quyết định số 1526/QĐ-UBND"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 3 (đoạn 2) bãi bỏ các TTHC theo STT trong Phụ lục danh mục kèm QĐ 1526/QĐ-UBND; phụ lục không đánh số nên vi_tri rỗng. Phụ lục của văn bản này chỉ là danh mục TTHC công bố, không có hành động."
+ }
+]

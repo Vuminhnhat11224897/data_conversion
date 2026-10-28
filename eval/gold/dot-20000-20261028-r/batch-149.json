@@ -1,0 +1,36 @@
+[
+ {
+  "doc_id": "671165",
+  "relations": [
+   {
+    "source_path": "Điều 3",
+    "action": "bai-bo",
+    "target_document": "1049/QĐ-TTPVHCC",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục"
+    ],
+    "doi_tuong": "các quy trình giải quyết thủ tục hành chính số 2 (mã QT-02), số 3 (mã QT-03)",
+    "evidence": "bãi bỏ các quy trình giải quyết thủ tục hành chính số 2 (mã QT-02), số 3 (mã QT-03) tại Phụ lục ban hành kèm theo Quyết định số 1049/QĐ-TTPVHCC ngày 10/7/2025 của Giám đốc Trung tâm Phục vụ hành chính công Thành phố"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Phụ lục I, II là quy trình mới, không có tác động khác."
+ },
+ {
+  "doc_id": "672047",
+  "relations": [
+   {
+    "source_path": "Điều 3",
+    "action": "thay-the",
+    "target_document": "1586/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "nội dung các thủ tục hành chính tương ứng",
+    "evidence": "Nội dung các thủ tục hành chính được sửa đổi, bổ sung tại Quyết định này thay thế các nội dung thủ tục hành chính tương ứng đã được công bố tại Quyết định số 1586/QĐ-UBND ngày 29/6/2025 của Chủ tịch UBND tỉnh"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 1 công bố danh mục, không là hành động; dòng bảng phụ lục không nêu văn bản đích. Điều 2 khoản 2 là giao nhiệm vụ."
+ }
+]

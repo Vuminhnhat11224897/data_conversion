@@ -1,0 +1,104 @@
+[
+ {
+  "doc_id": "655666",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Ban hành Kế hoạch cắt giảm TTHC; các câu bãi bỏ, sửa đổi trong kế hoạch là nhiệm vụ, chỉ tiêu."
+ },
+ {
+  "doc_id": "655668",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Kế hoạch hợp tác; không có tác động."
+ },
+ {
+  "doc_id": "655695",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn kết luận; chỉ có giao nhiệm vụ sửa đổi Hiến pháp, luật."
+ },
+ {
+  "doc_id": "655705",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công bố quyết toán ngân sách; không có tác động."
+ },
+ {
+  "doc_id": "655743",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công bố mới danh mục TTHC; không nêu văn bản bị thay thế, bãi bỏ; cột căn cứ pháp lý không phải đích."
+ },
+ {
+  "doc_id": "655759",
+  "relations": [
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "quy-dinh-chi-tiet",
+    "target_document": "71/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 20"
+    ],
+    "doi_tuong": null,
+    "evidence": "Nghị quyết này quy định chi tiết khoản 2 Điều 20 Nghị định số 71/2024/NĐ-CP ngày 27 tháng 6 năm 2024 của Chính phủ Quy định tiêu chí cụ thể để xác định vị trí đối với từng loại đất, số lượng vị trí đất trong bảng giá đất trên địa bàn tỉnh Tuyên Quang."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": ""
+ },
+ {
+  "doc_id": "655799",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn đề nghị rà soát ngành nghề; không có tác động."
+ },
+ {
+  "doc_id": "656046",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn hướng dẫn; dẫn chiếu Công văn 3199/TLĐ-TC và Thông tư 56/2022/TT-BTC để áp dụng, không tác động."
+ },
+ {
+  "doc_id": "656076",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn truyền đạt ý kiến; không có tác động."
+ },
+ {
+  "doc_id": "656255",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Kế hoạch; không có tác động."
+ },
+ {
+  "doc_id": "656256",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Kế hoạch; không có tác động."
+ },
+ {
+  "doc_id": "656314",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn truyền đạt ý kiến; không có tác động."
+ },
+ {
+  "doc_id": "656340",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Kế hoạch cắt giảm TTHC; các câu bãi bỏ, sửa đổi là nhiệm vụ."
+ },
+ {
+  "doc_id": "656358",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Ban hành Quy định đặc điểm kinh tế - kỹ thuật; không có tác động."
+ },
+ {
+  "doc_id": "656395",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn hướng dẫn tuyển chọn đề tài; danh mục văn bản là căn cứ."
+ }
+]

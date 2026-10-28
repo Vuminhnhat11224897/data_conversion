@@ -1,0 +1,884 @@
+[
+ {
+  "doc_id": "663178",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "25/2023/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA QUY ĐỊNH VỀ QUẢN LÝ HOẠT ĐỘNG THOÁT NƯỚC TRÊN ĐỊA BÀN TỈNH THANH HÓA BAN HÀNH KÈM THEO QUYẾT ĐỊNH SỐ 25/2023/QĐ-UBND NGÀY 23/6/2023 CỦA UBND TỈNH THANH HÓA."
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "25/2023/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA QUY ĐỊNH VỀ QUẢN LÝ HOẠT ĐỘNG THOÁT NƯỚC TRÊN ĐỊA BÀN TỈNH THANH HÓA BAN HÀNH KÈM THEO QUYẾT ĐỊNH SỐ 25/2023/QĐ-UBND NGÀY 23/6/2023 CỦA UBND TỈNH THANH HÓA."
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "25/2023/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 1 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi khoản 1 Điều 3 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "25/2023/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 22"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 22 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "25/2023/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 22"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 22 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "sua-doi",
+    "target_document": "25/2023/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 24"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 24 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "bo-sung",
+    "target_document": "25/2023/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 24"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 24 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 4",
+    "action": "sua-doi",
+    "target_document": "25/2023/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 26"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi Điều 26 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 1",
+    "action": "thay-cum-tu",
+    "target_document": "25/2023/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 1 Điều 4"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “UBND huyện, thị xã, thành phố thuộc tỉnh Thanh Hoá (sau đây gọi là UBND cấp huyện)” bằng cụm từ “UBND xã, phường trên địa bàn tỉnh Thanh Hoá (sau đây gọi là UBND cấp xã)” tại khoản 1 Điều 4."
+   },
+   {
+    "source_path": "Điều 2 Khoản 2",
+    "action": "thay-cum-tu",
+    "target_document": "25/2023/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 3 Điều 4",
+     "khoản 4 Điều 10",
+     "khoản 1 Điều 29"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “UBND cấp huyện” bằng cụm từ “UBND cấp xã” tại khoản 3 Điều 4, khoản 4 Điều 10 và khoản 1 Điều 29."
+   },
+   {
+    "source_path": "Điều 2 Khoản 3",
+    "action": "thay-cum-tu",
+    "target_document": "25/2023/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “các huyện, thị xã, thành phố thuộc tỉnh Thanh Hoá” bằng cụm từ “các xã, phường trên địa bàn tỉnh Thanh Hoá” tại Điều 7."
+   },
+   {
+    "source_path": "Điều 2 Khoản 4",
+    "action": "bai-bo",
+    "target_document": "25/2023/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 23"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ Điều 23."
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "loai": "nhan_sai_dieu",
+    "ghi_chu": "Đơn vị \"Điều 1 Khoản 3\" đến \"Điều 1 Khoản 7\" thực ra là khoản 2 đến khoản 6 của Điều 22 mới (nội dung trong ngoặc kép), bị nhận thành khoản của Điều 1."
+   },
+   {
+    "source_path": "Điều 1 Khoản 7",
+    "loai": "gop_sai",
+    "ghi_chu": "Khoản 3 thật của Điều 1 (\"Sửa đổi, bổ sung Điều 24 như sau:\") và khoản 4 thật (\"Sửa đổi Điều 26 như sau:\") bị gộp vào cuối đơn vị này; không có đơn vị riêng. source_path của 2 quan hệ đó ghi theo toàn văn."
+   }
+  ],
+  "ghi_chu": "Đích là Quy định ban hành kèm theo QĐ 25/2023/QĐ-UBND (tên Điều 1, Điều 2 nói rõ). Quan hệ ở Điều 1 Khoản 3, Khoản 4 lấy theo toàn văn vì parser gộp sai."
+ },
+ {
+  "doc_id": "663315",
+  "relations": [
+   {
+    "source_path": "Điều 20 Khoản 1",
+    "action": "bai-bo",
+    "target_document": "184/2015/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 2",
+     "khoản 4 Điều 2",
+     "khoản 5 Điều 2",
+     "Điều 6",
+     "Điều 7",
+     "khoản 3 Điều 17",
+     "khoản 4 Điều 17",
+     "khoản 5 Điều 17",
+     "khoản 3 Điều 18",
+     "khoản 4 Điều 18",
+     "khoản 5 Điều 18",
+     "khoản 4 Điều 19",
+     "khoản 5 Điều 19",
+     "khoản 6 Điều 19",
+     "Điều 22",
+     "Điều 25",
+     "Điều 26",
+     "Điều 27"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ khoản 3, khoản 4, khoản 5 Điều 2; Điều 6; Điều 7; khoản 3, khoản 4, khoản 5 Điều 17; khoản 3, khoản 4, khoản 5 Điều 18; khoản 4, khoản 5, khoản 6 Điều 19; Điều 22; Điều 25; Điều 26 và Điều 27."
+   },
+   {
+    "source_path": "Điều 20 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "184/2015/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [],
+    "doi_tuong": "các mẫu bảng kê nộp thuế (Mẫu số: 01/BKNT), mẫu giấy nộp tiền vào ngân sách nhà nước (Mẫu số: C1-02/NS)",
+    "evidence": "Bãi bỏ các mẫu bảng kê nộp thuế (Mẫu số: 01/BKNT), mẫu giấy nộp tiền vào ngân sách nhà nước (Mẫu số: C1-02/NS)."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Đích lấy từ tên Điều 20 (TT 184/2015/TT-BTC). Khoản 2 bãi bỏ mẫu biểu, văn bản không nêu phụ lục chứa mẫu nên vi_tri rỗng, ghi doi_tuong. Điều 21 khoản 3 là câu dẫn chiếu chung, không phải quan hệ."
+ },
+ {
+  "doc_id": "663359",
+  "relations": [
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "19/2018/TT-BNNPTNT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 7 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 7 Điều 3 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "19/2018/TT-BNNPTNT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 7 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 7 Điều 3 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "19/2018/TT-BNNPTNT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm g khoản 2 Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm g khoản 2 Điều 5 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "19/2018/TT-BNNPTNT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm g khoản 2 Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm g khoản 2 Điều 5 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3 điểm a",
+    "action": "thay-cum-tu",
+    "target_document": "19/2018/TT-BNNPTNT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm b khoản 5 Điều 11",
+     "khoản 1 Điều 15",
+     "điểm a khoản 1 Điều 16",
+     "Điều 18"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Bộ Nông nghiệp và Phát triển nông thôn” bằng cụm từ “Bộ Nông nghiệp và Môi trường” tại điểm b khoản 5 Điều 11; khoản 1 Điều 15; điểm a khoản 1 Điều 16, Điều 18;"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3 điểm b",
+    "action": "thay-cum-tu",
+    "target_document": "19/2018/TT-BNNPTNT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm b khoản 5 Điều 11",
+     "tên Điều 15"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Tổng cục Thủy sản” bằng cụm từ “Cục Thủy sản và Kiểm ngư” tại điểm b khoản 5 Điều 11 và tên Điều 15."
+   },
+   {
+    "source_path": "Điều 1 Khoản 4 điểm a",
+    "action": "sua-doi",
+    "target_document": "19/2018/TT-BNNPTNT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Phụ lục III"
+    ],
+    "doi_tuong": "nội dung số thứ tự 21 và 37 của Phụ lục III",
+    "evidence": "Sửa đổi, bổ sung nội dung số thứ tự 21 và 37 của Phụ lục III như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 4 điểm a",
+    "action": "bo-sung",
+    "target_document": "19/2018/TT-BNNPTNT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Phụ lục III"
+    ],
+    "doi_tuong": "nội dung số thứ tự 21 và 37 của Phụ lục III",
+    "evidence": "Sửa đổi, bổ sung nội dung số thứ tự 21 và 37 của Phụ lục III như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 4 điểm b",
+    "action": "bo-sung",
+    "target_document": "19/2018/TT-BNNPTNT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Phụ lục III"
+    ],
+    "doi_tuong": "số thứ tự 49 và 50 của Phụ lục III",
+    "evidence": "Bổ sung số thứ tự 49 và 50 vào Phụ lục III như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 1 điểm a",
+    "action": "sua-doi",
+    "target_document": "20/2018/TT-BNNPTNT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm i khoản 3 Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm i khoản 3 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 1 điểm a",
+    "action": "bo-sung",
+    "target_document": "20/2018/TT-BNNPTNT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm i khoản 3 Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm i khoản 3 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 1 điểm b",
+    "action": "sua-doi",
+    "target_document": "20/2018/TT-BNNPTNT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm x khoản 3 Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm x khoản 3 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 1 điểm b",
+    "action": "bo-sung",
+    "target_document": "20/2018/TT-BNNPTNT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm x khoản 3 Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm x khoản 3 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "20/2018/TT-BNNPTNT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm d khoản 1 Điều 6"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm d khoản 1 Điều 6 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "20/2018/TT-BNNPTNT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm d khoản 1 Điều 6"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm d khoản 1 Điều 6 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 3",
+    "action": "bo-sung",
+    "target_document": "20/2018/TT-BNNPTNT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3a Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung khoản 3a sau khoản 3 Điều 7 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 4",
+    "action": "sua-doi",
+    "target_document": "20/2018/TT-BNNPTNT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm c khoản 3 Điều 8",
+     "điểm d khoản 3 Điều 8",
+     "điểm đ khoản 3 Điều 8",
+     "điểm e khoản 3 Điều 8"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm c, điểm d, điểm đ và điểm e khoản 3 Điều 8 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 4",
+    "action": "bo-sung",
+    "target_document": "20/2018/TT-BNNPTNT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm c khoản 3 Điều 8",
+     "điểm d khoản 3 Điều 8",
+     "điểm đ khoản 3 Điều 8",
+     "điểm e khoản 3 Điều 8"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm c, điểm d, điểm đ và điểm e khoản 3 Điều 8 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 5 điểm a",
+    "action": "sua-doi",
+    "target_document": "20/2018/TT-BNNPTNT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 10"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 5 điểm a",
+    "action": "bo-sung",
+    "target_document": "20/2018/TT-BNNPTNT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 10"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 5 điểm b",
+    "action": "sua-doi",
+    "target_document": "20/2018/TT-BNNPTNT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 5 Điều 10"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 5 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 5 điểm b",
+    "action": "bo-sung",
+    "target_document": "20/2018/TT-BNNPTNT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 5 Điều 10"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 5 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 5 điểm c",
+    "action": "bo-sung",
+    "target_document": "20/2018/TT-BNNPTNT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 5a Điều 10"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung khoản 5a sau khoản 5 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 6 điểm a",
+    "action": "sua-doi",
+    "target_document": "20/2018/TT-BNNPTNT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 10 Điều 11"
+    ],
+    "doi_tuong": "tiêu đề của khoản 10",
+    "evidence": "Sửa đổi tiêu đề của khoản 10 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 6 điểm b",
+    "action": "bo-sung",
+    "target_document": "20/2018/TT-BNNPTNT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 12a Điều 11",
+     "khoản 12b Điều 11"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung khoản 12a, khoản 12b sau khoản 12 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 7",
+    "action": "sua-doi",
+    "target_document": "20/2018/TT-BNNPTNT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 12"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 3 Điều 12 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 7",
+    "action": "bo-sung",
+    "target_document": "20/2018/TT-BNNPTNT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 12"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 3 Điều 12 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 8",
+    "action": "sua-doi",
+    "target_document": "20/2018/TT-BNNPTNT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 13"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 Điều 13 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 8",
+    "action": "bo-sung",
+    "target_document": "20/2018/TT-BNNPTNT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 13"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 Điều 13 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 9",
+    "action": "sua-doi",
+    "target_document": "20/2018/TT-BNNPTNT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 3 Điều 14"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm a khoản 3 Điều 14 (được sửa đổi, bổ sung tại khoản 2 Điều 2 Thông tư số 01/2022/TT-BNNPTNT) như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 9",
+    "action": "bo-sung",
+    "target_document": "20/2018/TT-BNNPTNT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 3 Điều 14"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm a khoản 3 Điều 14 (được sửa đổi, bổ sung tại khoản 2 Điều 2 Thông tư số 01/2022/TT-BNNPTNT) như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 10 điểm a",
+    "action": "bo-sung",
+    "target_document": "20/2018/TT-BNNPTNT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2a Điều 15"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung khoản 2a sau khoản 2 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 10 điểm b",
+    "action": "sua-doi",
+    "target_document": "20/2018/TT-BNNPTNT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm g khoản 3 Điều 15"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm g khoản 3 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 10 điểm b",
+    "action": "bo-sung",
+    "target_document": "20/2018/TT-BNNPTNT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm g khoản 3 Điều 15"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm g khoản 3 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 11 điểm a",
+    "action": "sua-doi",
+    "target_document": "20/2018/TT-BNNPTNT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm c khoản 2 Điều 16"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi điểm c khoản 2 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 11 điểm b",
+    "action": "bo-sung",
+    "target_document": "20/2018/TT-BNNPTNT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 16"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung khoản 3 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 12 điểm a",
+    "action": "thay-cum-tu",
+    "target_document": "20/2018/TT-BNNPTNT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 2 Điều 13",
+     "khoản 2 Điều 23"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Bộ Nông nghiệp và Phát triển nông thôn” bằng cụm từ “Bộ Nông nghiệp và Môi trường” tại điểm a khoản 2 Điều 13; khoản 2 Điều 23;"
+   },
+   {
+    "source_path": "Điều 2 Khoản 12 điểm b",
+    "action": "thay-cum-tu",
+    "target_document": "20/2018/TT-BNNPTNT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 14",
+     "điểm a khoản 3 Điều 15",
+     "khoản 1 Điều 18",
+     "Điều 23"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Tổng cục Thuỷ sản” bằng cụm từ “Cục Thuỷ sản và Kiểm ngư” tại khoản 1 Điều 14; điểm a khoản 3 Điều 15; khoản 1 Điều 18; Điều 23;"
+   },
+   {
+    "source_path": "Điều 2 Khoản 12 điểm c",
+    "action": "thay-cum-tu",
+    "target_document": "20/2018/TT-BNNPTNT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 14"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Tổng cục trưởng Tổng cục Thuỷ sản” bằng cụm từ “Cục trưởng Cục Thuỷ sản và Kiểm ngư” tại khoản 1 Điều 14;"
+   },
+   {
+    "source_path": "Điều 2 Khoản 12 điểm d",
+    "action": "thay-cum-tu",
+    "target_document": "20/2018/TT-BNNPTNT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 2 Điều 4",
+     "khoản 2 Điều 12",
+     "Phụ lục I"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Cục Kiểm ngư” bằng cụm từ “Cục Thuỷ sản và Kiểm ngư” tại điểm a, khoản 2 Điều 4; khoản 2 Điều 12 và tại Mẫu cờ truyền thống tại Phụ lục I ban hành kèm theo Thông tư."
+   },
+   {
+    "source_path": "Điều 2 Khoản 13",
+    "action": "bo-sung",
+    "target_document": "20/2018/TT-BNNPTNT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Phụ lục VII"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung Phụ lục VII Mẫu Biểu tượng kiểm ngư Việt Nam bằng Phụ lục I ban hành kèm theo Thông tư này."
+   },
+   {
+    "source_path": "Điều 2 Khoản 14 điểm a",
+    "action": "sua-doi",
+    "target_document": "20/2018/TT-BNNPTNT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Phụ lục II"
+    ],
+    "doi_tuong": "mẫu mũ lễ phục và mũ chống va đập tại mục 6; mẫu quần, áo công tác trên tàu tại mục 7",
+    "evidence": "Sửa đổi mẫu mũ lễ phục và mũ chống va đập tại mục 6 bằng mục 1 Phụ lục II ban hành kèm theo Thông tư này; sửa đổi mẫu quần, áo công tác trên tàu tại mục 7 bằng mục 2 Phụ lục II ban hành kèm theo Thông tư này;"
+   },
+   {
+    "source_path": "Điều 2 Khoản 14 điểm b",
+    "action": "bo-sung",
+    "target_document": "20/2018/TT-BNNPTNT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Phụ lục II"
+    ],
+    "doi_tuong": "mục 8 mẫu đai đeo công cụ hỗ trợ; mục 9 mẫu mũ mềm công tác; mục 10 mẫu giày công tác trên tàu",
+    "evidence": "Bổ sung mục 8 mẫu đai đeo công cụ hỗ trợ bằng mục 3 Phụ lục II ban hành kèm theo Thông tư này; bổ sung mục 9 mẫu mũ mềm công tác bằng mục 4 Phụ lục II ban hành kèm theo Thông tư này; bổ sung mục 10 mẫu giày công tác trên tàu bằng mục 5 Phụ lục II ban hành kèm theo Thông tư này."
+   },
+   {
+    "source_path": "Điều 2 Khoản 15",
+    "action": "bo-sung",
+    "target_document": "20/2018/TT-BNNPTNT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Phụ lục III"
+    ],
+    "doi_tuong": "số thứ tự 26 mục 1 Phụ lục III",
+    "evidence": "Bổ sung số thứ tự 26 sau số thứ tự 25 mục 1 Phụ lục III ban hành kèm theo Thông tư 20/2018/TT-BNNPTNT như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 16",
+    "action": "bo-sung",
+    "target_document": "20/2018/TT-BNNPTNT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Phụ lục III"
+    ],
+    "doi_tuong": "số thứ tự 13 mục 2 Phụ lục III",
+    "evidence": "Bổ sung số thứ tự 13 sau số thứ tự 12 mục 2 Phụ lục III ban hành kèm theo Thông tư 20/2018/TT-BNNPTNT như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 17",
+    "action": "thay-the",
+    "target_document": "20/2018/TT-BNNPTNT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Phụ lục V"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế Phụ lục V ban hành kèm theo Thông tư 20/2018/TT- BNNPTNT bằng Phụ lục III ban hành kèm theo Thông tư này."
+   },
+   {
+    "source_path": "Điều 3 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "22/2018/TT-BNNPTNT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 28a"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung Điều 28a sau Điều 28 như sau:"
+   },
+   {
+    "source_path": "Điều 3 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "22/2018/TT-BNNPTNT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 42"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 42 như sau:"
+   },
+   {
+    "source_path": "Điều 3 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "22/2018/TT-BNNPTNT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 42"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 42 như sau:"
+   },
+   {
+    "source_path": "Điều 3 Khoản 3 điểm a",
+    "action": "thay-cum-tu",
+    "target_document": "22/2018/TT-BNNPTNT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 43",
+     "khoản 3 Điều 46",
+     "Phụ lục II"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay cụm từ “Bộ Nông nghiệp và Phát triển nông thôn” bằng cụm từ “Bộ Nông nghiệp và Môi trường” tại khoản 3 Điều 43; khoản 3 Điều 46 và tại Mẫu phôi văn bằng, chứng chỉ thuyền trưởng, máy trưởng, thợ máy tàu cá Phụ lục II ban hành kèm theo Thông tư số 22/2018/TT-BNNPTNT;"
+   },
+   {
+    "source_path": "Điều 3 Khoản 3 điểm b",
+    "action": "thay-cum-tu",
+    "target_document": "22/2018/TT-BNNPTNT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 43",
+     "khoản 3 Điều 44"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay cụm từ “Tổng cục Thuỷ sản” bằng cụm từ “Cục Thuỷ sản và Kiểm ngư” tại khoản 3 Điều 43, khoản 3 Điều 44."
+   },
+   {
+    "source_path": "Điều 3 Khoản 4",
+    "action": "thay-the",
+    "target_document": "22/2018/TT-BNNPTNT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Phụ lục I"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế Phụ lục I ban hành kèm theo Thông tư số 22/2018/TT- BNNPTNT (đã được sửa đổi, bổ sung tại khoản 5 Điều 4 Thông tư số 01/2022/TT-BNNPTNT) bằng Phụ lục IV ban hành kèm theo Thông tư này."
+   },
+   {
+    "source_path": "Điều 4 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "18/2022/TT-BNNPTNT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 1 như sau:"
+   },
+   {
+    "source_path": "Điều 4 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "18/2022/TT-BNNPTNT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 1 như sau:"
+   },
+   {
+    "source_path": "Điều 4 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "18/2022/TT-BNNPTNT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 22"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 Điều 22 như sau:"
+   },
+   {
+    "source_path": "Điều 4 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "18/2022/TT-BNNPTNT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 22"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 Điều 22 như sau:"
+   },
+   {
+    "source_path": "Điều 4 Khoản 3 điểm a",
+    "action": "thay-cum-tu",
+    "target_document": "18/2022/TT-BNNPTNT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 22"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Bộ Nông nghiệp và Phát triển nông thôn” bằng cụm từ “Bộ Nông nghiệp và Môi trường” tại khoản 3 Điều 22;"
+   },
+   {
+    "source_path": "Điều 4 Khoản 3 điểm b",
+    "action": "thay-cum-tu",
+    "target_document": "18/2022/TT-BNNPTNT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 2 Điều 6",
+     "điểm a khoản 1 Điều 7",
+     "khoản 1 Điều 8"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Cục Kiểm ngư” bằng cụm từ “Cục Thuỷ sản và Kiểm ngư” tại điểm a khoản 2 Điều 6; điểm a khoản 1 Điều 7; khoản 1 Điều 8;"
+   },
+   {
+    "source_path": "Điều 4 Khoản 3 điểm c",
+    "action": "thay-cum-tu",
+    "target_document": "18/2022/TT-BNNPTNT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 2 Điều 6",
+     "điểm a khoản 1 Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Cục trưởng Cục Kiểm ngư” thành “Cục trưởng Cục Thuỷ sản và Kiểm ngư” tại điểm a khoản 2 Điều 6; điểm a khoản 1 Điều 7."
+   },
+   {
+    "source_path": "Điều 4 Khoản 4",
+    "action": "thay-the",
+    "target_document": "18/2022/TT-BNNPTNT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Phụ lục IV"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế Phụ lục IV ban hành kèm theo Thông tư số 18/2022/TT- BNNPTNT bằng Phụ lục V ban hành kèm theo Thông tư này."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên văn bản không nêu số hiệu đích nên không có quan hệ Phần đầu. Đích lấy từ tên Điều 1-4. Cụm \"(được sửa đổi, bổ sung tại TT 01/2022/TT-BNNPTNT)\" là lịch sử, không ghi. Phụ lục của Thông tư đích coi là vị trí thuộc chính văn bản (quyet_dinh). Ghi ở cấp điểm khi khoản chỉ là câu dẫn."
+ }
+]

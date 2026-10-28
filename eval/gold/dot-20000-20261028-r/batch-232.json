@@ -1,0 +1,219 @@
+[
+ {
+  "doc_id": "669922",
+  "relations": [
+   {
+    "source_path": "Điều 2 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "65/2024/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 65/2024/QĐ-UBND ngày 21/12/2024 của UBND tỉnh Thái Nguyên ban hành Quy định về quy trình luân chuyển hồ sơ xác định nghĩa vụ tài chính về đất đai trên địa bàn tỉnh Thái Nguyên;"
+   },
+   {
+    "source_path": "Điều 2 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "45/2024/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [
+     "Điều 11",
+     "Điều 12",
+     "Điều 13"
+    ],
+    "doi_tuong": null,
+    "evidence": "Điều 11, Điều 12, Điều 13 Quyết định số 45/2024/QĐ-UBND ngày 31/12/2024 của UBND tỉnh Bắc Kạn ban hành Quy chế phối hợp tiếp nhận, luân chuyển hồ sơ, xác định nghĩa vụ tài chính; giải quyết và trả kết quả giải quyết thủ tục hành chính trong lĩnh vực đất đai trên địa bàn tỉnh Bắc Kạn hết hiệu lực kể từ ngày Quyết định này có hiệu lực thi hành."
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Phụ lục 1 Điều 2 Khoản 2",
+    "loai": "gop_sai",
+    "ghi_chu": "Khoản 3 ('3 Văn phòng Đăng ký đất đai…', thiếu dấu chấm) bị gộp vào khoản 2."
+   }
+  ],
+  "ghi_chu": "Khoản 2 tuyên bố QĐ 65/2024 và Điều 11-13 QĐ 45/2024 hết hiệu lực; QĐ 45/2024 ban hành Quy chế, câu không nói Điều 11-13 thuộc Quy chế."
+ },
+ {
+  "doc_id": "669933",
+  "relations": [
+   {
+    "source_path": "Điều 5 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "34/2025/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ Quyết định số 34/2025/QĐ-UBND ngày 19/5/2025 của Ủy ban nhân dân tỉnh Hà Giang quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Chi cục Chăn nuôi, Thú y và Thuỷ sản trực thuộc Sở Nông nghiệp và Môi trường tỉnh Hà Giang."
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 4 Khoản 3 điểm h",
+    "loai": "gop_sai",
+    "ghi_chu": "Đoạn kết của khoản 3 ('Các Trạm … có trụ sở làm việc, có con dấu riêng…') bị gộp vào điểm h."
+   }
+  ],
+  "ghi_chu": ""
+ },
+ {
+  "doc_id": "669973",
+  "relations": [
+   {
+    "source_path": "Mục 11",
+    "action": "thay-the",
+    "target_document": "10/CT-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Chỉ thị này thay thế Chỉ thị số 10/CT-UBND ngày 15/7/2024 của Chủ tịch UBND tỉnh về việc tăng cường quản lý hoạt động hành nghề y, dược tư nhân trên địa bàn tỉnh Thanh Hóa."
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Mục 11",
+    "loai": "gop_sai",
+    "ghi_chu": "Đoạn kết của Chỉ thị (thay thế Chỉ thị 10/CT-UBND, giao Sở Y tế theo dõi) bị gộp vào Mục 11."
+   }
+  ],
+  "ghi_chu": "Câu thay thế nằm ở đoạn kết của Chỉ thị, parser gộp vào Mục 11; giữ source_path của đơn vị chứa câu. Phần đầu chỉ kể lại việc thực hiện Chỉ thị 10/CT-UBND."
+ },
+ {
+  "doc_id": "670099",
+  "relations": [
+   {
+    "source_path": "Điều 3 Khoản 1",
+    "action": "thay-the",
+    "target_document": "1271/QĐ-BXD",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực thi hành kể từ ngày ký và thay thế Quyết định số 1271/QĐ-BXD ngày 08/8/2025 của Bộ trưởng Bộ Xây dựng"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": ""
+ },
+ {
+  "doc_id": "670135",
+  "relations": [
+   {
+    "source_path": "Điều 6 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "64/2024/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 64/2024/QĐ-UBND ngày 21 tháng 12 năm 2024 quy định mức tỷ lệ phần trăm (%) để tính đơn giá thuê đất, mức tỷ lệ (%) thu đối với đất xây dựng công trình ngầm, mức tỷ lệ (%) thu đối với đất có mặt nước trên địa bàn tỉnh Thái Nguyên và Quyết định số 36/2024/QĐ-UBND"
+   },
+   {
+    "source_path": "Điều 6 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "36/2024/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 36/2024/QĐ-UBND ngày 26 tháng 12 năm 2024 quy định mức tỷ lệ phần trăm (%) để tính đơn giá thuê đất; mức đơn giá thuê đất xây dựng công trình ngầm; mức đơn giá thuê đất đối với đất có mặt nước trên địa bàn tỉnh Bắc Kạn hết hiệu lực thi hành kể từ ngày Quyết định này có hiệu lực."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Hai quyết định được tuyên bố hết hiệu lực. Điều 5 chuyển tiếp không phải hành động."
+ },
+ {
+  "doc_id": "670137",
+  "relations": [
+   {
+    "source_path": "Điều 3 Khoản 2",
+    "action": "thay-the",
+    "target_document": "05/2020/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị quyết này có hiệu lực kể từ ngày 11 tháng 8 năm 2025 đến hết ngày 31 tháng 12 năm 2030 và thay thế Nghị quyết số 05/2020/NQ- HĐND ngày 17/7/2020 của HĐND tỉnh Bắc Ninh"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Số hiệu đích trong văn bản có dấu cách thừa '05/2020/NQ- HĐND'."
+ },
+ {
+  "doc_id": "670156",
+  "relations": [
+   {
+    "source_path": "Điều 11 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "19/2016/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "các quy định về lắp đặt hệ thống cáp viễn thông và hệ thống phủ sóng trong các tòa nhà nhiều tầng có nhiều chủ sử dụng",
+    "evidence": "Bãi bỏ các quy định về lắp đặt hệ thống cáp viễn thông và hệ thống phủ sóng trong các tòa nhà nhiều tầng có nhiều chủ sử dụng tại Quyết định số 19/2016/QĐ-UBND ngày 27/5/2016 của UBND thành phố Hà Nội"
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 7 Khoản 2 điểm b",
+    "loai": "gop_sai",
+    "ghi_chu": "Điểm c ('c) Sắp xếp cáp dự phòng…') bị gộp vào điểm b."
+   }
+  ],
+  "ghi_chu": "Bãi bỏ một phần QĐ 19/2016 (QĐ ban hành quy định), chỉ nêu bằng tên nội dung."
+ },
+ {
+  "doc_id": "670328",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "bai-bo",
+    "target_document": "47/2024/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "BÃI BỎ NGHỊ QUYẾT SỐ 47/2024/NQ-HĐND NGÀY 12/7/2024"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bai-bo",
+    "target_document": "116/2024/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "VÀ NGHỊ QUYẾT SỐ 116/2024/NQ-HĐND NGÀY 11/12/2024 SỬA ĐỔI, BỔ SUNG NGHỊ QUYẾT SỐ 47/2024/NQ-HĐND"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bai-bo",
+    "target_document": "47/2024/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị quyết số 47/2024/NQ-HĐND ngày 12/7/2024 của HĐND tỉnh quy định chính sách hỗ trợ cán bộ, công chức, viên chức, người lao động dôi dư do sắp xếp đơn vị hành chính cấp huyện, cấp xã trên địa bàn tỉnh Bắc Giang."
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "116/2024/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị quyết số 116/2024/NQ-HĐND ngày 11/12/2024 của HĐND tỉnh sửa đổi, bổ sung Nghị quyết số 47/2024/NQ-HĐND ngày 12/7/2024 của HĐND tỉnh quy định chính sách hỗ trợ cán bộ, công chức, viên chức, người lao động dôi dư do sắp xếp đơn vị hành chính cấp huyện, cấp xã trên địa bàn tỉnh Bắc Giang."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên văn bản và lời dẫn bãi bỏ 2 nghị quyết (Phần đầu); Điều 1 'Bãi bỏ toàn bộ các Nghị quyết sau đây' liệt kê ở khoản 1, 2."
+ },
+ {
+  "doc_id": "670330",
+  "relations": [
+   {
+    "source_path": "Điều 6 Khoản 2",
+    "action": "thay-the",
+    "target_document": "215/2022/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị quyết này thay thế Nghị quyết số 215/2022/NQ-HĐND ngày 13 tháng 4 năm 2022 của Hội đồng nhân dân tỉnh"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Lời dẫn chỉ kể Tờ trình đề nghị thay thế, không ghi Phần đầu."
+ }
+]

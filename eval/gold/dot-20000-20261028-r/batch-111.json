@@ -1,0 +1,58 @@
+[
+ {
+  "doc_id": "653952",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "749/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục IV Phần A Phụ lục I",
+     "Mục II Phần B Phụ lục I"
+    ],
+    "doi_tuong": "Danh mục TTHC lĩnh vực tài nguyên nước",
+    "evidence": "thay Danh mục TTHC lĩnh vực tài nguyên nước tại Mục IV, Phần A, Phụ lục I; Mục II, Phần B, Phụ lục I kèm theo Quyết định số 749/QĐ-UBND ngày 01/4/2025 của Chủ tịch UBND tỉnh"
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "1249/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "quy trình nội bộ giải quyết TTHC lĩnh vực tài nguyên nước",
+    "evidence": "Bãi bỏ quy trình nội bộ giải quyết TTHC lĩnh vực tài nguyên nước thuộc phạm vi chức năng quản lý nhà nước của Sở Tài nguyên và Môi trường tại Quyết định số 1249/QĐ-UBND ngày 11/7/2023 của Chủ tịch UBND tỉnh"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 1, Điều 3 không có hành động; phụ lục không có cột ghi chú tác động."
+ },
+ {
+  "doc_id": "654241",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "442/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "bãi bỏ Quyết định số 442/QĐ-UBND ngày 14/3/2022 của Chủ tịch UBND tỉnh về việc phê duyệt Quy trình nội bộ giải quyết thủ tục hành chính thuộc phạm vi, chức năng quản lý nhà nước của Sở Lao động - Thương binh và Xã hội"
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "1829/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục I Phần A Phụ lục II",
+     "Mục III Phần B Phụ lục II"
+    ],
+    "doi_tuong": "quy trình nội bộ thủ tục hành chính lĩnh vực giáo dục nghề nghiệp",
+    "evidence": "bãi bỏ 14 quy trình nội bộ thủ tục hành chính tại mục I (lĩnh vực giáo dục nghề nghiệp) phần A và 04 quy trình nội bộ thủ tục hành chính tại mục III (lĩnh vực giáo dục nghề nghiệp), phần B, phụ lục II ban hành kèm theo tại Quyết định số 1829/QĐ-UBND ngày 05/9/2022 của Chủ tịch UBND tỉnh"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 1 (phê duyệt quy trình) không có trong don_vi nhưng không có hành động."
+ }
+]

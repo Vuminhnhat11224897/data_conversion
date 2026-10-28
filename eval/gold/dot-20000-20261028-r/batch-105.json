@@ -1,0 +1,139 @@
+[
+ {
+  "doc_id": "648726",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "207/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục"
+    ],
+    "doi_tuong": null,
+    "evidence": "VỀ VIỆC SỬA ĐỔI, BỔ SUNG MỘT SỐ NỘI DUNG TẠI PHỤ LỤC BAN HÀNH KÈM THEO QUYẾT ĐỊNH SỐ 207/QĐ-UBND NGÀY 12/02/2025 CỦA CHỦ TỊCH UBND TỈNH"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "207/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục"
+    ],
+    "doi_tuong": null,
+    "evidence": "VỀ VIỆC SỬA ĐỔI, BỔ SUNG MỘT SỐ NỘI DUNG TẠI PHỤ LỤC BAN HÀNH KÈM THEO QUYẾT ĐỊNH SỐ 207/QĐ-UBND NGÀY 12/02/2025 CỦA CHỦ TỊCH UBND TỈNH"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "sua-doi",
+    "target_document": "207/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung một số nội dung tại Phụ lục ban hành kèm theo Quyết định số 207/QĐ-UBND ngày 12/02/2025 của Chủ tịch UBND tỉnh"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bo-sung",
+    "target_document": "207/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung một số nội dung tại Phụ lục ban hành kèm theo Quyết định số 207/QĐ-UBND ngày 12/02/2025 của Chủ tịch UBND tỉnh"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 2",
+    "action": "sua-doi",
+    "target_document": "207/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục II Phụ lục"
+    ],
+    "doi_tuong": null,
+    "evidence": "a) Sửa đổi tên Mục"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 3",
+    "action": "sua-doi",
+    "target_document": "207/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục III Phụ lục"
+    ],
+    "doi_tuong": null,
+    "evidence": "Tại STT 04, lĩnh vực nuôi con nuôi (thủ tục Giải quyết việc người nước ngoài thường trú ở Việt Nam nhận trẻ em Việt Nam làm con nuôi) có mã số 1.00316.000.00.00.H48; nay sửa thành mã số 1.003160.000.00.00.H48."
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 4",
+    "action": "sua-doi",
+    "target_document": "207/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục IV Phụ lục"
+    ],
+    "doi_tuong": null,
+    "evidence": "a) Sửa đổi Phí, lệ phí."
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 5",
+    "action": "sua-doi",
+    "target_document": "207/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục V Phụ lục"
+    ],
+    "doi_tuong": null,
+    "evidence": "a) Sửa đổi mã số TTHC"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 6",
+    "action": "sua-doi",
+    "target_document": "207/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục VI Phụ lục"
+    ],
+    "doi_tuong": null,
+    "evidence": "a) Sửa đổi tên Mục: DANH MỤC TTHC SỬA ĐỔI, BỔ SUNG THỰC HIỆN TẠI CƠ QUAN QUẢN LÝ HỘ TỊCH ĐIỆN TỬ CẤP TỈNH VÀ CẤP HUYỆN (02 TTHC)"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên VB và Điều 1 sửa đổi, bổ sung Phụ lục kèm QĐ 207/QĐ-UBND (công bố TTHC); Phụ lục 1 chi tiết theo Mục I–VI của Phụ lục QĐ 207. Mục 1 phụ lục chỉ có bảng với cột 'Nội dung sửa đổi, bổ sung' (không có chữ hành động riêng) nên không ghi quan hệ riêng; Mục 2–6 có chữ 'Sửa đổi…/nay sửa thành'. Điều 2 chỉ giữ nguyên hiệu lực phần còn lại."
+ },
+ {
+  "doc_id": "648857",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "971/QĐ-BNV",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này thay thế Quyết định số 971/QĐ-BNV ngày 30 tháng 12 năm 2024 của Bộ trưởng Bộ Nội vụ ban hành Kế hoạch cải cách hành chính của Bộ Nội vụ năm 2025"
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "2336/QĐ-BLĐTBXH",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này thay thế Quyết định số 971/QĐ-BNV ngày 30 tháng 12 năm 2024 của Bộ trưởng Bộ Nội vụ ban hành Kế hoạch cải cách hành chính của Bộ Nội vụ năm 2025 và Quyết định số 2336/QĐ-BLĐTBXH ngày 31 tháng 12 năm 2024 của Bộ trưởng Bộ Lao động - Thương binh và Xã hội ban hành Kế hoạch cải cách hành chính của Bộ Lao động - Thương binh và Xã hội năm 2025."
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 2",
+    "loai": "nhan_sai_dieu",
+    "ghi_chu": "Câu đầu 'Quyết định này có hiệu lực thi hành kể từ ngày ký.' bị nhận làm tên Điều 2."
+   }
+  ],
+  "ghi_chu": "Điều 2 thay thế 2 QĐ. Các mục 'xây dựng Nghị định thay thế…', 'trình… Thông tư thay thế…' trong Kế hoạch là nhiệm vụ, không phải hành động."
+ }
+]

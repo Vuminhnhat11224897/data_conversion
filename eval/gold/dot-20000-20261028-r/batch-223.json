@@ -1,0 +1,476 @@
+[
+ {
+  "doc_id": "662761",
+  "relations": [
+   {
+    "source_path": "Điều 5 Khoản 1",
+    "action": "thay-the",
+    "target_document": "43/2023/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực thi hành kể từ ngày 18 tháng 6 năm 2025 và thay thế Quyết định số 43/2023/QĐ-UBND ngày 25 tháng 12 năm 2023 của Ủy ban nhân dân tỉnh Ban hành Bảng giá tính thuế tài nguyên trên địa bàn tỉnh Bình Phước."
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 4",
+    "loai": "tach_sai",
+    "ghi_chu": "Câu đầu nội dung Điều 4 (không có tên Điều) bị nhận thành ten_dieu; noi_dung chỉ còn các đoạn sau."
+   }
+  ],
+  "ghi_chu": "Điều 5 Khoản 2 chỉ dẫn chiếu áp dụng các Thông tư, không phải tác động."
+ },
+ {
+  "doc_id": "662844",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "bai-bo",
+    "target_document": "29/2021/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "BÃI BỎ QUYẾT ĐỊNH SỐ 29/2021/QĐ-UBND NGÀY 19 THÁNG 8 NĂM 2021 CỦA ỦY BAN NHÂN DÂN TỈNH KON TUM QUY ĐỊNH TÀI SẢN CÓ GIÁ TRỊ LỚN SỬ DỤNG VÀO MỤC ĐÍCH KINH DOANH, CHO THUÊ TẠI ĐƠN VỊ SỰ NGHIỆP CÔNG LẬP THUỘC PHẠM VI QUẢN LÝ CỦA TỈNH KON TUM"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bai-bo",
+    "target_document": "29/2021/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ Quyết định số 29/2021/QĐ-UBND ngày 19 tháng 8 năm 2021 của Ủy ban nhân dân tỉnh Kon Tum"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên văn bản và lời dẫn cùng nêu bãi bỏ 29/2021/QĐ-UBND: một quan hệ Phần đầu."
+ },
+ {
+  "doc_id": "662850",
+  "relations": [
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bai-bo",
+    "target_document": "28/2012/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 28/2012/QĐ-UBND ngày 14 tháng 02 năm 2012 của Ủy ban nhân dân tỉnh Tây Ninh ban hành Điều lệ về tổ chức, hoạt động và Quy chế quản lý, sử dụng Quỹ phát triển đất tỉnh Tây Ninh."
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "03/2017/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 03/2017/QĐ-UBND ngày 16 tháng 01 năm 2017 của Ủy ban nhân dân tỉnh Tây Ninh sửa đổi, bổ sung một số điều của Điều lệ về tổ chức, hoạt động và Quy chế quản lý, sử dụng Quỹ phát triển đất tỉnh Tây Ninh"
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "loai": "thieu_noi_dung",
+    "ghi_chu": "Khoản 1 Điều 1 (Quyết định số 28/2012/QĐ-UBND) có trong toàn văn nhưng không có trong don_vi; tên Điều 1 bị gộp vào noi_dung."
+   }
+  ],
+  "ghi_chu": "Câu dẫn Điều 1: 'Bãi bỏ toàn bộ các quyết định ... sau đây:'. Tên văn bản không nêu số hiệu."
+ },
+ {
+  "doc_id": "662858",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "bai-bo",
+    "target_document": "07/2017/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "BÃI BỎ NGHỊ QUYẾT SỐ 07/2017/NQ-HĐND NGÀY 23/5/2017 CỦA HĐND TỈNH QUY ĐỊNH KHOẢNG CÁCH VÀ ĐỊA BÀN LÀM CĂN CỨ XÁC ĐỊNH HỌC SINH KHÔNG THỂ ĐI ĐẾN TRƯỜNG VÀ TRỞ VỀ NHÀ TRONG NGÀY"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bai-bo",
+    "target_document": "07/2017/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ Nghị quyết số 07/2017/NQ-HĐND ngày 23/5/2017 của Hội đồng nhân dân tỉnh"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Lời dẫn 'Xét Tờ trình ... đề nghị bãi bỏ' là đề nghị, không tính."
+ },
+ {
+  "doc_id": "662964",
+  "relations": [
+   {
+    "source_path": "Điều 8 Khoản 3 điểm a",
+    "action": "bai-bo",
+    "target_document": "273/2016/TT-BTC",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thông tư số 273/2016/TT-BTC ngày 14 tháng 11 năm 2016 của Bộ trưởng Bộ Tài chính quy định mức thu, miễn, chế độ thu, nộp, quản lý và sử dụng phí quyền hoạt động viễn thông và lệ phí cấp giấy phép kinh doanh dịch vụ viễn thông và giấy phép nghiệp vụ viễn thông."
+   },
+   {
+    "source_path": "Điều 8 Khoản 3 điểm b",
+    "action": "bai-bo",
+    "target_document": "03/2018/TT-BTC",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thông tư số 03/2018/TT-BTC ngày 12 tháng 01 năm 2018 của Bộ trưởng Bộ Tài chính sửa đổi, bổ sung một số điều của Thông tư số 273/2016/TT-BTC"
+   },
+   {
+    "source_path": "Điều 8 Khoản 3 điểm c",
+    "action": "bai-bo",
+    "target_document": "32/2022/TT-BTC",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thông tư số 32/2022/TT-BTC ngày 09 tháng 6 năm 2022 của Bộ trưởng Bộ Tài chính sửa đổi, bổ sung một số điều của Thông tư số 273/2016/TT-BTC"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Câu dẫn Khoản 3: 'Bãi bỏ các Thông tư, bao gồm:'."
+ },
+ {
+  "doc_id": "662997",
+  "relations": [
+   {
+    "source_path": "Điều 3 Khoản 1",
+    "action": "thay-the",
+    "target_document": "42/2015/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực thi hành từ ngày 07 tháng 7 năm 2025, thay thế Quyết định số 42/2015/QĐ-UBND ngày 21/8/2015 của Ủy ban nhân dân tỉnh"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": ""
+ },
+ {
+  "doc_id": "662998",
+  "relations": [
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bai-bo",
+    "target_document": "53/2003/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 53/2003/QĐ-UBND ngày 09/6/2003 về việc ban hành đề án đổi mới công tác quản lý đất đai"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "131/2003/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 131/2003/QĐ-UBND ngày 30/12/2003 về việc ban hành quy định bảo vệ, khai thác, sử dụng lưới địa chính cơ sở."
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "bai-bo",
+    "target_document": "44/2006/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 44/2006/QĐ-UBND ngày 19/9/2006 về việc ban hành chương trình hành động của UBND tỉnh"
+   },
+   {
+    "source_path": "Điều 1 Khoản 4",
+    "action": "bai-bo",
+    "target_document": "31/2012/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 31/2012/QĐ-UBND ngày 20/11/2012 về việc ban hành quy trình phối hợp luân chuyển hồ sơ"
+   },
+   {
+    "source_path": "Điều 1 Khoản 5",
+    "action": "bai-bo",
+    "target_document": "26/2013/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 26/2013/QĐ-UBND ngày 30/8/2013 về việc sửa đổi, bổ sung quy trình phối hợp luân chuyển hồ sơ"
+   },
+   {
+    "source_path": "Điều 1 Khoản 6",
+    "action": "bai-bo",
+    "target_document": "03/2018/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 03/2018/QĐ-UBND ngày 05/2/2018 ban hành Quy định về chính sách hỗ trợ sản xuất nông nghiệp"
+   },
+   {
+    "source_path": "Điều 1 Khoản 7",
+    "action": "bai-bo",
+    "target_document": "13/2016/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 13/2016/QĐ-UBND ngày 27/5/2016 ban hành Quy chế phối hợp thực hiện chức năng, nhiệm vụ, quyền hạn"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên Điều 1: 'Bãi bỏ toàn bộ các Quyết định sau đây:'. Tên văn bản không nêu số hiệu."
+ },
+ {
+  "doc_id": "663009",
+  "relations": [
+   {
+    "source_path": "Điều 6 Khoản 2",
+    "action": "thay-the",
+    "target_document": "24/2022/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị quyết này thay thế Nghị quyết số 24/2022/NQ-HĐND ngày 10 tháng 12 năm 2022 của Hội đồng nhân dân tỉnh"
+   },
+   {
+    "source_path": "Điều 6 Khoản 2",
+    "action": "thay-the",
+    "target_document": "01/2025/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị quyết số 01/2025/NQ-HĐND ngày 10 tháng 6 năm 2025 của Hội đồng nhân dân tỉnh về sửa đổi, bổ sung một số điều của Nghị quyết số 24/2022/NQ-HĐND"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Các câu 'thực hiện theo ... văn bản sửa đổi, bổ sung hoặc thay thế' là dẫn chiếu chung, không phải tác động."
+ },
+ {
+  "doc_id": "663048",
+  "relations": [
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bai-bo",
+    "target_document": "46/2014/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 46/2014/QĐ-UBND ngày 31/12/2014 của Ủy ban nhân dân tỉnh ban hành Quy định về phát triển và ứng dụng công nghệ thông tin trong hoạt động cơ quan nhà nước trên địa bàn tỉnh Đắk Lắk."
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "15/2014/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 15/2014/QĐ-UBND ngày 04/6/2014 của Ủy ban nhân dân tỉnh ban hành Quy chế tổ chức và hoạt động của Đài Truyền thanh cơ sở trên địa bàn tỉnh Đắk Lắk."
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "bai-bo",
+    "target_document": "11/2020/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 11/2020/QĐ-UBND ngày 21/4/2020 của Ủy ban nhân dân tỉnh về việc sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của Đài Truyền thanh cơ sở"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên Điều 1: 'Bãi bỏ toàn bộ các Quyết định sau đây:'."
+ },
+ {
+  "doc_id": "663170",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "bai-bo",
+    "target_document": "76/2024/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "một phần",
+    "evidence": "BÃI BỎ MỘT PHẦN QUYẾT ĐỊNH SỐ 76/2024/QĐ-UBND NGÀY 11/11/2024 CỦA UBND TỈNH"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bai-bo",
+    "target_document": "76/2024/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ Điều 3 của Quyết định số 76/2024/QĐ-UBND ngày 11/11/2024 của UBND tỉnh."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên văn bản và lời dẫn nêu bãi bỏ một phần, không nêu vị trí."
+ },
+ {
+  "doc_id": "663173",
+  "relations": [
+   {
+    "source_path": "Điều 4 Khoản 1",
+    "action": "thay-the",
+    "target_document": "23/2021/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 23/2021/QĐ-UBND ngày 28/9/2021 của Ủy ban nhân dân tỉnh về việc phân công, phân cấp thực hiện kiểm tra công tác nghiệm thu và chủ trì giải quyết sự cố công trình xây dựng trên địa bàn tỉnh Thanh Hóa."
+   },
+   {
+    "source_path": "Điều 4 Khoản 2",
+    "action": "thay-the",
+    "target_document": "59/2022/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 59/2022/QĐ-UBND ngày 19/12/2022 của Ủy ban nhân dân tỉnh về việc Sửa đổi, bổ sung khoản 1 Điều 1 Quyết định số 23/2021/QĐ- UBND"
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 4 Khoản 1",
+    "loai": "thieu_noi_dung",
+    "ghi_chu": "Khoản 1 Điều 4 (Quyết định số 23/2021/QĐ-UBND) có trong toàn văn nhưng không có trong don_vi."
+   },
+   {
+    "source_path": "Điều 4 Khoản 2",
+    "loai": "gop_sai",
+    "ghi_chu": "Đoạn 'Chánh Văn phòng UBND tỉnh ... chịu trách nhiệm thi hành' bị gộp vào noi_dung Khoản 2."
+   }
+  ],
+  "ghi_chu": "Câu dẫn Điều 4: 'Quyết định này có hiệu lực từ ngày 01/7/2025 và thay thế các Quyết định sau:'."
+ },
+ {
+  "doc_id": "663217",
+  "relations": [
+   {
+    "source_path": "Điều 4 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "3848/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "tập Định mức dự toán thu gom, vận chuyển và xử lý rác thải",
+    "evidence": "Bãi bỏ tập Định mức dự toán thu gom, vận chuyển và xử lý rác thải ban hành kèm theo Quyết định số 3848/QĐ-UBND ngày 27 tháng 12 năm 2016 của Ủy ban nhân dân tỉnh"
+   },
+   {
+    "source_path": "Điều 4 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "38/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phần I"
+    ],
+    "doi_tuong": "Đơn giá thu gom, vận chuyển, xử lý rác thải đô thị",
+    "evidence": "Phần I: Đơn giá thu gom, vận chuyển, xử lý rác thải đô thị ban hành kèm theo Quyết định số 38/QĐ-UBND ngày 05 tháng 01 năm 2017 của Ủy ban nhân dân tỉnh."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 3 chỉ dẫn chiếu áp dụng định mức kèm theo Thông tư 36/2024/TT-BTNMT, không phải tác động."
+ },
+ {
+  "doc_id": "663262",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "18/QĐ-BCĐCTMTQG",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này được ban hành thay thế Quyết định số 18/QĐ-BCĐCTMTQG ngày 27 tháng 01 năm 2022 của Ban Chỉ đạo Trung ương các chương trình mục tiêu quốc gia giai đoạn 2021-2025"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": ""
+ },
+ {
+  "doc_id": "663263",
+  "relations": [
+   {
+    "source_path": "Điều 3 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "43/2025/TT-BTC",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục I"
+    ],
+    "doi_tuong": "biểu mẫu",
+    "evidence": "Bãi bỏ biểu mẫu quy định tại Phụ lục I ban hành kèm theo Thông tư số 43/2025/TT-BTC ngày 17 tháng 6 năm 2025 của Bộ trưởng Bộ Tài chính"
+   },
+   {
+    "source_path": "Điều 3 Khoản 3 điểm a",
+    "action": "bai-bo",
+    "target_document": "01/2021/TT-BKHĐT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thông tư số 01/2021/TT-BKHĐT ngày 16 tháng 3 năm 2021 của Bộ trưởng Bộ Kế hoạch và Đầu tư hướng dẫn về đăng ký doanh nghiệp;"
+   },
+   {
+    "source_path": "Điều 3 Khoản 3 điểm b",
+    "action": "bai-bo",
+    "target_document": "02/2023/TT-BKHĐT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thông tư số 02/2023/TT-BKHĐT ngày 18 tháng 4 năm 2023 của Bộ trưởng Bộ Kế hoạch và Đầu tư sửa đổi, bổ sung một số điều của Thông tư số 01/2021/TT- BKHĐT"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Câu dẫn Khoản 3: 'Các thông tư sau hết hiệu lực kể từ ngày Thông tư này có hiệu lực thi hành:' (văn bản tự tuyên bố hết hiệu lực)."
+ },
+ {
+  "doc_id": "663335",
+  "relations": [
+   {
+    "source_path": "Điều 5 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "11/2022/TT-BYT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thông tư số 11/2022/TT-BYT ngày 01 tháng 11 năm 2022 của Bộ trưởng Bộ Y tế quy định tiêu chuẩn, hồ sơ, thủ tục bổ nhiệm, cấp thẻ, miễn nhiệm và thu hồi thẻ giám định viên pháp y và giám định viên pháp y tâm thần hết hiệu lực kể từ ngày Thông tư này có hiệu lực thi hành."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": ""
+ },
+ {
+  "doc_id": "663367",
+  "relations": [
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bai-bo",
+    "target_document": "15/2019/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị quyết số 15/2019/NQ-HĐND ngày 26 tháng 8 năm 2019 của Hội đồng nhân dân tỉnh quy định cụ thể về mức giá dịch vụ khám bệnh, chữa bệnh"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "18/2016/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị quyết số 18/2016/NQ-HĐND ngày 09 tháng 8 năm 2016 của Hội đồng nhân dân tỉnh về việc quy định mức thu tiền bảo vệ, phát triển đất trồng lúa"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "bai-bo",
+    "target_document": "02/2023/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị quyết số 02/2023/NQ-HĐND ngày 14 tháng 7 năm 2023 của Hội đồng nhân dân tỉnh quy định mức chi tổ chức thực hiện bồi thường, hỗ trợ, tái định cư"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Câu dẫn Điều 1: 'Bãi bỏ toàn bộ các Nghị quyết sau đây:'. Tên văn bản không nêu số hiệu."
+ }
+]

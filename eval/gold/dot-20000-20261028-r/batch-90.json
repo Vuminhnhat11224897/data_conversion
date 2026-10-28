@@ -1,0 +1,27 @@
+[
+ {
+  "doc_id": "671130",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "hop-nhat",
+    "target_document": "28/2023/QH15",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Luật Tài nguyên nước số 28/2023/QH15 ngày 27 tháng 11 năm 2023 của Quốc hội, có hiệu lực kể từ ngày 01 tháng 7 năm 2024, được sửa đổi, bổ sung bởi:"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "hop-nhat",
+    "target_document": "84/2025/QH15",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Luật Thanh tra số 84/2025/QH15 ngày 25 tháng 6 năm 2025 của Quốc hội, có hiệu lực kể từ ngày 01 tháng 7 năm 2025."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Văn bản hợp nhất Luật Tài nguyên nước 28/2023/QH15 với Luật Thanh tra 84/2025/QH15. Điều 84 (sửa đổi, bổ sung Luật Quy hoạch 21/2017/QH14, Luật Thủy lợi 08/2017/QH14, Luật Đầu tư 61/2020/QH14, Luật PPP 64/2020/QH14; bãi bỏ Điều 5 Luật 35/2018/QH14) và Điều 85 Khoản 2 (Luật 17/2012/QH13 hết hiệu lực) là hành động của Luật 28/2023/QH15 được chép lại; chú thích [2], [3] (bãi bỏ Điều 82; Luật Thanh tra 11/2022/QH15 hết hiệu lực) là hành động của Luật 84/2025/QH15: không ghi quan hệ cho văn bản hợp nhất. Các câu 'Chính phủ quy định chi tiết' là giao nhiệm vụ."
+ }
+]

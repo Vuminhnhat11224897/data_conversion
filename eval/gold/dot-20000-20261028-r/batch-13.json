@@ -1,0 +1,56 @@
+[
+ {
+  "doc_id": "655000",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "49/QĐ-HĐTV",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực kể từ ngày Hệ thống công nghệ thông tin của gói thầu “Thiết kế, giải pháp, cung cấp lắp đặt và chuyển giao hệ thống công nghệ thông tin - Sở Giao dịch chứng khoán thành phố Hồ Chí Minh” chính thức vận hành và thay thế Quyết định số 49/QĐ-HĐTV ngày 01 tháng 11 năm 2024 của Hội đồng thành viên Tổng Công ty Lưu ký và Bù trừ chứng khoán Việt Nam ban hành Quy chế thành viên lưu ký tại Tổng Công ty Lưu ký và Bù trừ chứng khoán Việt Nam."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quy chế kèm theo chỉ có câu chung về văn bản dẫn chiếu được sửa đổi, thay thế và thẩm quyền sửa đổi Quy chế; không phải quan hệ."
+ },
+ {
+  "doc_id": "655006",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "72/QĐ-VSDC",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực kể từ ngày ký và thay thế cho Quyết định số 72/QĐ-VSDC ngày 11/8/2023 của Tổng giám đốc Tổng công ty Lưu ký và Bù trừ chứng khoán Việt Nam về việc ban hành Hướng dẫn kết nối Cổng giao tiếp điện tử của Tổng công ty Lưu ký và Bù trừ chứng khoán Việt Nam."
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Phụ lục 1 Điều 8 Khoản 3",
+    "loai": "gop_sai",
+    "ghi_chu": "Văn bản có 2 khoản cùng số 3 trong Điều 8; khoản 3 thứ hai bị gộp vào khoản 3 thứ nhất (không ảnh hưởng quan hệ)."
+   }
+  ],
+  "ghi_chu": "Hướng dẫn kèm theo chỉ có câu chung về văn bản dẫn chiếu được sửa đổi, thay thế; không phải quan hệ."
+ },
+ {
+  "doc_id": "655196",
+  "relations": [
+   {
+    "source_path": "Mục 21",
+    "action": "thay-the",
+    "target_document": "03/CT-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "(Chỉ thị này thay thế Chỉ thị số 03/CT-UBND ngày 06/3/2025 của Chủ tịch Ủy ban nhân dân tỉnh)"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Câu thay thế nằm ở cuối văn bản, sau mục 21 (đơn vị Mục 21 chứa câu này). Các mục khác là giao nhiệm vụ."
+ }
+]

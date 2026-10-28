@@ -1,0 +1,45 @@
+[
+ {
+  "doc_id": "672487",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "hop-nhat",
+    "target_document": "25/2018/QH14",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Luật Tố cáo số 25/2018/QH14 ngày 12 tháng 6 năm 2018 của Quốc hội, có hiệu lực kể từ ngày 01 tháng 01 năm 2019, được sửa đổi, bổ sung bởi:"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "hop-nhat",
+    "target_document": "59/2020/QH14",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Luật Doanh nghiệp số 59/2020/QH14 ngày 17 tháng 6 năm 2020 của Quốc hội, có hiệu lực kể từ ngày 01 tháng 01 năm 2021;"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "hop-nhat",
+    "target_document": "81/2025/QH15",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Luật số 81/2025/QH15 ngày 24 tháng 6 năm 2025 của Quốc hội sửa đổi, bổ sung một số điều của Luật Tổ chức Tòa án nhân dân, có hiệu lực kể từ ngày 01 tháng 7 năm 2025;"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "hop-nhat",
+    "target_document": "84/2025/QH15",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Luật Thanh tra số 84/2025/QH15 ngày 25 tháng 6 năm 2025 của Quốc hội, có hiệu lực kể từ ngày 01 tháng 7 năm 2025."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Văn bản hợp nhất Luật Tố cáo: hợp nhất Luật 25/2018/QH14 với các luật sửa đổi 59/2020/QH14, 81/2025/QH15, 84/2025/QH15. Không ghi Điều 66 khoản 2 'Luật Tố cáo số 03/2011/QH13 hết hiệu lực…' vì là nội dung của Luật 25/2018/QH14 được chép lại. Chú thích [2]-[9] (thay cụm từ theo Luật 59/2020, bỏ cụm từ theo Luật 84/2025, Điều 217 Luật Doanh nghiệp…) là lịch sử sửa đổi, không phải hành động của văn bản này."
+ }
+]

@@ -1,0 +1,821 @@
+[
+ {
+  "doc_id": "659678",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công điện chỉ đạo; không có tác động trực tiếp lên văn bản khác."
+ },
+ {
+  "doc_id": "659741",
+  "relations": [
+   {
+    "source_path": "Điều 3",
+    "action": "thay-the",
+    "target_document": "617/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "các thủ tục hành chính tương ứng",
+    "evidence": "Quyết định này có hiệu lực thi hành kể từ ngày ký và thay thế các thủ tục hành chính tương ứng được công bố tại Quyết định số 617/QĐ-UBND ngày 27/5/2024 của UBND tỉnh về việc công bố Danh mục thủ tục hành chính nội bộ trong hệ thống hành chính nhà nước lĩnh vực địa chất, khoáng sản thuộc phạm vi, chức năng quản lý của Sở Nông nghiệp và Môi trường."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Thay thế các TTHC tương ứng đã công bố tại 617/QĐ-UBND (một phần văn bản), không nêu vị trí."
+ },
+ {
+  "doc_id": "659831",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "25/2024/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA QUY ĐỊNH VỀ QUẢN LÝ TỔ CHỨC BỘ MÁY VÀ CÁN BỘ, CÔNG CHỨC, VIÊN CHỨC, LAO ĐỘNG TRONG CÁC CƠ QUAN, ĐƠN VỊ THUỘC TỈNH NINH BÌNH BAN HÀNH KÈM THEO QUYẾT ĐỊNH SỐ 25/2024/QĐ-UBND NGÀY 15 THÁNG 3 NĂM 2024 CỦA ỦY BAN NHÂN DÂN TỈNH NINH BÌNH"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "25/2024/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA QUY ĐỊNH VỀ QUẢN LÝ TỔ CHỨC BỘ MÁY VÀ CÁN BỘ, CÔNG CHỨC, VIÊN CHỨC, LAO ĐỘNG TRONG CÁC CƠ QUAN, ĐƠN VỊ THUỘC TỈNH NINH BÌNH BAN HÀNH KÈM THEO QUYẾT ĐỊNH SỐ 25/2024/QĐ-UBND NGÀY 15 THÁNG 3 NĂM 2024 CỦA ỦY BAN NHÂN DÂN TỈNH NINH BÌNH"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "25/2024/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm d khoản 1 Điều 4"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi điểm d khoản 1 Điều 4 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "25/2024/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 5 Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung khoản 5 vào sau khoản 4 Điều 5 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "sua-doi",
+    "target_document": "25/2024/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm a khoản 1 Điều 6"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi điểm a khoản 1 Điều 6 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 4",
+    "action": "sua-doi",
+    "target_document": "25/2024/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 3 Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi khoản 3 Điều 7 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 5 điểm a",
+    "action": "sua-doi",
+    "target_document": "25/2024/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm a khoản 1 Điều 15"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm a khoản 1 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 5 điểm a",
+    "action": "bo-sung",
+    "target_document": "25/2024/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm a khoản 1 Điều 15"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm a khoản 1 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 5 điểm b",
+    "action": "sua-doi",
+    "target_document": "25/2024/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm a khoản 2 Điều 15"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm a khoản 2 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 5 điểm b",
+    "action": "bo-sung",
+    "target_document": "25/2024/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm a khoản 2 Điều 15"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm a khoản 2 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 5 điểm c",
+    "action": "sua-doi",
+    "target_document": "25/2024/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm b khoản 3 Điều 15"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm b khoản 3 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 5 điểm c",
+    "action": "bo-sung",
+    "target_document": "25/2024/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm b khoản 3 Điều 15"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm b khoản 3 như sau:"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Lời dẫn lặp lại hành động của tên văn bản (cùng Phần đầu, ghi một lần). Khoản 5 Điều 1 ghi theo từng điểm a, b, c."
+ },
+ {
+  "doc_id": "659888",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn giới thiệu nội dung Thông tư 31/2025/TT-BTC, 32/2025/TT-BTC; các câu thay thế, bãi bỏ là kể lại tác động của các Thông tư đó, không phải tác động của công văn."
+ },
+ {
+  "doc_id": "659913",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "41/2021/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA QUY ĐỊNH BAN HÀNH KÈM THEO QUYẾT ĐỊNH SỐ 41/2021/QĐ-UBND NGÀY 31/8/2021 QUY ĐỊNH CHI TIẾT MỘT SỐ NỘI DUNG VỀ CÔNG TÁC CẤP GIẤY PHÉP XÂY DỰNG TRÊN ĐỊA BÀN TỈNH THÁI NGUYÊN, QUYẾT ĐỊNH SỐ 26/2022/QĐ-UBND NGÀY 08/12/2022 BAN HÀNH QUY ĐỊNH TRÁCH NHIỆM QUẢN LÝ CHẤT LƯỢNG, THI CÔNG XÂY DỰNG VÀ BẢO TRÌ CÔNG TRÌNH XÂY DỰNG TRÊN ĐỊA BÀN TỈNH THÁI NGUYÊN"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "41/2021/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA QUY ĐỊNH BAN HÀNH KÈM THEO QUYẾT ĐỊNH SỐ 41/2021/QĐ-UBND NGÀY 31/8/2021 QUY ĐỊNH CHI TIẾT MỘT SỐ NỘI DUNG VỀ CÔNG TÁC CẤP GIẤY PHÉP XÂY DỰNG TRÊN ĐỊA BÀN TỈNH THÁI NGUYÊN, QUYẾT ĐỊNH SỐ 26/2022/QĐ-UBND NGÀY 08/12/2022 BAN HÀNH QUY ĐỊNH TRÁCH NHIỆM QUẢN LÝ CHẤT LƯỢNG, THI CÔNG XÂY DỰNG VÀ BẢO TRÌ CÔNG TRÌNH XÂY DỰNG TRÊN ĐỊA BÀN TỈNH THÁI NGUYÊN"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "26/2022/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA QUY ĐỊNH BAN HÀNH KÈM THEO QUYẾT ĐỊNH SỐ 41/2021/QĐ-UBND NGÀY 31/8/2021 QUY ĐỊNH CHI TIẾT MỘT SỐ NỘI DUNG VỀ CÔNG TÁC CẤP GIẤY PHÉP XÂY DỰNG TRÊN ĐỊA BÀN TỈNH THÁI NGUYÊN, QUYẾT ĐỊNH SỐ 26/2022/QĐ-UBND NGÀY 08/12/2022 BAN HÀNH QUY ĐỊNH TRÁCH NHIỆM QUẢN LÝ CHẤT LƯỢNG, THI CÔNG XÂY DỰNG VÀ BẢO TRÌ CÔNG TRÌNH XÂY DỰNG TRÊN ĐỊA BÀN TỈNH THÁI NGUYÊN"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "26/2022/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA QUY ĐỊNH BAN HÀNH KÈM THEO QUYẾT ĐỊNH SỐ 41/2021/QĐ-UBND NGÀY 31/8/2021 QUY ĐỊNH CHI TIẾT MỘT SỐ NỘI DUNG VỀ CÔNG TÁC CẤP GIẤY PHÉP XÂY DỰNG TRÊN ĐỊA BÀN TỈNH THÁI NGUYÊN, QUYẾT ĐỊNH SỐ 26/2022/QĐ-UBND NGÀY 08/12/2022 BAN HÀNH QUY ĐỊNH TRÁCH NHIỆM QUẢN LÝ CHẤT LƯỢNG, THI CÔNG XÂY DỰNG VÀ BẢO TRÌ CÔNG TRÌNH XÂY DỰNG TRÊN ĐỊA BÀN TỈNH THÁI NGUYÊN"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "41/2021/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 5 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "41/2021/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 5 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "26/2022/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 1 Điều 3",
+     "khoản 3 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1, khoản 3 Điều 3 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "26/2022/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 1 Điều 3",
+     "khoản 3 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1, khoản 3 Điều 3 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "26/2022/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 4 Điều 4",
+     "khoản 5 Điều 4"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 4, khoản 5 Điều 4 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "26/2022/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 4 Điều 4",
+     "khoản 5 Điều 4"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 4, khoản 5 Điều 4 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 3",
+    "action": "sua-doi",
+    "target_document": "26/2022/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 2 Điều 5",
+     "khoản 3 Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2, khoản 3 Điều 5 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 3",
+    "action": "bo-sung",
+    "target_document": "26/2022/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 2 Điều 5",
+     "khoản 3 Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2, khoản 3 Điều 5 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 4",
+    "action": "sua-doi",
+    "target_document": "26/2022/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 3 Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 3 Điều 7 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 4",
+    "action": "bo-sung",
+    "target_document": "26/2022/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 3 Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 3 Điều 7 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 5",
+    "action": "sua-doi",
+    "target_document": "26/2022/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 2 Điều 8",
+     "khoản 3 Điều 8"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2, khoản 3 Điều 8 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 5",
+    "action": "bo-sung",
+    "target_document": "26/2022/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 2 Điều 8",
+     "khoản 3 Điều 8"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2, khoản 3 Điều 8 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 6",
+    "action": "sua-doi",
+    "target_document": "26/2022/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 12"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 12 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 6",
+    "action": "bo-sung",
+    "target_document": "26/2022/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 12"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 12 như sau:"
+   },
+   {
+    "source_path": "Điều 3 Khoản 1",
+    "action": "bai-bo",
+    "target_document": "26/2022/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [
+     "Điều 6"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ Điều 6 Trách nhiệm của Sở Giao thông vận tải."
+   },
+   {
+    "source_path": "Điều 3 Khoản 2",
+    "action": "thay-cum-tu",
+    "target_document": "26/2022/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [
+     "Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ: “Sở Nông nghiệp và Phát triển nông thôn” tại Điều 7 bằng cụm từ “Sở Nông nghiệp và Môi trường”; “phòng có chức năng quản lý xây dựng cấp huyện” tại Điều 2, khoản 5 Điều 4, khoản 3 Điều 7, khoản 4 và khoản 5 Điều 13, điểm b khoản 5 Điều 21, điểm a khoản 3 Điều 27 và Phụ lục I bằng cụm từ “cơ quan được giao quản lý xây dựng thuộc Ủy ban nhân dân cấp huyện”."
+   },
+   {
+    "source_path": "Điều 3 Khoản 2",
+    "action": "thay-cum-tu",
+    "target_document": "26/2022/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [
+     "Điều 2",
+     "khoản 5 Điều 4",
+     "khoản 3 Điều 7",
+     "khoản 4 Điều 13",
+     "khoản 5 Điều 13",
+     "điểm b khoản 5 Điều 21",
+     "điểm a khoản 3 Điều 27",
+     "Phụ lục I"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ: “Sở Nông nghiệp và Phát triển nông thôn” tại Điều 7 bằng cụm từ “Sở Nông nghiệp và Môi trường”; “phòng có chức năng quản lý xây dựng cấp huyện” tại Điều 2, khoản 5 Điều 4, khoản 3 Điều 7, khoản 4 và khoản 5 Điều 13, điểm b khoản 5 Điều 21, điểm a khoản 3 Điều 27 và Phụ lục I bằng cụm từ “cơ quan được giao quản lý xây dựng thuộc Ủy ban nhân dân cấp huyện”."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 3 tác động lên \"Quyết định số 26/2022/QĐ-UBND\" (không nói rõ Quy định kèm theo) nên khong_ro. Khoản 2 Điều 3 có 2 cặp thay cụm từ, ghi 2 quan hệ."
+ },
+ {
+  "doc_id": "660226",
+  "relations": [
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "thay-cum-tu",
+    "target_document": "08/2022/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm b khoản 1 Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Sở Lao động - Thương binh và Xã hội” bằng cụm từ “Sở Giáo dục và Đào tạo” tại điểm b khoản 1 Điều 7."
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "thay-cum-tu",
+    "target_document": "08/2022/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm a khoản 2 Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Trung tâm Dịch vụ việc làm tỉnh” bằng cụm từ “Sở Nội vụ” tại điểm a khoản 2 Điều 7."
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "thay-cum-tu",
+    "target_document": "08/2022/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm b khoản 2 Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Sở Lao động - Thương binh và Xã hội” bằng cụm từ “Sở Nội vụ” tại điểm b khoản 2 Điều 7."
+   },
+   {
+    "source_path": "Điều 1 Khoản 4",
+    "action": "thay-cum-tu",
+    "target_document": "08/2022/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm a khoản 2 Điều 8",
+     "điểm c khoản 2 Điều 8",
+     "điểm a Điều 9",
+     "điểm c Điều 9"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Sở Lao động - Thương binh và Xã hội” bằng cụm từ “Sở Nông nghiệp và Môi trường” tại điểm a, điểm c khoản 2 Điều 8 và điểm a, điểm c Điều 9."
+   },
+   {
+    "source_path": "Điều 2 Khoản 1",
+    "action": "thay-cum-tu",
+    "target_document": "10/2024/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Sở Nông nghiệp và Phát triển nông thôn” bằng cụm từ “Sở Nông nghiệp và Môi trường” tại khoản 1 Điều 1."
+   },
+   {
+    "source_path": "Điều 2 Khoản 2",
+    "action": "thay-cum-tu",
+    "target_document": "10/2024/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Sở Lao động - Thương binh và Xã hội” bằng cụm từ “Sở Nông nghiệp và Môi trường” tại khoản 2 Điều 1."
+   },
+   {
+    "source_path": "Điều 2 Khoản 3",
+    "action": "thay-cum-tu",
+    "target_document": "10/2024/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Sở Thông tin và Truyền thông” bằng cụm từ “Sở Văn hóa, Thể thao và Du lịch” tại Điều 2."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên văn bản không nêu số hiệu đích."
+ },
+ {
+  "doc_id": "660247",
+  "relations": [
+   {
+    "source_path": "Điều 2 Khoản 1",
+    "action": "bai-bo",
+    "target_document": "324/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ Quyết định số 324/QĐ-UBND ngày 06 tháng 2 năm 2025 của Ủy ban nhân dân tỉnh phê duyệt 01 quy trình nội bộ được sửa đổi, bổ sung trong giải quyết thủ tục hành chính lĩnh vực Quản lý chất lượng nông lâm sản và thủy sản thuộc thẩm quyền giải quyết của Sở Nông nghiệp và Phát triển nông thôn tỉnh Bến Tre."
+   },
+   {
+    "source_path": "Điều 2 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "2278/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "02 quy trình nội bộ số (75, 76) lĩnh vực Quản lý chất lượng nông lâm sản và thủy sản",
+    "evidence": "Bãi bỏ 02 quy trình nội bộ số (75, 76) lĩnh vực Quản lý chất lượng nông lâm sản và thủy sản ban hành kèm theo Quyết định số 2278/QĐ-UBND ngày 17 tháng 10 năm 2019 của Ủy ban nhân dân tỉnh phê duyệt quy trình nội bộ trong giải quyết thủ tục hành chính thuộc thẩm quyền tiếp nhận và giải quyết của Sở Nông nghiệp và Phát triển nông thôn tỉnh Bến Tre."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": ""
+ },
+ {
+  "doc_id": "660257",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "997/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ Quyết định số 997/QĐ-UBND ngày 07 tháng 5 năm 2024 của Ủy ban nhân dân tỉnh về việc công bố 02 thủ tục hành chính hành chính nội bộ lĩnh vực khoáng sản thuộc phạm vi chức năng quản lý của Sở Tài nguyên và Môi trường tỉnh Bến Tre."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": ""
+ },
+ {
+  "doc_id": "660259",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "1400/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ Quyết định số 1400/QĐ-UBND ngày 21 tháng 6 năm 2024 của Ủy ban nhân dân tỉnh về việc phê duyệt danh mục 84 thủ tục hành chính thực hiện tiếp nhận, giải quyết không phụ thuộc vào địa giới hành chính trên địa bàn tỉnh Bến Tre."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": ""
+ },
+ {
+  "doc_id": "660488",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "617/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục I",
+     "Phụ lục II"
+    ],
+    "doi_tuong": null,
+    "evidence": "VỀ VIỆC SỬA ĐỔI, BỔ SUNG MỘT SỐ NỘI DUNG TẠI PHỤ LỤC I, PHỤ LỤC II BAN HÀNH KÈM THEO QUYẾT ĐỊNH SỐ 617/QĐ-UBND NGÀY 23/4/2025 CỦA CHỦ TỊCH UBND TỈNH VỀ VIỆC CÔNG BỐ CHUẨN HÓA DANH MỤC THỦ TỤC HÀNH CHÍNH VÀ PHÊ DUYỆT QUY TRÌNH NỘI BỘ GIẢI QUYẾT THỦ TỤC HÀNH CHÍNH TRONG LĨNH VỰC CHĂN NUÔI VÀ THÚ Y THUỘC THẨM QUYỀN QUẢN LÝ, GIẢI QUYẾT CỦA SỞ NÔNG NGHIỆP VÀ MÔI TRƯỜNG, UBND CẤP HUYỆN TRÊN ĐỊA BÀN TỈNH QUẢNG NGÃI"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "617/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục I",
+     "Phụ lục II"
+    ],
+    "doi_tuong": null,
+    "evidence": "VỀ VIỆC SỬA ĐỔI, BỔ SUNG MỘT SỐ NỘI DUNG TẠI PHỤ LỤC I, PHỤ LỤC II BAN HÀNH KÈM THEO QUYẾT ĐỊNH SỐ 617/QĐ-UBND NGÀY 23/4/2025 CỦA CHỦ TỊCH UBND TỈNH VỀ VIỆC CÔNG BỐ CHUẨN HÓA DANH MỤC THỦ TỤC HÀNH CHÍNH VÀ PHÊ DUYỆT QUY TRÌNH NỘI BỘ GIẢI QUYẾT THỦ TỤC HÀNH CHÍNH TRONG LĨNH VỰC CHĂN NUÔI VÀ THÚ Y THUỘC THẨM QUYỀN QUẢN LÝ, GIẢI QUYẾT CỦA SỞ NÔNG NGHIỆP VÀ MÔI TRƯỜNG, UBND CẤP HUYỆN TRÊN ĐỊA BÀN TỈNH QUẢNG NGÃI"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "sua-doi",
+    "target_document": "617/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục I",
+     "Phụ lục II"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung một số nội dung tại Phụ lục I, Phụ lục II ban hành kèm theo Quyết định số 617/QĐ-UBND ngày 23/4/2025 của Chủ tịch UBND tỉnh về việc công bố chuẩn hóa Danh mục thủ tục hành chính và phê duyệt quy trình nội bộ giải quyết thủ tục hành chính trong lĩnh vực chăn nuôi và thú y thuộc thẩm quyền quản lý, giải quyết của Sở Nông nghiệp và Môi trường, UBND cấp huyện trên địa bàn tỉnh Quảng Ngãi."
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bo-sung",
+    "target_document": "617/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục I",
+     "Phụ lục II"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung một số nội dung tại Phụ lục I, Phụ lục II ban hành kèm theo Quyết định số 617/QĐ-UBND ngày 23/4/2025 của Chủ tịch UBND tỉnh về việc công bố chuẩn hóa Danh mục thủ tục hành chính và phê duyệt quy trình nội bộ giải quyết thủ tục hành chính trong lĩnh vực chăn nuôi và thú y thuộc thẩm quyền quản lý, giải quyết của Sở Nông nghiệp và Môi trường, UBND cấp huyện trên địa bàn tỉnh Quảng Ngãi."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Phụ lục I, II của văn bản này liệt kê chi tiết nội dung sửa đổi, bổ sung (Mục I, Mục II Phụ lục I và quy trình nội bộ của 617/QĐ-UBND); tên phụ lục và đề mục chỉ là tên, đã thể hiện qua Điều 1. Điều 2 \"các nội dung khác giữ nguyên hiệu lực\" không phải quan hệ."
+ },
+ {
+  "doc_id": "660528",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "33/2019/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA QUYẾT ĐỊNH SỐ 33/2019/QĐ-UBND NGÀY 20 THÁNG 12 NĂM 2019 CỦA ỦY BAN NHÂN DÂN TỈNH SÓC TRĂNG BAN HÀNH QUY ĐỊNH BẢNG GIÁ CÁC LOẠI ĐẤT TRÊN ĐỊA BÀN TỈNH SÓC TRĂNG GIAI ĐOẠN 2020 - 2024 ĐÃ ĐƯỢC SỬA ĐỔI, BỔ SUNG TẠI QUYẾT ĐỊNH SỐ 02/2024/QĐ-UBND NGÀY 08 THÁNG 01 NĂM 2024 CỦA ỦY BAN NHÂN DÂN TỈNH SÓC TRĂNG"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "33/2019/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA QUYẾT ĐỊNH SỐ 33/2019/QĐ-UBND NGÀY 20 THÁNG 12 NĂM 2019 CỦA ỦY BAN NHÂN DÂN TỈNH SÓC TRĂNG BAN HÀNH QUY ĐỊNH BẢNG GIÁ CÁC LOẠI ĐẤT TRÊN ĐỊA BÀN TỈNH SÓC TRĂNG GIAI ĐOẠN 2020 - 2024 ĐÃ ĐƯỢC SỬA ĐỔI, BỔ SUNG TẠI QUYẾT ĐỊNH SỐ 02/2024/QĐ-UBND NGÀY 08 THÁNG 01 NĂM 2024 CỦA ỦY BAN NHÂN DÂN TỈNH SÓC TRĂNG"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "33/2019/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 1 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 Điều 1 của Quy định Bảng giá các loại đất trên địa bàn tỉnh Sóc Trăng giai đoạn 2020 - 2024 kèm theo Quyết định số 33/2019/QĐ-UBND ngày 20 tháng 12 năm 2019, như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "33/2019/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 1 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 Điều 1 của Quy định Bảng giá các loại đất trên địa bàn tỉnh Sóc Trăng giai đoạn 2020 - 2024 kèm theo Quyết định số 33/2019/QĐ-UBND ngày 20 tháng 12 năm 2019, như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "33/2019/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 2 của Quy định Bảng giá các loại đất trên địa bàn tỉnh Sóc Trăng giai đoạn 2020 - 2024 kèm theo Quyết định số 33/2019/QĐ-UBND ngày 20 tháng 12 năm 2019, như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "33/2019/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 2 của Quy định Bảng giá các loại đất trên địa bàn tỉnh Sóc Trăng giai đoạn 2020 - 2024 kèm theo Quyết định số 33/2019/QĐ-UBND ngày 20 tháng 12 năm 2019, như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "sua-doi",
+    "target_document": "33/2019/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 4 Điều 12"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung tên khoản 4 Điều 12 của Quy định Bảng giá các loại đất trên địa bàn tỉnh Sóc Trăng giai đoạn 2020 - 2024 kèm theo Quyết định số 33/2019/QĐ-UBND ngày 20 tháng 12 năm 2019, như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "bo-sung",
+    "target_document": "33/2019/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 4 Điều 12"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung tên khoản 4 Điều 12 của Quy định Bảng giá các loại đất trên địa bàn tỉnh Sóc Trăng giai đoạn 2020 - 2024 kèm theo Quyết định số 33/2019/QĐ-UBND ngày 20 tháng 12 năm 2019, như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 4",
+    "action": "sua-doi",
+    "target_document": "33/2019/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 15"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 15 của Quy định Bảng giá các loại đất trên địa bàn tỉnh Sóc Trăng giai đoạn 2020 - 2024 kèm theo Quyết định số 33/2019/QĐ-UBND ngày 20 tháng 12 năm 2019, như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 4",
+    "action": "bo-sung",
+    "target_document": "33/2019/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 15"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 15 của Quy định Bảng giá các loại đất trên địa bàn tỉnh Sóc Trăng giai đoạn 2020 - 2024 kèm theo Quyết định số 33/2019/QĐ-UBND ngày 20 tháng 12 năm 2019, như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 5",
+    "action": "sua-doi",
+    "target_document": "33/2019/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Phụ lục 1 Bảng giá đất ở trên địa bàn tỉnh Sóc Trăng ban hành kèm theo Quyết định số 33/2019/QĐ-UBND ngày 20/12/2019 và đã được sửa đổi, bổ sung tại Quyết định số 02/2024/QĐ-UBND ngày 08 tháng 01 năm 2024 của Ủy ban nhân dân tỉnh Sóc Trăng, chi tiết theo Phụ lục đính kèm."
+   },
+   {
+    "source_path": "Điều 1 Khoản 5",
+    "action": "bo-sung",
+    "target_document": "33/2019/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Phụ lục 1 Bảng giá đất ở trên địa bàn tỉnh Sóc Trăng ban hành kèm theo Quyết định số 33/2019/QĐ-UBND ngày 20/12/2019 và đã được sửa đổi, bổ sung tại Quyết định số 02/2024/QĐ-UBND ngày 08 tháng 01 năm 2024 của Ủy ban nhân dân tỉnh Sóc Trăng, chi tiết theo Phụ lục đính kèm."
+   },
+   {
+    "source_path": "Điều 1 Khoản 6",
+    "action": "sua-doi",
+    "target_document": "33/2019/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 7 Phụ lục 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 7 Phụ lục 5 ban hành kèm theo Quyết định số 33/2019/QĐ-UBND ngày 20 tháng 12 năm 2019, như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 6",
+    "action": "bo-sung",
+    "target_document": "33/2019/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 7 Phụ lục 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 7 Phụ lục 5 ban hành kèm theo Quyết định số 33/2019/QĐ-UBND ngày 20 tháng 12 năm 2019, như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 7",
+    "action": "sua-doi",
+    "target_document": "33/2019/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 2 Phụ lục 6"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 Phụ lục 6 ban hành kèm theo Quyết định số 33/2019/QĐ-UBND ngày 20 tháng 12 năm 2019 và đã được sửa đổi, bổ sung tại khoản 10 Điều 1 Quyết định số 02/2024/QĐ-UBND ngày 08 tháng 01 năm 2024, như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 7",
+    "action": "bo-sung",
+    "target_document": "33/2019/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 2 Phụ lục 6"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 Phụ lục 6 ban hành kèm theo Quyết định số 33/2019/QĐ-UBND ngày 20 tháng 12 năm 2019 và đã được sửa đổi, bổ sung tại khoản 10 Điều 1 Quyết định số 02/2024/QĐ-UBND ngày 08 tháng 01 năm 2024, như sau:"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục I",
+    "action": "bo-sung",
+    "target_document": "33/2019/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục 1"
+    ],
+    "doi_tuong": "giá đất ở một số tuyến đường và khu tái định cư mới hoàn chỉnh hạ tầng",
+    "evidence": "I. Bổ sung giá đất ở một số tuyến đường và khu tái định cư mới hoàn chỉnh hạ tầng vào Phụ lục 1 Bảng giá đất ở trên địa bàn tỉnh Sóc Trăng ban hành kèm theo Quyết định số 33/2019/QĐ-UBND ngày 20/12/2019 và đã được sửa đổi, bổ sung tại Quyết định số 02/2024/QĐ-UBND ngày 08 tháng 01 năm 2024 của Ủy ban nhân dân tỉnh Sóc Trăng, như sau:"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục II",
+    "action": "sua-doi",
+    "target_document": "33/2019/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục 1"
+    ],
+    "doi_tuong": "giá đất ở của Tuyến tránh Quốc lộ 60 trên địa bàn thành phố Sóc Trăng và huyện Châu Thành",
+    "evidence": "II. Sửa đổi, bổ sung giá đất ở của Tuyến tránh Quốc lộ 60 trên địa bàn thành phố Sóc Trăng và huyện Châu Thành vào Phụ lục 1 Bảng giá đất ở trên địa bàn tỉnh Sóc Trăng ban hành kèm theo Quyết định số 33/2019/QĐ-UBND ngày 20/12/2019 và đã được sửa đổi, bổ sung tại Quyết định số 02/2024/QĐ-UBND ngày 08 tháng 01 năm 2024 của Ủy ban nhân dân tỉnh Sóc Trăng, như sau:"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục II",
+    "action": "bo-sung",
+    "target_document": "33/2019/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục 1"
+    ],
+    "doi_tuong": "giá đất ở của Tuyến tránh Quốc lộ 60 trên địa bàn thành phố Sóc Trăng và huyện Châu Thành",
+    "evidence": "II. Sửa đổi, bổ sung giá đất ở của Tuyến tránh Quốc lộ 60 trên địa bàn thành phố Sóc Trăng và huyện Châu Thành vào Phụ lục 1 Bảng giá đất ở trên địa bàn tỉnh Sóc Trăng ban hành kèm theo Quyết định số 33/2019/QĐ-UBND ngày 20/12/2019 và đã được sửa đổi, bổ sung tại Quyết định số 02/2024/QĐ-UBND ngày 08 tháng 01 năm 2024 của Ủy ban nhân dân tỉnh Sóc Trăng, như sau:"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "02/2024/QĐ-UBND chỉ được nêu là văn bản đã sửa đổi trước (lịch sử), không phải đích. Khoản 3: sửa tên khoản 4 Điều 12. Phụ lục của văn bản viết câu hành động riêng ở Mục I, II (bổ sung, sửa đổi Phụ lục 1 của 33/2019/QĐ-UBND)."
+ }
+]

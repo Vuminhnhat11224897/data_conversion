@@ -1,0 +1,74 @@
+[
+ {
+  "doc_id": "649587",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Phê duyệt Đề án; câu 'thay thế Quyết định số 57/2024/QĐ-UBND' trong Đề án chỉ là nhiệm vụ tham mưu dự thảo, không phải tác động."
+ },
+ {
+  "doc_id": "649700",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "13/2018/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực từ ngày 06 tháng 4 năm 2025 và thay thế Quyết định số 13/2018/QĐ-UBND ngày 28 tháng 9 năm 2018 của Ủy ban nhân dân tỉnh Hậu Giang"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": ""
+ },
+ {
+  "doc_id": "649785",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "07/2022/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực kể từ ngày ký và thay thế các Quyết định số 07/2022/QĐ-UBND ngày 25 tháng 4 năm 2022"
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "49/2023/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 49/2023/QĐ-UBND ngày 20 tháng 12 năm 2023 của Ủy ban nhân dân tỉnh Nam Định về việc sửa đổi, bổ sung một số điều của Quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Sở Công Thương tỉnh Nam Định"
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "16/2025/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 16/2025/QĐ-UBND ngày 19 tháng 02 năm 2025 của Ủy ban nhân dân tỉnh Nam Định về việc sửa đổi, bổ sung Quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Sở Công Thương tỉnh Nam Định"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": ""
+ },
+ {
+  "doc_id": "650204",
+  "relations": [
+   {
+    "source_path": "Điều 3",
+    "action": "thay-the",
+    "target_document": "2025/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực thi hành kể từ ngày ký, thay thế Quyết định số 2025/QĐ-UBND ngày 18 tháng 8 năm 2008 của Ủy ban nhân dân thành phố Cần Thơ."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Số hiệu đích ghi đúng như văn bản: 'Quyết định số 2025/QĐ-UBND ngày 18 tháng 8 năm 2008'."
+ }
+]

@@ -1,0 +1,423 @@
+[
+ {
+  "doc_id": "661524",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "2140/QĐ-BTC",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực thi hành kể từ ngày ký, thay thế Quyết định số 2140/QĐ-BTC ngày 21 tháng 12 năm 2020 của Bộ Tài chính ban hành Quy chế quản lý, sử dụng chứng thư số, chữ ký số."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Ban hành Quy chế mới, thay thế QĐ 2140/QĐ-BTC."
+ },
+ {
+  "doc_id": "661552",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "bai-bo",
+    "target_document": "01/2024/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "BÃI BỎ QUYẾT ĐỊNH SỐ 01/2024/QĐ-UBND NGÀY 25/12/2024 CỦA ỦY BAN NHÂN DÂN XÃ LÝ NHƠN VỀ BAN HÀNH QUY CHẾ THỰC HIỆN DÂN CHỦ XÃ LÝ NHƠN"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bai-bo",
+    "target_document": "01/2024/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ Quyết định số 01/2024/QĐ-UBND ngày 25 tháng 12 năm 2024 của Ủy ban nhân dân xã Lý Nhơn về ban hành quy chế thực hiện dân chủ ở xã Lý Nhơn."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Bãi bỏ toàn bộ."
+ },
+ {
+  "doc_id": "661722",
+  "relations": [
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "quy-dinh-chi-tiet",
+    "target_document": "35/2024/QH15",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [
+     "khoản 5 Điều 30"
+    ],
+    "doi_tuong": null,
+    "evidence": "Được giao tại Khoản 5 Điều 30 Luật Đường bộ số 35/2024/QH15."
+   },
+   {
+    "source_path": "Điều 4 Khoản 2",
+    "action": "thay-the",
+    "target_document": "46/2017/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thay thế các Quyết định của Ủy ban nhân dân tỉnh Hòa Bình: Quyết định số 46/2017/QĐ-UBND ngày 25/12/2017 ban hành Quy định về Quản lý và bảo vệ kết cấu hạ tầng giao thông đường bộ đối với đường tỉnh, đường đô thị, đường huyện, đường xã và đường chuyên dùng trên địa bàn tỉnh Hòa Bình; Quyết định số 35/2023/QĐ-UBND ngày 23/11/2023 sửa đổi, bãi bỏ một số điều của Quy định về quản lý và bảo vệ kết cấu hạ tầng giao thông đường bộ đối với đường tỉnh, đường đô thị, đường huyện, đường xã và đường chuyên dùng trên địa bàn tỉnh Hòa Bình ban hành kèm theo Quyết định số 46/2017/QĐ-UBND ngày 25/12/2017 của Uỷ ban nhân dân tỉnh Hoà Bình."
+   },
+   {
+    "source_path": "Điều 4 Khoản 2",
+    "action": "thay-the",
+    "target_document": "35/2023/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thay thế các Quyết định của Ủy ban nhân dân tỉnh Hòa Bình: Quyết định số 46/2017/QĐ-UBND ngày 25/12/2017 ban hành Quy định về Quản lý và bảo vệ kết cấu hạ tầng giao thông đường bộ đối với đường tỉnh, đường đô thị, đường huyện, đường xã và đường chuyên dùng trên địa bàn tỉnh Hòa Bình; Quyết định số 35/2023/QĐ-UBND ngày 23/11/2023 sửa đổi, bãi bỏ một số điều của Quy định về quản lý và bảo vệ kết cấu hạ tầng giao thông đường bộ đối với đường tỉnh, đường đô thị, đường huyện, đường xã và đường chuyên dùng trên địa bàn tỉnh Hòa Bình ban hành kèm theo Quyết định số 46/2017/QĐ-UBND ngày 25/12/2017 của Uỷ ban nhân dân tỉnh Hoà Bình."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Thay thế 2 quyết định. Phạm vi điều chỉnh nêu nội dung được giao tại khoản 5 Điều 30 Luật Đường bộ (ghi quy-dinh-chi-tiet)."
+ },
+ {
+  "doc_id": "661839",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "bai-bo",
+    "target_document": "56/2023/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Ủy ban nhân dân ban hành Quyết định bãi bỏ Quyết định số 56/2023/QĐ-UBND ngày 19/12/2023 của UBND tỉnh Phú Yên về ban hành Bảng hệ số điều chỉnh giá đất trên địa bàn tỉnh Phú Yên năm 2024."
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bai-bo",
+    "target_document": "56/2023/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ Quyết định số 56/2023/QĐ-UBND ngày 19/12/2023 của UBND tỉnh Phú Yên về ban hành Bảng hệ số điều chỉnh giá đất trên địa bàn tỉnh Phú Yên năm 2024."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên và lời dẫn cùng bãi bỏ QĐ 56/2023: ghi một quan hệ Phần đầu."
+ },
+ {
+  "doc_id": "661848",
+  "relations": [
+   {
+    "source_path": "Điều 3",
+    "action": "thay-the",
+    "target_document": "618/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực kể từ ngày ký và thay thế Quyết định số 618/QĐ-UBND ngày 28/02/2025 của UBND tỉnh Quảng Bình về việc phê duyệt Kế hoạch sử dụng đất năm 2025 huyện Lệ Thủy."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 1 \"điều chỉnh Kế hoạch sử dụng đất\" không nêu số hiệu văn bản; chỉ ghi thay thế QĐ 618/QĐ-UBND."
+ },
+ {
+  "doc_id": "661933",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "bai-bo",
+    "target_document": "14/2017/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Ủy ban nhân dân ban hành Quyết định bãi bỏ Quyết định số 14/2017/QĐ-UBND ngày 10/10/2017 của Ủy ban nhân dân thành phố ban hành giá nước sạch sinh hoạt tại khu vực thuộc Công ty cổ phần xây dựng tổng hợp Tiên Lãng quản lý và đầu tư (giai đoạn 2017 -2019)."
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bai-bo",
+    "target_document": "14/2017/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ Quyết định số 14/2017/QĐ-UBND ngày 10/10/2017 của Ủy ban nhân dân thành phố ban hành giá nước sạch sinh hoạt tại khu vực thuộc Công ty Cổ phần Xây dựng tổng hợp Tiên Lãng quản lý và đầu tư (giai đoạn 2017 - 2019)."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên và lời dẫn cùng bãi bỏ: một quan hệ Phần đầu."
+ },
+ {
+  "doc_id": "662090",
+  "relations": [
+   {
+    "source_path": "Điều 1",
+    "action": "quy-dinh-chi-tiet",
+    "target_document": "10/2022/NĐ-CP",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [
+     "điểm b khoản 1 Điều 7",
+     "điểm a khoản 4 Điều 13"
+    ],
+    "doi_tuong": null,
+    "evidence": "Quyết định này quy định chi tiết điểm b khoản 1 Điều 7, điểm a khoản 4 Điều 13 Nghị định số 10/2022/NĐ-CP; điểm b khoản 1 Điều 3 Thông tư số 13/2022/TT-BTC về giá tính lệ phí trước bạ đối với nhà xây dựng mới và tỷ lệ (%) chất lượng còn lại của nhà chịu lệ phí trước bạ trên địa bàn tỉnh Phú Yên."
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "quy-dinh-chi-tiet",
+    "target_document": "13/2022/TT-BTC",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [
+     "điểm b khoản 1 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Quyết định này quy định chi tiết điểm b khoản 1 Điều 7, điểm a khoản 4 Điều 13 Nghị định số 10/2022/NĐ-CP; điểm b khoản 1 Điều 3 Thông tư số 13/2022/TT-BTC về giá tính lệ phí trước bạ đối với nhà xây dựng mới và tỷ lệ (%) chất lượng còn lại của nhà chịu lệ phí trước bạ trên địa bàn tỉnh Phú Yên."
+   },
+   {
+    "source_path": "Điều 6 Khoản 1",
+    "action": "thay-the",
+    "target_document": "17/2020/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực từ ngày 30 tháng 6 năm 2025, thay thế Quyết định số 17/2020/QĐ-UBND ngày 29 tháng 7 năm 2020 của UBND tỉnh ban hành giá tính lệ phí trước bạ đối với nhà trên địa bàn tỉnh Phú Yên."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 3, khoản 4 Điều 5 chỉ dẫn chiếu QĐ 66/2024/QĐ-UBND, không tác động."
+ },
+ {
+  "doc_id": "662112",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "24/2023/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực thi hành từ ngày 01 tháng 6 năm 2025 và thay thế Quyết định số 24/2023/QĐ-UBND ngày 12 tháng 6 năm 2023 của Ủy ban nhân dân tỉnh ban hành Quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Cảng vụ Đường thủy nội địa tỉnh An Giang trực thuộc Sở Giao thông vận tải tỉnh An Giang."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": ""
+ },
+ {
+  "doc_id": "662172",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "32/2023/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực thi hành từ ngày 26 tháng 5 năm 2025 và thay thế Quyết định số 32/2023/QĐ-UBND ngày 13 tháng 7 năm 2023 của Ủy ban nhân dân tỉnh Thừa Thiên Huế ban hành Quy chế phối hợp xây dựng, duy trì hệ thống thông tin, chia sẻ, cung cấp thông tin, dữ liệu về nhà ở và thị trường bất động sản trên địa bàn tỉnh Thừa Thiên Huế."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": ""
+ },
+ {
+  "doc_id": "662194",
+  "relations": [
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bai-bo",
+    "target_document": "18/2015/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ các nghị quyết sau đây:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "06/2021/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ các nghị quyết sau đây:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "bai-bo",
+    "target_document": "17/2021/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ các nghị quyết sau đây:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 4",
+    "action": "bai-bo",
+    "target_document": "02/2023/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ các nghị quyết sau đây:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 5",
+    "action": "bai-bo",
+    "target_document": "05/2024/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ các nghị quyết sau đây:"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên văn bản không nêu số hiệu nên không ghi Phần đầu."
+ },
+ {
+  "doc_id": "662196",
+  "relations": [
+   {
+    "source_path": "Điều 3 Khoản 4",
+    "action": "thay-the",
+    "target_document": "24/2021/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị quyết này thay thế Nghị quyết số 24/2021/NQ-HĐND ngày 08 tháng 12 năm 2021 của Hội đồng nhân dân tỉnh quy định khoản thu, mức thu và cơ chế quản lý thu chi các dịch vụ phục vụ, hỗ trợ hoạt động giáo dục, đào tạo của cơ sở giáo dục công lập trên địa bàn tỉnh Bến Tre."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Khoản 3 Điều 3 là câu chung về văn bản dẫn chiếu, không phải quan hệ."
+ },
+ {
+  "doc_id": "662198",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "bai-bo",
+    "target_document": "27/2023/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Hội đồng nhân dân ban hành Nghị quyết bãi bỏ Nghị quyết số 27/2023/NQ-HĐND ngày 07 tháng 12 năm 2023 của Hội đồng nhân dân tỉnh quy định một số mức chi tổ chức thực hiện bồi thường, hỗ trợ, tái định cư và cưỡng chế kiếm đếm, cưỡng chế thu hồi đất trên địa bàn tỉnh Bến Tre."
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bai-bo",
+    "target_document": "27/2023/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ Nghị quyết số 27/2023/NQ-HĐND ngày 07 tháng 12 năm 2023 của Hội đồng nhân dân tỉnh quy định một số mức chi tổ chức thực hiện bồi thường, hỗ trợ, tái định cư và cưỡng chế kiểm đếm, cưỡng chế thu hồi đất trên địa bàn tỉnh Bến Tre."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 2 chuyển tiếp chỉ dẫn chiếu."
+ },
+ {
+  "doc_id": "662226",
+  "relations": [
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bai-bo",
+    "target_document": "82/2021/TT-BTC",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ các Thông tư sau đây:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "121/2021/TT-BTC",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ các Thông tư sau đây:"
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "38/2015/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 9 Điều 29"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ nội dung “Việc kiểm tra thực tế hàng hóa theo quy định tại khoản này chỉ áp dụng đối với hàng xá, hàng rời và hàng hóa nhập khẩu phục vụ gia công, sản xuất xuất khẩu, hàng hóa nhập khẩu của doanh nghiệp chế xuất, cụ thể như sau:” tại khoản 9 Điều 29 Thông tư số 38/2015/TT-BTC ngày 25 tháng 3 năm 2015 của Bộ trưởng Bộ Tài chính quy định về thủ tục hải quan; kiểm tra, giám sát hải quan; thuế xuất khẩu, thuế nhập khẩu và quản lý thuế đối với hàng hoá xuất khẩu, nhập khẩu được sửa đổi, bổ sung tại khoản 18 Điều 1 Thông tư 39/2018/TTBTC ngày 20 tháng 4 năm 2018 của Bộ trưởng Bộ Tài chính."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 2 bãi bỏ một câu tại khoản 9 Điều 29 TT 38/2015 (nội dung do khoản 18 Điều 1 TT 39/2018 sửa đổi); đích ghi TT 38/2015."
+ },
+ {
+  "doc_id": "662258",
+  "relations": [
+   {
+    "source_path": "Điều 2 Khoản 2 điểm a",
+    "action": "thay-the",
+    "target_document": "1531/QĐ-BNN-PC",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này thay thế các Quyết định sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 2 điểm b",
+    "action": "thay-the",
+    "target_document": "01/QĐ-HĐPH",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này thay thế các Quyết định sau:"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": ""
+ },
+ {
+  "doc_id": "662390",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "bai-bo",
+    "target_document": "21/2020/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Hội đồng nhân dân tỉnh ban hành Nghị quyết bãi bỏ Nghị quyết số 21/2020/NQ-HĐND ngày 13 tháng 7 năm 2020 của Hội đồng nhân dân tỉnh Kon Tum về phân cấp thẩm quyền quyết định việc khai thác và xử lý tài sản kết cấu hạ tầng thủy lợi thuộc phạm vi quản lý của tỉnh Kon Tum."
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bai-bo",
+    "target_document": "21/2020/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ Nghị quyết số 21/2020/NQ-HĐND ngày 13 tháng 7 năm 2020 của Hội đồng nhân dân tỉnh Kon Tum về phân cấp thẩm quyền quyết định việc khai thác và xử lý tài sản kết cấu hạ tầng thủy lợi thuộc phạm vi quản lý của tỉnh Kon Tum."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên và lời dẫn: một quan hệ Phần đầu."
+ },
+ {
+  "doc_id": "662392",
+  "relations": [
+   {
+    "source_path": "Điều 2 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "25/2016/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 25/2016/QĐ-UBND ngày 05 tháng 10 năm 2016 của Uỷ ban nhân dân tỉnh Sơn La ban hành quy định sử dụng phạm vi bảo vệ kết cấu hạ tầng giao thông đường bộ địa phương tỉnh Sơn La hết hiệu lực thi hành kể từ ngày Quyết định này có hiệu lực thi hành."
+   },
+   {
+    "source_path": "Phụ lục 1 Điều 1",
+    "action": "quy-dinh-chi-tiet",
+    "target_document": "35/2024/QH15",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [
+     "điểm b khoản 4 Điều 8",
+     "khoản 5 Điều 30"
+    ],
+    "doi_tuong": null,
+    "evidence": "Quy định này quy định việc quản lý đường đô thị, đường xã, đường thôn; trình tự, thủ tục chấp thuận thiết kế và cấp phép thi công nút giao đối với đường địa phương đang khai thác trên địa bàn tỉnh Sơn La theo quy định tại điểm b khoản 4 Điều 8 và khoản 5 Điều 30 Luật Đường bộ số 35/2024/QH15."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Khoản 2 Điều 2 tự tuyên bố QĐ 25/2016 hết hiệu lực (bai-bo). Phạm vi điều chỉnh của Quy định nêu điểm b khoản 4 Điều 8 và khoản 5 Điều 30 Luật Đường bộ (ghi quy-dinh-chi-tiet)."
+ }
+]

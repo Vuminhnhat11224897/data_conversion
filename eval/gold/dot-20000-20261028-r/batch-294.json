@@ -1,0 +1,80 @@
+[
+ {
+  "doc_id": "675909",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Kế hoạch giao nhiệm vụ; không có tác động lên văn bản khác."
+ },
+ {
+  "doc_id": "676257",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Kế hoạch thực hiện Kết luận 149-KL/TW; chỉ có nhiệm vụ, không có tác động trực tiếp."
+ },
+ {
+  "doc_id": "676258",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công điện giao nhiệm vụ hoàn thiện, sửa đổi văn bản; là nhiệm vụ, không phải quan hệ."
+ },
+ {
+  "doc_id": "676461",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn hướng dẫn tổ chức làm thêm giờ; câu dẫn và trích yếu không nêu số hiệu văn bản được hướng dẫn (NĐ 145/2020/NĐ-CP, BLLĐ chỉ ở phần căn cứ) nên không ghi quan hệ."
+ },
+ {
+  "doc_id": "676544",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Nghị quyết dự kiến kế hoạch đầu tư công; không có tác động lên văn bản khác."
+ },
+ {
+  "doc_id": "676628",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn trả lời cử tri; chỉ kể lại lịch sử sửa đổi văn bản."
+ },
+ {
+  "doc_id": "676675",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quyết định ban hành kế hoạch thi đua; các văn bản nêu là căn cứ hoặc để thực hiện."
+ },
+ {
+  "doc_id": "676690",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn đề nghị địa phương thực hiện; không có tác động trực tiếp."
+ },
+ {
+  "doc_id": "676999",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 2 điều chỉnh kế hoạch đầu tư công nhưng không nêu văn bản đích; các NQ, QĐ ở cột bảng là văn bản giao kế hoạch hoặc quyết định đầu tư, không phải đích. Không ghi quan hệ."
+ },
+ {
+  "doc_id": "677217",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Danh mục dự án thu hồi đất; các QĐ, TB ở bảng là căn cứ pháp lý của dự án. Không có quan hệ."
+ },
+ {
+  "doc_id": "677324",
+  "relations": [
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "quy-dinh-chi-tiet",
+    "target_document": "47/2024/QH15",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 48"
+    ],
+    "doi_tuong": null,
+    "evidence": "Quyết định này quy định chi tiết khoản 3 Điều 48 Luật Quy hoạch đô thị và nông thôn số 47/2024/QH15 về trình tự, thủ tục lập, thẩm định, phê duyệt, công bố điều chỉnh cục bộ quy hoạch đối với quy hoạch đô thị và nông thôn thuộc thẩm quyền phê duyệt của Ủy ban nhân dân cấp tỉnh (viết tắt là UBND cấp tỉnh) do Ủy ban nhân dân xã, phường (viết tắt là UBND cấp xã) lập trên địa bàn tỉnh Lạng Sơn."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quy định chi tiết khoản 3 Điều 48 Luật Quy hoạch đô thị và nông thôn số 47/2024/QH15."
+ }
+]

@@ -1,0 +1,40 @@
+[
+ {
+  "doc_id": "671952",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "hop-nhat",
+    "target_document": "21/2008/QH12",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Văn bản hợp nhất 81/VBHN-VPQH năm 2025 hợp nhất Luật Công nghệ cao"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Văn bản hợp nhất: chỉ ghi quan hệ hợp nhất Luật Công nghệ cao (số hiệu 21/2008/QH12 nêu ở phần đầu). Phần đầu liệt kê 4 luật sửa đổi (32/2013/QH13, 67/2014/QH13, 71/2025/QH15, 93/2025/QH15) được hợp nhất nhưng tên văn bản chỉ nêu Luật Công nghệ cao. Các chú thích [1]-[13] trích điều khoản hiệu lực, bãi bỏ của luật khác: là trích dẫn, không ghi."
+ },
+ {
+  "doc_id": "672380",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "hop-nhat",
+    "target_document": "97/2015/QH13",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Văn bản hợp nhất 130/VBHN-VPQH năm 2025 hợp nhất Luật Phí và lệ phí"
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 23 Khoản 2 điểm d",
+    "loai": "gop_sai",
+    "ghi_chu": "Văn bản gốc có hai điểm \"d)\"; điểm thứ hai (bãi bỏ Điều 25 và khoản 3 Điều 15 Luật Kiểm toán độc lập 67/2011/QH12) bị gộp vào điểm d."
+   }
+  ],
+  "ghi_chu": "Văn bản hợp nhất: chỉ ghi quan hệ hợp nhất Luật Phí và lệ phí 97/2015/QH13 (14 luật sửa đổi liệt kê ở phần đầu không nêu trong tên). Điều 23 khoản 2, 3 (bãi bỏ quy định của Luật 23/2004/QH11, 35/2005/QH11, 38/2005/QH11, 08/2012/QH13, 74/2014/QH13, 25/2008/QH12, 67/2011/QH12, NQ 200/NQ-TVQH; Pháp lệnh 38/2001/PL-UBTVQH10, 10/2009/PL-UBTVQH12 hết hiệu lực) là hành động của Luật 97/2015/QH13 được chép lại trong văn bản hợp nhất, không phải tác động của văn bản hợp nhất: không ghi."
+ }
+]

@@ -1,0 +1,2204 @@
+[
+ {
+  "doc_id": "666453",
+  "relations": [
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "01/2021/TTLT-TANDTC-VKSNDTC-BCA-BQP",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thông tư liên tịch này sửa đổi, bổ sung một số điều của một số Thông tư liên tịch sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "01/2021/TTLT-TANDTC-VKSNDTC-BCA-BQP",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thông tư liên tịch này sửa đổi, bổ sung một số điều của một số Thông tư liên tịch sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "02/2021/TTLT-TANDTC-VKSNDTC-BCA-BQP",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thông tư liên tịch này sửa đổi, bổ sung một số điều của một số Thông tư liên tịch sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "02/2021/TTLT-TANDTC-VKSNDTC-BCA-BQP",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thông tư liên tịch này sửa đổi, bổ sung một số điều của một số Thông tư liên tịch sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "sua-doi",
+    "target_document": "03/2021/TTLT-TANDTC-VKSNDTC-BCA-BQP",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thông tư liên tịch này sửa đổi, bổ sung một số điều của một số Thông tư liên tịch sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "bo-sung",
+    "target_document": "03/2021/TTLT-TANDTC-VKSNDTC-BCA-BQP",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thông tư liên tịch này sửa đổi, bổ sung một số điều của một số Thông tư liên tịch sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 4",
+    "action": "sua-doi",
+    "target_document": "04/2021/TTLT-TANDTC-VKSNDTC-BCA-BQP",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thông tư liên tịch này sửa đổi, bổ sung một số điều của một số Thông tư liên tịch sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 4",
+    "action": "bo-sung",
+    "target_document": "04/2021/TTLT-TANDTC-VKSNDTC-BCA-BQP",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thông tư liên tịch này sửa đổi, bổ sung một số điều của một số Thông tư liên tịch sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "01/2021/TTLT-TANDTC-VKSNDTC-BCA-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 2 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "01/2021/TTLT-TANDTC-VKSNDTC-BCA-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 2 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 2 điểm a",
+    "action": "sua-doi",
+    "target_document": "01/2021/TTLT-TANDTC-VKSNDTC-BCA-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm d khoản 1 Điều 6"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm d như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 2 điểm a",
+    "action": "bo-sung",
+    "target_document": "01/2021/TTLT-TANDTC-VKSNDTC-BCA-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm d khoản 1 Điều 6"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm d như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 2 điểm b",
+    "action": "sua-doi",
+    "target_document": "01/2021/TTLT-TANDTC-VKSNDTC-BCA-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm e khoản 1 Điều 6"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm e như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 2 điểm b",
+    "action": "bo-sung",
+    "target_document": "01/2021/TTLT-TANDTC-VKSNDTC-BCA-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm e khoản 1 Điều 6"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm e như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 3 điểm a",
+    "action": "sua-doi",
+    "target_document": "01/2021/TTLT-TANDTC-VKSNDTC-BCA-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 3 điểm a",
+    "action": "bo-sung",
+    "target_document": "01/2021/TTLT-TANDTC-VKSNDTC-BCA-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 3 điểm b",
+    "action": "sua-doi",
+    "target_document": "01/2021/TTLT-TANDTC-VKSNDTC-BCA-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm i khoản 4 Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm i khoản 4 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 3 điểm b",
+    "action": "bo-sung",
+    "target_document": "01/2021/TTLT-TANDTC-VKSNDTC-BCA-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm i khoản 4 Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm i khoản 4 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 3 điểm c",
+    "action": "sua-doi",
+    "target_document": "01/2021/TTLT-TANDTC-VKSNDTC-BCA-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 7 Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 7 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 3 điểm c",
+    "action": "bo-sung",
+    "target_document": "01/2021/TTLT-TANDTC-VKSNDTC-BCA-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 7 Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 7 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 4",
+    "action": "sua-doi",
+    "target_document": "01/2021/TTLT-TANDTC-VKSNDTC-BCA-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 13"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 Điều 13 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 4",
+    "action": "bo-sung",
+    "target_document": "01/2021/TTLT-TANDTC-VKSNDTC-BCA-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 13"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 Điều 13 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 5",
+    "action": "thay-cum-tu",
+    "target_document": "01/2021/TTLT-TANDTC-VKSNDTC-BCA-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm c khoản 1 Điều 5",
+     "điểm a khoản 2 Điều 8",
+     "điểm b khoản 2 Điều 8",
+     "điểm c khoản 2 Điều 8",
+     "điểm đ khoản 2 Điều 8",
+     "Điều 9"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “cơ quan thi hành án hình sự Công an cấp huyện” bằng cụm từ “cơ quan thi hành án hình sự Công an cấp tỉnh” tại điểm c khoản 1 Điều 5, các điểm a, b, c và đ khoản 2 Điều 8 và Điều 9."
+   },
+   {
+    "source_path": "Điều 2 Khoản 6 điểm a",
+    "action": "thay-the",
+    "target_document": "01/2021/TTLT-TANDTC-VKSNDTC-BCA-BQP",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "mẫu số 01-THAHS",
+    "evidence": "Thay thế mẫu số 01-THAHS ban hành kèm theo Thông tư liên tịch số 01/2021/TTLT-TANDTC-VKSNDTC-BCA-BQP bằng mẫu số 01-THAHS ban hành kèm theo Phụ lục I Thông tư liên tịch này"
+   },
+   {
+    "source_path": "Điều 2 Khoản 6 điểm b",
+    "action": "thay-the",
+    "target_document": "01/2021/TTLT-TANDTC-VKSNDTC-BCA-BQP",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "mẫu số 02-THAHS",
+    "evidence": "Thay thế mẫu số 02-THAHS ban hành kèm theo Thông tư liên tịch số 01/2021/TTLT-TANDTC-VKSNDTC-BCA-BQP bằng mẫu số 02-THAHS ban hành kèm theo Phụ lục I Thông tư liên tịch này"
+   },
+   {
+    "source_path": "Điều 2 Khoản 6 điểm c",
+    "action": "thay-the",
+    "target_document": "01/2021/TTLT-TANDTC-VKSNDTC-BCA-BQP",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "mẫu số 03-THAHS",
+    "evidence": "Thay thế mẫu số 03-THAHS ban hành kèm theo Thông tư liên tịch số 01/2021/TTLT-TANDTC-VKSNDTC-BCA-BQP bằng mẫu số 03-THAHS ban hành kèm theo Phụ lục I Thông tư liên tịch này"
+   },
+   {
+    "source_path": "Điều 2 Khoản 6 điểm d",
+    "action": "thay-the",
+    "target_document": "01/2021/TTLT-TANDTC-VKSNDTC-BCA-BQP",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "mẫu số 04-THAHS",
+    "evidence": "Thay thế mẫu số 04-THAHS ban hành kèm theo Thông tư liên tịch số 01/2021/TTLT-TANDTC-VKSNDTC-BCA-BQP bằng mẫu số 04-THAHS ban hành kèm theo Phụ lục I Thông tư liên tịch này"
+   },
+   {
+    "source_path": "Điều 2 Khoản 6 điểm đ",
+    "action": "thay-the",
+    "target_document": "01/2021/TTLT-TANDTC-VKSNDTC-BCA-BQP",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "mẫu số 05-THAHS",
+    "evidence": "Thay thế mẫu số 05-THAHS ban hành kèm theo Thông tư liên tịch số 01/2021/TTLT-TANDTC-VKSNDTC-BCA-BQP bằng mẫu số 05-THAHS ban hành kèm theo Phụ lục I Thông tư liên tịch này"
+   },
+   {
+    "source_path": "Điều 2 Khoản 6 điểm e",
+    "action": "thay-the",
+    "target_document": "01/2021/TTLT-TANDTC-VKSNDTC-BCA-BQP",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "mẫu số 06-THAHS",
+    "evidence": "Thay thế mẫu số 06-THAHS ban hành kèm theo Thông tư liên tịch số 01/2021/TTLT-TANDTC-VKSNDTC-BCA-BQP bằng mẫu số 06-THAHS ban hành kèm theo Phụ lục I Thông tư liên tịch này"
+   },
+   {
+    "source_path": "Điều 3 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "02/2021/TTLT-TANDTC-VKSNDTC-BCA-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 2 như sau:"
+   },
+   {
+    "source_path": "Điều 3 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "02/2021/TTLT-TANDTC-VKSNDTC-BCA-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 2 như sau:"
+   },
+   {
+    "source_path": "Điều 3 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "02/2021/TTLT-TANDTC-VKSNDTC-BCA-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm đ khoản 1 Điều 5",
+     "điểm e khoản 1 Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm đ và điểm e khoản 1 Điều 5 như sau:"
+   },
+   {
+    "source_path": "Điều 3 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "02/2021/TTLT-TANDTC-VKSNDTC-BCA-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm đ khoản 1 Điều 5",
+     "điểm e khoản 1 Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm đ và điểm e khoản 1 Điều 5 như sau:"
+   },
+   {
+    "source_path": "Điều 3 Khoản 3 điểm a",
+    "action": "sua-doi",
+    "target_document": "02/2021/TTLT-TANDTC-VKSNDTC-BCA-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 8"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 3 như sau:"
+   },
+   {
+    "source_path": "Điều 3 Khoản 3 điểm a",
+    "action": "bo-sung",
+    "target_document": "02/2021/TTLT-TANDTC-VKSNDTC-BCA-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 8"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 3 như sau:"
+   },
+   {
+    "source_path": "Điều 3 Khoản 3 điểm b",
+    "action": "sua-doi",
+    "target_document": "02/2021/TTLT-TANDTC-VKSNDTC-BCA-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 5 Điều 8",
+     "khoản 6 Điều 8"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 5 và khoản 6 như sau:"
+   },
+   {
+    "source_path": "Điều 3 Khoản 3 điểm b",
+    "action": "bo-sung",
+    "target_document": "02/2021/TTLT-TANDTC-VKSNDTC-BCA-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 5 Điều 8",
+     "khoản 6 Điều 8"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 5 và khoản 6 như sau:"
+   },
+   {
+    "source_path": "Điều 3 Khoản 4 điểm a",
+    "action": "sua-doi",
+    "target_document": "02/2021/TTLT-TANDTC-VKSNDTC-BCA-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm i khoản 4 Điều 9"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm i khoản 4 như sau:"
+   },
+   {
+    "source_path": "Điều 3 Khoản 4 điểm a",
+    "action": "bo-sung",
+    "target_document": "02/2021/TTLT-TANDTC-VKSNDTC-BCA-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm i khoản 4 Điều 9"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm i khoản 4 như sau:"
+   },
+   {
+    "source_path": "Điều 3 Khoản 4 điểm b",
+    "action": "sua-doi",
+    "target_document": "02/2021/TTLT-TANDTC-VKSNDTC-BCA-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 7 Điều 9"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 7 như sau:"
+   },
+   {
+    "source_path": "Điều 3 Khoản 4 điểm b",
+    "action": "bo-sung",
+    "target_document": "02/2021/TTLT-TANDTC-VKSNDTC-BCA-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 7 Điều 9"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 7 như sau:"
+   },
+   {
+    "source_path": "Điều 3 Khoản 5",
+    "action": "sua-doi",
+    "target_document": "02/2021/TTLT-TANDTC-VKSNDTC-BCA-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 10"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 10 như sau:"
+   },
+   {
+    "source_path": "Điều 3 Khoản 5",
+    "action": "bo-sung",
+    "target_document": "02/2021/TTLT-TANDTC-VKSNDTC-BCA-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 10"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 10 như sau:"
+   },
+   {
+    "source_path": "Điều 3 Khoản 6",
+    "action": "sua-doi",
+    "target_document": "02/2021/TTLT-TANDTC-VKSNDTC-BCA-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 13"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 13 như sau:"
+   },
+   {
+    "source_path": "Điều 3 Khoản 6",
+    "action": "bo-sung",
+    "target_document": "02/2021/TTLT-TANDTC-VKSNDTC-BCA-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 13"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 13 như sau:"
+   },
+   {
+    "source_path": "Điều 3 Khoản 7",
+    "action": "sua-doi",
+    "target_document": "02/2021/TTLT-TANDTC-VKSNDTC-BCA-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 15"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 Điều 15 như sau:"
+   },
+   {
+    "source_path": "Điều 3 Khoản 7",
+    "action": "bo-sung",
+    "target_document": "02/2021/TTLT-TANDTC-VKSNDTC-BCA-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 15"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 Điều 15 như sau:"
+   },
+   {
+    "source_path": "Điều 3 Khoản 8",
+    "action": "sua-doi",
+    "target_document": "02/2021/TTLT-TANDTC-VKSNDTC-BCA-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 18"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 3 Điều 18 như sau;"
+   },
+   {
+    "source_path": "Điều 3 Khoản 8",
+    "action": "bo-sung",
+    "target_document": "02/2021/TTLT-TANDTC-VKSNDTC-BCA-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 18"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 3 Điều 18 như sau;"
+   },
+   {
+    "source_path": "Điều 3 Khoản 9",
+    "action": "sua-doi",
+    "target_document": "02/2021/TTLT-TANDTC-VKSNDTC-BCA-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 20"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 Điều 20 như sau:"
+   },
+   {
+    "source_path": "Điều 3 Khoản 9",
+    "action": "bo-sung",
+    "target_document": "02/2021/TTLT-TANDTC-VKSNDTC-BCA-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 20"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 Điều 20 như sau:"
+   },
+   {
+    "source_path": "Điều 3 Khoản 10",
+    "action": "thay-cum-tu",
+    "target_document": "02/2021/TTLT-TANDTC-VKSNDTC-BCA-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm d khoản 3 Điều 11",
+     "khoản 4 Điều 11",
+     "khoản 5 Điều 11"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “cơ quan thi hành án hình sự Công an cấp huyện” bằng cụm từ “cơ quan thi hành án hình sự Công an cấp tỉnh” tại điểm d khoản 3, khoản 4 và 5 Điều 11."
+   },
+   {
+    "source_path": "Điều 3 Khoản 11 điểm a",
+    "action": "thay-the",
+    "target_document": "02/2021/TTLT-TANDTC-VKSNDTC-BCA-BQP",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "mẫu số 01-THAHS",
+    "evidence": "Thay thế mẫu số 01-THAHS ban hành kèm theo Thông tư liên tịch số 02/2021/TTLT-TANDTC-VKSNDTC-BCA-BQP bằng mẫu số 01-THAHS ban hành kèm theo Phụ lục II Thông tư liên tịch này"
+   },
+   {
+    "source_path": "Điều 3 Khoản 11 điểm b",
+    "action": "thay-the",
+    "target_document": "02/2021/TTLT-TANDTC-VKSNDTC-BCA-BQP",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "mẫu số 02-THAHS",
+    "evidence": "Thay thế mẫu số 02-THAHS ban hành kèm theo Thông tư liên tịch số 02/2021/TTLT-TANDTC-VKSNDTC-BCA-BQP bằng mẫu số 02-THAHS ban hành kèm theo Phụ lục II Thông tư liên tịch này"
+   },
+   {
+    "source_path": "Điều 3 Khoản 11 điểm c",
+    "action": "thay-the",
+    "target_document": "02/2021/TTLT-TANDTC-VKSNDTC-BCA-BQP",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "mẫu số 03-THAHS",
+    "evidence": "Thay thế mẫu số 03-THAHS ban hành kèm theo Thông tư liên tịch số 02/2021/TTLT-TANDTC-VKSNDTC-BCA-BQP bằng mẫu số 03-THAHS ban hành kèm theo Phụ lục II Thông tư liên tịch này"
+   },
+   {
+    "source_path": "Điều 3 Khoản 11 điểm d",
+    "action": "thay-the",
+    "target_document": "02/2021/TTLT-TANDTC-VKSNDTC-BCA-BQP",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "mẫu số 04-THAHS",
+    "evidence": "Thay thế mẫu số 04-THAHS ban hành kèm theo Thông tư liên tịch số 02/2021/TTLT-TANDTC-VKSNDTC-BCA-BQP bằng mẫu số 04-THAHS ban hành kèm theo Phụ lục II Thông tư liên tịch này"
+   },
+   {
+    "source_path": "Điều 3 Khoản 11 điểm đ",
+    "action": "thay-the",
+    "target_document": "02/2021/TTLT-TANDTC-VKSNDTC-BCA-BQP",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "mẫu số 05-THAHS",
+    "evidence": "Thay thế mẫu số 05-THAHS ban hành kèm theo Thông tư liên tịch số 02/2021/TTLT-TANDTC-VKSNDTC-BCA-BQP bằng mẫu số 05-THAHS ban hành kèm theo Phụ lục II Thông tư liên tịch này"
+   },
+   {
+    "source_path": "Điều 3 Khoản 12 điểm a",
+    "action": "bai-bo",
+    "target_document": "02/2021/TTLT-TANDTC-VKSNDTC-BCA-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 7"
+    ],
+    "doi_tuong": "cụm từ “; thành phần họp xét, đề nghị tạm đình chỉ chấp hành án phạt tù của cơ quan thi hành án hình sự Công an cấp huyện”",
+    "evidence": "Bỏ cụm từ “; thành phần họp xét, đề nghị tạm đình chỉ chấp hành án phạt tù của cơ quan thi hành án hình sự Công an cấp huyện” tại khoản 1 Điều 7;"
+   },
+   {
+    "source_path": "Điều 3 Khoản 12 điểm b",
+    "action": "bai-bo",
+    "target_document": "02/2021/TTLT-TANDTC-VKSNDTC-BCA-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 14"
+    ],
+    "doi_tuong": "cụm từ “; thành phần họp xét, đề nghị giảm thời hạn chấp hành án phạt tù của cơ quan thi hành án hình sự Công an cấp huyện”",
+    "evidence": "Bỏ cụm từ “; thành phần họp xét, đề nghị giảm thời hạn chấp hành án phạt tù của cơ quan thi hành án hình sự Công an cấp huyện” tại khoản 1 Điều 14;"
+   },
+   {
+    "source_path": "Điều 3 Khoản 12 điểm c",
+    "action": "bai-bo",
+    "target_document": "02/2021/TTLT-TANDTC-VKSNDTC-BCA-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 19"
+    ],
+    "doi_tuong": "cụm từ “, Thủ trưởng cơ quan thi hành án hình sự Công an cấp huyện”",
+    "evidence": "Bỏ cụm từ “, Thủ trưởng cơ quan thi hành án hình sự Công an cấp huyện” tại Điều 19."
+   },
+   {
+    "source_path": "Điều 4 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "03/2021/TTLT-TANDTC-VKSNDTC-BCA-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 2 như sau:"
+   },
+   {
+    "source_path": "Điều 4 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "03/2021/TTLT-TANDTC-VKSNDTC-BCA-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 2 như sau:"
+   },
+   {
+    "source_path": "Điều 4 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "03/2021/TTLT-TANDTC-VKSNDTC-BCA-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 4"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 Điều 4 như sau:"
+   },
+   {
+    "source_path": "Điều 4 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "03/2021/TTLT-TANDTC-VKSNDTC-BCA-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 4"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 Điều 4 như sau:"
+   },
+   {
+    "source_path": "Điều 4 Khoản 3",
+    "action": "sua-doi",
+    "target_document": "03/2021/TTLT-TANDTC-VKSNDTC-BCA-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 5 Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 5 Điều 5 như sau:"
+   },
+   {
+    "source_path": "Điều 4 Khoản 3",
+    "action": "bo-sung",
+    "target_document": "03/2021/TTLT-TANDTC-VKSNDTC-BCA-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 5 Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 5 Điều 5 như sau:"
+   },
+   {
+    "source_path": "Điều 4 Khoản 4",
+    "action": "sua-doi",
+    "target_document": "03/2021/TTLT-TANDTC-VKSNDTC-BCA-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 6"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 6 như sau:"
+   },
+   {
+    "source_path": "Điều 4 Khoản 4",
+    "action": "bo-sung",
+    "target_document": "03/2021/TTLT-TANDTC-VKSNDTC-BCA-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 6"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 6 như sau:"
+   },
+   {
+    "source_path": "Điều 4 Khoản 5 điểm a",
+    "action": "thay-the",
+    "target_document": "03/2021/TTLT-TANDTC-VKSNDTC-BCA-BQP",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "mẫu số 01-THAHS",
+    "evidence": "Thay thế mẫu số 01-THAHS ban hành kèm theo Thông tư liên tịch số 03/2021/TTLT-TANDTC-VKSNDTC-BCA-BQP bằng mẫu số 01-THAHS ban hành kèm theo Phụ lục III Thông tư liên tịch này"
+   },
+   {
+    "source_path": "Điều 4 Khoản 5 điểm b",
+    "action": "thay-the",
+    "target_document": "03/2021/TTLT-TANDTC-VKSNDTC-BCA-BQP",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "mẫu số 02-THAHS",
+    "evidence": "Thay thế mẫu số 02-THAHS ban hành kèm theo Thông tư liên tịch số 03/2021/TTLT-TANDTC-VKSNDTC-BCA-BQP bằng mẫu số 02-THAHS ban hành kèm theo Phụ lục III Thông tư liên tịch này"
+   },
+   {
+    "source_path": "Điều 4 Khoản 5 điểm c",
+    "action": "thay-the",
+    "target_document": "03/2021/TTLT-TANDTC-VKSNDTC-BCA-BQP",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "mẫu số 03-THAHS",
+    "evidence": "Thay thế mẫu số 03-THAHS ban hành kèm theo Thông tư liên tịch số 03/2021/TTLT-TANDTC-VKSNDTC-BCA-BQP bằng mẫu số 03-THAHS ban hành kèm theo Phụ lục III Thông tư liên tịch này"
+   },
+   {
+    "source_path": "Điều 4 Khoản 5 điểm d",
+    "action": "thay-the",
+    "target_document": "03/2021/TTLT-TANDTC-VKSNDTC-BCA-BQP",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "mẫu số 04-THAHS",
+    "evidence": "Thay thế mẫu số 04-THAHS ban hành kèm theo Thông tư liên tịch số 03/2021/TTLT-TANDTC-VKSNDTC-BCA-BQP bằng mẫu số 04-THAHS ban hành kèm theo Phụ lục III Thông tư liên tịch này"
+   },
+   {
+    "source_path": "Điều 5 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "04/2021/TTLT-TANDTC-VKSNDTC-BCA-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 2 như sau:"
+   },
+   {
+    "source_path": "Điều 5 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "04/2021/TTLT-TANDTC-VKSNDTC-BCA-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 2 như sau:"
+   },
+   {
+    "source_path": "Điều 5 Khoản 2 điểm a",
+    "action": "sua-doi",
+    "target_document": "04/2021/TTLT-TANDTC-VKSNDTC-BCA-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 như sau:"
+   },
+   {
+    "source_path": "Điều 5 Khoản 2 điểm a",
+    "action": "bo-sung",
+    "target_document": "04/2021/TTLT-TANDTC-VKSNDTC-BCA-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 như sau:"
+   },
+   {
+    "source_path": "Điều 5 Khoản 2 điểm b",
+    "action": "sua-doi",
+    "target_document": "04/2021/TTLT-TANDTC-VKSNDTC-BCA-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 6 Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 6 như sau:"
+   },
+   {
+    "source_path": "Điều 5 Khoản 2 điểm b",
+    "action": "bo-sung",
+    "target_document": "04/2021/TTLT-TANDTC-VKSNDTC-BCA-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 6 Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 6 như sau:"
+   },
+   {
+    "source_path": "Điều 5 Khoản 3",
+    "action": "sua-doi",
+    "target_document": "04/2021/TTLT-TANDTC-VKSNDTC-BCA-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 6 Điều 11"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 6 Điều 11 như sau:"
+   },
+   {
+    "source_path": "Điều 5 Khoản 3",
+    "action": "bo-sung",
+    "target_document": "04/2021/TTLT-TANDTC-VKSNDTC-BCA-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 6 Điều 11"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 6 Điều 11 như sau:"
+   },
+   {
+    "source_path": "Điều 5 Khoản 4",
+    "action": "sua-doi",
+    "target_document": "04/2021/TTLT-TANDTC-VKSNDTC-BCA-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 14",
+     "khoản 3 Điều 14"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 và khoản 3 Điều 14 như sau:"
+   },
+   {
+    "source_path": "Điều 5 Khoản 4",
+    "action": "bo-sung",
+    "target_document": "04/2021/TTLT-TANDTC-VKSNDTC-BCA-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 14",
+     "khoản 3 Điều 14"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 và khoản 3 Điều 14 như sau:"
+   },
+   {
+    "source_path": "Điều 5 Khoản 5",
+    "action": "sua-doi",
+    "target_document": "04/2021/TTLT-TANDTC-VKSNDTC-BCA-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 6 Điều 15"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 6 Điều 15 như sau:"
+   },
+   {
+    "source_path": "Điều 5 Khoản 5",
+    "action": "bo-sung",
+    "target_document": "04/2021/TTLT-TANDTC-VKSNDTC-BCA-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 6 Điều 15"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 6 Điều 15 như sau:"
+   },
+   {
+    "source_path": "Điều 5 Khoản 6 điểm a",
+    "action": "thay-cum-tu",
+    "target_document": "04/2021/TTLT-TANDTC-VKSNDTC-BCA-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 4 Điều 5",
+     "khoản 4 Điều 9"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “bệnh viện cấp tỉnh hoặc” bằng cụm từ “cơ sở khám bệnh, chữa bệnh cấp chuyên sâu hoặc bệnh viện” tại khoản 4 Điều 5 và khoản 4 Điều 9;"
+   },
+   {
+    "source_path": "Điều 5 Khoản 6 điểm b",
+    "action": "thay-cum-tu",
+    "target_document": "04/2021/TTLT-TANDTC-VKSNDTC-BCA-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 6",
+     "khoản 1 Điều 8",
+     "khoản 2 Điều 10",
+     "Điều 12",
+     "khoản 1 Điều 15",
+     "Điều 16"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “cơ quan thi hành án hình sự Công an cấp huyện” bằng cụm từ “cơ quan thi hành án hình sự Công an cấp tỉnh” tại khoản 2 Điều 6, khoản 1 Điều 8, khoản 2 Điều 10, Điều 12, khoản 1 Điều 15 và Điều 16."
+   },
+   {
+    "source_path": "Điều 5 Khoản 7 điểm a",
+    "action": "thay-the",
+    "target_document": "04/2021/TTLT-TANDTC-VKSNDTC-BCA-BQP",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "mẫu số 01-THAHS",
+    "evidence": "Thay thế mẫu số 01-THAHS ban hành kèm theo Thông tư liên tịch số 04/2021/TTLT-TANDTC-VKSNDTC-BCA-BQP bằng mẫu số 01-THAHS ban hành kèm theo Phụ lục IV Thông tư liên tịch này"
+   },
+   {
+    "source_path": "Điều 5 Khoản 7 điểm b",
+    "action": "thay-the",
+    "target_document": "04/2021/TTLT-TANDTC-VKSNDTC-BCA-BQP",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "mẫu số 02-THAHS",
+    "evidence": "Thay thế mẫu số 02-THAHS ban hành kèm theo Thông tư liên tịch số 04/2021/TTLT-TANDTC-VKSNDTC-BCA-BQP bằng mẫu số 02-THAHS ban hành kèm theo Phụ lục IV Thông tư liên tịch này"
+   },
+   {
+    "source_path": "Điều 5 Khoản 7 điểm c",
+    "action": "thay-the",
+    "target_document": "04/2021/TTLT-TANDTC-VKSNDTC-BCA-BQP",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "mẫu số 03-THAHS",
+    "evidence": "Thay thế mẫu số 03-THAHS ban hành kèm theo Thông tư liên tịch số 04/2021/TTLT-TANDTC-VKSNDTC-BCA-BQP bằng mẫu số 03-THAHS ban hành kèm theo Phụ lục IV Thông tư liên tịch này"
+   },
+   {
+    "source_path": "Điều 5 Khoản 7 điểm d",
+    "action": "thay-the",
+    "target_document": "04/2021/TTLT-TANDTC-VKSNDTC-BCA-BQP",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "mẫu số 04-THAHS",
+    "evidence": "Thay thế mẫu số 04-THAHS ban hành kèm theo Thông tư liên tịch số 04/2021/TTLT-TANDTC-VKSNDTC-BCA-BQP bằng mẫu số 04-THAHS ban hành kèm theo Phụ lục IV Thông tư liên tịch này"
+   },
+   {
+    "source_path": "Điều 5 Khoản 7 điểm đ",
+    "action": "thay-the",
+    "target_document": "04/2021/TTLT-TANDTC-VKSNDTC-BCA-BQP",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "mẫu số 05-THAHS",
+    "evidence": "Thay thế mẫu số 05-THAHS ban hành kèm theo Thông tư liên tịch số 04/2021/TTLT-TANDTC-VKSNDTC-BCA-BQP bằng mẫu số 05-THAHS ban hành kèm theo Phụ lục IV Thông tư liên tịch này"
+   },
+   {
+    "source_path": "Điều 5 Khoản 7 điểm e",
+    "action": "thay-the",
+    "target_document": "04/2021/TTLT-TANDTC-VKSNDTC-BCA-BQP",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "mẫu số 06-THAHS",
+    "evidence": "Thay thế mẫu số 06-THAHS ban hành kèm theo Thông tư liên tịch số 04/2021/TTLT-TANDTC-VKSNDTC-BCA-BQP bằng mẫu số 06-THAHS ban hành kèm theo Phụ lục IV Thông tư liên tịch này"
+   },
+   {
+    "source_path": "Điều 5 Khoản 7 điểm g",
+    "action": "thay-the",
+    "target_document": "04/2021/TTLT-TANDTC-VKSNDTC-BCA-BQP",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "mẫu số 07-THAHS",
+    "evidence": "Thay thế mẫu số 07-THAHS ban hành kèm theo Thông tư liên tịch số 04/2021/TTLT-TANDTC-VKSNDTC-BCA-BQP bằng mẫu số 07-THAHS ban hành kèm theo Phụ lục IV Thông tư liên tịch này"
+   },
+   {
+    "source_path": "Điều 5 Khoản 7 điểm h",
+    "action": "thay-the",
+    "target_document": "04/2021/TTLT-TANDTC-VKSNDTC-BCA-BQP",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "mẫu số 08-THAHS",
+    "evidence": "Thay thế mẫu số 08-THAHS ban hành kèm theo Thông tư liên tịch số 04/2021/TTLT-TANDTC-VKSNDTC-BCA-BQP bằng mẫu số 08-THAHS ban hành kèm theo Phụ lục IV Thông tư liên tịch này"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên và lời dẫn chỉ nói \"một số Thông tư liên tịch\", không nêu số hiệu: không ghi Phần đầu. Điều 1 (phạm vi) nêu 4 TTLT bị sửa đổi, bổ sung: ghi quan hệ chung không vị trí. Mẫu biểu thay thế: không rõ phụ lục chứa mẫu ở văn bản đích nên vi_tri rỗng, doi_tuong là số mẫu. Phụ lục I-IV là mẫu biểu mới, không có hành động."
+ },
+ {
+  "doc_id": "667675",
+  "relations": [
+   {
+    "source_path": "Điều 3",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này thay thế Quyết định số 1760/QĐ-UBND ngày 07 tháng 5 năm 2025 của Ủy ban nhân dân Thành phố Hồ Chí Minh về phê duyệt thủ tục hành chính đủ điều kiện cung cấp dịch vụ công trực tuyến do Sở Công Thương quản lý năm 2025."
+   },
+   {
+    "source_path": "Phụ lục 1 STT 1",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Cấp giấy phép hoạt động phát điện thuộc thẩm quyền cấp của Ủy ban nhân dân cấp tỉnh;",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 2",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Cấp giấy phép hoạt động phân phối điện thuộc thẩm quyền cấp của Ủy ban nhân dân cấp tỉnh;",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 3",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Cấp giấy phép hoạt động bán buôn điện thuộc thẩm quyền cấp của Ủy ban nhân dân cấp tỉnh;",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 4",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Cấp giấy phép hoạt động bán lẻ điện thuộc thẩm quyền cấp của Ủy ban nhân dân cấp tỉnh",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 5",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Cấp lại giấy phép hoạt động điện lực thuộc thẩm quyền cấp của Ủy ban nhân dân cấp tỉnh (trừ trường hợp giấy phép bị mất, bị hỏng)",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 6",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Cấp gia hạn giấy phép hoạt động điện lực thuộc thẩm quyền cấp của Ủy ban nhân dân cấp tỉnh;",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 7",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Cấp sửa đổi, bổ sung giấy phép hoạt động điện lực thuộc thẩm quyền cấp của Ủy ban nhân dân cấp tỉnh;",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 8",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Thu hồi giấy phép hoạt động điện lực thuộc thẩm quyền của Ủy ban nhân dân cấp tỉnh;",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 9",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Cấp lại giấy phép hoạt động điện lực thuộc thẩm quyền cấp của Ủy ban nhân dân cấp tỉnh trong trường hợp giấy phép bị mất, bị hỏng.",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 10",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Phê duyệt danh mục đầu tư lưới điện trung áp, hạ áp",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 11",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Điều chỉnh danh mục đầu tư lưới điện trung áp, hạ áp",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 12",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Cấp giấy chứng nhận đăng ký phát triển nguồn điện mặt trời mái nhà tự sản xuất, tự tiêu thụ có đấu nối với hệ thống điện quốc gia",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 13",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Điều chỉnh, bổ sung Giấy chứng nhận đăng ký phát triển nguồn điện mặt trời mái nhà tự sản xuất, tự tiêu thụ có đấu nối với hệ thống điện quốc gia",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 14",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Thông báo phát triển nguồn điện mặt trời mái nhà tự sản xuất, tự tiêu thụ có đấu nối với hệ thống điện quốc gia",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 15",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Cấp lại Giấy phép mua bán nguyên liệu thuốc lá",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 16",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Cấp Giấy chứng nhận đủ điều kiện đầu tư trồng cây thuốc lá",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 17",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Cấp Giấy phép mua bán nguyên liệu thuốc lá",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 18",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Cấp Giấy phép sản xuất rượu công nghiệp (quy mô dưới 3 triệu lít/ năm)",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 19",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Cấp lại Giấy chứng nhận đủ điều kiện đầu tư trồng cây thuốc lá",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 20",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Cấp lại Giấy phép sản xuất rượu công nghiệp (quy mô dưới 3 triệu lít/năm)",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 21",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Cấp sửa đổi, bổ sung Giấy chứng nhận đủ điều kiện đầu tư trồng cây thuốc lá",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 22",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Cấp sửa đổi, bổ sung Giấy phép mua bán nguyên liệu thuốc lá",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 23",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Cấp sửa đổi, bổ sung Giấy phép sản xuất rượu công nghiệp (quy mô dưới 3 triệu lít/năm)",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 24",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Đăng ký hoạt động Hiệp hội Doanh nghiệp nước ngoài tại TP. Hồ Chí Minh",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 25",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Thủ tục cấp lại Giấy phép lập cơ sở bán lẻ",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 26",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Cấp gia hạn giấy phép thành lập văn phòng đại diện của thương nhân nước ngoài tại Việt Nam",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 27",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Cấp Giấy phép kinh doanh cho tổ chức kinh tế có vốn đầu tư nước ngoài để thực hiện các dịch vụ khác quy định tại khoản d, đ, e, g, h, i Điều 5 Nghị định 09/2018/NĐ-CP",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 28",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Cấp Giấy phép kinh doanh cho tổ chức kinh tế có vốn đầu tư nước ngoài để thực hiện quyền nhập khẩu, quyền phân phối bán buôn các hàng hóa là dầu, mỡ bôi trơn",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 29",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Cấp Giấy phép kinh doanh cho tổ chức kinh tế có vốn đầu tư nước ngoài để thực hiện quyền phân phối bán lẻ các hàng hóa là gạo; đường; vật phẩm ghi hình; sách, báo và tạp chí",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 30",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Cấp Giấy phép kinh doanh cho tổ chức kinh tế có vốn đầu tư nước ngoài để thực hiện quyền phân phối bán lẻ hàng hóa",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 31",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Cấp giấy phép kinh doanh đồng thời với giấy phép lập cơ sở bán lẻ được quy định tại Điều 20 Nghị định số 09/2018/NĐ-CP",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 32",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Cấp Giấy phép lập cơ sở bán lẻ cho phép cơ sở bán lẻ được tiếp tục hoạt động",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 33",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Cấp giấy phép lập cơ sở bán lẻ ngoài cơ sở bán lẻ thứ nhất thuộc trường hợp phải thực hiện thủ tục kiểm tra nhu cầu kinh tế (ENT)",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 34",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Cấp giấy phép lập cơ sở bán lẻ thứ nhất, cơ sở bán lẻ ngoài cơ sở bán lẻ thứ nhất thuộc trường hợp không phải thực hiện thủ tục kiểm tra nhu cầu kinh tế (ENT)",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 35",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Cấp Giấy phép thành lập Hiệp hội doanh nghiệp nước ngoài tại Thành phố Hồ Chí Minh",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 36",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Cấp giấy phép thành lập văn phòng đại diện của thương nhân nước ngoài tại Việt Nam",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 37",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Cấp lại Giấy phép kinh doanh cho tổ chức kinh tế có vốn đầu tư nước ngoài",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 38",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Cấp lại giấy phép thành lập văn phòng đại diện của thương nhân nước ngoài tại Việt Nam",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 39",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Chấm dứt hoạt động của VPĐD của thương nhân nước ngoài tại Việt Nam",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 40",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Điều chỉnh Giấy phép kinh doanh cho tổ chức kinh tế có vốn đầu tư nước ngoài",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 41",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Điều chỉnh giấy phép thành lập Hiệp hội doanh nghiệp nước ngoài tại Thành phố Hồ Chí Minh",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 42",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Điều chỉnh giấy phép thành lập văn phòng đại diện của thương nhân nước ngoài tại Việt Nam",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 43",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Điều chỉnh tăng diện tích cơ sở bán lẻ khác và trường hợp cơ sở ngoài cơ sở bán lẻ thứ nhất thay đổi loại hình thành cửa hàng tiện lợi, siêu thị mini",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 44",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Điều chỉnh tăng diện tích cơ sở bán lẻ thứ nhất không nằm trong trung tâm thương mại",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 45",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Điều chỉnh tăng diện tích cơ sở bán lẻ thứ nhất trong trung tâm thương mại; tăng diện tích cơ sở bán lẻ ngoài cơ sở bán lẻ thứ nhất được lập trong trung tâm thương mại và không thuộc loại hình cửa hàng tiện lợi, siêu thị mini, đến mức dưới 500m 2",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 46",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Điều chỉnh tên, mã số doanh nghiệp, địa chỉ trụ sở chính, tên, địa chỉ của cơ sở bán lẻ, loại hình của cơ sở bán lẻ, điều chỉnh giảm diện tích của cơ sở bán lẻ trên Giấy phép lập cơ sở bán lẻ",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 47",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Gia hạn giấy phép thành lập Hiệp hội doanh nghiệp nước ngoài tại Thành phố",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 48",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Thủ tục cấp gia hạn Giấy phép lập cơ sở bán lẻ",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 49",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Cấp điều chỉnh Giấy chứng nhận đủ điều kiện thương nhân kinh doanh mua bán LNG",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 50",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Cấp điều chỉnh Giấy chứng nhận đủ điều kiện trạm nạp CNG vào phương tiện vận tải",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 51",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Cấp điều chỉnh Giấy chứng nhận đủ điều kiện trạm nạp LNG vào phương tiện vận tải",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 52",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Cấp điều chỉnh Giấy chứng nhận đủ điều kiện trạm nạp LPG vào phương tiện vận tải",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 53",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Cấp điều chỉnh Giấy chứng nhận đủ điều kiện trạm nạp LPG vào xe bồn",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 54",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Cấp Giấy chứng nhận đủ điều kiện trạm nạp CNG vào phương tiện vận tải",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 55",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Cấp Giấy chứng nhận đủ điều kiện trạm nạp LNG vào phương tiện vận tải",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 56",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Cấp Giấy chứng nhận đủ điều kiện trạm nạp LPG vào phương tiện vận tải",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 57",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Cấp Giấy chứng nhận đủ điều kiện trạm nạp LPG vào xe bồn",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 58",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Cấp Giấy tiếp nhận thông báo kinh doanh xăng dầu bằng thiết bị bán xăng dầu quy mô nhỏ",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 59",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Cấp lại Giấy chứng nhận đủ điều kiện thương nhân kinh doanh mua bán CNG",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 60",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Cấp lại Giấy chứng nhận đủ điều kiện thương nhân kinh doanh mua bán LNG",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 61",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Cấp lại Giấy chứng nhận đủ điều kiện thương nhân kinh doanh mua bán LPG",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 62",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Cấp lại Giấy chứng nhận đủ điều kiện trạm nạp CNG vào phương tiện vận tải",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 63",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Cấp lại Giấy chứng nhận đủ điều kiện trạm nạp LNG vào phương tiện vận tải",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 64",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Cấp lại Giấy chứng nhận đủ điều kiện trạm nạp LPG vào chai",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 65",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Cấp lại Giấy chứng nhận đủ điều kiện trạm nạp LPG vào phương tiện vận tải",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 66",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Cấp lại Giấy chứng nhận đủ điều kiện trạm nạp LPG vào xe bồn",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 67",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Giấy chứng nhận đủ điều kiện thương nhân kinh doanh mua bán LNG",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 68",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Cấp điều chỉnh Giấy chứng nhận đủ điều kiện thương nhân kinh doanh mua bán CNG",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 69",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Cấp điều chỉnh Giấy chứng nhận đủ điều kiện thương nhân kinh doanh mua bán LPG",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 70",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Cấp điều chỉnh Giấy chứng nhận đủ điều kiện trạm nạp LPG vào chai",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 71",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Cấp Giấy chứng nhận cửa hàng đủ điều kiện bán lẻ xăng dầu",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 72",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Cấp Giấy chứng nhận đủ điều kiện thương nhân kinh doanh mua bán CNG",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 73",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Cấp Giấy chứng nhận đủ điều kiện thương nhân kinh doanh mua bán LPG",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 74",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Cấp Giấy chứng nhận đủ điều kiện trạm nạp LPG vào chai",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 75",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Cấp giấy phép bán buôn rượu trên địa bàn tỉnh, thành phố trực thuộc trung ương",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 76",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Cấp Giấy phép bán buôn sản phẩm thuốc lá",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 77",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Cấp Giấy xác nhận đủ điều kiện làm đại lý bán lẻ xăng dầu",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 78",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Cấp lại Giấy chứng nhận cửa hàng đủ điều kiện bán lẻ xăng dầu",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 79",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Cấp lại Giấy phép bán buôn sản phẩm thuốc lá",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 80",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Cấp lại Giấy xác nhận đủ điều kiện làm đại lý bán lẻ xăng dầu",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 81",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Cấp sửa đổi, bổ sung Giấy chứng nhận cửa hàng đủ điều kiện bán lẻ xăng dầu",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 82",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Cấp sửa đổi, bổ sung Giấy phép bán buôn sản phẩm thuốc lá",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 83",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Cấp sửa đổi, bổ sung Giấy xác nhận đủ điều kiện làm đại lý bán lẻ xăng dầu",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 84",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Thủ tục Cấp lại Giấy phép bán buôn sản phẩm rượu trên địa bàn tỉnh, thành phố trực thuộc trung ương (trường hợp bị mất, bị tiêu hủy toàn bộ hoặc một phần, bị rách nát hoặc bị cháy)",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 85",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Thủ tục Cấp sửa đổi, bổ sung Giấy phép bán buôn sản phẩm rượu trên địa bàn tỉnh, thành phố trực thuộc trung ương",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 86",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Cấp Giấy phép sản xuất rượu thủ công nhằm mục đích kinh doanh",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 87",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Cấp lại Giấy phép sản xuất rượu thủ công nhằm mục đích kinh doanh",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 88",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Cấp sửa đổi, bổ sung Giấy phép sản xuất rượu thủ công nhằm mục đích kinh doanh",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 89",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Cấp Giấy phép bán lẻ rượu",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 90",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Cấp sửa đổi, bổ sung Giấy phép bán lẻ rượu",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 91",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Cấp lại Giấy phép bán lẻ rượu",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 92",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Cấp Giấy phép bán lẻ sản phẩm thuốc lá",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 93",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Cấp sửa đổi, bổ sung Giấy phép bán lẻ sản phẩm thuốc lá",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 94",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Cấp lại Giấy phép bán lẻ sản phẩm thuốc lá",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 95",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Thủ tục cấp Giấy chứng nhận đủ điều kiện cửa hàng bán lẻ LPG chai",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 96",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Thủ tục cấp lại Giấy chứng nhận đủ điều kiện cửa hàng bán lẻ LPG chai",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 97",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Cấp điều chỉnh Giấy chứng nhận đủ điều kiện cửa hàng bán lẻ LPG chai",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 100",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Thủ tục cấp Giấy chứng nhận đủ điều kiện kinh doanh hóa chất sản xuất, kinh doanh có điều kiện trong lĩnh vực công nghiệp",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 101",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Thủ tục cấp Giấy chứng nhận đủ điều kiện sản xuất hóa chất sản xuất, kinh doanh có điều kiện trong lĩnh vực công nghiệp",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 102",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Thủ tục Cấp lại Giấy chứng nhận đủ điều kiện kinh doanh hóa chất sản xuất kinh doanh có điều kiện trong lĩnh vực công nghiệp",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 103",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Thủ tục Cấp lại Giấy chứng nhận đủ điều kiện sản xuất hóa chất sản xuất, kinh doanh có điều kiện trong lĩnh vực công nghiệp",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 104",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Thủ tục điều chỉnh Giấy chứng nhận đủ điều kiện kinh doanh hóa chất sản xuất, kinh doanh có điều kiện trong lĩnh vực công nghiệp",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 105",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Thủ tục điều chỉnh Giấy chứng nhận đủ điều kiện sản xuất hóa chất sản xuất, kinh doanh có điều kiện trong lĩnh vực công nghiệp",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 106",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Cấp Giấy chứng nhận đủ điều kiện sản xuất và kinh doanh hóa chất sản xuất, kinh doanh có điều kiện trong lĩnh vực công nghiệp",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 107",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Cấp lại Giấy chứng nhận đủ điều kiện sản xuất và kinh doanh hóa chất sản xuất, kinh doanh có điều kiện trong lĩnh vực công nghiệp",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 108",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Cấp điều chỉnh Giấy chứng nhận đủ điều kiện sản xuất và kinh doanh hóa chất sản xuất, kinh doanh có điều kiện trong lĩnh vực công nghiệp",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 109",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Thủ tục Cấp thông báo xác nhận công bố sản phẩm hàng hóa nhóm 2 phù hợp với quy chuẩn kỹ thuật tương ứng",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 110",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Đăng ký hoạt động khuyến mại đối với chương trình khuyến mại mang tính may rủi thực hiện trên địa bàn 01 tỉnh, thành phố trực thuộc Trung ương",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 111",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Đăng ký sửa đổi, bổ sung nội dung chương trình khuyến mại đối với chương trình khuyến mại mang tính may rủi thực hiện trên địa bàn 1 tỉnh, thành phố trực thuộc Trung ương",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 112",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Đăng ký sửa đổi, bổ sung nội dung tổ chức hội chợ, triển lãm thương mại tại Việt Nam",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 113",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Đăng ký tổ chức Hội chợ, Triển lãm thương mại tại Việt Nam",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 114",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Thông báo hoạt động khuyến mại",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 115",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Thông báo sửa đổi, bổ sung nội dung chương trình khuyến mại",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 116",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Cấp Giấy phép thành lập Văn phòng đại diện của tổ chức xúc tiến thương mại nước ngoài tại Việt Nam",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 117",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Sửa đổi Giấy phép thành lập Văn phòng đại diện của tổ chức xúc tiến thương mại nước ngoài tại Việt Nam",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 118",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Cấp lại Giấy phép thành lập Văn phòng đại diện của tổ chức xúc tiến thương mại nước ngoài tại Việt Nam",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 119",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Gia hạn Giấy phép thành lập Văn phòng đại diện của tổ chức xúc tiến thương mại nước ngoài tại Việt Nam",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 120",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Chấm dứt hoạt động và thu hồi Giấy phép thành lập Văn phòng đại diện của tổ chức xúc tiến thương mại nước ngoài tại Việt Nam",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 121",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Chấm dứt hoạt động bán hàng đa cấp tại địa phương",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 122",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Đăng ký hoạt động bán hàng đa cấp tại địa phương",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 123",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Đăng ký sửa đổi, bổ sung nội dung hoạt động bán hàng đa cấp tại địa phương",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 124",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Thông báo tổ chức hội nghị, hội thảo, đào tạo",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 125",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Đăng ký, đăng ký lại hợp đồng theo mẫu, điều kiện giao dịch chung",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 126",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Thông báo về việc thực hiện hoạt động bán hàng không tại địa điểm giao dịch thường xuyên",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 127",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Thủ tục Kiểm tra công tác nghiệm thu hoàn thành công trình (đối với các công trình trên địa bàn thuộc trách nhiệm quản lý của Sở Công Thương, trừ các công trình thuộc thẩm quyền kiểm tra của Hội đồng kiểm tra nhà nước về công tác nghiệm thu công trình xây dựng và Cơ quan chuyên môn về xây dựng thuộc Bộ Xây dựng, Bộ quản lý công trình xây dựng chuyên ngành)",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 128",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Thủ tục Thẩm định và điều chỉnh Báo cáo nghiên cứu khả thi đầu tư xây dựng",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 129",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Thủ tục Thẩm định và điều chỉnh Thiết kế xây dựng triển khai sau thiết kế cơ sở",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 130",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Thủ tục Thẩm định và phê duyệt Kế hoạch đấu thầu",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 131",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Thủ tục Thủ tục Thẩm định, phê duyệt và điều chỉnh Báo cáo kinh tế - kỹ thuật đầu tư xây dựng sử dụng vốn đầu tư công của Thành phố Hồ Chí Minh",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 132",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Đăng ký dấu nghiệp vụ giám định thương mại",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 133",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Đăng ký thay đổi dấu nghiệp vụ giám định thương mại",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 134",
+    "action": "thay-the",
+    "target_document": "1760/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Thành lập/ mở rộng cụm công nghiệp",
+    "evidence": "Thay thế DVCTT trong QĐ số 1760/QĐ-UBND ngày 07/5/2025"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Phụ lục 1: 132 dòng có ghi chú \"Thay thế DVCTT trong QĐ số 1760/QĐ-UBND\" (dòng 98, 99, 135-145 không có). Phụ lục 2 cột \"Lý do bãi bỏ\" ghi bãi bỏ tại QĐ 68/2024/QĐ-UBND: là văn bản khác bãi bỏ, không phải hành động của văn bản này. Cột \"Quyết định phê duyệt\" không phải đích."
+ }
+]

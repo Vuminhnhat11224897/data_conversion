@@ -1,0 +1,64 @@
+[
+ {
+  "doc_id": "676158",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "hop-nhat",
+    "target_document": "63/2023/NĐ-CP",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị định số 63/2023/NĐ-CP ngày 18 tháng 8 năm 2023 của Chính phủ Quy định chi tiết một số điều của Luật Tần số vô tuyến điện số 42/2009/QH12, được sửa đổi, bổ sung một số điều theo Luật số 09/2022/QH15, có hiệu lực kể từ ngày 18 tháng 8 năm 2023, được sửa đổi, bổ sung bởi:"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "hop-nhat",
+    "target_document": "229/2025/NĐ-CP",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị định số 229/2025/NĐ-CP ngày 19 tháng 8 năm 2025 của Chính phủ sửa đổi, bổ sung khoản 3 Điều 87 của Nghị định số 63/2023/NĐ-CP"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "quy-dinh-chi-tiet",
+    "target_document": "42/2009/QH12",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Chính phủ ban hành Nghị định quy định chi tiết một số điều của Luật Tần số vô tuyến điện số 42/2009/QH12"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "quy-dinh-chi-tiet",
+    "target_document": "42/2009/QH12",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 4 Điều 16",
+     "khoản 5 Điều 18",
+     "khoản 5 Điều 18a",
+     "điểm b khoản 1 Điều 19",
+     "khoản 5 Điều 24",
+     "khoản 3 Điều 25",
+     "khoản 3 Điều 26",
+     "khoản 4 Điều 31",
+     "khoản 2 Điều 32"
+    ],
+    "doi_tuong": null,
+    "evidence": "Nghị định này quy định chi tiết khoản 4 Điều 16, khoản 5 Điều 18, khoản 5 Điều 18a, điểm b khoản 1 Điều 19, khoản 5 Điều 24, khoản 3 Điều 25, khoản 3 Điều 26, khoản 4 Điều 31 và khoản 2 Điều 32 Luật Tần số vô tuyến điện số 42/2009/QH12"
+   },
+   {
+    "source_path": "Điều 86 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "88/2021/NĐ-CP",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị định số 88/2021/NĐ-CP ngày 01 tháng 10 năm 2021 của Chính phủ quy định về thu tiền cấp quyền sử dụng tần số vô tuyến điện, đấu giá, cấp phép, chuyển nhượng quyền sử dụng tần số vô tuyến điện đối với băng tần hết hiệu lực kể từ ngày Nghị định này có hiệu lực thi hành."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Văn bản hợp nhất Nghị định 63/2023/NĐ-CP với Nghị định 229/2025/NĐ-CP: ghi hop-nhat từ phần đầu (lời giới thiệu VBHN nêu 2 văn bản). Các quan hệ quy-dinh-chi-tiet Luật 42/2009/QH12 và Điều 86 khoản 2 (Nghị định 88/2021/NĐ-CP hết hiệu lực) là nội dung của Nghị định 63/2023 được tái hiện trong VBHN. Chú thích [1]-[3] là lịch sử sửa đổi, không ghi. Toàn văn không có các Phụ lục I-IX của Nghị định; nhiều đơn vị chỉ chứa từ 'sửa đổi, bổ sung giấy phép', không phải tác động."
+ }
+]

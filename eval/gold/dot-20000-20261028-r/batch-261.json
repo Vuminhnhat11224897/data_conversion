@@ -1,0 +1,616 @@
+[
+ {
+  "doc_id": "667709",
+  "relations": [],
+  "loi_cau_truc": [
+   {
+    "source_path": "Mục 3",
+    "loai": "nhan_sai_dieu",
+    "ghi_chu": "Các mục 3, 4, 6, 7 trong don_vi là các khoản trích Điều 19 NĐ 181/2025 (danh sách 1., 2., ...) bị nhận thành Mục của Công văn; nội dung mục 2 và 3 bị lẫn."
+   }
+  ],
+  "ghi_chu": "Công văn phổ biến chính sách thuế mới; chỉ kể lại nội dung các luật, nghị định đã sửa đổi, bổ sung, hết hiệu lực. Không có tác động trực tiếp."
+ },
+ {
+  "doc_id": "667835",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "736/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Phụ lục"
+    ],
+    "doi_tuong": null,
+    "evidence": "VỀ VIỆC SỬA ĐỔI PHỤ LỤC QUYẾT ĐỊNH SỐ 736/QĐ-UBND NGÀY 14/5/2025 CỦA GIÁM ĐỐC TRUNG TÂM PHỤC VỤ HÀNH CHÍNH CÔNG"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "sua-doi",
+    "target_document": "736/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Phụ lục"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi nội dung phụ lục Quyết định số 736/QĐ-UBND ngày 14/5/2025 của Giám đốc Trung tâm phục vụ hành chính công về việc công bố danh mục thủ tục hành chính lĩnh vực Đất đai trên địa bàn Thành phố Hà Nội với nội dung cụ thể như sau:"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bai-bo",
+    "target_document": "736/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Phụ lục"
+    ],
+    "doi_tuong": "cụm từ “Thời gian giải quyết TTHC không bao gồm thời gian luân chuyển hồ sơ từ TTPVHCC đến Sở Nông nghiệp và Môi trường, Hệ thống Văn phòng Đăng ký đất đai, UBND cấp huyện, thị xã và ngược lại” tại trang thứ 82 của phụ lục",
+    "evidence": "Xóa bỏ cụm từ “Thời gian giải quyết TTHC không bao gồm thời gian luân chuyển hồ sơ từ TTPVHCC đến Sở Nông nghiệp và Môi trường, Hệ thống Văn phòng Đăng ký đất đai, UBND cấp huyện, thị xã và ngược lại” tại trang thứ 82 của phụ lục."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 1 vừa nêu sửa đổi phụ lục vừa nêu xóa bỏ một cụm từ (ghi bai-bo theo quy ước bỏ cụm từ). Số hiệu đích ghi là QĐ-UBND dù do Giám đốc Trung tâm ban hành; chép theo văn bản."
+ },
+ {
+  "doc_id": "667850",
+  "relations": [
+   {
+    "source_path": "Điều 3 Khoản 1",
+    "action": "thay-the",
+    "target_document": "1898/QĐ-BTC",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 1898/QĐ-BTC ngày 25/9/2019 của Bộ Tài chính;"
+   },
+   {
+    "source_path": "Điều 3 Khoản 2",
+    "action": "thay-the",
+    "target_document": "983/QĐ-BTC",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 983/QĐ-BTC ngày 29/6/2020 của Bộ Tài chính;"
+   },
+   {
+    "source_path": "Điều 3 Khoản 3",
+    "action": "thay-the",
+    "target_document": "1314/QĐ-BTC",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 1314/QĐ-BTC ngày 14/9/2020 của Bộ Tài chính;"
+   },
+   {
+    "source_path": "Điều 3 Khoản 4",
+    "action": "thay-the",
+    "target_document": "2178/QĐ-BTC",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 2178/QĐ-BTC ngày 25/12/2020 của Bộ Tài chính;"
+   },
+   {
+    "source_path": "Điều 3 Khoản 5",
+    "action": "thay-the",
+    "target_document": "398/QĐ-BTC",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 398/QĐ-BTC ngày 24/3/2021 của Bộ Tài chính;"
+   },
+   {
+    "source_path": "Điều 3 Khoản 6",
+    "action": "thay-the",
+    "target_document": "830/QĐ-BTC",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 830/QĐ-BTC ngày 19/4/2021 của Bộ Tài chính;"
+   },
+   {
+    "source_path": "Điều 3 Khoản 7",
+    "action": "thay-the",
+    "target_document": "1251/QĐ-BTC",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 1251/QĐ-BTC ngày 21/7/2021 của Bộ Tài chính;"
+   },
+   {
+    "source_path": "Điều 3 Khoản 8",
+    "action": "thay-the",
+    "target_document": "1587/QĐ-BTC",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 1587/QĐ-BTC ngày 18/8/2021 của Bộ Tài chính;"
+   },
+   {
+    "source_path": "Điều 3 Khoản 9",
+    "action": "thay-the",
+    "target_document": "1888/QĐ-BTC",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 1888/QĐ-BTC ngày 23/9/2021 của Bộ Tài chính;"
+   },
+   {
+    "source_path": "Điều 3 Khoản 10",
+    "action": "thay-the",
+    "target_document": "2656/QĐ-BTC",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 2656/QĐ-BTC ngày 26/11/2021 của Bộ Tài chính;"
+   },
+   {
+    "source_path": "Điều 3 Khoản 11",
+    "action": "thay-the",
+    "target_document": "508/QĐ-BTC",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 508/QĐ-BTC ngày 18/4/2022 của Bộ Tài chính;"
+   },
+   {
+    "source_path": "Điều 3 Khoản 12",
+    "action": "thay-the",
+    "target_document": "2021/QĐ-BTC",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 2021/QĐ-BTC ngày 03/10/2022 của Bộ Tài chính;"
+   },
+   {
+    "source_path": "Điều 3 Khoản 13",
+    "action": "thay-the",
+    "target_document": "1421/QĐ-BTC",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 1421/QĐ-BTC ngày 15/7/2022 của Bộ Tài chính"
+   },
+   {
+    "source_path": "Điều 3 Khoản 14",
+    "action": "thay-the",
+    "target_document": "311/QĐ-BTC",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 311/QĐ-BTC ngày 08/3/2023 của Bộ Tài chính;"
+   },
+   {
+    "source_path": "Điều 3 Khoản 15",
+    "action": "thay-the",
+    "target_document": "1927/QĐ-BTC",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 1927/QĐ-BTC ngày 16/9/2023 của Bộ Tài chính"
+   },
+   {
+    "source_path": "Điều 3 Khoản 16",
+    "action": "thay-the",
+    "target_document": "2965/QĐ-BTC",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 2965/QĐ-BTC ngày 16/12/2024 của Bộ Tài chính;"
+   },
+   {
+    "source_path": "Điều 3 Khoản 17",
+    "action": "thay-the",
+    "target_document": "219/QĐ-BTC",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 219/QĐ-BTC ngày 01/2/2024 của Bộ Tài chính;"
+   },
+   {
+    "source_path": "Điều 3 Khoản 18",
+    "action": "thay-the",
+    "target_document": "1923/QĐ-BTC",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 1923/QĐ-BTC ngày 14/8/2024 của Bộ Tài chính;"
+   },
+   {
+    "source_path": "Điều 3 Khoản 19",
+    "action": "thay-the",
+    "target_document": "2399/QĐ-BKHĐT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 2399/QĐ-BKHĐT ngày 14/10/2024 của Bộ Kế hoạch và Đầu tư."
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 3",
+    "loai": "thieu_noi_dung",
+    "ghi_chu": "don_vi Điều 3 chỉ có câu dẫn; 19 khoản liệt kê các Quyết định bị thay thế chỉ có trong toàn văn."
+   }
+  ],
+  "ghi_chu": "source_path theo toàn văn (Điều 3 Khoản 1..19). Điều 1 công bố danh mục; Điều 2 giao nhiệm vụ rà soát."
+ },
+ {
+  "doc_id": "667873",
+  "relations": [
+   {
+    "source_path": "Điều 9 Khoản 1 điểm a",
+    "action": "bai-bo",
+    "target_document": "04/2025/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị quyết số 04/2025/NQ-HĐND ngày 24 tháng 6 năm 2025 của Hội đồng nhân dân tỉnh Tiền Giang quy định mức chi về công tác phí, chi hội nghị trên địa bàn tỉnh Tiền Giang;"
+   },
+   {
+    "source_path": "Điều 9 Khoản 1 điểm b",
+    "action": "bai-bo",
+    "target_document": "142/2017/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị quyết số 142/2017/NQ-HĐND ngày 07 tháng 12 năm 2017 của Hội đồng nhân dân tỉnh Đồng Tháp quy định chế độ công tác phí, chế độ chi hội nghị trên địa bàn tỉnh Đồng Tháp."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Chữ hành động ở câu dẫn \"Bãi bỏ các Nghị quyết\" của khoản 1 Điều 9."
+ },
+ {
+  "doc_id": "667877",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "70/2022/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA QUY ĐỊNH NGUYÊN TẮC, ĐỊNH MỨC VÀ PHƯƠNG ÁN PHÂN BỔ VỐN NGÂN SÁCH NHÀ NƯỚC THỰC HIỆN CHƯƠNG TRÌNH MỤC TIÊU QUỐC GIA XÂY DỰNG NÔNG THÔN MỚI GIAI ĐOẠN 2021-2025 VÀ NĂM 2022 TRÊN ĐỊA BÀN TỈNH NAM ĐỊNH BAN HÀNH KÈM THEO NGHỊ QUYẾT SỐ 70/2022/NQ-HĐND NGÀY 06 THÁNG 7 NĂM 2022 CỦA HỘI ĐỒNG NHÂN DÂN TỈNH NAM ĐỊNH"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "70/2022/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA QUY ĐỊNH NGUYÊN TẮC, ĐỊNH MỨC VÀ PHƯƠNG ÁN PHÂN BỔ VỐN NGÂN SÁCH NHÀ NƯỚC THỰC HIỆN CHƯƠNG TRÌNH MỤC TIÊU QUỐC GIA XÂY DỰNG NÔNG THÔN MỚI GIAI ĐOẠN 2021-2025 VÀ NĂM 2022 TRÊN ĐỊA BÀN TỈNH NAM ĐỊNH BAN HÀNH KÈM THEO NGHỊ QUYẾT SỐ 70/2022/NQ-HĐND NGÀY 06 THÁNG 7 NĂM 2022 CỦA HỘI ĐỒNG NHÂN DÂN TỈNH NAM ĐỊNH"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "70/2022/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm a khoản 2 Điều 5",
+     "điểm b khoản 2 Điều 5",
+     "điểm h khoản 2 Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm a, điểm b, điểm h khoản 2 Điều 5 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "70/2022/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm a khoản 2 Điều 5",
+     "điểm b khoản 2 Điều 5",
+     "điểm h khoản 2 Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm a, điểm b, điểm h khoản 2 Điều 5 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "70/2022/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm a Điều 6",
+     "điểm b Điều 6",
+     "điểm h Điều 6"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm a, điểm b, điểm h Điều 6 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "70/2022/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm a Điều 6",
+     "điểm b Điều 6",
+     "điểm h Điều 6"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm a, điểm b, điểm h Điều 6 như sau:"
+   },
+   {
+    "source_path": "Điều 3 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "73/2023/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ Nghị quyết số 73/2023/NQ-HĐND ngày 14 tháng 7 năm 2023 của Hội đồng nhân dân tỉnh sửa đổi, bổ sung một số điều của Quy định nguyên tắc"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 1 (câu chung sửa đổi một số điều) không ghi riêng vì khoản 1, 2 nêu vị trí cụ thể. Lời dẫn cũng nêu cùng hành động, đã gộp vào quan hệ Phần đầu."
+ },
+ {
+  "doc_id": "668005",
+  "relations": [
+   {
+    "source_path": "Điều 3",
+    "action": "bai-bo",
+    "target_document": "3040/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục II Phần A Phụ lục"
+    ],
+    "doi_tuong": "Quy trình nội bộ trong giải quyết thủ tục hành chính",
+    "evidence": "Quy trình nội bộ trong giải quyết thủ tục hành chính tại Mục II, Phần A Phụ lục ban hành kèm theo Quyết định số 3040/QĐ-UBND ngày 03/12/2024 của Chủ tịch UBND tỉnh hết hiệu lực kể từ ngày Quyết định này có hiệu lực thi hành."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Phụ lục trong toàn văn có tiêu đề lĩnh vực Tài nguyên và Môi trường năm 2024, có thể không đúng phụ lục của văn bản này; không có tác động trong phụ lục."
+ },
+ {
+  "doc_id": "668075",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "huong-dan",
+    "target_document": "Luật Thi đua, khen thưởng",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "QUY ĐỊNH BIỆN PHÁP ĐỂ TỔ CHỨC, HƯỚNG DẪN THI HÀNH LUẬT THI ĐUA, KHEN THƯỞNG VÀ NGHỊ ĐỊNH SỐ 152/2025/NĐ-CP NGÀY 14 THÁNG 6 NĂM 2025 CỦA CHÍNH PHỦ"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "huong-dan",
+    "target_document": "152/2025/NĐ-CP",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "QUY ĐỊNH BIỆN PHÁP ĐỂ TỔ CHỨC, HƯỚNG DẪN THI HÀNH LUẬT THI ĐUA, KHEN THƯỞNG VÀ NGHỊ ĐỊNH SỐ 152/2025/NĐ-CP NGÀY 14 THÁNG 6 NĂM 2025 CỦA CHÍNH PHỦ"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "huong-dan",
+    "target_document": "Luật Thi đua, khen thưởng",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thông tư này quy định biện pháp để tổ chức, hướng dẫn thi hành Luật Thi đua, khen thưởng và Nghị định số 152/2025/NĐ-CP ngày 14 tháng 6 năm 2025 của Chính phủ"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "huong-dan",
+    "target_document": "152/2025/NĐ-CP",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thông tư này quy định biện pháp để tổ chức, hướng dẫn thi hành Luật Thi đua, khen thưởng và Nghị định số 152/2025/NĐ-CP ngày 14 tháng 6 năm 2025 của Chính phủ"
+   },
+   {
+    "source_path": "Điều 11 Khoản 1",
+    "action": "thay-the",
+    "target_document": "01/2024/TT-BNV",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thông tư này có hiệu lực thi hành kể từ ngày 05 tháng 8 năm 2025 và thay thế Thông tư số 01/2024/TT-BNV ngày 24 tháng 02 năm 2024 của Bộ trưởng Bộ Nội vụ"
+   },
+   {
+    "source_path": "Điều 11 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "09/2025/TT-BNV",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 3",
+     "Điều 4",
+     "Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Các quy định tại Điều 3, Điều 4 và Điều 5 của Thông tư số 09/2025/TT-BNV ngày 18 tháng 6 năm 2025 của Bộ trưởng Bộ Nội vụ quy định về phân định thẩm quyền và phân cấp thực hiện nhiệm vụ quản lý nhà nước trong lĩnh vực nội vụ hết hiệu lực kể từ ngày Thông tư này có hiệu lực thi hành."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Luật Thi đua, khen thưởng không nêu số hiệu trong văn bản. Cụm \"quy định chi tiết và hướng dẫn thi hành một số điều của Luật Thi đua, khen thưởng\" là tên của NĐ 152/2025, không phải hành động của Thông tư. Lời dẫn trùng tên văn bản, đã gộp vào Phần đầu."
+ },
+ {
+  "doc_id": "668208",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "3194/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực thi hành kể từ ngày ký, thay thế các Quyết định số 3194/QĐ-UBND ngày 21 tháng 11 năm 2022 của Chủ tịch Ủy ban nhân dân tỉnh Đồng Nai"
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "375/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 375/QĐ-UBND ngày 15 tháng 02 năm 2024 của Chủ tịch Ủy ban nhân dân tỉnh Đồng Nai về việc công bố thủ tục hành chính mới ban hành trong lĩnh vực quản lý xuất nhập cảnh"
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "1612/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 1612/QĐ-UBND ngày 30 tháng 5 năm 2024 của Chủ tịch Ủy ban nhân dân tỉnh Đồng Nai về việc công bố thủ tục hành chính được sửa đổi, bổ sung trong lĩnh vực lãnh sự"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Cột \"Nội dung sửa đổi, bổ sung theo Quyết định số 1275/QĐ-BNG\" trong bảng chỉ nêu nguồn, không phải hành động. Câu chung ở Điều 1 đoạn 2 không ghi."
+ },
+ {
+  "doc_id": "668238",
+  "relations": [
+   {
+    "source_path": "Điều 5 Khoản 1",
+    "action": "thay-the",
+    "target_document": "05/QĐ-BXD",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực thi hành kể từ ngày ký ban hành, thay thế Quyết định số 05/QĐ-BXD ngày 01/3/2025 của Bộ trưởng Bộ Xây dựng quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Văn phòng Bộ Xây dựng"
+   },
+   {
+    "source_path": "Điều 5 Khoản 1",
+    "action": "thay-the",
+    "target_document": "922/QĐ-BXD",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Khoản\n\n1, Điều 1 Quyết định số 922/QĐ-BXD ngày 26/6/2025 của Bộ trưởng Bộ Xây dựng"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": ""
+ },
+ {
+  "doc_id": "668241",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn trả lời kiến nghị cử tri; chỉ kể lại Luật sửa đổi Luật Quảng cáo và việc xây dựng nghị định sửa đổi NĐ 38/2021. Không có tác động trực tiếp."
+ },
+ {
+  "doc_id": "668345",
+  "relations": [
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bai-bo",
+    "target_document": "208/2015/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị quyết số 208/2015/NQ-HĐND ngày 15 tháng 7 năm 2015 của Hội đồng nhân dân tỉnh Quảng Ninh về một số chính sách khuyến khích, thúc đẩy xã hội hóa đối với các hoạt động trong lĩnh vực giáo dục - đào tạo, dạy nghề, y tế, văn hóa, thể thao, môi trường, giám định tư pháp trên địa bàn tỉnh."
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "240/2016/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị quyết số 240/2016/NQ-HĐND ngày 08 tháng 4 năm 2016 của Hội đồng nhân dân tỉnh về việc thông qua nguyên tắc xác định đơn giá xử lý chất thải rắn của dự án Trung tâm xử lý chất thải rắn tại hai xã Vũ Oai, Hòa Bình, huyện Hoành Bồ."
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "bai-bo",
+    "target_document": "119/2018/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị quyết số 119/2018/NQ-HĐND ngày 13 tháng 7 năm 2018 của Hội đồng nhân dân tỉnh về việc thông qua điều chỉnh Quy hoạch thăm dò, khai thác, sử dụng khoáng sản làm vật liệu xây dựng thông thường và khoáng sản phân tán nhỏ lẻ trên địa bàn tỉnh Quảng Ninh đến năm 2020, tầm nhìn đến năm 2030."
+   },
+   {
+    "source_path": "Điều 1 Khoản 4",
+    "action": "bai-bo",
+    "target_document": "319/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị quyết số 319/NQ-HĐND ngày 09 tháng 12 năm 2020 của Hội đồng nhân dân tỉnh về điều chỉnh Nghị quyết số 119/2018/NQ-HĐND ngày 13 tháng 7 năm 2018 của Hội đồng nhân dân tỉnh về việc thông qua điều chỉnh Quy hoạch thăm dò, khai thác, sử dụng khoáng sản làm vật liệu xây dựng thông thường và khoáng sản phân tán nhỏ lẻ trên địa bàn tỉnh Quảng Ninh đến năm 2020, tầm nhìn đến năm 2030 (đối với Quy hoạch mỏ cát san lập tại Phường Bình Ngọc, thành phố Móng Cái)."
+   },
+   {
+    "source_path": "Điều 1 Khoản 5",
+    "action": "bai-bo",
+    "target_document": "41/2021/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị quyết số 41/2021/NQ-HĐND ngày 30 tháng 9 năm 2021 của Hội đồng nhân dân tỉnh về việc điều chỉnh Nghị quyết số 119/2018/NQ-HĐND ngày 13 tháng 7 năm 2018 của Hội đồng nhân dân tỉnh về việc thông qua điều chỉnh Quy hoạch thăm dò, khai thác, sử dụng khoáng sản làm vật liệu xây dựng thông thường và khoáng sản phân tán nhỏ lẻ trên địa bàn tỉnh Quảng Ninh đến năm 2020, tầm nhìn đến năm 2030."
+   },
+   {
+    "source_path": "Điều 1 Khoản 6",
+    "action": "bai-bo",
+    "target_document": "117/2018/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị quyết số 117/2018/NQ-HĐND ngày 13 tháng 7 năm 2018 của Hội đồng nhân dân tỉnh thông qua kết quả rà soát, điều chỉnh quy hoạch ba loại rừng đến năm 2025, định hướng đến năm 2030 tỉnh Quảng Ninh."
+   },
+   {
+    "source_path": "Điều 1 Khoản 7",
+    "action": "bai-bo",
+    "target_document": "04/2022/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị quyết số 04/2022/NQ-HĐND ngày 04 tháng 11 năm 2022 của Hội đồng nhân dân tỉnh về việc điều chỉnh, bổ sung một số nội dung của Nghị quyết số 117/2018/NQ-HĐND ngày 13 tháng 7 năm 2018 của Hội đồng nhân dân tỉnh thông qua kết quả rà soát, điều chỉnh quy hoạch ba loại rừng đến năm 2025, định hướng đến năm 2030 tỉnh Quảng Ninh."
+   },
+   {
+    "source_path": "Điều 1 Khoản 8",
+    "action": "bai-bo",
+    "target_document": "223/2019/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị quyết số 223/2019/NQ-HĐND ngày 07 tháng 12 năm 2019 của Hội đồng nhân dân tỉnh về việc phân cấp thẩm quyền quản lý tài sản kết cấu hạ tầng thủy lợi thuộc phạm vi quản lý của tỉnh Quảng Ninh"
+   },
+   {
+    "source_path": "Điều 1 Khoản 9",
+    "action": "bai-bo",
+    "target_document": "36/2021/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị quyết số 36/2021/NQ-HĐND ngày 27 tháng 8 năm 2021 của Hội đồng nhân dân tỉnh về một số giải pháp cấp bách và chính sách đặc thù phòng, chống dịch bệnh COVID-19 trên địa bàn tỉnh Quảng Ninh."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "246/2020/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ Điều 3 Nghị quyết số 246/2020/NQ-HĐND ngày 31 tháng 3 năm 2020 của Hội đồng nhân dân tỉnh về việc sửa đổi, bổ sung một số Nghị quyết của Hội đồng nhân dân tỉnh liên quan đến lĩnh vực tài chính - ngân sách và khoáng sản."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Chữ hành động ở tên Điều 1 \"Bãi bỏ toàn bộ các văn bản\". Tên văn bản và lời dẫn không nêu số hiệu."
+ },
+ {
+  "doc_id": "668392",
+  "relations": [
+   {
+    "source_path": "Điều 1",
+    "action": "sua-doi",
+    "target_document": "72/QĐ-TTg",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 3"
+    ],
+    "doi_tuong": "thành phần Ban Chỉ đạo",
+    "evidence": "Sửa đổi thành phần Ban Chỉ đạo tại Điều 3 Quyết định số 72/QĐ-TTg ngày 10 tháng 01 năm 2025 của Thủ tướng Chính phủ về việc thành lập Ban Chỉ đạo xây dựng nhà máy điện hạt nhân như sau:"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 2 \"là một bộ phận của Quyết định số 72/QĐ-TTg\" không phải hành động."
+ }
+]

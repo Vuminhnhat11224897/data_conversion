@@ -1,0 +1,85 @@
+[
+ {
+  "doc_id": "663357",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "quy-dinh-chi-tiet",
+    "target_document": "Luật Phòng, chống mua bán người",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Chính phủ ban hành Nghị định quy định chi tiết một số điều và biện pháp thi hành Luật Phòng, chống mua bán người."
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "quy-dinh-chi-tiet",
+    "target_document": "Luật Phòng, chống mua bán người",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 6 Điều 27",
+     "khoản 3 Điều 28",
+     "khoản 5 Điều 29",
+     "khoản 3 Điều 30",
+     "khoản 7 Điều 31",
+     "khoản 6 Điều 35",
+     "khoản 5 Điều 37",
+     "khoản 7 Điều 46",
+     "khoản 4 Điều 47",
+     "khoản 3 Điều 56"
+    ],
+    "doi_tuong": null,
+    "evidence": "Quy định chi tiết khoản 6 Điều 27, khoản 3 Điều 28, khoản 5 Điều 29, khoản 3 Điều 30, khoản 7 Điều 31, khoản 6 Điều 35, khoản 5 Điều 37, khoản 7 Điều 46, khoản 4 Điều 47, khoản 3 Điều 56 của Luật Phòng, chống mua bán người."
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "huong-dan",
+    "target_document": "Luật Phòng, chống mua bán người",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 22"
+    ],
+    "doi_tuong": null,
+    "evidence": "Quy định biện pháp để tổ chức thực hiện và hướng dẫn thi hành khoản 3 Điều 22 của Luật Phòng, chống mua bán người."
+   },
+   {
+    "source_path": "Điều 43 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "09/2013/NĐ-CP",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị định số 09/2013/NĐ-CP ngày 11 tháng 01 năm 2013 của Chính phủ quy định chi tiết thi hành một số điều của Luật Phòng, chống mua bán người; Nghị định số 62/2012/NĐ-CP ngày 13 tháng 8 năm 2012 của Chính phủ quy định căn cứ xác định nạn nhân bị mua bán và bảo vệ an toàn cho nạn nhân, người thân thích của họ; Thông tư liên tịch số 01/2014/TTLT-BCA-BQP-BLĐTBXH-BNG ngày 10 tháng 02 năm 2014 của Bộ Công an, Bộ Quốc phòng, Bộ Lao động - Thương binh và Xã hội, Bộ Ngoại giao hướng dẫn trình tự, thủ tục và quan hệ phối hợp trong việc xác minh, xác định, tiếp nhận và trao trả nạn nhân bị mua bán; Thông tư số 35/2013/TT-BLĐTBXH ngày 30 tháng 12 năm 2013 của Bộ trưởng Bộ Lao động - Thương binh và Xã hội hướng dẫn thi hành một số điều của Nghị định số 09/2013/NĐ-CP ngày 11 tháng 01 năm 2013 của Chính phủ quy định chi tiết thi hành một số điều của Luật Phòng, chống mua bán người hết hiệu lực kể từ ngày Nghị định này có hiệu lực thi hành."
+   },
+   {
+    "source_path": "Điều 43 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "62/2012/NĐ-CP",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị định số 09/2013/NĐ-CP ngày 11 tháng 01 năm 2013 của Chính phủ quy định chi tiết thi hành một số điều của Luật Phòng, chống mua bán người; Nghị định số 62/2012/NĐ-CP ngày 13 tháng 8 năm 2012 của Chính phủ quy định căn cứ xác định nạn nhân bị mua bán và bảo vệ an toàn cho nạn nhân, người thân thích của họ; Thông tư liên tịch số 01/2014/TTLT-BCA-BQP-BLĐTBXH-BNG ngày 10 tháng 02 năm 2014 của Bộ Công an, Bộ Quốc phòng, Bộ Lao động - Thương binh và Xã hội, Bộ Ngoại giao hướng dẫn trình tự, thủ tục và quan hệ phối hợp trong việc xác minh, xác định, tiếp nhận và trao trả nạn nhân bị mua bán; Thông tư số 35/2013/TT-BLĐTBXH ngày 30 tháng 12 năm 2013 của Bộ trưởng Bộ Lao động - Thương binh và Xã hội hướng dẫn thi hành một số điều của Nghị định số 09/2013/NĐ-CP ngày 11 tháng 01 năm 2013 của Chính phủ quy định chi tiết thi hành một số điều của Luật Phòng, chống mua bán người hết hiệu lực kể từ ngày Nghị định này có hiệu lực thi hành."
+   },
+   {
+    "source_path": "Điều 43 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "01/2014/TTLT-BCA-BQP-BLĐTBXH-BNG",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị định số 09/2013/NĐ-CP ngày 11 tháng 01 năm 2013 của Chính phủ quy định chi tiết thi hành một số điều của Luật Phòng, chống mua bán người; Nghị định số 62/2012/NĐ-CP ngày 13 tháng 8 năm 2012 của Chính phủ quy định căn cứ xác định nạn nhân bị mua bán và bảo vệ an toàn cho nạn nhân, người thân thích của họ; Thông tư liên tịch số 01/2014/TTLT-BCA-BQP-BLĐTBXH-BNG ngày 10 tháng 02 năm 2014 của Bộ Công an, Bộ Quốc phòng, Bộ Lao động - Thương binh và Xã hội, Bộ Ngoại giao hướng dẫn trình tự, thủ tục và quan hệ phối hợp trong việc xác minh, xác định, tiếp nhận và trao trả nạn nhân bị mua bán; Thông tư số 35/2013/TT-BLĐTBXH ngày 30 tháng 12 năm 2013 của Bộ trưởng Bộ Lao động - Thương binh và Xã hội hướng dẫn thi hành một số điều của Nghị định số 09/2013/NĐ-CP ngày 11 tháng 01 năm 2013 của Chính phủ quy định chi tiết thi hành một số điều của Luật Phòng, chống mua bán người hết hiệu lực kể từ ngày Nghị định này có hiệu lực thi hành."
+   },
+   {
+    "source_path": "Điều 43 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "35/2013/TT-BLĐTBXH",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị định số 09/2013/NĐ-CP ngày 11 tháng 01 năm 2013 của Chính phủ quy định chi tiết thi hành một số điều của Luật Phòng, chống mua bán người; Nghị định số 62/2012/NĐ-CP ngày 13 tháng 8 năm 2012 của Chính phủ quy định căn cứ xác định nạn nhân bị mua bán và bảo vệ an toàn cho nạn nhân, người thân thích của họ; Thông tư liên tịch số 01/2014/TTLT-BCA-BQP-BLĐTBXH-BNG ngày 10 tháng 02 năm 2014 của Bộ Công an, Bộ Quốc phòng, Bộ Lao động - Thương binh và Xã hội, Bộ Ngoại giao hướng dẫn trình tự, thủ tục và quan hệ phối hợp trong việc xác minh, xác định, tiếp nhận và trao trả nạn nhân bị mua bán; Thông tư số 35/2013/TT-BLĐTBXH ngày 30 tháng 12 năm 2013 của Bộ trưởng Bộ Lao động - Thương binh và Xã hội hướng dẫn thi hành một số điều của Nghị định số 09/2013/NĐ-CP ngày 11 tháng 01 năm 2013 của Chính phủ quy định chi tiết thi hành một số điều của Luật Phòng, chống mua bán người hết hiệu lực kể từ ngày Nghị định này có hiệu lực thi hành."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Không thấy số hiệu của Luật Phòng, chống mua bán người trong văn bản nên ghi theo tên. Điều 43 khoản 2 tự tuyên bố 4 văn bản hết hiệu lực: ghi bai-bo. Điều 44 khoản 3 (hồ sơ cũ vẫn theo Nghị định 09/2013, 62/2012) là chuyển tiếp, không ghi. Phần đầu chỉ ghi quy-dinh-chi-tiet; 'biện pháp thi hành' ở tên không ghi riêng (Điều 1 khoản 2 đã ghi huong-dan). Phụ lục là mẫu biểu, không có tác động."
+ }
+]

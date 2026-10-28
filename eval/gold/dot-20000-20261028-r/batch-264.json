@@ -1,0 +1,944 @@
+[
+ {
+  "doc_id": "671495",
+  "relations": [
+   {
+    "source_path": "Điều 1",
+    "action": "sua-doi",
+    "target_document": "10/2016/QĐ-TTg",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm c khoản 1 Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm c khoản 1 của Điều 2"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bo-sung",
+    "target_document": "10/2016/QĐ-TTg",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm c khoản 1 Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm c khoản 1 của Điều 2"
+   },
+   {
+    "source_path": "Điều 2 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "10/2016/QĐ-TTg",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "1. Sửa đổi, bổ sung khoản 1 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "10/2016/QĐ-TTg",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "1. Sửa đổi, bổ sung khoản 1 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "10/2016/QĐ-TTg",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 6 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "2. Sửa đổi, bổ sung khoản 6 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "10/2016/QĐ-TTg",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 6 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "2. Sửa đổi, bổ sung khoản 6 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 3",
+    "action": "sua-doi",
+    "target_document": "10/2016/QĐ-TTg",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 7 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "3. Sửa đổi, bổ sung khoản 7 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 3",
+    "action": "bo-sung",
+    "target_document": "10/2016/QĐ-TTg",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 7 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "3. Sửa đổi, bổ sung khoản 7 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 4",
+    "action": "sua-doi",
+    "target_document": "10/2016/QĐ-TTg",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 9 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "4. Sửa đổi, bổ sung khoản 9 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 4",
+    "action": "bo-sung",
+    "target_document": "10/2016/QĐ-TTg",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 9 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "4. Sửa đổi, bổ sung khoản 9 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 5",
+    "action": "bai-bo",
+    "target_document": "10/2016/QĐ-TTg",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 8 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "5. Bãi bỏ khoản 8."
+   },
+   {
+    "source_path": "Điều 3 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "10/2016/QĐ-TTg",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm b khoản 3 Điều 6"
+    ],
+    "doi_tuong": null,
+    "evidence": "1. Sửa đổi, bổ sung điểm b khoản 3 như sau:"
+   },
+   {
+    "source_path": "Điều 3 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "10/2016/QĐ-TTg",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm b khoản 3 Điều 6"
+    ],
+    "doi_tuong": null,
+    "evidence": "1. Sửa đổi, bổ sung điểm b khoản 3 như sau:"
+   },
+   {
+    "source_path": "Điều 3 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "10/2016/QĐ-TTg",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 5 Điều 6"
+    ],
+    "doi_tuong": null,
+    "evidence": "2. Sửa đổi, bổ sung khoản 5 như sau:"
+   },
+   {
+    "source_path": "Điều 3 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "10/2016/QĐ-TTg",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 5 Điều 6"
+    ],
+    "doi_tuong": null,
+    "evidence": "2. Sửa đổi, bổ sung khoản 5 như sau:"
+   },
+   {
+    "source_path": "Điều 3 Khoản 3",
+    "action": "sua-doi",
+    "target_document": "10/2016/QĐ-TTg",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 7 Điều 6"
+    ],
+    "doi_tuong": null,
+    "evidence": "3. Sửa đổi, bổ sung khoản 7 như sau:"
+   },
+   {
+    "source_path": "Điều 3 Khoản 3",
+    "action": "bo-sung",
+    "target_document": "10/2016/QĐ-TTg",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 7 Điều 6"
+    ],
+    "doi_tuong": null,
+    "evidence": "3. Sửa đổi, bổ sung khoản 7 như sau:"
+   },
+   {
+    "source_path": "Điều 4 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "10/2016/QĐ-TTg",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 2 Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "1. Sửa đổi, bổ sung điểm a khoản 2 Điều 7 như sau:"
+   },
+   {
+    "source_path": "Điều 4 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "10/2016/QĐ-TTg",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 2 Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "1. Sửa đổi, bổ sung điểm a khoản 2 Điều 7 như sau:"
+   },
+   {
+    "source_path": "Điều 4 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "10/2016/QĐ-TTg",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm c khoản 2 Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "2. Bãi bỏ điểm c khoản 2 Điều 7."
+   },
+   {
+    "source_path": "Điều 5",
+    "action": "sua-doi",
+    "target_document": "10/2016/QĐ-TTg",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm b khoản 2 Điều 8"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm b khoản 2 của Điều 8"
+   },
+   {
+    "source_path": "Điều 5",
+    "action": "bo-sung",
+    "target_document": "10/2016/QĐ-TTg",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm b khoản 2 Điều 8"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm b khoản 2 của Điều 8"
+   },
+   {
+    "source_path": "Điều 6",
+    "action": "sua-doi",
+    "target_document": "15/2019/QĐ-TTg",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 4 Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm a khoản 4 của Điều 2"
+   },
+   {
+    "source_path": "Điều 6",
+    "action": "bo-sung",
+    "target_document": "15/2019/QĐ-TTg",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 4 Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm a khoản 4 của Điều 2"
+   },
+   {
+    "source_path": "Điều 7",
+    "action": "sua-doi",
+    "target_document": "15/2019/QĐ-TTg",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 3 Điều 13"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm a khoản 3 của Điều 13"
+   },
+   {
+    "source_path": "Điều 7",
+    "action": "bo-sung",
+    "target_document": "15/2019/QĐ-TTg",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 3 Điều 13"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm a khoản 3 của Điều 13"
+   },
+   {
+    "source_path": "Điều 8 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "15/2019/QĐ-TTg",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 16"
+    ],
+    "doi_tuong": null,
+    "evidence": "1. Sửa đổi khoản 1 Điều 16 như sau:"
+   },
+   {
+    "source_path": "Điều 8 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "15/2019/QĐ-TTg",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 16"
+    ],
+    "doi_tuong": null,
+    "evidence": "2. Sửa đổi khoản 3 Điều 16 như sau:"
+   },
+   {
+    "source_path": "Điều 9 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "15/2019/QĐ-TTg",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 18"
+    ],
+    "doi_tuong": null,
+    "evidence": "1. Sửa đổi bổ sung khoản 2 như sau:"
+   },
+   {
+    "source_path": "Điều 9 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "15/2019/QĐ-TTg",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 18"
+    ],
+    "doi_tuong": null,
+    "evidence": "1. Sửa đổi bổ sung khoản 2 như sau:"
+   },
+   {
+    "source_path": "Điều 9 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "15/2019/QĐ-TTg",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm g khoản 8 Điều 18"
+    ],
+    "doi_tuong": null,
+    "evidence": "2. Bổ sung điểm g vào khoản 8 như sau:"
+   },
+   {
+    "source_path": "Điều 10",
+    "action": "sua-doi",
+    "target_document": "15/2019/QĐ-TTg",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 19"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 19"
+   },
+   {
+    "source_path": "Điều 10",
+    "action": "bo-sung",
+    "target_document": "15/2019/QĐ-TTg",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 19"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 19"
+   },
+   {
+    "source_path": "Điều 11",
+    "action": "thay-the",
+    "target_document": "15/2019/QĐ-TTg",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục"
+    ],
+    "doi_tuong": "Mẫu số 11, 12, 16",
+    "evidence": "Thay thế các Mẫu số 11, 12, 16 tại Phụ lục kèm theo Quyết định số 15/2019/QĐ-TTg đã được sửa đổi, bổ sung năm 2025 bằng các Mẫu số 01, 02, 03 tại Phụ lục kèm theo Quyết định này."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Chương I sửa QĐ 10/2016/QĐ-TTg, Chương II sửa QĐ 15/2019/QĐ-TTg (số hiệu lấy từ tên Chương). QĐ 03/2025/QĐ-TTg trong tên Chương II chỉ là lịch sử sửa đổi. Tên văn bản không nêu số hiệu."
+ },
+ {
+  "doc_id": "671497",
+  "relations": [
+   {
+    "source_path": "Điều 4 Khoản 1",
+    "action": "bai-bo",
+    "target_document": "180/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 180/QĐ-UBND ngày 02/3/2021 của UBND tỉnh về Bộ tiêu chí đánh giá Bộ phận Một cửa, công chức một cửa trên địa bàn tỉnh Bắc Giang."
+   },
+   {
+    "source_path": "Điều 4 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "3065/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 3065/QĐ-UBND ngày 13/10/2022 của UBND tỉnh về việc sửa đổi, bổ sung khoản 2 Điều 1 và Phụ lục III, Phụ lục IV kèm theo Quyết định số 180/QĐ-UBND"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 4: 'Quyết định có hiệu lực kể từ ngày ký và bãi bỏ các Quyết định sau:' 2 khoản liệt kê 2 QĐ bị bãi bỏ."
+ },
+ {
+  "doc_id": "671539",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Thông qua phương án đơn giản hóa TTHC; phụ lục chỉ đề nghị cơ quan có thẩm quyền bãi bỏ/sửa đổi NĐ 20/2006, NĐ 125/2014, TT 01/2015, NĐ 17/2020, TT 43/2018 — là kiến nghị, không phải quan hệ."
+ },
+ {
+  "doc_id": "671569",
+  "relations": [
+   {
+    "source_path": "Điều 2 Khoản 1 điểm a",
+    "action": "bai-bo",
+    "target_document": "34/2020/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 34/2020/QĐ-UBND ngày 14/10/2020"
+   },
+   {
+    "source_path": "Điều 2 Khoản 1 điểm b",
+    "action": "bai-bo",
+    "target_document": "01/2021/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 01/2021/QĐ-UBND ngày 29/01/2021"
+   },
+   {
+    "source_path": "Điều 2 Khoản 1 điểm c",
+    "action": "bai-bo",
+    "target_document": "13/2023/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định 13/2023/QĐ-UBND ngày 29/6/2023"
+   },
+   {
+    "source_path": "Điều 2 Khoản 1 điểm d",
+    "action": "bai-bo",
+    "target_document": "63/2021/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định 63/2021/QĐ-UBND ngày 27/11/2021"
+   },
+   {
+    "source_path": "Điều 2 Khoản 1 điểm đ",
+    "action": "bai-bo",
+    "target_document": "24/2022/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 24/2022/QĐ-UBND ngày 03/8/2022"
+   },
+   {
+    "source_path": "Điều 2 Khoản 1 điểm e",
+    "action": "bai-bo",
+    "target_document": "385/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 385/QĐ-UBND ngày 19/7/2019"
+   },
+   {
+    "source_path": "Điều 2 Khoản 1 điểm g",
+    "action": "bai-bo",
+    "target_document": "25/2022/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 25/2022/QĐ-UBND ngày 03/8/2022"
+   },
+   {
+    "source_path": "Điều 2 Khoản 1 điểm h",
+    "action": "bai-bo",
+    "target_document": "35/2019/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 35/2019/QĐ-UBND ngày 31/12/2019"
+   },
+   {
+    "source_path": "Điều 2 Khoản 1 điểm i",
+    "action": "bai-bo",
+    "target_document": "22/2024/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 22/2024/QĐ-UBND ngày 05/9/2024"
+   },
+   {
+    "source_path": "Điều 2 Khoản 1 điểm k",
+    "action": "bai-bo",
+    "target_document": "48/2024/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 48/2024/QĐ-UBND ngày 30/12/2024"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 2 khoản 1 bãi bỏ toàn bộ 10 QĐ (điểm a-k). Điều 1 'áp dụng' 5 QĐ không phải hành động sửa/bãi bỏ. Tên văn bản không nêu số hiệu."
+ },
+ {
+  "doc_id": "671649",
+  "relations": [
+   {
+    "source_path": "Mục IV",
+    "action": "thay-the",
+    "target_document": "81/KH-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Kế hoạch này thay thế Kế hoạch số 81/KH-UBND ngày 09 tháng 4 năm 2025 của Ủy ban nhân dân thành phố Cần Thơ; Kế hoạch số 08/KH-UBND ngày 15 tháng 01 năm 2025 của Ủy ban nhân dân tỉnh Sóc Trăng; Quyết định số 628/QĐ-UBND ngày 09 tháng 4 năm 2025 của Ủy ban nhân dân tỉnh Hậu Giang"
+   },
+   {
+    "source_path": "Mục IV",
+    "action": "thay-the",
+    "target_document": "08/KH-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Kế hoạch này thay thế Kế hoạch số 81/KH-UBND ngày 09 tháng 4 năm 2025 của Ủy ban nhân dân thành phố Cần Thơ; Kế hoạch số 08/KH-UBND ngày 15 tháng 01 năm 2025 của Ủy ban nhân dân tỉnh Sóc Trăng; Quyết định số 628/QĐ-UBND ngày 09 tháng 4 năm 2025 của Ủy ban nhân dân tỉnh Hậu Giang"
+   },
+   {
+    "source_path": "Mục IV",
+    "action": "thay-the",
+    "target_document": "628/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Kế hoạch này thay thế Kế hoạch số 81/KH-UBND ngày 09 tháng 4 năm 2025 của Ủy ban nhân dân thành phố Cần Thơ; Kế hoạch số 08/KH-UBND ngày 15 tháng 01 năm 2025 của Ủy ban nhân dân tỉnh Sóc Trăng; Quyết định số 628/QĐ-UBND ngày 09 tháng 4 năm 2025 của Ủy ban nhân dân tỉnh Hậu Giang"
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Mục IV",
+    "loai": "thieu_noi_dung",
+    "ghi_chu": "Đoạn kết sau Mục IV 'Kế hoạch này thay thế Kế hoạch số 81/KH-UBND...' không có trong don_vi."
+   }
+  ],
+  "ghi_chu": "Đoạn kết của Kế hoạch (sau Mục IV, không thuộc đề mục nào) thay thế 2 kế hoạch và QĐ 628/QĐ-UBND ban hành kế hoạch của Hậu Giang; source_path ghi Mục IV vì là phần cuối thân văn bản."
+ },
+ {
+  "doc_id": "672044",
+  "relations": [
+   {
+    "source_path": "Phụ lục 1 Mục I STT 1",
+    "action": "thay-the",
+    "target_document": "3088/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Quy trình thực hiện DVC trực tuyến: Thủ tục đề nghị công nhận tổ chức tôn giáo có địa bàn hoạt động ở một tỉnh",
+    "evidence": "Thủ tục đề nghị công nhận tổ chức tôn giáo có địa bàn hoạt động ở một tỉnh | Quyết định số 3088/QĐ- UBND ngày 06/11/2024 của UBND tỉnh"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục I STT 2",
+    "action": "thay-the",
+    "target_document": "3088/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Quy trình thực hiện DVC trực tuyến: Thủ tục đăng ký sửa đổi hiến chương của tổ chức tôn giáo có địa bàn hoạt động ở một tỉnh",
+    "evidence": "Thủ tục đăng ký sửa đổi hiến chương của tổ chức tôn giáo có địa bàn hoạt động ở một tỉnh | Quyết định số 3088/QĐ- UBND ngày 06/11/2024 của UBND tỉnh"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục I STT 3",
+    "action": "thay-the",
+    "target_document": "3088/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Quy trình thực hiện DVC trực tuyến: Thủ tục đề nghị thành lập, chia, tách, sáp nhập, hợp nhất tổ chức tôn giáo trực thuộc có địa bàn hoạt động ở một tỉnh",
+    "evidence": "Thủ tục đề nghị thành lập, chia, tách, sáp nhập, hợp nhất tổ chức tôn giáo trực thuộc có địa bàn hoạt động ở một tỉnh | Quyết định số 3088/QĐ- UBND ngày 06/11/2024 của UBND tỉnh"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục I STT 12",
+    "action": "thay-the",
+    "target_document": "3088/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Quy trình thực hiện DVC trực tuyến: Thủ tục đề nghị thay đổi trụ sở của tổ chức tôn giáo, tổ chức tôn giáo trực thuộc",
+    "evidence": "Thủ tục đề nghị thay đổi trụ sở của tổ chức tôn giáo, tổ chức tôn giáo trực thuộc | Quyết định số 3088/QĐ- UBND ngày 06/11/2024 của UBND tỉnh"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục I STT 13",
+    "action": "thay-the",
+    "target_document": "3088/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Quy trình thực hiện DVC trực tuyến: Thủ tục đề nghị cấp đăng ký pháp nhân phi thương mại cho tổ chức tôn giáo trực thuộc có địa bàn hoạt động ở một tỉnh",
+    "evidence": "Thủ tục đề nghị cấp đăng ký pháp nhân phi thương mại cho tổ chức tôn giáo trực thuộc có địa bàn hoạt động ở một tỉnh | Quyết định số 3088/QĐ- UBND ngày 06/11/2024 của UBND tỉnh"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục I STT 14",
+    "action": "thay-the",
+    "target_document": "3088/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Quy trình thực hiện DVC trực tuyến: Thủ tục đề nghị tự giải thể tổ chức tôn giáo có địa bàn hoạt động ở một tỉnh theo quy định của hiến chương",
+    "evidence": "Thủ tục đề nghị tự giải thể tổ chức tôn giáo có địa bàn hoạt động ở một tỉnh theo quy định của hiến chương | Quyết định số 3088/QĐ- UBND ngày 06/11/2024 của UBND tỉnh"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục I STT 15",
+    "action": "thay-the",
+    "target_document": "3088/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Quy trình thực hiện DVC trực tuyến: Thủ tục đề nghị giải thể tổ chức tôn giáo trực thuộc có địa bàn hoạt động ở một tỉnh theo quy định của hiến chương của tổ chức",
+    "evidence": "Thủ tục đề nghị giải thể tổ chức tôn giáo trực thuộc có địa bàn hoạt động ở một tỉnh theo quy định của hiến chương của tổ chức | Quyết định số 3088/QĐ- UBND ngày 06/11/2024 của UBND tỉnh"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục I STT 16",
+    "action": "thay-the",
+    "target_document": "3088/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Quy trình thực hiện DVC trực tuyến: Thủ tục đề nghị tổ chức đại hội của tổ chức tôn giáo, tổ chức tôn giáo trực thuộc, tổ chức được cấp chứng nhận đăng ký hoạt động tôn giáo có địa bàn hoạt động ở nhiều xã thuộc một tỉnh",
+    "evidence": "Thủ tục đề nghị tổ chức đại hội của tổ chức tôn giáo, tổ chức tôn giáo trực thuộc, tổ chức được cấp chứng nhận đăng ký hoạt động tôn giáo có địa bàn hoạt động ở nhiều xã thuộc một tỉnh | Quyết định số 3088/QĐ- UBND ngày 06/11/2024 của UBND tỉnh"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục I STT 17",
+    "action": "thay-the",
+    "target_document": "3088/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Quy trình thực hiện DVC trực tuyến: Thủ tục đề nghị tổ chức cuộc lễ ngoài cơ sở tôn giáo, địa điểm hợp pháp đã đăng ký có quy mô tổ chức ở nhiều xã thuộc một tỉnh hoặc ở nhiều tỉnh",
+    "evidence": "Thủ tục đề nghị tổ chức cuộc lễ ngoài cơ sở tôn giáo, địa điểm hợp pháp đã đăng ký có quy mô tổ chức ở nhiều xã thuộc một tỉnh hoặc ở nhiều tỉnh | Quyết định số 3088/QĐ- UBND ngày 06/11/2024 của UBND tỉnh"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục I STT 18",
+    "action": "thay-the",
+    "target_document": "3088/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Quy trình thực hiện DVC trực tuyến: Thủ tục đề nghị giảng đạo ngoài địa bàn phụ trách, cơ sở tôn giáo, địa điểm hợp pháp đã đăng ký có quy mô tổ chức ở nhiều xã thuộc một tỉnh hoặc ở nhiều tỉnh",
+    "evidence": "Thủ tục đề nghị giảng đạo ngoài địa bàn phụ trách, cơ sở tôn giáo, địa điểm hợp pháp đã đăng ký có quy mô tổ chức ở nhiều xã thuộc một tỉnh hoặc ở nhiều tỉnh | Quyết định số 3088/QĐ- UBND ngày 06/11/2024 của UBND tỉnh"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục II STT 21",
+    "action": "thay-the",
+    "target_document": "3088/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Quy trình thực hiện DVC trực tuyến: Thủ tục đề nghị cấp chứng nhận đăng ký hoạt động tôn giáo cho tổ chức có địa bàn hoạt động ở một tỉnh",
+    "evidence": "Thủ tục đề nghị cấp chứng nhận đăng ký hoạt động tôn giáo cho tổ chức có địa bàn hoạt động ở một tỉnh | Quyết định số 3088/QĐ- UBND ngày 06/11/2024 của UBND tỉnh"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục II STT 22",
+    "action": "thay-the",
+    "target_document": "3088/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Quy trình thực hiện DVC trực tuyến: Thủ tục đăng ký người được bổ nhiệm, bầu cử, suy cử làm chức việc đối với các trường hợp quy định tại khoản 2 Điều 34 của Luật tín ngưỡng, tôn giáo",
+    "evidence": "Thủ tục đăng ký người được bổ nhiệm, bầu cử, suy cử làm chức việc đối với các trường hợp quy định tại khoản 2 Điều 34 của Luật tín ngưỡng, tôn giáo | Quyết định số 3088/QĐ- UBND ngày 06/11/2024 của UBND tỉnh"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục II STT 23",
+    "action": "thay-the",
+    "target_document": "3088/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Quy trình thực hiện DVC trực tuyến: Thủ tục đăng ký người được bổ nhiệm, bầu cử, suy cử làm chức việc của tổ chức được cấp chứng nhận đăng ký hoạt động tôn giáo có địa bàn hoạt động ở một tỉnh",
+    "evidence": "Thủ tục đăng ký người được bổ nhiệm, bầu cử, suy cử làm chức việc của tổ chức được cấp chứng nhận đăng ký hoạt động tôn giáo có địa bàn hoạt động ở một tỉnh | Quyết định số 3088/QĐ- UBND ngày 06/11/2024 của UBND tỉnh"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục II STT 24",
+    "action": "thay-the",
+    "target_document": "3088/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Quy trình thực hiện DVC trực tuyến: Thủ tục đăng ký mở lớp bồi dưỡng về tôn giáo cho người chuyên hoạt động tôn giáo",
+    "evidence": "Thủ tục đăng ký mở lớp bồi dưỡng về tôn giáo cho người chuyên hoạt động tôn giáo | Quyết định số 3088/QĐ- UBND ngày 06/11/2024 của UBND"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Phụ lục danh mục DVC có cột 'Áp dụng thay thế' nêu QĐ 3088/QĐ-UBND ở 14 dòng; Điều 2 khoản 4 xác nhận quy trình cũ 'bị thay thế/bãi bỏ tại Quyết định này'. Dòng 4-11 để trống, dòng 19-20 'Xây dựng mới'. Không rõ quy trình cũ ở phần nào của QĐ 3088 nên khong_ro."
+ },
+ {
+  "doc_id": "672310",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Thông qua phương án đơn giản hóa; 'Kiến nghị thực thi' sửa khoản 3 Điều 10 NĐ 08/2014/NĐ-CP là đề xuất, không phải quan hệ."
+ },
+ {
+  "doc_id": "672348",
+  "relations": [
+   {
+    "source_path": "Phụ lục 1 Mục I STT 1",
+    "action": "thay-the",
+    "target_document": "1313/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Quy trình thực hiện DVC trực tuyến: Thủ tục cấp Thẻ hướng dẫn viên du lịch tại điểm",
+    "evidence": "Thủ tục cấp Thẻ hướng dẫn viên du lịch tại điểm | Quyết định số 1313/QĐ-UBND ngày 25/4/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục I STT 2",
+    "action": "thay-the",
+    "target_document": "1313/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Quy trình thực hiện DVC trực tuyến: Thủ tục cấp Thẻ hướng dẫn viên du lịch nội địa",
+    "evidence": "Thủ tục cấp Thẻ hướng dẫn viên du lịch nội địa | Quyết định số 1313/QĐ-UBND ngày 25/4/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục I STT 3",
+    "action": "thay-the",
+    "target_document": "1313/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Quy trình thực hiện DVC trực tuyến: Thủ tục cấp Thẻ hướng dẫn viên du lịch quốc tế",
+    "evidence": "Thủ tục cấp Thẻ hướng dẫn viên du lịch quốc tế | Quyết định số 1313/QĐ-UBND ngày 25/4/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục I STT 4",
+    "action": "thay-the",
+    "target_document": "1313/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Quy trình thực hiện DVC trực tuyến: Thủ tục cấp đổi Thẻ hướng dẫn viên du lịch quốc tế, Thẻ hướng dẫn viên du lịch nội địa",
+    "evidence": "Thủ tục cấp đổi Thẻ hướng dẫn viên du lịch quốc tế, Thẻ hướng dẫn viên du lịch nội địa | Quyết định số 1313/QĐ-UBND ngày 25/4/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục I STT 5",
+    "action": "thay-the",
+    "target_document": "1313/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Quy trình thực hiện DVC trực tuyến: Thủ tục cấp lại Thẻ hướng dẫn viên du lịch",
+    "evidence": "Thủ tục cấp lại Thẻ hướng dẫn viên du lịch | Quyết định số 1313/QĐ-UBND ngày 25/4/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục I STT 6",
+    "action": "thay-the",
+    "target_document": "1313/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Quy trình thực hiện DVC trực tuyến: Thủ tục cấp Giấy phép kinh doanh dịch vụ lữ hành nội địa dịch vụ lữ hành nội địa",
+    "evidence": "Thủ tục cấp Giấy phép kinh doanh dịch vụ lữ hành nội địa dịch vụ lữ hành nội địa | Quyết định số 1313/QĐ-UBND ngày 25/4/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục I STT 8",
+    "action": "thay-the",
+    "target_document": "1313/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Quy trình thực hiện DVC trực tuyến: Thủ tục cấp lại Giấy phép kinh doanh dịch vụ lữ hành nội địa",
+    "evidence": "Thủ tục cấp lại Giấy phép kinh doanh dịch vụ lữ hành nội địa | Quyết định số 1313/QĐ-UBND ngày 25/4/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục I STT 9",
+    "action": "thay-the",
+    "target_document": "1313/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Quy trình thực hiện DVC trực tuyến: Thủ tục thu hồi Giấy phép kinh doanh dịch vụ lữ hành nội địa trong trường hợp doanh nghiệp chấm dứt hoạt động kinh doanh dịch vụ lữ hành",
+    "evidence": "Thủ tục thu hồi Giấy phép kinh doanh dịch vụ lữ hành nội địa trong trường hợp doanh nghiệp chấm dứt hoạt động kinh doanh dịch vụ lữ hành | Quyết định số 1313/QĐ-UBND ngày 25/4/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục I STT 10",
+    "action": "thay-the",
+    "target_document": "1313/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Quy trình thực hiện DVC trực tuyến: Thủ tục thu hồi Giấy phép kinh doanh dịch vụ lữ hành nội địa trong trường hợp doanh nghiệp giải thể",
+    "evidence": "Thủ tục thu hồi Giấy phép kinh doanh dịch vụ lữ hành nội địa trong trường hợp doanh nghiệp giải thể | Quyết định số 1313/QĐ-UBND ngày 25/4/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục I STT 11",
+    "action": "thay-the",
+    "target_document": "1313/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Quy trình thực hiện DVC trực tuyến: Thủ tục thu hồi Giấy phép kinh doanh dịch vụ lữ hành nội địa trong trường hợp doanh nghiệp phá sản",
+    "evidence": "Thủ tục thu hồi Giấy phép kinh doanh dịch vụ lữ hành nội địa trong trường hợp doanh nghiệp phá sản | Quyết định số 1313/QĐ-UBND ngày 25/4/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục I STT 12",
+    "action": "thay-the",
+    "target_document": "1313/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Quy trình thực hiện DVC trực tuyến: Thủ tục cấp Giấy phép thành lập Văn phòng đại diện tại Việt Nam của doanh nghiệp kinh doanh dịch vụ lữ hành nước ngoài",
+    "evidence": "Thủ tục cấp Giấy phép thành lập Văn phòng đại diện tại Việt Nam của doanh nghiệp kinh doanh dịch vụ lữ hành nước ngoài | Quyết định số 1313/QĐ-UBND ngày 25/4/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục I STT 13",
+    "action": "thay-the",
+    "target_document": "1313/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Quy trình thực hiện DVC trực tuyến: Thủ tục điều chỉnh Giấy phép thành lập Văn phòng đại diện tại Việt Nam của doanh nghiệp kinh doanh dịch vụ lữ hành nước ngoài",
+    "evidence": "Thủ tục điều chỉnh Giấy phép thành lập Văn phòng đại diện tại Việt Nam của doanh nghiệp kinh doanh dịch vụ lữ hành nước ngoài | Quyết định số 1313/QĐ-UBND ngày 25/4/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục I STT 14",
+    "action": "thay-the",
+    "target_document": "1313/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Quy trình thực hiện DVC trực tuyến: Thủ tục gia hạn Giấy phép thành lập Văn phòng đại diện tại Việt Nam của doanh nghiệp kinh doanh dịch vụ lữ hành nước ngoài",
+    "evidence": "Thủ tục gia hạn Giấy phép thành lập Văn phòng đại diện tại Việt Nam của doanh nghiệp kinh doanh dịch vụ lữ hành nước ngoài | Quyết định số 1313/QĐ-UBND ngày 25/4/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục I STT 15",
+    "action": "thay-the",
+    "target_document": "1313/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Quy trình thực hiện DVC trực tuyến: Thủ tục cấp lại Giấy phép thành lập Văn phòng đại diện tại Việt Nam của doanh nghiệp kinh doanh dịch vụ lữ hành nước ngoài trong trường hợp chuyển địa điểm đặt trụ sở của văn phòng đại diện",
+    "evidence": "Thủ tục cấp lại Giấy phép thành lập Văn phòng đại diện tại Việt Nam của doanh nghiệp kinh doanh dịch vụ lữ hành nước ngoài trong trường hợp chuyển địa điểm đặt trụ sở của văn phòng đại diện | Quyết định số 1313/QĐ-UBND ngày 25/4/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục I STT 16",
+    "action": "thay-the",
+    "target_document": "1313/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Quy trình thực hiện DVC trực tuyến: Thủ tục cấp lại Giấy phép thành lập Văn phòng đại diện tại Việt Nam của doanh nghiệp kinh doanh dịch vụ lữ hành nước ngoài trong trường hợp Giấy phép thành lập Văn phòng đại diện bị mất, bị hủy hoại, bị hư hỏng hoặc bị tiêu hủy",
+    "evidence": "Thủ tục cấp lại Giấy phép thành lập Văn phòng đại diện tại Việt Nam của doanh nghiệp kinh doanh dịch vụ lữ hành nước ngoài trong trường hợp Giấy phép thành lập Văn phòng đại diện bị mất, bị hủy hoại, bị hư hỏng hoặc bị tiêu hủy | Quyết định số 1313/QĐ-UBND ngày 25/4/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục I STT 17",
+    "action": "thay-the",
+    "target_document": "1313/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Quy trình thực hiện DVC trực tuyến: Thủ tục chấm dứt hoạt động của văn phòng đại diện tại Việt Nam của doanh nghiệp kinh doanh dịch vụ lữ hành nước ngoài",
+    "evidence": "Thủ tục chấm dứt hoạt động của văn phòng đại diện tại Việt Nam của doanh nghiệp kinh doanh dịch vụ lữ hành nước ngoài | Quyết định số 1313/QĐ-UBND ngày 25/4/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục I STT 18",
+    "action": "thay-the",
+    "target_document": "1313/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Quy trình thực hiện DVC trực tuyến: Thủ tục công nhận hạng cơ sở lưu trú du lịch: Hạng 1 sao, 2 sao, 3 sao đối với khách sạn, biệt thự du lịch, căn hộ du lịch, tàu thủy lưu trú du lịch",
+    "evidence": "Thủ tục công nhận hạng cơ sở lưu trú du lịch: Hạng 1 sao, 2 sao, 3 sao đối với khách sạn, biệt thự du lịch, căn hộ du lịch, tàu thủy lưu trú du lịch | Quyết định số 1313/QĐ-UBND ngày 25/4/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục I STT 19",
+    "action": "thay-the",
+    "target_document": "1313/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Quy trình thực hiện DVC trực tuyến: Thủ tục công nhận cơ sở kinh doanh dịch vụ vui chơi, giải trí đạt tiêu chuẩn phục vụ khách du lịch",
+    "evidence": "Thủ tục công nhận cơ sở kinh doanh dịch vụ vui chơi, giải trí đạt tiêu chuẩn phục vụ khách du lịch | Quyết định số 1313/QĐ-UBND ngày 25/4/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục I STT 20",
+    "action": "thay-the",
+    "target_document": "1313/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Quy trình thực hiện DVC trực tuyến: Thủ tục công nhận cơ sở kinh doanh dịch vụ ăn uống đạt tiêu chuẩn phục vụ khách du lịch",
+    "evidence": "Thủ tục công nhận cơ sở kinh doanh dịch vụ ăn uống đạt tiêu chuẩn phục vụ khách du lịch | Quyết định số 1313/QĐ-UBND ngày 25/4/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục I STT 21",
+    "action": "thay-the",
+    "target_document": "1313/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Quy trình thực hiện DVC trực tuyến: Thủ tục công nhận cơ sở kinh doanh dịch vụ mua sắm đạt tiêu chuẩn phục vụ khách du lịch",
+    "evidence": "Thủ tục công nhận cơ sở kinh doanh dịch vụ mua sắm đạt tiêu chuẩn phục vụ khách du lịch | Quyết định số 1313/QĐ-UBND ngày 25/4/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục I STT 22",
+    "action": "thay-the",
+    "target_document": "1313/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Quy trình thực hiện DVC trực tuyến: Thủ tục công nhận cơ sở kinh doanh dịch vụ chăm sóc sức khỏe đạt tiêu chuẩn phục vụ khách du lịch",
+    "evidence": "Thủ tục công nhận cơ sở kinh doanh dịch vụ chăm sóc sức khỏe đạt tiêu chuẩn phục vụ khách du lịch | Quyết định số 1313/QĐ-UBND ngày 25/4/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục I STT 23",
+    "action": "thay-the",
+    "target_document": "1313/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Quy trình thực hiện DVC trực tuyến: Thủ tục công nhận cơ sở kinh doanh dịch vụ thể thao đạt tiêu chuẩn phục vụ khách du lịch",
+    "evidence": "Thủ tục công nhận cơ sở kinh doanh dịch vụ thể thao đạt tiêu chuẩn phục vụ khách du lịch | Quyết định số 1313/QĐ-UBND ngày 25/4/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục I STT 24",
+    "action": "thay-the",
+    "target_document": "1758/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Quy trình thực hiện DVC trực tuyến: Thủ tục công nhận điểm du lịch",
+    "evidence": "Thủ tục công nhận điểm du lịch | Quyết định số 1758/QĐ-UBND ngày 29/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục I STT 25",
+    "action": "thay-the",
+    "target_document": "1758/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Quy trình thực hiện DVC trực tuyến: Thủ tục công nhận khu du lịch cấp tỉnh",
+    "evidence": "Thủ tục công nhận khu du lịch cấp tỉnh | Quyết định số 1758/QĐ-UBND ngày 29/5/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục I STT 26",
+    "action": "thay-the",
+    "target_document": "2093/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Quy trình thực hiện DVC trực tuyến: Thủ tục cấp Giấy chứng nhận khóa cập nhật kiến thức cho hướng dẫn viên du lịch nội địa và hướng dẫn viên du lịch quốc tế",
+    "evidence": "Thủ tục cấp Giấy chứng nhận khóa cập nhật kiến thức cho hướng dẫn viên du lịch nội địa và hướng dẫn viên du lịch quốc tế | Quyết định số 2093/QĐ-UBND ngày 22/7/2024"
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Phụ lục 1 Mục I STT 7",
+    "loai": "thieu_noi_dung",
+    "ghi_chu": "Dòng STT 7 bị vỡ: chỉ còn 'dịch vụ lữ hành nội địa | UBND ngày 25/4/2025', mất số TT và số hiệu QĐ."
+   }
+  ],
+  "ghi_chu": "Phụ lục quy trình DVC được sửa đổi, cột 'Áp dụng thay thế' nêu QĐ cũ (1313/QĐ-UBND, 1758/QĐ-UBND, 2093/QĐ-UBND); Điều 2 khoản 4 xác nhận quy trình 'bị thay thế tại Quyết định này'. Dòng 7 bị vỡ (nhiều khả năng QĐ 1313) nên không ghi. Không rõ phần nào của QĐ cũ nên khong_ro."
+ },
+ {
+  "doc_id": "672458",
+  "relations": [
+   {
+    "source_path": "Điều 1",
+    "action": "bo-sung",
+    "target_document": "956/QĐ-TTPVHCC",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "địa điểm thực hiện thủ tục hành chính lĩnh vực đất đai",
+    "evidence": "Bổ sung địa điểm thực hiện thủ tục hành chính lĩnh vực đất đai trên địa bàn thành phố Hà Nội tại Quyết định số 956/QĐ-TTPVHCC"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 1 bổ sung địa điểm thực hiện TTHC vào QĐ 956/QĐ-TTPVHCC (chi tiết ở Phụ lục của văn bản này). Tên văn bản không nêu số hiệu."
+ }
+]

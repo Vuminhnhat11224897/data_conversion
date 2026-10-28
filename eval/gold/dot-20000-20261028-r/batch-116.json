@@ -1,0 +1,72 @@
+[
+ {
+  "doc_id": "657625",
+  "relations": [
+   {
+    "source_path": "Điều 3 Khoản 1",
+    "action": "thay-the",
+    "target_document": "2177/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thay thế các Quyết định phê duyệt quy trình nội bộ, quy trình điện tử của Chủ tịch UBND tỉnh Thừa Thiên Huế (nay là UBND thành phố Huế); cụ thể:"
+   },
+   {
+    "source_path": "Điều 3 Khoản 2",
+    "action": "thay-the",
+    "target_document": "1135/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thay thế các Quyết định phê duyệt quy trình nội bộ, quy trình điện tử của Chủ tịch UBND tỉnh Thừa Thiên Huế (nay là UBND thành phố Huế); cụ thể:"
+   },
+   {
+    "source_path": "Điều 3 Khoản 3",
+    "action": "thay-the",
+    "target_document": "1050/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thay thế các Quyết định phê duyệt quy trình nội bộ, quy trình điện tử của Chủ tịch UBND tỉnh Thừa Thiên Huế (nay là UBND thành phố Huế); cụ thể:"
+   },
+   {
+    "source_path": "Điều 3 Khoản 4",
+    "action": "thay-the",
+    "target_document": "1051/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thay thế các Quyết định phê duyệt quy trình nội bộ, quy trình điện tử của Chủ tịch UBND tỉnh Thừa Thiên Huế (nay là UBND thành phố Huế); cụ thể:"
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 3 Khoản 2",
+    "loai": "thieu_noi_dung",
+    "ghi_chu": "Khoản 2 (Quyết định số 1135/QĐ-UBND) có trong toàn văn nhưng không có trong don_vi"
+   },
+   {
+    "source_path": "Điều 3 Khoản 4",
+    "loai": "thieu_noi_dung",
+    "ghi_chu": "Khoản 4 (Quyết định số 1051/QĐ-UBND) có trong toàn văn nhưng không có trong don_vi"
+   }
+  ],
+  "ghi_chu": "Điều 3 thay thế 4 quyết định phê duyệt quy trình nội bộ liệt kê ở khoản 1-4. Phụ lục chỉ là quy trình, không có hành động."
+ },
+ {
+  "doc_id": "657780",
+  "relations": [
+   {
+    "source_path": "Điều 3",
+    "action": "bai-bo",
+    "target_document": "280/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ Quyết định số 280/QĐ-UBND ngày 16/02/2023 của Chủ tịch Ủy ban nhân dân tỉnh phê duyệt quy trình nội bộ liên thông trong giải quyết thủ tục hành chính được chuẩn hóa lĩnh vực Nuôi con nuôi thuộc thẩm quyền giải quyết của Sở Tư pháp tỉnh Bà Rịa - Vũng Tàu, kể từ ngày Quyết định này có hiệu lực."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên văn bản chỉ mô tả nội dung. Điều 2 'tham mưu ... sửa đổi, bổ sung' là nhiệm vụ, không ghi."
+ }
+]

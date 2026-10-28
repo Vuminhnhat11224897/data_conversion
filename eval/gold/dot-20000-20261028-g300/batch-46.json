@@ -1,0 +1,123 @@
+[
+ {
+  "doc_id": "649176",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Kế hoạch, không có tác động trực tiếp lên văn bản khác."
+ },
+ {
+  "doc_id": "649354",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Kết luận tiếp tục thực hiện Chỉ thị 36-CT/TW; không có hành động sửa, bỏ, thay."
+ },
+ {
+  "doc_id": "650605",
+  "relations": [
+   {
+    "source_path": "Điều 1",
+    "action": "sua-doi",
+    "target_document": "429/QĐ-YDCT",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "thông tin thuốc Sinh phụ khang, THỐNG PHONG GOUT BÀ GIẰNG tại Danh mục thuốc cổ truyền sản xuất trong nước được cấp GĐKLH tại Việt Nam - Cấp bổ sung",
+    "evidence": "Sửa đổi một số thông tin thuốc cổ truyền, vị thuốc cổ truyền đã được cấp giấy đăng ký lưu hành tại Việt Nam ban hành kèm theo các Quyết định cấp giấy đăng ký lưu hành của Cục Quản lý Y, Dược cổ truyền (Phụ lục kèm theo Quyết định này)."
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "sua-doi",
+    "target_document": "428/QĐ-YDCT",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "thông tin thuốc AKOXDO PLUS tại Danh mục thuốc cổ truyền sản xuất trong nước được gia hạn GĐKLH tại Việt Nam - Cấp bổ sung",
+    "evidence": "Sửa đổi một số thông tin thuốc cổ truyền, vị thuốc cổ truyền đã được cấp giấy đăng ký lưu hành tại Việt Nam ban hành kèm theo các Quyết định cấp giấy đăng ký lưu hành của Cục Quản lý Y, Dược cổ truyền (Phụ lục kèm theo Quyết định này)."
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "sua-doi",
+    "target_document": "56/QĐ-YDCT",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "thông tin thuốc Phong tê thấp, HOẠT HUYẾT HỘ TÂM HOTACAP, DẠ DÀY HOÀN BÀ GIẰNG và vị thuốc KHƯƠNG HOÀNG, TRẦN BÌ tại Danh mục thuốc cổ truyền sản xuất trong nước được cấp GĐKLH tại Việt Nam - Đợt 14",
+    "evidence": "Sửa đổi một số thông tin thuốc cổ truyền, vị thuốc cổ truyền đã được cấp giấy đăng ký lưu hành tại Việt Nam ban hành kèm theo các Quyết định cấp giấy đăng ký lưu hành của Cục Quản lý Y, Dược cổ truyền (Phụ lục kèm theo Quyết định này)."
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "sua-doi",
+    "target_document": "55/QĐ-YDCT",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "thông tin thuốc Hoàn thập toàn đại bổ Nam Hà và vị thuốc Hoàng cầm chế, Kê nội kim sao tại Danh mục thuốc cổ truyền, vị thuốc cổ truyền sản xuất trong nước được gia hạn GĐKLH tại Việt Nam - Đợt 14",
+    "evidence": "Sửa đổi một số thông tin thuốc cổ truyền, vị thuốc cổ truyền đã được cấp giấy đăng ký lưu hành tại Việt Nam ban hành kèm theo các Quyết định cấp giấy đăng ký lưu hành của Cục Quản lý Y, Dược cổ truyền (Phụ lục kèm theo Quyết định này)."
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "sua-doi",
+    "target_document": "340/QĐ-YDCT",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "thông tin thuốc HERYCEF tại Danh mục thuốc cổ truyền sản xuất trong nước được gia hạn GĐKLH tại Việt Nam - Đợt 7",
+    "evidence": "Sửa đổi một số thông tin thuốc cổ truyền, vị thuốc cổ truyền đã được cấp giấy đăng ký lưu hành tại Việt Nam ban hành kèm theo các Quyết định cấp giấy đăng ký lưu hành của Cục Quản lý Y, Dược cổ truyền (Phụ lục kèm theo Quyết định này)."
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "sua-doi",
+    "target_document": "326/QĐ-YDCT",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "thông tin thuốc Astheroncap tại Danh mục thuốc cổ truyền sản xuất trong nước được gia hạn GĐKLH tại Việt Nam - Đợt 13",
+    "evidence": "Sửa đổi một số thông tin thuốc cổ truyền, vị thuốc cổ truyền đã được cấp giấy đăng ký lưu hành tại Việt Nam ban hành kèm theo các Quyết định cấp giấy đăng ký lưu hành của Cục Quản lý Y, Dược cổ truyền (Phụ lục kèm theo Quyết định này)."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 1 sửa đổi thông tin thuốc tại danh mục kèm theo 6 Quyết định liệt kê ở Phụ lục; mỗi Quyết định một quan hệ. Tên văn bản không nêu số hiệu đích nên không có quan hệ Phần đầu."
+ },
+ {
+  "doc_id": "650863",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Phê duyệt điều chỉnh quy hoạch sử dụng đất; không nêu văn bản bị sửa, thay."
+ },
+ {
+  "doc_id": "651956",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn giao nhiệm vụ hướng dẫn; không có quan hệ."
+ },
+ {
+  "doc_id": "652159",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công điện chỉ đạo; không có quan hệ."
+ },
+ {
+  "doc_id": "654240",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Kế hoạch; không có quan hệ."
+ },
+ {
+  "doc_id": "655305",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công điện chỉ đạo; \"bãi bỏ ít nhất 30% điều kiện đầu tư kinh doanh\" là nhiệm vụ, không phải hành động."
+ },
+ {
+  "doc_id": "655460",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn đề nghị thực hiện quy định; câu chung về văn bản dẫn chiếu được sửa đổi, thay thế không phải quan hệ."
+ },
+ {
+  "doc_id": "655976",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Không có hành động lên văn bản khác; Điều 9 khoản 2 là câu chung về văn bản dẫn chiếu."
+ },
+ {
+  "doc_id": "656210",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn trả lời vướng mắc, chỉ dẫn quy định áp dụng; không ghi quan hệ hướng dẫn vì không nêu hướng dẫn thi hành văn bản cụ thể."
+ }
+]

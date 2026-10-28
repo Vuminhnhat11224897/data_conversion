@@ -1,0 +1,53 @@
+[
+ {
+  "doc_id": "674867",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quyết định phê duyệt Đề án; không có tác động lên văn bản khác. Đề án chỉ nêu căn cứ và nhiệm vụ rà soát, bổ sung."
+ },
+ {
+  "doc_id": "530912",
+  "relations": [
+   {
+    "source_path": "Điều 53",
+    "action": "bo-sung",
+    "target_document": "97/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Phụ lục 01"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung số thứ tự 36 và 37 vào sau số thứ tự 35 mục III phần B của Phụ lục số 01 về Danh mục phí, lệ phí như sau:"
+   },
+   {
+    "source_path": "Điều 54 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "38/2013/QH13",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Luật Việc làm số 38/2013/QH13 đã được sửa đổi, bổ sung một số điều theo Luật số 41/2024/QH15 hết hiệu lực kể từ ngày Luật này có hiệu lực thi hành, trừ trường hợp quy định tại các khoản 1, 2 và 3 Điều 55 của Luật này."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 53: tên Điều ghi 'Sửa đổi, bổ sung' nhưng nội dung chỉ bổ sung STT 36, 37 vào mục III phần B Phụ lục số 01 Luật Phí và lệ phí: chỉ ghi bo-sung. Các luật 09/2017/QH14 ... 35/2024/QH15 và 41/2024/QH15 chỉ nêu lịch sử sửa đổi, không phải đích."
+ },
+ {
+  "doc_id": "621345",
+  "relations": [
+   {
+    "source_path": "Điều 40",
+    "action": "bo-sung",
+    "target_document": "41/2024/QH15",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3a Điều 66"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung khoản 3a vào sau khoản 3 Điều 66 như sau:"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 40: tên Điều ghi 'Sửa đổi, bổ sung Điều 66 của Luật Bảo hiểm xã hội số 41/2024/QH15' nhưng nội dung chỉ bổ sung khoản 3a: chỉ ghi bo-sung."
+ }
+]

@@ -1,0 +1,629 @@
+[
+ {
+  "doc_id": "651744",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Kế hoạch; không có quan hệ."
+ },
+ {
+  "doc_id": "652092",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "22/2022/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "VỀ VIỆC BỔ SUNG NGHỊ QUYẾT SỐ 22/2022/NQ-HĐND NGÀY 31/5/2022 CỦA HỘI ĐỒNG NHÂN DÂN TỈNH"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bo-sung",
+    "target_document": "22/2022/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm h khoản 3 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung điểm h vào sau điểm g khoản 3 Điều 1:"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Lời dẫn nêu Tờ trình về dự thảo sửa đổi, bổ sung: không phải hành động của văn bản này."
+ },
+ {
+  "doc_id": "655334",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "914/QĐ-BCT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG QUYẾT ĐỊNH SỐ 914/QĐ-BCT NGÀY 01 THÁNG 4 NĂM 2025 CỦA BỘ TRƯỞNG BỘ CÔNG THƯƠNG"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "914/QĐ-BCT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG QUYẾT ĐỊNH SỐ 914/QĐ-BCT NGÀY 01 THÁNG 4 NĂM 2025 CỦA BỘ TRƯỞNG BỘ CÔNG THƯƠNG"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "914/QĐ-BCT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm b Mục 1"
+    ],
+    "doi_tuong": "tiểu mục b, Mục 1, Thông báo",
+    "evidence": "Sửa đổi, bổ sung tiểu mục b, Mục 1, Thông báo ban hành kèm Quyết định số 914/QĐ-BCT ngày 01 tháng 4 năm 2025 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "914/QĐ-BCT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm b Mục 1"
+    ],
+    "doi_tuong": "tiểu mục b, Mục 1, Thông báo",
+    "evidence": "Sửa đổi, bổ sung tiểu mục b, Mục 1, Thông báo ban hành kèm Quyết định số 914/QĐ-BCT ngày 01 tháng 4 năm 2025 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "914/QĐ-BCT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Mục 2 Thông báo ban hành kèm Quyết định số 914/QĐ- BCT ngày 01 tháng 4 năm 2025 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "914/QĐ-BCT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Mục 2 Thông báo ban hành kèm Quyết định số 914/QĐ- BCT ngày 01 tháng 4 năm 2025 như sau:"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Câu dẫn Điều 1 (\"Sửa đổi, bổ sung một số nội dung tại Thông báo ...\") được thay bằng khoản 1, 2. Vị trí đích là tiểu mục b Mục 1 và Mục 2 của Thông báo kèm theo Quyết định 914 (Thông báo không chia Điều)."
+ },
+ {
+  "doc_id": "658294",
+  "relations": [
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "563/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Danh mục các công trình, dự án thực hiện trong năm 2025 huyện Nậm Nhùn (diện tích dự án thủy điện Nậm Cuổi 1)",
+    "evidence": "Điều chỉnh diện tích thực hiện dự án thủy điện Nậm Cuổi 1 thuộc Danh mục các công trình, dự án thực hiện trong năm 2025 huyện Nậm Nhùn với diện tích 2,4 ha, tăng 1,89 ha so với kế hoạch sử dụng đất đã được phê duyệt."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều chỉnh Kế hoạch sử dụng đất đã phê duyệt tại Quyết định 563/QĐ-UBND (đích lấy từ câu dẫn Điều 1); ghi là sua-doi. Tên văn bản không nêu số hiệu đích."
+ },
+ {
+  "doc_id": "660229",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "23/2022/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA QUY ĐỊNH MỨC PHÂN BỔ KINH PHÍ NGÂN SÁCH NHÀ NƯỚC BẢO ĐẢM CHO CÔNG TÁC XÂY DỰNG VĂN BẢN QUY PHẠM PHÁP LUẬT VÀ HOÀN THIỆN HỆ THỐNG PHÁP LUẬT TRÊN ĐỊA BÀN TỈNH BẮC KẠN BAN HÀNH KÈM THEO NGHỊ QUYẾT SỐ 23/2022/NQ-HĐND"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "23/2022/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA QUY ĐỊNH MỨC PHÂN BỔ KINH PHÍ NGÂN SÁCH NHÀ NƯỚC BẢO ĐẢM CHO CÔNG TÁC XÂY DỰNG VĂN BẢN QUY PHẠM PHÁP LUẬT VÀ HOÀN THIỆN HỆ THỐNG PHÁP LUẬT TRÊN ĐỊA BÀN TỈNH BẮC KẠN BAN HÀNH KÈM THEO NGHỊ QUYẾT SỐ 23/2022/NQ-HĐND"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "sua-doi",
+    "target_document": "23/2022/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm a khoản 1 Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm a khoản 1 Điều 2 của Quy định ban hành kèm theo Nghị quyết số 23/2022/NQ-HĐND ngày 10 tháng 12 năm 2022 của Hội đồng nhân dân tỉnh Bắc Kạn như sau:"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bo-sung",
+    "target_document": "23/2022/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm a khoản 1 Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm a khoản 1 Điều 2 của Quy định ban hành kèm theo Nghị quyết số 23/2022/NQ-HĐND ngày 10 tháng 12 năm 2022 của Hội đồng nhân dân tỉnh Bắc Kạn như sau:"
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "23/2022/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 3"
+    ],
+    "doi_tuong": "các quy định về kinh phí thẩm định đề nghị xây dựng nghị quyết",
+    "evidence": "Bãi bỏ các quy định về kinh phí thẩm định đề nghị xây dựng nghị quyết tại Điều 3 của Quy định ban hành kèm theo Nghị quyết số 23/2022/NQ-HĐND ngày 10 tháng 12 năm 2022 của Hội đồng nhân dân tỉnh Bắc Kạn."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Lời dẫn lặp lại hành động của tên văn bản; gộp vào quan hệ Phần đầu."
+ },
+ {
+  "doc_id": "660630",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "24/2022/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA NGHỊ QUYẾT SỐ 24/2022/NQ-HĐND NGÀY 10 THÁNG 12 NĂM 2022"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "24/2022/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA NGHỊ QUYẾT SỐ 24/2022/NQ-HĐND NGÀY 10 THÁNG 12 NĂM 2022"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "24/2022/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 1 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "24/2022/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 1 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "24/2022/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 2",
+     "khoản 6 Điều 2"
+    ],
+    "doi_tuong": "cụm từ “cấp huyện”",
+    "evidence": "Bãi bỏ cụm từ “cấp huyện” tại khoản khoản 3 và khoản 6 Điều 2."
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "sua-doi",
+    "target_document": "24/2022/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 4"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 4 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "bo-sung",
+    "target_document": "24/2022/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 4"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 4 như sau:"
+   },
+   {
+    "source_path": "Điều 3 Khoản 3",
+    "action": "bai-bo",
+    "target_document": "27/2024/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị quyết này bãi bỏ Nghị quyết số 27/2024/NQ-HĐND ngày 11 tháng 12 năm 2024 của Hội đồng nhân dân tỉnh"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên Điều 1 (\"Sửa đổi, bổ sung, bãi bỏ một số điều của Nghị quyết 24/2022\") được thay bằng các khoản con. Bãi bỏ cụm từ ghi bai-bo với doi_tuong là cụm từ."
+ },
+ {
+  "doc_id": "665127",
+  "relations": [
+   {
+    "source_path": "Điều 3",
+    "action": "sua-doi",
+    "target_document": "298/QĐ-TTg",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 6 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi khoản 6 Điều 1 Quyết định số 298/QĐ-TTg ngày 10 tháng 4 năm 2024 của Thủ tướng Chính phủ ban hành danh sách các đơn vị sự nghiệp công lập trực thuộc Bộ Giáo dục và Đào tạo như sau:"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": ""
+ },
+ {
+  "doc_id": "665286",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "44/2024/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA QUY ĐỊNH THẨM QUYỀN QUYẾT ĐỊNH VIỆC MUA SẮM THUỘC DỰ TOÁN MUA SẮM CỦA CÁC CƠ QUAN, ĐƠN VỊ TRÊN ĐỊA BÀN TỈNH CAO BẰNG BAN HÀNH KÈM THEO NGHỊ QUYẾT SỐ 44/2024/NQ-HĐND"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "44/2024/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA QUY ĐỊNH THẨM QUYỀN QUYẾT ĐỊNH VIỆC MUA SẮM THUỘC DỰ TOÁN MUA SẮM CỦA CÁC CƠ QUAN, ĐƠN VỊ TRÊN ĐỊA BÀN TỈNH CAO BẰNG BAN HÀNH KÈM THEO NGHỊ QUYẾT SỐ 44/2024/NQ-HĐND"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1 điểm a",
+    "action": "sua-doi",
+    "target_document": "44/2024/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 1 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi khoản 1 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1 điểm b",
+    "action": "sua-doi",
+    "target_document": "44/2024/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm a khoản 2 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi điểm a khoản 2 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2 điểm a",
+    "action": "sua-doi",
+    "target_document": "44/2024/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 3 Điều 4"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi khoản 3 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2 điểm b",
+    "action": "sua-doi",
+    "target_document": "44/2024/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 4 Điều 4"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi khoản 4 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "sua-doi",
+    "target_document": "44/2024/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm c khoản 1 Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm c khoản 1 Điều 5 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "bo-sung",
+    "target_document": "44/2024/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm c khoản 1 Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm c khoản 1 Điều 5 như sau:"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Khoản 1 (\"Sửa đổi Điều 1\") và khoản 2 (\"Sửa đổi Điều 4\") là câu dẫn, được thay bằng các điểm con. Đích là Quy định kèm theo Nghị quyết 44/2024 (nêu ở tên Điều 1)."
+ },
+ {
+  "doc_id": "667557",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "2329/QĐ-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm b khoản 6 Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG ĐIỂM B KHOẢN 6 ĐIỀU 2 QUYẾT ĐỊNH SỐ 2329/QĐ-BTC NGÀY 01/7/2025"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "2329/QĐ-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm b khoản 6 Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG ĐIỂM B KHOẢN 6 ĐIỀU 2 QUYẾT ĐỊNH SỐ 2329/QĐ-BTC NGÀY 01/7/2025"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "sua-doi",
+    "target_document": "2329/QĐ-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm b khoản 6 Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm b khoản 6 Điều 2 Quyết định số 2329/QĐ-BTC ngày 01/7/2025 của Bộ trưởng Bộ Tài chính quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Vụ Giám sát và Thẩm định đầu tư như sau:"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bo-sung",
+    "target_document": "2329/QĐ-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm b khoản 6 Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm b khoản 6 Điều 2 Quyết định số 2329/QĐ-BTC ngày 01/7/2025 của Bộ trưởng Bộ Tài chính quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Vụ Giám sát và Thẩm định đầu tư như sau:"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": ""
+ },
+ {
+  "doc_id": "669637",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Ban hành Phương án điều tra; không có quan hệ."
+ },
+ {
+  "doc_id": "671079",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Kế hoạch; dòng bảng \"Sửa đổi Nghị quyết số 43/2022/NQ-HĐND ...\" là nhiệm vụ, không phải hành động."
+ },
+ {
+  "doc_id": "675969",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "46/2022/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA NGHỊ QUYẾT SỐ 46/2022/NQ-HĐND NGÀY 09 THÁNG 12 NĂM 2022"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "46/2022/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA NGHỊ QUYẾT SỐ 46/2022/NQ-HĐND NGÀY 09 THÁNG 12 NĂM 2022"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "46/2022/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 3 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "46/2022/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 3 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "thay-the",
+    "target_document": "46/2022/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục 02"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế Phụ lục 02 được ban hành kèm theo Nghị quyết số 46/2022/NQ-HĐND như sau:"
+   },
+   {
+    "source_path": "Điều 3 Khoản 1",
+    "action": "bai-bo",
+    "target_document": "72/2024/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị quyết số 72/2024/NQ-HĐND ngày 28 tháng 5 năm 2024 của Hội đồng nhân dân tỉnh sửa đổi, bổ sung một số nội dung tại Phụ lục 2 kèm theo Nghị quyết số 46/2022/NQ-HĐND ngày 09 tháng 12 năm 2022 của Hội đồng nhân dân tỉnh hết hiệu lực thi hành kể từ ngày Nghị quyết này có hiệu lực."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 3 khoản 1: văn bản tự tuyên bố Nghị quyết 72/2024 hết hiệu lực, ghi bai-bo."
+ },
+ {
+  "doc_id": "676504",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "07/2019/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm c khoản 4 Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG ĐIỂM C KHOẢN 4 ĐIỀU 2 NGHỊ QUYẾT SỐ 07/2019/NQ-HĐND NGÀY 10 THÁNG 7 NĂM 2019"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "07/2019/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm c khoản 4 Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG ĐIỂM C KHOẢN 4 ĐIỀU 2 NGHỊ QUYẾT SỐ 07/2019/NQ-HĐND NGÀY 10 THÁNG 7 NĂM 2019"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "sua-doi",
+    "target_document": "07/2019/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm c khoản 4 Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm c khoản 4 Điều 2 Nghị Quyết số 07/2019/NQ-HĐND ngày 10 tháng 7 năm 2019 của Hội đồng nhân dân thành phố Hà Nội"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bo-sung",
+    "target_document": "07/2019/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm c khoản 4 Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm c khoản 4 Điều 2 Nghị Quyết số 07/2019/NQ-HĐND ngày 10 tháng 7 năm 2019 của Hội đồng nhân dân thành phố Hà Nội"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": ""
+ },
+ {
+  "doc_id": "676510",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "12/2024/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA NGHỊ QUYẾT SỐ 12/2024/NQ-HĐND NGÀY 01/7/2024"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "12/2024/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA NGHỊ QUYẾT SỐ 12/2024/NQ-HĐND NGÀY 01/7/2024"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "12/2024/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 4"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi khoản 2 Điều 4 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "12/2024/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 6 Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi khoản 6 Điều 5 như sau:"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Câu dẫn Điều 1 được thay bằng khoản 1, 2."
+ },
+ {
+  "doc_id": "676926",
+  "relations": [
+   {
+    "source_path": "Điều 1",
+    "action": "bo-sung",
+    "target_document": "460/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục III"
+    ],
+    "doi_tuong": "tên gọi Phước Lộc vào phần địa danh thuộc Nhóm III",
+    "evidence": "Bổ sung tên gọi Phước Lộc vào phần địa danh thuộc Nhóm III, Phụ lục III được ban hành kèm theo tại điểm 1.3 Mục V, Phần thứ ba Đề án Ngân hàng tên đường và công trình công cộng trên địa bàn tỉnh Quảng Ngãi được ban hành tại Quyết định số 460/QĐ-UBND ngày 24/6/2024 của UBND tỉnh."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên văn bản không nêu số hiệu đích nên không có quan hệ Phần đầu."
+ },
+ {
+  "doc_id": "693555",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Ban hành kế hoạch thời gian năm học; không có quan hệ."
+ }
+]

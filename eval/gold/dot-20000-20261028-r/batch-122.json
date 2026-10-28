@@ -1,0 +1,193 @@
+[
+ {
+  "doc_id": "659968",
+  "relations": [
+   {
+    "source_path": "Điều 1 Khoản 2 điểm a",
+    "action": "sua-doi",
+    "target_document": "24/2024/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Biểu tổng hợp (tên dự án, tên chủ đầu tư, nội dung đầu tư của các dự án)",
+    "evidence": "Điều chỉnh tên 02 dự án quy hoạch, điều chỉnh tên chủ đầu tư của 09 dự án (tại Biểu tổng hợp kèm theo Nghị quyết số 24/2024/NQ-HĐND) cho phù hợp với các quyết định chủ trương và quyết định đầu tư và điều chỉnh nội dung đầu tư của 03 dự án từ chuẩn bị đầu tư thành thực hiện dự án"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2 điểm b",
+    "action": "sua-doi",
+    "target_document": "24/2024/NQ-HĐND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "kế hoạch vốn nguồn đầu tư trong cân đối theo tiêu chí, định mức",
+    "evidence": "Điều chỉnh, bổ sung kế hoạch vốn nguồn đầu tư trong cân đối theo tiêu chí, định mức"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2 điểm b",
+    "action": "bo-sung",
+    "target_document": "24/2024/NQ-HĐND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "danh mục và kế hoạch vốn nguồn đầu tư trong cân đối theo tiêu chí, định mức",
+    "evidence": "Bổ sung danh mục và kế hoạch vốn của 36 dự án"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2 điểm c",
+    "action": "sua-doi",
+    "target_document": "24/2024/NQ-HĐND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "kế hoạch vốn của dự án sử dụng vốn ngân sách trung ương thực hiện Chương trình Mục tiêu quốc gia giảm nghèo bền vững",
+    "evidence": "Điều chỉnh giảm kế hoạch vốn của dự án sử dụng vốn ngân sách trung ương thực hiện Chương trình Mục tiêu quốc gia giảm nghèo bền vững"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2 điểm c",
+    "action": "bo-sung",
+    "target_document": "24/2024/NQ-HĐND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "danh mục (01 nội dung nộp trả nguồn vốn ngân sách Trung ương thực hiện chương trình Mục tiêu quốc gia giảm nghèo bền vững)",
+    "evidence": "bổ sung danh mục cho 01 nội dung nộp trả nguồn vốn ngân sách Trung ương thực hiện chương trình Mục tiêu quốc gia giảm nghèo bền vững"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "bo-sung",
+    "target_document": "24/2024/NQ-HĐND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "danh mục và kế hoạch vốn từ nguồn tăng thu ngân sách địa phương để chi trả nợ gốc",
+    "evidence": "Bổ sung danh mục và kế hoạch vốn từ nguồn tăng thu ngân sách địa phương để chi trả nợ gốc các khoản vay lại của chính quyền địa phương vay cho 03 dự án, với số vốn là 16.050 triệu đồng."
+   },
+   {
+    "source_path": "Điều 1 Khoản 4 điểm a",
+    "action": "bo-sung",
+    "target_document": "24/2024/NQ-HĐND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "kế hoạch vốn từ nguồn tăng thu xổ số kiến thiết năm 2024 chuyển sang năm 2025 (12 dự án)",
+    "evidence": "Bổ sung kế hoạch vốn cho 12 dự án trên địa bàn các xã đặc biệt khó khăn vùng bãi ngang ven biển"
+   },
+   {
+    "source_path": "Điều 1 Khoản 4 điểm b",
+    "action": "bo-sung",
+    "target_document": "24/2024/NQ-HĐND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "danh mục và kế hoạch vốn từ nguồn tăng thu xổ số kiến thiết năm 2024 chuyển sang năm 2025 (14 dự án trọng điểm)",
+    "evidence": "Bổ sung danh mục và kế hoạch vốn cho 14 dự án để triển khai thực hiện các dự án trọng điểm, với số vốn là 28.449 triệu đồng."
+   },
+   {
+    "source_path": "Phụ lục 1 Mục I STT 3",
+    "action": "sua-doi",
+    "target_document": "24/2024/NQ-HĐND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "chủ đầu tư dự án Cầu Bình Đông trên ĐH.23, huyện Mỏ Cày Nam",
+    "evidence": "Điều chỉnh chủ đầu tư trong Nghị quyết số 24/2024/NQ-HĐND, từ Ủy ban nhân dân huyện Mỏ Cày Nam sang Ban Quản lý dự án đầu tư xây dựng các công trình giao thông cho phù hợp với chủ trương đầu tư và Quyết định phê duyệt dự án"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục I STT 4",
+    "action": "sua-doi",
+    "target_document": "24/2024/NQ-HĐND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "chủ đầu tư dự án Đầu tư xây dựng cầu Đình Khao nối hai tỉnh Vĩnh Long và Bến Tre theo phương thức đối tác công tư",
+    "evidence": "Điều chỉnh chủ đầu tư trong Nghị quyết số 24/2024/NQ-HĐND, từ Sở Giao thông vận tải sang Ủy ban nhân dân huyện Chợ Lách để thực hiện công tác bồi thường, giải phóng mặt bằng phía tỉnh Bến Tre. Sau ngày 01/7/2025 (kết thúc hoạt động của cấp huyện), giao Ủy ban nhân dân tỉnh chỉ đạo, giao đơn vị khác tiếp tục thực hiện nhiệm vụ"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục I STT 5",
+    "action": "sua-doi",
+    "target_document": "24/2024/NQ-HĐND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "chủ đầu tư dự án Dự án Tăng cường kiểm soát ô nhiễm môi trường không khí, quan trắc tự động, quản lý hệ thống thông tin, cơ sở dữ liệu tài nguyên .",
+    "evidence": "Đổi tên chủ đầu tư trong Nghị quyết số 24/2024/NQ-HĐND, từ Sở Tài nguyên và Môi trường sang Sở Nông nghiệp và Môi trường cho phù hợp với Đề án hợp nhất, sáp nhập của tỉnh"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục I STT 6",
+    "action": "sua-doi",
+    "target_document": "24/2024/NQ-HĐND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "chủ đầu tư dự án Cải tạo nâng cấp Khu chôn lấp rác tại Bãi rác Phú Hưng",
+    "evidence": "Đổi tên chủ đầu tư trong Nghị quyết số 24/2024/NQ-HĐND, từ Sở Tài nguyên và Môi trường sang Sở Nông nghiệp và Môi trường cho phù hợp với Đề án hợp nhất, sáp nhập của tỉnh"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục I STT 7",
+    "action": "sua-doi",
+    "target_document": "24/2024/NQ-HĐND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "chủ đầu tư dự án Xây dựng hạ tầng kỹ thuật phục vụ mở rộng Nhà máy xử lý rác thải Bến Tre",
+    "evidence": "Đổi tên chủ đầu tư trong Nghị quyết số 24/2024/NQ-HĐND, từ Sở Tài nguyên và Môi trường sang Sở Nông nghiệp và Môi trường cho phù hợp với Đề án hợp nhất, sáp nhập của tỉnh"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục I STT 8",
+    "action": "sua-doi",
+    "target_document": "24/2024/NQ-HĐND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "chủ đầu tư dự án Khu di tích lịch sử - văn hóa, cách mạng Bưng Lạc Địa",
+    "evidence": "Đổi tên chủ đầu tư trong Nghị quyết số 24/2024/NQ-HĐND, từ Sở Văn hóa, Thể thao và Du lịch sang Ban Quản lý dự án đầu tư xây dựng các công trình dân dụng và công nghiệp"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục I STT 9",
+    "action": "sua-doi",
+    "target_document": "24/2024/NQ-HĐND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "chủ đầu tư dự án Dự án Bảo tồn, tôn tạo và phát huy giá trị lịch sử đường Hồ Chí Minh trên biển (giai đoạn 2)",
+    "evidence": "Đổi tên chủ đầu tư trong Nghị quyết số 24/2024/NQ-HĐND, từ Sở Văn hóa, Thể thao và Du lịch sang Ban Quản lý dự án đầu tư xây dựng các công trình dân dụng và công nghiệp"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục I STT 10",
+    "action": "sua-doi",
+    "target_document": "24/2024/NQ-HĐND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "chủ đầu tư dự án Ứng dụng công nghệ thông tin phục vụ, điều hành giao thông vận tải giai đoạn 2021-2025",
+    "evidence": "Đổi tên chủ đầu tư trong Nghị quyết số 24/2024/NQ-HĐND, từ Sở Giao thông vận tải sang Sở Xây dựng cho phù hợp với Đề án hợp nhất, sáp nhập của tỉnh"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục I STT 11",
+    "action": "sua-doi",
+    "target_document": "24/2024/NQ-HĐND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "chủ đầu tư dự án Hỗ trợ đầu tư doanh nghiệp nhỏ và vừa tỉnh Bến Tre giai đoạn 2021-2025",
+    "evidence": "Đổi tên chủ đầu tư trong Nghị quyết số 24/2024/NQ-HĐND, từ TTXTĐT và KN - Sở Kế hoạch và Đầu tư sang TTXTĐT và KN - Sở Tài chính cho phù hợp với Đề án hợp nhất, sáp nhập của tỉnh"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục I STT 13",
+    "action": "sua-doi",
+    "target_document": "24/2024/NQ-HĐND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "chủ đầu tư dự án Mộ và khu lưu niệm Nguyễn Đình Chiểu (Danh nhân văn hóa được UNESCO ghi danh năm 2021) và nội dung đầu tư",
+    "evidence": "Điều chỉnh nội dung từ chuẩn bị đầu tư thành thực hiện dự án và đổi tên chủ đầu tư trong Nghị quyết số 24/2024/NQ-HĐND, từ Sở Văn hóa, Thể thao và Du lịch sang Ban Quản lý dự án đầu tư xây dựng các công trình dân dụng và công nghiệp"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 1 'Điều chỉnh, bổ sung NQ 24/2024/NQ-HĐND': ghi ở các khoản, điểm con (con thay cha). Khoản 1 là nguyên tắc, không phải hành động. Phụ lục 1 Mục I dòng 1, 2 ghi 'đề nghị điều chỉnh lại' tên dự án (đã gồm trong khoản 2 điểm a); dòng 12, 14 không nêu văn bản đích. Lý do giảm vốn ở Mục III nêu QĐ công nhận nông thôn mới là lý do, không phải đích. Lời dẫn không nêu số hiệu nên không có quan hệ Phần đầu."
+ },
+ {
+  "doc_id": "660570",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Thông qua phương án đơn giản hóa TTHC; các nội dung 'đề nghị HĐND xem xét sửa đổi, bãi bỏ' NQ 121/2021/NQ-HĐND trong phụ lục là kiến nghị, không phải tác động trực tiếp."
+ },
+ {
+  "doc_id": "660899",
+  "relations": [
+   {
+    "source_path": "Điều 3",
+    "action": "thay-the",
+    "target_document": "1481/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "28 quy trình nội bộ trong giải quyết thủ tục hành chính lĩnh vực hoạt động xây dựng",
+    "evidence": "Thay thế 28 quy trình nội bộ trong giải quyết thủ tục hành chính lĩnh vực hoạt động xây dựng đã được Chủ tịch Ủy ban nhân dân tỉnh công bố tại Quyết định số 1481/QĐ-UBND ngày 05/12/2023"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 1 công bố 21 quy trình được thay thế không nêu văn bản đích; Điều 3 thay thế 28 quy trình công bố tại QĐ 1481/QĐ-UBND."
+ }
+]

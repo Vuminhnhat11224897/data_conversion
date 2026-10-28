@@ -1,0 +1,1443 @@
+[
+ {
+  "doc_id": "668374",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "3091/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 3091/QĐ-UBND ngày 12/6/2024 của Chủ tịch Uỷ ban nhân dân thành phố Hà Nội về việc công bố danh mục thủ tục hành chính lĩnh vực Chăn nuôi, Thú y và Thủy sản thuộc phạm vi chức năng quản lý nhà nước của Sở Nông nghiệp và Phát triển nông thôn thành phố Hà Nội hết hiệu lực."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 2 tuyên bố QĐ 3091/QĐ-UBND hết hiệu lực. Phụ lục danh mục TTHC không có dòng nêu hành động lên văn bản khác."
+ },
+ {
+  "doc_id": "668540",
+  "relations": [
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "99/2019/TT-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 Điều 1, như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "99/2019/TT-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 Điều 1, như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2 điểm a",
+    "action": "sua-doi",
+    "target_document": "99/2019/TT-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2 điểm a",
+    "action": "bo-sung",
+    "target_document": "99/2019/TT-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2 điểm b",
+    "action": "sua-doi",
+    "target_document": "99/2019/TT-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi khoản 3 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "sua-doi",
+    "target_document": "99/2019/TT-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 1 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi điểm a khoản 1 Điều 3, như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 4 điểm a",
+    "action": "sua-doi",
+    "target_document": "99/2019/TT-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 2 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm a khoản 2 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 4 điểm a",
+    "action": "bo-sung",
+    "target_document": "99/2019/TT-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 2 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm a khoản 2 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 4 điểm b",
+    "action": "sua-doi",
+    "target_document": "99/2019/TT-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 3 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi điểm a khoản 3 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 5 điểm a",
+    "action": "sua-doi",
+    "target_document": "99/2019/TT-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 1 Điều 4"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi điểm a khoản 1 Điều 4 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 5 điểm b",
+    "action": "sua-doi",
+    "target_document": "99/2019/TT-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 3 Điều 4"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi điểm a khoản 3 Điều 4 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 6",
+    "action": "sua-doi",
+    "target_document": "99/2019/TT-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Chương III"
+    ],
+    "doi_tuong": "tên Chương III",
+    "evidence": "Sửa đổi, bổ sung tên Chương III, như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 6",
+    "action": "bo-sung",
+    "target_document": "99/2019/TT-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Chương III"
+    ],
+    "doi_tuong": "tên Chương III",
+    "evidence": "Sửa đổi, bổ sung tên Chương III, như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 7 điểm a",
+    "action": "sua-doi",
+    "target_document": "99/2019/TT-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung tiêu đề khoản 1 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 7 điểm a",
+    "action": "bo-sung",
+    "target_document": "99/2019/TT-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung tiêu đề khoản 1 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 7 điểm b",
+    "action": "sua-doi",
+    "target_document": "99/2019/TT-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm e khoản 1 Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm e khoản 1 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 7 điểm b",
+    "action": "bo-sung",
+    "target_document": "99/2019/TT-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm e khoản 1 Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm e khoản 1 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 8 điểm a",
+    "action": "sua-doi",
+    "target_document": "99/2019/TT-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "tên Điều 8"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi tên Điều 8, như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 8 điểm b",
+    "action": "sua-doi",
+    "target_document": "99/2019/TT-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 8"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi khoản 1 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 9 điểm a",
+    "action": "sua-doi",
+    "target_document": "99/2019/TT-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm b khoản 1 Điều 8"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm b như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 9 điểm a",
+    "action": "bo-sung",
+    "target_document": "99/2019/TT-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm b khoản 1 Điều 8"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm b như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 9 điểm b",
+    "action": "sua-doi",
+    "target_document": "99/2019/TT-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm c khoản 1 Điều 8"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm c như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 9 điểm b",
+    "action": "bo-sung",
+    "target_document": "99/2019/TT-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm c khoản 1 Điều 8"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm c như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 9 điểm c",
+    "action": "sua-doi",
+    "target_document": "99/2019/TT-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm d khoản 1 Điều 8"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi điểm d như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 10",
+    "action": "sua-doi",
+    "target_document": "99/2019/TT-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 2 Điều 8"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm a khoản 2 Điều 8, như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 10",
+    "action": "bo-sung",
+    "target_document": "99/2019/TT-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 2 Điều 8"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm a khoản 2 Điều 8, như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 11",
+    "action": "sua-doi",
+    "target_document": "99/2019/TT-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 13"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 Điều 13, như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 11",
+    "action": "bo-sung",
+    "target_document": "99/2019/TT-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 13"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 Điều 13, như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 12",
+    "action": "sua-doi",
+    "target_document": "99/2019/TT-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 14"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi khoản 2 Điều 14, như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 13",
+    "action": "sua-doi",
+    "target_document": "99/2019/TT-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 19"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 19, như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 13",
+    "action": "bo-sung",
+    "target_document": "99/2019/TT-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 19"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 19, như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "69/2020/TT-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 4"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 Điều 4, được sửa đổi, bổ sung tại khoản 2 Điều 1 Thông tư số 47/2024/TT-BQP, như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "69/2020/TT-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 4"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 Điều 4, được sửa đổi, bổ sung tại khoản 2 Điều 1 Thông tư số 47/2024/TT-BQP, như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "69/2020/TT-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm b khoản 2 Điều 6"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm b khoản 2 Điều 6, được sửa đổi, bổ sung tại khoản 3 Điều 1 Thông tư số 47/2024/TT-BQP, như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "69/2020/TT-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm b khoản 2 Điều 6"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm b khoản 2 Điều 6, được sửa đổi, bổ sung tại khoản 3 Điều 1 Thông tư số 47/2024/TT-BQP, như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 3 điểm a",
+    "action": "sua-doi",
+    "target_document": "69/2020/TT-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm b khoản 1 Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm b khoản 1 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 3 điểm a",
+    "action": "bo-sung",
+    "target_document": "69/2020/TT-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm b khoản 1 Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm b khoản 1 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 3 điểm b",
+    "action": "sua-doi",
+    "target_document": "69/2020/TT-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm d khoản 1 Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm d khoản 1 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 3 điểm b",
+    "action": "bo-sung",
+    "target_document": "69/2020/TT-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm d khoản 1 Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm d khoản 1 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 3 điểm c",
+    "action": "bo-sung",
+    "target_document": "69/2020/TT-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm đ khoản 1 Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung điểm đ vào sau điểm d khoản 1 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 3 điểm d",
+    "action": "sua-doi",
+    "target_document": "69/2020/TT-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm c khoản 2 Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm c khoản 2 Điều 7, như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 3 điểm d",
+    "action": "bo-sung",
+    "target_document": "69/2020/TT-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm c khoản 2 Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm c khoản 2 Điều 7, như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 4",
+    "action": "sua-doi",
+    "target_document": "69/2020/TT-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm b khoản 2 Điều 9"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm b khoản 2 Điều 9, như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 4",
+    "action": "bo-sung",
+    "target_document": "69/2020/TT-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm b khoản 2 Điều 9"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm b khoản 2 Điều 9, như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 5",
+    "action": "sua-doi",
+    "target_document": "69/2020/TT-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 10"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 Điều 10 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 5",
+    "action": "bo-sung",
+    "target_document": "69/2020/TT-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 10"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 Điều 10 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 6",
+    "action": "bai-bo",
+    "target_document": "69/2020/TT-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm b khoản 2 Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ điểm b khoản 2 Điều 7 Thông tư số 69/2020/TT-BQP."
+   },
+   {
+    "source_path": "Điều 3 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "29/2020/TT-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [],
+    "doi_tuong": "tên Thông tư",
+    "evidence": "Sửa đổi, bổ sung tên Thông tư, như sau:"
+   },
+   {
+    "source_path": "Điều 3 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "29/2020/TT-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [],
+    "doi_tuong": "tên Thông tư",
+    "evidence": "Sửa đổi, bổ sung tên Thông tư, như sau:"
+   },
+   {
+    "source_path": "Điều 3 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "29/2020/TT-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [],
+    "doi_tuong": "lời dẫn tại phần căn cứ ban hành Thông tư",
+    "evidence": "Sửa đổi, bổ sung lời dẫn tại phần căn cứ ban hành Thông tư như sau."
+   },
+   {
+    "source_path": "Điều 3 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "29/2020/TT-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [],
+    "doi_tuong": "lời dẫn tại phần căn cứ ban hành Thông tư",
+    "evidence": "Sửa đổi, bổ sung lời dẫn tại phần căn cứ ban hành Thông tư như sau."
+   },
+   {
+    "source_path": "Điều 3 Khoản 3 điểm a",
+    "action": "sua-doi",
+    "target_document": "29/2020/TT-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi khoản 1 như sau:"
+   },
+   {
+    "source_path": "Điều 3 Khoản 3 điểm b",
+    "action": "sua-doi",
+    "target_document": "29/2020/TT-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 4 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 4 như sau:"
+   },
+   {
+    "source_path": "Điều 3 Khoản 3 điểm b",
+    "action": "bo-sung",
+    "target_document": "29/2020/TT-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 4 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 4 như sau:"
+   },
+   {
+    "source_path": "Điều 3 Khoản 3 điểm c",
+    "action": "bo-sung",
+    "target_document": "29/2020/TT-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3a Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung khoản 3a vào sau khoản 3 Điều 3, như sau:"
+   },
+   {
+    "source_path": "Điều 3 Khoản 4 điểm a",
+    "action": "sua-doi",
+    "target_document": "29/2020/TT-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 4"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi khoản 1 như sau:"
+   },
+   {
+    "source_path": "Điều 3 Khoản 4 điểm b",
+    "action": "bo-sung",
+    "target_document": "29/2020/TT-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm c khoản 2 Điều 4",
+     "điểm d khoản 2 Điều 4"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung điểm c, d vào sau điểm b khoản 2 như sau:"
+   },
+   {
+    "source_path": "Điều 3 Khoản 4 điểm c",
+    "action": "sua-doi",
+    "target_document": "29/2020/TT-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 3 Điều 4",
+     "điểm b khoản 3 Điều 4",
+     "điểm c khoản 3 Điều 4"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung các điểm a, b, c khoản 3 Điều 4, như sau:"
+   },
+   {
+    "source_path": "Điều 3 Khoản 4 điểm c",
+    "action": "bo-sung",
+    "target_document": "29/2020/TT-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 3 Điều 4",
+     "điểm b khoản 3 Điều 4",
+     "điểm c khoản 3 Điều 4"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung các điểm a, b, c khoản 3 Điều 4, như sau:"
+   },
+   {
+    "source_path": "Điều 3 Khoản 5 điểm a",
+    "action": "sua-doi",
+    "target_document": "29/2020/TT-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 như sau:"
+   },
+   {
+    "source_path": "Điều 3 Khoản 5 điểm a",
+    "action": "bo-sung",
+    "target_document": "29/2020/TT-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 như sau:"
+   },
+   {
+    "source_path": "Điều 3 Khoản 5 điểm b",
+    "action": "sua-doi",
+    "target_document": "29/2020/TT-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 2 Điều 5",
+     "điểm c khoản 2 Điều 5",
+     "điểm h khoản 2 Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung các điểm a, c, h khoản 2 như sau:"
+   },
+   {
+    "source_path": "Điều 3 Khoản 5 điểm b",
+    "action": "bo-sung",
+    "target_document": "29/2020/TT-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 2 Điều 5",
+     "điểm c khoản 2 Điều 5",
+     "điểm h khoản 2 Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung các điểm a, c, h khoản 2 như sau:"
+   },
+   {
+    "source_path": "Điều 3 Khoản 5 điểm c",
+    "action": "sua-doi",
+    "target_document": "29/2020/TT-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 3 Điều 5",
+     "điểm b khoản 3 Điều 5",
+     "điểm c khoản 3 Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung các điểm a, b, c khoản 3 như sau:"
+   },
+   {
+    "source_path": "Điều 3 Khoản 5 điểm c",
+    "action": "bo-sung",
+    "target_document": "29/2020/TT-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 3 Điều 5",
+     "điểm b khoản 3 Điều 5",
+     "điểm c khoản 3 Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung các điểm a, b, c khoản 3 như sau:"
+   },
+   {
+    "source_path": "Điều 3 Khoản 6",
+    "action": "sua-doi",
+    "target_document": "29/2020/TT-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm d khoản 3 Điều 8"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi điểm d khoản 3 Điều 8, như sau:"
+   },
+   {
+    "source_path": "Điều 3 Khoản 7 điểm a",
+    "action": "sua-doi",
+    "target_document": "29/2020/TT-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 9"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi khoản 3 như sau:"
+   },
+   {
+    "source_path": "Điều 3 Khoản 7 điểm b",
+    "action": "sua-doi",
+    "target_document": "29/2020/TT-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 4 Điều 9"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi khoản 4 như sau:"
+   },
+   {
+    "source_path": "Điều 3 Khoản 7 điểm c",
+    "action": "sua-doi",
+    "target_document": "29/2020/TT-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 5 Điều 9"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 5 như sau:"
+   },
+   {
+    "source_path": "Điều 3 Khoản 7 điểm c",
+    "action": "bo-sung",
+    "target_document": "29/2020/TT-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 5 Điều 9"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 5 như sau:"
+   },
+   {
+    "source_path": "Điều 3 Khoản 8 điểm a",
+    "action": "sua-doi",
+    "target_document": "29/2020/TT-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm c khoản 3 Điều 10"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm c như sau:"
+   },
+   {
+    "source_path": "Điều 3 Khoản 8 điểm a",
+    "action": "bo-sung",
+    "target_document": "29/2020/TT-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm c khoản 3 Điều 10"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm c như sau:"
+   },
+   {
+    "source_path": "Điều 3 Khoản 8 điểm b",
+    "action": "sua-doi",
+    "target_document": "29/2020/TT-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm d khoản 3 Điều 10"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm d như sau:"
+   },
+   {
+    "source_path": "Điều 3 Khoản 8 điểm b",
+    "action": "bo-sung",
+    "target_document": "29/2020/TT-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm d khoản 3 Điều 10"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm d như sau:"
+   },
+   {
+    "source_path": "Điều 3 Khoản 9 điểm a",
+    "action": "sua-doi",
+    "target_document": "29/2020/TT-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm c khoản 3 Điều 11"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm c như sau:"
+   },
+   {
+    "source_path": "Điều 3 Khoản 9 điểm a",
+    "action": "bo-sung",
+    "target_document": "29/2020/TT-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm c khoản 3 Điều 11"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm c như sau:"
+   },
+   {
+    "source_path": "Điều 3 Khoản 9 điểm b",
+    "action": "sua-doi",
+    "target_document": "29/2020/TT-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm đ khoản 3 Điều 11"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm đ như sau:"
+   },
+   {
+    "source_path": "Điều 3 Khoản 9 điểm b",
+    "action": "bo-sung",
+    "target_document": "29/2020/TT-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm đ khoản 3 Điều 11"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm đ như sau:"
+   },
+   {
+    "source_path": "Điều 3 Khoản 10",
+    "action": "sua-doi",
+    "target_document": "29/2020/TT-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm b khoản 3 Điều 14"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm b khoản 3 Điều 14, như sau:"
+   },
+   {
+    "source_path": "Điều 3 Khoản 10",
+    "action": "bo-sung",
+    "target_document": "29/2020/TT-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm b khoản 3 Điều 14"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm b khoản 3 Điều 14, như sau:"
+   },
+   {
+    "source_path": "Điều 3 Khoản 11",
+    "action": "sua-doi",
+    "target_document": "29/2020/TT-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm c khoản 3 Điều 15"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi điểm c khoản 3 Điều 15, như sau:"
+   },
+   {
+    "source_path": "Điều 4 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "24/2014/TT-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 5 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 5 Điều 3, như sau:"
+   },
+   {
+    "source_path": "Điều 4 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "24/2014/TT-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 5 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 5 Điều 3, như sau:"
+   },
+   {
+    "source_path": "Điều 4 Khoản 2 điểm a",
+    "action": "sua-doi",
+    "target_document": "24/2014/TT-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm đ khoản 1 Điều 4"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm đ như sau:"
+   },
+   {
+    "source_path": "Điều 4 Khoản 2 điểm a",
+    "action": "bo-sung",
+    "target_document": "24/2014/TT-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm đ khoản 1 Điều 4"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm đ như sau:"
+   },
+   {
+    "source_path": "Điều 4 Khoản 2 điểm b",
+    "action": "sua-doi",
+    "target_document": "24/2014/TT-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm e khoản 1 Điều 4"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm e như sau:"
+   },
+   {
+    "source_path": "Điều 4 Khoản 2 điểm b",
+    "action": "bo-sung",
+    "target_document": "24/2014/TT-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm e khoản 1 Điều 4"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm e như sau:"
+   },
+   {
+    "source_path": "Điều 4 Khoản 2 điểm c",
+    "action": "sua-doi",
+    "target_document": "24/2014/TT-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm i khoản 1 Điều 4"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi điểm i như sau:"
+   },
+   {
+    "source_path": "Điều 4 Khoản 3",
+    "action": "sua-doi",
+    "target_document": "24/2014/TT-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 4"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 Điều 4 như sau:"
+   },
+   {
+    "source_path": "Điều 4 Khoản 3",
+    "action": "bo-sung",
+    "target_document": "24/2014/TT-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 4"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 Điều 4 như sau:"
+   },
+   {
+    "source_path": "Điều 4 Khoản 4 điểm a",
+    "action": "sua-doi",
+    "target_document": "24/2014/TT-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "tên Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi tên Điều 7, như sau:"
+   },
+   {
+    "source_path": "Điều 4 Khoản 4 điểm b",
+    "action": "sua-doi",
+    "target_document": "24/2014/TT-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 7"
+    ],
+    "doi_tuong": "đoạn mở đầu Điều 7",
+    "evidence": "Sửa đổi, bổ sung đoạn mở đầu Điều 7, như sau:"
+   },
+   {
+    "source_path": "Điều 4 Khoản 4 điểm b",
+    "action": "bo-sung",
+    "target_document": "24/2014/TT-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 7"
+    ],
+    "doi_tuong": "đoạn mở đầu Điều 7",
+    "evidence": "Sửa đổi, bổ sung đoạn mở đầu Điều 7, như sau:"
+   },
+   {
+    "source_path": "Điều 4 Khoản 4 điểm c",
+    "action": "bo-sung",
+    "target_document": "24/2014/TT-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 4a Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung khoản 4a vào sau khoản 4 Điều 7, như sau:"
+   },
+   {
+    "source_path": "Điều 4 Khoản 5 điểm a",
+    "action": "sua-doi",
+    "target_document": "24/2014/TT-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 12"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 như sau:"
+   },
+   {
+    "source_path": "Điều 4 Khoản 5 điểm a",
+    "action": "bo-sung",
+    "target_document": "24/2014/TT-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 12"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 như sau:"
+   },
+   {
+    "source_path": "Điều 4 Khoản 5 điểm b",
+    "action": "sua-doi",
+    "target_document": "24/2014/TT-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 12"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 như sau:"
+   },
+   {
+    "source_path": "Điều 4 Khoản 5 điểm b",
+    "action": "bo-sung",
+    "target_document": "24/2014/TT-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 12"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 như sau:"
+   },
+   {
+    "source_path": "Điều 4 Khoản 5 điểm c",
+    "action": "bo-sung",
+    "target_document": "24/2014/TT-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2a Điều 12"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung khoản 2a vào sau khoản 2 Điều 12, như sau:"
+   },
+   {
+    "source_path": "Điều 4 Khoản 6",
+    "action": "sua-doi",
+    "target_document": "24/2014/TT-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 14"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 3 Điều 14, như sau:"
+   },
+   {
+    "source_path": "Điều 4 Khoản 6",
+    "action": "bo-sung",
+    "target_document": "24/2014/TT-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 14"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 3 Điều 14, như sau:"
+   },
+   {
+    "source_path": "Điều 4 Khoản 7",
+    "action": "sua-doi",
+    "target_document": "24/2014/TT-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 4 Điều 16"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi khoản 4 Điều 16, như sau:"
+   },
+   {
+    "source_path": "Điều 4 Khoản 8",
+    "action": "sua-doi",
+    "target_document": "24/2014/TT-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 18"
+    ],
+    "doi_tuong": "đoạn mở đầu Điều 18",
+    "evidence": "Sửa đổi đoạn mở đầu Điều 18, như sau:"
+   },
+   {
+    "source_path": "Điều 4 Khoản 9",
+    "action": "sua-doi",
+    "target_document": "24/2014/TT-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 21"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 3 Điều 21, như sau:"
+   },
+   {
+    "source_path": "Điều 4 Khoản 9",
+    "action": "bo-sung",
+    "target_document": "24/2014/TT-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 21"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 3 Điều 21, như sau:"
+   },
+   {
+    "source_path": "Điều 4 Khoản 10",
+    "action": "sua-doi",
+    "target_document": "24/2014/TT-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 24"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 Điều 24, như sau:"
+   },
+   {
+    "source_path": "Điều 4 Khoản 10",
+    "action": "bo-sung",
+    "target_document": "24/2014/TT-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 24"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 Điều 24, như sau:"
+   },
+   {
+    "source_path": "Điều 4 Khoản 11",
+    "action": "bai-bo",
+    "target_document": "24/2014/TT-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 4",
+     "Điều 8",
+     "Điều 11"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ khoản 3 Điều 4, Điều 8, Điều 11."
+   },
+   {
+    "source_path": "Điều 5 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "75/2020/TT-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 5 Điều 35"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi khoản 5 Điều 35, như sau:"
+   },
+   {
+    "source_path": "Điều 5 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "75/2020/TT-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 7 Điều 35"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 7 Điều 35, như sau:"
+   },
+   {
+    "source_path": "Điều 5 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "75/2020/TT-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 7 Điều 35"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 7 Điều 35, như sau:"
+   },
+   {
+    "source_path": "Điều 5 Khoản 3",
+    "action": "bai-bo",
+    "target_document": "75/2020/TT-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 6 Điều 35"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ khoản 6 Điều 35."
+   },
+   {
+    "source_path": "Điều 6 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "172/2020/TT-BQP",
+    "target_section": "khong_ro",
+    "vi_tri": [
+     "khoản 2 Mục II"
+    ],
+    "doi_tuong": "Chuyên đề 21",
+    "evidence": "Sửa đổi, bổ sung Chuyên đề 21 tại Khoản 2 Mục II, như sau:"
+   },
+   {
+    "source_path": "Điều 6 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "172/2020/TT-BQP",
+    "target_section": "khong_ro",
+    "vi_tri": [
+     "khoản 2 Mục II"
+    ],
+    "doi_tuong": "Chuyên đề 21",
+    "evidence": "Sửa đổi, bổ sung Chuyên đề 21 tại Khoản 2 Mục II, như sau:"
+   },
+   {
+    "source_path": "Điều 6 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "172/2020/TT-BQP",
+    "target_section": "khong_ro",
+    "vi_tri": [
+     "khoản 3 Mục II"
+    ],
+    "doi_tuong": "Chuyên đề 20",
+    "evidence": "Sửa đổi, bổ sung Chuyên đề 20 tại Khoản 3 Mục II, như sau:"
+   },
+   {
+    "source_path": "Điều 6 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "172/2020/TT-BQP",
+    "target_section": "khong_ro",
+    "vi_tri": [
+     "khoản 3 Mục II"
+    ],
+    "doi_tuong": "Chuyên đề 20",
+    "evidence": "Sửa đổi, bổ sung Chuyên đề 20 tại Khoản 3 Mục II, như sau:"
+   },
+   {
+    "source_path": "Điều 6 Khoản 3",
+    "action": "sua-doi",
+    "target_document": "172/2020/TT-BQP",
+    "target_section": "khong_ro",
+    "vi_tri": [
+     "khoản 3 Mục III"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Khoản 3 Mục III, như sau:"
+   },
+   {
+    "source_path": "Điều 6 Khoản 3",
+    "action": "bo-sung",
+    "target_document": "172/2020/TT-BQP",
+    "target_section": "khong_ro",
+    "vi_tri": [
+     "khoản 3 Mục III"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Khoản 3 Mục III, như sau:"
+   },
+   {
+    "source_path": "Điều 7 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "25/2014/TT-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 2, như sau:"
+   },
+   {
+    "source_path": "Điều 7 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "25/2014/TT-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 2, như sau:"
+   },
+   {
+    "source_path": "Điều 7 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "25/2014/TT-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 Điều 3, như sau:"
+   },
+   {
+    "source_path": "Điều 7 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "25/2014/TT-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 Điều 3, như sau:"
+   },
+   {
+    "source_path": "Điều 7 Khoản 3",
+    "action": "sua-doi",
+    "target_document": "25/2014/TT-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 6"
+    ],
+    "doi_tuong": "đoạn mở đầu Điều 6",
+    "evidence": "Sửa đổi, bổ sung đoạn mở đầu Điều 6, như sau:"
+   },
+   {
+    "source_path": "Điều 7 Khoản 3",
+    "action": "bo-sung",
+    "target_document": "25/2014/TT-BQP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 6"
+    ],
+    "doi_tuong": "đoạn mở đầu Điều 6",
+    "evidence": "Sửa đổi, bổ sung đoạn mở đầu Điều 6, như sau:"
+   },
+   {
+    "source_path": "Điều 8",
+    "action": "sua-doi",
+    "target_document": "39/2014/TT-BQP",
+    "target_section": "khong_ro",
+    "vi_tri": [
+     "điểm b khoản 3 Mục II"
+    ],
+    "doi_tuong": "tên chuyên đề số 2, số 4",
+    "evidence": "Sửa đổi, bổ sung tên chuyên đề số 2, số 4 tại điểm b khoản 3 Mục II của Thông tư số 39/2014/TT-BQP"
+   },
+   {
+    "source_path": "Điều 8",
+    "action": "bo-sung",
+    "target_document": "39/2014/TT-BQP",
+    "target_section": "khong_ro",
+    "vi_tri": [
+     "điểm b khoản 3 Mục II"
+    ],
+    "doi_tuong": "tên chuyên đề số 2, số 4",
+    "evidence": "Sửa đổi, bổ sung tên chuyên đề số 2, số 4 tại điểm b khoản 3 Mục II của Thông tư số 39/2014/TT-BQP"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên và lời dẫn không nêu số hiệu Thông tư đích nên không ghi Phần đầu. Câu dẫn khoản có điểm không ghi riêng (đã ghi ở điểm). Điều 3 Khoản 8 điểm b nói sửa điểm d nhưng nội dung mới ghi 'đ)'; ghi theo câu (điểm d). Mục II/III của TT 172/2020 và 39/2014 thuộc chương trình ban hành kèm theo nhưng câu không nói rõ nên khong_ro."
+ },
+ {
+  "doc_id": "668673",
+  "relations": [
+   {
+    "source_path": "Điều 3",
+    "action": "bai-bo",
+    "target_document": "699/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Danh mục và Quy trình nội bộ TTHC lĩnh vực Giảm nghèo",
+    "evidence": "bãi bỏ Danh mục và Quy trình nội bộ TTHC lĩnh vực Giảm nghèo tại Quyết định số 699/QĐ-UBND ngày 04/4/2025 của Chủ tịch UBND tỉnh"
+   },
+   {
+    "source_path": "Điều 3",
+    "action": "thay-the",
+    "target_document": "1340/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "thay thế Quyết định số 1340/QĐ-UBND ngày 14/6/2025 của Chủ tịch UBND tỉnh"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 1 phê duyệt quy trình nội bộ TTHC đã công bố tại QĐ 1665/QĐ-UBND: không phải tác động."
+ }
+]

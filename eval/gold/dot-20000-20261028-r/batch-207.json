@@ -1,0 +1,31 @@
+[
+ {
+  "doc_id": "679924",
+  "relations": [
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "112/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục 01"
+    ],
+    "doi_tuong": "giá dịch vụ khám bệnh, chữa bệnh của Bệnh viện Đa khoa tỉnh Bình Thuận",
+    "evidence": "Điều chỉnh giá dịch vụ khám bệnh, chữa bệnh: 11 dịch vụ."
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "112/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục 01"
+    ],
+    "doi_tuong": "giá dịch vụ khám bệnh, chữa bệnh của Bệnh viện Đa khoa tỉnh Bình Thuận",
+    "evidence": "Bổ sung giá dịch vụ khám bệnh, chữa bệnh: 446 dịch vụ."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên văn bản không nêu văn bản đích nên không có quan hệ Phần đầu. Điều 1: điều chỉnh (khoản 1) và bổ sung (khoản 2) Phụ lục 01 kèm Nghị quyết 112/NQ-HĐND; chi tiết ở Phụ lục (Mục A-D), cột ghi chú không có hành động."
+ }
+]

@@ -1,0 +1,997 @@
+[
+ {
+  "doc_id": "658959",
+  "relations": [
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "63/2011/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 5 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "63/2011/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 5 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "63/2011/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 8"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 Điều 8 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "63/2011/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 8"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 Điều 8 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "sua-doi",
+    "target_document": "63/2011/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 10"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 Điều 10 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "bo-sung",
+    "target_document": "63/2011/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 10"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 Điều 10 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 4",
+    "action": "sua-doi",
+    "target_document": "63/2011/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 11",
+     "khoản 4 Điều 11",
+     "khoản 5 Điều 11"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 3, khoản 4 và khoản 5 Điều 11 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 4",
+    "action": "bo-sung",
+    "target_document": "63/2011/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 11",
+     "khoản 4 Điều 11",
+     "khoản 5 Điều 11"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 3, khoản 4 và khoản 5 Điều 11 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 5",
+    "action": "sua-doi",
+    "target_document": "63/2011/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 22"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 Điều 22 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 5",
+    "action": "bo-sung",
+    "target_document": "63/2011/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 22"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 Điều 22 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 6",
+    "action": "sua-doi",
+    "target_document": "63/2011/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 23",
+     "khoản 3 Điều 23"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 và khoản 3 Điều 23 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 6",
+    "action": "bo-sung",
+    "target_document": "63/2011/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 23",
+     "khoản 3 Điều 23"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 và khoản 3 Điều 23 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 7",
+    "action": "bai-bo",
+    "target_document": "63/2011/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 22"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ khoản 2 Điều 22."
+   },
+   {
+    "source_path": "Điều 2 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "22/2017/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 6a"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung Điều 6a vào sau Điều 6 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "22/2017/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 8"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 Điều 8 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "22/2017/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 8"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 Điều 8 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 3",
+    "action": "sua-doi",
+    "target_document": "22/2017/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 21"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 21 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 3",
+    "action": "bo-sung",
+    "target_document": "22/2017/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 21"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 21 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 4",
+    "action": "sua-doi",
+    "target_document": "22/2017/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 22"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 Điều 22 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 4",
+    "action": "bo-sung",
+    "target_document": "22/2017/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 22"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 Điều 22 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 5",
+    "action": "sua-doi",
+    "target_document": "22/2017/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 23"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 Điều 23 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 5",
+    "action": "bo-sung",
+    "target_document": "22/2017/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 23"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 Điều 23 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 6",
+    "action": "sua-doi",
+    "target_document": "22/2017/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 25"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 3 Điều 25 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 6",
+    "action": "bo-sung",
+    "target_document": "22/2017/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 25"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 3 Điều 25 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 7",
+    "action": "sua-doi",
+    "target_document": "22/2017/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 26"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 26 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 7",
+    "action": "bo-sung",
+    "target_document": "22/2017/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 26"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 26 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 8",
+    "action": "sua-doi",
+    "target_document": "22/2017/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 27"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 27 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 8",
+    "action": "bo-sung",
+    "target_document": "22/2017/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 27"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 27 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 9",
+    "action": "sua-doi",
+    "target_document": "22/2017/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 30",
+     "khoản 3 Điều 30"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 và khoản 3 Điều 30 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 9",
+    "action": "bo-sung",
+    "target_document": "22/2017/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 30",
+     "khoản 3 Điều 30"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 và khoản 3 Điều 30 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 10 điểm a",
+    "action": "sua-doi",
+    "target_document": "22/2017/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 31",
+     "khoản 3 Điều 31",
+     "khoản 4 Điều 31"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2, khoản 3 và khoản 4 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 10 điểm a",
+    "action": "bo-sung",
+    "target_document": "22/2017/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 31",
+     "khoản 3 Điều 31",
+     "khoản 4 Điều 31"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2, khoản 3 và khoản 4 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 10 điểm b",
+    "action": "sua-doi",
+    "target_document": "22/2017/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm c khoản 5 Điều 31"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm c khoản 5 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 10 điểm b",
+    "action": "bo-sung",
+    "target_document": "22/2017/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm c khoản 5 Điều 31"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm c khoản 5 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 10 điểm c",
+    "action": "sua-doi",
+    "target_document": "22/2017/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 7 Điều 31"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 7 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 10 điểm c",
+    "action": "bo-sung",
+    "target_document": "22/2017/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 7 Điều 31"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 7 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 11",
+    "action": "sua-doi",
+    "target_document": "22/2017/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 36"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 36 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 11",
+    "action": "bo-sung",
+    "target_document": "22/2017/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 36"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 36 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 12",
+    "action": "sua-doi",
+    "target_document": "22/2017/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 37"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 Điều 37 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 12",
+    "action": "bo-sung",
+    "target_document": "22/2017/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 37"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 Điều 37 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 13",
+    "action": "sua-doi",
+    "target_document": "22/2017/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 38"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 38 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 13",
+    "action": "bo-sung",
+    "target_document": "22/2017/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 38"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 38 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 14",
+    "action": "sua-doi",
+    "target_document": "22/2017/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 39"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 39 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 14",
+    "action": "bo-sung",
+    "target_document": "22/2017/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 39"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 39 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 15",
+    "action": "sua-doi",
+    "target_document": "22/2017/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 40",
+     "khoản 4 Điều 40",
+     "khoản 5 Điều 40"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 3, khoản 4 và khoản 5 Điều 40 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 15",
+    "action": "bo-sung",
+    "target_document": "22/2017/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 40",
+     "khoản 4 Điều 40",
+     "khoản 5 Điều 40"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 3, khoản 4 và khoản 5 Điều 40 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 16",
+    "action": "sua-doi",
+    "target_document": "22/2017/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 41",
+     "khoản 3 Điều 41",
+     "khoản 4 Điều 41"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2, khoản 3 và khoản 4 Điều 41 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 16",
+    "action": "bo-sung",
+    "target_document": "22/2017/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 41",
+     "khoản 3 Điều 41",
+     "khoản 4 Điều 41"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2, khoản 3 và khoản 4 Điều 41 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 17 điểm a",
+    "action": "sua-doi",
+    "target_document": "22/2017/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 42"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 17 điểm a",
+    "action": "bo-sung",
+    "target_document": "22/2017/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 42"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 17 điểm b",
+    "action": "bo-sung",
+    "target_document": "22/2017/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2a Điều 42"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung khoản 2a vào sau khoản 2 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 18",
+    "action": "bai-bo",
+    "target_document": "22/2017/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 22",
+     "khoản 2 Điều 37",
+     "điểm b khoản 1 Điều 42"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ khoản 2 Điều 22, khoản 2 Điều 37, điểm b khoản 1 Điều 42."
+   },
+   {
+    "source_path": "Điều 3 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "22/2015/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 3a"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung Điều 3a vào sau Điều 3 như sau:"
+   },
+   {
+    "source_path": "Điều 3 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "22/2015/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 4"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 4 như sau:"
+   },
+   {
+    "source_path": "Điều 3 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "22/2015/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 4"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 4 như sau:"
+   },
+   {
+    "source_path": "Điều 3 Khoản 3",
+    "action": "sua-doi",
+    "target_document": "22/2015/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 3 Điều 5 như sau:"
+   },
+   {
+    "source_path": "Điều 3 Khoản 3",
+    "action": "bo-sung",
+    "target_document": "22/2015/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 3 Điều 5 như sau:"
+   },
+   {
+    "source_path": "Điều 3 Khoản 4",
+    "action": "sua-doi",
+    "target_document": "22/2015/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 6",
+     "khoản 2 Điều 6",
+     "khoản 3 Điều 6"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1, khoản 2 và khoản 3 Điều 6 như sau:"
+   },
+   {
+    "source_path": "Điều 3 Khoản 4",
+    "action": "bo-sung",
+    "target_document": "22/2015/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 6",
+     "khoản 2 Điều 6",
+     "khoản 3 Điều 6"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1, khoản 2 và khoản 3 Điều 6 như sau:"
+   },
+   {
+    "source_path": "Điều 3 Khoản 5",
+    "action": "sua-doi",
+    "target_document": "22/2015/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 9",
+     "khoản 2 Điều 9"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 và khoản 2 Điều 9 như sau:"
+   },
+   {
+    "source_path": "Điều 3 Khoản 5",
+    "action": "bo-sung",
+    "target_document": "22/2015/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 9",
+     "khoản 2 Điều 9"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 và khoản 2 Điều 9 như sau:"
+   },
+   {
+    "source_path": "Điều 3 Khoản 6",
+    "action": "sua-doi",
+    "target_document": "22/2015/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 12"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 Điều 12 như sau:"
+   },
+   {
+    "source_path": "Điều 3 Khoản 6",
+    "action": "bo-sung",
+    "target_document": "22/2015/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 12"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 Điều 12 như sau:"
+   },
+   {
+    "source_path": "Điều 3 Khoản 7",
+    "action": "sua-doi",
+    "target_document": "22/2015/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 15",
+     "khoản 2 Điều 15"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 và khoản 2 Điều 15 như sau:"
+   },
+   {
+    "source_path": "Điều 3 Khoản 7",
+    "action": "bo-sung",
+    "target_document": "22/2015/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 15",
+     "khoản 2 Điều 15"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 và khoản 2 Điều 15 như sau:"
+   },
+   {
+    "source_path": "Điều 3 Khoản 8 điểm a",
+    "action": "bo-sung",
+    "target_document": "22/2015/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a1 khoản 1 Điều 24"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung điểm a1 vào sau điểm a khoản 1 như sau:"
+   },
+   {
+    "source_path": "Điều 3 Khoản 8 điểm b",
+    "action": "sua-doi",
+    "target_document": "22/2015/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm c khoản 2 Điều 24"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm c khoản 2 như sau:"
+   },
+   {
+    "source_path": "Điều 3 Khoản 8 điểm b",
+    "action": "bo-sung",
+    "target_document": "22/2015/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm c khoản 2 Điều 24"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm c khoản 2 như sau:"
+   },
+   {
+    "source_path": "Điều 3 Khoản 9 điểm a",
+    "action": "thay-the",
+    "target_document": "22/2015/NĐ-CP",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Mẫu TP-QTV-01",
+    "evidence": "Thay thế Mẫu TP-QTV-01 ban hành kèm theo Nghị định số 22/2015/NĐ-CP ngày 16 tháng 02 năm 2015 của Chính phủ quy định chi tiết thi hành một số điều của Luật Phá sản về Quản tài viên và hành nghề quản lý, thanh lý tài sản bằng Mẫu TP-QTV-01 ban hành kèm theo Nghị định này"
+   },
+   {
+    "source_path": "Điều 3 Khoản 9 điểm b",
+    "action": "thay-the",
+    "target_document": "22/2015/NĐ-CP",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Mẫu TP-QTV-02",
+    "evidence": "Thay thế Mẫu TP-QTV-02 ban hành kèm theo Nghị định số 22/2015/NĐ-CP ngày 16 tháng 02 năm 2015 của Chính phủ quy định chi tiết thi hành một số điều của Luật Phá sản về Quản tài viên và hành nghề quản lý, thanh lý tài sản bằng Mẫu TP-QTV-02 ban hành kèm theo Nghị định này"
+   },
+   {
+    "source_path": "Điều 3 Khoản 9 điểm c",
+    "action": "thay-the",
+    "target_document": "22/2015/NĐ-CP",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Mẫu TP-QTV-03",
+    "evidence": "Thay thế Mẫu TP-QTV-03 ban hành kèm theo Nghị định số 22/2015/NĐ-CP ngày 16 tháng 02 năm 2015 của Chính phủ quy định chi tiết thi hành một số điều của Luật Phá sản về Quản tài viên và hành nghề quản lý, thanh lý tài sản bằng Mẫu TP-QTV-03 ban hành kèm theo Nghị định này"
+   },
+   {
+    "source_path": "Điều 3 Khoản 9 điểm d",
+    "action": "thay-the",
+    "target_document": "22/2015/NĐ-CP",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Mẫu TP-QTV-04",
+    "evidence": "Thay thế Mẫu TP-QTV-04 ban hành kèm theo Nghị định số 22/2015/NĐ-CP ngày 16 tháng 02 năm 2015 của Chính phủ quy định chi tiết thi hành một số điều của Luật Phá sản về Quản tài viên và hành nghề quản lý, thanh lý tài sản bằng Mẫu TP-QTV-04 ban hành kèm theo Nghị định này"
+   },
+   {
+    "source_path": "Điều 3 Khoản 9 điểm đ",
+    "action": "thay-the",
+    "target_document": "22/2015/NĐ-CP",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Mẫu TP-QTV-05",
+    "evidence": "Thay thế Mẫu TP-QTV-05 ban hành kèm theo Nghị định số 22/2015/NĐ-CP ngày 16 tháng 02 năm 2015 của Chính phủ quy định chi tiết thi hành một số điều của Luật Phá sản về Quản tài viên và hành nghề quản lý, thanh lý tài sản bằng Mẫu TP-QTV-05 ban hành kèm theo Nghị định này"
+   },
+   {
+    "source_path": "Điều 3 Khoản 9 điểm e",
+    "action": "thay-the",
+    "target_document": "22/2015/NĐ-CP",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Mẫu TP-QTV-08",
+    "evidence": "Thay thế Mẫu TP-QTV-08 ban hành kèm theo Nghị định số 22/2015/NĐ-CP ngày 16 tháng 02 năm 2015 của Chính phủ quy định chi tiết thi hành một số điều của Luật Phá sản về Quản tài viên và hành nghề quản lý, thanh lý tài sản bằng Mẫu TP-QTV-08 ban hành kèm theo Nghị định này"
+   },
+   {
+    "source_path": "Điều 3 Khoản 10",
+    "action": "bai-bo",
+    "target_document": "22/2015/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 22"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ khoản 2 Điều 22."
+   },
+   {
+    "source_path": "Điều 4 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "123/2013/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 5a"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung Điều 5a vào sau Điều 5 như sau:"
+   },
+   {
+    "source_path": "Điều 4 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "123/2013/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 11",
+     "khoản 2 Điều 11"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 và khoản 2 Điều 11 như sau:"
+   },
+   {
+    "source_path": "Điều 4 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "123/2013/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 11",
+     "khoản 2 Điều 11"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 và khoản 2 Điều 11 như sau:"
+   },
+   {
+    "source_path": "Điều 4 Khoản 3",
+    "action": "sua-doi",
+    "target_document": "123/2013/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 12"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 Điều 12 như sau:"
+   },
+   {
+    "source_path": "Điều 4 Khoản 3",
+    "action": "bo-sung",
+    "target_document": "123/2013/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 12"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 Điều 12 như sau:"
+   },
+   {
+    "source_path": "Điều 4 Khoản 4",
+    "action": "sua-doi",
+    "target_document": "123/2013/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 13"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 Điều 13 như sau:"
+   },
+   {
+    "source_path": "Điều 4 Khoản 4",
+    "action": "bo-sung",
+    "target_document": "123/2013/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 13"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 Điều 13 như sau:"
+   },
+   {
+    "source_path": "Điều 4 Khoản 5",
+    "action": "sua-doi",
+    "target_document": "123/2013/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 14"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 Điều 14 như sau:"
+   },
+   {
+    "source_path": "Điều 4 Khoản 5",
+    "action": "bo-sung",
+    "target_document": "123/2013/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 14"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 Điều 14 như sau:"
+   },
+   {
+    "source_path": "Điều 4 Khoản 6",
+    "action": "sua-doi",
+    "target_document": "123/2013/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 15"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 Điều 15 như sau:"
+   },
+   {
+    "source_path": "Điều 4 Khoản 6",
+    "action": "bo-sung",
+    "target_document": "123/2013/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 15"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 Điều 15 như sau:"
+   },
+   {
+    "source_path": "Điều 4 Khoản 7",
+    "action": "sua-doi",
+    "target_document": "123/2013/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 36"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 Điều 36 như sau:"
+   },
+   {
+    "source_path": "Điều 4 Khoản 7",
+    "action": "bo-sung",
+    "target_document": "123/2013/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 36"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 Điều 36 như sau:"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên văn bản không nêu số hiệu đích nên không có quan hệ Phần đầu. Đích Điều 1 là 63/2011/NĐ-CP (đã sửa theo 124/2018/NĐ-CP), Điều 4 là 123/2013/NĐ-CP (đã sửa theo 137/2018/NĐ-CP). Khoản có điểm con (Điều 2 K10, K17; Điều 3 K8, K9): ghi ở điểm con. Mẫu biểu thay thế: không rõ phụ lục chứa mẫu nên vi_tri rỗng, ghi doi_tuong."
+ }
+]

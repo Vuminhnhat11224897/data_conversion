@@ -1,0 +1,138 @@
+[
+ {
+  "doc_id": "659789",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn giao nhiệm vụ; không có tác động."
+ },
+ {
+  "doc_id": "659822",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn trả lời, chỉ trích dẫn Thông tư 40/2021/TT-BTC; không có tác động."
+ },
+ {
+  "doc_id": "659961",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Ban hành Quy định mới; không có tác động lên văn bản khác."
+ },
+ {
+  "doc_id": "660027",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn yêu cầu, giao nhiệm vụ; không có tác động."
+ },
+ {
+  "doc_id": "660194",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Thông báo kết luận giao nhiệm vụ (rà soát, sửa đổi Nghị định 99/2022/NĐ-CP là nhiệm vụ); không có tác động."
+ },
+ {
+  "doc_id": "660215",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 1 nêu 'theo quy định tại Nghị định số 112/2024/NĐ-CP' (thực hiện thẩm quyền được giao), không tự nêu là quy định chi tiết; không ghi quan hệ."
+ },
+ {
+  "doc_id": "660217",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Không có tác động."
+ },
+ {
+  "doc_id": "660318",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn đề nghị; phụ lục là bảng số liệu; không có tác động."
+ },
+ {
+  "doc_id": "660321",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn truyền đạt ý kiến chỉ đạo; không có tác động."
+ },
+ {
+  "doc_id": "660328",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn trả lời; không có tác động."
+ },
+ {
+  "doc_id": "660341",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn đề nghị báo cáo kèm đề cương, phụ lục biểu mẫu; không có tác động."
+ },
+ {
+  "doc_id": "660342",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Thông báo kết luận giao nhiệm vụ; nêu việc sửa Luật An toàn thực phẩm, Nghị định 15/2018/NĐ-CP là kể lại/nhiệm vụ; không có tác động."
+ },
+ {
+  "doc_id": "660344",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Ban hành Kế hoạch giao nhiệm vụ rà soát; không có tác động."
+ },
+ {
+  "doc_id": "660359",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 4 khoản 1 là quy định áp dụng văn bản thay thế; không có tác động."
+ },
+ {
+  "doc_id": "660444",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Ban hành quy trình mới; nội dung quy trình là file đính kèm; không có tác động."
+ },
+ {
+  "doc_id": "660445",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 1 nêu 'theo quy định tại khoản 3 Điều 14 và điểm a khoản 3 Điều 28 Nghị định số 85/2024/NĐ-CP' (thực hiện thẩm quyền được giao), không tự nêu là quy định chi tiết; không ghi quan hệ."
+ },
+ {
+  "doc_id": "660460",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Kế hoạch thực hiện Nghị quyết 50/NQ-CP; giao nhiệm vụ; không có tác động."
+ },
+ {
+  "doc_id": "660615",
+  "relations": [
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "815/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "danh mục công trình, dự án thực hiện trong Kế hoạch sử dụng đất năm 2025 huyện Dầu Tiếng",
+    "evidence": "Bổ sung 09 công trình, dự án vào danh mục công trình, dự án thực hiện trong Kế hoạch sử dụng đất năm 2025 huyện Dầu Tiếng"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 1 khoản 1 bổ sung 09 công trình vào danh mục của Kế hoạch sử dụng đất năm 2025 huyện Dầu Tiếng; khoản 2 cho thấy Kế hoạch này thực hiện theo Quyết định 815/QĐ-UBND nên ghi đích 815/QĐ-UBND. Tên văn bản không nêu số hiệu đích."
+ },
+ {
+  "doc_id": "660656",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 12 Hiệp định: 'Hiệp định này thay thế Hiệp định hợp tác về khoa học và công nghệ giữa Chính phủ nước Cộng hoà xã hội chủ nghĩa Việt Nam và Chính phủ nước Cộng hòa Pháp ngày 07 tháng 3 năm 2007' — đích không có số hiệu, không phải luật nên không ghi quan hệ. Thông báo của Bộ Ngoại giao chỉ thông báo hiệu lực."
+ },
+ {
+  "doc_id": "660665",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Ban hành Quy định mới; Điều 1 Quy định nêu 'theo quy định tại' Nghị định 32/2019 và 60/2021 (thực hiện thẩm quyền); không có tác động."
+ },
+ {
+  "doc_id": "660675",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Chỉ thị giao nhiệm vụ; không có tác động."
+ }
+]

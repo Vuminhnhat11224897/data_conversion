@@ -1,0 +1,2403 @@
+[
+ {
+  "doc_id": "661802",
+  "relations": [
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "19/2005/TT-BXD",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 2 Mục IV"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm a khoản 2 Mục IV như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "19/2005/TT-BXD",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 2 Mục IV"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm a khoản 2 Mục IV như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "thay-cum-tu",
+    "target_document": "19/2005/TT-BXD",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Mục I"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Ủy ban nhân dân huyện, quận, thị xã, thành phố thuộc tỉnh (sau đây gọi chung là Ủy ban nhân dân cấp huyện)” bằng cụm từ “Ủy ban nhân dân cấp xã” tại khoản 1 Mục I."
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "thay-cum-tu",
+    "target_document": "19/2005/TT-BXD",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Mục III"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Ủy ban nhân dân xã, phường, thị trấn (sau đây gọi chung là Ủy ban nhân dân cấp xã)” bằng cụm từ “Ủy ban nhân dân cấp xã” tại khoản 2 Mục III."
+   },
+   {
+    "source_path": "Điều 1 Khoản 4",
+    "action": "thay-cum-tu",
+    "target_document": "19/2005/TT-BXD",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Mục IV",
+     "khoản 3 Mục IV",
+     "khoản 4 Mục IV"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Ủy ban nhân dân cấp huyện” bằng cụm từ “Ủy ban nhân dân cấp xã” tại khoản 2, khoản 3 và khoản 4 Mục IV."
+   },
+   {
+    "source_path": "Điều 1 Khoản 5",
+    "action": "thay-cum-tu",
+    "target_document": "19/2005/TT-BXD",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Phụ lục II"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “huyện (quận, thị xã, thành phố) bằng cụm từ “xã/phường/đặc khu” tại Phụ lục II; cụm từ “Chủ tịch Uỷ ban nhân dân huyện (quận, thị xã, thành phố)” bằng cụm từ “Chủ tịch Ủy ban nhân dân cấp xã” tại Phụ lục II."
+   },
+   {
+    "source_path": "Điều 2 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "05/2024/TT-BXD",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 Điều 1 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "05/2024/TT-BXD",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 Điều 1 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 2",
+    "action": "thay-cum-tu",
+    "target_document": "05/2024/TT-BXD",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “cơ quan quản lý nhà ở cấp huyện” bằng cụm từ “Ủy ban nhân dân cấp xã” tại Điều 3."
+   },
+   {
+    "source_path": "Điều 2 Khoản 3",
+    "action": "thay-cum-tu",
+    "target_document": "05/2024/TT-BXD",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 1 Điều 4"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Ủy ban nhân dân xã, phường, thị trấn (sau đây gọi chung là Ủy ban nhân dân cấp xã)” bằng cụm từ “Ủy ban nhân dân cấp xã” tại điểm a khoản 1 Điều 4."
+   },
+   {
+    "source_path": "Điều 2 Khoản 4",
+    "action": "bai-bo",
+    "target_document": "05/2024/TT-BXD",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 3",
+     "điểm d khoản 2 Điều 18",
+     "điểm b khoản 2 Điều 19",
+     "khoản 3 Điều 19"
+    ],
+    "doi_tuong": "các cụm từ “và Bộ Xây dựng”, “Bộ Xây dựng”, “Ủy ban nhân dân cấp huyện”",
+    "evidence": "Bỏ cụm từ “và Bộ Xây dựng” tại khoản 3 Điều 3; bỏ cụm từ “Bộ Xây dựng” tại điểm d khoản 2 Điều 18; bỏ cụm từ “Bộ Xây dựng” tại điểm b khoản 2 Điều 19; bỏ cụm từ “Ủy ban nhân dân cấp huyện” tại khoản 3 Điều 19."
+   },
+   {
+    "source_path": "Điều 2 Khoản 5 điểm a",
+    "action": "sua-doi",
+    "target_document": "05/2024/TT-BXD",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 49"
+    ],
+    "doi_tuong": null,
+    "evidence": "a) Sửa đổi, bổ sung Điều 49 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 5 điểm a",
+    "action": "bo-sung",
+    "target_document": "05/2024/TT-BXD",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 49"
+    ],
+    "doi_tuong": null,
+    "evidence": "a) Sửa đổi, bổ sung Điều 49 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 5 điểm b",
+    "action": "thay-cum-tu",
+    "target_document": "05/2024/TT-BXD",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 2 Điều 11"
+    ],
+    "doi_tuong": null,
+    "evidence": "b) Thay thế cụm từ “Ủy ban nhân dân huyện, quận, thị xã, thành phố thuộc tỉnh, thành phố thuộc thành phố trực thuộc trung ương (sau đây gọi chung là Ủy ban nhân dân cấp huyện)” bằng cụm từ “Ủy ban nhân dân cấp xã” tại khoản 2 Điều 11;"
+   },
+   {
+    "source_path": "Điều 2 Khoản 5 điểm c",
+    "action": "thay-cum-tu",
+    "target_document": "05/2024/TT-BXD",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 2 Điều 11",
+     "khoản 1 Điều 12",
+     "khoản 2 Điều 12",
+     "khoản 1 Điều 23",
+     "khoản 1 Điều 44"
+    ],
+    "doi_tuong": null,
+    "evidence": "c) Thay thế cụm từ “Ủy ban nhân dân cấp huyện” bằng cụm từ “Ủy ban nhân dân cấp xã” tại khoản 2 Điều 11, khoản 1 và khoản 2 Điều 12, khoản 1 Điều 23, khoản 1 Điều 44;"
+   },
+   {
+    "source_path": "Điều 2 Khoản 5 điểm d",
+    "action": "bai-bo",
+    "target_document": "05/2024/TT-BXD",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 2 Điều 23",
+     "khoản 3 Điều 19",
+     "khoản 4 Điều 23",
+     "khoản 5 Điều 23",
+     "điểm c khoản 4 Điều 27"
+    ],
+    "doi_tuong": "các cụm từ “Ủy ban nhân dân cấp huyện có trách nhiệm kiểm tra và ban hành quyết định công nhận Ban quản trị hoặc ủy quyền cho”, “Ủy ban nhân dân cấp huyện hoặc”",
+    "evidence": "d) Bỏ cụm từ “Ủy ban nhân dân cấp huyện có trách nhiệm kiểm tra và ban hành quyết định công nhận Ban quản trị hoặc ủy quyền cho” tại khoản 2 Điều 23; bỏ cụm từ “Ủy ban nhân dân cấp huyện hoặc” tại khoản 3 Điều 19, khoản 4 và khoản 5 Điều 23, điểm c khoản 4 Điều 27;"
+   },
+   {
+    "source_path": "Điều 2 Khoản 5 điểm đ",
+    "action": "bai-bo",
+    "target_document": "05/2024/TT-BXD",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 48"
+    ],
+    "doi_tuong": null,
+    "evidence": "đ) Bãi bỏ Điều 48."
+   },
+   {
+    "source_path": "Điều 2 Khoản 5 điểm a",
+    "action": "thay-cum-tu",
+    "target_document": "05/2024/TT-BXD",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục I"
+    ],
+    "doi_tuong": null,
+    "evidence": "a) Thay thế cụm từ “Ủy ban nhân dân cấp huyện” bằng cụm từ “Ủy ban nhân dân cấp xã” tại Mẫu số 01;"
+   },
+   {
+    "source_path": "Điều 2 Khoản 5 điểm b",
+    "action": "thay-cum-tu",
+    "target_document": "05/2024/TT-BXD",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục I"
+    ],
+    "doi_tuong": null,
+    "evidence": "b) Thay thế cụm từ “văn phòng/chi nhánh văn phòng đăng ký đất đai cấp huyện thuộc tỉnh, thành phố trực thuộc trung ương” bằng cụm từ “văn phòng/chi nhánh văn phòng đăng ký đất đai tại đơn vị hành chính cấp xã hoặc khu vực liên xã, phường theo quy định của pháp luật đất đai” tại Mẫu số 02."
+   },
+   {
+    "source_path": "Điều 2 Khoản 6 điểm a",
+    "action": "thay-cum-tu",
+    "target_document": "05/2024/TT-BXD",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục II"
+    ],
+    "doi_tuong": null,
+    "evidence": "a) Thay thế cụm từ “cấp huyện” bằng cụm từ “cấp xã” tại các mục 2.1, 2.2, 2.3, 2.4 Bảng số 01 và các mục 2.1, 2.2, 2.4, 2.6 Bảng số 02;"
+   },
+   {
+    "source_path": "Điều 2 Khoản 6 điểm b",
+    "action": "sua-doi",
+    "target_document": "05/2024/TT-BXD",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục II"
+    ],
+    "doi_tuong": "định mức ngày công tối thiểu",
+    "evidence": "b) Điều chỉnh định mức ngày công tối thiểu từ “2” thành “0,5” tại các mục 2.1, 2.2, 2.3 Bảng số 01 và các mục 2.1, 2.2, 2.4 Bảng số 02;"
+   },
+   {
+    "source_path": "Điều 2 Khoản 6 điểm c",
+    "action": "sua-doi",
+    "target_document": "05/2024/TT-BXD",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục II"
+    ],
+    "doi_tuong": "định mức ngày công tối đa",
+    "evidence": "c) Điều chỉnh định mức ngày công tối đa từ “4” thành “2” tại các mục 2.1, 2.2, 2.3, 2.4 Bảng số 01 và các mục 2.1, 2.2, 2.4, 2.6 Bảng số 02;"
+   },
+   {
+    "source_path": "Điều 2 Khoản 6 điểm d",
+    "action": "bai-bo",
+    "target_document": "05/2024/TT-BXD",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục II"
+    ],
+    "doi_tuong": "cụm từ “theo đơn vị hành chính cấp huyện”",
+    "evidence": "d) Bỏ cụm từ “theo đơn vị hành chính cấp huyện” tại mục 5.10 Bảng số 01."
+   },
+   {
+    "source_path": "Điều 3 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "08/2024/TT-BXD",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm b khoản 2 Điều 6"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm b khoản 2 Điều 6 như sau:"
+   },
+   {
+    "source_path": "Điều 3 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "08/2024/TT-BXD",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm b khoản 2 Điều 6"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm b khoản 2 Điều 6 như sau:"
+   },
+   {
+    "source_path": "Điều 3 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "08/2024/TT-BXD",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 23"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 23 như sau:"
+   },
+   {
+    "source_path": "Điều 3 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "08/2024/TT-BXD",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 23"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 23 như sau:"
+   },
+   {
+    "source_path": "Điều 3 Khoản 3",
+    "action": "thay-cum-tu",
+    "target_document": "08/2024/TT-BXD",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Ủy ban nhân dân cấp huyện” bằng cụm từ “Ủy ban nhân dân cấp tỉnh” tại Điều 5."
+   },
+   {
+    "source_path": "Điều 3 Khoản 4",
+    "action": "thay-cum-tu",
+    "target_document": "08/2024/TT-BXD",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 6",
+     "khoản 3 Điều 7",
+     "khoản 1 Điều 21",
+     "khoản 4 Điều 21",
+     "khoản 1 Điều 24"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Ủy ban nhân dân cấp huyện” bằng cụm từ “Ủy ban nhân dân cấp xã” tại khoản 3 Điều 6, khoản 3 Điều 7, khoản 1 và khoản 4 Điều 21, khoản 1 Điều 24."
+   },
+   {
+    "source_path": "Điều 3 Khoản 5",
+    "action": "bai-bo",
+    "target_document": "08/2024/TT-BXD",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 9",
+     "khoản 3 Điều 14"
+    ],
+    "doi_tuong": "cụm từ “Ủy ban nhân dân cấp huyện,”",
+    "evidence": "Bỏ cụm từ “Ủy ban nhân dân cấp huyện,” tại khoản 3 Điều 9, khoản 3 Điều 14."
+   },
+   {
+    "source_path": "Điều 3 Khoản 6",
+    "action": "thay-cum-tu",
+    "target_document": "08/2024/TT-BXD",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục"
+    ],
+    "doi_tuong": "Mẫu chứng nhận số nhà",
+    "evidence": "Thay thế cụm từ “TUQ. Chủ tịch UBND quận” bằng cụm từ “TUQ. Chủ tịch UBND xã” tại Mẫu chứng nhận số nhà ban hành kèm theo Thông tư số 08/2024/TT-BXD."
+   },
+   {
+    "source_path": "Điều 4 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "01/2008/TT-BXD",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Mục II"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 Mục II như sau:"
+   },
+   {
+    "source_path": "Điều 4 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "01/2008/TT-BXD",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Mục II"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 Mục II như sau:"
+   },
+   {
+    "source_path": "Điều 4 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "01/2008/TT-BXD",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Mục IV"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Mục IV như sau:"
+   },
+   {
+    "source_path": "Điều 4 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "01/2008/TT-BXD",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Mục IV"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Mục IV như sau:"
+   },
+   {
+    "source_path": "Điều 4 Khoản 3",
+    "action": "sua-doi",
+    "target_document": "01/2008/TT-BXD",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 1 Phụ lục 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung quy định tại Điều 1 của Phụ lục 1 ban hành kèm theo Thông tư số 01/2008/TT-BXD như sau:"
+   },
+   {
+    "source_path": "Điều 4 Khoản 3",
+    "action": "bo-sung",
+    "target_document": "01/2008/TT-BXD",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 1 Phụ lục 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung quy định tại Điều 1 của Phụ lục 1 ban hành kèm theo Thông tư số 01/2008/TT-BXD như sau:"
+   },
+   {
+    "source_path": "Điều 5 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "11/2010/TT-BXD",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm c khoản 1 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm c khoản 1 Điều 3 như sau:"
+   },
+   {
+    "source_path": "Điều 5 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "11/2010/TT-BXD",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm c khoản 1 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm c khoản 1 Điều 3 như sau:"
+   },
+   {
+    "source_path": "Điều 5 Khoản 2",
+    "action": "thay-cum-tu",
+    "target_document": "11/2010/TT-BXD",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 4 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Trách nhiệm của Sở Quy hoạch - Kiến trúc thành phố Hà Nội và thành phố Hồ Chí Minh” tại khoản 4 Điều 3 bằng cụm từ “Trách nhiệm của Sở Quy hoạch - Kiến trúc thành phố Hà Nội”."
+   },
+   {
+    "source_path": "Điều 5 Khoản 3",
+    "action": "thay-cum-tu",
+    "target_document": "11/2010/TT-BXD",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “UBND thành phố, thị xã thuộc tỉnh” bằng cụm từ “Uỷ ban nhân dân cấp xã” tại khoản 2 Điều 3."
+   },
+   {
+    "source_path": "Điều 6 Khoản 1 điểm a",
+    "action": "sua-doi",
+    "target_document": "08/2012/TT-BXD",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm c khoản 1 Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm c khoản 1 như sau:"
+   },
+   {
+    "source_path": "Điều 6 Khoản 1 điểm a",
+    "action": "bo-sung",
+    "target_document": "08/2012/TT-BXD",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm c khoản 1 Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm c khoản 1 như sau:"
+   },
+   {
+    "source_path": "Điều 6 Khoản 1 điểm b",
+    "action": "sua-doi",
+    "target_document": "08/2012/TT-BXD",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 Điều 7 như sau:"
+   },
+   {
+    "source_path": "Điều 6 Khoản 1 điểm b",
+    "action": "bo-sung",
+    "target_document": "08/2012/TT-BXD",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 Điều 7 như sau:"
+   },
+   {
+    "source_path": "Điều 6 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "08/2012/TT-BXD",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 8"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 8 như sau:"
+   },
+   {
+    "source_path": "Điều 6 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "08/2012/TT-BXD",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 8"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 8 như sau:"
+   },
+   {
+    "source_path": "Điều 6 Khoản 3",
+    "action": "thay-cum-tu",
+    "target_document": "08/2012/TT-BXD",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 6"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Tài nguyên và Môi trường, Nông nghiệp và Phát triển nông thôn, Tài chính, Kế hoạch và Đầu tư” bằng cụm từ “Nông nghiệp và Môi trường, Tài chính” tại khoản 1 Điều 6."
+   },
+   {
+    "source_path": "Điều 7 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "01/2018/TT-BXD",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm d khoản 1 Điều 8"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm d khoản 1 Điều 8 như sau:"
+   },
+   {
+    "source_path": "Điều 7 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "01/2018/TT-BXD",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm d khoản 1 Điều 8"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm d khoản 1 Điều 8 như sau:"
+   },
+   {
+    "source_path": "Điều 7 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "01/2018/TT-BXD",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 8"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 Điều 8 như sau:"
+   },
+   {
+    "source_path": "Điều 7 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "01/2018/TT-BXD",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 8"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 Điều 8 như sau:"
+   },
+   {
+    "source_path": "Điều 7 Khoản 3",
+    "action": "sua-doi",
+    "target_document": "01/2018/TT-BXD",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 10"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 3 Điều 10 như sau:"
+   },
+   {
+    "source_path": "Điều 7 Khoản 3",
+    "action": "bo-sung",
+    "target_document": "01/2018/TT-BXD",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 10"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 3 Điều 10 như sau:"
+   },
+   {
+    "source_path": "Điều 7 Khoản 4 điểm a",
+    "action": "thay-cum-tu",
+    "target_document": "01/2018/TT-BXD",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "a) Thay thế cụm từ “Ủy ban nhân dân cấp huyện” bằng cụm từ “Sở Xây dựng” tại điểm 5 của các chỉ tiêu có mã số 0101, 0102, 0103, 0104, 0105, 0201, 0202, 0203, 0204, 0205, 0206, 0207, 0208, 0209, 0210, 0301, 0302, 0303, 0304, 0401, 0402, 0403, 0404, 0405 tại Phụ lục số 2 ban hành kèm theo Thông tư số 01/2018/TT- BXD;"
+   },
+   {
+    "source_path": "Điều 7 Khoản 4 điểm b",
+    "action": "thay-cum-tu",
+    "target_document": "01/2018/TT-BXD",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "b) Thay thế cụm từ “Ủy ban nhân dân cấp huyện” bằng cụm từ “Ủy ban nhân dân cấp tỉnh” tại điểm 1 của chỉ tiêu có mã số 0402 của Phụ lục số 2 ban hành kèm theo Thông tư số 01/2018/TT-BXD;"
+   },
+   {
+    "source_path": "Điều 7 Khoản 4 điểm c",
+    "action": "thay-cum-tu",
+    "target_document": "01/2018/TT-BXD",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "c) Thay thế cụm từ “Điều 32, Nghị định số 46/2015/NĐ-CP của Chính phủ ngày 12/5/2015 về quản lý chất lượng và bảo trì công trình xây dựng” bằng cụm từ “khoản 3, khoản 4 Điều 52 Nghị định số 06/2021/NĐ-CP ngày 26/01/2021 của Chính phủ quy định chi tiết một số nội dung về quản lý chất lượng, thi công xây dựng và bảo trì công trình xây dựng” tại điểm 1 của chỉ tiêu có mã số 0105 của Phụ lục số 2 ban hành kèm theo Thông tư số 01/2018/TT-BXD."
+   },
+   {
+    "source_path": "Điều 7 Khoản 5 điểm a",
+    "action": "bai-bo",
+    "target_document": "01/2018/TT-BXD",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm b khoản 1 Điều 8"
+    ],
+    "doi_tuong": "cụm từ “và Ủy ban nhân dân các đô thị trực thuộc”",
+    "evidence": "Bỏ cụm từ “và Ủy ban nhân dân các đô thị trực thuộc” tại điểm b khoản 1 Điều 8;"
+   },
+   {
+    "source_path": "Điều 7 Khoản 5 điểm b",
+    "action": "bai-bo",
+    "target_document": "01/2018/TT-BXD",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 10",
+     "khoản 5 Điều 10"
+    ],
+    "doi_tuong": "các cụm từ “Ủy ban nhân dân các đô thị trực thuộc và”, “Ủy ban nhân dân cấp huyện”",
+    "evidence": "Bỏ cụm từ “Ủy ban nhân dân các đô thị trực thuộc và” tại khoản 1 Điều 10 và cụm từ “Ủy ban nhân dân cấp huyện” tại khoản 5 Điều 10;"
+   },
+   {
+    "source_path": "Điều 7 Khoản 5 điểm c",
+    "action": "bai-bo",
+    "target_document": "01/2018/TT-BXD",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 10"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ khoản 2 Điều 10."
+   },
+   {
+    "source_path": "Điều 8",
+    "action": "thay-the",
+    "target_document": "03/2020/TT-BXD",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục I"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế Phụ lục I ban hành kèm theo Thông tư số 03/2020/TT-BXD bằng Phụ lục I ban hành kèm theo Thông tư này."
+   },
+   {
+    "source_path": "Điều 9",
+    "action": "thay-cum-tu",
+    "target_document": "08/2021/TT-BXD",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 5 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “cấp huyện” bằng cụm từ “cấp xã” tại khoản 5 Điều 3."
+   },
+   {
+    "source_path": "Điều 10 Khoản 1",
+    "action": "thay-cum-tu",
+    "target_document": "06/2021/TT-BXD",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục I"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Tòa án nhân dân, Viện kiểm sát nhân dân cấp tỉnh” bằng cụm từ “Tòa án nhân dân, Viện kiểm sát nhân dân cấp tỉnh, khu vực” tại số thứ tự 1.1.7 của Phụ lục I ban hành kèm theo Thông tư số 06/2021/TT-BXD."
+   },
+   {
+    "source_path": "Điều 10 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "06/2021/TT-BXD",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục I"
+    ],
+    "doi_tuong": "các cụm từ tại số thứ tự 1.1.7",
+    "evidence": "Bỏ cụm từ “Tổng cục và cấp tương đương;” và cụm từ “cấp cao” tại số thứ tự 1.1.7 của Phụ lục I ban hành kèm theo Thông tư số 06/2021/TT-BXD; bãi bỏ cụm từ “Trụ sở làm việc của Đảng ủy, HĐND, UBND cấp huyện;” tại số thứ tự 1.1.7 của Phụ lục I ban hành kèm theo Thông tư số 06/2021/TT-BXD; bãi bỏ cụm từ “Chi cục và cấp tương đương; Tòa án nhân dân, Viện kiểm sát nhân dân cấp huyện” tại số thứ tự 1.1.7 của Phụ lục I ban hành kèm theo Thông tư số 06/2021/TT-BXD."
+   },
+   {
+    "source_path": "Điều 11 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "11/2021/TT-BXD",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 9"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi khoản 2 Điều 9 Thông tư số 11/2021/TT-BXD (đã được sửa đổi, bổ sung tại khoản 2 Điều 1 Thông tư số 14/2023/TT-BXD) như sau:"
+   },
+   {
+    "source_path": "Điều 11 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "11/2021/TT-BXD",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 11"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 Điều 11 Thông tư số 11/2021/TT-BXD như sau:"
+   },
+   {
+    "source_path": "Điều 11 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "11/2021/TT-BXD",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 11"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 Điều 11 Thông tư số 11/2021/TT-BXD như sau:"
+   },
+   {
+    "source_path": "Điều 11 Khoản 3",
+    "action": "sua-doi",
+    "target_document": "11/2021/TT-BXD",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục I Phụ lục IV"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung phần đầu Mục I Phụ lục IV ban hành kèm theo Thông tư số 11/2021/TT-BXD như sau:"
+   },
+   {
+    "source_path": "Điều 11 Khoản 3",
+    "action": "bo-sung",
+    "target_document": "11/2021/TT-BXD",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục I Phụ lục IV"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung phần đầu Mục I Phụ lục IV ban hành kèm theo Thông tư số 11/2021/TT-BXD như sau:"
+   },
+   {
+    "source_path": "Điều 11 Khoản 4",
+    "action": "sua-doi",
+    "target_document": "11/2021/TT-BXD",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm b khoản 1 Mục II Phụ lục VI"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm b khoản 1 Mục II Phụ lục VI ban hành kèm theo Thông tư số 11/2021/TT-BXD như sau:"
+   },
+   {
+    "source_path": "Điều 11 Khoản 4",
+    "action": "bo-sung",
+    "target_document": "11/2021/TT-BXD",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm b khoản 1 Mục II Phụ lục VI"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm b khoản 1 Mục II Phụ lục VI ban hành kèm theo Thông tư số 11/2021/TT-BXD như sau:"
+   },
+   {
+    "source_path": "Điều 11 Khoản 5 điểm a",
+    "action": "bai-bo",
+    "target_document": "11/2021/TT-BXD",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 8"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ khoản 1 Điều 8;"
+   },
+   {
+    "source_path": "Điều 11 Khoản 5 điểm b",
+    "action": "thay-cum-tu",
+    "target_document": "11/2021/TT-BXD",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm b khoản 5 Điều 8",
+     "điểm đ khoản 5 Điều 8"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Bộ Xây dựng” bằng cụm từ “Bộ Xây dựng, Bộ quản lý công trình xây dựng chuyên ngành” tại điểm b, điểm đ khoản 5 Điều 8."
+   },
+   {
+    "source_path": "Điều 11 Khoản 6",
+    "action": "bai-bo",
+    "target_document": "11/2021/TT-BXD",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục V Phụ lục VI"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ mục V Phụ lục VI ban hành kèm theo Thông tư số 11/2021/TT-BXD."
+   },
+   {
+    "source_path": "Điều 11 Khoản 7",
+    "action": "bai-bo",
+    "target_document": "11/2021/TT-BXD",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm đ khoản 7 Điều 10",
+     "Phụ lục IX"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ điểm đ khoản 7 Điều 10 và Phụ lục IX ban hành kèm theo Thông tư số 11/2021/TT-BXD."
+   },
+   {
+    "source_path": "Điều 12",
+    "action": "bo-sung",
+    "target_document": "13/2021/TT-BXD",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục V Phụ lục V"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung đoạn dẫn mục V Phụ lục V ban hành kèm theo Thông tư số 13/2021/TT-BXD được sửa đổi, bổ sung tại khoản 5 Điều 2 Thông tư số 01/2025/TT-BXD như sau:"
+   },
+   {
+    "source_path": "Điều 13 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "08/2012/TT-BGTVT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 7 Thông tư số 08/2012/TT-BGTVT (đã được sửa đổi, bổ sung tại khoản 5 Điều 1 Thông tư số 13/2023/TT-BGTVT) như sau:"
+   },
+   {
+    "source_path": "Điều 13 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "08/2012/TT-BGTVT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 7 Thông tư số 08/2012/TT-BGTVT (đã được sửa đổi, bổ sung tại khoản 5 Điều 1 Thông tư số 13/2023/TT-BGTVT) như sau:"
+   },
+   {
+    "source_path": "Điều 13 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "08/2012/TT-BGTVT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 4 Điều 10"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 4 Điều 10 như sau:"
+   },
+   {
+    "source_path": "Điều 13 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "08/2012/TT-BGTVT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 4 Điều 10"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 4 Điều 10 như sau:"
+   },
+   {
+    "source_path": "Điều 13 Khoản 3",
+    "action": "thay-cum-tu",
+    "target_document": "08/2012/TT-BGTVT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 12"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Sở Giao thông vận tải” bằng cụm từ “Sở Xây dựng” tại khoản 2 Điều 12."
+   },
+   {
+    "source_path": "Điều 13 Khoản 4",
+    "action": "thay-cum-tu",
+    "target_document": "08/2012/TT-BGTVT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 12",
+     "khoản 2 Điều 12",
+     "Phụ lục II"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “ Cục Đường thủy nội địa Việt Nam” bằng cụm từ “Cục Hàng hải và Đường thủy Việt Nam” tại khoản 1 và khoản 2 Điều 12; Phụ lục II ban hành kèm theo Thông tư số 08/2012/TT-BGTVT được sửa đổi, bổ sung tại khoản 8 Điều 1 Thông tư số 13/2023/TT-BGTVT."
+   },
+   {
+    "source_path": "Điều 13 Khoản 5",
+    "action": "thay-cum-tu",
+    "target_document": "08/2012/TT-BGTVT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 4",
+     "khoản 3 Điều 10"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Cơ quan Cảng vụ đường thủy nội địa” bằng cụm từ “Sở Xây dựng” tại khoản 2 Điều 4; khoản 3 Điều 10 Thông tư số 08/2012/TT-BGTVT đã được sửa đổi, bổ sung tại khoản 3 Điều 1 Thông tư số 03/2013/TT-BGTVT."
+   },
+   {
+    "source_path": "Điều 13 Khoản 6",
+    "action": "thay-cum-tu",
+    "target_document": "08/2012/TT-BGTVT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục III"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Cục Đường thủy Việt Nam (hoặc Sở Giao thông vận tải địa phương)” bằng cụm từ “Sở Xây dựng” tại Phụ lục III ban hành kèm theo Thông tư Thông tư số 08/2012/TT-BGTVT (được sửa đổi, bổ sung tại khoản 4 Điều 1 Thông tư 13/2023/TT-BGTVT)."
+   },
+   {
+    "source_path": "Điều 14 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "16/2013/TT-BGTVT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 2 như sau:"
+   },
+   {
+    "source_path": "Điều 14 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "16/2013/TT-BGTVT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 2 như sau:"
+   },
+   {
+    "source_path": "Điều 14 Khoản 2",
+    "action": "thay-cum-tu",
+    "target_document": "16/2013/TT-BGTVT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 2 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Cục Đường thủy nội địa Việt Nam” bằng cụm từ “Cục Hàng hải và Đường thủy Việt Nam” tại điểm a khoản 2 Điều 3 Thông tư số 16/2013/TT-BGTVT (được sửa đổi, bổ sung tại Điều 1 Thông tư số 10/2024/TT- BGTVT)."
+   },
+   {
+    "source_path": "Điều 14 Khoản 3",
+    "action": "thay-cum-tu",
+    "target_document": "16/2013/TT-BGTVT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Sở Giao thông vận tải” bằng cụm từ “Sở Xây dựng” tại Điều 3 Thông tư số 16/2013/TT-BGTVT được sửa đổi, bổ sung tại Điều 1 Thông tư số 10/2024/TT-BGTVT."
+   },
+   {
+    "source_path": "Điều 14 Khoản 4",
+    "action": "bai-bo",
+    "target_document": "16/2013/TT-BGTVT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục III"
+    ],
+    "doi_tuong": "phần ghi chú của Phụ lục III",
+    "evidence": "Bãi bỏ phần ghi chú của Phụ lục III ban hành kèm theo Thông tư số 16/2013/TT-BGTVT (được sửa đổi, bổ sung tại khoản 2 Điều 2 Thông tư số 10/2024/TT-BGTVT)."
+   },
+   {
+    "source_path": "Điều 15 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "69/2014/TT-BGTVT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 5 như sau:"
+   },
+   {
+    "source_path": "Điều 15 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "69/2014/TT-BGTVT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 5 như sau:"
+   },
+   {
+    "source_path": "Điều 15 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "69/2014/TT-BGTVT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 8"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 3 Điều 8 như sau:"
+   },
+   {
+    "source_path": "Điều 15 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "69/2014/TT-BGTVT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 8"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 3 Điều 8 như sau:"
+   },
+   {
+    "source_path": "Điều 15 Khoản 3",
+    "action": "thay-cum-tu",
+    "target_document": "69/2014/TT-BGTVT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 6"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Cảng vụ Đường thủy nội địa” bằng cụm từ “Cảnh sát đường thủy hoặc Ủy ban nhân dân gần nhất ” tại khoản 1 Điều 6 của Thông tư số 69/2014/TT-BGTVT."
+   },
+   {
+    "source_path": "Điều 16 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "75/2014/TT-BGTVT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 5 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung khoản 5 vào sau khoản 4 Điều 3 Thông tư số 75/2014/TT-BGTVT như sau:"
+   },
+   {
+    "source_path": "Điều 16 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "75/2014/TT-BGTVT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 8"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 8 Thông tư số 75/2014/TT-BGTVT (đã được sửa đổi, bổ sung tại khoản 7 Điều 1 Thông tư số 60/2024/TT-BGTVT) như sau:"
+   },
+   {
+    "source_path": "Điều 16 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "75/2014/TT-BGTVT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 8"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 8 Thông tư số 75/2014/TT-BGTVT (đã được sửa đổi, bổ sung tại khoản 7 Điều 1 Thông tư số 60/2024/TT-BGTVT) như sau:"
+   },
+   {
+    "source_path": "Điều 16 Khoản 3",
+    "action": "sua-doi",
+    "target_document": "75/2014/TT-BGTVT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 9"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 9 Thông tư số 75/2014/TT-BGTVT đã được sửa đổi, bổ sung tại khoản 1 Điều 1 Thông tư số 60/2024/TT-BGTVT như sau:"
+   },
+   {
+    "source_path": "Điều 16 Khoản 3",
+    "action": "bo-sung",
+    "target_document": "75/2014/TT-BGTVT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 9"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 9 Thông tư số 75/2014/TT-BGTVT đã được sửa đổi, bổ sung tại khoản 1 Điều 1 Thông tư số 60/2024/TT-BGTVT như sau:"
+   },
+   {
+    "source_path": "Điều 16 Khoản 4",
+    "action": "sua-doi",
+    "target_document": "75/2014/TT-BGTVT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm c khoản 4 Điều 10",
+     "điểm c khoản 5 Điều 11",
+     "điểm c khoản 3 Điều 12",
+     "điểm c khoản 5 Điều 13",
+     "điểm c khoản 3 Điều 14",
+     "điểm c khoản 3 Điều 15",
+     "điểm c khoản 3 Điều 16",
+     "điểm c khoản 3 Điều 17",
+     "điểm c khoản 3 Điều 18"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm c khoản 4 Điều 10, điểm c khoản 5 Điều 11, điểm c khoản 3 Điều 12, điểm c khoản 5 Điều 13, điểm c khoản 3 Điều 14, điểm c khoản 3 Điều 15, điểm c khoản 3 Điều 16, điểm c khoản 3 Điều 17, điểm c khoản 3 Điều 18 của Thông tư số 75/2014/TT-BGTVT đã được sửa đổi, bổ sung bởi khoản 3 Điều 1 Thông tư 60/2024/TT-BGTVT như sau:"
+   },
+   {
+    "source_path": "Điều 16 Khoản 4",
+    "action": "bo-sung",
+    "target_document": "75/2014/TT-BGTVT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm c khoản 4 Điều 10",
+     "điểm c khoản 5 Điều 11",
+     "điểm c khoản 3 Điều 12",
+     "điểm c khoản 5 Điều 13",
+     "điểm c khoản 3 Điều 14",
+     "điểm c khoản 3 Điều 15",
+     "điểm c khoản 3 Điều 16",
+     "điểm c khoản 3 Điều 17",
+     "điểm c khoản 3 Điều 18"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm c khoản 4 Điều 10, điểm c khoản 5 Điều 11, điểm c khoản 3 Điều 12, điểm c khoản 5 Điều 13, điểm c khoản 3 Điều 14, điểm c khoản 3 Điều 15, điểm c khoản 3 Điều 16, điểm c khoản 3 Điều 17, điểm c khoản 3 Điều 18 của Thông tư số 75/2014/TT-BGTVT đã được sửa đổi, bổ sung bởi khoản 3 Điều 1 Thông tư 60/2024/TT-BGTVT như sau:"
+   },
+   {
+    "source_path": "Điều 16 Khoản 5",
+    "action": "sua-doi",
+    "target_document": "75/2014/TT-BGTVT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 20"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 Điều 20 Thông tư số 75/2014/TT-BGTVT đã được sửa đổi, bổ sung tại khoản 5 Điều 1 Thông tư số 60/2024/TT-BGTVT như sau:"
+   },
+   {
+    "source_path": "Điều 16 Khoản 5",
+    "action": "bo-sung",
+    "target_document": "75/2014/TT-BGTVT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 20"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 Điều 20 Thông tư số 75/2014/TT-BGTVT đã được sửa đổi, bổ sung tại khoản 5 Điều 1 Thông tư số 60/2024/TT-BGTVT như sau:"
+   },
+   {
+    "source_path": "Điều 16 Khoản 6",
+    "action": "sua-doi",
+    "target_document": "75/2014/TT-BGTVT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 4 Điều 21"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung đoạn dẫn khoản 4 Điều 21 Thông tư số 75/2014/TT- BGTVT (đã được sửa đổi, bổ sung tại Điều 3 Thông tư số 35/2020/TT-BGTVT) như sau:"
+   },
+   {
+    "source_path": "Điều 16 Khoản 6",
+    "action": "bo-sung",
+    "target_document": "75/2014/TT-BGTVT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 4 Điều 21"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung đoạn dẫn khoản 4 Điều 21 Thông tư số 75/2014/TT- BGTVT (đã được sửa đổi, bổ sung tại Điều 3 Thông tư số 35/2020/TT-BGTVT) như sau:"
+   },
+   {
+    "source_path": "Điều 16 Khoản 7",
+    "action": "sua-doi",
+    "target_document": "75/2014/TT-BGTVT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 5 Điều 21"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung đoạn dẫn khoản 5 Điều 21 Thông tư số 75/2014/TT- BGTVT (đã được sửa đổi, bổ sung tại Điều 3 Thông tư số 35/2020/TT-BGTVT) như sau:"
+   },
+   {
+    "source_path": "Điều 16 Khoản 7",
+    "action": "bo-sung",
+    "target_document": "75/2014/TT-BGTVT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 5 Điều 21"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung đoạn dẫn khoản 5 Điều 21 Thông tư số 75/2014/TT- BGTVT (đã được sửa đổi, bổ sung tại Điều 3 Thông tư số 35/2020/TT-BGTVT) như sau:"
+   },
+   {
+    "source_path": "Điều 16 Khoản 8",
+    "action": "sua-doi",
+    "target_document": "75/2014/TT-BGTVT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 6 Điều 21"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 6 Điều 21 Thông tư số 75/2014/TT-BGTVT như sau:"
+   },
+   {
+    "source_path": "Điều 16 Khoản 8",
+    "action": "bo-sung",
+    "target_document": "75/2014/TT-BGTVT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 6 Điều 21"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 6 Điều 21 Thông tư số 75/2014/TT-BGTVT như sau:"
+   },
+   {
+    "source_path": "Điều 16 Khoản 9",
+    "action": "thay-cum-tu",
+    "target_document": "75/2014/TT-BGTVT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "tên Điều 20",
+     "khoản 2 Điều 21",
+     "Phụ lục I"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Cục Đường thủy nội địa Việt Nam” thành “Cục Hàng hải và Đường thủy Việt Nam” tại tên Điều 20 Thông tư số 75/2014/TT-BGTVT; tại khoản 2 Điều 21 Thông tư số 75/2014/TT-BGTVT (đã được sửa đổi, bổ sung tại khoản 6 Điều 1 Thông tư số 60/2024/TT-BGTVT); tại phần ghi chú của Mẫu số 01 Phụ lục I, Mẫu số 12 Phụ lục I Thông tư số 75/2014/TT-BGTVT (đã được thay thế tại khoản 11 Điều 1 Thông tư số 60/2024/TT-BGTVT)."
+   },
+   {
+    "source_path": "Điều 16 Khoản 10",
+    "action": "thay-cum-tu",
+    "target_document": "75/2014/TT-BGTVT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục I"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Sở Giao thông vận tải nếu là cấp huyện, xã báo cáo” bằng cụm từ “Sở Xây dựng nếu là Ủy ban nhân dân cấp xã báo cáo” tại phần ghi chú của Mẫu số 12 Phụ lục I ban hành kèm theo Thông tư số 75/2014/TT-BGTVT (đã được thay thế tại khoản 11 Điều 1 Thông tư số 60/2024/TT-BGTVT)."
+   },
+   {
+    "source_path": "Điều 16 Khoản 11",
+    "action": "thay-the",
+    "target_document": "75/2014/TT-BGTVT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục II"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế Phụ lục II ban hành kèm theo Thông tư số 75/2014/TT-BGTVT bằng Phụ lục II ban hành kèm theo Thông tư này."
+   },
+   {
+    "source_path": "Điều 16 Khoản 11",
+    "action": "thay-cum-tu",
+    "target_document": "75/2014/TT-BGTVT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục I"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bỏ cụm từ “Chi cục Đường thủy nội địa” bằng cụm từ “Chi cục Hàng hải và Đường thủy” tại phần ghi chú của Mẫu số 12 Phụ lục I ban hành kèm theo Thông tư số 75/2014/TT-BGTVT (đã được thay thế tại khoản 11 Điều 1 Thông tư số 60/2024/TT-BGTVT)."
+   },
+   {
+    "source_path": "Điều 17 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "15/2016/TT-BGTVT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm b khoản 1 Điều 10"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm b khoản 1 Điều 10 như sau:"
+   },
+   {
+    "source_path": "Điều 17 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "15/2016/TT-BGTVT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm b khoản 1 Điều 10"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm b khoản 1 Điều 10 như sau:"
+   },
+   {
+    "source_path": "Điều 17 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "15/2016/TT-BGTVT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm b khoản 2 Điều 10"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm b khoản 2 Điều 10 như sau:"
+   },
+   {
+    "source_path": "Điều 17 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "15/2016/TT-BGTVT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm b khoản 2 Điều 10"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm b khoản 2 Điều 10 như sau:"
+   },
+   {
+    "source_path": "Điều 17 Khoản 3",
+    "action": "thay-cum-tu",
+    "target_document": "15/2016/TT-BGTVT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 10"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Cục Đường thủy nội địa Việt Nam” bằng cụm từ “Cục Hàng hải và Đường thủy Việt Nam” tại khoản 1 Điều 10."
+   },
+   {
+    "source_path": "Điều 17 Khoản 4",
+    "action": "thay-cum-tu",
+    "target_document": "15/2016/TT-BGTVT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 10"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Sở Giao thông vận tải” bằng cụm từ “Sở Xây dựng” tại khoản 3 Điều 10."
+   },
+   {
+    "source_path": "Điều 18",
+    "action": "sua-doi",
+    "target_document": "39/2019/TT-BGTVT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 20"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 3 Điều 20 Thông tư số 39/2019/TT-BGTVT (đã được sửa đổi, bổ sung tại khoản 5 Điều 1 Thông tư 33/2022/TT-BGTVT) như sau:"
+   },
+   {
+    "source_path": "Điều 18",
+    "action": "bo-sung",
+    "target_document": "39/2019/TT-BGTVT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 20"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 3 Điều 20 Thông tư số 39/2019/TT-BGTVT (đã được sửa đổi, bổ sung tại khoản 5 Điều 1 Thông tư 33/2022/TT-BGTVT) như sau:"
+   },
+   {
+    "source_path": "Điều 19 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "40/2019/TT-BGTVT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 7 Thông tư số 40/2019/TT-BGTVT (được sửa đổi, bổ sung tại khoản 2 Điều 1 Thông tư số 38/2023/TT-BGTVT) như sau:"
+   },
+   {
+    "source_path": "Điều 19 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "40/2019/TT-BGTVT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 7 Thông tư số 40/2019/TT-BGTVT (được sửa đổi, bổ sung tại khoản 2 Điều 1 Thông tư số 38/2023/TT-BGTVT) như sau:"
+   },
+   {
+    "source_path": "Điều 19 Khoản 2 điểm a",
+    "action": "sua-doi",
+    "target_document": "40/2019/TT-BGTVT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 8"
+    ],
+    "doi_tuong": null,
+    "evidence": "a) Sửa đổi, bổ sung đoạn dẫn khoản 3 như sau:"
+   },
+   {
+    "source_path": "Điều 19 Khoản 2 điểm a",
+    "action": "bo-sung",
+    "target_document": "40/2019/TT-BGTVT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 8"
+    ],
+    "doi_tuong": null,
+    "evidence": "a) Sửa đổi, bổ sung đoạn dẫn khoản 3 như sau:"
+   },
+   {
+    "source_path": "Điều 19 Khoản 2 điểm b",
+    "action": "sua-doi",
+    "target_document": "40/2019/TT-BGTVT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 4 Điều 8"
+    ],
+    "doi_tuong": null,
+    "evidence": "b) Sửa đổi, bổ sung đoạn dẫn khoản 4 như sau:"
+   },
+   {
+    "source_path": "Điều 19 Khoản 2 điểm b",
+    "action": "bo-sung",
+    "target_document": "40/2019/TT-BGTVT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 4 Điều 8"
+    ],
+    "doi_tuong": null,
+    "evidence": "b) Sửa đổi, bổ sung đoạn dẫn khoản 4 như sau:"
+   },
+   {
+    "source_path": "Điều 19 Khoản 2 điểm c",
+    "action": "sua-doi",
+    "target_document": "40/2019/TT-BGTVT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 5 Điều 8"
+    ],
+    "doi_tuong": null,
+    "evidence": "c) Sửa đổi, bổ sung khoản 5 như sau:"
+   },
+   {
+    "source_path": "Điều 19 Khoản 2 điểm c",
+    "action": "bo-sung",
+    "target_document": "40/2019/TT-BGTVT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 5 Điều 8"
+    ],
+    "doi_tuong": null,
+    "evidence": "c) Sửa đổi, bổ sung khoản 5 như sau:"
+   },
+   {
+    "source_path": "Điều 19 Khoản 3 điểm a",
+    "action": "sua-doi",
+    "target_document": "40/2019/TT-BGTVT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 11a"
+    ],
+    "doi_tuong": null,
+    "evidence": "a) Sửa đổi, bổ sung khoản 1 như sau:"
+   },
+   {
+    "source_path": "Điều 19 Khoản 3 điểm a",
+    "action": "bo-sung",
+    "target_document": "40/2019/TT-BGTVT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 11a"
+    ],
+    "doi_tuong": null,
+    "evidence": "a) Sửa đổi, bổ sung khoản 1 như sau:"
+   },
+   {
+    "source_path": "Điều 19 Khoản 3 điểm b",
+    "action": "sua-doi",
+    "target_document": "40/2019/TT-BGTVT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm b khoản 3 Điều 11a"
+    ],
+    "doi_tuong": null,
+    "evidence": "b) Sửa đổi, bổ sung điểm b khoản 3 như sau:"
+   },
+   {
+    "source_path": "Điều 19 Khoản 3 điểm b",
+    "action": "bo-sung",
+    "target_document": "40/2019/TT-BGTVT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm b khoản 3 Điều 11a"
+    ],
+    "doi_tuong": null,
+    "evidence": "b) Sửa đổi, bổ sung điểm b khoản 3 như sau:"
+   },
+   {
+    "source_path": "Điều 19 Khoản 3 điểm c",
+    "action": "sua-doi",
+    "target_document": "40/2019/TT-BGTVT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 4 Điều 11a"
+    ],
+    "doi_tuong": null,
+    "evidence": "c) Sửa đổi, bổ sung khoản 4 như sau:"
+   },
+   {
+    "source_path": "Điều 19 Khoản 3 điểm c",
+    "action": "bo-sung",
+    "target_document": "40/2019/TT-BGTVT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 4 Điều 11a"
+    ],
+    "doi_tuong": null,
+    "evidence": "c) Sửa đổi, bổ sung khoản 4 như sau:"
+   },
+   {
+    "source_path": "Điều 19 Khoản 4",
+    "action": "sua-doi",
+    "target_document": "40/2019/TT-BGTVT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 19"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 19 Thông tư số 40/2019/TT-BGTVT (được bổ sung tại khoản 7 Điều 1 Thông tư số 38/2023/TT-BGTVT) như sau:"
+   },
+   {
+    "source_path": "Điều 19 Khoản 4",
+    "action": "bo-sung",
+    "target_document": "40/2019/TT-BGTVT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 19"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 19 Thông tư số 40/2019/TT-BGTVT (được bổ sung tại khoản 7 Điều 1 Thông tư số 38/2023/TT-BGTVT) như sau:"
+   },
+   {
+    "source_path": "Điều 19 Khoản 5 điểm a",
+    "action": "sua-doi",
+    "target_document": "40/2019/TT-BGTVT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 27"
+    ],
+    "doi_tuong": null,
+    "evidence": "a) Sửa đổi, bổ sung đoạn dẫn khoản 1 như sau:"
+   },
+   {
+    "source_path": "Điều 19 Khoản 5 điểm a",
+    "action": "bo-sung",
+    "target_document": "40/2019/TT-BGTVT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 27"
+    ],
+    "doi_tuong": null,
+    "evidence": "a) Sửa đổi, bổ sung đoạn dẫn khoản 1 như sau:"
+   },
+   {
+    "source_path": "Điều 19 Khoản 5 điểm b",
+    "action": "sua-doi",
+    "target_document": "40/2019/TT-BGTVT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 27"
+    ],
+    "doi_tuong": null,
+    "evidence": "b) Sửa đổi, bổ sung đoạn dẫn khoản 2 như sau:"
+   },
+   {
+    "source_path": "Điều 19 Khoản 5 điểm b",
+    "action": "bo-sung",
+    "target_document": "40/2019/TT-BGTVT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 27"
+    ],
+    "doi_tuong": null,
+    "evidence": "b) Sửa đổi, bổ sung đoạn dẫn khoản 2 như sau:"
+   },
+   {
+    "source_path": "Điều 19 Khoản 6",
+    "action": "sua-doi",
+    "target_document": "40/2019/TT-BGTVT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm b khoản 1 Điều 29"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm b khoản 1 Điều 29 Thông tư số 40/2019/TT- BGTVT như sau:"
+   },
+   {
+    "source_path": "Điều 19 Khoản 6",
+    "action": "bo-sung",
+    "target_document": "40/2019/TT-BGTVT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm b khoản 1 Điều 29"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm b khoản 1 Điều 29 Thông tư số 40/2019/TT- BGTVT như sau:"
+   },
+   {
+    "source_path": "Điều 19 Khoản 7",
+    "action": "sua-doi",
+    "target_document": "40/2019/TT-BGTVT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 29"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 Điều 29 Thông tư số 40/2019/TT-BGTVT như sau:"
+   },
+   {
+    "source_path": "Điều 19 Khoản 7",
+    "action": "bo-sung",
+    "target_document": "40/2019/TT-BGTVT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 29"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 Điều 29 Thông tư số 40/2019/TT-BGTVT như sau:"
+   },
+   {
+    "source_path": "Điều 19 Khoản 8",
+    "action": "sua-doi",
+    "target_document": "40/2019/TT-BGTVT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm c khoản 3 Điều 29"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm c khoản 3 Điều 29 Thông tư số 40/2019/TT-BGTVT (đã được sửa đổi, bổ sung tại điểm b khoản 14 Điều 1 của Thông tư số 38/2023/TT- BGTVT) như sau:"
+   },
+   {
+    "source_path": "Điều 19 Khoản 8",
+    "action": "bo-sung",
+    "target_document": "40/2019/TT-BGTVT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm c khoản 3 Điều 29"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm c khoản 3 Điều 29 Thông tư số 40/2019/TT-BGTVT (đã được sửa đổi, bổ sung tại điểm b khoản 14 Điều 1 của Thông tư số 38/2023/TT- BGTVT) như sau:"
+   },
+   {
+    "source_path": "Điều 19 Khoản 9",
+    "action": "thay-cum-tu",
+    "target_document": "40/2019/TT-BGTVT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 8"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Bộ Giao thông vận tải” bằng cụm từ “Bộ Xây dựng” tại khoản 2 Điều 8 Thông tư số 40/2019/TT-BGTVT (được sửa đổi, bổ sung tại khoản 3 Điều 1 Thông tư 38/2023/TT-BGTVT)."
+   },
+   {
+    "source_path": "Điều 19 Khoản 10",
+    "action": "thay-cum-tu",
+    "target_document": "40/2019/TT-BGTVT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 3 Điều 9",
+     "khoản 1 Điều 12",
+     "khoản 1 Điều 13",
+     "khoản 1 Điều 24",
+     "Điều 26",
+     "khoản 1 Điều 29",
+     "điểm e khoản 1 Điều 29"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Cục Đường thủy nội địa Việt Nam” bằng cụm từ “Cục Hàng hải và Đường thủy Việt Nam” tại điểm a khoản 3 Điều 9, khoản 1 Điều 12, khoản 1 Điều 13, khoản 1 Điều 24, Điều 26; đoạn dẫn khoản 1 và điểm e khoản 1 Điều 29 Thông tư số 40/2019/TT-BGTVT (đã được sửa đổi, bổ sung tại điểm a khoản 14 Điều 1 Thông tư số 38/2023/TT-BGTVT)."
+   },
+   {
+    "source_path": "Điều 19 Khoản 11",
+    "action": "thay-the",
+    "target_document": "40/2019/TT-BGTVT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục I"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế Phụ lục I ban hành kèm theo Thông tư số 40/2019/TT-BGTVT bằng Phụ lục III ban hành kèm theo Thông tư này."
+   },
+   {
+    "source_path": "Điều 19 Khoản 12",
+    "action": "bai-bo",
+    "target_document": "40/2019/TT-BGTVT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm c khoản 1 Điều 29",
+     "Phụ lục XVII"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ điểm c khoản 1 Điều 29; Phụ lục XVII ban hành kèm theo Thông tư số 40/2019/TT-BGTVT (đã được bổ sung tại khoản 15 Điều 1 Thông tư số 38/2023/TT-BGTVT)."
+   },
+   {
+    "source_path": "Điều 20 Khoản 1 điểm a",
+    "action": "thay-cum-tu",
+    "target_document": "23/2018/TT-BGTVT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 5",
+     "khoản 4 Điều 5",
+     "khoản 5 Điều 5",
+     "điểm b khoản 1 Điều 6",
+     "điểm a khoản 3 Điều 6",
+     "khoản 5 Điều 11",
+     "khoản 2 Điều 18",
+     "khoản 3 Điều 31",
+     "điểm a khoản 4 Điều 32",
+     "điểm e khoản 4 Điều 32",
+     "điểm f khoản 4 Điều 32"
+    ],
+    "doi_tuong": null,
+    "evidence": "a) Thay thế cụm từ “Bộ Giao thông vận tải” bằng cụm từ “Bộ Xây dựng” tại khoản 1, khoản 4 và khoản 5 Điều 5, điểm b khoản 1 và điểm a khoản 3 Điều 6, khoản 5 Điều 11, khoản 2 Điều 18, khoản 3 Điều 31, điểm a, điểm e và điểm f khoản 4 Điều 32;"
+   },
+   {
+    "source_path": "Điều 20 Khoản 1 điểm b",
+    "action": "thay-cum-tu",
+    "target_document": "23/2018/TT-BGTVT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm c khoản 4 Điều 11"
+    ],
+    "doi_tuong": null,
+    "evidence": "b) Thay thế cụm từ “Vụ An toàn giao thông (Bộ Giao thông vận tải)” bằng cụm từ “Vụ Vận tải và An toàn giao thông (Bộ Xây dựng)” tại điểm c khoản 4 Điều 11;"
+   },
+   {
+    "source_path": "Điều 20 Khoản 1 điểm c",
+    "action": "thay-cum-tu",
+    "target_document": "23/2018/TT-BGTVT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 4 Điều 12",
+     "điểm a khoản 4 Điều 23"
+    ],
+    "doi_tuong": null,
+    "evidence": "c) Thay thế cụm từ “cấp huyện” bằng cụm từ “cấp xã” tại điểm a khoản 4 Điều 12; thay thế cụm từ “cấp quận, huyện” bằng cụm từ “cấp xã ” tại điểm a khoản 4 Điều 23;"
+   },
+   {
+    "source_path": "Điều 20 Khoản 1 điểm d",
+    "action": "thay-cum-tu",
+    "target_document": "23/2018/TT-BGTVT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm b khoản 8 Điều 11",
+     "điểm a khoản 7 Điều 22"
+    ],
+    "doi_tuong": null,
+    "evidence": "d) Thay thế cụm từ “xã, phường, quận, huyện, tỉnh, thành phố” bằng cụm từ “xã, phường, đặc khu, tỉnh, thành phố trực thuộc Trung ương” tại điểm b khoản 8 Điều 11, điểm a khoản 7 Điều 22."
+   },
+   {
+    "source_path": "Điều 20 Khoản 2 điểm a",
+    "action": "bai-bo",
+    "target_document": "23/2018/TT-BGTVT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục 2",
+     "Phụ lục 7"
+    ],
+    "doi_tuong": "cụm từ “huyện,”",
+    "evidence": "a) Bỏ cụm từ “huyện,” tại Phụ lục số 2, Phụ lục số 7 ban hành kèm theo Thông tư số 23/2018/TT-BGTVT;"
+   },
+   {
+    "source_path": "Điều 20 Khoản 2 điểm b",
+    "action": "bai-bo",
+    "target_document": "23/2018/TT-BGTVT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục 3",
+     "Phụ lục 4",
+     "Phụ lục 5"
+    ],
+    "doi_tuong": "cụm từ “huyện (quận)”",
+    "evidence": "b) Bỏ cụm từ “huyện (quận)” tại Phụ lục số 3, Phụ lục số 4, Phụ lục số 5 ban hành kèm theo Thông tư số 23/2018/TT-BGTVT;"
+   },
+   {
+    "source_path": "Điều 20 Khoản 2 điểm c",
+    "action": "bai-bo",
+    "target_document": "23/2018/TT-BGTVT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục 6"
+    ],
+    "doi_tuong": "cụm từ “huyện/quận,”",
+    "evidence": "c) Bỏ cụm từ “huyện/quận,” tại Phụ lục số 6 ban hành kèm theo Thông tư số 23/2018/TT-BGTVT;"
+   },
+   {
+    "source_path": "Điều 20 Khoản 2 điểm d",
+    "action": "bai-bo",
+    "target_document": "23/2018/TT-BGTVT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục 8"
+    ],
+    "doi_tuong": "dòng thứ tự I, II",
+    "evidence": "d) Bỏ dòng thứ tự I, II tại Phụ lục số 8 ban hành kèm theo Thông tư số 23/2018/TT-BGTVT."
+   },
+   {
+    "source_path": "Điều 21 Khoản 1",
+    "action": "thay-cum-tu",
+    "target_document": "26/2018/TT-BGTVT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 5 Điều 4",
+     "khoản 1 Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Bộ Giao thông vận tải” bằng cụm từ “Bộ Xây dựng” tại khoản 5 Điều 4 Thông tư số 26/2018/TT-BGTVT; khoản 1 Điều 7 Thông tư số 26/2018/TT-BGTVT (đã được sửa đổi, bổ sung tại khoản 1 Điều 1 Thông tư số 11/2023/TT-BGTVT."
+   },
+   {
+    "source_path": "Điều 21 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "26/2018/TT-BGTVT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục 1",
+     "Phụ lục 2",
+     "Phụ lục 3",
+     "Phụ lục 4",
+     "Phụ lục 6",
+     "Phụ lục 5"
+    ],
+    "doi_tuong": "các cụm từ “quận (huyện)”, “huyện (quận),”",
+    "evidence": "Bỏ cụm từ “quận (huyện)” và “huyện (quận),” tại Phụ lục 1, Phụ lục 2, Phụ lục 3, Phụ lục 4, Phụ lục 6; bỏ cụm từ “huyện (quận),” tại Phụ lục 5 ban hành kèm theo Thông tư số 26/2018/TT-BGTVT."
+   },
+   {
+    "source_path": "Điều 22 Khoản 1",
+    "action": "thay-cum-tu",
+    "target_document": "28/2018/TT-BGTVT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 10"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Tổng cục Đường bộ Việt Nam” bằng cụm từ “Cục Đường bộ Việt Nam” tại khoản 1 Điều 10."
+   },
+   {
+    "source_path": "Điều 22 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "28/2018/TT-BGTVT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục II"
+    ],
+    "doi_tuong": "cụm từ “huyện (thị xã)”",
+    "evidence": "Bỏ cụm từ “huyện (thị xã)” tại Phụ lục II ban hành kèm theo Thông tư số 28/2018/TT-BGTVT."
+   },
+   {
+    "source_path": "Điều 23 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "14/2023/TT-BGTVT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 5 như sau:"
+   },
+   {
+    "source_path": "Điều 23 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "14/2023/TT-BGTVT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 5 như sau:"
+   },
+   {
+    "source_path": "Điều 23 Khoản 2",
+    "action": "thay-cum-tu",
+    "target_document": "14/2023/TT-BGTVT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 6",
+     "điểm b khoản 4 Điều 13",
+     "điểm c khoản 6 Điều 13",
+     "khoản 7 Điều 16"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Bộ Giao thông vận tải” bằng cụm từ “Bộ Xây dựng” tại khoản 2 Điều 6, điểm b khoản 4 và điểm c khoản 6 Điều 13, khoản 7 Điều 16."
+   },
+   {
+    "source_path": "Điều 23 Khoản 3",
+    "action": "bai-bo",
+    "target_document": "14/2023/TT-BGTVT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục II"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ Phụ lục II ban hành kèm theo Thông tư số 14/2023/TT-BGTVT."
+   },
+   {
+    "source_path": "Điều 24 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "29/2023/TT-BGTVT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 10 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 10 Điều 3 như sau:"
+   },
+   {
+    "source_path": "Điều 24 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "29/2023/TT-BGTVT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 10 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 10 Điều 3 như sau:"
+   },
+   {
+    "source_path": "Điều 24 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "29/2023/TT-BGTVT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 4 Điều 37"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 4 Điều 37 như sau:"
+   },
+   {
+    "source_path": "Điều 24 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "29/2023/TT-BGTVT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 4 Điều 37"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 4 Điều 37 như sau:"
+   },
+   {
+    "source_path": "Điều 24 Khoản 3",
+    "action": "sua-doi",
+    "target_document": "29/2023/TT-BGTVT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 41"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 41 như sau:"
+   },
+   {
+    "source_path": "Điều 24 Khoản 3",
+    "action": "bo-sung",
+    "target_document": "29/2023/TT-BGTVT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 41"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 41 như sau:"
+   },
+   {
+    "source_path": "Điều 24 Khoản 4",
+    "action": "bo-sung",
+    "target_document": "29/2023/TT-BGTVT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 5 Điều 57"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung khoản 5 vào sau khoản 4 Điều 57 như sau:"
+   },
+   {
+    "source_path": "Điều 24 Khoản 5",
+    "action": "sua-doi",
+    "target_document": "29/2023/TT-BGTVT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 58"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 Điều 58 như sau:"
+   },
+   {
+    "source_path": "Điều 24 Khoản 5",
+    "action": "bo-sung",
+    "target_document": "29/2023/TT-BGTVT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 58"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 Điều 58 như sau:"
+   },
+   {
+    "source_path": "Điều 24 Khoản 6 điểm a",
+    "action": "thay-cum-tu",
+    "target_document": "29/2023/TT-BGTVT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm c khoản 2 Điều 11",
+     "điểm a khoản 2 Điều 40",
+     "điểm d khoản 2 Điều 49"
+    ],
+    "doi_tuong": null,
+    "evidence": "a) Thay thế cụm từ “Ủy ban nhân dân cấp huyện” bằng cụm từ “Ủy ban nhân dân cấp xã” tại điểm c khoản 2 Điều 11, điểm a khoản 2 Điều 40, điểm d khoản 2 Điều 49;"
+   },
+   {
+    "source_path": "Điều 24 Khoản 6 điểm b",
+    "action": "thay-cum-tu",
+    "target_document": "29/2023/TT-BGTVT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm c khoản 2 Điều 11",
+     "điểm a khoản 7 Điều 40"
+    ],
+    "doi_tuong": null,
+    "evidence": "b) Thay thế cụm từ “Bộ Giao thông vận tải” bằng cụm từ “Bộ Xây dựng” tại điểm c khoản 2 Điều 11, điểm a khoản 7 Điều 40;"
+   },
+   {
+    "source_path": "Điều 24 Khoản 6 điểm c",
+    "action": "thay-cum-tu",
+    "target_document": "29/2023/TT-BGTVT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục IX"
+    ],
+    "doi_tuong": null,
+    "evidence": "c) Thay thế cụm từ “liên huyện nối huyện” bằng cụm từ “liên xã nối xã” trong phần hướng dẫn ghi trong Đơn đề nghị tại Phụ lục IX ban hành kèm theo Thông tư số 29/2023/TT-BGTVT;"
+   },
+   {
+    "source_path": "Điều 24 Khoản 6 điểm d",
+    "action": "thay-cum-tu",
+    "target_document": "29/2023/TT-BGTVT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục XIII",
+     "Phụ lục XIV"
+    ],
+    "doi_tuong": null,
+    "evidence": "d) Thay thế từ cụm từ “thuộc địa phận huyện,” bằng cụm từ “thuộc địa phận xã” trong phần hướng dẫn ghi trong Đơn đề nghị cấp giấy phép tại Phụ lục XIII, hướng dẫn ghi trong giấy phép Phụ lục XIV ban hành kèm theo Thông tư số 29/2023/TT-BGTVT."
+   },
+   {
+    "source_path": "Điều 24 Khoản 7 điểm a",
+    "action": "bai-bo",
+    "target_document": "29/2023/TT-BGTVT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 3",
+     "điểm c khoản 1 Điều 6",
+     "điểm c khoản 5 Điều 30",
+     "khoản 3 Điều 41",
+     "khoản 1 Điều 56",
+     "khoản 2 Điều 56",
+     "Phụ lục I"
+    ],
+    "doi_tuong": "cụm từ “đường huyện”",
+    "evidence": "a) Bỏ cụm từ “đường huyện” tại khoản 1 Điều 3, điểm c khoản 1 Điều 6, điểm c khoản 5 Điều 30, khoản 3 Điều 41, khoản 1 và khoản 2 Điều 56, Phụ lục I ban hành kèm theo Thông tư số 29/2023/TT-BGTVT;"
+   },
+   {
+    "source_path": "Điều 24 Khoản 7 điểm b",
+    "action": "bai-bo",
+    "target_document": "29/2023/TT-BGTVT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 29"
+    ],
+    "doi_tuong": "cụm từ “cấp huyện,”",
+    "evidence": "b) Bỏ cụm từ “cấp huyện,” tại khoản 2 Điều 29;"
+   },
+   {
+    "source_path": "Điều 24 Khoản 7 điểm c",
+    "action": "bai-bo",
+    "target_document": "29/2023/TT-BGTVT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục B Phụ lục V"
+    ],
+    "doi_tuong": "cụm từ “Huyện (Quận)” và cột số (5) trong bảng",
+    "evidence": "c) Bỏ cụm từ “Huyện (Quận)” và cột số (5) trong bảng tại mục B Phụ lục V ban hành kèm theo Thông tư số 29/2023/TT-BGTVT;"
+   },
+   {
+    "source_path": "Điều 24 Khoản 7 điểm d",
+    "action": "bai-bo",
+    "target_document": "29/2023/TT-BGTVT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục VII"
+    ],
+    "doi_tuong": "cụm từ “huyện,”",
+    "evidence": "d) Bỏ cụm từ “huyện,” trong phần hướng dẫn ghi trong Đơn đề nghị tại Phụ lục VII ban hành kèm theo Thông tư số 29/2023/TT-BGTVT."
+   },
+   {
+    "source_path": "Điều 25 Khoản 1",
+    "action": "thay-cum-tu",
+    "target_document": "16/2024/TT-BGTVT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 1",
+     "Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Bộ Giao thông vận tải” bằng cụm từ “Bộ Xây dựng” tại Điều 1 và Điều 2."
+   },
+   {
+    "source_path": "Điều 25 Khoản 2",
+    "action": "thay-cum-tu",
+    "target_document": "16/2024/TT-BGTVT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục 1 Phụ lục II"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Ủy ban nhân dân cấp huyện, cấp xã” bằng cụm từ “Ủy ban nhân cấp xã” tại điểm 3 Mục 1 Phụ lục II ban hành kèm theo Thông tư số 16/2024/TT-BGTVT."
+   },
+   {
+    "source_path": "Điều 25 Khoản 3",
+    "action": "thay-cum-tu",
+    "target_document": "16/2024/TT-BGTVT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục 3 Phụ lục II",
+     "Mục 4 Phụ lục II"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “đơn vị hành chính cấp huyện” bằng cụm từ “đơn vị hành chính cấp xã” tại điểm 2 Mục 3, điểm 6 Mục 4 Phụ lục II ban hành kèm theo Thông tư số 16/2024/TT-BGTVT."
+   },
+   {
+    "source_path": "Điều 26 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "38/2024/TT-BGTVT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 10"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 3 Điều 10 như sau:"
+   },
+   {
+    "source_path": "Điều 26 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "38/2024/TT-BGTVT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 10"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 3 Điều 10 như sau:"
+   },
+   {
+    "source_path": "Điều 26 Khoản 2",
+    "action": "thay-cum-tu",
+    "target_document": "38/2024/TT-BGTVT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 4 Điều 10"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Ủy ban nhân dân cấp huyện” bằng cụm từ “Ủy ban nhân cấp xã” tại khoản 4 Điều 10."
+   },
+   {
+    "source_path": "Điều 27 Khoản 1",
+    "action": "thay-cum-tu",
+    "target_document": "40/2024/TT-BGTVT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm đ khoản 2 Điều 7",
+     "khoản 6 Điều 9",
+     "khoản 3 Điều 11",
+     "điểm b khoản 2 Điều 14",
+     "điểm a khoản 3 Điều 14",
+     "điểm h khoản 3 Điều 16"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Ban chỉ huy phòng thủ dân sự cấp huyện” bằng cụm từ “Ban chỉ huy phòng thủ dân sự cấp xã” tại điểm đ khoản 2 Điều 7, khoản 6 Điều 9, khoản 3 Điều 11, điểm b khoản 2 và điểm a khoản 3 Điều 14, điểm h khoản 3 Điều 16."
+   },
+   {
+    "source_path": "Điều 27 Khoản 2",
+    "action": "thay-cum-tu",
+    "target_document": "40/2024/TT-BGTVT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 6 Điều 9",
+     "điểm h khoản 3 Điều 16",
+     "điểm c khoản 3 Điều 17"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Ủy ban nhân dân cấp huyện” bằng cụm từ “Ủy ban nhân dân cấp xã” tại khoản 6 Điều 9, điểm h khoản 3 Điều 16, điểm c khoản 3 Điều 17."
+   },
+   {
+    "source_path": "Điều 27 Khoản 3",
+    "action": "thay-cum-tu",
+    "target_document": "40/2024/TT-BGTVT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 4 Điều 9",
+     "điểm a khoản 1 Điều 10",
+     "điểm c khoản 2 Điều 11",
+     "điểm a khoản 2 Điều 13",
+     "điểm c khoản 2 Điều 13",
+     "khoản 3 Điều 15",
+     "điểm b khoản 1 Điều 17",
+     "điểm a khoản 3 Điều 17",
+     "điểm a khoản 4 Điều 17",
+     "khoản 1 Điều 22",
+     "điểm d khoản 4 Điều 22",
+     "khoản 1 Điều 23"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Bộ Giao thông vận tải” bằng cụm từ “Bộ Xây dựng” tại khoản 4 Điều 9, điểm a khoản 1 Điều 10, điểm c khoản 2 Điều 11, điểm a và điểm c khoản 2 Điều 13, khoản 3 Điều 15, điểm b khoản 1, điểm a khoản 3 và điểm a khoản 4 Điều 17, khoản 1 và điểm d khoản 4 Điều 22, khoản 1 Điều 23."
+   },
+   {
+    "source_path": "Điều 27 Khoản 4",
+    "action": "thay-cum-tu",
+    "target_document": "40/2024/TT-BGTVT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 4 Điều 9",
+     "điểm a khoản 2 Điều 11",
+     "điểm c khoản 2 Điều 11",
+     "khoản 3 Điều 11",
+     "điểm b khoản 2 Điều 17",
+     "điểm c khoản 3 Điều 17",
+     "khoản 1 Điều 22",
+     "khoản 2 Điều 23"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Sở Giao thông vận tải” bằng cụm từ “Sở Xây dựng” tại khoản 4 Điều 9, điểm a, điểm c khoản 2 và khoản 3 Điều 11, điểm b khoản 2 và điểm c khoản 3 Điều 17, khoản 1 Điều 22, khoản 2 Điều 23."
+   },
+   {
+    "source_path": "Điều 28 Khoản 1",
+    "action": "thay-cum-tu",
+    "target_document": "41/2024/TT-BGTVT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 2 Điều 3",
+     "khoản 5 Điều 3",
+     "điểm a khoản 2 Điều 4",
+     "khoản 4 Điều 7",
+     "điểm a khoản 2 Điều 9",
+     "khoản 3 Điều 9",
+     "khoản 4 Điều 9",
+     "điểm a khoản 2 Điều 10",
+     "điểm a khoản 3 Điều 15",
+     "khoản 4 Điều 15",
+     "Phụ lục IV"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Bộ Giao thông vận tải” bằng cụm từ “Bộ Xây dựng” tại điểm a khoản 2 và khoản 5 Điều 3, điểm a khoản 2 Điều 4, khoản 4 Điều 7, điểm a khoản 2, khoản 3 và khoản 4 Điều 9, điểm a khoản 2 Điều 10, điểm a khoản 3 và khoản 4 Điều 15, số thứ tự 1.6 Phần I Phụ lục IV ban hành kèm theo Thông tư số 41/2024/TT-BGTVT."
+   },
+   {
+    "source_path": "Điều 28 Khoản 2",
+    "action": "thay-cum-tu",
+    "target_document": "41/2024/TT-BGTVT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Sở Giao thông vận tải” bằng cụm từ “Sở Xây dựng” tại khoản 3 Điều 5."
+   },
+   {
+    "source_path": "Điều 28 Khoản 3",
+    "action": "bai-bo",
+    "target_document": "41/2024/TT-BGTVT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 5"
+    ],
+    "doi_tuong": "cụm từ “Ủy ban nhân dân cấp huyện,”",
+    "evidence": "Bỏ cụm từ “Ủy ban nhân dân cấp huyện,” tại khoản 3 Điều 5."
+   },
+   {
+    "source_path": "Điều 29 Khoản 1",
+    "action": "thay-cum-tu",
+    "target_document": "52/2022/TT-BGTVT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 3",
+     "khoản 2 Điều 4",
+     "điểm h khoản 3 Điều 14",
+     "khoản 3 Điều 16"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Bộ Giao thông vận tải” bằng cụm từ “Bộ Xây dựng” tại khoản 2 Điều 3, khoản 2 Điều 4, điểm h khoản 3 Điều 14, khoản 3 Điều 16."
+   },
+   {
+    "source_path": "Điều 29 Khoản 2",
+    "action": "thay-cum-tu",
+    "target_document": "52/2022/TT-BGTVT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 15"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Bộ Nông nghiệp và Phát triển nông thôn” bằng cụm từ “Bộ Nông nghiệp và Môi trường” tại khoản 1 Điều 15."
+   },
+   {
+    "source_path": "Điều 29 Khoản 3",
+    "action": "bai-bo",
+    "target_document": "52/2022/TT-BGTVT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm b khoản 3 Điều 14"
+    ],
+    "doi_tuong": "cụm từ “Ban chỉ huy phòng, chống thiên tai và tìm kiếm cứu nạn cấp huyện và”",
+    "evidence": "Bỏ cụm từ “Ban chỉ huy phòng, chống thiên tai và tìm kiếm cứu nạn cấp huyện và” tại điểm b khoản 3 Điều 14."
+   },
+   {
+    "source_path": "Điều 30 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "64/2011/TT-BGTVT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 7 như sau:"
+   },
+   {
+    "source_path": "Điều 30 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "64/2011/TT-BGTVT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 7 như sau:"
+   },
+   {
+    "source_path": "Điều 30 Khoản 2",
+    "action": "thay-cum-tu",
+    "target_document": "64/2011/TT-BGTVT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 6",
+     "khoản 3 Điều 6"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Bộ Giao thông vận tải” bằng cụm từ “Bộ Xây dựng” tại khoản 2 và khoản 3 Điều 6; thay thế cụm từ “Sở Giao thông vận tải” bằng cụm từ “Sở Xây dựng” tại khoản 2 Điều 6."
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 1 Khoản 5",
+    "loai": "gop_sai",
+    "ghi_chu": "Đơn vị gộp cả Điều 2 (Thông tư 05/2024/TT-BXD) và Điều 3 khoản 1-2 (Thông tư 08/2024/TT-BXD); noi_dung bị cắt 6.000 ký tự. Quan hệ ghi theo đường dẫn toàn văn Điều 2, Điều 3."
+   },
+   {
+    "source_path": "Điều 3",
+    "loai": "thieu_noi_dung",
+    "ghi_chu": "Điều 3 khoản 3, 4, 5 không có trong don_vi; chỉ thấy ở toan_van."
+   },
+   {
+    "source_path": "Điều 1 Khoản 6",
+    "loai": "nhan_sai_dieu",
+    "ghi_chu": "Thực chất là Điều 3 khoản 6 (Thông tư 08/2024/TT-BXD), bị gán vào Điều 1."
+   },
+   {
+    "source_path": "Điều 7 Khoản 2",
+    "loai": "gop_sai",
+    "ghi_chu": "Gộp khoản 3, 4, 5 của Điều 7 vào khoản 2."
+   },
+   {
+    "source_path": "Điều 7 Khoản 2 điểm a",
+    "loai": "nhan_sai_dieu",
+    "ghi_chu": "Điểm a, b, c thực chất thuộc Điều 7 khoản 5 (Bãi bỏ một số nội dung tại Thông tư 01/2018/TT-BXD); điểm a, b, c của khoản 4 bị mất."
+   },
+   {
+    "source_path": "Điều 16 Khoản 11",
+    "loai": "gop_sai",
+    "ghi_chu": "Văn bản có 2 khoản cùng số 11; khoản 11 thứ hai (bỏ cụm từ “Chi cục Đường thủy nội địa”) bị gộp vào khoản 11 thứ nhất."
+   }
+  ],
+  "ghi_chu": "Tên và lời dẫn không nêu số hiệu văn bản đích nên không ghi Phần đầu. Điều 2 có 2 khoản cùng số 5 (Quy chế nhà chung cư và Phụ lục I); cả hai giữ đường dẫn 'Điều 2 Khoản 5 điểm …'. Quan hệ Điều 2, Điều 3, Điều 7 khoản 3-5 ghi theo toàn văn. Điều 16 khoản 11 thứ hai viết 'Bỏ cụm từ … bằng cụm từ …' nên ghi thay-cum-tu. Điều 33 (chuyển tiếp) không phải quan hệ."
+ },
+ {
+  "doc_id": "661948",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Đề án sắp xếp bộ máy; chỉ có căn cứ, ghi chú lịch sử (được sửa đổi, bổ sung tại …) và giao nhiệm vụ. Không có tác động trực tiếp."
+ }
+]

@@ -1,0 +1,263 @@
+[
+ {
+  "doc_id": "664185",
+  "relations": [
+   {
+    "source_path": "Điều 3",
+    "action": "thay-the",
+    "target_document": "13/2021/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị quyết này thay thế Nghị quyết số 13/2021/NQ-HĐND ngày 10/12/2021 của HĐND tỉnh quy định về phân cấp nguồn thu, nhiệm vụ chi và tỷ lệ phân chia các khoản thu giữa các cấp ngân sách địa phương năm 2022 và thời kỳ ổn định ngân sách 2022-2025 theo quy định của Luật NSNN./."
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Phụ lục 1 Điều 5 Khoản 1 điểm e",
+    "loai": "gop_sai",
+    "ghi_chu": "Văn bản gốc xếp điểm h), i) trước g); parser gộp h), i) vào điểm e."
+   }
+  ],
+  "ghi_chu": "Chỉ Điều 3 thay thế Nghị quyết 13/2021/NQ-HĐND."
+ },
+ {
+  "doc_id": "664267",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "bai-bo",
+    "target_document": "199/2003/QĐ-UB",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [
+     "toàn bộ"
+    ],
+    "doi_tuong": null,
+    "evidence": "Ủy ban nhân dân Thành phố Hồ Chí Minh ban hành Quyết định bãi bỏ Quyết định số 199/2003/QĐ-UB ngày 22 tháng 9 năm 2003 của Ủy ban nhân dân Thành phố Hồ Chí Minh."
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bai-bo",
+    "target_document": "199/2003/QĐ-UB",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [
+     "toàn bộ"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ Quyết định số 199/2003/QĐ-UB ngày 22 tháng 9 năm 2003 của Ủy ban nhân dân Thành phố Hồ Chí Minh về việc ủy quyền cho Giám đốc Sở Lao động - Thương binh và Xã hội phê duyệt phương án sắp xếp lao động dôi dư do sắp xếp lại doanh nghiệp Nhà nước và báo cáo quyết toán, danh sách chi trả trợ cấp cho người lao động dôi dư."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên văn bản và lời dẫn cùng nêu bãi bỏ Quyết định 199/2003/QĐ-UB: ghi một quan hệ Phần đầu."
+ },
+ {
+  "doc_id": "664329",
+  "relations": [
+   {
+    "source_path": "Điều 3 Khoản 2 điểm a",
+    "action": "bai-bo",
+    "target_document": "17/2025/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 17/2025/QĐ-UBND ngày 28 tháng 02 năm 2025 của Ủy ban nhân dân tỉnh Tiền Giang quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Chi cục Trồng trọt và Bảo vệ thực vật thuộc Sở Nông nghiệp và Môi trường tỉnh Tiền Giang;"
+   },
+   {
+    "source_path": "Điều 3 Khoản 2 điểm b",
+    "action": "bai-bo",
+    "target_document": "22/2025/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 22/2025/QĐ-UBND ngày 11 tháng 04 năm 2025 của Ủy ban nhân dân tỉnh Đồng Tháp quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Chi cục Trồng trọt và Bảo vệ thực vật thuộc Sở Nông nghiệp và Môi trường tỉnh Đồng Tháp."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Khoản 2 Điều 3 tự tuyên bố 2 quyết định hết hiệu lực (bai-bo)."
+ },
+ {
+  "doc_id": "664365",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "852/QĐ-BNV",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này thay thế cho Quyết định số 852/QĐ-BNV ngày 22 tháng 5 năm 2018 của Bộ trưởng Bộ Nội vụ ban hành Quy chế tiếp nhận, xử lý và trả lời phản ánh, kiến nghị của người dân, doanh nghiệp trên Cổng thông tin điện tử Bộ Nội vụ"
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "267/QĐ-LĐTBXH",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 267/QĐ-LĐTBXH ngày 12 tháng 3 năm 2018 của Bộ trưởng Bộ Lao động - Thương binh và Xã hội ban hành Quy chế tiếp nhận, xử lý và trả lời phản ánh, kiến nghị của người dân, doanh nghiệp trên Cổng thông tin điện tử Chính phủ"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 2 thay thế 2 quyết định."
+ },
+ {
+  "doc_id": "664368",
+  "relations": [
+   {
+    "source_path": "Điều 4 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "10/2015/TTLT-BNNPTNT-BTC",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thông tư liên tịch số 10/2015/TTLT-BNNPTNT-BTC ngày 03 tháng 3 năm 2015 của Bộ Nông nghiệp và Phát triển nông thôn và Bộ Tài chính hướng dẫn chi tiết các mặt hàng thuộc lĩnh vực nông nghiệp và phát triển nông thôn thực hiện bình ổn giá và kê khai giá hết hiệu lực thi hành kể từ ngày Thông tư này có hiệu lực thi hành."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Thông tư tự tuyên bố Thông tư liên tịch 10/2015 hết hiệu lực. Điều 5 khoản 4 (trình ban hành Thông tư sửa đổi) là nhiệm vụ."
+ },
+ {
+  "doc_id": "664370",
+  "relations": [
+   {
+    "source_path": "Điều 11 Khoản 1",
+    "action": "thay-the",
+    "target_document": "254/QĐ-KBNN",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực thi hành kể từ ngày 01 tháng 7 năm 2025 và thay thế Quyết định số 254/QĐ-KBNN ngày 06 tháng 3 năm 2025 của Kho bạc Nhà nước quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của các phòng (trừ Phòng Giao dịch) thuộc Kho bạc Nhà nước khu vực."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": ""
+ },
+ {
+  "doc_id": "664402",
+  "relations": [
+   {
+    "source_path": "Điều 5",
+    "action": "thay-the",
+    "target_document": "01/2023/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "thay thế Quyết định số 01/2023/QĐ-UBND ngày 09 tháng 01 năm 2023 của Ủy ban nhân dân thành phố Hải Phòng quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Ban Thi đua - Khen thưởng thuộc Sở Nội vụ thành phố Hải Phòng"
+   },
+   {
+    "source_path": "Điều 5",
+    "action": "thay-the",
+    "target_document": "1967/QĐ-UB",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 1967/QĐ-UB ngày 18/7/2016 của Ủy ban nhân dân tỉnh Hải Dương về chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Ban Thi đua - Khen thưởng trực thuộc Sở Nội vụ;"
+   },
+   {
+    "source_path": "Điều 5",
+    "action": "thay-the",
+    "target_document": "1030/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 1030/QĐ-UBND ngày 02/4/2021 về sửa đổi, bổ sung mục III Điều 1, Quyết định số 1967/QĐ-UB ngày 18/7/2016 của Ủy ban nhân dân tỉnh Hải Dương"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 5 thay thế 3 quyết định (1030/QĐ-UBND là quyết định sửa đổi 1967/QĐ-UB)."
+ },
+ {
+  "doc_id": "664411",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "bai-bo",
+    "target_document": "16/2015/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [
+     "toàn bộ"
+    ],
+    "doi_tuong": null,
+    "evidence": "Ủy ban nhân dân tỉnh ban hành Quyết định bãi bỏ toàn bộ Quyết định số 16/2015/QĐ-UBND ngày 15/4/2015 của Ủy ban nhân dân tỉnh"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bai-bo",
+    "target_document": "16/2015/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [
+     "toàn bộ"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ Quyết định số 16/2015/QĐ-UBND ngày 15/4/2015 của Ủy ban nhân dân tỉnh về việc ban hành Quy chế xét tôn vinh “Doanh nghiệp Hà Tĩnh tiêu biểu” và “Doanh nhân Hà Tĩnh tiêu biểu”."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên văn bản và lời dẫn cùng nêu bãi bỏ toàn bộ: ghi một quan hệ Phần đầu."
+ },
+ {
+  "doc_id": "664413",
+  "relations": [
+   {
+    "source_path": "Điều 5",
+    "action": "thay-the",
+    "target_document": "29/2024/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "thay thế các Quyết định số 29/2024/QĐ-UBND ngày 23/10/2024 của Ủy ban nhân dân thành phố về việc ban hành Quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Thanh tra thành phố Hải Phòng"
+   },
+   {
+    "source_path": "Điều 5",
+    "action": "thay-the",
+    "target_document": "35/2024/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 35/2024/QĐ-UBND ngày 30/8/2024 của Ủy ban nhân dân tỉnh Hải Dương về ban hành Quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Thanh tra tỉnh Hải Dương;"
+   },
+   {
+    "source_path": "Điều 5",
+    "action": "thay-the",
+    "target_document": "26/2025/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 26/2025/QĐ-UBND ngày 05/3/2025 của Ủy ban nhân dân tỉnh Hải Dương về sửa đổi, bổ sung khoản 1 Điều 4 Quy định ban hành kèm theo Quyết định số 35/2024/QĐ-UBND"
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 3 Khoản 2 điểm h",
+    "loai": "gop_sai",
+    "ghi_chu": "Văn bản gốc lặp ký hiệu điểm e)-h); parser gộp 4 điểm lặp và các đoạn sau của khoản 2 vào điểm h."
+   }
+  ],
+  "ghi_chu": "Điều 5 thay thế 3 quyết định."
+ },
+ {
+  "doc_id": "664493",
+  "relations": [
+   {
+    "source_path": "Điều 3 Khoản 1",
+    "action": "bai-bo",
+    "target_document": "749/TTg",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "bãi bỏ Quyết định số 749/TTg ngày 15 tháng 11 năm 1995 của Thủ tướng Chính phủ về việc thành lập Ban Quản lý các khu chế xuất và công nghiệp Cần Thơ"
+   },
+   {
+    "source_path": "Điều 3 Khoản 1",
+    "action": "bai-bo",
+    "target_document": "366/QĐ-TTg",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 366/QĐ-TTg ngày 29 tháng 3 năm 2007 của Thủ tướng Chính phủ về việc thành lập Ban Quản lý các khu công nghiệp tỉnh Hậu Giang."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Khoản 2 Điều 3 \"rà soát, đề xuất bãi bỏ Quyết định số 179/2005/QĐ-TTg\" là giao nhiệm vụ, không phải quan hệ."
+ }
+]

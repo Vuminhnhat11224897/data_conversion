@@ -1,0 +1,51 @@
+[
+ {
+  "doc_id": "670273",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "68/2024/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Bộ đơn giá bồi thường tài sản gắn liền với đất (Phần đơn giá bồi thường công trình nông nghiệp)",
+    "evidence": "BỔ SUNG ĐƠN GIÁ BỒI THƯỜNG TÀI SẢN GẮN LIỀN VỚI ĐẤT KHI NHÀ NƯỚC THU HỒI ĐẤT TRÊN ĐỊA BÀN TỈNH QUẢNG NINH BAN HÀNH KÈM THEO CÁC QUYẾT ĐỊNH CỦA ỦY BAN NHÂN DÂN TỈNH: SỐ 68/2024/QĐ-UBND NGÀY 31/12/2024 VÀ SỐ 06/2025/QĐ-UBND NGÀY 22/01/2025"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "06/2025/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Bộ đơn giá bồi thường tài sản gắn liền với đất (Phần đơn giá bồi thường thiệt hại về cây trồng, vật nuôi)",
+    "evidence": "BỔ SUNG ĐƠN GIÁ BỒI THƯỜNG TÀI SẢN GẮN LIỀN VỚI ĐẤT KHI NHÀ NƯỚC THU HỒI ĐẤT TRÊN ĐỊA BÀN TỈNH QUẢNG NINH BAN HÀNH KÈM THEO CÁC QUYẾT ĐỊNH CỦA ỦY BAN NHÂN DÂN TỈNH: SỐ 68/2024/QĐ-UBND NGÀY 31/12/2024 VÀ SỐ 06/2025/QĐ-UBND NGÀY 22/01/2025"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "68/2024/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Bộ đơn giá bồi thường tài sản gắn liền với đất - Phần đơn giá bồi thường công trình Nông nghiệp",
+    "evidence": "Bổ sung Bộ đơn giá bồi thường tài sản gắn liền với đất khi Nhà nước thu hồi đất trên địa bàn tỉnh Quảng Ninh - Phần đơn giá bồi thường công trình Nông nghiệp (Chi tiết tại Phụ lục 01 kèm theo)."
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "06/2025/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Bộ đơn giá bồi thường tài sản gắn liền với đất - Phần đơn giá bồi thường thiệt hại về cây trồng, vật nuôi",
+    "evidence": "Bổ sung Bộ đơn giá bồi thường tài sản gắn liền với đất khi Nhà nước thu hồi đất trên địa bàn tỉnh Quảng Ninh - Phần đơn giá bồi thường thiệt hại về cây trồng, vật nuôi (Chi tiết tại Phụ lục 02 kèm theo)."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên Điều 1 nêu cả 2 QĐ; khoản 1 (công trình nông nghiệp) ứng với QĐ 68/2024, khoản 2 (cây trồng, vật nuôi) ứng với QĐ 06/2025 theo lời dẫn. Lời dẫn lặp lại hành động của tên văn bản."
+ },
+ {
+  "doc_id": "675132",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Phê duyệt đề cương đề án; không có tác động lên văn bản khác."
+ }
+]

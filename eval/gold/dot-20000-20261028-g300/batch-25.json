@@ -1,0 +1,62 @@
+[
+ {
+  "doc_id": "670431",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quyết định phê duyệt Phương án cắt giảm, đơn giản hóa TTHC. Các mục 'Kiến nghị thực thi' trong Phương án (bãi bỏ, sửa đổi Thông tư 31/2018/TT-BGTVT, 29/2023/TT-BGTVT, 62/2024/TT-BGTVT …) là đề xuất sẽ thực hiện bằng văn bản khác, không phải tác động trực tiếp."
+ },
+ {
+  "doc_id": "670685",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "hop-nhat",
+    "target_document": "21/2023/TT-BTTTT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thông tư số 21/2023/TT-BTTTT ngày 31 tháng 12 năm 2023 của Bộ trưởng Bộ Thông tin và Truyền thông quy định về chức năng, tính năng kỹ thuật của Hệ thống thông tin giải quyết thủ tục hành chính cấp bộ, cấp tỉnh, có hiệu lực kể từ ngày 05 tháng 4 năm 2024, được sửa đổi, bổ sung bởi:"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "hop-nhat",
+    "target_document": "11/2025/TT-BKHCN",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thông tư số 11/2025/TT-BKHCN ngày 30 tháng 6 năm 2025 của Bộ trưởng Bộ Khoa học và Công nghệ sửa đổi, bổ sung một số điều của Thông tư số 21/2023/TT-BTTTT"
+   },
+   {
+    "source_path": "Điều 14 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "22/2019/TT-BTTTT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ Thông tư số 22/2019/TT-BTTTT ngày 31 tháng 12 năm 2019 của Bộ trưởng Bộ Thông tin và Truyền thông quy định về tiêu chí chức năng, tính năng kỹ thuật của Cổng Dịch vụ công và Hệ thống thông tin một của điện tử cấp bộ, cấp tỉnh"
+   },
+   {
+    "source_path": "Điều 14 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "32/2017/TT-BTTTT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 5",
+     "Điều 6",
+     "Điều 7",
+     "Điều 8",
+     "Điều 9",
+     "Điều 10",
+     "Điều 11",
+     "Điều 12",
+     "Điều 13",
+     "Điều 14"
+    ],
+    "doi_tuong": null,
+    "evidence": "bãi bỏ các Điều 5, 6, 7, 8, 9, 10, 11, 12, 13, 14 Thông tư số 32/2017/TT-BTTTT ngày 15 tháng 11 năm 2017"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Văn bản hợp nhất Thông tư 21/2023/TT-BTTTT với Thông tư 11/2025/TT-BKHCN: hop-nhat ghi từ phần đầu. Điều 14 khoản 2 là nội dung bãi bỏ của Thông tư 21/2023 được tái hiện. Các ghi chú '(được bãi bỏ)' và chú thích [1]-[19] là lịch sử, không ghi."
+ }
+]

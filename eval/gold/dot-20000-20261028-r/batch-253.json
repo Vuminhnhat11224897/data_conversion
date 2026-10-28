@@ -1,0 +1,1835 @@
+[
+ {
+  "doc_id": "658885",
+  "relations": [
+   {
+    "source_path": "Điều 3",
+    "action": "bai-bo",
+    "target_document": "1518/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục I"
+    ],
+    "doi_tuong": "các thủ tục hành chính có số thứ tự từ 1 đến 8 lĩnh vực Đấu giá tài sản",
+    "evidence": "Nội dung công bố các thủ tục hành chính có số thứ tự từ 1 đến 8 đối với lĩnh vực Đấu giá tài sản tại mục I của Danh mục kèm theo Quyết định số 1518/QĐ-UBND ngày 03/9/2020"
+   },
+   {
+    "source_path": "Điều 3",
+    "action": "bai-bo",
+    "target_document": "765/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục IV"
+    ],
+    "doi_tuong": "các thủ tục hành chính có số thứ tự từ 1 đến 7 lĩnh vực Đấu giá tài sản",
+    "evidence": "các thủ tục hành chính có số thứ tự từ 1 đến 7 đối với lĩnh vực Đấu giá tài sản tại mục IV của Danh mục kèm theo Quyết định số 765/QĐ-UBND ngày 31/5/2024 của Chủ tịch UBND tỉnh Phú Yên hết hiệu lực kể từ ngày Quyết định này có hiệu lực thi hành."
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 3",
+    "loai": "tach_sai",
+    "ghi_chu": "Câu 'Quyết định này có hiệu lực thi hành kể từ ngày ký.' bị nhận thành tên Điều 3."
+   }
+  ],
+  "ghi_chu": "Điều 3 tự tuyên bố nội dung công bố TTHC tại QĐ 1518 và QĐ 765 hết hiệu lực: ghi bai-bo. Dòng phụ lục không nêu Quyết định công bố cũ."
+ },
+ {
+  "doc_id": "659050",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "33/2022/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA QUYẾT ĐỊNH 33/2022/QĐ-UBND NGÀY 20 THÁNG 9 NĂM 2022"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "33/2022/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA QUYẾT ĐỊNH 33/2022/QĐ-UBND NGÀY 20 THÁNG 9 NĂM 2022"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "13/2025/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "QUYẾT ĐỊNH SỐ 13/2025/QĐ-UBND NGÀY 01 THÁNG 3 NĂM 2025 CỦA ỦY BAN NHÂN DÂN TỈNH SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA CÁC QUYẾT ĐỊNH"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "13/2025/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "QUYẾT ĐỊNH SỐ 13/2025/QĐ-UBND NGÀY 01 THÁNG 3 NĂM 2025 CỦA ỦY BAN NHÂN DÂN TỈNH SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA CÁC QUYẾT ĐỊNH"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "33/2022/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 2",
+     "khoản 2 Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1, khoản 2 Điều 2 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "33/2022/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 2",
+     "khoản 2 Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1, khoản 2 Điều 2 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "33/2022/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 4 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 4 Điều 3 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "33/2022/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 4 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 4 Điều 3 như sau:"
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "sua-doi",
+    "target_document": "13/2025/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 4"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 3 Điều 4 của Quyết định số 13/2025/QĐ-UBND ngày 01 tháng 3 năm 2025"
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bo-sung",
+    "target_document": "13/2025/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 4"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 3 Điều 4 của Quyết định số 13/2025/QĐ-UBND ngày 01 tháng 3 năm 2025"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Phần đầu: tên và lời dẫn cùng nêu 2 quyết định đích; ghi một lần mỗi đích."
+ },
+ {
+  "doc_id": "659106",
+  "relations": [
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bai-bo",
+    "target_document": "44/2005/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 44/2005/QĐ-UBND ngày 01 tháng 9 năm 2005"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "40/2009/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 40/2009/QĐ-UBND ngày 29 tháng 6 năm 2009"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "bai-bo",
+    "target_document": "47/2011/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 47/2011/QĐ-UBND ngày 26 tháng 12 năm 2011"
+   },
+   {
+    "source_path": "Điều 1 Khoản 4",
+    "action": "bai-bo",
+    "target_document": "07/2012/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 07/2012/QĐ-UBND ngày 01 tháng 02 năm 2012"
+   },
+   {
+    "source_path": "Điều 1 Khoản 5",
+    "action": "bai-bo",
+    "target_document": "30/2012/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 30/2012/QĐ-UBND ngày 31 tháng 7 năm 2012"
+   },
+   {
+    "source_path": "Điều 1 Khoản 6",
+    "action": "bai-bo",
+    "target_document": "32/2012/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 32/2012/QĐ-UBND ngày 15 tháng 8 năm 2012"
+   },
+   {
+    "source_path": "Điều 1 Khoản 7",
+    "action": "bai-bo",
+    "target_document": "33/2012/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 33/2012/QĐ-UBND ngày 16 tháng 8 năm 2013"
+   },
+   {
+    "source_path": "Điều 1 Khoản 8",
+    "action": "bai-bo",
+    "target_document": "01/2013/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 01/2013/QĐ-UBND ngày 04 tháng 01 năm 2013"
+   },
+   {
+    "source_path": "Điều 1 Khoản 9",
+    "action": "bai-bo",
+    "target_document": "34/2013/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 34/2013/QĐ-UBND ngày 16 tháng 8 năm 2013"
+   },
+   {
+    "source_path": "Điều 1 Khoản 10",
+    "action": "bai-bo",
+    "target_document": "16/2014/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 16/2014/QĐ-UBND ngày 25 tháng 02 năm 2014"
+   },
+   {
+    "source_path": "Điều 1 Khoản 11",
+    "action": "bai-bo",
+    "target_document": "42/2014/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 42/2014/QĐ-UBND ngày 22 tháng 7 năm 2014"
+   },
+   {
+    "source_path": "Điều 1 Khoản 12",
+    "action": "bai-bo",
+    "target_document": "71/2014/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 71/2014/QĐ-UBND ngày 22 tháng 12 năm 2014"
+   },
+   {
+    "source_path": "Điều 1 Khoản 13",
+    "action": "bai-bo",
+    "target_document": "21/2016/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 21/2016/QĐ-UBND ngày 24 tháng 5 năm 2016"
+   },
+   {
+    "source_path": "Điều 1 Khoản 14",
+    "action": "bai-bo",
+    "target_document": "09/2018/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 09/2018/QĐ-UBND ngày 13 tháng 4 năm 2018"
+   },
+   {
+    "source_path": "Điều 1 Khoản 15",
+    "action": "bai-bo",
+    "target_document": "23/2018/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 23/2018/QĐ-UBND ngày 31 tháng 7 năm 2018"
+   },
+   {
+    "source_path": "Điều 1 Khoản 16",
+    "action": "bai-bo",
+    "target_document": "07/2021/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 07/2021/QĐ-UBND ngày 15 tháng 3 năm 2021"
+   },
+   {
+    "source_path": "Điều 1 Khoản 17",
+    "action": "bai-bo",
+    "target_document": "08/2021/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 08/2021/QĐ-UBND ngày 19 tháng 3 năm 2021"
+   },
+   {
+    "source_path": "Điều 1 Khoản 18",
+    "action": "bai-bo",
+    "target_document": "16/2021/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 16/2021/QĐ-UBND ngày 25 tháng 5 năm 2021"
+   },
+   {
+    "source_path": "Điều 1 Khoản 19",
+    "action": "bai-bo",
+    "target_document": "27/2021/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 27/2021/QĐ-UBND ngày 05 tháng 8 năm 2021"
+   },
+   {
+    "source_path": "Điều 1 Khoản 20",
+    "action": "bai-bo",
+    "target_document": "06/2022/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 06/2022/QĐ-UBND ngày 14 tháng 3 năm 2022"
+   },
+   {
+    "source_path": "Điều 1 Khoản 21",
+    "action": "bai-bo",
+    "target_document": "18/2022/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 18/2022/QĐ-UBND ngày 15 tháng 6 năm 2022"
+   },
+   {
+    "source_path": "Điều 1 Khoản 22",
+    "action": "bai-bo",
+    "target_document": "32/2022/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 32/2022/QĐ-UBND ngày 10 tháng 10 năm 2022"
+   },
+   {
+    "source_path": "Điều 1 Khoản 23",
+    "action": "bai-bo",
+    "target_document": "23/2023/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 23/2023/QĐ-UBND ngày 05 tháng 5 năm 2023"
+   },
+   {
+    "source_path": "Điều 1 Khoản 24",
+    "action": "bai-bo",
+    "target_document": "33/2023/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 33/2023/QĐ-UBND ngày 16 tháng 6 năm 2023"
+   },
+   {
+    "source_path": "Điều 1 Khoản 25",
+    "action": "bai-bo",
+    "target_document": "41/2023/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 41/2023/QĐ-UBND ngày 11 tháng 8 năm 2023"
+   },
+   {
+    "source_path": "Điều 1 Khoản 26",
+    "action": "bai-bo",
+    "target_document": "22/2024/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 22/2024/QĐ-UBND ngày 03 tháng 5 năm 2024"
+   },
+   {
+    "source_path": "Điều 1 Khoản 27",
+    "action": "bai-bo",
+    "target_document": "31/2024/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 31/2024/QĐ-UBND ngày 04 tháng 6 năm 2024"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 1 'Bãi bỏ toàn bộ các Quyết định sau đây:' liệt kê 27 quyết định, mỗi khoản một quan hệ. Khoản 7 ghi 'Quyết định số 33/2012/QĐ-UBND ngày 16 tháng 8 năm 2013' (năm lệch) giữ nguyên số hiệu."
+ },
+ {
+  "doc_id": "659118",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công điện triển khai Thông tư 31/2025/TT-BTC và 32/2025/TT-BTC; chỉ kể lại các thông tư này sửa đổi, thay thế văn bản khác, không có tác động trực tiếp."
+ },
+ {
+  "doc_id": "659259",
+  "relations": [
+   {
+    "source_path": "Điều 3",
+    "action": "sua-doi",
+    "target_document": "2305/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "TTHC có mã 1.012091.000.00.00.H05 (Đề nghị việc sử dụng người chưa đủ 13 tuổi làm việc)",
+    "evidence": "Sửa đổi, bổ sung TTHC có mã 1.012091.000.00.00.H05 đã được công bố tại Quyết định số 2305/QĐ-UBND ngày 11/12/2023"
+   },
+   {
+    "source_path": "Điều 3",
+    "action": "bo-sung",
+    "target_document": "2305/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "TTHC có mã 1.012091.000.00.00.H05 (Đề nghị việc sử dụng người chưa đủ 13 tuổi làm việc)",
+    "evidence": "Sửa đổi, bổ sung TTHC có mã 1.012091.000.00.00.H05 đã được công bố tại Quyết định số 2305/QĐ-UBND ngày 11/12/2023"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": ""
+ },
+ {
+  "doc_id": "659311",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "13/2022/NQ-HĐND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA NGHỊ QUYẾT SỐ 13/2022/NQ-HĐND VÀ NGHỊ QUYẾT SỐ 14/2022/NQ-HĐND NGÀY 06 THÁNG 7 NĂM 2022 CỦA HỘI ĐỒNG NHÂN DÂN TỈNH HẬU GIANG"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "13/2022/NQ-HĐND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA NGHỊ QUYẾT SỐ 13/2022/NQ-HĐND VÀ NGHỊ QUYẾT SỐ 14/2022/NQ-HĐND NGÀY 06 THÁNG 7 NĂM 2022 CỦA HỘI ĐỒNG NHÂN DÂN TỈNH HẬU GIANG"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "14/2022/NQ-HĐND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA NGHỊ QUYẾT SỐ 13/2022/NQ-HĐND VÀ NGHỊ QUYẾT SỐ 14/2022/NQ-HĐND NGÀY 06 THÁNG 7 NĂM 2022 CỦA HỘI ĐỒNG NHÂN DÂN TỈNH HẬU GIANG"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "14/2022/NQ-HĐND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA NGHỊ QUYẾT SỐ 13/2022/NQ-HĐND VÀ NGHỊ QUYẾT SỐ 14/2022/NQ-HĐND NGÀY 06 THÁNG 7 NĂM 2022 CỦA HỘI ĐỒNG NHÂN DÂN TỈNH HẬU GIANG"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "13/2022/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "tiểu điểm 2 điểm b khoản 3 Điều 4"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung tiết (-) thứ hai điểm b khoản 3 Điều 4 Quy định nguyên tắc, tiêu chí, định mức phân bổ vốn ngân sách nhà nước thực hiện Chương trình mục tiêu quốc gia giảm nghèo bền vững giai đoạn 2021 - 2025 ban hành kèm theo Nghị quyết số 13/2022/NQ-HĐND"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "13/2022/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "tiểu điểm 2 điểm b khoản 3 Điều 4"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung tiết (-) thứ hai điểm b khoản 3 Điều 4 Quy định nguyên tắc, tiêu chí, định mức phân bổ vốn ngân sách nhà nước thực hiện Chương trình mục tiêu quốc gia giảm nghèo bền vững giai đoạn 2021 - 2025 ban hành kèm theo Nghị quyết số 13/2022/NQ-HĐND"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "13/2022/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "tiểu điểm 1 điểm a khoản 4 Điều 4"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung tiết (-) thứ nhất điểm a khoản 4 Điều 4 Quy định nguyên tắc, tiêu chí, định mức phân bổ vốn ngân sách nhà nước thực hiện Chương trình mục tiêu quốc gia giảm nghèo bền vững giai đoạn 2021 - 2025 ban hành kèm theo Nghị quyết số 13/2022/NQ-HĐND"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "13/2022/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "tiểu điểm 1 điểm a khoản 4 Điều 4"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung tiết (-) thứ nhất điểm a khoản 4 Điều 4 Quy định nguyên tắc, tiêu chí, định mức phân bổ vốn ngân sách nhà nước thực hiện Chương trình mục tiêu quốc gia giảm nghèo bền vững giai đoạn 2021 - 2025 ban hành kèm theo Nghị quyết số 13/2022/NQ-HĐND"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "sua-doi",
+    "target_document": "13/2022/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "tiểu điểm 1 điểm b khoản 4 Điều 4"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung tiết (-) thứ nhất điểm b khoản 4 Điều 4 Quy định nguyên tắc, tiêu chí, định mức phân bổ vốn ngân sách nhà nước thực hiện Chương trình mục tiêu quốc gia giảm nghèo bền vững giai đoạn 2021 - 2025 ban hành kèm theo Nghị quyết số 13/2022/NQ-HĐND"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "bo-sung",
+    "target_document": "13/2022/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "tiểu điểm 1 điểm b khoản 4 Điều 4"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung tiết (-) thứ nhất điểm b khoản 4 Điều 4 Quy định nguyên tắc, tiêu chí, định mức phân bổ vốn ngân sách nhà nước thực hiện Chương trình mục tiêu quốc gia giảm nghèo bền vững giai đoạn 2021 - 2025 ban hành kèm theo Nghị quyết số 13/2022/NQ-HĐND"
+   },
+   {
+    "source_path": "Điều 1 Khoản 4",
+    "action": "sua-doi",
+    "target_document": "13/2022/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "tiểu điểm 1 điểm a khoản 5 Điều 4"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung tiết (-) thứ nhất điểm a khoản 5 Điều 4 Quy định nguyên tắc, tiêu chí, định mức phân bổ vốn ngân sách nhà nước thực hiện Chương trình mục tiêu quốc gia giảm nghèo bền vững giai đoạn 2021 - 2025 ban hành kèm theo Nghị quyết số 13/2022/NQ-HĐND"
+   },
+   {
+    "source_path": "Điều 1 Khoản 4",
+    "action": "bo-sung",
+    "target_document": "13/2022/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "tiểu điểm 1 điểm a khoản 5 Điều 4"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung tiết (-) thứ nhất điểm a khoản 5 Điều 4 Quy định nguyên tắc, tiêu chí, định mức phân bổ vốn ngân sách nhà nước thực hiện Chương trình mục tiêu quốc gia giảm nghèo bền vững giai đoạn 2021 - 2025 ban hành kèm theo Nghị quyết số 13/2022/NQ-HĐND"
+   },
+   {
+    "source_path": "Điều 1 Khoản 5",
+    "action": "sua-doi",
+    "target_document": "13/2022/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "tiểu điểm 1 điểm b khoản 5 Điều 4"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung tiết (-) thứ nhất điểm b khoản 5 Điều 4 Quy định nguyên tắc, tiêu chí, định mức phân bổ vốn ngân sách nhà nước thực hiện Chương trình mục tiêu quốc gia giảm nghèo bền vững giai đoạn 2021 - 2025 ban hành kèm theo Nghị quyết số 13/2022/NQ-HĐND"
+   },
+   {
+    "source_path": "Điều 1 Khoản 5",
+    "action": "bo-sung",
+    "target_document": "13/2022/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "tiểu điểm 1 điểm b khoản 5 Điều 4"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung tiết (-) thứ nhất điểm b khoản 5 Điều 4 Quy định nguyên tắc, tiêu chí, định mức phân bổ vốn ngân sách nhà nước thực hiện Chương trình mục tiêu quốc gia giảm nghèo bền vững giai đoạn 2021 - 2025 ban hành kèm theo Nghị quyết số 13/2022/NQ-HĐND"
+   },
+   {
+    "source_path": "Điều 2 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "14/2022/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 2 Điều 4"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 Điều 4 Quy định nguyên tắc, tiêu chí, định mức phân bổ vốn ngân sách nhà nước thực hiện Chương trình mục tiêu quốc gia phát triển kinh tế - xã hội vùng đồng bào dân tộc thiểu số và miền núi giai đoạn 2021 - 2025 ban hành kèm theo Nghị quyết số 14/2022/NQ-HĐND"
+   },
+   {
+    "source_path": "Điều 2 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "14/2022/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 2 Điều 4"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 Điều 4 Quy định nguyên tắc, tiêu chí, định mức phân bổ vốn ngân sách nhà nước thực hiện Chương trình mục tiêu quốc gia phát triển kinh tế - xã hội vùng đồng bào dân tộc thiểu số và miền núi giai đoạn 2021 - 2025 ban hành kèm theo Nghị quyết số 14/2022/NQ-HĐND"
+   },
+   {
+    "source_path": "Điều 2 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "14/2022/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm b khoản 2 Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung tiểu tiết (+) thứ nhất tiết (-) thứ hai tiểu dự án 2 điểm b khoản 2 Điều 5 Quy định nguyên tắc, tiêu chí, định mức phân bổ vốn ngân sách nhà nước thực hiện Chương trình mục tiêu quốc gia phát triển kinh tế - xã hội vùng đồng bào dân tộc thiểu số và miền núi giai đoạn 2021 - 2025 ban hành kèm theo Nghị quyết số 14/2022/NQ-HĐND"
+   },
+   {
+    "source_path": "Điều 2 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "14/2022/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm b khoản 2 Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung tiểu tiết (+) thứ nhất tiết (-) thứ hai tiểu dự án 2 điểm b khoản 2 Điều 5 Quy định nguyên tắc, tiêu chí, định mức phân bổ vốn ngân sách nhà nước thực hiện Chương trình mục tiêu quốc gia phát triển kinh tế - xã hội vùng đồng bào dân tộc thiểu số và miền núi giai đoạn 2021 - 2025 ban hành kèm theo Nghị quyết số 14/2022/NQ-HĐND"
+   },
+   {
+    "source_path": "Điều 2 Khoản 4",
+    "action": "sua-doi",
+    "target_document": "14/2022/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm d khoản 2 Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung tiểu tiết (+) thứ nhất tiết (-) thứ hai tiểu dự án 3 điểm d khoản 2 Điều 5 Quy định nguyên tắc, tiêu chí, định mức phân bổ vốn ngân sách nhà nước thực hiện Chương trình mục tiêu quốc gia phát triển kinh tế - xã hội vùng đồng bào dân tộc thiểu số và miền núi giai đoạn 2021 - 2025 ban hành kèm theo Nghị quyết số 14/2022/NQ-HĐND"
+   },
+   {
+    "source_path": "Điều 2 Khoản 4",
+    "action": "bo-sung",
+    "target_document": "14/2022/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm d khoản 2 Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung tiểu tiết (+) thứ nhất tiết (-) thứ hai tiểu dự án 3 điểm d khoản 2 Điều 5 Quy định nguyên tắc, tiêu chí, định mức phân bổ vốn ngân sách nhà nước thực hiện Chương trình mục tiêu quốc gia phát triển kinh tế - xã hội vùng đồng bào dân tộc thiểu số và miền núi giai đoạn 2021 - 2025 ban hành kèm theo Nghị quyết số 14/2022/NQ-HĐND"
+   },
+   {
+    "source_path": "Điều 2 Khoản 5",
+    "action": "sua-doi",
+    "target_document": "14/2022/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm d khoản 2 Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung tiểu tiết (+) thứ nhất tiết (-) thứ hai tiểu dự án 4 điểm d khoản 2 Điều 5 Quy định nguyên tắc, tiêu chí, định mức phân bổ vốn ngân sách nhà nước thực hiện Chương trình mục tiêu quốc gia phát triển kinh tế - xã hội vùng đồng bào dân tộc thiểu số và miền núi giai đoạn 2021 - 2025 ban hành kèm theo Nghị quyết số 14/2022/NQ-HĐND"
+   },
+   {
+    "source_path": "Điều 2 Khoản 5",
+    "action": "bo-sung",
+    "target_document": "14/2022/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm d khoản 2 Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung tiểu tiết (+) thứ nhất tiết (-) thứ hai tiểu dự án 4 điểm d khoản 2 Điều 5 Quy định nguyên tắc, tiêu chí, định mức phân bổ vốn ngân sách nhà nước thực hiện Chương trình mục tiêu quốc gia phát triển kinh tế - xã hội vùng đồng bào dân tộc thiểu số và miền núi giai đoạn 2021 - 2025 ban hành kèm theo Nghị quyết số 14/2022/NQ-HĐND"
+   },
+   {
+    "source_path": "Điều 2 Khoản 6",
+    "action": "sua-doi",
+    "target_document": "14/2022/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm h khoản 2 Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung tiểu tiết (+) thứ nhất tiết (-) thứ hai tiểu dự án 2 điểm h khoản 2 Điều 5 Quy định nguyên tắc, tiêu chí, định mức phân bổ vốn ngân sách nhà nước thực hiện Chương trình mục tiêu quốc gia phát triển kinh tế - xã hội vùng đồng bào dân tộc thiểu số và miền núi giai đoạn 2021 - 2025 ban hành kèm theo Nghị quyết số 14/2022/NQ-HĐND"
+   },
+   {
+    "source_path": "Điều 2 Khoản 6",
+    "action": "bo-sung",
+    "target_document": "14/2022/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm h khoản 2 Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung tiểu tiết (+) thứ nhất tiết (-) thứ hai tiểu dự án 2 điểm h khoản 2 Điều 5 Quy định nguyên tắc, tiêu chí, định mức phân bổ vốn ngân sách nhà nước thực hiện Chương trình mục tiêu quốc gia phát triển kinh tế - xã hội vùng đồng bào dân tộc thiểu số và miền núi giai đoạn 2021 - 2025 ban hành kèm theo Nghị quyết số 14/2022/NQ-HĐND"
+   },
+   {
+    "source_path": "Điều 2 Khoản 7",
+    "action": "sua-doi",
+    "target_document": "14/2022/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm i khoản 2 Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung tiểu tiết (+) thứ nhất tiết (-) thứ hai tiểu dự án 1 điểm i khoản 2 Điều 5 Quy định nguyên tắc, tiêu chí, định mức phân bổ vốn ngân sách nhà nước thực hiện Chương trình mục tiêu quốc gia phát triển kinh tế - xã hội vùng đồng bào dân tộc thiểu số và miền núi giai đoạn 2021 - 2025 ban hành kèm theo Nghị quyết số 14/2022/NQ-HĐND"
+   },
+   {
+    "source_path": "Điều 2 Khoản 7",
+    "action": "bo-sung",
+    "target_document": "14/2022/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm i khoản 2 Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung tiểu tiết (+) thứ nhất tiết (-) thứ hai tiểu dự án 1 điểm i khoản 2 Điều 5 Quy định nguyên tắc, tiêu chí, định mức phân bổ vốn ngân sách nhà nước thực hiện Chương trình mục tiêu quốc gia phát triển kinh tế - xã hội vùng đồng bào dân tộc thiểu số và miền núi giai đoạn 2021 - 2025 ban hành kèm theo Nghị quyết số 14/2022/NQ-HĐND"
+   },
+   {
+    "source_path": "Điều 2 Khoản 8",
+    "action": "sua-doi",
+    "target_document": "14/2022/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm i khoản 2 Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung tiểu tiết (+) thứ nhất tiết (-) thứ hai tiểu dự án 2 điểm i khoản 2 Điều 5 Quy định nguyên tắc, tiêu chí, định mức phân bổ vốn ngân sách nhà nước thực hiện Chương trình mục tiêu quốc gia phát triển kinh tế - xã hội vùng đồng bào dân tộc thiểu số và miền núi giai đoạn 2021 - 2025 ban hành kèm theo Nghị quyết số 14/2022/NQ-HĐND"
+   },
+   {
+    "source_path": "Điều 2 Khoản 8",
+    "action": "bo-sung",
+    "target_document": "14/2022/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm i khoản 2 Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung tiểu tiết (+) thứ nhất tiết (-) thứ hai tiểu dự án 2 điểm i khoản 2 Điều 5 Quy định nguyên tắc, tiêu chí, định mức phân bổ vốn ngân sách nhà nước thực hiện Chương trình mục tiêu quốc gia phát triển kinh tế - xã hội vùng đồng bào dân tộc thiểu số và miền núi giai đoạn 2021 - 2025 ban hành kèm theo Nghị quyết số 14/2022/NQ-HĐND"
+   },
+   {
+    "source_path": "Điều 2 Khoản 9",
+    "action": "sua-doi",
+    "target_document": "14/2022/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm i khoản 2 Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung tiểu tiết (+) thứ nhất tiết (-) thứ hai tiểu dự án 3 điểm i khoản 2 Điều 5 Quy định nguyên tắc, tiêu chí, định mức phân bổ vốn ngân sách nhà nước thực hiện Chương trình mục tiêu quốc gia phát triển kinh tế - xã hội vùng đồng bào dân tộc thiểu số và miền núi giai đoạn 2021 - 2025 ban hành kèm theo Nghị quyết số 14/2022/NQ-HĐND"
+   },
+   {
+    "source_path": "Điều 2 Khoản 9",
+    "action": "bo-sung",
+    "target_document": "14/2022/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm i khoản 2 Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung tiểu tiết (+) thứ nhất tiết (-) thứ hai tiểu dự án 3 điểm i khoản 2 Điều 5 Quy định nguyên tắc, tiêu chí, định mức phân bổ vốn ngân sách nhà nước thực hiện Chương trình mục tiêu quốc gia phát triển kinh tế - xã hội vùng đồng bào dân tộc thiểu số và miền núi giai đoạn 2021 - 2025 ban hành kèm theo Nghị quyết số 14/2022/NQ-HĐND"
+   },
+   {
+    "source_path": "Điều 2 Khoản 3 điểm a",
+    "action": "sua-doi",
+    "target_document": "14/2022/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm d khoản 2 Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung tiểu tiết (+) thứ nhất nội dung 1 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 3 điểm a",
+    "action": "bo-sung",
+    "target_document": "14/2022/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm d khoản 2 Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung tiểu tiết (+) thứ nhất nội dung 1 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 3 điểm b",
+    "action": "sua-doi",
+    "target_document": "14/2022/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm d khoản 2 Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung tiểu tiểu tiết (+) thứ nhất nội dung 2 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 3 điểm b",
+    "action": "bo-sung",
+    "target_document": "14/2022/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm d khoản 2 Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung tiểu tiểu tiết (+) thứ nhất nội dung 2 như sau:"
+   },
+   {
+    "source_path": "Điều 4 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "03/2023/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị quyết này bãi bỏ Nghị quyết số 03/2023/NQ-HĐND ngày 14 tháng 7 năm 2023 của Hội đồng nhân dân tỉnh Hậu Giang"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Vị trí sâu hơn điểm (tiểu tiết trong tiểu dự án) dừng ở điểm. Khoản 3 Điều 2 ghi ở điểm a, b (con thay cha)."
+ },
+ {
+  "doc_id": "659326",
+  "relations": [
+   {
+    "source_path": "Phụ lục 1 Mục I STT 1",
+    "action": "sua-doi",
+    "target_document": "3153/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Quyết định công nhận cơ sở sản xuất, kinh doanh sử dụng từ 30% tổng số lao động trở lên là người khuyết tật",
+    "evidence": "Thủ tục số 12 ; Mục V; phần I kèm theo Quyết định số: 3153/QĐ-UBND ngày 03/12/2018"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục I STT 1",
+    "action": "bo-sung",
+    "target_document": "3153/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Quyết định công nhận cơ sở sản xuất, kinh doanh sử dụng từ 30% tổng số lao động trở lên là người khuyết tật",
+    "evidence": "Thủ tục số 12 ; Mục V; phần I kèm theo Quyết định số: 3153/QĐ-UBND ngày 03/12/2018"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục I STT 4",
+    "action": "sua-doi",
+    "target_document": "3153/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Giải thể cơ sở trợ giúp xã hội ngoài công lập thuộc thẩm quyền thành lập của Sở Y tế",
+    "evidence": "Thủ tục số 03; Mục V; phần I; kèm theo Quyết định số: 3153/QĐ-UBND ngày 03/12/2018"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục I STT 4",
+    "action": "bo-sung",
+    "target_document": "3153/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Giải thể cơ sở trợ giúp xã hội ngoài công lập thuộc thẩm quyền thành lập của Sở Y tế",
+    "evidence": "Thủ tục số 03; Mục V; phần I; kèm theo Quyết định số: 3153/QĐ-UBND ngày 03/12/2018"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục I STT 5",
+    "action": "sua-doi",
+    "target_document": "3153/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Đăng ký thành lập, đăng ký thay đổi nội dung hoặc cấp lại giấy chứng nhận đăng ký thành lập cơ sở trợ giúp xã hội ngoài công lập thuộc thẩm quyền của Sở y tế",
+    "evidence": "Thủ tục số 01;02; Mục V; phần I; Kèm theo Quyết định số: 3153/QĐ-UBND ngày 03/12/2018"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục I STT 5",
+    "action": "bo-sung",
+    "target_document": "3153/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Đăng ký thành lập, đăng ký thay đổi nội dung hoặc cấp lại giấy chứng nhận đăng ký thành lập cơ sở trợ giúp xã hội ngoài công lập thuộc thẩm quyền của Sở y tế",
+    "evidence": "Thủ tục số 01;02; Mục V; phần I; Kèm theo Quyết định số: 3153/QĐ-UBND ngày 03/12/2018"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục I STT 6",
+    "action": "sua-doi",
+    "target_document": "3153/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Cấp giấy phép hoạt động đối với cơ sở trợ giúp xã hội thuộc thẩm quyền của Sở Y tế",
+    "evidence": "Thủ tục số 04; Mục V; Phần I Quyết định số: 3153/QĐ-UBND ngày 03/12/2018"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục I STT 6",
+    "action": "bo-sung",
+    "target_document": "3153/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Cấp giấy phép hoạt động đối với cơ sở trợ giúp xã hội thuộc thẩm quyền của Sở Y tế",
+    "evidence": "Thủ tục số 04; Mục V; Phần I Quyết định số: 3153/QĐ-UBND ngày 03/12/2018"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục I STT 7",
+    "action": "sua-doi",
+    "target_document": "3153/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Cấp lại, điều chỉnh giấy phép hoạt động đối với cơ sở trợ giúp xã hội có giấy phép hoạt động do Sở Y tế cấp",
+    "evidence": "Thủ tục số 05; Mục V; phần I Quyết định số: 3153/QĐ-UBND ngày 03/12/2018"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục I STT 7",
+    "action": "bo-sung",
+    "target_document": "3153/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Cấp lại, điều chỉnh giấy phép hoạt động đối với cơ sở trợ giúp xã hội có giấy phép hoạt động do Sở Y tế cấp",
+    "evidence": "Thủ tục số 05; Mục V; phần I Quyết định số: 3153/QĐ-UBND ngày 03/12/2018"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục I STT 8",
+    "action": "sua-doi",
+    "target_document": "1963/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Cấp (mới) giấy chứng nhận đăng ký hành nghề công tác xã hội",
+    "evidence": "Thủ tục số 02 Quyết định số 1963/QĐ-UBND ngày 20/11/2024"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục I STT 8",
+    "action": "bo-sung",
+    "target_document": "1963/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Cấp (mới) giấy chứng nhận đăng ký hành nghề công tác xã hội",
+    "evidence": "Thủ tục số 02 Quyết định số 1963/QĐ-UBND ngày 20/11/2024"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục I STT 9",
+    "action": "sua-doi",
+    "target_document": "1963/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Cấp lại giấy chứng nhận đăng ký hành nghề công tác xã hội",
+    "evidence": "Thủ tục số 03 Quyết định số 1963/QĐ-UBND ngày 20/11/2024"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục I STT 9",
+    "action": "bo-sung",
+    "target_document": "1963/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Cấp lại giấy chứng nhận đăng ký hành nghề công tác xã hội",
+    "evidence": "Thủ tục số 03 Quyết định số 1963/QĐ-UBND ngày 20/11/2024"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục I STT 10",
+    "action": "sua-doi",
+    "target_document": "1963/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Đăng ký hành nghề công tác xã hội tại Việt Nam đối với người nước ngoài, người Việt Nam định cư ở nước ngoài",
+    "evidence": "Thủ tục số 04 Quyết định số 1963/QĐ-UBND ngày 20/11/2024"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục I STT 10",
+    "action": "bo-sung",
+    "target_document": "1963/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Đăng ký hành nghề công tác xã hội tại Việt Nam đối với người nước ngoài, người Việt Nam định cư ở nước ngoài",
+    "evidence": "Thủ tục số 04 Quyết định số 1963/QĐ-UBND ngày 20/11/2024"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục I STT 11",
+    "action": "sua-doi",
+    "target_document": "1963/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Cấp giấy xác nhận quá trình thực hành công tác xã hội",
+    "evidence": "Thủ tục số 01 Quyết định số 1963/QĐ-UBND ngày 20/11/2024"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục I STT 11",
+    "action": "bo-sung",
+    "target_document": "1963/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Cấp giấy xác nhận quá trình thực hành công tác xã hội",
+    "evidence": "Thủ tục số 01 Quyết định số 1963/QĐ-UBND ngày 20/11/2024"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục I STT 12",
+    "action": "sua-doi",
+    "target_document": "148/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Cấp giấy phép thành lập cơ sở hỗ trợ nạn nhân",
+    "evidence": "Thủ tục số 01; Mục II; Quyết định số 148/QĐ-UBND ngày 02/02/2024"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục I STT 12",
+    "action": "bo-sung",
+    "target_document": "148/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Cấp giấy phép thành lập cơ sở hỗ trợ nạn nhân",
+    "evidence": "Thủ tục số 01; Mục II; Quyết định số 148/QĐ-UBND ngày 02/02/2024"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục I STT 13",
+    "action": "sua-doi",
+    "target_document": "3153/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Cấp lại giấy phép thành lập cơ sở hỗ trợ nạn nhân",
+    "evidence": "Thủ tục số 02; Mục VI; phần I Quyết định số: 3153/QĐ-UBND ngày 03/12/2018"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục I STT 13",
+    "action": "bo-sung",
+    "target_document": "3153/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Cấp lại giấy phép thành lập cơ sở hỗ trợ nạn nhân",
+    "evidence": "Thủ tục số 02; Mục VI; phần I Quyết định số: 3153/QĐ-UBND ngày 03/12/2018"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục I STT 14",
+    "action": "sua-doi",
+    "target_document": "3153/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Sửa đổi, bổ sung giấy phép thành lập cơ sở hỗ trợ nạn nhân",
+    "evidence": "Thủ tục số 03; Mục VI; Phần I Quyết định số: 3153/QĐ-UBND ngày 03/12/2018"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục I STT 14",
+    "action": "bo-sung",
+    "target_document": "3153/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Sửa đổi, bổ sung giấy phép thành lập cơ sở hỗ trợ nạn nhân",
+    "evidence": "Thủ tục số 03; Mục VI; Phần I Quyết định số: 3153/QĐ-UBND ngày 03/12/2018"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục I STT 15",
+    "action": "sua-doi",
+    "target_document": "3153/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Gia hạn giấy phép thành lập cơ sở hỗ trợ nạn nhân",
+    "evidence": "Thủ tục số 04; Mục VI; Phần I Quyết định số: 3153/QĐ-UBND ngày 03/12/2018"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục I STT 15",
+    "action": "bo-sung",
+    "target_document": "3153/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Gia hạn giấy phép thành lập cơ sở hỗ trợ nạn nhân",
+    "evidence": "Thủ tục số 04; Mục VI; Phần I Quyết định số: 3153/QĐ-UBND ngày 03/12/2018"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục I STT 16",
+    "action": "sua-doi",
+    "target_document": "3153/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Đề nghị chấm dứt hoạt động của cơ sở hỗ trợ nạn nhân",
+    "evidence": "Thủ tục số 0; Mục VI; Phần I Quyết định số: 3153/QĐ-UBND ngày 03/12/2018"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục I STT 16",
+    "action": "bo-sung",
+    "target_document": "3153/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Đề nghị chấm dứt hoạt động của cơ sở hỗ trợ nạn nhân",
+    "evidence": "Thủ tục số 0; Mục VI; Phần I Quyết định số: 3153/QĐ-UBND ngày 03/12/2018"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục I STT 17",
+    "action": "sua-doi",
+    "target_document": "1629/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Tiếp nhận đối tượng bảo trợ xã hội có hoàn cảnh đặc biệt khó khăn vào cơ sở trợ giúp xã hội cấp tỉnh, cấp huyện",
+    "evidence": "Thủ tục số 01; Mục V; Phần I Quyết định số: 1629/QĐ-UBND ngày 06/7/2021"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục I STT 17",
+    "action": "bo-sung",
+    "target_document": "1629/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Tiếp nhận đối tượng bảo trợ xã hội có hoàn cảnh đặc biệt khó khăn vào cơ sở trợ giúp xã hội cấp tỉnh, cấp huyện",
+    "evidence": "Thủ tục số 01; Mục V; Phần I Quyết định số: 1629/QĐ-UBND ngày 06/7/2021"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục I STT 18",
+    "action": "sua-doi",
+    "target_document": "1629/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Tiếp nhận đối tượng cần bảo vệ khẩn cấp vào cơ sở trợ giúp xã hội cấp tỉnh, cấp huyện",
+    "evidence": "Thủ tục số 02; Mục V; Phần I Quyết định số: 1629/QĐ-UBND ngày 06/7/2021"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục I STT 18",
+    "action": "bo-sung",
+    "target_document": "1629/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Tiếp nhận đối tượng cần bảo vệ khẩn cấp vào cơ sở trợ giúp xã hội cấp tỉnh, cấp huyện",
+    "evidence": "Thủ tục số 02; Mục V; Phần I Quyết định số: 1629/QĐ-UBND ngày 06/7/2021"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục I STT 19",
+    "action": "sua-doi",
+    "target_document": "1629/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Dừng trợ giúp xã hội tại cơ sở trợ giúp xã hội cấp tỉnh, cấp huyện",
+    "evidence": "Thủ tục số 03; Mục V; Phần I Quyết định số: 1629/QĐ-UBND ngày 06/7/2021"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục I STT 19",
+    "action": "bo-sung",
+    "target_document": "1629/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Dừng trợ giúp xã hội tại cơ sở trợ giúp xã hội cấp tỉnh, cấp huyện",
+    "evidence": "Thủ tục số 03; Mục V; Phần I Quyết định số: 1629/QĐ-UBND ngày 06/7/2021"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục I STT 20",
+    "action": "sua-doi",
+    "target_document": "1559/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Thực hiện, điều chỉnh, thôi hưởng trợ cấp xã hội hàng tháng, hỗ trợ kinh phí chăm sóc, nuôi dưỡng hàng tháng",
+    "evidence": "Thủ tục số 01; Mục I; Phần I Quyết định số:1559/QĐ-UBND ngày 02/7/2021"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục I STT 20",
+    "action": "bo-sung",
+    "target_document": "1559/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Thực hiện, điều chỉnh, thôi hưởng trợ cấp xã hội hàng tháng, hỗ trợ kinh phí chăm sóc, nuôi dưỡng hàng tháng",
+    "evidence": "Thủ tục số 01; Mục I; Phần I Quyết định số:1559/QĐ-UBND ngày 02/7/2021"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục I STT 21",
+    "action": "sua-doi",
+    "target_document": "1559/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Chi trả trợ cấp xã hội hàng tháng, hỗ trợ kinh phí chăm sóc, nuôi dưỡng hàng tháng khi đối tượng thay đổi nơi cư trú trong cùng địa bàn quận, huyện, thị xã, thành phố thuộc tỉnh",
+    "evidence": "Thủ tục số 02; Mục I; Phần I Quyết định số:1559/QĐ-UBND ngày 02/7/2021"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục I STT 21",
+    "action": "bo-sung",
+    "target_document": "1559/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Chi trả trợ cấp xã hội hàng tháng, hỗ trợ kinh phí chăm sóc, nuôi dưỡng hàng tháng khi đối tượng thay đổi nơi cư trú trong cùng địa bàn quận, huyện, thị xã, thành phố thuộc tỉnh",
+    "evidence": "Thủ tục số 02; Mục I; Phần I Quyết định số:1559/QĐ-UBND ngày 02/7/2021"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục I STT 22",
+    "action": "sua-doi",
+    "target_document": "1559/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Quyết định trợ cấp xã hội hàng tháng, hỗ trợ kinh phí chăm sóc, nuôi dưỡng hàng tháng khi đối tượng thay đổi nơi cư trú giữa các quận, huyện, thị xã, thành phố thuộc tỉnh, trong và ngoài tỉnh, thành phố trực thuộc trung ương",
+    "evidence": "Thủ tục số 03; Mục I; Phần I Quyết định số:1559/QĐ-UBND ngày 02/7/2021"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục I STT 22",
+    "action": "bo-sung",
+    "target_document": "1559/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Quyết định trợ cấp xã hội hàng tháng, hỗ trợ kinh phí chăm sóc, nuôi dưỡng hàng tháng khi đối tượng thay đổi nơi cư trú giữa các quận, huyện, thị xã, thành phố thuộc tỉnh, trong và ngoài tỉnh, thành phố trực thuộc trung ương",
+    "evidence": "Thủ tục số 03; Mục I; Phần I Quyết định số:1559/QĐ-UBND ngày 02/7/2021"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục I STT 23",
+    "action": "sua-doi",
+    "target_document": "1559/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Hỗ trợ chi phí mai táng cho đối tượng bảo trợ xã hội",
+    "evidence": "Thủ tục số 04; Mục I; Phần I Quyết định số:1559/QĐ-UBND ngày 02/7/2021"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục I STT 23",
+    "action": "bo-sung",
+    "target_document": "1559/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Hỗ trợ chi phí mai táng cho đối tượng bảo trợ xã hội",
+    "evidence": "Thủ tục số 04; Mục I; Phần I Quyết định số:1559/QĐ-UBND ngày 02/7/2021"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục I STT 24",
+    "action": "sua-doi",
+    "target_document": "1559/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Trợ giúp xã hội khẩn cấp về hỗ trợ chi phí điều trị người bị thương nặng ngoài nơi cư trú mà không có người thân thích chăm sóc",
+    "evidence": "Thủ tục số 05; Mục I; Phần I Quyết định số:1559/QĐ-UBND ngày 02/7/2021"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục I STT 24",
+    "action": "bo-sung",
+    "target_document": "1559/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Trợ giúp xã hội khẩn cấp về hỗ trợ chi phí điều trị người bị thương nặng ngoài nơi cư trú mà không có người thân thích chăm sóc",
+    "evidence": "Thủ tục số 05; Mục I; Phần I Quyết định số:1559/QĐ-UBND ngày 02/7/2021"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục I STT 25",
+    "action": "sua-doi",
+    "target_document": "1559/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Trợ giúp xã hội khẩn cấp về hỗ trợ chi phí mai táng",
+    "evidence": "Thủ tục số 07; Mục I; Phần I Quyết định số:1559/QĐ-UBND ngày 02/7/2021"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục I STT 25",
+    "action": "bo-sung",
+    "target_document": "1559/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Trợ giúp xã hội khẩn cấp về hỗ trợ chi phí mai táng",
+    "evidence": "Thủ tục số 07; Mục I; Phần I Quyết định số:1559/QĐ-UBND ngày 02/7/2021"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục I STT 26",
+    "action": "sua-doi",
+    "target_document": "1559/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Nhận chăm sóc, nuôi dưỡng đối tượng cần bảo vệ khẩn cấp",
+    "evidence": "Thủ tục số 06; Mục I; Phần I Quyết định số:1559/QĐ-UBND ngày 02/7/2021"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục I STT 26",
+    "action": "bo-sung",
+    "target_document": "1559/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Nhận chăm sóc, nuôi dưỡng đối tượng cần bảo vệ khẩn cấp",
+    "evidence": "Thủ tục số 06; Mục I; Phần I Quyết định số:1559/QĐ-UBND ngày 02/7/2021"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục I STT 27",
+    "action": "sua-doi",
+    "target_document": "3154/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Cấp lại, điều chỉnh giấy phép hoạt động đối với cơ sở trợ giúp xã hội có giấy phép hoạt động do Phòng Y tế",
+    "evidence": "Thủ tục số 07; Mục IV; Phần I Quyết định số: 3154/QĐ-UBND ngày 03/12/2018"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục I STT 27",
+    "action": "bo-sung",
+    "target_document": "3154/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Cấp lại, điều chỉnh giấy phép hoạt động đối với cơ sở trợ giúp xã hội có giấy phép hoạt động do Phòng Y tế",
+    "evidence": "Thủ tục số 07; Mục IV; Phần I Quyết định số: 3154/QĐ-UBND ngày 03/12/2018"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục I STT 28",
+    "action": "sua-doi",
+    "target_document": "3154/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Giải thể cơ sở trợ giúp xã hội ngoài công lập thuộc thẩm quyền thành lập của Phòng Y tế",
+    "evidence": "Thủ tục số 05; Mục IV; Phần I Quyết định số: 3154/QĐ-UBND ngày 03/12/2018"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục I STT 28",
+    "action": "bo-sung",
+    "target_document": "3154/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Giải thể cơ sở trợ giúp xã hội ngoài công lập thuộc thẩm quyền thành lập của Phòng Y tế",
+    "evidence": "Thủ tục số 05; Mục IV; Phần I Quyết định số: 3154/QĐ-UBND ngày 03/12/2018"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục I STT 29",
+    "action": "sua-doi",
+    "target_document": "3154/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Cấp giấy phép hoạt động đối với cơ sở trợ giúp xã hội thuộc thẩm quyền của Phòng Y tế",
+    "evidence": "Thủ tục số 06; Mục IV; Phần I Quyết định số: 3154/QĐ-UBND ngày 03/12/2018"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục I STT 29",
+    "action": "bo-sung",
+    "target_document": "3154/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Cấp giấy phép hoạt động đối với cơ sở trợ giúp xã hội thuộc thẩm quyền của Phòng Y tế",
+    "evidence": "Thủ tục số 06; Mục IV; Phần I Quyết định số: 3154/QĐ-UBND ngày 03/12/2018"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục I STT 30",
+    "action": "sua-doi",
+    "target_document": "3154/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Đăng ký thành lập, đăng ký thay đổi nội dung hoặc cấp lại giấy chứng nhận đăng ký thành lập cơ sở trợ giúp xã hội ngoài công lập thuộc thẩm quyền của Phòng Y tế",
+    "evidence": "Thủ tục số 03; Mục IV; Phần I Quyết định số: 3154/QĐ-UBND ngày 03/12/2018"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục I STT 30",
+    "action": "bo-sung",
+    "target_document": "3154/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Đăng ký thành lập, đăng ký thay đổi nội dung hoặc cấp lại giấy chứng nhận đăng ký thành lập cơ sở trợ giúp xã hội ngoài công lập thuộc thẩm quyền của Phòng Y tế",
+    "evidence": "Thủ tục số 03; Mục IV; Phần I Quyết định số: 3154/QĐ-UBND ngày 03/12/2018"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục I STT 31",
+    "action": "sua-doi",
+    "target_document": "147/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Hỗ trợ học văn hóa, học nghề, trợ cấp khó khăn ban đầu cho nạn nhân",
+    "evidence": "Thủ tục số 04; Mục II; Phần I Quyết định số:147/QĐ-UBND ngày 02/2/2024"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục I STT 31",
+    "action": "bo-sung",
+    "target_document": "147/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Hỗ trợ học văn hóa, học nghề, trợ cấp khó khăn ban đầu cho nạn nhân",
+    "evidence": "Thủ tục số 04; Mục II; Phần I Quyết định số:147/QĐ-UBND ngày 02/2/2024"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục I STT 32",
+    "action": "sua-doi",
+    "target_document": "3155/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Xác định, xác định lại mức độ khuyết tật và cấp Giấy xác nhận khuyết tật",
+    "evidence": "Thủ tục số: 05; mục II; Phần I Quyết định số 3155/QĐ-UBND ngày 03/12/2018"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục I STT 32",
+    "action": "bo-sung",
+    "target_document": "3155/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Xác định, xác định lại mức độ khuyết tật và cấp Giấy xác nhận khuyết tật",
+    "evidence": "Thủ tục số: 05; mục II; Phần I Quyết định số 3155/QĐ-UBND ngày 03/12/2018"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục I STT 33",
+    "action": "sua-doi",
+    "target_document": "3155/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Cấp đổi, cấp lại Giấy xác nhận khuyết tật",
+    "evidence": "Thủ tục số: 06 mục II; Phần I Quyết định số 3155/QĐ-UBND ngày 03/12/2018"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục I STT 33",
+    "action": "bo-sung",
+    "target_document": "3155/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Cấp đổi, cấp lại Giấy xác nhận khuyết tật",
+    "evidence": "Thủ tục số: 06 mục II; Phần I Quyết định số 3155/QĐ-UBND ngày 03/12/2018"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục I STT 34",
+    "action": "sua-doi",
+    "target_document": "1593/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Đăng ký hoạt động đối với cơ sở trợ giúp xã hội dưới 10 đối tượng có hoàn cảnh khó khăn",
+    "evidence": "Thủ tục số 01; Mục D; Phần I Quyết định số: 1593/QĐ-UBND ngày 10/10/2017"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục I STT 34",
+    "action": "bo-sung",
+    "target_document": "1593/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Đăng ký hoạt động đối với cơ sở trợ giúp xã hội dưới 10 đối tượng có hoàn cảnh khó khăn",
+    "evidence": "Thủ tục số 01; Mục D; Phần I Quyết định số: 1593/QĐ-UBND ngày 10/10/2017"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục I STT 35",
+    "action": "sua-doi",
+    "target_document": "1578/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Trợ giúp xã hội khẩn cấp về hỗ trợ làm nhà ở, sửa chữa nhà ở",
+    "evidence": "Thủ tục số: 01; phần I Quyết định số:1578/QĐ-UBND ngày 06/7/2021"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục I STT 35",
+    "action": "bo-sung",
+    "target_document": "1578/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Trợ giúp xã hội khẩn cấp về hỗ trợ làm nhà ở, sửa chữa nhà ở",
+    "evidence": "Thủ tục số: 01; phần I Quyết định số:1578/QĐ-UBND ngày 06/7/2021"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục II.A STT 1",
+    "action": "bai-bo",
+    "target_document": "3153/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Đăng ký thành lập cơ sở trợ giúp xã hội ngoài công lập thuộc thẩm quyền giải quyết của Sở Lao động - Thương binh và Xã hội",
+    "evidence": "Thủ tục số 01; Mục V; Phần I Quyết định số: 3153/QĐ-UBND ngày 03/12/2018"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục II.A STT 2",
+    "action": "bai-bo",
+    "target_document": "3153/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Đăng ký thay đổi nội dung giấy chứng nhận đăng ký thành lập đối với cơ sở trợ giúp xã hội ngoài công lập thuộc thẩm quyền thành lập của Sở Lao động - Thương binh và Xã hội",
+    "evidence": "Thủ tục số 02; Mục V; Phần I Quyết định số: 3153/QĐ-UBND ngày 03/12/2018"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục II.B STT 1",
+    "action": "bai-bo",
+    "target_document": "3154/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Đăng ký thành lập cơ sở trợ giúp xã hội ngoài công lập thuộc thẩm quyền giải quyết của Phòng Lao động - Thương binh và Xã hội",
+    "evidence": "Thủ tục số 01; Mục IV; Phần I Quyết định số: 3154/QĐ-UBND ngày 03/12/2018"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục II.B STT 2",
+    "action": "bai-bo",
+    "target_document": "3154/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Đăng ký thay đổi nội dung giấy chứng nhận đăng ký thành lập đối với cơ sở trợ giúp xã hội ngoài công lập thuộc thẩm quyền thành lập của Phòng Lao động - Thương binh và Xã hội",
+    "evidence": "Thủ tục số 04; Mục IV; Phần I Quyết định số: 3154/QĐ-UBND ngày 03/12/2018"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Hành động lấy từ đề mục 'I. DANH MỤC TTHC ĐƯỢC SỬA ĐỔI, BỔ SUNG' (sua-doi + bo-sung) và 'II. DANH MỤC TTHC BỊ BÃI BỎ' (bai-bo); đích là Quyết định công bố cũ nêu trong dòng. Dòng STT 2, 3 Mục I không nêu Quyết định: không ghi. Mục II có 2 bảng con A, B đánh STT lại từ 1: ghi Mục II.A / II.B. Cột căn cứ (970/QĐ-BYT, 1158/QĐ-BYT) không phải đích."
+ },
+ {
+  "doc_id": "659397",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn trả lời chính sách thuế; chỉ trích dẫn quy định."
+ },
+ {
+  "doc_id": "659429",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "1171/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này thay thế Quyết định số 1171/QĐ-UBND ngày 09/8/2023 của UBND tỉnh"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": ""
+ },
+ {
+  "doc_id": "659508",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "2143/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục X Phần A",
+     "Mục III Phần C"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ các thủ tục hành chính tại mục X (Lĩnh vực Phòng, chống thiên tai), phần A (Thủ tục hành chính thuộc thẩm quyền giải quyết của Sở Nông nghiệp và Phát triển nông thôn); mục III (Lĩnh vực Phòng, chống thiên tai), phần C (Thủ tục hành chính cấp xã) ban hành kèm theo Quyết định số 2143/QĐ-UBND ngày 28/06/2021"
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "1796/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục I Phần C"
+    ],
+    "doi_tuong": null,
+    "evidence": "mục I (Lĩnh vực Phòng, chống thiên tai) phần C (Thủ tục hành chính cấp xã) ban hành kèm theo Quyết định số 1796/QĐ-UBND ngày 26/6/2023"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": ""
+ },
+ {
+  "doc_id": "659516",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "34/2017/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA QUY CHẾ BAN HÀNH KÈM THEO QUYẾT ĐỊNH SỐ 34/2017/QĐ-UBND NGÀY 23/10/2017"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "34/2017/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA QUY CHẾ BAN HÀNH KÈM THEO QUYẾT ĐỊNH SỐ 34/2017/QĐ-UBND NGÀY 23/10/2017"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "34/2017/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 5 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "34/2017/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 5 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "34/2017/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 6"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 6 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "34/2017/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 6"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 6 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "sua-doi",
+    "target_document": "34/2017/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 7 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "bo-sung",
+    "target_document": "34/2017/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 7 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 4",
+    "action": "sua-doi",
+    "target_document": "34/2017/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 8"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 8 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 4",
+    "action": "bo-sung",
+    "target_document": "34/2017/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 8"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 8 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 5",
+    "action": "sua-doi",
+    "target_document": "34/2017/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 2 Điều 12"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 Điều 12 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 5",
+    "action": "bo-sung",
+    "target_document": "34/2017/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 2 Điều 12"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 Điều 12 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 1",
+    "action": "thay-cum-tu",
+    "target_document": "34/2017/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 2 Điều 2",
+     "khoản 2 Điều 3",
+     "điểm a khoản 2 Điều 4",
+     "điểm b khoản 2 Điều 4",
+     "điểm b khoản 2 Điều 13"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “thành phố Ninh Bình” tại khoản 2 Điều 2, khoản 2 Điều 3, điểm a, b khoản 2 Điều 4, điểm b khoản 2 Điều 13 bằng cụm từ “thành phố Hoa Lư”."
+   },
+   {
+    "source_path": "Điều 2 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "34/2017/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 2 Điều 10",
+     "điểm c khoản 1 Điều 12"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ khoản 2 Điều 10; điểm c khoản 1 Điều 12."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": ""
+ },
+ {
+  "doc_id": "659592",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "45/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "VỀ VIỆC SỬA ĐỔI, BỔ SUNG NGHỊ QUYẾT SỐ 45/NQ-HĐND NGÀY 10 THÁNG 12 NĂM 2024"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "45/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "VỀ VIỆC SỬA ĐỔI, BỔ SUNG NGHỊ QUYẾT SỐ 45/NQ-HĐND NGÀY 10 THÁNG 12 NĂM 2024"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "sua-doi",
+    "target_document": "45/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 1 Nghị quyết số 45/NQ-HĐND ngày 10 tháng 12 năm 2024"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bo-sung",
+    "target_document": "45/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 1 Nghị quyết số 45/NQ-HĐND ngày 10 tháng 12 năm 2024"
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "loai": "nhan_sai_dieu",
+    "ghi_chu": "Khoản 1–3 là nội dung mới của Điều 1 Nghị quyết 45/NQ-HĐND (không có ngoặc kép), parser tách thành khoản; câu hành động nằm ở tên Điều 1."
+   }
+  ],
+  "ghi_chu": "Câu 'Những nội dung không đề cập tại nghị quyết này vẫn tiếp tục thực hiện theo Nghị quyết số 45/NQ-HĐND' không phải tác động."
+ },
+ {
+  "doc_id": "659674",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "48/2017/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA NGHỊ QUYẾT SỐ 48/2017/NQ-HĐND NGÀY 08 THÁNG 12 NĂM 2017"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "48/2017/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA NGHỊ QUYẾT SỐ 48/2017/NQ-HĐND NGÀY 08 THÁNG 12 NĂM 2017"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "48/2017/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 3 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "48/2017/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 3 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "48/2017/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 4"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 4 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "48/2017/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 4"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 4 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "sua-doi",
+    "target_document": "48/2017/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 5",
+     "khoản 2 Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1, khoản 2 Điều 5 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "bo-sung",
+    "target_document": "48/2017/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 5",
+     "khoản 2 Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1, khoản 2 Điều 5 như sau:"
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "loai": "nhan_sai_dieu",
+    "ghi_chu": "Đơn vị 'Điều 1 Khoản 3'–'Khoản 6' (và các điểm) là khoản 3–6 của Điều 4 mới trong ngoặc kép, bị nhận thành khoản của Điều 1."
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "loai": "thieu_noi_dung",
+    "ghi_chu": "Khoản 3 thật của Điều 1 ('Sửa đổi, bổ sung khoản 1, khoản 2 Điều 5 như sau:') không có trong don_vi; quan hệ ghi theo toàn văn."
+   }
+  ],
+  "ghi_chu": ""
+ },
+ {
+  "doc_id": "659676",
+  "relations": [
+   {
+    "source_path": "Điều 1",
+    "action": "gia-han",
+    "target_document": "1535/QĐ-BCT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "thời hạn điều tra áp dụng biện pháp chống bán phá giá",
+    "evidence": "Gia hạn thời hạn điều tra áp dụng biện pháp chống bán phá giá đối với một số sản phẩm thép mạ có xuất xứ từ Cộng hòa nhân dân Trung Hoa và Đại Hàn Dân Quốc theo Quyết định số 1535/QĐ-BCT ngày 14 tháng 6 năm 2024 của Bộ trưởng Bộ Công Thương đến ngày 14 tháng 8 năm 2025."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên văn bản không nêu số hiệu đích nên không ghi Phần đầu."
+ }
+]

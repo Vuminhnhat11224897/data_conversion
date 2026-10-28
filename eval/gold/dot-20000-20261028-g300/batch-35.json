@@ -1,0 +1,278 @@
+[
+ {
+  "doc_id": "667609",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "38/2019/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Ủy ban nhân dân tỉnh Bà Rịa - Vũng Tàu ban hành Quyết định sửa đổi, bổ sung một số điều của Quyết định số 38/2019/QĐ-UBND ngày 20 tháng 12 năm 2019"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "38/2019/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Ủy ban nhân dân tỉnh Bà Rịa - Vũng Tàu ban hành Quyết định sửa đổi, bổ sung một số điều của Quyết định số 38/2019/QĐ-UBND ngày 20 tháng 12 năm 2019"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "sua-doi",
+    "target_document": "38/2019/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Bảng giá đất ở",
+    "evidence": "Sửa đổi, bổ sung một số tuyến đường trong Bảng giá đất ở ban hành kèm theo Quyết định số 38/2019/QĐ-UBND ngày 20 tháng 12 năm 2019"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bo-sung",
+    "target_document": "38/2019/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Bảng giá đất ở",
+    "evidence": "Sửa đổi, bổ sung một số tuyến đường trong Bảng giá đất ở ban hành kèm theo Quyết định số 38/2019/QĐ-UBND ngày 20 tháng 12 năm 2019"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên và lời dẫn cùng nêu sửa đổi, bổ sung Quyết định 38/2019/QĐ-UBND: ghi một cặp quan hệ Phần đầu. Các Quyết định 25/2022, 20/2024, 26/2024 chỉ là lịch sử ('đã được sửa đổi, bổ sung theo'). Các dòng 'Bỏ khỏi danh mục các tuyến đường' trong Phụ lục là nội dung thực hiện Điều 1, không nêu văn bản đích; không ghi riêng."
+ },
+ {
+  "doc_id": "671867",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "3662/KH-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "sửa đổi, bổ sung Kế hoạch số 3662/KH-UBND ngày 30/12/2024 của UBND tỉnh Cao Bằng."
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "3662/KH-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "sửa đổi, bổ sung Kế hoạch số 3662/KH-UBND ngày 30/12/2024 của UBND tỉnh Cao Bằng."
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Phần đầu",
+    "loai": "thieu_noi_dung",
+    "ghi_chu": "loi_dan rỗng; câu dẫn 'UBND tỉnh ban hành Kế hoạch ... năm 2025 (sửa đổi, bổ sung[1])' và chú thích [1] nêu Kế hoạch 3662/KH-UBND chỉ có trong toàn văn."
+   }
+  ],
+  "ghi_chu": "Kế hoạch không chia Điều. Văn bản đích chỉ nêu ở chú thích [1] gắn vào câu dẫn của phần đầu; evidence lấy từ chú thích trong toàn văn. Các mục tiêu 'rà soát, sửa đổi, bổ sung, thay thế, bãi bỏ VBQPPL' là nhiệm vụ, không phải tác động."
+ },
+ {
+  "doc_id": "647073",
+  "relations": [
+   {
+    "source_path": "Điều 3",
+    "action": "bai-bo",
+    "target_document": "1614/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "bãi bỏ Quyết định số 1614/QĐ-UBND ngày 12 tháng 9 năm 2022 của Ủy ban nhân dân tỉnh Lâm Đồng"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": ""
+ },
+ {
+  "doc_id": "647573",
+  "relations": [
+   {
+    "source_path": "Điều 5 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "999/QĐ-TTg",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Các quyết định sau đây hết hiệu lực kể từ ngày Quyết định này có hiệu lực thi hành: (i) Quyết định số 999/QĐ-TTg ngày 18 tháng 9 năm 2024"
+   },
+   {
+    "source_path": "Điều 5 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "62/QĐ-BCĐCTTĐQG",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "(ii) Quyết định số 62/QĐ-BCĐCTTĐQG ngày 04 tháng 5 năm 2024"
+   },
+   {
+    "source_path": "Điều 5 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "1143/QĐ-TTg",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "(iii) Quyết định số 1143/QĐ-TTg ngày 03 tháng 10 năm 2023"
+   },
+   {
+    "source_path": "Điều 5 Khoản 3",
+    "action": "bai-bo",
+    "target_document": "884/QĐ-TTg",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 1",
+     "khoản 4 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ khoản 3, khoản 4 Điều 1 của Quyết định số 884/QĐ-TTg ngày 23 tháng 7 năm 2022"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 5 khoản 2: văn bản này tự tuyên bố 3 quyết định hết hiệu lực, ghi bai-bo."
+ },
+ {
+  "doc_id": "647574",
+  "relations": [
+   {
+    "source_path": "Điều 5 Khoản 1",
+    "action": "thay-the",
+    "target_document": "110/QĐ-TTg",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực thi hành kể từ ngày ký và thay thế các Quyết định số 110/QĐ-TTg ngày 28 tháng 01 năm 2024"
+   },
+   {
+    "source_path": "Điều 5 Khoản 1",
+    "action": "thay-the",
+    "target_document": "1619/QĐ-TTg",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 1619/QĐ-TTg ngày 24 tháng 9 năm 2021 của Thủ tướng Chính phủ về việc kiện toàn và đổi tên Ủy ban Quốc gia về Chính phủ điện tử"
+   },
+   {
+    "source_path": "Điều 5 Khoản 1",
+    "action": "bai-bo",
+    "target_document": "06/QĐ-TTg",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "bãi bỏ mục 2 - phần IV Điều 1 Quyết định số 06/QĐ-TTg ngày 06 tháng 01 năm 2022"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "'mục 2 - phần IV Điều 1' Quyết định 06/QĐ-TTg: dừng vị trí ở Điều 1 (phần, mục trong Điều)."
+ },
+ {
+  "doc_id": "648608",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "35/2023/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực kể từ ngày 14 tháng 3 năm 2025 và thay thế Quyết định số 35/2023/QĐ-UBND ngày 06/9/2023 của Ủy ban nhân dân thành phố Đà Nẵng"
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 2",
+    "loai": "gop_sai",
+    "ghi_chu": "Đơn vị Điều 2 gộp cả nội dung Điều 4 (trách nhiệm thi hành); văn bản gốc không có Điều 3."
+   }
+  ],
+  "ghi_chu": ""
+ },
+ {
+  "doc_id": "648778",
+  "relations": [
+   {
+    "source_path": "Điều 4 Khoản 2",
+    "action": "thay-the",
+    "target_document": "06/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực thi hành kể từ ngày 25 tháng 3 năm 2025 và thay thế Quyết định số 06/QĐ-UBND ngày 25 tháng 3 năm 2024 của Uỷ ban nhân tỉnh Đồng Tháp"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 4 khoản 3 nói chính Quyết định này hết hiệu lực ngày 31/12/2025, không tác động văn bản khác."
+ },
+ {
+  "doc_id": "648796",
+  "relations": [
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bai-bo",
+    "target_document": "35/2019/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 35/2019/QĐ-UBND ngày 10/10/2019 của Ủy ban nhân dân tỉnh Nam Định về việc ban hành Quy định về đấu giá quyền sử dụng đất để giao đất có thu tiền sử dụng đất hoặc cho thuê đất trên địa bàn tỉnh Nam Định."
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "18/2020/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 18/2020/QĐ-UBND ngày 05/6/2020 của Ủy ban nhân dân tỉnh Nam Định sửa đổi, bổ sung một số điều của Quy định về đấu giá quyền sử dụng đất để giao đất có thu tiền sử dụng đất hoặc cho thuê đất trên địa bàn tỉnh Nam Định ban hành kèm theo Quyết định số 35/2019/QĐ-UBND ngày 10/10/2019 của Ủy ban nhân dân tỉnh Nam Định."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Hành động 'Bãi bỏ toàn bộ các Quyết định sau đây:' nằm ở tên Điều 1; evidence là câu của từng khoản nêu văn bản đích. Tên văn bản không nêu số hiệu nên không có quan hệ Phần đầu; lời dẫn là đề nghị của Sở Tư pháp."
+ },
+ {
+  "doc_id": "649696",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "bai-bo",
+    "target_document": "73/2009/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "BÃI BỎ QUYẾT ĐỊNH SỐ 73/2009/QĐ-UBND NGÀY 12 THÁNG 10 NĂM 2009 CỦA ỦY BAN NHÂN DÂN TỈNH QUY ĐỊNH THẨM QUYỀN CÔNG CHỨNG HỢP ĐỒNG GIAO DỊCH TRÊN ĐỊA BÀN TỈNH BÀ RỊA - VŨNG TÀU"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bai-bo",
+    "target_document": "73/2009/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ Quyết định số 73/2009/QĐ-UBND ngày 12 tháng 10 năm 2009 của Ủy ban nhân dân tỉnh quy định thẩm quyền công chứng hợp đồng giao dịch trên địa bàn tỉnh Bà Rịa - Vũng Tàu."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Lời dẫn chỉ nêu Tờ trình về dự thảo bãi bỏ (đề nghị), không ghi thêm."
+ },
+ {
+  "doc_id": "650766",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "813/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực thi hành kể từ ngày 10 tháng 4 năm 2025 và thay thế Quyết định số 813/QĐ-UBND ngày 21 tháng 5 năm 2018 của Chủ tịch Ủy ban nhân dân tỉnh"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": ""
+ }
+]

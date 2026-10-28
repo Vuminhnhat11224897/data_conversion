@@ -1,0 +1,202 @@
+[
+ {
+  "doc_id": "663322",
+  "relations": [
+   {
+    "source_path": "Điều 43 Khoản 1 điểm a",
+    "action": "sua-doi",
+    "target_document": "69/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 4 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 4 như sau:"
+   },
+   {
+    "source_path": "Điều 43 Khoản 1 điểm a",
+    "action": "bo-sung",
+    "target_document": "69/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 4 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 4 như sau:"
+   },
+   {
+    "source_path": "Điều 43 Khoản 1 điểm b",
+    "action": "sua-doi",
+    "target_document": "69/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 6 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 6 như sau:"
+   },
+   {
+    "source_path": "Điều 43 Khoản 1 điểm b",
+    "action": "bo-sung",
+    "target_document": "69/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 6 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 6 như sau:"
+   },
+   {
+    "source_path": "Điều 43 Khoản 1 điểm c",
+    "action": "sua-doi",
+    "target_document": "69/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 9 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 9 như sau:"
+   },
+   {
+    "source_path": "Điều 43 Khoản 1 điểm c",
+    "action": "bo-sung",
+    "target_document": "69/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 9 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 9 như sau:"
+   },
+   {
+    "source_path": "Điều 43 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "69/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 21"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 21 như sau:"
+   },
+   {
+    "source_path": "Điều 43 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "69/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 21"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 21 như sau:"
+   },
+   {
+    "source_path": "Điều 43 Khoản 3",
+    "action": "sua-doi",
+    "target_document": "69/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 23"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 Điều 23 như sau:"
+   },
+   {
+    "source_path": "Điều 43 Khoản 3",
+    "action": "bo-sung",
+    "target_document": "69/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 23"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 Điều 23 như sau:"
+   },
+   {
+    "source_path": "Điều 43 Khoản 4 điểm a",
+    "action": "thay-cum-tu",
+    "target_document": "69/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 15",
+     "Điều 29",
+     "Điều 30"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Công an xã, phường, thị trấn hoặc cơ quan quản lý căn cước Công an cấp tỉnh, Công an cấp huyện” bằng cụm từ “Công an xã, phường, đặc khu hoặc cơ quan quản lý căn cước Công an cấp tỉnh” tại Điều 15, Điều 29, Điều 30;"
+   },
+   {
+    "source_path": "Điều 43 Khoản 4 điểm b",
+    "action": "thay-cum-tu",
+    "target_document": "69/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 12"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “cơ quan quản lý căn cước nơi thuận tiện” bằng cụm từ “cơ quan quản lý căn cước, công an xã nơi thuận tiện” tại khoản 1 Điều 12"
+   },
+   {
+    "source_path": "Điều 43 Khoản 4 điểm b",
+    "action": "thay-cum-tu",
+    "target_document": "69/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 34",
+     "Điều 35",
+     "Điều 36",
+     "Điều 41"
+    ],
+    "doi_tuong": null,
+    "evidence": "thay thế cụm từ “Bộ Thông tin và Truyền thông” bằng cụm từ “Bộ Khoa học và Công nghệ”, cụm từ “Bộ Kế hoạch và Đầu tư” bằng cụm từ “Bộ Tài chính” tại Điều 34, Điều 35, Điều 36, Điều 41;"
+   },
+   {
+    "source_path": "Điều 43 Khoản 4 điểm c",
+    "action": "bai-bo",
+    "target_document": "69/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm c khoản 2 Điều 15",
+     "điểm b khoản 3 Điều 15",
+     "khoản 2 Điều 29",
+     "khoản 3 Điều 29",
+     "khoản 2 Điều 30",
+     "khoản 3 Điều 30"
+    ],
+    "doi_tuong": "cụm từ “Công an cấp huyện nơi gần nhất”",
+    "evidence": "Bãi bỏ cụm từ “Công an cấp huyện nơi gần nhất” tại điểm c khoản 2 và điểm b khoản 3 Điều 15, khoản 2, khoản 3 Điều 29, khoản 2, khoản 3 Điều 30;"
+   },
+   {
+    "source_path": "Điều 43 Khoản 4 điểm c",
+    "action": "bai-bo",
+    "target_document": "69/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm d khoản 2 Điều 15",
+     "điểm đ khoản 2 Điều 15",
+     "điểm c khoản 3 Điều 15",
+     "điểm d khoản 3 Điều 15",
+     "khoản 4 Điều 29",
+     "khoản 5 Điều 29",
+     "khoản 4 Điều 30",
+     "khoản 5 Điều 30"
+    ],
+    "doi_tuong": "cụm từ “Công an cấp huyện”",
+    "evidence": "bỏ cụm từ “Công an cấp huyện” tại điểm d, điểm đ khoản 2 và điểm c, điểm d khoản 3 Điều 15, khoản 4, khoản 5 Điều 29 và khoản 4, khoản 5 Điều 30;"
+   },
+   {
+    "source_path": "Điều 43 Khoản 4 điểm d",
+    "action": "bai-bo",
+    "target_document": "69/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 4 Điều 23"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ khoản 4 Điều 23."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tác động duy nhất: Điều 43 sửa đổi, bổ sung, thay cụm từ, bãi bỏ ở Nghị định 69/2024/NĐ-CP. Câu dẫn Khoản 1 và Khoản 4 Điều 43 chỉ dẫn vào các điểm; quan hệ ghi ở từng điểm. Tên văn bản, lời dẫn không nêu văn bản đích. Các câu 'kiến nghị, đề xuất sửa đổi, bổ sung' ở Điều 40–42 là nhiệm vụ, không ghi. Phụ lục là mẫu biểu, không có tác động."
+ }
+]

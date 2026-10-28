@@ -1,0 +1,43 @@
+[
+ {
+  "doc_id": "665071",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "05/2023/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 05/2023/QĐ-UBND ngày 30 tháng 3 năm 2023 của Ủy ban nhân dân tỉnh Tuyên Quang, Quyết định số 1688/QĐ-UBND ngày 16 tháng 8 năm 2021 của Ủy ban nhân dân tỉnh Hà Giang hết hiệu lực kể từ ngày Quyết định này có hiệu lực thi hành."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "1688/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 05/2023/QĐ-UBND ngày 30 tháng 3 năm 2023 của Ủy ban nhân dân tỉnh Tuyên Quang, Quyết định số 1688/QĐ-UBND ngày 16 tháng 8 năm 2021 của Ủy ban nhân dân tỉnh Hà Giang hết hiệu lực kể từ ngày Quyết định này có hiệu lực thi hành."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 2 tuyên bố 2 quyết định hết hiệu lực. Quy chế kèm theo chỉ có từ hành động mang nghĩa nghiệp vụ, không tác động lên văn bản khác."
+ },
+ {
+  "doc_id": "667447",
+  "relations": [
+   {
+    "source_path": "Điều 3",
+    "action": "thay-the",
+    "target_document": "2542/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực kể từ ngày ký và thay thế Quyết định số 2542/QĐ-UBND ngày 28/11/2024 của Ủy ban nhân dân tỉnh Sơn La về việc phê duyệt Kế hoạch Chuyển đổi số tỉnh Sơn La năm 2025"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Thay thế Quyết định 2542/QĐ-UBND. Kế hoạch và phụ lục không có tác động."
+ }
+]

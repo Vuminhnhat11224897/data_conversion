@@ -1,0 +1,147 @@
+[
+ {
+  "doc_id": "657058",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn hướng dẫn bổ sung, tiếp theo các Công văn 13749/BTC-NSNN, 2454/BTC-QLCS, 4891/BTC-QLCS: không sửa đổi, thay thế các công văn đó; không ghi quan hệ."
+ },
+ {
+  "doc_id": "657100",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Kế hoạch thực hiện chương trình; không có tác động trực tiếp."
+ },
+ {
+  "doc_id": "657168",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Chấp thuận chủ trương đầu tư điều chỉnh dự án; Điều 2 chỉ nêu Giấy chứng nhận đăng ký đầu tư (không phải văn bản có số hiệu): không ghi quan hệ."
+ },
+ {
+  "doc_id": "657211",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Giao nhiệm vụ lập phương án theo khoản 1 Điều 2 NĐ 03/2025/NĐ-CP: không phải tác động trực tiếp."
+ },
+ {
+  "doc_id": "657221",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Phê duyệt danh mục sách giáo khoa; không có tác động lên văn bản khác."
+ },
+ {
+  "doc_id": "657231",
+  "relations": [
+   {
+    "source_path": "Điều 1",
+    "action": "bo-sung",
+    "target_document": "46/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Danh mục công trình, dự án thực hiện năm 2025 phải chuyển mục đích sử dụng đất có diện tích đất trồng lúa, đất rừng phòng hộ, đất rừng sản xuất trên địa bàn tỉnh Tiền Giang",
+    "evidence": "Bổ sung, điều chỉnh Danh mục công trình, dự án thực hiện năm 2025 phải chuyển mục đích sử dụng đất có diện tích đất trồng lúa, đất rừng phòng hộ, đất rừng sản xuất trên địa bàn tỉnh Tiền Giang ban hành kèm theo Nghị quyết số 46/NQ-HĐND ngày 09 tháng 12 năm 2024 của Hội đồng nhân dân tỉnh, như sau:"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "sua-doi",
+    "target_document": "46/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Danh mục công trình, dự án thực hiện năm 2025 phải chuyển mục đích sử dụng đất có diện tích đất trồng lúa, đất rừng phòng hộ, đất rừng sản xuất trên địa bàn tỉnh Tiền Giang",
+    "evidence": "Bổ sung, điều chỉnh Danh mục công trình, dự án thực hiện năm 2025 phải chuyển mục đích sử dụng đất có diện tích đất trồng lúa, đất rừng phòng hộ, đất rừng sản xuất trên địa bàn tỉnh Tiền Giang ban hành kèm theo Nghị quyết số 46/NQ-HĐND ngày 09 tháng 12 năm 2024 của Hội đồng nhân dân tỉnh, như sau:"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Câu dẫn Điều 1 ('Bổ sung, điều chỉnh Danh mục ... ban hành kèm theo Nghị quyết số 46/NQ-HĐND') bị parser đặt vào ten_dieu của các khoản; 'điều chỉnh' ghi là sua-doi. Ghi chú 'có trong NQ số 44/NQ-HĐND' ở Phụ lục II chỉ là dẫn chiếu."
+ },
+ {
+  "doc_id": "657254",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn truyền đạt ý kiến Thủ tướng, giao nhiệm vụ; không có tác động."
+ },
+ {
+  "doc_id": "657366",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Kết luận nêu nhiệm vụ; 'sửa đổi, bổ sung Hiến pháp' chỉ là nhiệm vụ/dự thảo: không ghi quan hệ."
+ },
+ {
+  "doc_id": "657419",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn truyền đạt ý kiến chỉ đạo; không có tác động."
+ },
+ {
+  "doc_id": "657487",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Kế hoạch thực hiện QĐ 755/QĐ-TTg: chỉ triển khai, không phải quan hệ."
+ },
+ {
+  "doc_id": "657571",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Câu về TT 52/2024/TT-BYT thay thế TT 41/2018/TT-BYT, TT 26/2021/TT-BYT là kể lại; công văn không tự tác động."
+ },
+ {
+  "doc_id": "657606",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Kế hoạch triển khai; 'văn bản thay thế Thông tư số 46/2018/TT-BYT' chỉ là dẫn chiếu."
+ },
+ {
+  "doc_id": "657774",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn trả lời chính sách thuế; chỉ trích dẫn."
+ },
+ {
+  "doc_id": "657790",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Kế hoạch tổ chức kỳ thi; không có tác động."
+ },
+ {
+  "doc_id": "657916",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Thông qua danh mục dự án thu hồi đất; không có tác động lên văn bản khác."
+ },
+ {
+  "doc_id": "658034",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn trả lời chính sách thuế; chỉ trích dẫn."
+ },
+ {
+  "doc_id": "658157",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 1 điều chỉnh, bổ sung kế hoạch đầu tư công năm 2025 nhưng câu, tên văn bản không nêu số hiệu văn bản đích (QĐ 4365/QĐ-UBND, 590/QĐ-UBND chỉ ở căn cứ): không ghi quan hệ."
+ },
+ {
+  "doc_id": "658174",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Thành lập Ủy ban dự thảo sửa đổi Hiến pháp; không tự sửa đổi văn bản nào."
+ },
+ {
+  "doc_id": "658258",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Thông tư không sửa đổi, thay thế văn bản nào; Điều 4 khoản 2 là câu chung về văn bản dẫn chiếu."
+ },
+ {
+  "doc_id": "658292",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quy định 'hướng dẫn áp dụng cơ chế, chính sách' nhưng tên và câu không nêu văn bản đích cụ thể: không ghi quan hệ huong-dan."
+ },
+ {
+  "doc_id": "658300",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Thông qua danh mục công trình thu hồi đất bổ sung; không có tác động lên văn bản khác."
+ }
+]

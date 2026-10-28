@@ -1,0 +1,20 @@
+[
+ {
+  "doc_id": "663139",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quyết định phê duyệt Phương án; không có tác động lên văn bản khác. Câu 'UBND thành phố sẽ xem xét bổ sung, điều chỉnh' là dự kiến, không phải hành động."
+ },
+ {
+  "doc_id": "663348",
+  "relations": [],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 1 Khoản 5 điểm d",
+    "loai": "gop_sai",
+    "ghi_chu": "Mục 'II. Các giải pháp chính...' (các giải pháp 1., 2.1, 2.2...) bị gộp vào điểm d khoản 5 Điều 1."
+   }
+  ],
+  "ghi_chu": "Quyết định phê duyệt Chương trình phát triển nhà ở; không thay thế, sửa đổi, bãi bỏ văn bản nào. 'Rà soát, đề xuất sửa đổi' là nhiệm vụ."
+ }
+]

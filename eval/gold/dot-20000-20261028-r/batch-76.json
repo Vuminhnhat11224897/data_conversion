@@ -1,0 +1,43 @@
+[
+ {
+  "doc_id": "677072",
+  "relations": [
+   {
+    "source_path": "Mục V",
+    "action": "thay-the",
+    "target_document": "1413/KH-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Kế hoạch này có hiệu lực thi hành kể từ ngày ký và thay thế Kế hoạch số 1413/KH-UBND ngày 03 tháng 3 năm 2025 của Ủy ban nhân dân Thành phố"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Mục III 3.1 'đề xuất sửa đổi, bổ sung các văn bản pháp luật' là nhiệm vụ, không phải quan hệ."
+ },
+ {
+  "doc_id": "678867",
+  "relations": [
+   {
+    "source_path": "Điều 5 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "18/2025/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 18/2025/QĐ-UBND ngày 27 tháng 02 năm 2025 của Ủy ban nhân dân tỉnh Bình Định"
+   },
+   {
+    "source_path": "Điều 5 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "22/2025/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 22/2025/QĐ-UBND ngày 10 tháng 3 năm 2025 của Ủy ban nhân dân tỉnh Gia Lai quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Sở Văn hóa, Thể thao và Du lịch tỉnh Gia Lai hết hiệu lực kể từ ngày Quyết định này có hiệu lực thi hành."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Khoản 2 Điều 5 tuyên bố 2 quyết định hết hiệu lực. Các đơn vị khác là nhiệm vụ của Sở."
+ }
+]

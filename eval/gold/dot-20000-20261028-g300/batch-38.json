@@ -1,0 +1,319 @@
+[
+ {
+  "doc_id": "662869",
+  "relations": [
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bai-bo",
+    "target_document": "01/2020/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị quyết số 01/2020/NQ-HĐND ngày 10 tháng 7 năm 2020 của Hội đồng nhân dân tỉnh quy định về việc giao thẩm quyền quyết định chủ trương đầu tư dự án nhóm C."
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "20/2024/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị quyết số 20/2024/NQ-HĐND ngày 09 tháng 12 năm 2024 của Hội đồng nhân dân tỉnh phân cấp thẩm quyền phê duyệt Đề án cho thuê quyền khai thác, thu hồi, điều chuyển, bán, thanh lý, xử lý tài sản kết cấu hạ tầng thủy lợi thuộc phạm vi quản lý của tỉnh Tiền Giang."
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "bai-bo",
+    "target_document": "34/2017/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị quyết số 34/2017/NQ-HĐND ngày 08 tháng 12 năm 2017 của Hội đồng nhân dân tỉnh quy định mức trích từ các khoản thu hồi, phát hiện qua công tác thanh tra đã thực nộp vào ngân sách nhà nước trên địa bàn tỉnh Tiền Giang."
+   },
+   {
+    "source_path": "Điều 1 Khoản 4",
+    "action": "bai-bo",
+    "target_document": "22/2011/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị quyết số 22/2011/NQ-HĐND ngày 15 tháng 12 năm 2011 của Hội đồng nhân dân tỉnh về việc thông qua đề án thành lập phường Long Chánh, phường Long Thuận, phường Long Hòa, phường Long Hưng thuộc thị xã Gò Công."
+   },
+   {
+    "source_path": "Điều 1 Khoản 5",
+    "action": "bai-bo",
+    "target_document": "04/2024/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị quyết số 04/2024/NQ-HĐND ngày 19 tháng 7 năm 2024 của Hội đồng nhân dân tỉnh quy định chính sách hỗ trợ thôi việc đối với cán bộ, công chức, viên chức, người lao động, người hoạt động không chuyên trách dôi dư do sắp xếp đơn vị hành chính cấp xã trên địa bàn tỉnh Tiền Giang, giai đoạn 2023 - 2025."
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "loai": "thieu_noi_dung",
+    "ghi_chu": "Khoản 1, 3, 4 Điều 1 (mỗi khoản nêu một nghị quyết bị bãi bỏ) không có trong don_vi."
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "loai": "thieu_noi_dung",
+    "ghi_chu": "Khoản 2 và 5 thiếu cau_dan 'Bãi bỏ toàn bộ 05 nghị quyết sau đây:'."
+   }
+  ],
+  "ghi_chu": "Điều 1 bãi bỏ toàn bộ 05 nghị quyết, mỗi khoản một nghị quyết; quan hệ ghi theo khoản. Tên văn bản không nêu số hiệu đích."
+ },
+ {
+  "doc_id": "663867",
+  "relations": [
+   {
+    "source_path": "Điều 2 Khoản 1",
+    "action": "thay-the",
+    "target_document": "10/QĐ-CHQ",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực thi hành kể từ ngày 01 tháng 7 năm 2025 và thay thế Quyết định số 10/QĐ-CHQ ngày 05 tháng 3 năm 2025 của Cục trưởng Cục Hải quan về việc quy định Văn phòng, Phòng, Đội và Hải quan cửa khẩu/ngoài cửa khẩu thuộc Chi cục Hải quan khu vực."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Thay thế Quyết định 10/QĐ-CHQ."
+ },
+ {
+  "doc_id": "663945",
+  "relations": [
+   {
+    "source_path": "Điều 2 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "18/2013/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 18/2013/QĐ-UBND ngày 23/8/2013 của Ủy ban nhân dân tỉnh Hòa Bình ban hành quy định về dạy thêm, học thêm trên địa bàn tỉnh Hòa Bình, Quyết định số 06/2014/QĐ-UBND ngày 11/3/2014 của Ủy ban nhân dân tỉnh Hòa Bình về việc sửa đổi Điều 7 của Quy định về dạy thêm, học thêm trên địa bàn tỉnh Hòa Bình ban hành kèm theo Quyết định số 18/2013/QĐ-UBND ngày 23/8/2013 của Ủy ban nhân dân tỉnh Hòa Bình hết hiệu lực kể từ ngày Quyết định này có hiệu lực."
+   },
+   {
+    "source_path": "Điều 2 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "06/2014/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 18/2013/QĐ-UBND ngày 23/8/2013 của Ủy ban nhân dân tỉnh Hòa Bình ban hành quy định về dạy thêm, học thêm trên địa bàn tỉnh Hòa Bình, Quyết định số 06/2014/QĐ-UBND ngày 11/3/2014 của Ủy ban nhân dân tỉnh Hòa Bình về việc sửa đổi Điều 7 của Quy định về dạy thêm, học thêm trên địa bàn tỉnh Hòa Bình ban hành kèm theo Quyết định số 18/2013/QĐ-UBND ngày 23/8/2013 của Ủy ban nhân dân tỉnh Hòa Bình hết hiệu lực kể từ ngày Quyết định này có hiệu lực."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Khoản 2 Điều 2 tuyên bố 2 quyết định hết hiệu lực. Quy định kèm theo không tác động lên văn bản khác."
+ },
+ {
+  "doc_id": "663947",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "bai-bo",
+    "target_document": "72/2024/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "BÃI BỎ NGHỊ QUYẾT SỐ 72/2024/NQ-HĐND NGÀY 11/7/2024 CỦA HỘI ĐỒNG NHÂN DÂN TỈNH QUY ĐỊNH CHÍNH SÁCH HỖ TRỢ CÁN BỘ, CÔNG CHỨC, NGƯỜI HOẠT ĐỘNG KHÔNG CHUYÊN TRÁCH CẤP XÃ VÀ VIÊN CHỨC TRONG CÁC ĐƠN VỊ SỰ NGHIỆP CÔNG LẬP THÔI VIỆC DO DÔI DƯ KHI SẮP XẾP ĐƠN VỊ HÀNH CHÍNH CẤP XÃ TRÊN ĐỊA BÀN TỈNH QUẢNG BÌNH"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bai-bo",
+    "target_document": "72/2024/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ Nghị quyết số 72/2024/NQ-HĐND ngày 11 tháng 7 năm 2024 của Hội đồng nhân dân tỉnh Quy định chính sách hỗ trợ cán bộ, công chức, người hoạt động không chuyên trách cấp xã và viên chức trong các đơn vị sự nghiệp công lập thôi việc do dôi dư khi sắp xếp đơn vị hành chính cấp xã trên địa bàn tỉnh Quảng Bình."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên văn bản và lời dẫn bãi bỏ Nghị quyết 72/2024/NQ-HĐND; Điều 1 bãi bỏ toàn bộ nghị quyết đó."
+ },
+ {
+  "doc_id": "664342",
+  "relations": [
+   {
+    "source_path": "Điều 3 Khoản 1",
+    "action": "bai-bo",
+    "target_document": "1588/QĐ-TTg",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực thi hành kể từ ngày ký ban hành; bãi bỏ Quyết định số 1588/QĐ-TTg ngày 14 tháng 9 năm 2015 của Thủ tướng Chính phủ về việc thành lập Ban Quản lý Khu kinh tế Phú Quốc, tỉnh Kiên Giang."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Bãi bỏ Quyết định 1588/QĐ-TTg. Thành lập Ban Quản lý trên cơ sở tổ chức lại không phải quan hệ văn bản."
+ },
+ {
+  "doc_id": "664632",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "huong-dan",
+    "target_document": "761/QĐ-BXD",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Quy chế quản lý việc nghỉ hằng năm, nghỉ ốm đau, nghỉ thai sản, nghỉ do tai nạn lao động, nghỉ do bệnh nghề nghiệp, nghỉ việc riêng không hưởng lương; ra nước ngoài giải quyết việc riêng",
+    "evidence": "Thực hiện Quyết định số 761/QĐ-BXD ngày 05/6/2025 và Quyết định số 774/QĐ-BXD ngày 09/6/2025 của Bộ trưởng Bộ Xây dựng về việc ban hành Quy chế quản lý việc nghỉ hằng năm, nghỉ ốm đau, nghỉ thai sản, nghỉ do tai nạn lao động, nghỉ do bệnh nghề nghiệp, nghỉ việc riêng không hưởng lương; ra nước ngoài giải quyết việc riêng đối với công chức, viên chức, người lao động thuộc Bộ Xây dựng.\n\nCục Hàng không Việt Nam (Cục HKVN) hướng dẫn thực hiện quy định trên đối với công chức, viên chức, người lao động tại các cơ quan, đơn vị thuộc Cục HKVN như sau:"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "huong-dan",
+    "target_document": "774/QĐ-BXD",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Quy chế quản lý việc nghỉ hằng năm, nghỉ ốm đau, nghỉ thai sản, nghỉ do tai nạn lao động, nghỉ do bệnh nghề nghiệp, nghỉ việc riêng không hưởng lương; ra nước ngoài giải quyết việc riêng",
+    "evidence": "Thực hiện Quyết định số 761/QĐ-BXD ngày 05/6/2025 và Quyết định số 774/QĐ-BXD ngày 09/6/2025 của Bộ trưởng Bộ Xây dựng về việc ban hành Quy chế quản lý việc nghỉ hằng năm, nghỉ ốm đau, nghỉ thai sản, nghỉ do tai nạn lao động, nghỉ do bệnh nghề nghiệp, nghỉ việc riêng không hưởng lương; ra nước ngoài giải quyết việc riêng đối với công chức, viên chức, người lao động thuộc Bộ Xây dựng.\n\nCục Hàng không Việt Nam (Cục HKVN) hướng dẫn thực hiện quy định trên đối với công chức, viên chức, người lao động tại các cơ quan, đơn vị thuộc Cục HKVN như sau:"
+   },
+   {
+    "source_path": "Mục 5",
+    "action": "thay-the",
+    "target_document": "2511/HD-CHK",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Văn bản này thay thế Hướng dẫn số 2511/HD-CHK ngày 23/6/2016 của Cục trưởng Cục HKVN."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Hướng dẫn của Cục HKVN hướng dẫn thực hiện Quy chế do Quyết định 761/QĐ-BXD và 774/QĐ-BXD ban hành (câu 'hướng dẫn thực hiện quy định trên' ở phần đầu). Mục 5.6 thay thế Hướng dẫn 2511/HD-CHK; unit 'Mục 5' gộp các mục 5.1-5.6. Mục 5.3 là câu chung, không là quan hệ. loi_dan trùng toàn bộ phan_dau."
+ },
+ {
+  "doc_id": "664713",
+  "relations": [
+   {
+    "source_path": "Điều 4",
+    "action": "thay-the",
+    "target_document": "43/2020/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực kể từ ngày 27 tháng 6 năm và thay thế Quyết định số 43/2020/QĐ-UBND ngày 26 tháng 10 năm 2020 của Ủy ban nhân dân tỉnh Ninh Thuận ban hành Khung giá dịch vụ quản lý vận hành nhà chung cư trên địa bàn tỉnh Ninh Thuận."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Thay thế Quyết định 43/2020/QĐ-UBND."
+ },
+ {
+  "doc_id": "664717",
+  "relations": [
+   {
+    "source_path": "Điều 6 Khoản 1",
+    "action": "thay-the",
+    "target_document": "03/2011/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực kể từ ngày 30 tháng 6 năm 2025 và thay thế Quyết định số 03/2011/QĐ-UBND ngày 04 tháng 3 năm 2011 của Uỷ ban nhân dân tỉnh Đồng Tháp quy định về hoạt động vận tải đường bộ trong đô thị và tỷ lệ phương tiện vận tải hành khách bằng xe buýt đáp ứng nhu cầu đi lại của người khuyết tật trên địa bàn tỉnh Đồng Tháp."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Thay thế Quyết định 03/2011/QĐ-UBND."
+ },
+ {
+  "doc_id": "666454",
+  "relations": [
+   {
+    "source_path": "Điều 4 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "1969/QĐ-BYT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 1969/QĐ-BYT ngày 26 tháng 4 năm 2023 của Bộ trưởng Bộ Y tế quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Cục Quản lý Dược thuộc Bộ Y tế hết hiệu lực kể từ ngày Quyết định này có hiệu lực."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tuyên bố Quyết định 1969/QĐ-BYT hết hiệu lực. Các từ 'gia hạn', 'đình chỉ', 'sửa đổi, bổ sung' trong Điều 2 là nhiệm vụ của Cục, không là quan hệ."
+ },
+ {
+  "doc_id": "666499",
+  "relations": [
+   {
+    "source_path": "Điều 3 Khoản 2",
+    "action": "thay-the",
+    "target_document": "07/2021/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị quyết này thay thế Nghị quyết số 07/2021/NQ-HĐND ngày 09 tháng 12 năm 2021 của Hội đồng nhân dân tỉnh Điện Biên ban hành Quy định phân cấp nguồn thu, nhiệm vụ chi và tỷ lệ phần trăm (%) phân chia các khoản thu giữa các cấp ngân sách địa phương năm 2022 và thời kỳ ổn định ngân sách 2022-2025 tỉnh Điện Biên và Nghị quyết số 17/2022/NQ-HĐND ngày 14 tháng 11 năm 2022 của Hội đồng nhân dân tỉnh Điện Biên sửa đổi, bổ sung một số điều của Quy định phân cấp nguồn thu, nhiệm vụ chi và tỷ lệ phần trăm (%) phân chia các khoản thu giữa các cấp ngân sách địa phương năm 2022 và thời kỳ ổn định ngân sách 2022-2025 ban hành kèm theo Nghị quyết số 07/2021/NQ-HĐND ngày 09 tháng 12 năm 2021 của Hội đồng nhân dân tỉnh."
+   },
+   {
+    "source_path": "Điều 3 Khoản 2",
+    "action": "thay-the",
+    "target_document": "17/2022/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị quyết này thay thế Nghị quyết số 07/2021/NQ-HĐND ngày 09 tháng 12 năm 2021 của Hội đồng nhân dân tỉnh Điện Biên ban hành Quy định phân cấp nguồn thu, nhiệm vụ chi và tỷ lệ phần trăm (%) phân chia các khoản thu giữa các cấp ngân sách địa phương năm 2022 và thời kỳ ổn định ngân sách 2022-2025 tỉnh Điện Biên và Nghị quyết số 17/2022/NQ-HĐND ngày 14 tháng 11 năm 2022 của Hội đồng nhân dân tỉnh Điện Biên sửa đổi, bổ sung một số điều của Quy định phân cấp nguồn thu, nhiệm vụ chi và tỷ lệ phần trăm (%) phân chia các khoản thu giữa các cấp ngân sách địa phương năm 2022 và thời kỳ ổn định ngân sách 2022-2025 ban hành kèm theo Nghị quyết số 07/2021/NQ-HĐND ngày 09 tháng 12 năm 2021 của Hội đồng nhân dân tỉnh."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Thay thế Nghị quyết 07/2021/NQ-HĐND và 17/2022/NQ-HĐND. Quy định kèm theo không có tác động lên văn bản khác."
+ },
+ {
+  "doc_id": "666748",
+  "relations": [
+   {
+    "source_path": "Điều 2 Khoản 1",
+    "action": "thay-the",
+    "target_document": "27/2023/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 27/2023/QĐ-UBND ngày 08 tháng 6 năm 2023 của Ủy ban nhân dân tỉnh Đồng Nai (cũ) về việc ban hành Quy chế tổ chức và hoạt động của Ban Quản lý dự án đầu tư xây dựng tỉnh Đồng Nai."
+   },
+   {
+    "source_path": "Điều 2 Khoản 2",
+    "action": "thay-the",
+    "target_document": "34/2023/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 34/2023/QĐ-UBND ngày 23 tháng 8 năm 2023 của Ủy ban nhân dân tỉnh Đồng Nai (cũ) về việc ban hành Quy chế về chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Ban Quản lý dự án đầu tư xây dựng công trình giao thông tỉnh Đồng Nai."
+   },
+   {
+    "source_path": "Điều 2 Khoản 3",
+    "action": "thay-the",
+    "target_document": "15/2023/UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 15/2023/UBND ngày 28 tháng 02 năm 2023 của Ủy ban nhân dân tỉnh Bình Phước (cũ) ban hành Quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Ban Quản lý dự án đầu tư xây dựng Bình Phước."
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 2",
+    "loai": "thieu_noi_dung",
+    "ghi_chu": "don_vi 'Điều 2' chỉ có câu dẫn 'thay thế các Quyết định sau:'; 3 khoản liệt kê quyết định bị thay thế không có trong don_vi."
+   }
+  ],
+  "ghi_chu": "Điều 2 thay thế 3 quyết định liệt kê ở khoản 1-3 (ghi theo khoản; số hiệu thứ 3 ghi đúng như văn bản: '15/2023/UBND', thiếu 'QĐ-'). Điều 16 Quy định ('Việc sửa đổi, bổ sung') không là quan hệ."
+ },
+ {
+  "doc_id": "667330",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "bai-bo",
+    "target_document": "2962/BNN-XD",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "VỀ VIỆC BÃI BỎ QUYẾT ĐỊNH SỐ 2962/BNN-XD NGÀY 06/7/2021 CỦA BỘ TRƯỞNG BỘ NÔNG NGHIỆP VÀ PHÁT TRIỂN NÔNG THÔN VỀ BAN HÀNH ĐỊNH MỨC XÂY DỰNG CHUYÊN NGÀNH NÔNG NGHIỆP VÀ PHÁT TRIỂN NÔNG THÔN"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bai-bo",
+    "target_document": "2962/BNN-XD",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ Quyết định số 2962/BNN-XD ngày 06/7/2021 của Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn (nay là Bộ Nông nghiệp và Môi trường) về ban hành định mức xây dựng chuyên ngành Nông nghiệp và Phát triển nông thôn."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên văn bản và Điều 1 bãi bỏ Quyết định 2962/BNN-XD."
+ }
+]

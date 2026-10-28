@@ -1,0 +1,52 @@
+[
+ {
+  "doc_id": "665079",
+  "relations": [
+   {
+    "source_path": "Điều 6 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "12/2025/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này bãi bỏ Quyết định số 12/2025/QĐ-UBND ngày 24/02/2025 của Ủy ban nhân dân tỉnh Quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Sở Tài chính tỉnh Tuyên Quang; Quyết định số 15/2025/QĐ-UBND ngày 25/02/2025 của Ủy ban nhân dân tỉnh Hà Giang quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Sở Tài chính tỉnh Hà Giang."
+   },
+   {
+    "source_path": "Điều 6 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "15/2025/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này bãi bỏ Quyết định số 12/2025/QĐ-UBND ngày 24/02/2025 của Ủy ban nhân dân tỉnh Quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Sở Tài chính tỉnh Tuyên Quang; Quyết định số 15/2025/QĐ-UBND ngày 25/02/2025 của Ủy ban nhân dân tỉnh Hà Giang quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Sở Tài chính tỉnh Hà Giang."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "15/2025/QĐ-UBND là quyết định của UBND tỉnh Hà Giang. Các câu 'tham mưu sửa đổi, bổ sung…' ở Điều 3 là nhiệm vụ, không ghi."
+ },
+ {
+  "doc_id": "665154",
+  "relations": [
+   {
+    "source_path": "Điều 3 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "39/2021/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ Quyết định số 39/2021/QĐ-UBND ngày 20/8/2021 của Ủy ban nhân dân tỉnh Quảng Ngãi ban hành Quy chế làm việc của UBND tỉnh Quảng Ngãi nhiệm kỳ 2021 - 2026 và Quyết định số 54/2023/QĐ-UBND ngày 04/10/2023 của UBND tỉnh Kon Tum ban hành Quy chế làm việc của Ủy ban nhân dân tỉnh Kon Tum nhiệm kỳ 2021 - 2026."
+   },
+   {
+    "source_path": "Điều 3 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "54/2023/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ Quyết định số 39/2021/QĐ-UBND ngày 20/8/2021 của Ủy ban nhân dân tỉnh Quảng Ngãi ban hành Quy chế làm việc của UBND tỉnh Quảng Ngãi nhiệm kỳ 2021 - 2026 và Quyết định số 54/2023/QĐ-UBND ngày 04/10/2023 của UBND tỉnh Kon Tum ban hành Quy chế làm việc của Ủy ban nhân dân tỉnh Kon Tum nhiệm kỳ 2021 - 2026."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "54/2023/QĐ-UBND là quyết định của UBND tỉnh Kon Tum. Điều 2 khoản 1 ('bổ sung Quy chế làm việc của cơ quan, đơn vị mình') là giao nhiệm vụ; các câu đề xuất, đình chỉ, bãi bỏ văn bản trái pháp luật trong Quy chế là thẩm quyền: không ghi."
+ }
+]

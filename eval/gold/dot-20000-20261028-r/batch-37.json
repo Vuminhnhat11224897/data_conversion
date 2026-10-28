@@ -1,0 +1,93 @@
+[
+ {
+  "doc_id": "662840",
+  "relations": [
+   {
+    "source_path": "Điều 5 Khoản 2 điểm a",
+    "action": "bai-bo",
+    "target_document": "17/2012/TT-BYT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Các văn bản sau đây hết hiệu lực kể từ ngày Thông tư này có hiệu lực thi hành:"
+   },
+   {
+    "source_path": "Điều 5 Khoản 2 điểm b",
+    "action": "bai-bo",
+    "target_document": "34/2015/TT-BYT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Các văn bản sau đây hết hiệu lực kể từ ngày Thông tư này có hiệu lực thi hành:"
+   },
+   {
+    "source_path": "Điều 5 Khoản 2 điểm c",
+    "action": "bai-bo",
+    "target_document": "27/2019/TT-BYT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Các văn bản sau đây hết hiệu lực kể từ ngày Thông tư này có hiệu lực thi hành:"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 5 khoản 2 tuyên bố 3 Thông tư hết hiệu lực (ghi bai-bo ở từng điểm). Điều 6 khoản 1 là chuyển tiếp, viện dẫn Phụ lục 5 TT 56/2017 và Phụ lục 01a TT 34/2015: không phải quan hệ."
+ },
+ {
+  "doc_id": "662864",
+  "relations": [
+   {
+    "source_path": "Điều 4 Khoản 3",
+    "action": "thay-the",
+    "target_document": "151/2021/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị quyết này thay thế Nghị quyết số 151/2021/NQ-HĐND ngày 09/12/2021 của Hội đồng nhân dân tỉnh Quảng Trị về phân cấp nguồn thu, nhiệm vụ chi và tỷ lệ phần trăm (%) phân chia các khoản thu giữa các cấp ngân sách trên địa bàn tỉnh Quảng Trị giai đoạn 2022-2025."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": ""
+ },
+ {
+  "doc_id": "663112",
+  "relations": [
+   {
+    "source_path": "Điều 3 Khoản 2",
+    "action": "thay-the",
+    "target_document": "38/2021/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này thay thế Quyết định số 38/2021/QĐ-UBND ngày"
+   },
+   {
+    "source_path": "Điều 3 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "32/2022/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "bãi bỏ Quyết định số 32/2022/QĐ- UBND ngày 01/8/2022 của Ủy ban nhân dân tỉnh về việc quy định chức năng, nhiệm vụ, quyền hạn của Sở Lao động - Thương binh và Xã hội."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Các 'hướng dẫn', 'tạm đình chỉ' trong Điều 2 là nhiệm vụ, quyền hạn của Sở, không phải quan hệ."
+ },
+ {
+  "doc_id": "663181",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "28/2019/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2025 và thay thế Quyết định số 28/2019/QĐ-UBND ngày 26/9/2019 của UBND tỉnh quy định quy trình thực hiện cơ chế một cửa liên thông trong giải quyết các thủ tục cấp điện qua lưới điện trung áp trên địa bàn tỉnh Thanh Hóa."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quy định kèm theo (Phụ lục 1) và Phụ lục 2-3 không có tác động lên văn bản khác."
+ }
+]

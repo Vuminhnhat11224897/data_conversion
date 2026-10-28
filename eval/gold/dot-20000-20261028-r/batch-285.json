@@ -1,0 +1,130 @@
+[
+ {
+  "doc_id": "664156",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Kế hoạch thực hiện NQ 57-NQ/TW; không có tác động lên văn bản khác."
+ },
+ {
+  "doc_id": "664162",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Phê duyệt vị trí việc làm; Điều 4 'Các Quyết định của UBND tỉnh trước đây trái với Quyết định này bị bãi bỏ' là câu chung, không nêu văn bản, không ghi quan hệ."
+ },
+ {
+  "doc_id": "664221",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Kết luận của Ban Chấp hành Trung ương (văn bản Đảng) giao nhiệm vụ; không có tác động."
+ },
+ {
+  "doc_id": "664232",
+  "relations": [
+   {
+    "source_path": "Mục V",
+    "action": "thay-the",
+    "target_document": "397/KH-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "(Kế hoạch này thay thế Kế hoạch số 397/KH-UBND ngày 20/6/2022 về việc triển khai Chương trình hành động quốc gia về người cao tuổi trên địa bàn tỉnh Nghệ An, giai đoạn 2022- 2025, định hướng đến năm 2030)."
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Mục V",
+    "loai": "thieu_noi_dung",
+    "ghi_chu": "Câu cuối '(Kế hoạch này thay thế Kế hoạch số 397/KH-UBND...)' sau Mục V không có trong don_vi."
+   }
+  ],
+  "ghi_chu": "Câu thay thế nằm ở cuối thân Kế hoạch, sau Mục V (phần cuối), không thuộc đề mục riêng; source_path ghi Mục V."
+ },
+ {
+  "doc_id": "664271",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Phê duyệt kế hoạch sử dụng đất; không có tác động lên văn bản khác."
+ },
+ {
+  "doc_id": "664448",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Sửa đổi, bổ sung 2 và bãi bỏ 4 TTHC nội bộ, nhưng Điều 1 và các dòng danh mục không nêu Quyết định đã công bố các TTHC đó (QĐ 847/QĐ-UBND, 363/QĐ-UBND chỉ ở phần căn cứ/thực hiện). Theo quy tắc không ghi quan hệ."
+ },
+ {
+  "doc_id": "664638",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Thành lập Sở trên cơ sở hợp nhất; không có tác động lên văn bản."
+ },
+ {
+  "doc_id": "664691",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Thành lập Sở trên cơ sở hợp nhất; không có tác động lên văn bản."
+ },
+ {
+  "doc_id": "664766",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Ban hành Phương án điều tra; không có tác động."
+ },
+ {
+  "doc_id": "664799",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công bố mới danh mục TTHC và quy trình nội bộ; không thay thế, bãi bỏ văn bản nào."
+ },
+ {
+  "doc_id": "664909",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Đặt tên đường, công trình công cộng; không có tác động lên văn bản."
+ },
+ {
+  "doc_id": "665128",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn trả lời chính sách thuế; chỉ trích dẫn TT 86/2024/TT-BTC."
+ },
+ {
+  "doc_id": "665131",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn VPCP đôn đốc tiến độ dự án; không có tác động."
+ },
+ {
+  "doc_id": "665226",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Thông qua phương án đơn giản hóa TTHC nội bộ; 'Kiến nghị thực thi' sửa khoản 3 Điều 32 NĐ 98/2023/NĐ-CP là đề xuất."
+ },
+ {
+  "doc_id": "665367",
+  "relations": [
+   {
+    "source_path": "Điều 3",
+    "action": "thay-the",
+    "target_document": "07/2023/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "có hiệu lực từ ngày 07 tháng 7 năm 2025 và thay thế Nghị quyết số 07/2023/NQ-HĐND ngày 14 tháng 7 năm 2023 của Hội đồng nhân dân tỉnh Phú Thọ"
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 3",
+    "loai": "thieu_noi_dung",
+    "ghi_chu": "Đoạn kết 'Nghị quyết này ... có hiệu lực từ ngày 07 tháng 7 năm 2025 và thay thế Nghị quyết số 07/2023/NQ-HĐND' không có trong don_vi."
+   }
+  ],
+  "ghi_chu": "Câu thay thế nằm ở đoạn kết sau Điều 3 (không có Điều hiệu lực riêng); source_path ghi Điều 3."
+ },
+ {
+  "doc_id": "665519",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Nghị quyết dự toán ngân sách xã, phường; không có tác động."
+ }
+]

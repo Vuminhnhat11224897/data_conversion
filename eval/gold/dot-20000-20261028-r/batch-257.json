@@ -1,0 +1,2011 @@
+[
+ {
+  "doc_id": "662847",
+  "relations": [
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bai-bo",
+    "target_document": "799/2003/QĐ-UB",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 799/2003/QĐ-UB ngày 14 tháng 5 năm 2003"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "05/2004/CT-UB",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Chỉ thị số 05/2004/CT-UB ngày 06 tháng 4 năm 2004"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "bai-bo",
+    "target_document": "981/2004/QĐ-UB",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 981/2004/QĐ-UB ngày 21 tháng 6 năm 2004"
+   },
+   {
+    "source_path": "Điều 1 Khoản 4",
+    "action": "bai-bo",
+    "target_document": "12/2005/CT-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Chỉ thị số 12/2005/CT-UBND ngày 15 tháng 8 năm 2005"
+   },
+   {
+    "source_path": "Điều 1 Khoản 5",
+    "action": "bai-bo",
+    "target_document": "435/2005/QĐ-UB",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 435/2005/QĐ-UB ngày 21 tháng 3 năm 2005"
+   },
+   {
+    "source_path": "Điều 1 Khoản 6",
+    "action": "bai-bo",
+    "target_document": "18/2007/CT-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Chỉ thị số 18/2007/CT-UBND ngày 05 tháng 11 năm 2007"
+   },
+   {
+    "source_path": "Điều 1 Khoản 7",
+    "action": "bai-bo",
+    "target_document": "249/2008/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 249/2008/QĐ-UBND ngày 31 tháng 01 năm 2008"
+   },
+   {
+    "source_path": "Điều 1 Khoản 8",
+    "action": "bai-bo",
+    "target_document": "07/2009/CT-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Chỉ thị số 07/2009/CT-UBND ngày 28 tháng 4 năm 2009"
+   },
+   {
+    "source_path": "Điều 1 Khoản 9",
+    "action": "bai-bo",
+    "target_document": "13/2009/CT-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Chỉ thị số 13/2009/CT-UBND ngày 07 tháng 9 năm 2009"
+   },
+   {
+    "source_path": "Điều 1 Khoản 10",
+    "action": "bai-bo",
+    "target_document": "4040/2009/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 4040/2009/QĐ-UBND ngày 31 tháng 12 năm 2009"
+   },
+   {
+    "source_path": "Điều 1 Khoản 11",
+    "action": "bai-bo",
+    "target_document": "1352/2010/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 1352/2010/QĐ-UBND ngày 02 tháng 7 năm 2010"
+   },
+   {
+    "source_path": "Điều 1 Khoản 12",
+    "action": "bai-bo",
+    "target_document": "77/2011/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 77/2011/QĐ-UBND ngày 20 tháng 01 năm 2011"
+   },
+   {
+    "source_path": "Điều 1 Khoản 13",
+    "action": "bai-bo",
+    "target_document": "1398/2012/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 1398/2012/QĐ-UBND ngày 12 tháng 9 năm 2012"
+   },
+   {
+    "source_path": "Điều 1 Khoản 14",
+    "action": "bai-bo",
+    "target_document": "13/2013/CT-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Chỉ thị số 13/2013/CT-UBND ngày 20 tháng 6 năm 2013"
+   },
+   {
+    "source_path": "Điều 1 Khoản 15",
+    "action": "bai-bo",
+    "target_document": "2038/2013/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 2038/2013/QĐ-UBND ngày 22 tháng 11 năm 2013"
+   },
+   {
+    "source_path": "Điều 1 Khoản 16",
+    "action": "bai-bo",
+    "target_document": "09/2014/CT-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Chỉ thị số 09/2014/CT-UBND ngày 21 tháng 7 năm 2014"
+   },
+   {
+    "source_path": "Điều 1 Khoản 17",
+    "action": "bai-bo",
+    "target_document": "03/2015/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 03/2015/QĐ-UBND ngày 27 tháng 3 năm 2015"
+   },
+   {
+    "source_path": "Điều 1 Khoản 18",
+    "action": "bai-bo",
+    "target_document": "09/2015/CT-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Chỉ thị số 09/2015/CT-UBND ngày 20 tháng 7 năm 2015"
+   },
+   {
+    "source_path": "Điều 1 Khoản 19",
+    "action": "bai-bo",
+    "target_document": "12/2015/CT-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Chỉ thị số 12/2015/CT-UBND ngày 22 tháng 9 năm 2015"
+   },
+   {
+    "source_path": "Điều 1 Khoản 20",
+    "action": "bai-bo",
+    "target_document": "15/2015/CT-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Chỉ thị số 15/2015/CT-UBND ngày 11 tháng 12 năm 2015"
+   },
+   {
+    "source_path": "Điều 1 Khoản 21",
+    "action": "bai-bo",
+    "target_document": "07/2016/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 07/2016/QĐ-UBND ngày 13 tháng 5 năm 2016"
+   },
+   {
+    "source_path": "Điều 1 Khoản 22",
+    "action": "bai-bo",
+    "target_document": "10/2016/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 10/2016/QĐ-UBND ngày 26 tháng 5 năm 2016"
+   },
+   {
+    "source_path": "Điều 1 Khoản 23",
+    "action": "bai-bo",
+    "target_document": "15/2016/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 15/2016/QĐ-UBND ngày 24 tháng 6 năm 2016"
+   },
+   {
+    "source_path": "Điều 1 Khoản 24",
+    "action": "bai-bo",
+    "target_document": "16/2016/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 16/2016/QĐ-UBND ngày 30 tháng 6 năm 2016"
+   },
+   {
+    "source_path": "Điều 1 Khoản 25",
+    "action": "bai-bo",
+    "target_document": "21/2016/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 21/2016/QĐ-UBND ngày 12 tháng 8 năm 2016"
+   },
+   {
+    "source_path": "Điều 1 Khoản 26",
+    "action": "bai-bo",
+    "target_document": "27/2016/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 27/2016/QĐ-UBND ngày 07 tháng 9 năm 2016"
+   },
+   {
+    "source_path": "Điều 1 Khoản 27",
+    "action": "bai-bo",
+    "target_document": "12/2017/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 12/2017/QĐ-UBND ngày 18 tháng 5 năm 2017"
+   },
+   {
+    "source_path": "Điều 1 Khoản 28",
+    "action": "bai-bo",
+    "target_document": "29/2017/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 29/2017/QĐ-UBND ngày 04 tháng 10 năm 2017"
+   },
+   {
+    "source_path": "Điều 1 Khoản 29",
+    "action": "bai-bo",
+    "target_document": "37/2017/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 37/2017/QĐ-UBND ngày 14 tháng 12 năm 2017"
+   },
+   {
+    "source_path": "Điều 1 Khoản 30",
+    "action": "bai-bo",
+    "target_document": "43/2017/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 43/2017/QĐ-UBND ngày 25 tháng 12 năm 2017"
+   },
+   {
+    "source_path": "Điều 1 Khoản 31",
+    "action": "bai-bo",
+    "target_document": "59/2017/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 59/2017/QĐ-UBND ngày 29 tháng 12 năm 2017"
+   },
+   {
+    "source_path": "Điều 1 Khoản 32",
+    "action": "bai-bo",
+    "target_document": "61/2017/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 61/2017/QĐ-UBND ngày 29 tháng 12 năm 2017"
+   },
+   {
+    "source_path": "Điều 1 Khoản 33",
+    "action": "bai-bo",
+    "target_document": "06/2018/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 06/2018/QĐ-UBND ngày 24 tháng 4 năm 2018"
+   },
+   {
+    "source_path": "Điều 1 Khoản 34",
+    "action": "bai-bo",
+    "target_document": "10/2018/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 10/2018/QĐ-UBND ngày 28 tháng 5 năm 2018"
+   },
+   {
+    "source_path": "Điều 1 Khoản 35",
+    "action": "bai-bo",
+    "target_document": "15/2018/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 15/2018/QĐ-UBND ngày 18 tháng 7 năm 2018"
+   },
+   {
+    "source_path": "Điều 1 Khoản 36",
+    "action": "bai-bo",
+    "target_document": "16/2018/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 16/2018/QĐ-UBND ngày 20 tháng 7 năm 2018"
+   },
+   {
+    "source_path": "Điều 1 Khoản 37",
+    "action": "bai-bo",
+    "target_document": "25/2018/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 25/2018/QĐ-UBND ngày 20 tháng 8 năm 2018"
+   },
+   {
+    "source_path": "Điều 1 Khoản 38",
+    "action": "bai-bo",
+    "target_document": "26/2018/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 26/2018/QĐ-UBND ngày 20 tháng 9 năm 2018"
+   },
+   {
+    "source_path": "Điều 1 Khoản 39",
+    "action": "bai-bo",
+    "target_document": "27/2018/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 27/2018/QĐ-UBND ngày 20 tháng 9 năm 2018"
+   },
+   {
+    "source_path": "Điều 1 Khoản 40",
+    "action": "bai-bo",
+    "target_document": "30/2018/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 30/2018/QĐ-UBND ngày 28 tháng 9 năm 2018"
+   },
+   {
+    "source_path": "Điều 1 Khoản 41",
+    "action": "bai-bo",
+    "target_document": "33/2018/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 33/2018/QĐ-UBND ngày 19 tháng 11 năm 2018"
+   },
+   {
+    "source_path": "Điều 1 Khoản 42",
+    "action": "bai-bo",
+    "target_document": "34/2018/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 34/2018/QĐ-UBND ngày 19 tháng 11 năm 2018"
+   },
+   {
+    "source_path": "Điều 1 Khoản 43",
+    "action": "bai-bo",
+    "target_document": "35/2018/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 35/2018/QĐ-UBND ngày 19 tháng 11 năm 2018"
+   },
+   {
+    "source_path": "Điều 1 Khoản 44",
+    "action": "bai-bo",
+    "target_document": "37/2018/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 37/2018/QĐ-UBND ngày 29 tháng 11 năm 2018"
+   },
+   {
+    "source_path": "Điều 1 Khoản 45",
+    "action": "bai-bo",
+    "target_document": "39/2018/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 39/2018/QĐ-UBND ngày 10 tháng 12 năm 2018"
+   },
+   {
+    "source_path": "Điều 1 Khoản 46",
+    "action": "bai-bo",
+    "target_document": "43/2018/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 43/2018/QĐ-UBND ngày 27 tháng 12 năm 2018"
+   },
+   {
+    "source_path": "Điều 1 Khoản 47",
+    "action": "bai-bo",
+    "target_document": "45/2018/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 45/2018/QĐ-UBND ngày 28 tháng 12 năm 2018"
+   },
+   {
+    "source_path": "Điều 1 Khoản 48",
+    "action": "bai-bo",
+    "target_document": "46/2018/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 46/2018/QĐ-UBND ngày 28 tháng 12 năm 2018"
+   },
+   {
+    "source_path": "Điều 1 Khoản 49",
+    "action": "bai-bo",
+    "target_document": "47/2018/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 47/2018/QĐ-UBND ngày 28 tháng 12 năm 2018"
+   },
+   {
+    "source_path": "Điều 1 Khoản 50",
+    "action": "bai-bo",
+    "target_document": "15/2019/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 15/2019/QĐ-UBND ngày 30 tháng 9 năm 2019"
+   },
+   {
+    "source_path": "Điều 1 Khoản 51",
+    "action": "bai-bo",
+    "target_document": "29/2019/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 29/2019/QĐ-UBND ngày 11 tháng 12 năm 2019"
+   },
+   {
+    "source_path": "Điều 1 Khoản 52",
+    "action": "bai-bo",
+    "target_document": "45/2019/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 45/2019/QĐ-UBND ngày 31 tháng 12 năm 2019"
+   },
+   {
+    "source_path": "Điều 1 Khoản 53",
+    "action": "bai-bo",
+    "target_document": "25/2021/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 25/2021/QĐ-UBND ngày 13 tháng 12 năm 2021"
+   },
+   {
+    "source_path": "Điều 1 Khoản 54",
+    "action": "bai-bo",
+    "target_document": "40/2022/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 40/2022/QĐ-UBND ngày 10 tháng 11 năm 2022"
+   },
+   {
+    "source_path": "Điều 1 Khoản 55",
+    "action": "bai-bo",
+    "target_document": "13/2023/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 13/2023/QĐ-UBND ngày 05 tháng 6 năm 2023"
+   },
+   {
+    "source_path": "Điều 1 Khoản 56",
+    "action": "bai-bo",
+    "target_document": "34/2023/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 34/2023/QĐ-UBND ngày 20 tháng 12 năm 2023"
+   },
+   {
+    "source_path": "Điều 1 Khoản 57",
+    "action": "bai-bo",
+    "target_document": "09/2024/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 09/2024/QĐ-UBND ngày 20 tháng 7 năm 2024"
+   },
+   {
+    "source_path": "Điều 1 Khoản 58",
+    "action": "bai-bo",
+    "target_document": "12/2024/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 12/2024/QĐ-UBND ngày 26 tháng 8 năm 2024"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 1 bãi bỏ toàn bộ 58 VBQPPL liệt kê ở khoản 1-58; mỗi khoản 1 quan hệ. Tên và lời dẫn không nêu số hiệu nên không có quan hệ Phần đầu. Các số hiệu khác trong tên văn bản bị bãi bỏ (21/2014, 22/2014, 29/2017...) chỉ là trích dẫn."
+ },
+ {
+  "doc_id": "662891",
+  "relations": [
+   {
+    "source_path": "Nội dung",
+    "action": "dinh-chinh",
+    "target_document": "871/QĐ-BXD",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Mục 16 Danh mục thủ tục hành chính (cột cơ quan thực hiện); Mục 16 Chấp thuận đấu nối đối với trường hợp kết nối với đường bộ không có trong các quy hoạch",
+    "evidence": "Ngày 19/6/2025, Bộ Xây dựng đã ban hành Quyết định số 871/QĐ-BXD về việc công bố thủ tục hành chính được sửa đổi, bổ sung trong lĩnh vực đường bộ thuộc phạm vi chức năng quản lý của Bộ Xây dựng. Trong quá trình soạn thảo do lỗi kỹ thuật dẫn đến sai sót, Bộ Xây dựng đính chính như sau:"
+   },
+   {
+    "source_path": "Nội dung",
+    "action": "thay-cum-tu",
+    "target_document": "871/QĐ-BXD",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Mục 16 Danh mục thủ tục hành chính, cột cơ quan thực hiện",
+    "evidence": "- Trang 5, Mục 16 Danh mục thủ tục hành chính, tại Cột cơ quan thực hiện sửa lại như sau: thay cụm từ “Cơ quan chuyên môn thuộc Ủy ban nhân dân cấp tỉnh” bằng cụm từ “Ủy ban nhân dân cấp tỉnh”."
+   },
+   {
+    "source_path": "Nội dung",
+    "action": "thay-cum-tu",
+    "target_document": "871/QĐ-BXD",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Mục 16 Chấp thuận đấu nối đối với trường hợp kết nối với đường bộ không có trong các quy hoạch",
+    "evidence": "- Trang 149, 150, Mục 16 Chấp thuận đấu nối đối với trường hợp kết nối với đường bộ không có trong các quy hoạch: thay cụm từ “Cơ quan chuyên môn thuộc Ủy ban nhân dân cấp tỉnh” bằng cụm từ “Ủy ban nhân dân cấp tỉnh”."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn đính chính QĐ 871/QĐ-BXD; việc đính chính thực hiện bằng thay cụm từ ở 2 chỗ (danh mục TTHC và nội dung TTHC mục 16), vị trí chỉ nêu bằng trang/mục nên vi_tri rỗng, ghi doi_tuong."
+ },
+ {
+  "doc_id": "663015",
+  "relations": [
+   {
+    "source_path": "Điều 1 Khoản 1 điểm a",
+    "action": "sua-doi",
+    "target_document": "70/2021/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi nội dung tại khoản 2 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1 điểm b",
+    "action": "sua-doi",
+    "target_document": "70/2021/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi nội dung tại khoản 3 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1 điểm c",
+    "action": "sua-doi",
+    "target_document": "70/2021/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 5 Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "c) Sửa đổi nội dung tại khoản 5 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2 điểm a",
+    "action": "sua-doi",
+    "target_document": "70/2021/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "a) Sửa đổi tiêu đề khoản 2 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2 điểm b",
+    "action": "bai-bo",
+    "target_document": "70/2021/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 4 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "b) Bãi bỏ khoản 4;"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2 điểm c",
+    "action": "sua-doi",
+    "target_document": "70/2021/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 5 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "c) Sửa đổi nội dung khoản 5 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2 điểm d",
+    "action": "sua-doi",
+    "target_document": "70/2021/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm b khoản 7 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "d) Sửa đổi điểm b khoản 7 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "sua-doi",
+    "target_document": "70/2021/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 4"
+    ],
+    "doi_tuong": null,
+    "evidence": "3. Sửa đổi khoản 2 Điều 4 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 4 điểm a",
+    "action": "sua-doi",
+    "target_document": "70/2021/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "a) Sửa đổi nội dung khoản 1 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 4 điểm b",
+    "action": "sua-doi",
+    "target_document": "70/2021/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "b) Sửa đổi nội dung khoản 2 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "71/2021/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "1. Sửa đổi bổ sung khoản 2 Điều 1 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "71/2021/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "1. Sửa đổi bổ sung khoản 2 Điều 1 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 2 điểm a",
+    "action": "sua-doi",
+    "target_document": "71/2021/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "a) Sửa đổi nội dung tại khoản 1 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 2 điểm b",
+    "action": "sua-doi",
+    "target_document": "71/2021/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 4 Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "b) Sửa đổi nội dung tại khoản 4 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 2 điểm c",
+    "action": "sua-doi",
+    "target_document": "71/2021/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 5 Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "c) Sửa đổi nội dung tại khoản 5 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 3 điểm a",
+    "action": "sua-doi",
+    "target_document": "71/2021/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm b khoản 1 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "a) Sửa đổi nội dung tại điểm b khoản 1 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 3 điểm b",
+    "action": "sua-doi",
+    "target_document": "71/2021/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm e khoản 1 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "b) Sửa đổi nội dung tại điểm e khoản 1 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 3 điểm b",
+    "action": "sua-doi",
+    "target_document": "71/2021/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm b khoản 3 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "b) Sửa đổi nội dung tại điểm b khoản 3 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 3 điểm c",
+    "action": "sua-doi",
+    "target_document": "71/2021/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm b khoản 4 Điều 3",
+     "điểm c khoản 4 Điều 3",
+     "điểm d khoản 4 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "c) Sửa đổi nội dung tại điểm b, c, d khoản 4 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 3 điểm d",
+    "action": "sua-doi",
+    "target_document": "71/2021/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm b khoản 5 Điều 3",
+     "điểm c khoản 5 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "d) Sửa đổi điểm b, c khoản 5 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 3 điểm đ",
+    "action": "sua-doi",
+    "target_document": "71/2021/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm b khoản 6 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "đ) Sửa đổi nội dung tại điểm b khoản 6 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 3 điểm e",
+    "action": "sua-doi",
+    "target_document": "71/2021/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm b khoản 7 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "e) Sửa đổi nội dung tại điểm b khoản 7 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 3 điểm g",
+    "action": "sua-doi",
+    "target_document": "71/2021/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm b khoản 8 Điều 3",
+     "điểm c khoản 8 Điều 3",
+     "điểm đ khoản 8 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "g) Sửa đổi một số nội dung tại điểm b, c, đ khoản 8 như sau"
+   },
+   {
+    "source_path": "Điều 2 Khoản 3 điểm h",
+    "action": "sua-doi",
+    "target_document": "71/2021/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 9 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "h) Sửa đổi nội dung tại khoản 9 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 3 điểm i",
+    "action": "bai-bo",
+    "target_document": "71/2021/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 10 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "i) Bãi bỏ điểm a khoản 10 và sửa đổi nội dung tại điểm d khoản 10 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 3 điểm i",
+    "action": "sua-doi",
+    "target_document": "71/2021/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm d khoản 10 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "i) Bãi bỏ điểm a khoản 10 và sửa đổi nội dung tại điểm d khoản 10 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 3 điểm k",
+    "action": "bai-bo",
+    "target_document": "71/2021/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 11 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "k) Bãi bỏ điểm a khoản 11 và sửa đổi nội dung tại điểm d khoản 11 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 3 điểm k",
+    "action": "sua-doi",
+    "target_document": "71/2021/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm d khoản 11 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "k) Bãi bỏ điểm a khoản 11 và sửa đổi nội dung tại điểm d khoản 11 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 3 điểm l",
+    "action": "sua-doi",
+    "target_document": "71/2021/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 12 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "l) Sửa đổi nội dung khoản 12 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 3 điểm m",
+    "action": "sua-doi",
+    "target_document": "71/2021/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 13 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "m) Sửa đổi nội dung khoản 13 như sau:"
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 1 Khoản 1 điểm c",
+    "loai": "nhan_sai_dieu",
+    "ghi_chu": "Đơn vị chứa nội dung mới trong ngoặc kép (điểm c khoản 5 Điều 3 NQ 70/2021) của Điều 1 khoản 2, không phải điểm c thật của khoản 1 (Sửa đổi nội dung tại khoản 5 Điều 2)."
+   },
+   {
+    "source_path": "Điều 1 Khoản 1 điểm d",
+    "loai": "gop_sai",
+    "ghi_chu": "Các đơn vị điểm d, đ, e gắn vào Điều 1 khoản 1 thực chất thuộc Điều 2 khoản 3 (sửa NQ 71/2021) hoặc là nội dung trong ngoặc kép."
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "loai": "thieu_noi_dung",
+    "ghi_chu": "Thiếu Điều 1 khoản 2, 3, 4 và toàn bộ Điều 2 (sửa NQ 71/2021/NQ-HĐND) trong don_vi; quan hệ ghi theo toàn văn."
+   }
+  ],
+  "ghi_chu": "Tên văn bản chỉ nêu tên NQ (không số hiệu) nên không có quan hệ Phần đầu. Điều 1 sửa NQ 70/2021, Điều 2 sửa NQ 71/2021. Câu dẫn các khoản ghi 'sửa đổi, bổ sung' nhưng từng điểm chỉ 'sửa đổi' nên ghi sua-doi. Điều 2 khoản 3 văn bản gốc đánh trùng hai điểm b (điểm e khoản 1 và điểm b khoản 3)."
+ },
+ {
+  "doc_id": "663021",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "11/2024/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm c khoản 1 Điều 1",
+     "điểm b khoản 2 Điều 1",
+     "điểm c khoản 2 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG ĐIỂM C KHOẢN 1, ĐIỂM B VÀ ĐIỂM C KHOẢN 2 ĐIỀU 1 NGHỊ QUYẾT SỐ 11/2024/NQ-HĐND"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "11/2024/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm c khoản 1 Điều 1",
+     "điểm b khoản 2 Điều 1",
+     "điểm c khoản 2 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG ĐIỂM C KHOẢN 1, ĐIỂM B VÀ ĐIỂM C KHOẢN 2 ĐIỀU 1 NGHỊ QUYẾT SỐ 11/2024/NQ-HĐND"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "11/2024/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm c khoản 1 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm c khoản 1 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "11/2024/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm c khoản 1 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm c khoản 1 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "11/2024/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm b khoản 2 Điều 1",
+     "điểm c khoản 2 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm b và điểm c khoản 2 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "11/2024/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm b khoản 2 Điều 1",
+     "điểm c khoản 2 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm b và điểm c khoản 2 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 1",
+    "action": "thay-cum-tu",
+    "target_document": "11/2024/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 1",
+     "khoản 2 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “ngân sách cấp thành phố, ngân sách cấp xã” bằng “ngân sách cấp xã” tại khoản 1 và khoản 2 Điều 1 Nghị quyết số 11/2024/NQ-HĐND."
+   },
+   {
+    "source_path": "Điều 2 Khoản 2",
+    "action": "thay-cum-tu",
+    "target_document": "11/2024/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “xã, thị trấn” bằng từ “xã” tại khoản 1 Điều 1 Nghị quyết số 11/2024/NQ-HĐND."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên văn bản và lời dẫn cùng nêu sửa đổi, bổ sung NQ 11/2024 (gộp một cặp quan hệ Phần đầu). don_vi có đơn vị Điều 1 Khoản 1 lặp hai lần."
+ },
+ {
+  "doc_id": "663113",
+  "relations": [
+   {
+    "source_path": "Điều 2 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "03/2016/NQ-HĐTP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 1 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "03/2016/NQ-HĐTP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 1 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "03/2016/NQ-HĐTP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 4"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 Điều 4 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "03/2016/NQ-HĐTP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 4"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 Điều 4 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 3",
+    "action": "bai-bo",
+    "target_document": "03/2016/NQ-HĐTP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 2",
+     "Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ Điều 2 và Điều 3."
+   },
+   {
+    "source_path": "Điều 3 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "04/2016/NQ-HĐTP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 2",
+     "khoản 2 Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 và khoản 2 Điều 2 như sau:"
+   },
+   {
+    "source_path": "Điều 3 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "04/2016/NQ-HĐTP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 2",
+     "khoản 2 Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 và khoản 2 Điều 2 như sau:"
+   },
+   {
+    "source_path": "Điều 3 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "04/2016/NQ-HĐTP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 23"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 Điều 23 như sau:"
+   },
+   {
+    "source_path": "Điều 3 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "04/2016/NQ-HĐTP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 23"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 Điều 23 như sau:"
+   },
+   {
+    "source_path": "Điều 4 Khoản 1 điểm a",
+    "action": "sua-doi",
+    "target_document": "02/2018/NQ-HĐTP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 11"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 như sau:"
+   },
+   {
+    "source_path": "Điều 4 Khoản 1 điểm a",
+    "action": "bo-sung",
+    "target_document": "02/2018/NQ-HĐTP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 11"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 như sau:"
+   },
+   {
+    "source_path": "Điều 4 Khoản 1 điểm b",
+    "action": "sua-doi",
+    "target_document": "02/2018/NQ-HĐTP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 6 Điều 11"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 6 như sau:"
+   },
+   {
+    "source_path": "Điều 4 Khoản 1 điểm b",
+    "action": "bo-sung",
+    "target_document": "02/2018/NQ-HĐTP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 6 Điều 11"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 6 như sau:"
+   },
+   {
+    "source_path": "Điều 4 Khoản 2",
+    "action": "thay-cum-tu",
+    "target_document": "02/2018/NQ-HĐTP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 8"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Tòa án nhân dân cấp huyện” bằng cụm từ “Tòa án nhân dân khu vực” tại khoản 1 Điều 8."
+   },
+   {
+    "source_path": "Điều 4 Khoản 3 điểm a",
+    "action": "thay-the",
+    "target_document": "02/2018/NQ-HĐTP",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "mẫu số 02-HS",
+    "evidence": "Thay thế mẫu số 02-HS ban hành kèm theo Nghị quyết số 02/2018/NQ-HĐTP bằng mẫu số 02-HS ban hành kèm theo Nghị quyết này;"
+   },
+   {
+    "source_path": "Điều 4 Khoản 3 điểm b",
+    "action": "thay-the",
+    "target_document": "02/2018/NQ-HĐTP",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "mẫu số 03-HS",
+    "evidence": "Thay thế mẫu số 03-HS ban hành kèm theo Nghị quyết số 02/2018/NQ-HĐTP bằng mẫu số 03-HS ban hành kèm theo Nghị quyết này."
+   },
+   {
+    "source_path": "Điều 4 Khoản 4",
+    "action": "bai-bo",
+    "target_document": "02/2018/NQ-HĐTP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm b khoản 1 Điều 6"
+    ],
+    "doi_tuong": "cụm từ “tên huyện, thị xã, thành phố thuộc tỉnh;” và cụm từ “trực thuộc trung ương”",
+    "evidence": "Bỏ cụm từ “tên huyện, thị xã, thành phố thuộc tỉnh;” và cụm từ “trực thuộc trung ương” tại điểm b khoản 1 Điều 6."
+   },
+   {
+    "source_path": "Điều 5 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "04/2019/NQ-HĐTP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm c khoản 2 Điều 6"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm c khoản 2 Điều 6 như sau:"
+   },
+   {
+    "source_path": "Điều 5 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "04/2019/NQ-HĐTP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm c khoản 2 Điều 6"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm c khoản 2 Điều 6 như sau:"
+   },
+   {
+    "source_path": "Điều 5 Khoản 2 điểm a",
+    "action": "thay-the",
+    "target_document": "04/2019/NQ-HĐTP",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "mẫu số 01-AL",
+    "evidence": "Thay thế mẫu số 01-AL ban hành kèm theo Nghị quyết số 04/2019/NQ-HĐTP bằng mẫu số 01-AL ban hành kèm theo Nghị quyết này;"
+   },
+   {
+    "source_path": "Điều 5 Khoản 2 điểm b",
+    "action": "thay-the",
+    "target_document": "04/2019/NQ-HĐTP",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "mẫu số 02-AL",
+    "evidence": "Thay thế mẫu số 02-AL ban hành kèm theo Nghị quyết số 04/2019/NQ-HĐTP bằng mẫu số 02-AL ban hành kèm theo Nghị quyết này;"
+   },
+   {
+    "source_path": "Điều 5 Khoản 2 điểm c",
+    "action": "thay-the",
+    "target_document": "04/2019/NQ-HĐTP",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "mẫu số 03-AL",
+    "evidence": "Thay thế mẫu số 03-AL ban hành kèm theo Nghị quyết số 04/2019/NQ-HĐTP bằng mẫu số 03-AL ban hành kèm theo Nghị quyết này."
+   },
+   {
+    "source_path": "Điều 6 Khoản 1",
+    "action": "thay-cum-tu",
+    "target_document": "03/2024/NQ-HĐTP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Tòa án nhân dân cấp cao” bằng cụm từ “Tòa án cấp phúc thẩm”; cụm từ “Tòa án nhân dân tỉnh T” bằng cụm từ “Tòa án cấp sơ thẩm” tại ví dụ khoản 3 Điều 3."
+   },
+   {
+    "source_path": "Điều 6 Khoản 2",
+    "action": "thay-cum-tu",
+    "target_document": "03/2024/NQ-HĐTP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 8 Điều 5",
+     "khoản 11 Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Công an cấp huyện” bằng cụm từ “Công an cấp tỉnh” tại các khoản 8 và 11 Điều 5."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 1 (Phạm vi điều chỉnh) chỉ liệt kê 5 NQ được sửa, không ghi quan hệ riêng; hành động ở Điều 2-6. Tên văn bản không nêu số hiệu. Các phụ lục là mẫu biểu mới (02-HS, 03-HS, 01-AL..03-AL), không có hành động. don_vi lặp Điều 1."
+ },
+ {
+  "doc_id": "663218",
+  "relations": [
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bai-bo",
+    "target_document": "05/2006/CT-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Chỉ thị số 05/2006/CT-UBND ngày 31 tháng 3 năm 2006"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "18/2008/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 18/2008/QĐ-UBND ngày 15 tháng 8 năm 2008"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "bai-bo",
+    "target_document": "20/2013/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 20/2013/QĐ-UBND ngày 31 tháng 8 năm 2013"
+   },
+   {
+    "source_path": "Điều 1 Khoản 4",
+    "action": "bai-bo",
+    "target_document": "13/2014/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 13/2014/QĐ-UBND ngày 17 tháng 7 năm 2014"
+   },
+   {
+    "source_path": "Điều 1 Khoản 5",
+    "action": "bai-bo",
+    "target_document": "27/2015/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 27/2015/QĐ-UBND ngày 31 tháng 8 năm 2015"
+   },
+   {
+    "source_path": "Điều 1 Khoản 6",
+    "action": "bai-bo",
+    "target_document": "28/2015/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 28/2015/QĐ-UBND ngày 31 tháng 8 năm 2015"
+   },
+   {
+    "source_path": "Điều 1 Khoản 7",
+    "action": "bai-bo",
+    "target_document": "41/2016/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 41/2016/QĐ-UBND ngày 09 tháng 9 năm 2016"
+   },
+   {
+    "source_path": "Điều 1 Khoản 8",
+    "action": "bai-bo",
+    "target_document": "23/2017/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 23/2017/QĐ-UBND ngày 21 tháng 8 năm 2017"
+   },
+   {
+    "source_path": "Điều 1 Khoản 9",
+    "action": "bai-bo",
+    "target_document": "31/2017/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 31/2017/QĐ-UBND ngày 13 tháng 9 năm 2017"
+   },
+   {
+    "source_path": "Điều 1 Khoản 10",
+    "action": "bai-bo",
+    "target_document": "34/2017/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 34/2017/QĐ-UBND ngày 13 tháng 9 năm 2017"
+   },
+   {
+    "source_path": "Điều 1 Khoản 11",
+    "action": "bai-bo",
+    "target_document": "40/2017/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 40/2017/QĐ-UBND ngày 14 tháng 9 năm 2017"
+   },
+   {
+    "source_path": "Điều 1 Khoản 12",
+    "action": "bai-bo",
+    "target_document": "43/2017/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 43/2017/QĐ-UBND ngày 14 tháng 9 năm 2017"
+   },
+   {
+    "source_path": "Điều 1 Khoản 13",
+    "action": "bai-bo",
+    "target_document": "48/2017/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 48/2017/QĐ-UBND ngày 14 tháng 9 năm 2017"
+   },
+   {
+    "source_path": "Điều 1 Khoản 14",
+    "action": "bai-bo",
+    "target_document": "49/2017/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 49/2017/QĐ-UBND ngày 14 tháng 9 năm 2017"
+   },
+   {
+    "source_path": "Điều 1 Khoản 15",
+    "action": "bai-bo",
+    "target_document": "03/2018/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 03/2018/QĐ-UBND ngày 20 tháng 01 năm 2018"
+   },
+   {
+    "source_path": "Điều 1 Khoản 16",
+    "action": "bai-bo",
+    "target_document": "11/2018/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 11/2018/QĐ-UBND ngày 30 tháng 01 năm 2018"
+   },
+   {
+    "source_path": "Điều 1 Khoản 17",
+    "action": "bai-bo",
+    "target_document": "12/2018/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 12/2018/QĐ-UBND ngày 30 tháng 01 năm 2018"
+   },
+   {
+    "source_path": "Điều 1 Khoản 18",
+    "action": "bai-bo",
+    "target_document": "13/2018/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 13/2018/QĐ-UBND ngày 30 tháng 01 năm 2018"
+   },
+   {
+    "source_path": "Điều 1 Khoản 19",
+    "action": "bai-bo",
+    "target_document": "14/2018/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 14/2018/QĐ-UBND ngày 30 tháng 01 năm 2018"
+   },
+   {
+    "source_path": "Điều 1 Khoản 20",
+    "action": "bai-bo",
+    "target_document": "50/2018/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 50/2018/QĐ-UBND ngày 31 tháng 8 năm 2018"
+   },
+   {
+    "source_path": "Điều 1 Khoản 21",
+    "action": "bai-bo",
+    "target_document": "22/2019/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 22/2019/QĐ-UBND ngày 01 tháng 8 năm 2019"
+   },
+   {
+    "source_path": "Điều 1 Khoản 22",
+    "action": "bai-bo",
+    "target_document": "15/2020/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 15/2020/QĐ-UBND ngày 08 tháng 4 năm 2020"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 1 bãi bỏ toàn bộ 22 VBQPPL liệt kê ở khoản 1-22. Tên và lời dẫn không nêu số hiệu. Khoản 20 nêu QĐ 31/2017 chỉ là trích dẫn trong tên văn bản bị bãi bỏ."
+ },
+ {
+  "doc_id": "663253",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn trả lời về ghi địa chỉ trên hóa đơn; chỉ trích dẫn NĐ 123/2020, NĐ 70/2025, không có tác động."
+ },
+ {
+  "doc_id": "663358",
+  "relations": [
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "64/2021/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [],
+    "doi_tuong": "tên gọi của Nghị định",
+    "evidence": "Sửa đổi, bổ sung tên gọi của Nghị định số 64/2021/NĐ-CP ngày 30 tháng 6 năm 2021 của Chính phủ như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "64/2021/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [],
+    "doi_tuong": "tên gọi của Nghị định",
+    "evidence": "Sửa đổi, bổ sung tên gọi của Nghị định số 64/2021/NĐ-CP ngày 30 tháng 6 năm 2021 của Chính phủ như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "64/2021/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 Điều 2 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "64/2021/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 Điều 2 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "sua-doi",
+    "target_document": "64/2021/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 7 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "bo-sung",
+    "target_document": "64/2021/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 7 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 4",
+    "action": "sua-doi",
+    "target_document": "64/2021/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 13"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 3 Điều 13 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 4",
+    "action": "bo-sung",
+    "target_document": "64/2021/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 13"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 3 Điều 13 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 5",
+    "action": "sua-doi",
+    "target_document": "64/2021/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 14"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 3 Điều 14 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 5",
+    "action": "bo-sung",
+    "target_document": "64/2021/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 14"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 3 Điều 14 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 6",
+    "action": "sua-doi",
+    "target_document": "64/2021/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm c khoản 1 Điều 16"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm c khoản 1 Điều 16 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 6",
+    "action": "bo-sung",
+    "target_document": "64/2021/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm c khoản 1 Điều 16"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm c khoản 1 Điều 16 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 7",
+    "action": "thay-cum-tu",
+    "target_document": "64/2021/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 9",
+     "Điều 12",
+     "khoản 2 Điều 12"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Bộ Kế hoạch và Đầu tư” bằng cụm từ “Bộ Tài chính” tại khoản 3 Điều 9; cụm từ “khoản 5 Điều 7” bằng cụm từ “khoản 6 Điều 7” tại Điều 12; cụm từ “khoản 4 Điều 7” bằng cụm từ “khoản 5 Điều 7” tại khoản 2 Điều 12."
+   },
+   {
+    "source_path": "Điều 1 Khoản 8",
+    "action": "bai-bo",
+    "target_document": "64/2021/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 1",
+     "khoản 4 Điều 4",
+     "khoản 1 Điều 9",
+     "khoản 2 Điều 9",
+     "khoản 3 Điều 9",
+     "Điều 11",
+     "khoản 2 Điều 12",
+     "Điều 12",
+     "khoản 1 Điều 13",
+     "khoản 1 Điều 14",
+     "khoản 2 Điều 13",
+     "khoản 2 Điều 14",
+     "khoản 1 Điều 17",
+     "Điều 19"
+    ],
+    "doi_tuong": "các cụm từ “tổng cục”, “Ủy ban nhân dân cấp huyện”, “Tổng cục trưởng”, “khoản 1 Điều 6”, “khoản 2 Điều 6”, “khoản 3 Điều 6”, “Điều 6”, “Chủ tịch Ủy ban nhân dân cấp huyện”",
+    "evidence": "Bỏ cụm từ “tổng cục” và “Ủy ban nhân dân cấp huyện” tại Điều 1; cụm từ “Tổng cục trưởng” tại khoản 4 Điều 4;"
+   },
+   {
+    "source_path": "Điều 1 Khoản 9",
+    "action": "bai-bo",
+    "target_document": "64/2021/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 6"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ Điều 6."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "65/2021/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 1 Điều 4",
+     "khoản 2 Điều 4"
+    ],
+    "doi_tuong": "cụm từ “tổng cục”, “Ủy ban nhân dân cấp huyện”",
+    "evidence": "Bỏ cụm từ “tổng cục” tại điểm a khoản 1 Điều 4; cụm từ “Ủy ban nhân dân cấp huyện” tại khoản 2 Điều 4."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên văn bản không nêu số hiệu. Điều 1 sửa NĐ 64/2021, Điều 2 bỏ cụm từ NĐ 65/2021 (bỏ cụm từ ghi bai-bo + doi_tuong). Điều 3-8 là xử lý chuyển tiếp thỏa thuận quốc tế, không tác động văn bản."
+ },
+ {
+  "doc_id": "663467",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "15/2021/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA QUY ĐỊNH PHÂN CẤP NGUỒN THU, NHIỆM VỤ CHI THỜI KỲ ỔN ĐỊNH NGÂN SÁCH 2022 - 2025 CỦA NGÂN SÁCH CÁC CẤP THUỘC TỈNH AN GIANG BAN HÀNH KÈM THEO NGHỊ QUYẾT SỐ 15/2021/NQ-HĐND"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "15/2021/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA QUY ĐỊNH PHÂN CẤP NGUỒN THU, NHIỆM VỤ CHI THỜI KỲ ỔN ĐỊNH NGÂN SÁCH 2022 - 2025 CỦA NGÂN SÁCH CÁC CẤP THUỘC TỈNH AN GIANG BAN HÀNH KÈM THEO NGHỊ QUYẾT SỐ 15/2021/NQ-HĐND"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "15/2021/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 21 Điều 4"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 21 Điều 4 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "15/2021/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 21 Điều 4"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 21 Điều 4 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "15/2021/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "tên Điều 6",
+     "khoản 5 Điều 6",
+     "khoản 13 Điều 6"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung tên của Điều 6 và khoản 5, khoản 13 Điều 6 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "15/2021/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "tên Điều 6",
+     "khoản 5 Điều 6",
+     "khoản 13 Điều 6"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung tên của Điều 6 và khoản 5, khoản 13 Điều 6 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "sua-doi",
+    "target_document": "15/2021/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 6 Điều 8"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 6 Điều 8 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "bo-sung",
+    "target_document": "15/2021/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 6 Điều 8"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 6 Điều 8 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 4",
+    "action": "sua-doi",
+    "target_document": "15/2021/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 2 Điều 10"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 Điều 10 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 4",
+    "action": "bo-sung",
+    "target_document": "15/2021/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 2 Điều 10"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 Điều 10 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 5",
+    "action": "sua-doi",
+    "target_document": "15/2021/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Chương V"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Chương V như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 5",
+    "action": "bo-sung",
+    "target_document": "15/2021/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Chương V"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Chương V như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 1",
+    "action": "bai-bo",
+    "target_document": "15/2021/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 4 Điều 2",
+     "khoản 2 Điều 3"
+    ],
+    "doi_tuong": "từ “thị trấn”",
+    "evidence": "Bãi bỏ từ “thị trấn” tại khoản 4 Điều 2 và khoản 2 Điều 3."
+   },
+   {
+    "source_path": "Điều 2 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "15/2021/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 3 Điều 2",
+     "khoản 3 Điều 3",
+     "Điều 5",
+     "Điều 7",
+     "Điều 9",
+     "Điều 11",
+     "Điều 12"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ khoản 3 Điều 2; khoản 3 Điều 3; Điều 5; Điều 7; Điều 9; Điều 11; Điều 12."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Đích là Quy định ban hành kèm theo NQ 15/2021/NQ-HĐND (tên Điều 1, Điều 2 nói rõ). Tên văn bản và lời dẫn nêu cùng hành động, ghi một cặp Phần đầu."
+ },
+ {
+  "doc_id": "663521",
+  "relations": [
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "168/2016/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 4"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 Điều 4 Thông tư số 168/2016/TT-BTC"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "168/2016/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 4"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 Điều 4 Thông tư số 168/2016/TT-BTC"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "34/2017/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 4 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung khoản 4 vào Điều 3 Thông tư số 34/2017/TT-BTC"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "sua-doi",
+    "target_document": "75/2022/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 4"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 3 Điều 4 Thông tư số 75/2022/TT-BTC"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "bo-sung",
+    "target_document": "75/2022/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 4"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 3 Điều 4 Thông tư số 75/2022/TT-BTC"
+   },
+   {
+    "source_path": "Điều 1 Khoản 4",
+    "action": "bo-sung",
+    "target_document": "34/2023/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung khoản 2 vào Điều 3 Thông tư số 34/2023/TT-BTC"
+   },
+   {
+    "source_path": "Điều 1 Khoản 5 điểm a",
+    "action": "sua-doi",
+    "target_document": "60/2023/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 4"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 Điều 4 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 5 điểm a",
+    "action": "bo-sung",
+    "target_document": "60/2023/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 4"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 Điều 4 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 5 điểm b",
+    "action": "sua-doi",
+    "target_document": "60/2023/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 5",
+     "khoản 2 Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 và khoản 2 Điều 5 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 5 điểm b",
+    "action": "bo-sung",
+    "target_document": "60/2023/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 5",
+     "khoản 2 Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 và khoản 2 Điều 5 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 6",
+    "action": "sua-doi",
+    "target_document": "73/2024/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 3 Điều 5 Thông tư số 73/2024/TT-BTC"
+   },
+   {
+    "source_path": "Điều 1 Khoản 6",
+    "action": "bo-sung",
+    "target_document": "73/2024/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 3 Điều 5 Thông tư số 73/2024/TT-BTC"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên văn bản không nêu số hiệu các TT bị sửa. Điều 2 khoản 2 là câu dẫn chiếu chung, không phải quan hệ."
+ },
+ {
+  "doc_id": "663626",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Nghị quyết chất vấn: chỉ yêu cầu, giao nhiệm vụ nghiên cứu sửa đổi luật; không có tác động trực tiếp."
+ }
+]

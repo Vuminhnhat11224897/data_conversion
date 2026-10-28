@@ -1,0 +1,52 @@
+[
+ {
+  "doc_id": "671164",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "30/2025/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực thi hành kể từ ngày ký và thay thế Quyết định số 30/2025/QĐ-UBND ngày 25/3/2025 của Ủy ban nhân dân tỉnh Long An"
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "21/2025/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 21/2025/QĐ-UBND ngày 28/02/2025 của Ủy ban nhân dân tỉnh Tây Ninh ban hành quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Sở Nông nghiệp và Môi trường tỉnh Tây Ninh."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quy định kèm theo chỉ nêu nhiệm vụ của Sở (tham mưu, hướng dẫn...), không tác động lên văn bản khác."
+ },
+ {
+  "doc_id": "671827",
+  "relations": [
+   {
+    "source_path": "Điều 5 Khoản 2 điểm a",
+    "action": "thay-the",
+    "target_document": "53/2021/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 53/2021/QĐ-UBND ngày 31 tháng 12 năm 2021 của Ủy ban nhân dân tỉnh Cao Bằng"
+   },
+   {
+    "source_path": "Điều 5 Khoản 2 điểm b",
+    "action": "thay-the",
+    "target_document": "12/2022/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 12/2022/QĐ-UBND ngày 29 tháng 4 năm 2022 của Ủy ban nhân dân tỉnh Cao Bằng"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Câu dẫn khoản 2 Điều 5: 'Quyết định này thay thế các Quyết định sau'. Các đơn vị khác là nhiệm vụ của Sở."
+ }
+]

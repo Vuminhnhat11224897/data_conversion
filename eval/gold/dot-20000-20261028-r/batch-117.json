@@ -1,0 +1,137 @@
+[
+ {
+  "doc_id": "657909",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "huong-dan",
+    "target_document": "44/2025/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 5 Điều 34",
+     "khoản 8 Điều 34"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bộ trưởng Bộ Nội vụ ban hành Thông tư hướng dẫn thực hiện quản lý lao động, tiền lương, thù lao, tiền thưởng đối với các tổ chức theo quy định tại khoản 5 và khoản 8 Điều 34 Nghị định số 44/2025/NĐ-CP"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "huong-dan",
+    "target_document": "44/2025/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 5 Điều 34",
+     "khoản 8 Điều 34"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thông tư này hướng dẫn thực hiện quản lý lao động, tiền lương, thù lao, tiền thưởng theo quy định tại khoản 5 và khoản 8 Điều 34 Nghị định số 44/2025/NĐ-CP"
+   },
+   {
+    "source_path": "Điều 21 Khoản 2 điểm a",
+    "action": "bai-bo",
+    "target_document": "32/2016/TT-BLĐTBXH",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thông tư số 32/2016/TT-BLĐTBXH ngày 25 tháng 10 năm 2016 của Bộ trưởng Bộ Lao động - Thương binh và Xã hội hướng dẫn quản lý lao động, tiền lương, thù lao, tiền thưởng đối với Bảo hiểm tiền gửi Việt Nam"
+   },
+   {
+    "source_path": "Điều 21 Khoản 2 điểm b",
+    "action": "bai-bo",
+    "target_document": "34/2016/TT-BLĐTBXH",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thông tư số 34/2016/TT-BLĐTBXH ngày 25 tháng 10 năm 2016 của Bộ trưởng Bộ Lao động - Thương binh và Xã hội hướng dẫn quản lý lao động, tiền lương đối với Đài Truyền hình Việt Nam"
+   },
+   {
+    "source_path": "Điều 21 Khoản 2 điểm c",
+    "action": "bai-bo",
+    "target_document": "45/2016/TT-BLĐTBXH",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thông tư số 45/2016/TT-BLĐTBXH ngày 28 tháng 12 năm 2016 của Bộ trưởng Bộ Lao động - Thương binh và Xã hội hướng dẫn thực hiện quản lý lao động, tiền lương, thù lao, tiền thưởng đối với Quỹ đầu tư phát triển địa phương"
+   },
+   {
+    "source_path": "Điều 21 Khoản 2 điểm d",
+    "action": "bai-bo",
+    "target_document": "04/2019/TT-BLĐTBXH",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thông tư số 04/2019/TT-BLĐTBXH ngày 21 tháng 01 năm 2019 của Bộ trưởng Bộ Lao động - Thương binh và Xã hội hướng dẫn thực hiện quản lý lao động, tiền lương, thù lao, tiền thưởng đối với Quỹ bảo lãnh tín dụng cho doanh nghiệp nhỏ và vừa"
+   },
+   {
+    "source_path": "Điều 21 Khoản 2 điểm đ",
+    "action": "bai-bo",
+    "target_document": "34/2019/TT-BLĐTBXH",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thông tư số 34/2019/TT-BLĐTBXH ngày 30 tháng 12 năm 2019 của Bộ trưởng Bộ Lao động - Thương binh và Xã hội hướng dẫn quản lý lao động, tiền lương, thù lao, tiền thưởng đối với Quỹ Phát triển doanh nghiệp nhỏ và vừa"
+   },
+   {
+    "source_path": "Điều 21 Khoản 2 điểm e",
+    "action": "bai-bo",
+    "target_document": "12/2022/TT-BLĐTBXH",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thông tư số 12/2022/TT-BLĐTBXH ngày 30 tháng 6 năm 2022 của Bộ trưởng Bộ Lao động - Thương binh và Xã hội hướng dẫn thực hiện quản lý lao động, tiền lương, thù lao, tiền thưởng đối với Quỹ Đổi mới công nghệ quốc gia"
+   },
+   {
+    "source_path": "Điều 21 Khoản 2 điểm g",
+    "action": "bai-bo",
+    "target_document": "13/2022/TT-BLĐTBXH",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thông tư số 13/2022/TT-BLĐTBXH ngày 30 tháng 6 năm 2022 của Bộ trưởng Bộ Lao động - Thương binh và Xã hội hướng dẫn thực hiện quản lý lao động, tiền lương, thù lao, tiền thưởng đối với Quỹ hỗ trợ phát triển hợp tác xã"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Các câu 'chỉ tiêu lợi nhuận được thay bằng chỉ tiêu chênh lệch thu chi' (Điều 3, 6, 7, 8, 10, 11, 12, 22) là cách áp dụng Nghị định 44/2025/NĐ-CP và Thông tư 003/2025/TT-BNV, không thay cụm từ trong văn bản đó: không ghi."
+ },
+ {
+  "doc_id": "657964",
+  "relations": [
+   {
+    "source_path": "Điều 3",
+    "action": "thay-the",
+    "target_document": "801/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "các thủ tục hành chính từ số 216 đến số 240 tại danh mục TTHC trong lĩnh vực Nông nghiệp và Môi trường",
+    "evidence": "Thay thế các thủ tục hành chính từ số 216 đến số 240 tại danh mục TTHC trong lĩnh vực Nông nghiệp và Môi trường thuộc phạm vi chức năng quản lý nhà nước của Sở Nông nghiệp và Môi trường ban hành kèm theo Quyết định số 801/QĐ-UBND"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 1 công bố danh mục chuẩn hóa: không phải hành động. Câu thay thế viết trong Điều 3 (sau câu hiệu lực)."
+ },
+ {
+  "doc_id": "658561",
+  "relations": [
+   {
+    "source_path": "Điều 2 Khoản 1",
+    "action": "bai-bo",
+    "target_document": "588/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "02 thủ tục hành chính trong lĩnh vực môi trường (số thứ tự 111 và 112)",
+    "evidence": "Bãi bỏ 02 thủ tục hành chính trong lĩnh vực môi trường (số thứ tự 111 và 112) ban hành kèm theo Quyết định số 588/QĐ-UBND"
+   },
+   {
+    "source_path": "Điều 2 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "2850/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "02 thủ tục hành chính trong lĩnh vực môi trường (số thứ tự 02 và 03 của danh mục thủ tục hành chính mới ban hành)",
+    "evidence": "Bãi bỏ 02 thủ tục hành chính trong lĩnh vực môi trường (số thứ tự 02 và 03 của danh mục thủ tục hành chính mới ban hành) kèm theo Quyết định số 2850/QĐ-UBND"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 3 giao Sở tham mưu sửa đổi quy trình kèm Quyết định 04/QĐ-UBND: giao nhiệm vụ, không ghi."
+ }
+]

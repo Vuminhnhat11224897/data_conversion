@@ -1,0 +1,34 @@
+[
+ {
+  "doc_id": "671131",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "hop-nhat",
+    "target_document": "04/2011/QH13",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Văn bản hợp nhất 73/VBHN-VPQH năm 2025 hợp nhất Luật Đo lường do Văn phòng Quốc hội ban hành"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Văn bản hợp nhất Luật Đo lường 04/2011/QH13 (sửa đổi bởi Luật 35/2018/QH14 và Luật Thanh tra 84/2025/QH15; chỉ liệt kê ở phần đầu, không ghi quan hệ). Điều 57 tái hiện câu của Luật 04/2011 tuyên bố Pháp lệnh 16/1999/PL-UBTVQH10 và một phần Pháp lệnh 38/2001/PL-UBTVQH10 hết hiệu lực: tác động của luật gốc, không ghi cho VBHN. Chú thích [n] chỉ kể lại sửa đổi, bãi bỏ."
+ },
+ {
+  "doc_id": "671951",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "hop-nhat",
+    "target_document": "78/2015/QH13",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Văn bản hợp nhất 80/VBHN-VPQH năm 2025 hợp nhất Luật Nghĩa vụ quân sự do Văn phòng Quốc hội ban hành"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Văn bản hợp nhất Luật Nghĩa vụ quân sự 78/2015/QH13 (sửa đổi bởi Luật 48/2019/QH14 và Luật 98/2025/QH15; chỉ liệt kê ở phần đầu). Điều 61 khoản 2 tái hiện câu của luật gốc tuyên bố Luật NVQS 1981 và các luật sửa đổi 1990, 1994, 43/2005/QH11 hết hiệu lực: tác động của luật gốc, không ghi cho VBHN. Chú thích [n] chỉ kể lại sửa đổi, bãi bỏ."
+ }
+]

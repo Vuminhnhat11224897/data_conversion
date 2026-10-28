@@ -1,0 +1,45 @@
+[
+ {
+  "doc_id": "672451",
+  "relations": [
+   {
+    "source_path": "Điều 40 Khoản 3 điểm a",
+    "action": "thay-the",
+    "target_document": "20/2014/TT-BCT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thông tư này thay thế các Thông tư sau đây:"
+   },
+   {
+    "source_path": "Điều 40 Khoản 3 điểm b",
+    "action": "thay-the",
+    "target_document": "26/2018/TT-BCT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thông tư này thay thế các Thông tư sau đây:"
+   },
+   {
+    "source_path": "Điều 40 Khoản 3 điểm c",
+    "action": "thay-the",
+    "target_document": "13/2019/TT-BCT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thông tư này thay thế các Thông tư sau đây:"
+   },
+   {
+    "source_path": "Điều 40 Khoản 3 điểm d",
+    "action": "thay-the",
+    "target_document": "04/2024/TT-BCT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thông tư này thay thế các Thông tư sau đây:"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Khoản 3 Điều 40 thay thế 4 Thông tư; Khoản 2 Điều 40 là câu dẫn chiếu chung, không phải quan hệ. Phụ lục I-IV là quy tắc mặt hàng và mẫu C/O, không có hành động lên văn bản khác."
+ }
+]

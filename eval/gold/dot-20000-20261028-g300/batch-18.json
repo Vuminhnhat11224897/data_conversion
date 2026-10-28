@@ -1,0 +1,313 @@
+[
+ {
+  "doc_id": "659036",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "6151/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "nội dung công bố cho thủ tục có thứ tự A.7, A.8, A.9, A.10, A.11, A.12, A.13, A.14, A.15, A.16, A.17, A.18",
+    "evidence": "Bãi bỏ nội dung công bố cho thủ tục có thứ tự A.7, A.8, A.9, A.10. A.11, A.12, A.13, A.14, A.15, A.16. A.17, A.18 ban hành kèm theo Quyết định số 6151/QĐ-UBND ngày 31 tháng 12 năm 2024"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 1 công bố 12 TTHC nội bộ được sửa đổi, bổ sung nhưng không nêu văn bản đích: không ghi. Điều 2 bãi bỏ nội dung công bố các thủ tục A.7–A.18 kèm theo QĐ 6151/QĐ-UBND."
+ },
+ {
+  "doc_id": "659509",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "27/2024/TT-BCT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA THÔNG TƯ SỐ 27/2024/TT-BCT NGÀY 21 THÁNG 11 NĂM 2024"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "27/2024/TT-BCT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA THÔNG TƯ SỐ 27/2024/TT-BCT NGÀY 21 THÁNG 11 NĂM 2024"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "27/2024/TT-BCT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi khoản 1 Điều 1 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "27/2024/TT-BCT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi khoản 1 Điều 2 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "sua-doi",
+    "target_document": "27/2024/TT-BCT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi khoản 2 Điều 3 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 4",
+    "action": "sua-doi",
+    "target_document": "27/2024/TT-BCT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 4"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi khoản 3 Điều 4 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 5",
+    "action": "sua-doi",
+    "target_document": "27/2024/TT-BCT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 6"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi Điều 6 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 6",
+    "action": "sua-doi",
+    "target_document": "27/2024/TT-BCT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục I"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung một số nội dung của Phụ lục I ban hành kèm theo Thông tư số 27/2024/TT-BCT tại Phụ lục I ban hành kèm theo Thông tư này."
+   },
+   {
+    "source_path": "Điều 1 Khoản 6",
+    "action": "bo-sung",
+    "target_document": "27/2024/TT-BCT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục I"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung một số nội dung của Phụ lục I ban hành kèm theo Thông tư số 27/2024/TT-BCT tại Phụ lục I ban hành kèm theo Thông tư này."
+   },
+   {
+    "source_path": "Điều 1 Khoản 7",
+    "action": "sua-doi",
+    "target_document": "27/2024/TT-BCT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục II"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung một số nội dung của Phụ lục II ban hành kèm theo Thông tư số 27/2024/TT-BCT tại Phụ lục II ban hành kèm theo Thông tư này."
+   },
+   {
+    "source_path": "Điều 1 Khoản 7",
+    "action": "bo-sung",
+    "target_document": "27/2024/TT-BCT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục II"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung một số nội dung của Phụ lục II ban hành kèm theo Thông tư số 27/2024/TT-BCT tại Phụ lục II ban hành kèm theo Thông tư này."
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 1",
+    "action": "bo-sung",
+    "target_document": "27/2024/TT-BCT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục I"
+    ],
+    "doi_tuong": "Mẫu số 04 Chương III Phần 1",
+    "evidence": "Bổ sung Mẫu số 04 Chương III Phần 1 như sau:"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 2",
+    "action": "thay-the",
+    "target_document": "27/2024/TT-BCT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục I"
+    ],
+    "doi_tuong": "Mẫu số 05 Chương III Phần 1",
+    "evidence": "Thay thế hai Mẫu số 05 Chương III Phần 1 như sau:"
+   },
+   {
+    "source_path": "Phụ lục 2 Mục 1",
+    "action": "sua-doi",
+    "target_document": "27/2024/TT-BCT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục II"
+    ],
+    "doi_tuong": "mục 15.2 Chương I Phần 1",
+    "evidence": "Sửa đổi mục 15.2 Chương I Phần 1 như sau:"
+   },
+   {
+    "source_path": "Phụ lục 2 Mục 2",
+    "action": "sua-doi",
+    "target_document": "27/2024/TT-BCT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục II"
+    ],
+    "doi_tuong": "điểm c mục 28.2 Chương I Phần 1",
+    "evidence": "Sửa đổi điểm c mục 28.2 Chương I Phần 1 như sau:"
+   },
+   {
+    "source_path": "Phụ lục 2 Mục 3",
+    "action": "sua-doi",
+    "target_document": "27/2024/TT-BCT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục II"
+    ],
+    "doi_tuong": "điểm c mục 34.1 Chương I Phần 1",
+    "evidence": "Sửa đổi điểm c mục 34.1 Chương I Phần 1 như sau:"
+   },
+   {
+    "source_path": "Phụ lục 2 Mục 4",
+    "action": "sua-doi",
+    "target_document": "27/2024/TT-BCT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục II"
+    ],
+    "doi_tuong": "mục 39.7 Chương I Phần 1",
+    "evidence": "Sửa đổi mục 39.7 Chương I Phần 1 như sau:"
+   },
+   {
+    "source_path": "Phụ lục 2 Mục 5",
+    "action": "sua-doi",
+    "target_document": "27/2024/TT-BCT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục II"
+    ],
+    "doi_tuong": "mục CDNĐT 15.1 Chương II Phần 1",
+    "evidence": "Sửa đổi mục CDNĐT 15.1 Chương II Phần 1 như sau:"
+   },
+   {
+    "source_path": "Phụ lục 2 Mục 6",
+    "action": "sua-doi",
+    "target_document": "27/2024/TT-BCT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục II"
+    ],
+    "doi_tuong": "mục CDNĐT 40.2 Chương II Phần 1",
+    "evidence": "Sửa đổi mục CDNĐT 40.2 Chương II Phần 1:"
+   },
+   {
+    "source_path": "Phụ lục 2 Mục 7",
+    "action": "sua-doi",
+    "target_document": "27/2024/TT-BCT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục II"
+    ],
+    "doi_tuong": "cột 6 mục II.2.1 của Bảng số 1 mục 2 Chương III Phần 1",
+    "evidence": "Sửa đổi cột 6 mục II.2.1 của Bảng số 1 mục 2 Chương III Phần 1 như sau:"
+   },
+   {
+    "source_path": "Phụ lục 2 Mục 8",
+    "action": "sua-doi",
+    "target_document": "27/2024/TT-BCT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục II"
+    ],
+    "doi_tuong": "mục 3.3 Chương III Phần 1",
+    "evidence": "Sửa đổi mục 3.3 Chương III Phần 1 như sau:"
+   },
+   {
+    "source_path": "Phụ lục 2 Mục 9",
+    "action": "sua-doi",
+    "target_document": "27/2024/TT-BCT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục II"
+    ],
+    "doi_tuong": "mục III phần 2",
+    "evidence": "Sửa đổi mục III phần 2 như sau:"
+   },
+   {
+    "source_path": "Phụ lục 2 Mục 10",
+    "action": "thay-the",
+    "target_document": "27/2024/TT-BCT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục II"
+    ],
+    "doi_tuong": "Mẫu số 5 Chương IV Phần 1",
+    "evidence": "Thay thế Mẫu số 5 Chương IV Phần 1 như sau:"
+   },
+   {
+    "source_path": "Phụ lục 2 Mục 11",
+    "action": "thay-the",
+    "target_document": "27/2024/TT-BCT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục II"
+    ],
+    "doi_tuong": "Mẫu số 8 Chương IV Phần 1",
+    "evidence": "Thay thế Mẫu số 8 Chương IV Phần 1 như sau:"
+   },
+   {
+    "source_path": "Phụ lục 2 Mục 12",
+    "action": "sua-doi",
+    "target_document": "27/2024/TT-BCT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục II"
+    ],
+    "doi_tuong": "Mẫu số 12 Chương IV Phần 1",
+    "evidence": "Sửa đổi Mẫu số 12 Chương IV Phần 1 như sau:"
+   },
+   {
+    "source_path": "Phụ lục 2 Mục 13",
+    "action": "thay-the",
+    "target_document": "27/2024/TT-BCT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục II"
+    ],
+    "doi_tuong": "Mẫu số 14 Phần 3",
+    "evidence": "Thay thế Mẫu số 14 Phần 3 như sau:"
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Phụ lục 1, Phụ lục 2",
+    "loai": "thieu_noi_dung",
+    "ghi_chu": "Các mục đánh số trong Phụ lục I, II (bổ sung, thay thế, sửa đổi mẫu và mục của Phụ lục I, II Thông tư 27/2024/TT-BCT) không có trong don_vi."
+   }
+  ],
+  "ghi_chu": "Phụ lục I, II viết thành đoạn văn: mỗi mục đánh số là một hành động lên Phụ lục I/II kèm theo Thông tư 27/2024/TT-BCT; vị trí dừng ở Phụ lục, chi tiết ghi ở doi_tuong. Điều 2 khoản 2 là chuyển tiếp, không ghi."
+ }
+]

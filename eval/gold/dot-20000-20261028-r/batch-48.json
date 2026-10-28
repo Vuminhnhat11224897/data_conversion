@@ -1,0 +1,93 @@
+[
+ {
+  "doc_id": "665854",
+  "relations": [
+   {
+    "source_path": "Điều 1 Khoản 1 điểm a",
+    "action": "quy-dinh-chi-tiet",
+    "target_document": "45/2024/QH15",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 6 Điều 29"
+    ],
+    "doi_tuong": null,
+    "evidence": "Khoản 6 Điều 29 về việc đánh giá các yếu tố tác động đến di sản thế giới; trình tự, thủ tục, hồ sơ đề nghị Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch, người đứng đầu cơ quan chuyên môn về văn hóa cấp tỉnh cho ý kiến;"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1 điểm b",
+    "action": "quy-dinh-chi-tiet",
+    "target_document": "45/2024/QH15",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 5 Điều 30"
+    ],
+    "doi_tuong": null,
+    "evidence": "Khoản 5 Điều 30 về quy trình thực hiện dự án đầu tư xây dựng, xây dựng công trình, nhà ở riêng lẻ, thực hiện hoạt động nằm ngoài khu vực bảo vệ di tích, nằm ngoài vùng đệm của khu vực di sản thế giới;"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1 điểm c",
+    "action": "quy-dinh-chi-tiet",
+    "target_document": "45/2024/QH15",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 5 Điều 34"
+    ],
+    "doi_tuong": null,
+    "evidence": "Khoản 5 Điều 34 về thẩm quyền, trình tự, thủ tục, hồ sơ lập, thẩm định, phê duyệt quy hoạch, điều chỉnh quy hoạch bảo quản, tu bổ, phục hồi di tích;"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1 điểm d",
+    "action": "quy-dinh-chi-tiet",
+    "target_document": "45/2024/QH15",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 4 Điều 35"
+    ],
+    "doi_tuong": null,
+    "evidence": "Khoản 4 Điều 35 về trình tự, thủ tục, hồ sơ đề nghị xác nhận di tích xuống cấp để lập dự án bảo quản, tu bổ, phục hồi di tích; công khai nội dung bảo quản, tu bổ, phục hồi di tích đã được phê duyệt tại địa phương nơi có di tích; trình tự, thủ tục, hồ sơ lập, thẩm định, phê duyệt dự án bảo quản, tu bổ, phục hồi di tích;"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1 điểm đ",
+    "action": "quy-dinh-chi-tiet",
+    "target_document": "45/2024/QH15",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 5 Điều 37"
+    ],
+    "doi_tuong": null,
+    "evidence": "Khoản 5 Điều 37 về thẩm quyền, trình tự, thủ tục, hồ sơ lập, thẩm định, phê duyệt quy hoạch, điều chỉnh quy hoạch khảo cổ;"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1 điểm e",
+    "action": "quy-dinh-chi-tiet",
+    "target_document": "45/2024/QH15",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 70"
+    ],
+    "doi_tuong": null,
+    "evidence": "Khoản 2 Điều 70 về trình tự, thủ tục, hồ sơ xin ý kiến đối với dự án đầu tư xây dựng, cải tạo, nâng cấp công trình kiến trúc, hạ tầng kỹ thuật và trưng bày bảo tàng công lập."
+   },
+   {
+    "source_path": "Điều 54 Khoản 3",
+    "action": "thay-the",
+    "target_document": "166/2018/NĐ-CP",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị định này thay thế Nghị định số 166/2018/NĐ-CP ngày 25 tháng 12 năm 2018 của Chính phủ quy định thẩm quyền, trình tự, thủ tục lập, thẩm định, phê duyệt quy hoạch, dự án bảo quản, tu bổ, phục hồi di tích lịch sử - văn hóa, danh lam thắng cảnh; Nghị định số 67/2022/NĐ-CP ngày 21 tháng 9 năm 2022 của Chính phủ sửa đổi, bổ sung Điều 4 Nghị định số 166/2018/NĐ-CP ngày 25 tháng 12 năm 2018 của Chính phủ quy định thẩm quyền, trình tự, thủ tục lập, thẩm định, phê duyệt quy hoạch, dự án bảo quản, tu bổ, phục hồi di tích lịch sử - văn hóa, danh lam thắng cảnh."
+   },
+   {
+    "source_path": "Điều 54 Khoản 3",
+    "action": "thay-the",
+    "target_document": "67/2022/NĐ-CP",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị định này thay thế Nghị định số 166/2018/NĐ-CP ngày 25 tháng 12 năm 2018 của Chính phủ quy định thẩm quyền, trình tự, thủ tục lập, thẩm định, phê duyệt quy hoạch, dự án bảo quản, tu bổ, phục hồi di tích lịch sử - văn hóa, danh lam thắng cảnh; Nghị định số 67/2022/NĐ-CP ngày 21 tháng 9 năm 2022 của Chính phủ sửa đổi, bổ sung Điều 4 Nghị định số 166/2018/NĐ-CP ngày 25 tháng 12 năm 2018 của Chính phủ quy định thẩm quyền, trình tự, thủ tục lập, thẩm định, phê duyệt quy hoạch, dự án bảo quản, tu bổ, phục hồi di tích lịch sử - văn hóa, danh lam thắng cảnh."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Câu dẫn khoản 1 Điều 1: 'Nghị định này quy định chi tiết một số điều của Luật Di sản văn hóa số 45/2024/QH15, bao gồm:'; mỗi điểm a-e nêu một vị trí, ghi một quan hệ theo từng điểm. Tên văn bản không nêu Luật nên không có quan hệ Phần đầu. Các câu dẫn chiếu Nghị định hướng dẫn Luật Di sản văn hóa (chưa có số hiệu) chỉ là trích dẫn."
+ }
+]

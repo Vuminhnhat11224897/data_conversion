@@ -1,0 +1,277 @@
+[
+ {
+  "doc_id": "671751",
+  "relations": [
+   {
+    "source_path": "Điều 2 Khoản 1",
+    "action": "bai-bo",
+    "target_document": "184/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 184/QĐ-UBND ngày 07/3/2025 của UBND tỉnh Bắc Ninh về việc quy định chức năng, nhiệm vụ và quyền hạn của Trung tâm Phục vụ hành chính công tỉnh Bắc Ninh."
+   },
+   {
+    "source_path": "Điều 2 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "176/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 176/QĐ-UBND ngày 06/3/2025 của UBND tỉnh Bắc Ninh ban hành quy chế phối hợp trong giải quyết thủ tục hành chính trên địa bàn tỉnh Bắc Ninh."
+   },
+   {
+    "source_path": "Điều 2 Khoản 3",
+    "action": "bai-bo",
+    "target_document": "171/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 171/QĐ-UBND ngày 14/02/2023 của UBND tỉnh ban hành Quy chế tổ chức, hoạt động và mối quan hệ công tác của Trung tâm Phục vụ hành chính công tỉnh Bắc Giang."
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 2",
+    "loai": "thieu_noi_dung",
+    "ghi_chu": "don_vi 'Điều 2' chỉ có câu dẫn 'bãi bỏ các Quyết định sau:'; 3 khoản liệt kê quyết định bị bãi bỏ không có trong don_vi."
+   }
+  ],
+  "ghi_chu": "Điều 2 bãi bỏ 3 quyết định liệt kê ở khoản 1-3 (ghi theo khoản). Quy chế kèm theo không có tác động lên văn bản khác."
+ },
+ {
+  "doc_id": "671803",
+  "relations": [
+   {
+    "source_path": "Điều 7 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "102/2020/TT-BTC",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thông tư số 102/2020/TT-BTC ngày 23 tháng 11 năm 2020 của Bộ trưởng Bộ Tài chính hướng dẫn, việc lập dự toán, quản lý, sử dụng và quyết toán kinh phí bầu cử đại biểu Quốc hội khóa XV và đại biểu Hội đồng nhân dân các cấp nhiệm kỳ 2021-2026 hết hiệu lực kể từ ngày Thông tư này có hiệu lực thi hành."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Khoản 2 Điều 7 tuyên bố Thông tư 102/2020/TT-BTC hết hiệu lực. Thông tư hướng dẫn việc lập dự toán kinh phí bầu cử nói chung, không nêu văn bản đích được hướng dẫn; câu 'Thông tư này hướng dẫn một số điểm cụ thể như sau' ở Điều 6 chỉ dẫn chiếu Luật Ngân sách nhà nước, Nghị định 11/2020/NĐ-CP, Thông tư 17/2024/TT-BTC: không ghi quan hệ."
+ },
+ {
+  "doc_id": "672975",
+  "relations": [
+   {
+    "source_path": "Điều 6 Khoản 2",
+    "action": "thay-the",
+    "target_document": "40/2022/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này thay thế Quyết định số 40/2022/QĐ-UBND ngày 02 tháng 11 năm 2022 của Uỷ ban nhân dân tỉnh Lai Châu ban hành Quy định phân cấp quản lý nhà nước về an toàn thực phẩm thuộc phạm vi quản lý của ngành Y tế trên địa bàn tỉnh Lai Châu."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Thay thế Quyết định 40/2022/QĐ-UBND. Các câu 'Thực hiện quy định tại ... Nghị định 148/2025/NĐ-CP' là dẫn chiếu."
+ },
+ {
+  "doc_id": "673842",
+  "relations": [
+   {
+    "source_path": "Điều 7 Khoản 2 điểm a",
+    "action": "bai-bo",
+    "target_document": "43/2025/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 43/2025/QĐ-UBND ngày 16/4/2025 của Ủy ban nhân dân tỉnh Hải Dương quy định mức chi đảm bảo cho việc tổ chức thực hiện bồi thường, hỗ trợ, tái định cư khi nhà nước thu hồi đất trên địa bàn tỉnh Hải Dương."
+   },
+   {
+    "source_path": "Điều 7 Khoản 2 điểm b",
+    "action": "bai-bo",
+    "target_document": "39/2025/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 39/2025/QĐ-UBND ngày 13/6/2025 của Ủy ban nhân dân thành phố Hải Phòng quy định mức chi đảm bảo cho việc tổ chức thực hiện bồi thường, hỗ trợ, tái định cư khi nhà nước thu hồi đất trên địa bàn thành phố Hải Phòng."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Khoản 2 Điều 7 tuyên bố 2 quyết định hết hiệu lực (điểm a, b). Điều 6 (chuyển tiếp, tiếp tục thực hiện theo 2 quyết định đó) không là quan hệ."
+ },
+ {
+  "doc_id": "673879",
+  "relations": [
+   {
+    "source_path": "Điều 2 Khoản 1",
+    "action": "thay-the",
+    "target_document": "37/2024/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 37/2024/QĐ-UBND ngày 07 tháng 11 năm 2024 của Ủy ban nhân dân tỉnh Đắk Nông Quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Chi cục phát triển nông thôn trực thuộc Sở Nông nghiệp và Phát triển nông thôn tỉnh Đắk Nông."
+   },
+   {
+    "source_path": "Điều 2 Khoản 2",
+    "action": "thay-the",
+    "target_document": "62/2023/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 62/2023/QĐ-UBND ngày 20 tháng 11 năm 2023 của Ủy ban nhân dân tỉnh Lâm Đồng ban hành Quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Chi cục Phát triển nông thôn thuộc Sở Nông nghiệp và Phát triển nông thôn tỉnh Lâm Đồng."
+   },
+   {
+    "source_path": "Điều 2 Khoản 3",
+    "action": "thay-the",
+    "target_document": "608/QĐ-SNN",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 608/QĐ-SNN ngày 30 tháng 5 năm 2017 của Giám đốc Sở Nông nghiệp và Phát triển nông thôn tỉnh Bình Thuận về việc ban hành quy định chức năng, nhiệm vụ, quyền hạn, tổ chức bộ máy, biên chế và mối quan hệ công tác của Chi cục Phát triển nông thôn tỉnh Bình Thuận."
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 2",
+    "loai": "thieu_noi_dung",
+    "ghi_chu": "don_vi 'Điều 2' chỉ có câu dẫn 'thay thế các Quyết định, cụ thể như sau:'; 3 khoản liệt kê quyết định bị thay thế không có trong don_vi."
+   }
+  ],
+  "ghi_chu": "Điều 2 thay thế 3 quyết định liệt kê ở khoản 1-3 (ghi theo khoản)."
+ },
+ {
+  "doc_id": "673888",
+  "relations": [
+   {
+    "source_path": "Điều 5 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "10/2023/NQ-HDND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị quyết này bãi bỏ toàn bộ Nghị quyết số 10/2023/NQ-HDND ngày 19 tháng 9 năm 2023 của Hội đồng nhân dân Thành phố Hồ Chí Minh về chính sách hỗ trợ chi phí điều trị tật khúc xạ mắt đối với công dân đăng ký thực hiện nghĩa vụ quân sự, nghĩa vụ tham gia Công an nhân dân."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Bãi bỏ toàn bộ Nghị quyết 10/2023 (văn bản viết số hiệu là '10/2023/NQ-HDND', đúng ra là NQ-HĐND)."
+ },
+ {
+  "doc_id": "674195",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "28/2025/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực kể từ ngày 25 tháng 9 năm 2025 và thay thế Quyết định số 28/2025/QĐ-UBND ngày 11 tháng 4 năm 2025 của Ủy ban nhân dân thành phố Đà nẵng ban hành Quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Chi cục Quản lý tài nguyên nước và Thủy lợi thành phố Đà Nẵng."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Thay thế Quyết định 28/2025/QĐ-UBND. Từ 'gia hạn', 'đình chỉ', 'sửa đổi' trong Quy định là nhiệm vụ của Chi cục."
+ },
+ {
+  "doc_id": "674217",
+  "relations": [
+   {
+    "source_path": "Điều 1 Khoản 1 điểm a",
+    "action": "quy-dinh-chi-tiet",
+    "target_document": "36/2024/QH15",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 6 Điều 35"
+    ],
+    "doi_tuong": null,
+    "evidence": "Quyết định này quy định chi tiết một số điều của Luật Trật tự, an toàn giao thông đường bộ số 36/2024/QH15 ngày 27 tháng 6 năm 2024 áp dụng trên địa bàn tỉnh Nghệ An, gồm:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1 điểm b",
+    "action": "quy-dinh-chi-tiet",
+    "target_document": "36/2024/QH15",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 47"
+    ],
+    "doi_tuong": null,
+    "evidence": "Quyết định này quy định chi tiết một số điều của Luật Trật tự, an toàn giao thông đường bộ số 36/2024/QH15 ngày 27 tháng 6 năm 2024 áp dụng trên địa bàn tỉnh Nghệ An, gồm:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1 điểm c",
+    "action": "quy-dinh-chi-tiet",
+    "target_document": "36/2024/QH15",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 48"
+    ],
+    "doi_tuong": null,
+    "evidence": "Quyết định này quy định chi tiết một số điều của Luật Trật tự, an toàn giao thông đường bộ số 36/2024/QH15 ngày 27 tháng 6 năm 2024 áp dụng trên địa bàn tỉnh Nghệ An, gồm:"
+   },
+   {
+    "source_path": "Điều 12 Khoản 1",
+    "action": "thay-the",
+    "target_document": "106/2010/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định có hiệu lực thi hành kể từ ngày 10 tháng 6 năm 2025 và thay thế Quyết định số 106/2010/QĐ-UBND ngày 16 tháng 12 năm 2010 của UBND tỉnh Nghệ An quy định sử dụng xe thô sơ, xe gắn máy, xe mô tô hai bánh, xe mô tô ba bánh và các loại xe tương tự để vận chuyển hành khách, hàng hóa trên địa bàn tỉnh Nghệ An.\n\nTrường hợp các văn bản được dẫn chiếu để áp dụng tại Quyết định này được sửa đổi, bổ sung hoặc thay thế thì áp dụng theo quy định các văn bản sửa đổi, bổ sung, thay thế đó."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Khoản 1 Điều 1 quy định chi tiết khoản 6 Điều 35, khoản 2 Điều 47, khoản 2 Điều 48 Luật Trật tự, an toàn giao thông đường bộ 36/2024/QH15 (ghi theo điểm a, b, c). Khoản 1 Điều 12 thay thế Quyết định 106/2010/QĐ-UBND; câu tiếp theo về văn bản dẫn chiếu được sửa đổi là câu chung."
+ },
+ {
+  "doc_id": "675178",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "238/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực kể từ ngày ký và thay thế Quyết định số 238/QĐ- UBND ngày 23 tháng 01 năm 2025 của Ủy ban nhân dân thành phố Huế về việc ban hành Quy chế phối hợp quản lý và tổ chức các hoạt động Bar, beer, club, pub và các loại hình tương tự trên địa bàn thành phố Huế."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Thay thế Quyết định 238/QĐ-UBND (văn bản viết '238/QĐ- UBND'). QCVN và Thông tư 39/2010/TT-BTNMT chỉ được dẫn chiếu."
+ },
+ {
+  "doc_id": "675356",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "1355/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực kể từ ngày ký, thay thế Quyết định số 1355/QĐ-UBND ngày 14/5/2025 của UBND tỉnh về việc ban hành phương án ứng phó với thiên tai trên địa bàn tỉnh Nghệ An năm 2025"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Thay thế Quyết định 1355/QĐ-UBND. Phương án kèm theo là file đính kèm, không có trong toàn văn."
+ },
+ {
+  "doc_id": "675719",
+  "relations": [
+   {
+    "source_path": "Điều 3 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "41/2022/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị quyết số 41/2022/NQ-HĐND ngày 09 tháng 12 năm 2022 của Hội đồng nhân dân tỉnh Tây Ninh ban hành Quy định nội dung và mức chi thực hiện Chương trình quốc gia hỗ trợ doanh nghiệp nâng cao năng suất và chất lượng sản phẩm, hàng hóa giai đoạn 2022 - 2030 trên địa bàn tỉnh Tây Ninh và Nghị quyết số 12/2022/NQ-HĐND ngày 13 tháng 7 năm 2022 của Hội đồng nhân dân tỉnh Long An ban hành Quy định nội dung chi và mức chi thực hiện Chương trình quốc gia hỗ trợ doanh nghiệp nâng cao năng suất và chất lượng sản phẩm, hàng hóa trên địa bàn tỉnh Long An giai đoạn 2022 - 2030 hết hiệu lực kể từ ngày Nghị quyết này có hiệu lực thi hành."
+   },
+   {
+    "source_path": "Điều 3 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "12/2022/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị quyết số 41/2022/NQ-HĐND ngày 09 tháng 12 năm 2022 của Hội đồng nhân dân tỉnh Tây Ninh ban hành Quy định nội dung và mức chi thực hiện Chương trình quốc gia hỗ trợ doanh nghiệp nâng cao năng suất và chất lượng sản phẩm, hàng hóa giai đoạn 2022 - 2030 trên địa bàn tỉnh Tây Ninh và Nghị quyết số 12/2022/NQ-HĐND ngày 13 tháng 7 năm 2022 của Hội đồng nhân dân tỉnh Long An ban hành Quy định nội dung chi và mức chi thực hiện Chương trình quốc gia hỗ trợ doanh nghiệp nâng cao năng suất và chất lượng sản phẩm, hàng hóa trên địa bàn tỉnh Long An giai đoạn 2022 - 2030 hết hiệu lực kể từ ngày Nghị quyết này có hiệu lực thi hành."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tuyên bố Nghị quyết 41/2022/NQ-HĐND (Tây Ninh) và 12/2022/NQ-HĐND (Long An) hết hiệu lực. Quy định kèm theo không có tác động."
+ }
+]

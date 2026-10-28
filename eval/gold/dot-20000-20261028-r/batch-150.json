@@ -1,0 +1,160 @@
+[
+ {
+  "doc_id": "672089",
+  "relations": [
+   {
+    "source_path": "Điều 3",
+    "action": "thay-the",
+    "target_document": "989/QĐ-UBND-HC",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "các thủ tục hành chính thuộc thẩm quyền giải quyết của Ủy ban nhân dân cấp xã",
+    "evidence": "Quyết định này có hiệu lực thi hành kể từ ngày ký, thay thế các thủ tục hành chính thuộc thẩm quyền giải quyết của Ủy ban nhân dân cấp xã tại Quyết định số 989/QĐ-UBND-HC ngày 28 tháng 6 năm 2025 của Chủ tịch Ủy ban nhân dân tỉnh Đồng Tháp"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Thay thế phần TTHC cấp xã của QĐ 989/QĐ-UBND-HC (không nêu vị trí). Các chữ \"hủy bỏ\", \"sửa đổi\" trong phụ lục là tên thủ tục, không phải hành động."
+ },
+ {
+  "doc_id": "672139",
+  "relations": [
+   {
+    "source_path": "Điều 3",
+    "action": "bai-bo",
+    "target_document": "601/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 601/QĐ-UBND ngày 04/3/2025 của Chủ tịch UBND thành phố phê duyệt quy trình nội bộ giải quyết thủ tục hành chính thực hiện theo cơ chế một cửa trong lĩnh vực Tiêu chuẩn, đo lường, chất lượng thuộc thẩm quyền giải quyết của Sở Nội vụ."
+   },
+   {
+    "source_path": "Điều 3",
+    "action": "bai-bo",
+    "target_document": "1037/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 1037/QĐ-UBND ngày 16/4/2025 của Chủ tịch UBND thành phố phê duyệt quy trình nội bộ giải quyết thủ tục hành chính thực hiện theo cơ chế một cửa, một cửa liên thông lĩnh vực Bảo trợ xã hội và Phòng, chống tệ nạn xã hội thuộc phạm vi chức năng quản lý nhà nước của Sở Y tế (Cơ quan thực hiện: Sở Y tế, Sở Nội vụ, UBND cấp huyện, UBND cấp xã)."
+   },
+   {
+    "source_path": "Điều 3",
+    "action": "bai-bo",
+    "target_document": "1142/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 1142/QĐ-UBND ngày 23/4/2025 của Chủ tịch UBND thành phố phê duyệt quy trình nội bộ, quy trình điện tử giải quyết thủ tục hành chính theo cơ chế một cửa, một cửa liên thông lĩnh vực việc làm thuộc phạm vi chức năng quản lý nhà nước của Sở Nội vụ thành phố Huế."
+   },
+   {
+    "source_path": "Điều 3",
+    "action": "bai-bo",
+    "target_document": "1186/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 1186/QĐ-UBND ngày 25/4/2025 của Chủ tịch UBND thành phố phê duyệt quy trình nội bộ, quy trình điện tử giải quyết thủ tục hành chính theo cơ chế một cửa, một cửa liên thông lĩnh vực tín ngưỡng, tôn giáo thuộc phạm vi chức năng quản lý nhà nước của Sở Nội vụ."
+   },
+   {
+    "source_path": "Điều 3",
+    "action": "bai-bo",
+    "target_document": "1382/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 1382/QĐ-UBND ngày 14/5/2025 của Chủ tịch UBND thành phố phê duyệt quy trình nội bộ, quy trình điện tử giải quyết thủ tục hành chính thực hiện theo cơ chế một cửa, một cửa liên thông trong lĩnh vực công tác dân tộc thuộc phạm vi chức năng quản lý nhà nước của Sở Nội vụ (thẩm quyền quyết định của UBND cấp huyện)."
+   },
+   {
+    "source_path": "Điều 3",
+    "action": "bai-bo",
+    "target_document": "1383/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 1383/QĐ-UBND ngày 14/5/2025 của Chủ tịch UBND thành phố phê duyệt quy trình nội bộ, quy trình điện tử giải quyết thủ tục hành chính theo cơ chế một cửa, một cửa liên thông lĩnh vực người có công; lao động, tiền lương; quản lý lao động ngoài nước; an toàn, vệ sinh lao động thuộc phạm vi chức năng quản lý nhà nước của Sở Nội vụ."
+   },
+   {
+    "source_path": "Điều 3",
+    "action": "bai-bo",
+    "target_document": "1408/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 1408/QĐ-UBND ngày 16/5/2025 của Chủ tịch UBND thành phố phê duyệt quy trình nội bộ, quy trình điện tử giải quyết thủ tục hành chính theo cơ chế một cửa, một cửa liên thông lĩnh vực người có công thực hiện tiếp nhận và giải quyết tại UBND cấp xã, UBND cấp huyện, Sở Nội vụ, Sở Y tế thuộc thẩm quyền quyết định của các cơ quan cấp trung ương."
+   },
+   {
+    "source_path": "Điều 3",
+    "action": "bai-bo",
+    "target_document": "1644/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 1644/QĐ-UBND ngày 05/6/2025 của Chủ tịch UBND thành phố phê duyệt quy trình nội bộ, quy trình điện tử giải quyết thủ tục hành chính thực hiện theo cơ chế một cửa trong lĩnh vực lao động, tiền lương và bảo hiểm xã hội thuộc thẩm quyền giải quyết của Sở Nội vụ."
+   },
+   {
+    "source_path": "Điều 3",
+    "action": "bai-bo",
+    "target_document": "1976/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 1976/QĐ-UBND ngày 29/6/2025 của Chủ tịch UBND thành phố phê duyệt quy trình nội bộ, quy trình điện tử giải quyết thủ tục hành chính theo cơ chế một cửa, một cửa liên thông lĩnh vực Người có công; Thi đua - Khen thưởng; Việc làm; An toàn lao động, vệ sinh lao động; Quản lý lao động ngoài nước thuộc phạm vi chức năng quản lý của Sở Nội vụ."
+   },
+   {
+    "source_path": "Điều 3",
+    "action": "bai-bo",
+    "target_document": "2156/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 2156/QĐ-UBND ngày 05/7/2025 của Chủ tịch UBND thành phố phê duyệt quy trình nội bộ, quy trình điện tử giải quyết thủ tục hành chính theo cơ chế một cửa, một cửa liên thông lĩnh vực Tín ngưỡng, tôn giáo; Công tác dân tộc thuộc phạm vi chức năng quản lý nhà nước của Sở Nội vụ."
+   },
+   {
+    "source_path": "Điều 3",
+    "action": "bai-bo",
+    "target_document": "2155/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 2155/QĐ-UBND ngày 05/7/2025 của Chủ tịch UBND thành phố phê duyệt quy trình nội bộ, quy trình điện tử giải quyết thủ tục hành chính theo cơ chế một cửa, một cửa liên thông lĩnh vực Lưu trữ thuộc phạm vi chức năng quản lý nhà nước của Sở Nội vụ."
+   },
+   {
+    "source_path": "Điều 3",
+    "action": "bai-bo",
+    "target_document": "2165/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 2165/QĐ-UBND ngày 08/7/2025 của Chủ tịch UBND thành phố phê duyệt quy trình nội bộ, quy trình điện tử giải quyết thủ tục hành chính theo cơ chế một cửa, một cửa liên thông lĩnh vực quản lý nhà nước về hội, quỹ; lao động, tiền lương thuộc phạm vi chức năng quản lý của Sở Nội vụ."
+   },
+   {
+    "source_path": "Điều 3",
+    "action": "bai-bo",
+    "target_document": "2270/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 2270/QĐ-UBND ngày 21/7/2025 của Chủ tịch UBND thành phố phê duyệt quy trình nội bộ, quy trình điện tử giải quyết thủ tục hành chính theo cơ chế một cửa, một cửa liên thông lĩnh vực công chức, viên chức thuộc phạm vi, chức năng quản lý nhà nước của Sở Nội vụ."
+   },
+   {
+    "source_path": "Điều 3",
+    "action": "bai-bo",
+    "target_document": "2466/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 2466/QĐ-UBND ngày 06/8/2025 của Chủ tịch UBND thành phố phê duyệt quy trình nội bộ, quy trình điện tử giải quyết thủ tục hành chính theo cơ chế một cửa, một cửa liên thông lĩnh vực Thi đua - Khen thưởng thực hiện tiếp nhận và giải quyết tại UBND cấp xã, Sở Nội vụ thuộc thẩm quyền quyết định của các cơ quan cấp trung ương."
+   },
+   {
+    "source_path": "Điều 3",
+    "action": "bai-bo",
+    "target_document": "2619/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 2619/QĐ-UBND ngày 18/8/2025 của Chủ tịch UBND thành phố phê duyệt quy trình nội bộ, quy trình điện tử giải quyết thủ tục hành chính theo cơ chế một cửa, một cửa liên thông lĩnh vực Việc làm thuộc phạm vi, chức năng quản lý nhà nước của Sở Nội vụ."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 3 \"bãi bỏ các quyết định sau\" liệt kê 15 quyết định: mỗi quyết định một quan hệ; evidence là dòng liệt kê. Cột \"Quyết định công bố Danh mục TTHC\" của phụ lục chỉ là dẫn chiếu."
+ }
+]

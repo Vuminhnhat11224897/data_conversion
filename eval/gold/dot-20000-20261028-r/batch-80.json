@@ -1,0 +1,27 @@
+[
+ {
+  "doc_id": "659622",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "hop-nhat",
+    "target_document": "66/2024/TT-BCA",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thông tư số 66/2024/TT-BCA ngày 12 tháng 11 năm 2024 của Bộ trưởng Bộ Công an quy định về đào tạo, sát hạch, cấp Giấy phép lái xe; bồi dưỡng kiến thức pháp luật về giao thông đường bộ cho người điều khiển xe máy chuyên dùng trong Công an nhân dân, có hiệu lực kể từ ngày 01 tháng 01 năm 2025, được sửa đổi, bổ sung bởi:"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "hop-nhat",
+    "target_document": "13/2025/TT-BCA",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thông tư số 13/2025/TT-BCA ngày 28 tháng 02 năm 2025 của Bộ trưởng Bộ Công an sửa đổi, bổ sung một số điều của các thông tư quy định về trật tự, an toàn giao thông đường bộ, đường sắt và đường thủy nội địa, có hiệu lực kể từ ngày 01 tháng 3 năm 2025."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Văn bản hợp nhất Thông tư 66/2024/TT-BCA và Thông tư 13/2025/TT-BCA. Điều 46 (thay thế Thông tư 12/2024/TT-BCA) là nội dung của Thông tư 66/2024 được chép lại; các chú thích '[n] … được sửa đổi/thay thế theo …' là lịch sử: không ghi quan hệ cho văn bản hợp nhất."
+ }
+]

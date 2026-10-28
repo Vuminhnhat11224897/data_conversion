@@ -1,0 +1,879 @@
+[
+ {
+  "doc_id": "647508",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "3587/QĐ-BVHTTDL",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 3587/QĐ-BVHTTDL ngày 23/11/2023 của Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch về việc công bố thủ tục hành chính được sửa đổi, bổ sung trong lĩnh vực Điện ảnh thuộc phạm vi chức năng quản lý của Bộ Văn hóa, Thể thao và Du lịch hết hiệu lực kể từ ngày Quyết định này có hiệu lực thi hành."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Bảng TTHC được thay thế chỉ nêu Nghị định 31/2025/NĐ-CP là căn cứ, không nêu Quyết định công bố cũ."
+ },
+ {
+  "doc_id": "647751",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Ban hành kế hoạch tiêm chủng; không có tác động lên văn bản khác."
+ },
+ {
+  "doc_id": "648128",
+  "relations": [
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "17/2021/TT-BCT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 3 Điều 1 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "17/2021/TT-BCT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 3 Điều 1 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "17/2021/TT-BCT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 4 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 4 Điều 1 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "17/2021/TT-BCT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 4 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 4 Điều 1 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "sua-doi",
+    "target_document": "17/2021/TT-BCT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 7 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 7 Điều 1 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "bo-sung",
+    "target_document": "17/2021/TT-BCT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 7 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 7 Điều 1 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "38/2014/TT-BCT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 9a Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung khoản 9a sau khoản 9 Điều 7 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "38/2014/TT-BCT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 7 Điều 8"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung khoản 7 Điều 8 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 3",
+    "action": "sua-doi",
+    "target_document": "38/2014/TT-BCT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 10",
+     "khoản 2 Điều 10"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1, khoản 2 Điều 10 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 3",
+    "action": "bo-sung",
+    "target_document": "38/2014/TT-BCT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 10",
+     "khoản 2 Điều 10"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1, khoản 2 Điều 10 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 4",
+    "action": "sua-doi",
+    "target_document": "38/2014/TT-BCT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 11"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi khoản 1 Điều 11 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 5",
+    "action": "bo-sung",
+    "target_document": "38/2014/TT-BCT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 5a Điều 19"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung khoản 5a sau khoản 5 Điều 19 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 6",
+    "action": "bo-sung",
+    "target_document": "38/2014/TT-BCT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Phụ lục"
+    ],
+    "doi_tuong": "Mẫu số 11, Mẫu số 12",
+    "evidence": "Bổ sung Mẫu số 11, Mẫu số 12 tại Phụ lục của Thông tư này vào sau Mẫu số 10 Phụ lục của Thông tư số 38/2014/TT-BCT."
+   },
+   {
+    "source_path": "Điều 3",
+    "action": "bai-bo",
+    "target_document": "39/2014/TTLT-BCT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 10",
+     "Điều 11",
+     "Điều 12",
+     "Điều 13"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ Điều 10, Điều 11, Điều 12, Điều 13 Thông tư liên tịch số 39/2014/TTLT-BCT-BTC ngày 29 tháng 10 năm 2014"
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 1 Khoản 1 điểm a",
+    "loai": "tach_sai",
+    "ghi_chu": "Điểm a–đ thuộc nội dung mới trong ngoặc kép (khoản 2, 3 Điều 6 mới) bị tách thành điểm của Điều 1 Khoản 1."
+   }
+  ],
+  "ghi_chu": "Tên và lời dẫn không nêu số hiệu văn bản đích nên không ghi Phần đầu."
+ },
+ {
+  "doc_id": "648380",
+  "relations": [
+   {
+    "source_path": "Phụ lục 1 Mục 1 STT 1",
+    "action": "sua-doi",
+    "target_document": "173/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Quy trình số 07.SGTVT-HTGT - Chấp thuận vị trí đấu nối tạm vào quốc lộ đang khai thác",
+    "evidence": "Quy trình số: 07.SGTVT-HTGT Quyết định số 173/QĐ-UBND ngày 22/01/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 1 STT 1",
+    "action": "bo-sung",
+    "target_document": "173/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Quy trình số 07.SGTVT-HTGT - Chấp thuận vị trí đấu nối tạm vào quốc lộ đang khai thác",
+    "evidence": "Quy trình số: 07.SGTVT-HTGT Quyết định số 173/QĐ-UBND ngày 22/01/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 1 STT 2",
+    "action": "sua-doi",
+    "target_document": "173/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Quy trình số 09.SGTVT-HTGT - Cấp phép thi công nút giao đấu nối vào vào đường quốc lộ đang khai thác",
+    "evidence": "Quy trình số: 09.SGTVT-HTGT Quyết định số 173/QĐ-UBND ngày 22/01/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 1 STT 2",
+    "action": "bo-sung",
+    "target_document": "173/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Quy trình số 09.SGTVT-HTGT - Cấp phép thi công nút giao đấu nối vào vào đường quốc lộ đang khai thác",
+    "evidence": "Quy trình số: 09.SGTVT-HTGT Quyết định số 173/QĐ-UBND ngày 22/01/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 2 STT 1",
+    "action": "bai-bo",
+    "target_document": "173/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Quy trình số 01.SGTVT-HTGT - Cấp phép thi công công trình đường bộ trên quốc lộ đang khai thác",
+    "evidence": "Quy trình số: 01.SGTVT- HTGT Quyết định số 173/QĐ-UBND ngày 22/01/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 2 STT 2",
+    "action": "bai-bo",
+    "target_document": "173/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Quy trình số 02.SGTVT-HTGT - Chấp thuận xây dựng công trình thiết yếu trong phạm vi bảo vệ kết cấu hạ tầng giao thông đường bộ",
+    "evidence": "Quy trình số: 02.SGTVT- HTGT Quyết định số 173/QĐ- UBND ngày 22/01/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 2 STT 3",
+    "action": "bai-bo",
+    "target_document": "173/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Quy trình số 03.SGTVT-HTGT - Gia hạn chấp thuận xây dựng công trình thiết yếu",
+    "evidence": "Quy trình số: 03.SGTVT- HTGT Quyết định số 173/QĐ-UBND ngày 22/01/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 2 STT 4",
+    "action": "bai-bo",
+    "target_document": "173/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Quy trình số 04.SGTVT-HTGT - Cấp phép thi công xây dựng công trình thiết yếu",
+    "evidence": "Quy trình số: 04.SGTVT- HTGT Quyết định số 173/QĐ-UBND ngày 22/01/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 2 STT 5",
+    "action": "bai-bo",
+    "target_document": "173/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Quy trình số 05.SGTVT-HTGT - Chấp thuận xây dựng cùng thời điểm với cấp giấy phép thi công xây dựng công trình thiết yếu",
+    "evidence": "Quy trình số: 05.SGTVT- HTGT Quyết định số 173/QĐ-UBND ngày 22/01/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 2 STT 6",
+    "action": "bai-bo",
+    "target_document": "173/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Quy trình số 06.SGTVT-HTGT - Cấp phép thi công xây dựng biển quảng cáo tạm thời",
+    "evidence": "Quy trình số: 06.SGTVT- HTGT Quyết định số 173/QĐ-UBND ngày 22/01/2025"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 2 STT 7",
+    "action": "bai-bo",
+    "target_document": "173/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Quy trình số 08.SGTVT-HTGT - Gia hạn chấp thuận thiết kế kỹ thuật và phương án tổ chức giao thông của nút giao đấu nối vào quốc lộ",
+    "evidence": "Quy trình số: 08.SGTVT- HTGT Quyết định số 173/QĐ-UBND ngày 22/01/2025"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Hành động lấy từ đề mục bảng ('1. Danh mục DVC trực tuyến được sửa đổi, bổ sung', '2. Danh mục DVC trực tuyến bị bãi bỏ'); mỗi dòng nêu quy trình tại QĐ 173/QĐ-UBND (cột 'Áp dụng thay thế'). Điều 1 'Phê duyệt sửa đổi, bổ sung và bãi bỏ kèm theo...' không nêu đích."
+ },
+ {
+  "doc_id": "648442",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "03/2024/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU TẠI QUY ĐỊNH CHỨC NĂNG, NHIỆM VỤ, QUYỀN HẠN VÀ CƠ CẤU TỔ CHỨC CỦA SỞ CÔNG THƯƠNG BAN HÀNH KÈM THEO QUYẾT ĐỊNH SỐ 03/2024/QĐ-UBND NGÀY 24/01/2024 CỦA UBND TỈNH"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "03/2024/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU TẠI QUY ĐỊNH CHỨC NĂNG, NHIỆM VỤ, QUYỀN HẠN VÀ CƠ CẤU TỔ CHỨC CỦA SỞ CÔNG THƯƠNG BAN HÀNH KÈM THEO QUYẾT ĐỊNH SỐ 03/2024/QĐ-UBND NGÀY 24/01/2024 CỦA UBND TỈNH"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "03/2024/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 1 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 Điều 1 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "03/2024/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 1 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 Điều 1 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "03/2024/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm a khoản 1 Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm a khoản 1 Điều 2 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "03/2024/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm a khoản 1 Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm a khoản 1 Điều 2 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "sua-doi",
+    "target_document": "03/2024/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm d khoản 1 Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm d khoản 1 Điều 2 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "bo-sung",
+    "target_document": "03/2024/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm d khoản 1 Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm d khoản 1 Điều 2 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 4",
+    "action": "sua-doi",
+    "target_document": "03/2024/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 2 Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 Điều 2 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 4",
+    "action": "bo-sung",
+    "target_document": "03/2024/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 2 Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 Điều 2 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 5",
+    "action": "sua-doi",
+    "target_document": "03/2024/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm c khoản 4 Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm c khoản 4 Điều 2 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 5",
+    "action": "bo-sung",
+    "target_document": "03/2024/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm c khoản 4 Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm c khoản 4 Điều 2 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 6",
+    "action": "sua-doi",
+    "target_document": "03/2024/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm k khoản 5 Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm k khoản 5 Điều 2 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 6",
+    "action": "bo-sung",
+    "target_document": "03/2024/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm k khoản 5 Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm k khoản 5 Điều 2 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 7",
+    "action": "sua-doi",
+    "target_document": "03/2024/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 10 Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 10 Điều 2 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 7",
+    "action": "bo-sung",
+    "target_document": "03/2024/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 10 Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 10 Điều 2 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 8",
+    "action": "sua-doi",
+    "target_document": "03/2024/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 13 Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 13 Điều 2 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 8",
+    "action": "bo-sung",
+    "target_document": "03/2024/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 13 Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 13 Điều 2 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 9",
+    "action": "sua-doi",
+    "target_document": "03/2024/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm a khoản 1 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm a khoản 1 Điều 3 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 9",
+    "action": "bo-sung",
+    "target_document": "03/2024/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm a khoản 1 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm a khoản 1 Điều 3 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 11",
+    "action": "sua-doi",
+    "target_document": "03/2024/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 1 Điều 4"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 Điều 4 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 11",
+    "action": "bo-sung",
+    "target_document": "03/2024/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 1 Điều 4"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 Điều 4 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 10",
+    "action": "bo-sung",
+    "target_document": "03/2024/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm đ khoản 2 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung điểm đ vào khoản 2 Điều 3 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 12",
+    "action": "bai-bo",
+    "target_document": "03/2024/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm c khoản 1 Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ điểm c khoản 1 Điều 2."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": ""
+ },
+ {
+  "doc_id": "648450",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "17/2024/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG, MỘT SỐ ĐIỀU CỦA QUY ĐỊNH VỀ BỒI THƯỜNG ĐỐI VỚI CÂY TRỒNG, VẬT NUÔI KHI NHÀ NƯỚC THU HỒI ĐẤT TRÊN ĐỊA BÀN TỈNH YÊN BÁI BAN HÀNH KÈM THEO QUYẾT ĐỊNH SỐ 17/2024/QĐ-UBND NGÀY 15 THÁNG 10 NĂM 2024 CỦA ỦY BAN NHÂN DÂN TỈNH YÊN BÁI"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "17/2024/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG, MỘT SỐ ĐIỀU CỦA QUY ĐỊNH VỀ BỒI THƯỜNG ĐỐI VỚI CÂY TRỒNG, VẬT NUÔI KHI NHÀ NƯỚC THU HỒI ĐẤT TRÊN ĐỊA BÀN TỈNH YÊN BÁI BAN HÀNH KÈM THEO QUYẾT ĐỊNH SỐ 17/2024/QĐ-UBND NGÀY 15 THÁNG 10 NĂM 2024 CỦA ỦY BAN NHÂN DÂN TỈNH YÊN BÁI"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "17/2024/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm b khoản 1 Điều 4"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm b khoản 1 Điều 4 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "17/2024/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm b khoản 1 Điều 4"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm b khoản 1 Điều 4 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "17/2024/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm a khoản 4 Điều 4",
+     "điểm b khoản 4 Điều 4"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm a, điểm b khoản 4 Điều 4 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "17/2024/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm a khoản 4 Điều 4",
+     "điểm b khoản 4 Điều 4"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm a, điểm b khoản 4 Điều 4 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 1",
+    "action": "thay-cum-tu",
+    "target_document": "17/2024/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm b Điều 5",
+     "khoản 9 Điều 6",
+     "khoản 1 Điều 7",
+     "khoản 2 Điều 7",
+     "khoản 5 Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Sở Nông nghiệp và Phát triển nông thôn” bằng cụm từ “Sở Nông nghiệp và Môi trường” tại khoản b Điều 5; khoản 9 Điều 6; khoản 1, khoản 2, khoản 5 Điều 7."
+   },
+   {
+    "source_path": "Điều 2 Khoản 2",
+    "action": "thay-cum-tu",
+    "target_document": "17/2024/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 2 Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Các Sở: Tài chính, Tài nguyên và Môi trường” bằng cụm từ “Sở Tài chính” tại khoản 2 Điều 7."
+   },
+   {
+    "source_path": "Điều 2 Khoản 3",
+    "action": "bai-bo",
+    "target_document": "17/2024/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục V",
+     "Phụ lục VI"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ Phụ lục V và Phụ lục VI tại khoản 5 khoản 6 Điều 6."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Văn bản ghi 'khoản b Điều 5', ghi vi_tri là 'điểm b Điều 5'."
+ },
+ {
+  "doc_id": "648507",
+  "relations": [
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bai-bo",
+    "target_document": "745/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Danh mục 03 thủ tục hành chính lĩnh vực Lý lịch tư pháp",
+    "evidence": "Công bố Danh mục 03 thủ tục hành chính bị bãi bỏ trong lĩnh vực Lý lịch tư pháp thuộc thẩm quyền giải quyết của Sở Tư pháp đã được công bố tại Quyết định số 745/QĐ-UBND ngày 12 tháng 7 năm 2024"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "745/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục II",
+     "Phụ lục III"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ Danh mục 09 thành phần hồ sơ phải số hoá của 03 thủ tục hành chính lĩnh vực lý lịch tư pháp (tại Phụ lục số II), Danh mục 01 thủ tục hành chính tái sử dụng có kết quả giải quyết là thành phần hồ sơ của thủ tục hành chính khác (tại Phụ lục III) ban hành kèm theo Quyết định số 745/QĐ -UBND ngày 12 tháng 7 năm 2024"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "807/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Danh mục 03 quy trình liên thông trong giải quyết 03 thủ tục hành chính lĩnh vực Lý lịch tư pháp",
+    "evidence": "Danh mục 03 quy trình liên thông trong giải quyết 03 thủ tục hành chính lĩnh vực Lý lịch tư pháp thuộc thẩm quyền giải quyết của Sở Tư pháp tỉnh Tuyên Quang ban hành kèm theo Quyết định số 807/QĐ-UBND ngày 01 tháng 8 năm 2024"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Khoản 1 công bố TTHC bị bãi bỏ đã công bố tại QĐ 745 (câu nêu rõ văn bản đích) ghi bai-bo; dòng phụ lục không nêu Quyết định."
+ },
+ {
+  "doc_id": "648844",
+  "relations": [
+   {
+    "source_path": "Điều 3",
+    "action": "thay-the",
+    "target_document": "366/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực thi hành kể từ ngày ký ban hành và thay thế Quyết định số 366/QĐ-UBND ngày 10 tháng 3 năm 2025"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Dòng phụ lục chỉ nêu Nghị định 147/2024/NĐ-CP làm căn cứ, không nêu Quyết định công bố cũ."
+ },
+ {
+  "doc_id": "648957",
+  "relations": [
+   {
+    "source_path": "Điều 1",
+    "action": "bai-bo",
+    "target_document": "5551/QĐ-BCA-V19",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "các thủ tục hành chính về cấp giấy phép sử dụng thiết bị phát tín hiệu của xe được quyền ưu tiên",
+    "evidence": "Bãi bỏ các thủ tục hành chính về cấp giấy phép sử dụng thiết bị phát tín hiệu của xe được quyền ưu tiên ban hành kèm theo Quyết định số 5551/QĐ-BCA-V19 ngày 25/9/2015"
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 1",
+    "loai": "gop_sai",
+    "ghi_chu": "Nội dung Điều 1 (gồm câu bãi bỏ) bị đưa vào ten_dieu; noi_dung chỉ còn '(có danh mục, nội dung cụ thể kèm theo)'."
+   }
+  ],
+  "ghi_chu": ""
+ },
+ {
+  "doc_id": "649098",
+  "relations": [
+   {
+    "source_path": "Điều 1",
+    "action": "bai-bo",
+    "target_document": "53/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Danh mục thủ tục hành chính và Quy trình nội bộ lĩnh vực đường bộ",
+    "evidence": "Công bố bãi bỏ kèm theo Quyết định này 13 (Mười ba) Danh mục thủ tục hành chính và Quy trình nội bộ được công bố tại Quyết định số 53/QĐ-UBND ngày 14 tháng 01 năm 2025"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bai-bo",
+    "target_document": "371/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Danh mục thủ tục hành chính và Quy trình nội bộ lĩnh vực đường bộ",
+    "evidence": "Quyết định số 371/QĐ-UBND ngày 27 tháng 02 năm 2025 của Chủ tịch Ủy ban nhân dân tỉnh về việc công bố mới, sửa đổi, bổ sung, bãi bỏ thủ tục hành chính và phê duyệt Quy trình nội bộ"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 1 nêu rõ TTHC và quy trình nội bộ bị bãi bỏ đã công bố tại QĐ 53 và QĐ 371; không tách được thủ tục nào thuộc QĐ nào."
+ },
+ {
+  "doc_id": "649259",
+  "relations": [
+   {
+    "source_path": "Điều 1 Khoản 2 điểm a",
+    "action": "bai-bo",
+    "target_document": "2537/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Các thủ tục hành chính lĩnh vực giám định y khoa (07 thủ tục) và y tế dự phòng (02 thủ tục)",
+    "evidence": "Các thủ tục hành chính trong lĩnh vực: giám định y khoa (07 thủ tục) và y tế dự phòng (02 thủ tục) được công bố tại Quyết định số 2537/QĐ-UBND ngày 13/9/2016"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2 điểm a",
+    "action": "thay-the",
+    "target_document": "2537/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Các thủ tục hành chính lĩnh vực giám định y khoa (07 thủ tục) và y tế dự phòng (02 thủ tục)",
+    "evidence": "Các thủ tục hành chính trong lĩnh vực: giám định y khoa (07 thủ tục) và y tế dự phòng (02 thủ tục) được công bố tại Quyết định số 2537/QĐ-UBND ngày 13/9/2016"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2 điểm b",
+    "action": "bai-bo",
+    "target_document": "1975/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [
+     "Mục II"
+    ],
+    "doi_tuong": "Các thủ tục hành chính lĩnh vực y tế dự phòng",
+    "evidence": "Các thủ tục hành chính trong lĩnh vực y tế dự phòng thuộc mục II được công bố tại Quyết định số 1975/QĐ-UBND ngày 20/7/2018"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2 điểm b",
+    "action": "thay-the",
+    "target_document": "1975/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [
+     "Mục II"
+    ],
+    "doi_tuong": "Các thủ tục hành chính lĩnh vực y tế dự phòng",
+    "evidence": "Các thủ tục hành chính trong lĩnh vực y tế dự phòng thuộc mục II được công bố tại Quyết định số 1975/QĐ-UBND ngày 20/7/2018"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2 điểm c",
+    "action": "bai-bo",
+    "target_document": "875/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Thủ tục hành chính số 16 (lĩnh vực dược phẩm)",
+    "evidence": "Thủ tục hành chính số 16 (lĩnh vực dược phẩm) được công bố tại Quyết định số 875/QĐ-UBND ngày 27/3/2019"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2 điểm c",
+    "action": "thay-the",
+    "target_document": "875/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Thủ tục hành chính số 16 (lĩnh vực dược phẩm)",
+    "evidence": "Thủ tục hành chính số 16 (lĩnh vực dược phẩm) được công bố tại Quyết định số 875/QĐ-UBND ngày 27/3/2019"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2 điểm d",
+    "action": "bai-bo",
+    "target_document": "3319/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Các thủ tục hành chính lĩnh vực phòng, chống HIV/AIDS",
+    "evidence": "Các thủ tục hành chính được công bố tại Quyết định số 3319/QĐ-UBND ngày 21/10/2019"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2 điểm d",
+    "action": "thay-the",
+    "target_document": "3319/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Các thủ tục hành chính lĩnh vực phòng, chống HIV/AIDS",
+    "evidence": "Các thủ tục hành chính được công bố tại Quyết định số 3319/QĐ-UBND ngày 21/10/2019"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2 điểm đ",
+    "action": "bai-bo",
+    "target_document": "886/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Các thủ tục hành chính lĩnh vực quản lý môi trường y tế",
+    "evidence": "Các thủ tục hành chính được công bố tại Quyết định số 886/QĐ-UBND ngày 31/3/2020"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2 điểm đ",
+    "action": "thay-the",
+    "target_document": "886/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Các thủ tục hành chính lĩnh vực quản lý môi trường y tế",
+    "evidence": "Các thủ tục hành chính được công bố tại Quyết định số 886/QĐ-UBND ngày 31/3/2020"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Câu dẫn 'Các thủ tục hành chính bị bãi bỏ và thay thế, gồm:' không tách thủ tục nào bãi bỏ, thủ tục nào thay thế: mỗi điểm ghi cả bai-bo và thay-the."
+ }
+]

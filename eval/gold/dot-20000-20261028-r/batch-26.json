@@ -1,0 +1,61 @@
+[
+ {
+  "doc_id": "659459",
+  "relations": [
+   {
+    "source_path": "Điều 2 Khoản 2 điểm a",
+    "action": "thay-the",
+    "target_document": "19/2017/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 19/2017/QĐ-UBND ngày 16 tháng 6 năm 2017 của Ủy ban nhân dân thành phố về quản lý và sử dụng nguồn vốn ngân sách địa phương uỷ thác qua Ngân hàng Chính sách xã hội để cho vay đối với người nghèo và các đối tượng chính sách khác trên địa bàn thành phố Đà Nẵng."
+   },
+   {
+    "source_path": "Điều 2 Khoản 2 điểm b",
+    "action": "thay-the",
+    "target_document": "01/2020/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 01/2020/QĐ-UBND ngày 20 tháng 01 năm 2020 của Ủy ban nhân dân thành phố sửa đổi, bổ sung một số điều của Quy chế ban hành kèm theo Quyết định số 19/2017/QĐ-UBND ngày 16 tháng 6 năm 2017 của Ủy ban nhân dân thành phố về quản lý và sử dụng nguồn vốn ngân sách địa phương uỷ thác qua Ngân hàng Chính sách xã hội để cho vay đối với người nghèo và các đối tượng chính sách khác trên địa bàn thành phố Đà Nẵng;"
+   },
+   {
+    "source_path": "Điều 2 Khoản 2 điểm c",
+    "action": "thay-the",
+    "target_document": "13/2022/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 13/2022/QĐ-UBND ngày 29 tháng 6 năm 2022 của Ủy ban nhân dân thành phố sửa đổi, bổ sung một số điều của Quy chế ban hành kèm theo Quyết định số 19/2017/QĐ-UBND ngày 16 tháng 6 năm 2017 của UBND thành phố về quản lý và sử dụng nguồn vốn ngân sách địa phương uỷ thác qua Ngân hàng Chính sách xã hội để cho vay đối với người nghèo và các đối tượng chính sách khác trên địa bàn thành phố Đà Nẵng;"
+   },
+   {
+    "source_path": "Điều 2 Khoản 2 điểm d",
+    "action": "thay-the",
+    "target_document": "09/2024/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 09/2024/QĐ-UBND ngày 18 tháng 3 năm 2024 của Ủy ban nhân dân thành phố bãi bỏ một phần Quy chế quản lý và sử dụng nguồn vốn từ ngân sách địa phương ủy thác qua Ngân hàng Chính sách xã hội để cho vay đối với người nghèo và các đối tượng chính sách khác trên địa bàn thành phố Đà Nẵng ban hành kèm theo Quyết định số 19/2017/QĐ-UBND ngày 16/6/2017 của Ủy ban nhân dân thành phố."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 2 Khoản 2 thay thế 4 quyết định (mỗi điểm một quan hệ). Khoản 3 về văn bản trích dẫn được sửa đổi là câu chung. Quy chế kèm theo không có hành động lên văn bản khác."
+ },
+ {
+  "doc_id": "659974",
+  "relations": [
+   {
+    "source_path": "Mục III",
+    "action": "thay-the",
+    "target_document": "37/KH-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Kế hoạch này thay thế Kế hoạch số 37/KH-UBND ngày 26/02/2025 của UBND tỉnh"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Kế hoạch thực hiện NQ 71/NQ-CP (không phải hướng dẫn/quy định chi tiết). Câu cuối Mục III thay thế Kế hoạch 37/KH-UBND. Phụ lục là bảng nhiệm vụ, không có hành động lên văn bản khác."
+ }
+]

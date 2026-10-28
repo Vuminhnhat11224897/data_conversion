@@ -1,0 +1,94 @@
+[
+ {
+  "doc_id": "675825",
+  "relations": [
+   {
+    "source_path": "Điều 1",
+    "action": "huong-dan",
+    "target_document": "41/2024/QH15",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thông tư này hướng dẫn thực hiện các chế độ bảo hiểm xã hội bắt buộc và thực hiện quản lý thu, đóng bảo hiểm xã hội đối với sĩ quan, hạ sĩ quan, chiến sĩ Công an nhân dân theo quy định của Luật Bảo hiểm xã hội và Nghị định số 157/2025/NĐ-CP."
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "huong-dan",
+    "target_document": "157/2025/NĐ-CP",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thông tư này hướng dẫn thực hiện các chế độ bảo hiểm xã hội bắt buộc và thực hiện quản lý thu, đóng bảo hiểm xã hội đối với sĩ quan, hạ sĩ quan, chiến sĩ Công an nhân dân theo quy định của Luật Bảo hiểm xã hội và Nghị định số 157/2025/NĐ-CP."
+   },
+   {
+    "source_path": "Điều 3 Khoản 2",
+    "action": "huong-dan",
+    "target_document": "41/2024/QH15",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 42"
+    ],
+    "doi_tuong": null,
+    "evidence": "Người lao động quy định tại điểm a khoản 1 Điều 2 Thông tư này không được hưởng chế độ ốm đau nếu thuộc một trong các trường hợp quy định tại khoản 2 Điều 42 Luật Bảo hiểm xã hội và hướng dẫn cụ thể sau:"
+   },
+   {
+    "source_path": "Điều 22 Khoản 1",
+    "action": "huong-dan",
+    "target_document": "41/2024/QH15",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 37"
+    ],
+    "doi_tuong": null,
+    "evidence": "Tạm dừng đóng vào quỹ hưu trí và tử tuất được thực hiện theo quy định tại khoản 1 Điều 37 Luật Bảo hiểm xã hội, khoản 1, khoản 2, khoản 3 và khoản 4 Điều 9 Nghị định số 157/2025/NĐ-CP và được hướng dẫn cụ thể như sau:"
+   },
+   {
+    "source_path": "Điều 22 Khoản 1",
+    "action": "huong-dan",
+    "target_document": "157/2025/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 9",
+     "khoản 2 Điều 9",
+     "khoản 3 Điều 9",
+     "khoản 4 Điều 9"
+    ],
+    "doi_tuong": null,
+    "evidence": "Tạm dừng đóng vào quỹ hưu trí và tử tuất được thực hiện theo quy định tại khoản 1 Điều 37 Luật Bảo hiểm xã hội, khoản 1, khoản 2, khoản 3 và khoản 4 Điều 9 Nghị định số 157/2025/NĐ-CP và được hướng dẫn cụ thể như sau:"
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 24 Khoản 3",
+    "loai": "gop_sai",
+    "ghi_chu": "Toàn văn đánh số khoản 1, 2, 3, 5, 4: khoản 5 (người lao động bị kết án tù giam) bị gộp vào khoản 3; điểm a, b của khoản 5 bị gán thành Điều 24 Khoản 3 điểm a, b."
+   }
+  ],
+  "ghi_chu": "Thông tư hướng dẫn Luật Bảo hiểm xã hội số 41/2024/QH15 (số hiệu lấy từ căn cứ) và Nghị định 157/2025/NĐ-CP; không có sửa đổi, bãi bỏ, thay thế văn bản khác. Điều 25 Khoản 3 là câu dẫn chiếu chung, không phải quan hệ."
+ },
+ {
+  "doc_id": "676330",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "hop-nhat",
+    "target_document": "45/2012/NĐ-CP",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị định số 45/2012/NĐ-CP ngày 21 tháng 5 năm 2012 của Chính phủ về khuyến công, có hiệu lực kể từ ngày 05 tháng 7 năm 2012, được sửa đổi, bổ sung bởi:"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "hop-nhat",
+    "target_document": "235/2025/NĐ-CP",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị định số 235/2025/NĐ-CP ngày 27 tháng 8 năm 2025 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 45/2012/NĐ-CP ngày 21 tháng 5 năm 2012 của Chính phủ về khuyến công, có hiệu lực kể từ ngày 15 tháng 10 năm 2025."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Văn bản hợp nhất Nghị định 45/2012/NĐ-CP với Nghị định sửa đổi 235/2025/NĐ-CP. Điều 18 'thay thế Nghị định số 134/2004/NĐ-CP' là hành động của Nghị định 45/2012 được chép lại; chú thích [2]-[42] (thay cụm từ, bãi bỏ khoản, Điều 52 Nghị định 146/2025/NĐ-CP hết hiệu lực) là hành động của Nghị định 235/2025 được ghi chú lại: không ghi quan hệ cho văn bản hợp nhất."
+ }
+]

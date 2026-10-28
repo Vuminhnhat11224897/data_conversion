@@ -1,0 +1,52 @@
+[
+ {
+  "doc_id": "672690",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "hop-nhat",
+    "target_document": "73/2021/QH14",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Văn bản hợp nhất 117/VBHN-VPQH năm 2025 hợp nhất Luật Phòng, chống ma túy do Văn phòng Quốc hội ban hành"
+   },
+   {
+    "source_path": "Điều 54 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "23/2000/QH10",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Luật Phòng, chống ma túy số 23/2000/QH10 đã được sửa đổi, bổ sung một số điều theo Luật số 16/2008/QH12 hết hiệu lực kể từ ngày Luật này có hiệu lực thi hành."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Văn bản hợp nhất. Điều 54 khoản 2 là câu của Luật 73/2021/QH14 được chép lại; giữ theo câu chữ, người duyệt có thể bỏ nếu quy ước VBHN không tự tác động. Chú thích [1]-[6] là lịch sử sửa đổi, không ghi. Các câu 'Chính phủ quy định chi tiết' là giao nhiệm vụ."
+ },
+ {
+  "doc_id": "672894",
+  "relations": [
+   {
+    "source_path": "Điều 22",
+    "action": "thay-the",
+    "target_document": "174/1999/NĐ-CP",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị định này có hiệu lực thi hành kể từ ngày 25 tháng 5 năm 2012 và thay thế Nghị định số 174/1999/NĐ-CP ngày 09 tháng 12 năm 1999 của Chính phủ về quản lý hoạt động kinh doanh vàng và Nghị định số 64/2003/NĐ-CP ngày 11 tháng 6 năm 2003 của Chính phủ sửa đổi, bổ sung Nghị định số 174/1999/NĐ-CP ngày 09 tháng 12 năm 1999."
+   },
+   {
+    "source_path": "Điều 22",
+    "action": "thay-the",
+    "target_document": "64/2003/NĐ-CP",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị định này có hiệu lực thi hành kể từ ngày 25 tháng 5 năm 2012 và thay thế Nghị định số 174/1999/NĐ-CP ngày 09 tháng 12 năm 1999 của Chính phủ về quản lý hoạt động kinh doanh vàng và Nghị định số 64/2003/NĐ-CP ngày 11 tháng 6 năm 2003 của Chính phủ sửa đổi, bổ sung Nghị định số 174/1999/NĐ-CP ngày 09 tháng 12 năm 1999."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Văn bản hợp nhất Nghị định 24/2012/NĐ-CP. Tên văn bản không nêu số hiệu nên không ghi quan hệ hop-nhat ở Phần đầu. Điều 22 là câu của Nghị định gốc được chép lại; giữ theo câu chữ. Chú thích '(được bãi bỏ)', 'được sửa đổi theo …' là lịch sử. Điều 21 khoản 3 (giấy phép hết hiệu lực) không phải văn bản."
+ }
+]

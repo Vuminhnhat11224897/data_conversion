@@ -1,0 +1,909 @@
+[
+ {
+  "doc_id": "663451",
+  "relations": [
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "56/2024/TT-NHNN",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 6 Điều 10",
+     "khoản 7 Điều 10"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung khoản 6, khoản 7 vào sau khoản 5 Điều 10 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2 điểm a",
+    "action": "bo-sung",
+    "target_document": "56/2024/TT-NHNN",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 1 Điều 7",
+     "điểm c khoản 1 Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung cụm từ “hoặc nộp trực tuyến qua Cổng dịch vụ công quốc gia hoặc qua Cổng dịch vụ công Ngân hàng Nhà nước (nếu có)” vào sau cụm từ “nộp trực tiếp tại Ngân hàng Nhà nước (bộ phận Một cửa)” tại điểm a, điểm c khoản 1 Điều 7;"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2 điểm b",
+    "action": "bo-sung",
+    "target_document": "56/2024/TT-NHNN",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 2 Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung cụm từ “hoặc nộp trực tuyến qua Cổng dịch vụ công quốc gia hoặc qua Cổng dịch vụ công Ngân hàng Nhà nước (nếu có)” vào sau cụm từ “nộp trực tiếp tại Ngân hàng Nhà nước chi nhánh” tại điểm a khoản 2 Điều 7;"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2 điểm c",
+    "action": "bo-sung",
+    "target_document": "56/2024/TT-NHNN",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm b khoản 4 Điều 11"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung cụm từ “Nhân sự dự kiến bầu, bổ nhiệm được xuất trình Phiếu lý lịch tư pháp bản điện tử đã được cấp trên ứng dụng định danh và xác thực điện tử VNeID hoặc nộp Phiếu lý lịch tư pháp bản điện tử theo quy định của pháp luật (có đầy đủ thông tin về tình trạng án tích; thông tin về việc cấm đảm nhiệm chức vụ, thành lập, quản lý doanh nghiệp, hợp tác xã);” vào sau điểm b(iii) khoản 4 Điều 11;"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2 điểm d",
+    "action": "bo-sung",
+    "target_document": "56/2024/TT-NHNN",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 3 Điều 12"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung cụm từ “Cổ đông sáng lập được xuất trình Phiếu lý lịch tư pháp bản điện tử đã được cấp trên ứng dụng định danh và xác thực điện tử VNeID hoặc nộp Phiếu lý lịch tư pháp bản điện tử theo quy định của pháp luật (có đầy đủ thông tin về tình trạng án tích; thông tin về việc cấm đảm nhiệm chức vụ, thành lập, quản lý doanh nghiệp, hợp tác xã);” vào sau cụm từ “thông tin về việc cấm thành lập, doanh nghiệp, hợp tác xã;” tại điểm a(iii) khoản 3 Điều 12;"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2 điểm đ",
+    "action": "bo-sung",
+    "target_document": "56/2024/TT-NHNN",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm b khoản 3 Điều 12"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung cụm từ “Cổ đông sáng lập được xuất trình Phiếu lý lịch tư pháp bản điện tử đã được cấp trên ứng dụng định danh và xác thực điện tử VNeID hoặc nộp Phiếu lý lịch tư pháp bản điện tử theo quy định của pháp luật (có đầy đủ thông tin về tình trạng án tích; thông tin về việc cấm đảm nhiệm chức vụ, thành lập, quản lý doanh nghiệp, hợp tác xã);” vào sau cụm từ “thông tin về tình trạng án tích;” tại điểm b(vii) khoản 3 Điều 12."
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "thay-cum-tu",
+    "target_document": "56/2024/TT-NHNN",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Ngân hàng Nhà nước chi nhánh” bằng cụm từ “Ngân hàng Nhà nước chi nhánh tại các Khu vực (sau đây gọi tắt là Ngân hàng Nhà nước chi nhánh)” tại khoản 2 Điều 5."
+   },
+   {
+    "source_path": "Điều 2 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "57/2024/TT-NHNN",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 6 Điều 10",
+     "khoản 7 Điều 10"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung khoản 6, khoản 7 vào sau khoản 5 Điều 10 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 2 điểm a",
+    "action": "bo-sung",
+    "target_document": "57/2024/TT-NHNN",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 7",
+     "khoản 3 Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung cụm từ “hoặc nộp trực tuyến qua Cổng dịch vụ công quốc gia hoặc qua Cổng dịch vụ công Ngân hàng Nhà nước (nếu có)” vào sau cụm từ “nộp trực tiếp tại Ngân hàng Nhà nước (bộ phận Một cửa)” tại khoản 1, khoản 3 Điều 7;"
+   },
+   {
+    "source_path": "Điều 2 Khoản 2 điểm b",
+    "action": "bo-sung",
+    "target_document": "57/2024/TT-NHNN",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm b khoản 5 Điều 11"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung cụm từ “Nhân sự dự kiến bầu, bổ nhiệm được xuất trình Phiếu lý lịch tư pháp bản điện tử đã được cấp trên ứng dụng định danh và xác thực điện tử VNeID hoặc nộp Phiếu lý lịch tư pháp bản điện tử theo quy định của pháp luật (có đầy đủ thông tin về tình trạng án tích; thông tin về việc cấm đảm nhiệm chức vụ, thành lập, quản lý doanh nghiệp, hợp tác xã);” vào sau điểm b(iii) khoản 5 Điều 11;"
+   },
+   {
+    "source_path": "Điều 2 Khoản 2 điểm c",
+    "action": "bo-sung",
+    "target_document": "57/2024/TT-NHNN",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 3 Điều 12"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung cụm từ “Cổ đông sáng lập được xuất trình Phiếu lý lịch tư pháp bản điện tử đã được cấp trên ứng dụng định danh và xác thực điện tử VNeID hoặc nộp Phiếu lý lịch tư pháp bản điện tử theo quy định của pháp luật (có đầy đủ thông tin về tình trạng án tích; thông tin về việc cấm đảm nhiệm chức vụ, thành lập, quản lý doanh nghiệp, hợp tác xã);” vào sau cụm từ “thông tin về việc cấm thành lập doanh nghiệp, hợp tác xã;” tại điểm a(iii) khoản 3 Điều 12;"
+   },
+   {
+    "source_path": "Điều 2 Khoản 2 điểm d",
+    "action": "bo-sung",
+    "target_document": "57/2024/TT-NHNN",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm b khoản 3 Điều 12"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung cụm từ “Cổ đông sáng lập được xuất trình Phiếu lý lịch tư pháp bản điện tử đã được cấp trên ứng dụng định danh và xác thực điện tử VNeID hoặc nộp Phiếu lý lịch tư pháp bản điện tử theo quy định của pháp luật (có đầy đủ thông tin về tình trạng án tích; thông tin về việc cấm đảm nhiệm chức vụ, thành lập, quản lý doanh nghiệp, hợp tác xã);” vào sau cụm từ “thông tin về tình trạng án tích;” tại điểm b(vi) khoản 3 Điều 12;"
+   },
+   {
+    "source_path": "Điều 2 Khoản 2 điểm đ",
+    "action": "bo-sung",
+    "target_document": "57/2024/TT-NHNN",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm c khoản 6 Điều 13"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung cụm từ “Người đại diện theo pháp luật, người được cử đại diện phần vốn góp của ngân hàng thương mại Việt Nam tại tổ chức tín dụng phi ngân hàng được xuất trình Phiếu lý lịch tư pháp bản điện tử đã được cấp trên ứng dụng định danh và xác thực điện tử VNeID hoặc nộp Phiếu lý lịch tư pháp bản điện tử theo quy định của pháp luật (có đầy đủ thông tin về tình trạng án tích; thông tin về việc cấm đảm nhiệm chức vụ, thành lập, quản lý doanh nghiệp, hợp tác xã).” vào sau điểm c khoản 6 Điều 13;"
+   },
+   {
+    "source_path": "Điều 2 Khoản 2 điểm e",
+    "action": "bo-sung",
+    "target_document": "57/2024/TT-NHNN",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 7 Điều 13"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung cụm từ “Người được cử đại diện phần vốn góp của tổ chức tại tổ chức tín dụng phi ngân hàng được xuất trình Phiếu lý lịch tư pháp bản điện tử đã được cấp trên ứng dụng định danh và xác thực điện tử VNeID hoặc nộp Phiếu lý lịch tư pháp bản điện tử theo quy định của pháp luật (có đầy đủ thông tin về tình trạng án tích; thông tin về việc cấm đảm nhiệm chức vụ, thành lập, quản lý doanh nghiệp, hợp tác xã);” vào sau điểm a(ii) khoản 7 Điều 13."
+   },
+   {
+    "source_path": "Điều 2 Khoản 3",
+    "action": "thay-cum-tu",
+    "target_document": "57/2024/TT-NHNN",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 14"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Ngân hàng Nhà nước chi nhánh nơi tổ chức tín dụng phi ngân hàng đề nghị thành lập dự định đặt trụ sở chính” bằng cụm từ “Ngân hàng Nhà nước chi nhánh tại các Khu vực nơi tổ chức tín dụng phi ngân hàng đề nghị thành lập dự định đặt trụ sở chính” tại khoản 1 Điều 14."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên và lời dẫn chỉ nói 'các Thông tư', không nêu số hiệu nên không có quan hệ Phần đầu. Bổ sung cụm từ vào tiết (iii), (vi), (vii), (ii) của điểm: vi_tri dừng ở điểm. Câu dẫn khoản 2 không nêu vị trí, quan hệ ghi ở các điểm."
+ },
+ {
+  "doc_id": "663475",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "25/2024/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG KHOẢN 1 ĐIỀU 2 NGHỊ QUYẾT SỐ 25/2024/NQ-HĐND NGÀY 06 THÁNG 12 NĂM 2024"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "25/2024/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG KHOẢN 1 ĐIỀU 2 NGHỊ QUYẾT SỐ 25/2024/NQ-HĐND NGÀY 06 THÁNG 12 NĂM 2024"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "sua-doi",
+    "target_document": "25/2024/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 Điều 2 của Nghị quyết số 25/2024/NQ-HĐND như sau:"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bo-sung",
+    "target_document": "25/2024/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 Điều 2 của Nghị quyết số 25/2024/NQ-HĐND như sau:"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên và lời dẫn cùng nêu sửa đổi, bổ sung khoản 1 Điều 2 NQ 25/2024."
+ },
+ {
+  "doc_id": "664116",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "124/2017/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU NGHỊ QUYẾT 124/2017/NQ-HĐND NGÀY 07 THÁNG 12 NĂM 2017"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "124/2017/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU NGHỊ QUYẾT 124/2017/NQ-HĐND NGÀY 07 THÁNG 12 NĂM 2017"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "124/2017/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "124/2017/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "124/2017/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 3 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "124/2017/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 3 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "sua-doi",
+    "target_document": "124/2017/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 4 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi khoản 4 Điều 1 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 4",
+    "action": "sua-doi",
+    "target_document": "124/2017/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm b khoản 5 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi điểm b khoản 5 Điều 1 như sau:"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Khoản 1, 2 chỉ nêu 'khoản 2', 'khoản 3'; Điều lấy từ tên Điều 1 (Sửa đổi, bổ sung Điều 1 NQ 124/2017)."
+ },
+ {
+  "doc_id": "664182",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "78/2024/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA QUY ĐỊNH CHÍNH SÁCH HỖ TRỢ XÓA NHÀ TẠM, NHÀ DỘT NÁT CHO HỘ NGHÈO, HỘ CẬN NGHÈO TRÊN ĐỊA BÀN TỈNH QUẢNG BÌNH GIAI ĐOẠN 2024-2025 BAN HÀNH KÈM THEO NGHỊ QUYẾT SỐ 78/2024/NQ-HĐND"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "78/2024/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA QUY ĐỊNH CHÍNH SÁCH HỖ TRỢ XÓA NHÀ TẠM, NHÀ DỘT NÁT CHO HỘ NGHÈO, HỘ CẬN NGHÈO TRÊN ĐỊA BÀN TỈNH QUẢNG BÌNH GIAI ĐOẠN 2024-2025 BAN HÀNH KÈM THEO NGHỊ QUYẾT SỐ 78/2024/NQ-HĐND"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "78/2024/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 6"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 6 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "78/2024/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 6"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 6 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "78/2024/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 7 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "78/2024/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 7 như sau:"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Sửa đổi, bổ sung Điều 6, Điều 7 của Quy định ban hành kèm theo NQ 78/2024."
+ },
+ {
+  "doc_id": "664195",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "42/2019/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "một số vị trí trong bảng giá đất",
+    "evidence": "ĐIỀU CHỈNH MỘT SỐ VỊ TRÍ TRONG BẢNG GIÁ ĐẤT BAN HÀNH KÈM THEO QUYẾT ĐỊNH SỐ 42/2019/QĐ-UBND NGÀY 27/12/2019 CỦA UBND TỈNH VỀ VIỆC QUY ĐỊNH GIÁ CÁC LOẠI ĐẤT TRÊN ĐỊA BÀN TỈNH QUẢNG NINH THỰC HIỆN TỪ NGÀY 01/01/2020 ĐẾN 31/12/2024 VÀ QUYẾT ĐỊNH SỐ 62/2024/QĐ-UBND"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "62/2024/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "một số vị trí trong bảng giá đất",
+    "evidence": "ĐIỀU CHỈNH MỘT SỐ VỊ TRÍ TRONG BẢNG GIÁ ĐẤT BAN HÀNH KÈM THEO QUYẾT ĐỊNH SỐ 42/2019/QĐ-UBND NGÀY 27/12/2019 CỦA UBND TỈNH VỀ VIỆC QUY ĐỊNH GIÁ CÁC LOẠI ĐẤT TRÊN ĐỊA BÀN TỈNH QUẢNG NINH THỰC HIỆN TỪ NGÀY 01/01/2020 ĐẾN 31/12/2024 VÀ QUYẾT ĐỊNH SỐ 62/2024/QĐ-UBND"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "sua-doi",
+    "target_document": "42/2019/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "một số vị trí trong bảng giá đất",
+    "evidence": "Điều chỉnh một số vị trí trong bảng giá đất ban hành theo Quyết định số 42/2019/QĐ-UBND ngày 27/12/2019 của UBND tỉnh “Về việc quy định giá các loại đất trên địa bàn tỉnh Quảng Ninh thực hiện từ ngày 01/01/2020 đến 31/12/2024” và Quyết định số 62/2024/QĐ-UBND ngày 14/12/2024 của UBND tỉnh"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "sua-doi",
+    "target_document": "62/2024/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "một số vị trí trong bảng giá đất",
+    "evidence": "Điều chỉnh một số vị trí trong bảng giá đất ban hành theo Quyết định số 42/2019/QĐ-UBND ngày 27/12/2019 của UBND tỉnh “Về việc quy định giá các loại đất trên địa bàn tỉnh Quảng Ninh thực hiện từ ngày 01/01/2020 đến 31/12/2024” và Quyết định số 62/2024/QĐ-UBND ngày 14/12/2024 của UBND tỉnh"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "'Điều chỉnh' một số vị trí bảng giá đất = sửa đổi; nội dung điều chỉnh ở Phụ lục (bảng giá mới, không có chữ hành động riêng)."
+ },
+ {
+  "doc_id": "664748",
+  "relations": [
+   {
+    "source_path": "Điều 1",
+    "action": "sua-doi",
+    "target_document": "35/QĐ-BNNMT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 13 Điều 4"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi khoản 13 Điều 4 Quyết định số 35/QĐ-BNNMT ngày 01 tháng 3 năm 2025 của Bộ trưởng Bộ Nông nghiệp và Môi trường quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Cục Khí tượng Thủy văn như sau:"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên văn bản không nêu số hiệu văn bản đích."
+ },
+ {
+  "doc_id": "664849",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "2671/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG QUYẾT ĐỊNH SỐ 2671/QĐ-UBND NGÀY 12/10/2022"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "2671/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG QUYẾT ĐỊNH SỐ 2671/QĐ-UBND NGÀY 12/10/2022"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "2671/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Mã định danh điện tử của cơ quan, đơn vị, địa phương",
+    "evidence": "Sửa đổi, bổ sung Mã định danh điện tử của cơ quan, đơn vị, địa phương trên địa bàn thành phố Đà Nẵng theo danh mục tại Phụ lục kèm theo."
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "2671/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Mã định danh điện tử của cơ quan, đơn vị, địa phương",
+    "evidence": "Sửa đổi, bổ sung Mã định danh điện tử của cơ quan, đơn vị, địa phương trên địa bàn thành phố Đà Nẵng theo danh mục tại Phụ lục kèm theo."
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "thay-cum-tu",
+    "target_document": "2671/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 2",
+     "Điều 4"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi cụm từ “Sở Thông tin và Truyền thông” thành “Sở Khoa học và Công nghệ” tại khoản 2 Điều 2, Điều 4 của Quyết định số 2671/QĐ-UBND ngày 12/10/2022 của UBND thành phố Đà Nẵng."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Đơn vị 'Điều 1' là câu dẫn chung, quan hệ ghi ở khoản 1, 2. Phụ lục mã định danh là file đính kèm, không có trong toàn văn."
+ },
+ {
+  "doc_id": "664876",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 1 khoản 1 'Bổ sung 01 công trình, dự án ... vào Kế hoạch sử dụng đất năm 2025 của thành phố Uông Bí': câu, tên Điều, tên văn bản không nêu số hiệu văn bản đích (Kế hoạch được phê duyệt tại QĐ 3993/QĐ-UBND chỉ nêu ở căn cứ và Điều 2 khoản 3) nên không ghi quan hệ."
+ },
+ {
+  "doc_id": "665591",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "445/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "tiêu đề một số phụ lục",
+    "evidence": "SỬA ĐỔI TIÊU ĐỀ MỘT SỐ PHỤ LỤC BAN HÀNH KÈM THEO NGHỊ QUYẾT SỐ 445/NQ-HĐND NGÀY 30/12/2024"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "thay-cum-tu",
+    "target_document": "445/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục 10",
+     "Phụ lục 11",
+     "Phụ lục 12",
+     "Phụ lục 13",
+     "Phụ lục 14",
+     "Phụ lục 16",
+     "Phụ lục 17",
+     "Phụ lục 18",
+     "Phụ lục 19",
+     "Phụ lục 20"
+    ],
+    "doi_tuong": null,
+    "evidence": "Tại các Phụ lục 10, 11, 12, 13, 14, 16, 17, 18, 19, 20: sửa đổi cụm từ “Bệnh viện đa khoa huyện” thành “Bệnh viện đa khoa khu vực”."
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "thay-cum-tu",
+    "target_document": "445/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục 15"
+    ],
+    "doi_tuong": null,
+    "evidence": "Tại Phụ lục 15: sửa đổi cụm từ “Bệnh viện đa khoa Thảo Nguyên huyện Mộc Châu” thành “Bệnh viện đa khoa khu vực Vân Hồ”."
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "thay-cum-tu",
+    "target_document": "445/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục 21",
+     "Phụ lục 22",
+     "Phụ lục 23",
+     "Phụ lục 25",
+     "Phụ lục 26",
+     "Phụ lục 27",
+     "Phụ lục 28",
+     "Phụ lục 29",
+     "Phụ lục 30",
+     "Phụ lục 31",
+     "Phụ lục 32"
+    ],
+    "doi_tuong": null,
+    "evidence": "Tại các Phụ lục 21, 22, 23, 25, 26, 27, 28, 29, 30, 31, 32: sửa đổi cụm từ “Trung tâm Y tế huyện” thành “Trung tâm Y tế khu vực”."
+   },
+   {
+    "source_path": "Điều 1 Khoản 4",
+    "action": "sua-doi",
+    "target_document": "445/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục 24"
+    ],
+    "doi_tuong": "tiêu đề Phụ lục 24",
+    "evidence": "Tại Phụ lục 24: sửa đổi tiêu đề “Giá dịch vụ tại Trung tâm Y tế Thành phố” thành “Giá dịch vụ tại Trung tâm Y tế khu vực Sơn La”."
+   },
+   {
+    "source_path": "Điều 3",
+    "action": "thay-the",
+    "target_document": "475/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị quyết này có hiệu lực từ ngày ký và thay thế Nghị quyết số 475/NQ- HĐND ngày 21/3/2025"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Khoản 4 sửa đổi tiêu đề Phụ lục 24 (thay cả tiêu đề) ghi sua-doi. Số hiệu 475/NQ- HĐND trong văn bản có dấu cách, đã chuẩn hóa."
+ },
+ {
+  "doc_id": "666111",
+  "relations": [
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "1965/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "dự án Đường giao thông liên kết vùng chuỗi du lịch cộng đồng Nà Mùng, xã Phan Thanh, huyện Nguyên Bình, tỉnh Cao Bằng",
+    "evidence": "Điều chỉnh 01 dự án đã được phê duyệt tại Quyết định số 1965/QĐ-UBND ngày 31/12/2024 của UBND tỉnh."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Khoản 1 bổ sung công trình vào Kế hoạch sử dụng đất 2025 nhưng câu, tên Điều, tên văn bản không nêu số hiệu văn bản đích (QĐ 1965/QĐ-UBND chỉ nêu ở khoản 2 và Điều 2) nên không ghi quan hệ cho khoản 1."
+ },
+ {
+  "doc_id": "666622",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "864/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ NỘI DUNG QUYẾT ĐỊNH SỐ 864/QĐ-UBND NGÀY 18/6/2024"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "864/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ NỘI DUNG QUYẾT ĐỊNH SỐ 864/QĐ-UBND NGÀY 18/6/2024"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "864/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 3 của Quyết định số 864/QĐ-UBND như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "864/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 3 của Quyết định số 864/QĐ-UBND như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "864/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 4 Mục I"
+    ],
+    "doi_tuong": null,
+    "evidence": "2.1. Sửa đổi, bổ sung khoản 4 Mục I"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "864/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 4 Mục I"
+    ],
+    "doi_tuong": null,
+    "evidence": "2.1. Sửa đổi, bổ sung khoản 4 Mục I"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "864/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm 7.1 khoản 7 Mục I"
+    ],
+    "doi_tuong": null,
+    "evidence": "2.2. Sửa đổi, bổ sung điểm 7.1 khoản 7 mục I"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "864/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm 7.1 khoản 7 Mục I"
+    ],
+    "doi_tuong": null,
+    "evidence": "2.2. Sửa đổi, bổ sung điểm 7.1 khoản 7 mục I"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "864/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm 7.4 khoản 7 Mục I"
+    ],
+    "doi_tuong": null,
+    "evidence": "2.3.Sửa đổi, bổ sung khổ cuối điểm 7.4 khoản 7 Mục I"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "864/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm 7.4 khoản 7 Mục I"
+    ],
+    "doi_tuong": null,
+    "evidence": "2.3.Sửa đổi, bổ sung khổ cuối điểm 7.4 khoản 7 Mục I"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "864/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 3 Mục II"
+    ],
+    "doi_tuong": null,
+    "evidence": "2.4. Sửa đổi, bổ sung khoản 3 mục II"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "864/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 3 Mục II"
+    ],
+    "doi_tuong": null,
+    "evidence": "2.4. Sửa đổi, bổ sung khoản 3 mục II"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "864/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 4 Mục II"
+    ],
+    "doi_tuong": null,
+    "evidence": "2.5. Sửa đổi, bổ sung khoản 4 mục II"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "864/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 4 Mục II"
+    ],
+    "doi_tuong": null,
+    "evidence": "2.5. Sửa đổi, bổ sung khoản 4 mục II"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "864/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 5 Mục II"
+    ],
+    "doi_tuong": null,
+    "evidence": "2.6. Sửa đổi, bổ sung khoản 5 mục II"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "864/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 5 Mục II"
+    ],
+    "doi_tuong": null,
+    "evidence": "2.6. Sửa đổi, bổ sung khoản 5 mục II"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "864/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "mẫu phiếu khảo sát",
+    "evidence": "2.7. Sửa đổi, bổ sung mẫu phiếu khảo sát kèm theo Quyết định số 864/QĐ- UBND"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "864/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "mẫu phiếu khảo sát",
+    "evidence": "2.7. Sửa đổi, bổ sung mẫu phiếu khảo sát kèm theo Quyết định số 864/QĐ- UBND"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Khoản 2 sửa đổi, bổ sung Phương pháp ban hành kèm theo QĐ 864 (chia Mục La Mã, không chia Điều); các tiểu mục 2.1-2.7 không tách thành đơn vị riêng."
+ },
+ {
+  "doc_id": "667266",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "1511/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này thay thế Quyết định số 1511/QĐ-UBND ngày 09 tháng 5 năm 2025 của UBND tỉnh Đồng Nai và Kế hoạch số 205/KH-UBND ngày 12 tháng 6 năm 2025 của UBND tỉnh Bình Phước."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "205/KH-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này thay thế Quyết định số 1511/QĐ-UBND ngày 09 tháng 5 năm 2025 của UBND tỉnh Đồng Nai và Kế hoạch số 205/KH-UBND ngày 12 tháng 6 năm 2025 của UBND tỉnh Bình Phước."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Kế hoạch kèm theo chỉ giao nhiệm vụ (tham mưu ban hành kế hoạch thay thế KH 79/KH-UBND) - không phải quan hệ."
+ },
+ {
+  "doc_id": "667784",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "06/2025/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI KHOẢN 2 ĐIỀU 3 NGHỊ QUYẾT SỐ 06/2025/NQ-HĐND NGÀY 09 THÁNG 4 NĂM 2025"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "sua-doi",
+    "target_document": "06/2025/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi khoản 2 Điều 3 Nghị quyết số 06/2025/NQ-HĐND ngày 09 tháng 4 năm 2025 của Hội đồng nhân dân tỉnh quy định về thẩm quyền quyết định thanh lý rừng trồng thuộc sở hữu toàn dân thuộc phạm vi quản lý của địa phương, như sau:"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": ""
+ },
+ {
+  "doc_id": "667887",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "1176/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Danh mục địa bàn cấp xã",
+    "evidence": "ĐIỀU CHỈNH DANH MỤC ĐỊA BÀN CẤP XÃ THEO QUYẾT ĐỊNH SỐ 1176/QĐ-UBND NGÀY 24/4/2025 VỀ VIỆC CÔNG BỐ ĐƠN GIÁ NHÂN CÔNG XÂY DỰNG, QUYẾT ĐỊNH SỐ 1177/QĐ-UBND"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "1177/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Danh mục địa bàn cấp xã",
+    "evidence": "ĐIỀU CHỈNH DANH MỤC ĐỊA BÀN CẤP XÃ THEO QUYẾT ĐỊNH SỐ 1176/QĐ-UBND NGÀY 24/4/2025 VỀ VIỆC CÔNG BỐ ĐƠN GIÁ NHÂN CÔNG XÂY DỰNG, QUYẾT ĐỊNH SỐ 1177/QĐ-UBND"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "sua-doi",
+    "target_document": "1176/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "danh mục Vùng II, Vùng III, Vùng IV",
+    "evidence": "Điều chỉnh danh mục Vùng II, Vùng III, Vùng IV được ban hành tại các Quyết định số 1176/QĐ-UBND ngày 24/4/2025 của UBND thành phố về việc công bố đơn giá nhân công xây dựng để lập và quản lý chi phí đầu tư xây dựng công trình trên địa bàn thành phố Huế, Quyết định số 1177/QĐ-UBND ngày 25/4/2025"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "sua-doi",
+    "target_document": "1177/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "danh mục Vùng II, Vùng III, Vùng IV",
+    "evidence": "Điều chỉnh danh mục Vùng II, Vùng III, Vùng IV được ban hành tại các Quyết định số 1176/QĐ-UBND ngày 24/4/2025 của UBND thành phố về việc công bố đơn giá nhân công xây dựng để lập và quản lý chi phí đầu tư xây dựng công trình trên địa bàn thành phố Huế, Quyết định số 1177/QĐ-UBND ngày 25/4/2025"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "'Điều chỉnh' danh mục vùng = sửa đổi. Câu hành động là câu dẫn Điều 1 (parser đặt vào ten_dieu của khoản 1-3); khoản 1-3 chỉ là nội dung mới. Điều 2 'các nội dung khác vẫn giữ nguyên' không phải quan hệ."
+ }
+]

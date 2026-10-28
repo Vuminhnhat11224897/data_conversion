@@ -1,0 +1,61 @@
+[
+ {
+  "doc_id": "655847",
+  "relations": [
+   {
+    "source_path": "Điều 3 Khoản 1",
+    "action": "thay-the",
+    "target_document": "1319/QĐ-BXD",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực kể từ ngày ký và thay thế các Quyết định số: 1319/QĐ-BXD ngày 22/12/2022 của Bộ trưởng Bộ Xây dựng, 1540/QĐ- BGTVT ngày 23/11/2022 của Bộ trưởng Bộ Giao thông vận tải."
+   },
+   {
+    "source_path": "Điều 3 Khoản 1",
+    "action": "thay-the",
+    "target_document": "1540/QĐ-BGTVT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực kể từ ngày ký và thay thế các Quyết định số: 1319/QĐ-BXD ngày 22/12/2022 của Bộ trưởng Bộ Xây dựng, 1540/QĐ- BGTVT ngày 23/11/2022 của Bộ trưởng Bộ Giao thông vận tải."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 2 Khoản 2 'trình Bộ trưởng ban hành Quyết định bổ sung, sửa đổi' là nhiệm vụ, không ghi."
+ },
+ {
+  "doc_id": "655858",
+  "relations": [
+   {
+    "source_path": "Điều 14 Khoản 1",
+    "action": "thay-the",
+    "target_document": "138/2024/NĐ-CP",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị định này có hiệu lực thi hành kể từ ngày ký ban hành, thay thế Nghị định số 138/2024/NĐ-CP ngày 24 tháng 10 năm 2024 của Chính phủ quy định việc lập dự toán, quản lý, sử dụng chi thường xuyên ngân sách nhà nước để mua sắm tài sản, trang thiết bị; cải tạo, nâng cấp, mở rộng, xây dựng mới hạng mục công trình trong các dự án đã đầu tư xây dựng."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 14 Khoản 4 là câu chung về văn bản dẫn chiếu, không ghi. Phụ lục là mẫu biểu."
+ },
+ {
+  "doc_id": "656267",
+  "relations": [
+   {
+    "source_path": "Điều 12 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "75/2018/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Phần V Phụ lục"
+    ],
+    "doi_tuong": "Các quy định liên quan đến tài sản kết cấu hạ tầng thủy lợi, quy định có chứa cụm từ “thủy lợi” tại toàn bộ nội dung",
+    "evidence": "Các quy định liên quan đến tài sản kết cấu hạ tầng thủy lợi, quy định có chứa cụm từ “thủy lợi” tại toàn bộ nội dung và Phần V Phụ lục kèm theo Thông tư số 75/2018/TT-BTC ngày 17 tháng 8 năm 2018 quy định chế độ quản lý, tính hao mòn tài sản kết cấu hạ tầng giao thông, thủy lợi của Bộ Tài chính bị bãi bỏ kể từ ngày Thông tư này có hiệu lực thi hành."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Bãi bỏ phần thủy lợi của TT 75/2018/TT-BTC: Phần V Phụ lục và các quy định có cụm từ 'thủy lợi' (không nêu vị trí cụ thể, ghi ở doi_tuong). Thông tư hướng dẫn một nội dung, không nêu văn bản được hướng dẫn."
+ }
+]

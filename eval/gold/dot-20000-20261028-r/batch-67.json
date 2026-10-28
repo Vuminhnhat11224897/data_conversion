@@ -1,0 +1,43 @@
+[
+ {
+  "doc_id": "674259",
+  "relations": [
+   {
+    "source_path": "Điều 2 Khoản 2",
+    "action": "thay-the",
+    "target_document": "36/2024/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này thay thế Quyết định số 36/2024/QĐ-UBND ngày 09 tháng 09 năm 2024 của Ủy ban nhân dân tỉnh Lai Châu về quy định tiêu chuẩn danh hiệu “Gia đình văn hoá”, “Thôn, tổ dân phố văn hoá”, “Xã, phường, thị trấn tiêu biểu”."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Thay thế toàn bộ QĐ 36/2024/QĐ-UBND. Các 'Điều 1' trong mẫu quyết định ở Phụ lục IV là mẫu biểu, không phải quan hệ."
+ },
+ {
+  "doc_id": "674506",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "05/2024/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực thi hành kể từ ngày 01 tháng 10 năm 2025 và thay thế Quyết định số 05/2024/QĐ-UBND ngày 18 tháng 01 năm 2024 của Ủy ban nhân dân tỉnh Đồng Nai về việc ban hành Quy chế làm việc của Ủy ban nhân dân tỉnh Đồng Nai nhiệm kỳ 2021 - 2026"
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "24/2022/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 24/2022/QĐ-UBND ngày 16 tháng 11 năm 2022 của Ủy ban nhân dân tỉnh Bình Phước ban hành Quy chế làm việc của Ủy ban nhân dân tỉnh Bình Phước khóa X, nhiệm kỳ 2021 - 2026."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 2 thay thế 2 quyết định: 05/2024/QĐ-UBND (UBND tỉnh Đồng Nai) và 24/2022/QĐ-UBND (UBND tỉnh Bình Phước). Các câu về thẩm quyền đình chỉ, bãi bỏ trong Quy chế không phải quan hệ."
+ }
+]

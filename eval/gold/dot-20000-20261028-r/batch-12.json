@@ -1,0 +1,24 @@
+[
+ {
+  "doc_id": "654998",
+  "relations": [
+   {
+    "source_path": "Điều 2 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "18/QĐ-HĐTV",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Các nội dung liên quan đến hoạt động lưu ký chứng khoán (ngoại trừ trái phiếu doanh nghiệp riêng lẻ)",
+    "evidence": "Các nội dung liên quan đến hoạt động lưu ký chứng khoán (ngoại trừ trái phiếu doanh nghiệp riêng lẻ) tại Quy chế hoạt động lưu ký chứng khoán tại Tổng công ty Lưu ký và Bù trừ chứng khoán Việt Nam ban hành kèm theo Quyết định số 18/QĐ-HĐTV ngày 10 tháng 08 năm 2023 hết hiệu lực kể từ ngày Quyết định này có hiệu lực thi hành."
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Phụ lục 1 Văn bản kèm theo 1",
+    "loai": "nhan_sai_dieu",
+    "ghi_chu": "Các Điều của mẫu Hợp đồng cung cấp dịch vụ (mẫu biểu trong Quy chế) được nhận thành Điều của văn bản kèm theo."
+   }
+  ],
+  "ghi_chu": "Chỉ Điều 2 khoản 2 tuyên bố hết hiệu lực một phần Quy chế kèm theo QĐ 18/QĐ-HĐTV. Điều 15 Quy chế chỉ dẫn chiếu việc thay thế giữa các Thông tư (kể lại), không ghi."
+ }
+]

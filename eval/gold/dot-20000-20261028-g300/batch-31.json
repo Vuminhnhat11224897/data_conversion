@@ -1,0 +1,31 @@
+[
+ {
+  "doc_id": "664959",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Phê duyệt điều chỉnh quy hoạch sử dụng đất thời kỳ 2021-2030 huyện Ba Tri; câu không nêu văn bản đích có số hiệu. Không có tác động."
+ },
+ {
+  "doc_id": "665049",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Thông tư hướng dẫn kỹ thuật 'theo pháp luật về bảo vệ môi trường', không nêu văn bản đích cụ thể; các viện dẫn Thông tư 02/2022/TT-BTNMT là dẫn chiếu áp dụng. Không bãi bỏ, thay thế văn bản nào."
+ },
+ {
+  "doc_id": "674766",
+  "relations": [],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 1 Khoản 2 điểm g",
+    "loai": "gop_sai",
+    "ghi_chu": "Điều 1 chia mục La Mã I-IV, khoản đánh số lại từ 1 trong mỗi mục; điểm g khoản 2 (Mục I) bị gộp nội dung khoản 1, 2 của Mục II; khoản 3-6 của Mục II nhận thành Điều 1 Khoản 3-6."
+   },
+   {
+    "source_path": "Điều 1 Khoản 6 điểm d",
+    "loai": "gop_sai",
+    "ghi_chu": "Điểm d khoản 6 Mục II bị gộp toàn bộ Mục III (kinh phí) và Mục IV (tổ chức thực hiện)."
+   }
+  ],
+  "ghi_chu": "Phê duyệt Chương trình; các nhiệm vụ 'rà soát sửa đổi, bổ sung văn bản' là giao nhiệm vụ, không phải tác động."
+ }
+]

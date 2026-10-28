@@ -1,0 +1,63 @@
+[
+ {
+  "doc_id": "671125",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "hop-nhat",
+    "target_document": "67/2006/QH11",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Luật Công nghệ thông tin số 67/2006/QH11 ngày 29 tháng 6 năm 2006 của Quốc hội có hiệu lực kể từ ngày 01 tháng 01 năm 2007, được sửa đổi, bổ sung bởi:"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "hop-nhat",
+    "target_document": "21/2017/QH14",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "1. Luật Quy hoạch số 21/2017/QH14 ngày 24 tháng 11 năm 2017 của Quốc hội, có hiệu lực kể từ ngày 01 tháng 01 năm 2019;"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "hop-nhat",
+    "target_document": "20/2023/QH15",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "2. Luật Giao dịch điện tử số 20/2023/QH15 ngày 22 tháng 6 năm 2023 của Quốc hội, có hiệu lực kể từ ngày 01 tháng 7 năm 2024;"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "hop-nhat",
+    "target_document": "24/2023/QH15",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "3. Luật Viễn thông số 24/2023/QH15 ngày 24 tháng 11 năm 2023 của Quốc hội, có hiệu lực kể từ ngày 01 tháng 7 năm 2024;"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "hop-nhat",
+    "target_document": "71/2025/QH15",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "4. Luật Công nghiệp công nghệ số số 71/2025/QH15 ngày 14 tháng 6 năm 2025 của Quốc hội, có hiệu lực kể từ ngày 01 tháng 01 năm 2026;"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "hop-nhat",
+    "target_document": "84/2025/QH15",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "5. Luật Thanh tra số 84/2025/QH15 ngày 25 tháng 6 năm 2025 của Quốc hội, có hiệu lực kể từ ngày 01 tháng 7 năm 2025."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Văn bản hợp nhất Luật CNTT 67/2006/QH11 với 5 luật sửa đổi nêu ở phần đầu: ghi hop-nhat cho luật gốc và từng luật sửa đổi. Các dòng '(được bãi bỏ)' kèm chú thích [2]-[11] và các trích dẫn ở chú thích [1], [12] chỉ ghi lại tác động của luật khác, không phải tác động của văn bản này. Điều 79 giao Chính phủ quy định chi tiết: không phải quan hệ."
+ }
+]

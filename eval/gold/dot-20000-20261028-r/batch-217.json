@@ -1,0 +1,237 @@
+[
+ {
+  "doc_id": "657311",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "5115/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 5115/QĐ-UBND ngày 26 tháng 12 năm 2017 của UBND tỉnh ban hành Quy chế phối hợp trong việc xây dựng, duy trì hệ thống thông tin, cung cấp thông tin, bảo mật thông tin dữ liệu về nhà ở và thị trường bất động sản trên địa bàn tỉnh Quảng Ninh hết hiệu lực kể từ ngày Quyết định này có hiệu lực thi hành."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 2 tuyên bố QĐ 5115/QĐ-UBND hết hiệu lực."
+ },
+ {
+  "doc_id": "657439",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "08/2024/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực thi hành kể từ ngày 29 tháng 4 năm 2025 và thay thế Quyết định số 08/2024/QĐ-UBND ngày 20 tháng 6 năm 2024 của Ủy ban nhân dân tỉnh"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": ""
+ },
+ {
+  "doc_id": "657459",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "bai-bo",
+    "target_document": "08/2020/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "BÃI BỎ QUYẾT ĐỊNH SỐ 08/2020/QĐ-UBND NGÀY 21 THÁNG 5 NĂM 2020 CỦA ỦY BAN NHÂN DÂN TỈNH"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bai-bo",
+    "target_document": "08/2020/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ Quyết định số 08/2020/QĐ-UBND ngày 21 tháng 5 năm 2020 của Ủy ban nhân dân tỉnh về việc phân công, phân cấp quản lý đăng ký phương tiện phục vụ vui chơi, giải trí dưới nước trên địa bàn tỉnh Kiên Giang."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên văn bản và Điều 1 cùng bãi bỏ QĐ 08/2020."
+ },
+ {
+  "doc_id": "657468",
+  "relations": [
+   {
+    "source_path": "Điều 4 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "03/2021/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 5 Điều 1",
+     "Phụ lục 05"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ khoản 5 Điều 1 và Phụ lục số 05 ban hành kèm theo Nghị quyết số 03/2021/NQ-HĐND ngày 23 tháng 9 năm 2021 của Hội đồng nhân dân Thành phố"
+   },
+   {
+    "source_path": "Điều 4 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "06/2023/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 9 Điều 1",
+     "Phụ lục 09"
+    ],
+    "doi_tuong": null,
+    "evidence": "khoản 9 Điều 1 và Phụ lục số 09 ban hành kèm theo Nghị quyết số 06/2023/NQ-HĐND ngày 04 tháng 7 năm 2023 của Hội đồng nhân dân Thành phố"
+   },
+   {
+    "source_path": "Điều 4 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "13/2023/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 1",
+     "khoản 2 Điều 1",
+     "Phụ lục 01",
+     "Phụ lục 02",
+     "Phụ lục 03"
+    ],
+    "doi_tuong": null,
+    "evidence": "khoản 1, 2 Điều 1 và Phụ lục số 01, 02, 03 ban hành kèm theo Nghị quyết số 13/2023/NQ-HĐND ngày 06 tháng 12 năm 2023 của Hội đồng nhân dân Thành phố"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Một câu bãi bỏ ở 3 nghị quyết; phụ lục là phụ lục của chính nghị quyết đích nên để quyet_dinh."
+ },
+ {
+  "doc_id": "657485",
+  "relations": [
+   {
+    "source_path": "Điều 6 Khoản 2",
+    "action": "thay-the",
+    "target_document": "09/2022/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực từ ngày 07 tháng 4 năm 2025 và thay thế Quyết định số 09/2022/QĐ-UBND ngày 17 tháng 5 năm 2022 của Ủy ban nhân dân tỉnh"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 1 khoản 1 chỉ nêu phạm vi 'theo quy định tại khoản 1 Điều 217 Luật Đất đai', không nói 'quy định chi tiết' nên không ghi."
+ },
+ {
+  "doc_id": "657489",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "2620/QĐ-BYT",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "định mức xe của Bệnh viện Trung ương Huế, Bệnh viện Trung ương Thái Nguyên, Bệnh viện Bạch Mai, Viện Kiểm định Quốc gia Vắc xin và Sinh phẩm y tế",
+    "evidence": "Quyết định này thay thế định mức xe của Bệnh viện Trung ương Huế, Bệnh viện Trung ương Thái Nguyên, Bệnh viện Bạch Mai, Viện Kiểm định Quốc gia Vắc xin và Sinh phẩm y tế đã được Bộ Y tế phê duyệt tại Quyết định số 2620/QĐ-BYT ngày 28/5/2021, Quyết định số 1071/QĐ-BYT ngày 04/5/2022, Quyết định số 3886/QĐ-BYT ngày 19/10/2023, Quyết định số 4163/QĐ-BYT ngày 09/11/2023, Quyết định số 2774/QĐ-BYT ngày 19/9/2024."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "1071/QĐ-BYT",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "định mức xe của Bệnh viện Trung ương Huế, Bệnh viện Trung ương Thái Nguyên, Bệnh viện Bạch Mai, Viện Kiểm định Quốc gia Vắc xin và Sinh phẩm y tế",
+    "evidence": "Quyết định này thay thế định mức xe của Bệnh viện Trung ương Huế, Bệnh viện Trung ương Thái Nguyên, Bệnh viện Bạch Mai, Viện Kiểm định Quốc gia Vắc xin và Sinh phẩm y tế đã được Bộ Y tế phê duyệt tại Quyết định số 2620/QĐ-BYT ngày 28/5/2021, Quyết định số 1071/QĐ-BYT ngày 04/5/2022, Quyết định số 3886/QĐ-BYT ngày 19/10/2023, Quyết định số 4163/QĐ-BYT ngày 09/11/2023, Quyết định số 2774/QĐ-BYT ngày 19/9/2024."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "3886/QĐ-BYT",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "định mức xe của Bệnh viện Trung ương Huế, Bệnh viện Trung ương Thái Nguyên, Bệnh viện Bạch Mai, Viện Kiểm định Quốc gia Vắc xin và Sinh phẩm y tế",
+    "evidence": "Quyết định này thay thế định mức xe của Bệnh viện Trung ương Huế, Bệnh viện Trung ương Thái Nguyên, Bệnh viện Bạch Mai, Viện Kiểm định Quốc gia Vắc xin và Sinh phẩm y tế đã được Bộ Y tế phê duyệt tại Quyết định số 2620/QĐ-BYT ngày 28/5/2021, Quyết định số 1071/QĐ-BYT ngày 04/5/2022, Quyết định số 3886/QĐ-BYT ngày 19/10/2023, Quyết định số 4163/QĐ-BYT ngày 09/11/2023, Quyết định số 2774/QĐ-BYT ngày 19/9/2024."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "4163/QĐ-BYT",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "định mức xe của Bệnh viện Trung ương Huế, Bệnh viện Trung ương Thái Nguyên, Bệnh viện Bạch Mai, Viện Kiểm định Quốc gia Vắc xin và Sinh phẩm y tế",
+    "evidence": "Quyết định này thay thế định mức xe của Bệnh viện Trung ương Huế, Bệnh viện Trung ương Thái Nguyên, Bệnh viện Bạch Mai, Viện Kiểm định Quốc gia Vắc xin và Sinh phẩm y tế đã được Bộ Y tế phê duyệt tại Quyết định số 2620/QĐ-BYT ngày 28/5/2021, Quyết định số 1071/QĐ-BYT ngày 04/5/2022, Quyết định số 3886/QĐ-BYT ngày 19/10/2023, Quyết định số 4163/QĐ-BYT ngày 09/11/2023, Quyết định số 2774/QĐ-BYT ngày 19/9/2024."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "2774/QĐ-BYT",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "định mức xe của Bệnh viện Trung ương Huế, Bệnh viện Trung ương Thái Nguyên, Bệnh viện Bạch Mai, Viện Kiểm định Quốc gia Vắc xin và Sinh phẩm y tế",
+    "evidence": "Quyết định này thay thế định mức xe của Bệnh viện Trung ương Huế, Bệnh viện Trung ương Thái Nguyên, Bệnh viện Bạch Mai, Viện Kiểm định Quốc gia Vắc xin và Sinh phẩm y tế đã được Bộ Y tế phê duyệt tại Quyết định số 2620/QĐ-BYT ngày 28/5/2021, Quyết định số 1071/QĐ-BYT ngày 04/5/2022, Quyết định số 3886/QĐ-BYT ngày 19/10/2023, Quyết định số 4163/QĐ-BYT ngày 09/11/2023, Quyết định số 2774/QĐ-BYT ngày 19/9/2024."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Thay thế một phần (định mức xe của 4 đơn vị) trong 5 quyết định; câu không nêu vị trí."
+ },
+ {
+  "doc_id": "657502",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "959/QĐ-CHK",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực thi hành từ ngày ký và thay thế Quyết định số 959/QĐ-CHK ngày 11 tháng 5 năm 2022 của Cục trưởng Cục Hàng không Việt Nam ban hành Quy chế phát ngôn và cung cấp thông tin cho báo chí của Cục Hàng không Việt Nam."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": ""
+ },
+ {
+  "doc_id": "657515",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "18/2016/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực thi hành kể từ ngày 25/4/2025 và thay thế Quyết định số 18/2016/QĐ-UBND ngày 16/02/2016 của UBND tỉnh Nghệ An"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": ""
+ },
+ {
+  "doc_id": "657614",
+  "relations": [
+   {
+    "source_path": "Điều 6 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "19/2020/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 19/2020/QĐ-UBND ngày 06 tháng 7 năm 2020 của Ủy ban nhân dân tỉnh Quảng Ninh về việc ban hành Quy định quản lý nhiệm vụ khoa học và công nghệ sử dụng ngân sách nhà nước trên địa bàn tỉnh Quảng Ninh hết hiệu lực kể từ ngày Quyết định này có hiệu lực thi hành."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 5 chuyển tiếp chỉ nhắc QĐ 19/2020, không phải hành động."
+ },
+ {
+  "doc_id": "657844",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "3396/2012/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực kể từ ngày 01/6/2025 và thay thế Quyết định số 3396/2012/QĐ-UBND ngày 16/10/2012 của UBND tỉnh"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": ""
+ }
+]

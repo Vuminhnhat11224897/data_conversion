@@ -1,0 +1,93 @@
+[
+ {
+  "doc_id": "666125",
+  "relations": [
+   {
+    "source_path": "Điều 3 Khoản 1",
+    "action": "thay-the",
+    "target_document": "2202/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 2202/QĐ-UBND ngày 04/12/2019 của Chủ tịch Uỷ ban nhân dân tỉnh Cao Bằng phê duyệt quy trình nội bộ giải quyết thủ tục hành chính trong lĩnh vực Thú y thuộc thẩm quyền giải quyết của Sở Nông nghiệp và Phát triển nông thôn tỉnh Cao Bằng."
+   },
+   {
+    "source_path": "Điều 3 Khoản 2",
+    "action": "thay-the",
+    "target_document": "1223/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 1223/QĐ-UBND ngày 07/8/2019 của Chủ tịch Uỷ ban nhân dân tỉnh Cao Bằng phê duyệt các quy trình nội bộ giải quyết thủ tục hành chính trong một số lĩnh vực thuộc phạm vi chức năng quản lý của Sở Nông nghiệp và Phát triển nông thôn tỉnh Cao Bằng."
+   },
+   {
+    "source_path": "Điều 3 Khoản 3",
+    "action": "thay-the",
+    "target_document": "1464/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 1464/QĐ-UBND ngày 11/10/2022 của Chủ tịch Uỷ ban nhân dân tỉnh Cao Bằng về việc công bố danh mục thủ tục hành chính được chuẩn hoá và phê duyệt quy trình nội bộ trong giải quyết thủ tục hành chính lĩnh vực Thú y thuộc thẩm quyền giải quyết của Sở Nông nghiệp và Phát triển nông thôn tỉnh Cao Bằng."
+   },
+   {
+    "source_path": "Điều 3 Khoản 4",
+    "action": "thay-the",
+    "target_document": "129/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 129/QĐ-UBND ngày 21/02/2023 của Chủ tịch Uỷ ban nhân tỉnh Cao Bằng về việc công bố danh mục thủ tục hành chính công bố mới, thủ tục hành chính bị bãi bỏ và phê duyệt quy trình nội bộ trong giải quyết thủ tục hành chính lĩnh vực Thú y thuộc thẩm quyền giải quyết của Sở Nông nghiệp và Phát triển nông thôn tỉnh Cao Bằng."
+   },
+   {
+    "source_path": "Điều 3 Khoản 5",
+    "action": "thay-the",
+    "target_document": "1337/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 1337/QĐ-UBND ngày 17/10/2024 của Chủ tịch Uỷ ban nhân dân tỉnh Cao Bằng về việc phê duyệt quy trình nội bộ giải quyết thủ tục hành chính trong lĩnh vực Chăn nuôi thuộc thẩm quyền giải quyết của Sở Nông nghiệp và Phát triển nông thôn, UBND cấp huyện tỉnh Cao Bằng."
+   },
+   {
+    "source_path": "Điều 3 Khoản 6",
+    "action": "thay-the",
+    "target_document": "153/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 153/QĐ-UBND ngày 14/2/2025 của Chủ tịch Uỷ ban nhân dân tỉnh Cao Bằng về việc phê duyệt quy trình nội bộ giải quyết thủ tục hành chính trong lĩnh vực Chăn nuôi thuộc thẩm quyền giải quyết của Sở Nông nghiệp và Phát triển nông thôn tỉnh Cao Bằng."
+   },
+   {
+    "source_path": "Điều 3 Khoản 7",
+    "action": "thay-the",
+    "target_document": "672/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 672/QĐ-UBND ngày 29/5/2024 của Chủ tịch Uỷ ban nhân dân tỉnh Cao Bằng về việc phê duyệt quy trình nội bộ giải quyết thủ tục hành chính trong lĩnh vực Thuỷ sản và lĩnh vực Thú y thuộc thẩm quyền giải quyết của Sở Nông nghiệp và Phát triển nông thôn tỉnh Cao Bằng."
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 3 Khoản 1",
+    "loai": "thieu_noi_dung",
+    "ghi_chu": "Khoản liệt kê Quyết định bị thay thế theo câu dẫn Điều 3 nhưng không có trong don_vi"
+   },
+   {
+    "source_path": "Điều 3 Khoản 2",
+    "loai": "thieu_noi_dung",
+    "ghi_chu": "Khoản liệt kê Quyết định bị thay thế theo câu dẫn Điều 3 nhưng không có trong don_vi"
+   },
+   {
+    "source_path": "Điều 3 Khoản 3",
+    "loai": "thieu_noi_dung",
+    "ghi_chu": "Khoản liệt kê Quyết định bị thay thế theo câu dẫn Điều 3 nhưng không có trong don_vi"
+   },
+   {
+    "source_path": "Điều 3 Khoản 6",
+    "loai": "thieu_noi_dung",
+    "ghi_chu": "Khoản liệt kê Quyết định bị thay thế theo câu dẫn Điều 3 nhưng không có trong don_vi"
+   }
+  ],
+  "ghi_chu": "Điều 3: 'Quyết định này có hiệu lực thi hành kể từ ngày ký và thay thế các Quyết định:' + 7 khoản liệt kê; mỗi Quyết định một quan hệ thay-the. Phụ lục chỉ là quy trình nội bộ, không có hành động."
+ }
+]

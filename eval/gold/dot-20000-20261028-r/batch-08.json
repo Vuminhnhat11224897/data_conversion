@@ -1,0 +1,59 @@
+[
+ {
+  "doc_id": "651989",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "12/QĐ-HĐTV",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực kể từ ngày Hệ thống công nghệ thông tin của gói thầu “Thiết kế, giải pháp, cung cấp lắp đặt và chuyển giao hệ thống công nghệ thông tin - Sở Giao dịch chứng khoán thành phố Hồ Chí Minh” chính thức vận hành và thay thế Quyết định số 12/QĐ-HĐTV ngày 10 tháng 8 năm 2023 của Hội đồng thành viên Tổng công ty Lưu ký và Bù trừ chứng khoán Việt Nam về việc ban hành Quy chế bù trừ và thanh toán giao dịch chứng khoán phái sinh tại Tổng công ty Lưu ký và Bù trừ chứng khoán Việt Nam."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quy chế kèm theo chỉ có quy định nghiệp vụ (thay thế chứng khoán ký quỹ, hủy đăng ký...), không tác động văn bản khác. Điều 32 khoản 2 chỉ nói thẩm quyền sửa đổi Quy chế."
+ },
+ {
+  "doc_id": "652453",
+  "relations": [
+   {
+    "source_path": "Điều 3 Khoản 1",
+    "action": "thay-the",
+    "target_document": "2372/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thay thế Quyết định số 2372/QĐ-UBND ngày 10 tháng 9 năm 2024 của Chủ tịch UBND tỉnh Thừa Thiên Huế về việc ban hành danh mục dịch vụ công trực tuyến toàn trình và dịch vụ công trực tuyến một phần thuộc phạm vi quản lý nhà nước của Sở Giáo dục và Đào tạo."
+   },
+   {
+    "source_path": "Điều 3 Khoản 2",
+    "action": "thay-the",
+    "target_document": "2430/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thay thế Quyết định số 2430/QĐ-UBND ngày 16/9/2024 của Chủ tịch UBND tỉnh Thừa Thiên Huế về việc ban hành danh mục dịch vụ công trực tuyến toàn trình và dịch vụ công trực tuyến một phần thuộc phạm vi chức năng quản lý nhà nước của Sở Lao động - Thương binh và Xã hội."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 2 Khoản 1 điểm b chỉ là giao nhiệm vụ đề xuất sửa đổi danh mục: không phải quan hệ. Dòng phụ lục 'Thay thế chủ tịch...' là tên thủ tục."
+ },
+ {
+  "doc_id": "653505",
+  "relations": [
+   {
+    "source_path": "Điều 4 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "478/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 478/QĐ-UBND ngày 13/02/2019 của Ủy ban nhân dân tỉnh về việc phê duyệt chương trình phát triển nhà ở tỉnh Hà Tĩnh đến năm 2030 hết hiệu lực kể từ ngày Quyết định này được ban hành."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 1 'Phê duyệt điều chỉnh Chương trình phát triển nhà ở tỉnh Hà Tĩnh giai đoạn 2021-2030' chỉ nêu Chương trình bằng tên, không nêu số hiệu văn bản phê duyệt Chương trình: không ghi quan hệ."
+ }
+]

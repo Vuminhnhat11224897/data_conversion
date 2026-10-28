@@ -1,0 +1,43 @@
+[
+ {
+  "doc_id": "666171",
+  "relations": [
+   {
+    "source_path": "Điều 5 Khoản 2",
+    "action": "thay-the",
+    "target_document": "2224/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực kể từ ngày ký và thay thế Quyết định số 2224/QĐ-UBND ngày 30 tháng 9 năm 2023 của Ủy ban nhân dân tỉnh về việc ban hành đơn giá công tác thu nhận, lưu trữ, bảo quản và cung cấp thông tin, dữ liệu tài nguyên và môi trường trên địa bàn tỉnh Bến Tre./."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Chỉ khoản 2 Điều 5 thay thế QĐ 2224/QĐ-UBND. Phụ lục là bảng đơn giá."
+ },
+ {
+  "doc_id": "666227",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "706/QĐ-UB",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực thi hành kể từ ngày 07/7/2025 và thay thế các Quyết định số 706/QĐ-UB ngày 12/7/1996, Quyết định số 2196/QĐ-UB ngày 16/7/2004 của Ủy ban nhân dân tỉnh Quảng Trị về việc phân cấp quản lý di tích lịch sử, văn hóa và danh lam thắng cảnh"
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "2196/QĐ-UB",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực thi hành kể từ ngày 07/7/2025 và thay thế các Quyết định số 706/QĐ-UB ngày 12/7/1996, Quyết định số 2196/QĐ-UB ngày 16/7/2004 của Ủy ban nhân dân tỉnh Quảng Trị về việc phân cấp quản lý di tích lịch sử, văn hóa và danh lam thắng cảnh"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 2 thay thế QĐ 706/QĐ-UB và 2196/QĐ-UB. Cụm 'những quy định phân cấp đã ban hành trái với quyết định này' là câu chung, không ghi. Điều 12 Quy chế (hủy bỏ xếp hạng di tích) là thẩm quyền, không phải hành động."
+ }
+]

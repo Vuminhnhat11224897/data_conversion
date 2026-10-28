@@ -1,0 +1,174 @@
+[
+ {
+  "doc_id": "661455",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Phê duyệt điều chỉnh Kế hoạch sử dụng đất năm 2025 (không nêu số hiệu văn bản đích, 'điều chỉnh' kế hoạch không phải tác động lên văn bản). Không có quan hệ."
+ },
+ {
+  "doc_id": "661584",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn đề nghị, hướng dẫn sắp xếp tổ chức Đoàn. Không có quan hệ."
+ },
+ {
+  "doc_id": "661619",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Kế hoạch triển khai Chỉ thị 30/CT-TTg; chỉ giao nhiệm vụ. Không có quan hệ."
+ },
+ {
+  "doc_id": "661635",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Phương án đơn giản hóa TTHC nội bộ: chỉ có kiến nghị 'Đề nghị sửa đổi' Thông tư 05/2024/TT-TTCP, Nghị định 130/2020/NĐ-CP - là đề xuất, không phải quan hệ."
+ },
+ {
+  "doc_id": "661696",
+  "relations": [
+   {
+    "source_path": "Mục V",
+    "action": "thay-the",
+    "target_document": "99/KH-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Kế hoạch này thay thế Kế hoạch số 99/KH-UBND ngày 05/5/2022 của UBND tỉnh về thực hiện Chương trình hành động quốc gia về người cao tuổi giai đoạn 2022-2030 trên địa bàn tỉnh Đồng Nai."
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Mục V",
+    "loai": "thieu_noi_dung",
+    "ghi_chu": "Đoạn kết sau mục V (câu 'Kế hoạch này thay thế Kế hoạch số 99/KH-UBND…') không có trong don_vi; chỉ thấy ở toan_van. Mục I cũng không có trong don_vi (không có hành động)."
+   }
+  ],
+  "ghi_chu": "Câu thay thế ở đoạn kết văn bản, sau mục V; source_path ghi Mục V."
+ },
+ {
+  "doc_id": "661786",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Nghị quyết tán thành chủ trương sáp nhập đơn vị hành chính. Không có quan hệ."
+ },
+ {
+  "doc_id": "661825",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công bố danh mục dịch vụ công trực tuyến; không nói thay thế, bãi bỏ văn bản nào. Không có quan hệ."
+ },
+ {
+  "doc_id": "661902",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quyết định cho thôi quốc tịch. Không có quan hệ."
+ },
+ {
+  "doc_id": "661932",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Thông báo kết quả xác định trước mã số; chỉ có căn cứ. Không có quan hệ."
+ },
+ {
+  "doc_id": "662038",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công điện chỉ đạo; chỉ có trích dẫn. Không có quan hệ."
+ },
+ {
+  "doc_id": "662040",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Chấp thuận chủ trương điều chỉnh Quy hoạch tỉnh (đề xuất sẽ thực hiện bằng văn bản khác). Không có quan hệ."
+ },
+ {
+  "doc_id": "662097",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quyết định thành lập Ban Chỉ đạo. Không có quan hệ."
+ },
+ {
+  "doc_id": "662124",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Ban hành bộ đơn giá; không tác động lên văn bản khác. Không có quan hệ."
+ },
+ {
+  "doc_id": "662207",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn phổ biến Nghị định 119/2024/NĐ-CP. Không có quan hệ."
+ },
+ {
+  "doc_id": "662211",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn yêu cầu trình Quyết định sửa đổi Quyết định 39/2021/QĐ-TTg - là nhiệm vụ, không phải quan hệ."
+ },
+ {
+  "doc_id": "662219",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Phê duyệt điều chỉnh Kế hoạch sử dụng đất năm 2025; không nêu văn bản đích. Không có quan hệ."
+ },
+ {
+  "doc_id": "662306",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Thành lập Đảng bộ trên cơ sở hợp nhất các đảng bộ (tổ chức, không phải văn bản). Không có quan hệ."
+ },
+ {
+  "doc_id": "662310",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công bố bổ sung TTHC nội bộ; không nói thay thế, bãi bỏ văn bản. Không có quan hệ."
+ },
+ {
+  "doc_id": "662338",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Thành lập Đảng bộ trên cơ sở hợp nhất các đảng bộ (tổ chức, không phải văn bản). Không có quan hệ."
+ },
+ {
+  "doc_id": "662345",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Thành lập Đảng bộ trên cơ sở hợp nhất các đảng bộ (tổ chức, không phải văn bản). Không có quan hệ."
+ },
+ {
+  "doc_id": "662346",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Thành lập Đảng bộ trên cơ sở hợp nhất các đảng bộ (tổ chức, không phải văn bản). Không có quan hệ."
+ },
+ {
+  "doc_id": "662437",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Thu hồi số tiếp nhận phiếu công bố mỹ phẩm (không phải văn bản pháp luật). Không có quan hệ."
+ },
+ {
+  "doc_id": "662472",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn giao nhiệm vụ. Không có quan hệ."
+ },
+ {
+  "doc_id": "662516",
+  "relations": [
+   {
+    "source_path": "Điều 1",
+    "action": "quy-dinh-chi-tiet",
+    "target_document": "140/2024/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 6"
+    ],
+    "doi_tuong": null,
+    "evidence": "Nghị quyết này quy định về thẩm quyền quyết định thanh lý rừng trồng thuộc sở hữu toàn dân trên địa bàn tỉnh Hoà Bình theo quy định tại khoản 2 Điều 6 Nghị định số 140/2024/NĐ-CP ngày 25 tháng 10 năm 2024 của Chính phủ quy định về thanh lý rừng trồng."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Nghị quyết HĐND ban hành theo giao quyền tại khoản 2 Điều 6 Nghị định 140/2024/NĐ-CP; ghi quy-dinh-chi-tiet (ca biên: câu không dùng chữ 'quy định chi tiết')."
+ }
+]

@@ -1,0 +1,997 @@
+[
+ {
+  "doc_id": "663342",
+  "relations": [
+   {
+    "source_path": "Điều 2 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "01/2015/TT-CA",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 2",
+     "khoản 2 Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 và khoản 2 Điều 2 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "01/2015/TT-CA",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 2",
+     "khoản 2 Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 và khoản 2 Điều 2 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "01/2015/TT-CA",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 3",
+     "khoản 2 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 và khoản 2 Điều 3 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "01/2015/TT-CA",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 3",
+     "khoản 2 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 và khoản 2 Điều 3 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 3",
+    "action": "bai-bo",
+    "target_document": "01/2015/TT-CA",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 4 Điều 10"
+    ],
+    "doi_tuong": "cụm từ “trực thuộc trung ương”",
+    "evidence": "Bỏ cụm từ “trực thuộc trung ương” tại khoản 4 Điều 10."
+   },
+   {
+    "source_path": "Điều 3 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "02/2020/TT-TANDTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 2 như sau:"
+   },
+   {
+    "source_path": "Điều 3 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "02/2020/TT-TANDTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 2 như sau:"
+   },
+   {
+    "source_path": "Điều 3 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "02/2020/TT-TANDTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 3 như sau:"
+   },
+   {
+    "source_path": "Điều 3 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "02/2020/TT-TANDTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 3 như sau:"
+   },
+   {
+    "source_path": "Điều 3 Khoản 3",
+    "action": "sua-doi",
+    "target_document": "02/2020/TT-TANDTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 4"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 4 như sau:"
+   },
+   {
+    "source_path": "Điều 3 Khoản 3",
+    "action": "bo-sung",
+    "target_document": "02/2020/TT-TANDTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 4"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 4 như sau:"
+   },
+   {
+    "source_path": "Điều 3 Khoản 4",
+    "action": "sua-doi",
+    "target_document": "02/2020/TT-TANDTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 6"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 Điều 6 như sau:"
+   },
+   {
+    "source_path": "Điều 3 Khoản 4",
+    "action": "bo-sung",
+    "target_document": "02/2020/TT-TANDTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 6"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 Điều 6 như sau:"
+   },
+   {
+    "source_path": "Điều 3 Khoản 5",
+    "action": "thay-cum-tu",
+    "target_document": "02/2020/TT-TANDTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Tòa án nhân dân cấp huyện” bằng cụm từ “Tòa án nhân dân khu vực” tại Điều 1."
+   },
+   {
+    "source_path": "Điều 3 Khoản 6 điểm a",
+    "action": "sua-doi",
+    "target_document": "02/2020/TT-TANDTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 7 như sau:"
+   },
+   {
+    "source_path": "Điều 3 Khoản 6 điểm a",
+    "action": "bo-sung",
+    "target_document": "02/2020/TT-TANDTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 7 như sau:"
+   },
+   {
+    "source_path": "Điều 3 Khoản 6 điểm b",
+    "action": "thay-the",
+    "target_document": "02/2020/TT-TANDTC",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "các biểu mẫu ban hành kèm theo Thông tư số 02/2020/TT-TANDTC",
+    "evidence": "Thay thế các biểu mẫu ban hành kèm theo Thông tư số 02/2020/TT-TANDTC bằng các biểu mẫu ban hành kèm theo Thông tư này."
+   },
+   {
+    "source_path": "Điều 4",
+    "action": "thay-cum-tu",
+    "target_document": "03/2020/TT-TANDTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 3",
+     "điểm b khoản 1 Điều 5",
+     "điểm b khoản 2 Điều 5",
+     "Điều 6"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Tòa án nhân dân cấp huyện” bằng cụm từ “Tòa án nhân dân khu vực” tại khoản 3 Điều 3, điểm b khoản 1, điểm b khoản 2 Điều 5 và Điều 6."
+   },
+   {
+    "source_path": "Điều 5 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "04/2020/TT-TANDTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 Điều 3 như sau:"
+   },
+   {
+    "source_path": "Điều 5 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "04/2020/TT-TANDTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 Điều 3 như sau:"
+   },
+   {
+    "source_path": "Điều 5 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "04/2020/TT-TANDTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 6"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 Điều 6 như sau:"
+   },
+   {
+    "source_path": "Điều 5 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "04/2020/TT-TANDTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 6"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 Điều 6 như sau:"
+   },
+   {
+    "source_path": "Điều 5 Khoản 3",
+    "action": "sua-doi",
+    "target_document": "04/2020/TT-TANDTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 13"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 Điều 13 như sau:"
+   },
+   {
+    "source_path": "Điều 5 Khoản 3",
+    "action": "bo-sung",
+    "target_document": "04/2020/TT-TANDTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 13"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 Điều 13 như sau:"
+   },
+   {
+    "source_path": "Điều 5 Khoản 4",
+    "action": "thay-cum-tu",
+    "target_document": "04/2020/TT-TANDTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm b khoản 1 Điều 4",
+     "khoản 2 Điều 18"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Tòa án nhân dân cấp huyện” bằng cụm từ “Tòa án nhân dân khu vực” tại điểm b khoản 1 Điều 4 và khoản 2 Điều 18."
+   },
+   {
+    "source_path": "Điều 5 Khoản 5",
+    "action": "thay-cum-tu",
+    "target_document": "04/2020/TT-TANDTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm đ khoản 2 Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Ủy ban nhân dân xã, phường, thị trấn” bằng cụm từ “Ủy ban nhân dân cấp xã” tại điểm đ khoản 2 Điều 7."
+   },
+   {
+    "source_path": "Điều 6 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "01/2022/TT-TANDTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 5 Điều 4"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 5 Điều 4 như sau:"
+   },
+   {
+    "source_path": "Điều 6 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "01/2022/TT-TANDTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 5 Điều 4"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 5 Điều 4 như sau:"
+   },
+   {
+    "source_path": "Điều 6 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "01/2022/TT-TANDTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 4 Điều 6"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 4 Điều 6 như sau:"
+   },
+   {
+    "source_path": "Điều 6 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "01/2022/TT-TANDTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 4 Điều 6"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 4 Điều 6 như sau:"
+   },
+   {
+    "source_path": "Điều 6 Khoản 3",
+    "action": "sua-doi",
+    "target_document": "01/2022/TT-TANDTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung đoạn mở đầu của khoản 2 Điều 7 như sau:"
+   },
+   {
+    "source_path": "Điều 6 Khoản 3",
+    "action": "bo-sung",
+    "target_document": "01/2022/TT-TANDTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung đoạn mở đầu của khoản 2 Điều 7 như sau:"
+   },
+   {
+    "source_path": "Điều 6 Khoản 4",
+    "action": "sua-doi",
+    "target_document": "01/2022/TT-TANDTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 9",
+     "khoản 3 Điều 9"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 và khoản 3 Điều 9 như sau:"
+   },
+   {
+    "source_path": "Điều 6 Khoản 4",
+    "action": "bo-sung",
+    "target_document": "01/2022/TT-TANDTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 9",
+     "khoản 3 Điều 9"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 và khoản 3 Điều 9 như sau:"
+   },
+   {
+    "source_path": "Điều 6 Khoản 5",
+    "action": "sua-doi",
+    "target_document": "01/2022/TT-TANDTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 11"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 11 như sau:"
+   },
+   {
+    "source_path": "Điều 6 Khoản 5",
+    "action": "bo-sung",
+    "target_document": "01/2022/TT-TANDTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 11"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 11 như sau:"
+   },
+   {
+    "source_path": "Điều 6 Khoản 6",
+    "action": "sua-doi",
+    "target_document": "01/2022/TT-TANDTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 12"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 12 như sau:"
+   },
+   {
+    "source_path": "Điều 6 Khoản 6",
+    "action": "bo-sung",
+    "target_document": "01/2022/TT-TANDTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 12"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 12 như sau:"
+   },
+   {
+    "source_path": "Điều 6 Khoản 7",
+    "action": "sua-doi",
+    "target_document": "01/2022/TT-TANDTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 13"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 13 như sau:"
+   },
+   {
+    "source_path": "Điều 6 Khoản 7",
+    "action": "bo-sung",
+    "target_document": "01/2022/TT-TANDTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 13"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 13 như sau:"
+   },
+   {
+    "source_path": "Điều 7 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "03/2023/TT-TANDTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 6 Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 6 Điều 2 như sau:"
+   },
+   {
+    "source_path": "Điều 7 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "03/2023/TT-TANDTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 6 Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 6 Điều 2 như sau:"
+   },
+   {
+    "source_path": "Điều 7 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "03/2023/TT-TANDTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm d khoản 2 Điều 6"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm d khoản 2 Điều 6 như sau:"
+   },
+   {
+    "source_path": "Điều 7 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "03/2023/TT-TANDTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm d khoản 2 Điều 6"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm d khoản 2 Điều 6 như sau:"
+   },
+   {
+    "source_path": "Điều 7 Khoản 3 điểm a",
+    "action": "thay-cum-tu",
+    "target_document": "03/2023/TT-TANDTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 8 Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “ít người” bằng cụm từ “thiểu số” tại khoản 8 Điều 2;"
+   },
+   {
+    "source_path": "Điều 7 Khoản 3 điểm b",
+    "action": "thay-cum-tu",
+    "target_document": "03/2023/TT-TANDTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm c khoản 5 Điều 3",
+     "điểm d khoản 5 Điều 3",
+     "điểm g khoản 5 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “cấp huyện” bằng cụm từ “địa phương” tại các điểm c, d, g khoản 5 Điều 3;"
+   },
+   {
+    "source_path": "Điều 7 Khoản 3 điểm c",
+    "action": "thay-cum-tu",
+    "target_document": "03/2023/TT-TANDTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 6"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “khoản 1 Điều 268” bằng cụm từ “khoản 3 Điều 268” tại khoản 1 Điều 6."
+   },
+   {
+    "source_path": "Điều 8 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "01/2024/TT-TANDTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 2 như sau:"
+   },
+   {
+    "source_path": "Điều 8 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "01/2024/TT-TANDTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 2 như sau:"
+   },
+   {
+    "source_path": "Điều 8 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "01/2024/TT-TANDTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 6"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 6 như sau:"
+   },
+   {
+    "source_path": "Điều 8 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "01/2024/TT-TANDTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 6"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 6 như sau:"
+   },
+   {
+    "source_path": "Điều 8 Khoản 3",
+    "action": "sua-doi",
+    "target_document": "01/2024/TT-TANDTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 18",
+     "khoản 3 Điều 18"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 và khoản 3 Điều 18 như sau:"
+   },
+   {
+    "source_path": "Điều 8 Khoản 3",
+    "action": "bo-sung",
+    "target_document": "01/2024/TT-TANDTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 18",
+     "khoản 3 Điều 18"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 và khoản 3 Điều 18 như sau:"
+   },
+   {
+    "source_path": "Điều 8 Khoản 4",
+    "action": "sua-doi",
+    "target_document": "01/2024/TT-TANDTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 4 Điều 19"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 4 Điều 19 như sau:"
+   },
+   {
+    "source_path": "Điều 8 Khoản 4",
+    "action": "bo-sung",
+    "target_document": "01/2024/TT-TANDTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 4 Điều 19"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 4 Điều 19 như sau:"
+   },
+   {
+    "source_path": "Điều 8 Khoản 5",
+    "action": "sua-doi",
+    "target_document": "01/2024/TT-TANDTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 29"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 Điều 29 như sau:"
+   },
+   {
+    "source_path": "Điều 8 Khoản 5",
+    "action": "bo-sung",
+    "target_document": "01/2024/TT-TANDTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 29"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 Điều 29 như sau:"
+   },
+   {
+    "source_path": "Điều 8 Khoản 6",
+    "action": "sua-doi",
+    "target_document": "01/2024/TT-TANDTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 30"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 3 Điều 30 như sau:"
+   },
+   {
+    "source_path": "Điều 8 Khoản 6",
+    "action": "bo-sung",
+    "target_document": "01/2024/TT-TANDTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 30"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 3 Điều 30 như sau:"
+   },
+   {
+    "source_path": "Điều 8 Khoản 7",
+    "action": "sua-doi",
+    "target_document": "01/2024/TT-TANDTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 35"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 Điều 35 như sau:"
+   },
+   {
+    "source_path": "Điều 8 Khoản 7",
+    "action": "bo-sung",
+    "target_document": "01/2024/TT-TANDTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 35"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 Điều 35 như sau:"
+   },
+   {
+    "source_path": "Điều 8 Khoản 8",
+    "action": "sua-doi",
+    "target_document": "01/2024/TT-TANDTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 37",
+     "khoản 2 Điều 37"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 và khoản 2 Điều 37 như sau:"
+   },
+   {
+    "source_path": "Điều 8 Khoản 8",
+    "action": "bo-sung",
+    "target_document": "01/2024/TT-TANDTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 37",
+     "khoản 2 Điều 37"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 và khoản 2 Điều 37 như sau:"
+   },
+   {
+    "source_path": "Điều 8 Khoản 9",
+    "action": "thay-cum-tu",
+    "target_document": "01/2024/TT-TANDTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 12"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “cơ sở y tế cấp huyện hoặc tương đương trở lên” bằng cụm từ “cơ sở khám bệnh, chữa bệnh cấp cơ bản trở lên” tại khoản 2 Điều 12."
+   },
+   {
+    "source_path": "Điều 8 Khoản 10 điểm a",
+    "action": "bai-bo",
+    "target_document": "01/2024/TT-TANDTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 26",
+     "khoản 5 Điều 31",
+     "khoản 2 Điều 33",
+     "khoản 1 Điều 39"
+    ],
+    "doi_tuong": "cụm từ “Tòa án nhân dân cấp cao”",
+    "evidence": "Bỏ cụm từ “Tòa án nhân dân cấp cao” tại khoản 2 Điều 26, khoản 5 Điều 31, khoản 2 Điều 33 và khoản 1 Điều 39;"
+   },
+   {
+    "source_path": "Điều 8 Khoản 10 điểm b",
+    "action": "bai-bo",
+    "target_document": "01/2024/TT-TANDTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm c khoản 2 Điều 36"
+    ],
+    "doi_tuong": "cụm từ “, công đoàn Tòa án nhân dân tối cao”",
+    "evidence": "Bỏ cụm từ “, công đoàn Tòa án nhân dân tối cao” tại điểm c khoản 2 Điều 36;"
+   },
+   {
+    "source_path": "Điều 8 Khoản 10 điểm c",
+    "action": "bai-bo",
+    "target_document": "01/2024/TT-TANDTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 45"
+    ],
+    "doi_tuong": "cụm từ “Chánh án Tòa án nhân dân cấp cao,”",
+    "evidence": "Bỏ cụm từ “Chánh án Tòa án nhân dân cấp cao,” tại Điều 45."
+   },
+   {
+    "source_path": "Điều 9",
+    "action": "bai-bo",
+    "target_document": "03/2024/TT-TANDTC",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ Thông tư số 03/2024/TT-TANDTC ngày 31 tháng 12 năm 2024 của Chánh án Tòa án nhân dân tối cao quy định tổ chức bộ máy, chức năng, nhiệm vụ, quyền hạn của Văn phòng, Vụ thuộc Tòa án nhân dân cấp cao."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên và lời dẫn không nêu số hiệu văn bản đích nên không có quan hệ Phần đầu. Điều 1 (Phạm vi điều chỉnh) chỉ liệt kê 8 Thông tư thuộc phạm vi, không gắn hành động với vị trí: không ghi quan hệ; hành động cụ thể ở Điều 2-9. Khoản có điểm con (Điều 3 K6, Điều 7 K3, Điều 8 K10): ghi ở điểm con."
+ },
+ {
+  "doc_id": "663644",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "61/2019/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA QUY ĐỊNH VỀ BẢNG GIÁ ĐẤT NĂM 2020 TRÊN ĐỊA BÀN TỈNH HÀ TĨNH BAN HÀNH KÈM THEO QUYẾT ĐỊNH SỐ 61/2019/QĐ-UBND NGÀY 19/12/2019 VÀ QUYẾT ĐỊNH SỐ 08/2024/QĐ-UBND NGÀY 04/6/2024 CỦA ỦY BAN NHÂN DÂN TỈNH"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "61/2019/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA QUY ĐỊNH VỀ BẢNG GIÁ ĐẤT NĂM 2020 TRÊN ĐỊA BÀN TỈNH HÀ TĨNH BAN HÀNH KÈM THEO QUYẾT ĐỊNH SỐ 61/2019/QĐ-UBND NGÀY 19/12/2019 VÀ QUYẾT ĐỊNH SỐ 08/2024/QĐ-UBND NGÀY 04/6/2024 CỦA ỦY BAN NHÂN DÂN TỈNH"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "08/2024/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA QUY ĐỊNH VỀ BẢNG GIÁ ĐẤT NĂM 2020 TRÊN ĐỊA BÀN TỈNH HÀ TĨNH BAN HÀNH KÈM THEO QUYẾT ĐỊNH SỐ 61/2019/QĐ-UBND NGÀY 19/12/2019 VÀ QUYẾT ĐỊNH SỐ 08/2024/QĐ-UBND NGÀY 04/6/2024 CỦA ỦY BAN NHÂN DÂN TỈNH"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "08/2024/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA QUY ĐỊNH VỀ BẢNG GIÁ ĐẤT NĂM 2020 TRÊN ĐỊA BÀN TỈNH HÀ TĨNH BAN HÀNH KÈM THEO QUYẾT ĐỊNH SỐ 61/2019/QĐ-UBND NGÀY 19/12/2019 VÀ QUYẾT ĐỊNH SỐ 08/2024/QĐ-UBND NGÀY 04/6/2024 CỦA ỦY BAN NHÂN DÂN TỈNH"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "61/2019/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi Điều 1 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "61/2019/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi Điều 2 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "sua-doi",
+    "target_document": "61/2019/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi Điều 3 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 4",
+    "action": "sua-doi",
+    "target_document": "61/2019/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm b khoản 1 Điều 6"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi điểm b khoản 1 Điều 6 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 5",
+    "action": "bo-sung",
+    "target_document": "61/2019/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 6a"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung Điều 6a như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 6",
+    "action": "bo-sung",
+    "target_document": "61/2019/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm d khoản 1 Điều 7",
+     "điểm đ khoản 1 Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung điểm d, điểm đ khoản 1 Điều 7 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "08/2024/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm a khoản 2 Điều 1",
+     "điểm b khoản 2 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm a, điểm b khoản 2 Điều 1 (điểm a, điểm b khoản 1 Điều 7 Quyết định số 61/2019/QĐ-UBND) như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "08/2024/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm a khoản 2 Điều 1",
+     "điểm b khoản 2 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm a, điểm b khoản 2 Điều 1 (điểm a, điểm b khoản 1 Điều 7 Quyết định số 61/2019/QĐ-UBND) như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "61/2019/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm a khoản 1 Điều 7",
+     "điểm b khoản 1 Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm a, điểm b khoản 2 Điều 1 (điểm a, điểm b khoản 1 Điều 7 Quyết định số 61/2019/QĐ-UBND) như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "61/2019/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm a khoản 1 Điều 7",
+     "điểm b khoản 1 Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm a, điểm b khoản 2 Điều 1 (điểm a, điểm b khoản 1 Điều 7 Quyết định số 61/2019/QĐ-UBND) như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "08/2024/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 3 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung tại khoản 3 Điều 1 (điểm c khoản 1 Điều 7 Quyết định số 61/2019/QĐ-UBND) như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "61/2019/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm c khoản 1 Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung tại khoản 3 Điều 1 (điểm c khoản 1 Điều 7 Quyết định số 61/2019/QĐ-UBND) như sau:"
+   },
+   {
+    "source_path": "Điều 3 Khoản 3",
+    "action": "bai-bo",
+    "target_document": "61/2019/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 10"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ Điều 10 Quy định về Bảng giá đất năm 2020 trên địa bàn tỉnh Hà Tĩnh ban hành kèm theo Quyết định số 61/2019/QĐ-UBND ngày 19/12/2019 của Ủy ban nhân dân tỉnh."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Phần đầu theo tên văn bản (lời dẫn lặp lại cùng hành động). Điều 2 nêu vị trí ở QĐ 08/2024 kèm vị trí tương ứng ở QĐ 61/2019 trong ngoặc: ghi cả hai đích. Tên Điều 2 nói 'Quy định ... ban hành kèm theo QĐ 08/2024' nên target_section kem_theo theo câu (thực tế khoản 2, 3 Điều 1 có thể thuộc chính QĐ 08/2024). Bảng 1, Bảng 2 phụ lục là nội dung giá mới, không có hành động riêng."
+ },
+ {
+  "doc_id": "663990",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "3562/QĐ-BYT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ NỘI DUNG TẠI QUYẾT ĐỊNH SỐ 3562/QĐ-BYT NGÀY 26 THÁNG 11 NĂM 2024 CỦA BỘ TRƯỞNG BỘ Y TẾ VỀ VIỆC CÔNG BỐ THỦ TỤC HÀNH CHÍNH LĨNH VỰC Y, DƯỢC CỔ TRUYỀN ĐƯỢC QUY ĐỊNH TẠI THÔNG TƯ SỐ 24/2024/TT-BYT NGÀY 29 THÁNG 10 NĂM 2024 CỦA BỘ Y TẾ"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "3562/QĐ-BYT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ NỘI DUNG TẠI QUYẾT ĐỊNH SỐ 3562/QĐ-BYT NGÀY 26 THÁNG 11 NĂM 2024 CỦA BỘ TRƯỞNG BỘ Y TẾ VỀ VIỆC CÔNG BỐ THỦ TỤC HÀNH CHÍNH LĨNH VỰC Y, DƯỢC CỔ TRUYỀN ĐƯỢC QUY ĐỊNH TẠI THÔNG TƯ SỐ 24/2024/TT-BYT NGÀY 29 THÁNG 10 NĂM 2024 CỦA BỘ Y TẾ"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "thay-cum-tu",
+    "target_document": "3562/QĐ-BYT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi cụm từ “Lĩnh vực Y, Dược cổ truyền” thành “Lĩnh vực Thi đua, khen thưởng” tại Quyết định số 3562/QĐ-BYT ngày 26 tháng 11 năm 2024 của Bộ trưởng Bộ Y tế về việc công bố thủ tục hành chính thuộc lĩnh vực Y, Dược cổ truyền được quy định tại Thông tư số 24/2024/TT-BYT ngày 29 tháng 10 năm 2024 của Bộ Y tế (Chi tiết sửa đổi tại Phụ lục kèm theo)."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 1 không có tên, câu hành động nằm ở ten_dieu. Câu không nêu vị trí trong QĐ 3562. Phụ lục là danh mục và nội dung TTHC lĩnh vực Thi đua, khen thưởng; cột văn bản QPPL (TT 24/2024) là căn cứ, không phải đích."
+ }
+]

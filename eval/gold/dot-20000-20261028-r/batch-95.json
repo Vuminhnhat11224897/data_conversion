@@ -1,0 +1,36 @@
+[
+ {
+  "doc_id": "672477",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "hop-nhat",
+    "target_document": "10/2017/QH14",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Luật Trách nhiệm bồi thường của Nhà nước số 10/2017/QH14 ngày 20 tháng 6 năm 2017 của Quốc hội, có hiệu lực kể từ ngày 01 tháng 7 năm 2018, được sửa đổi, bổ sung bởi:"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "hop-nhat",
+    "target_document": "81/2025/QH15",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Luật số 81/2025/QH15 ngày 24 tháng 6 năm 2025 của Quốc hội sửa đổi, bổ sung một số điều của Luật Tổ chức Tòa án nhân dân, có hiệu lực kể từ ngày 01 tháng 7 năm 2025."
+   },
+   {
+    "source_path": "Điều 77 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "35/2009/QH12",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Luật Trách nhiệm bồi thường của Nhà nước số 35/2009/QH12 hết hiệu lực kể từ ngày Luật này có hiệu lực thi hành."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Văn bản hợp nhất Luật 10/2017/QH14 với Luật 81/2025/QH15 (sửa đổi). Điều 77 khoản 2 là câu tái hiện của Luật 10/2017/QH14 tuyên bố Luật 35/2009/QH12 hết hiệu lực. Các chú thích '[2] được sửa đổi, bổ sung theo …' là lịch sử; 'Chính phủ quy định chi tiết Điều này' là giao nhiệm vụ, không ghi."
+ }
+]

@@ -1,0 +1,372 @@
+[
+ {
+  "doc_id": "648508",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "170/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực kể từ ngày ký ban hành và thay thế Quyết định số 170/QĐ-UBND ngày 29/01/2021 của Ủy ban nhân dân tỉnh Yên Bái"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Các câu 'tham mưu sửa đổi, bổ sung' trong Quy định là giao nhiệm vụ."
+ },
+ {
+  "doc_id": "648662",
+  "relations": [
+   {
+    "source_path": "Điều 3 Khoản 1",
+    "action": "thay-the",
+    "target_document": "320/QĐ-BGTVT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực kể từ ngày ký, thay thế Quyết định số 320/QĐ-BGTVT ngày 28 tháng 3 năm 2024 của Bộ Giao thông vận tải về việc công bố Danh mục cảng cạn Việt Nam."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": ""
+ },
+ {
+  "doc_id": "648748",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "24/2019/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực kể từ ngày 31 tháng 3 năm 2025, thay thế Quyết định số 24/2019/QĐ-UBND ngày 15 tháng 10 năm 2019 của Ủy ban nhân dân tỉnh Đồng Tháp"
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "27/2018/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 27/2018/QĐ-UBND ngày 22 tháng 10 năm 2018 Quy định phạm vi vùng phụ cận công trình thủy lợi trên địa bàn tỉnh Đồng Tháp"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 2 thay thế 2 quyết định. Câu 'được điều chỉnh tại khoản 2 Điều 2 Thông tư 03/2022' trong Quy định là trích dẫn."
+ },
+ {
+  "doc_id": "649223",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "bai-bo",
+    "target_document": "12/2017/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "VỀ VIỆC BÃI BỎ QUYẾT ĐỊNH SỐ 12/2017/QĐ-UBND NGÀY 24/5/2017 CỦA UBND TỈNH BAN HÀNH QUY ĐỊNH VỀ QUẢN LÝ CÁC NHIỆM VỤ KHOA HỌC VÀ CÔNG NGHỆ TRÊN ĐỊA BÀN TỈNH QUẢNG NAM CÓ SỬ DỤNG NGÂN SÁCH NHÀ NƯỚC"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bai-bo",
+    "target_document": "12/2017/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [
+     "toàn bộ"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ Quyết định số 12/2017/QĐ-UBND ngày 24 tháng 5 năm 2017 của UBND tỉnh ban hành Quy định về quản lý các nhiệm vụ khoa học và công nghệ trên địa bàn tỉnh Quảng Nam có sử dụng ngân sách nhà nước."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 2 khoản 2 'áp dụng trực tiếp Thông tư 09/2024/TT-BKHCN' không phải tác động."
+ },
+ {
+  "doc_id": "649512",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "bai-bo",
+    "target_document": "04/2024/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "BÃI BỎ QUYẾT ĐỊNH SỐ 04/2024/QĐ-UBND NGÀY 22/01/2024 CỦA ỦY BAN NHÂN DÂN TỈNH THỪA THIÊN HUẾ"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bai-bo",
+    "target_document": "04/2024/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [
+     "toàn bộ"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ Quyết định số 04/2024/QĐ-UBND ngày 22 tháng 01 năm 2024 của Ủy ban nhân dân tỉnh Thừa Thiên Huế"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": ""
+ },
+ {
+  "doc_id": "649588",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "bai-bo",
+    "target_document": "2076/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "thành phần hồ sơ phải số hóa lĩnh vực Tư pháp",
+    "evidence": "BÃI BỎ MỘT SỐ NỘI DUNG THÀNH PHẦN HỒ SƠ PHẢI SỐ HÓA THỰC HIỆN TRÊN ĐỊA BÀN TỈNH ĐẮK LẮK ĐỐI VỚI LĨNH VỰC TƯ PHÁP BAN HÀNH KÈM THEO QUYẾT ĐỊNH SỐ 2076/QĐ-UBND NGÀY 30/7/2024 CỦA UBND TỈNH"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bai-bo",
+    "target_document": "2076/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục VI Phụ lục XIX",
+     "Mục IV Phụ lục XX"
+    ],
+    "doi_tuong": "Danh mục thành phần hồ sơ phải số hóa đối với thủ tục hành chính “Chứng thực bản sao từ bản chính giấy tờ, văn bản do cơ quan tổ chức có thẩm quyền của Việt Nam cấp hoặc chứng nhận” (STT 24 Mục VI Phụ lục XIX; STT 03 Mục IV Phụ lục XX)",
+    "evidence": "Bãi bỏ nội dung Danh mục thành phần hồ sơ phải số hóa thực hiện trên địa bàn tỉnh đối với thủ tục hành chính “Chứng thực bản sao từ bản chính giấy tờ, văn bản do cơ quan tổ chức có thẩm quyền của Việt Nam cấp hoặc chứng nhận” (Mã thủ tục hành chính: 2.000815) của cấp huyện tại Số thứ tự 24 Mục VI tại Phụ lục XIX và của cấp xã tại Số thứ tự 03 Mục IV Phụ lục XX ban hành kèm theo Quyết định số 2076/QĐ-UBND ngày 30/7/2024 của Chủ tịch UBND tỉnh."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 2 khoản 1 'đề xuất bổ sung, sửa đổi Danh mục' là giao nhiệm vụ."
+ },
+ {
+  "doc_id": "649774",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "21/2021/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực thi hành kể từ ngày 11 tháng 4 năm 2025 và thay thế Quyết định số 21/2021/QĐ-UBND ngày 10 tháng 11 năm 2021 của Ủy ban nhân dân tỉnh"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": ""
+ },
+ {
+  "doc_id": "649786",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "54/2012/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực kể từ ngày ký và thay thế Quyết định số 54/2012/QĐ-UBND ngày 14 tháng 12 năm 2012 của Ủy ban nhân dân tỉnh Bình Dương"
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "45/2023/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 45/2023/QĐ-UBND ngày 08 tháng 12 năm 2023 của Ủy ban nhân dân tỉnh Bình Dương sửa đổi, bổ sung một số điều của Quy định về dạy thêm, học thêm trên địa bàn tỉnh Bình Dương"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 2 thay thế 2 quyết định; cụm 'sửa đổi, bổ sung' là tên của QĐ 45/2023."
+ },
+ {
+  "doc_id": "649787",
+  "relations": [
+   {
+    "source_path": "Điều 5 Khoản 1",
+    "action": "thay-the",
+    "target_document": "34/2019/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực thi hành từ ngày 05 tháng 4 năm 2025 và thay thế Quyết định số 34/2019/QĐ-UBND ngày 23 tháng 9 năm 2019 của Ủy ban nhân dân tỉnh Ninh Bình"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": ""
+ },
+ {
+  "doc_id": "649790",
+  "relations": [
+   {
+    "source_path": "Điều 4 Khoản 2 điểm a",
+    "action": "thay-the",
+    "target_document": "27/2023/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này thay thế các Quyết định sau:"
+   },
+   {
+    "source_path": "Điều 4 Khoản 2 điểm b",
+    "action": "thay-the",
+    "target_document": "26/2024/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này thay thế các Quyết định sau:"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Khoản 2 Điều 4 thay thế QĐ 27/2023 (điểm a) và QĐ 26/2024 (điểm b)."
+ },
+ {
+  "doc_id": "649958",
+  "relations": [
+   {
+    "source_path": "Điều 3",
+    "action": "thay-the",
+    "target_document": "2322/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực từ ngày ký và thay thế Quyết định số 2322/QĐ- UBND ngày 08/9/2022 của UBND tỉnh./."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": ""
+ },
+ {
+  "doc_id": "650039",
+  "relations": [
+   {
+    "source_path": "Điều 4 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "02/2023/QĐ-TTg",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 02/2023/QĐ-TTg ngày 03 tháng 02 năm 2023 của Thủ tướng Chính phủ về khung giá của mức giá bán lẻ điện bình quân hết hiệu lực kể từ ngày Quyết định này có hiệu lực thi hành."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 1 khoản 1 nêu 'theo quy định tại điểm b khoản 3 Điều 50 Luật Điện lực' là căn cứ, không ghi quan hệ."
+ },
+ {
+  "doc_id": "650116",
+  "relations": [
+   {
+    "source_path": "Điều 4",
+    "action": "thay-the",
+    "target_document": "24/2020/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực kể từ ngày 06/4/2025 và thay thế Quyết định số 24/2020/QĐ-UBND ngày 14 tháng 12 năm 2020 của UBND tỉnh"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": ""
+ },
+ {
+  "doc_id": "650210",
+  "relations": [
+   {
+    "source_path": "Điều 3",
+    "action": "thay-the",
+    "target_document": "3245/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực kể từ ngày ký, thay thế Quyết định số 3245/QĐ-UBND ngày 30/12/2020 của UBND tỉnh về việc sắp xếp, tổ chức lại cơ cấu tổ chức của Sở Công Thương"
+   },
+   {
+    "source_path": "Điều 3",
+    "action": "thay-the",
+    "target_document": "3707/QĐ-BCT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 3707/QĐ-BCT ngày 12/11/2018 của Bộ trưởng Bộ Công Thương quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Cục Quản lý thị trường tỉnh Đắk Lắk"
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 1 Khoản 3 điểm b",
+    "loai": "gop_sai",
+    "ghi_chu": "Mục 3.2 (các tổ chức tham mưu, đơn vị sự nghiệp) bị gộp vào điểm b của mục 3.1; điểm a, b của 3.2 lẫn với điểm a, b của 3.1"
+   }
+  ],
+  "ghi_chu": "Điều 3 thay thế 2 quyết định."
+ },
+ {
+  "doc_id": "650245",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "bai-bo",
+    "target_document": "02/2023/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "BÃI BỎ QUYẾT ĐỊNH SỐ 02/2023/QĐ-UBND NGÀY 22 THÁNG 6 NĂM 2023 CỦA ỦY BAN NHÂN DÂN QUẬN 4"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bai-bo",
+    "target_document": "02/2023/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [
+     "toàn bộ"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ Quyết định số 02/2023/QĐ-UBND ngày 22 tháng 6 năm 2023 của Ủy ban nhân dân Quận 4"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": ""
+ },
+ {
+  "doc_id": "650276",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "bai-bo",
+    "target_document": "723/QĐ-UB",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "BÃI BỎ QUYẾT ĐỊNH SỐ 723/QĐ-UB NGÀY 16/6/1997 CỦA ỦY BAN NHÂN DÂN TỈNH NINH BÌNH"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bai-bo",
+    "target_document": "723/QĐ-UB",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [
+     "toàn bộ"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ toàn bộ Quyết định số 723/QĐ-UB ngày 16/6/1997 của Ủy ban nhân dân tỉnh Ninh Bình"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": ""
+ },
+ {
+  "doc_id": "650280",
+  "relations": [
+   {
+    "source_path": "Điều 2 Khoản 2",
+    "action": "thay-the",
+    "target_document": "09/2010/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực kể từ ngày 07 tháng 04 năm 2025 và thay thế Quyết định số 09/2010/QĐ-UBND ngày 22 tháng 3 năm 2010 của Ủy ban nhân dân tỉnh Bến Tre"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Câu 'văn bản được trích dẫn được sửa đổi, bổ sung hoặc thay thế thì thực hiện theo...' là quy tắc dẫn chiếu."
+ }
+]

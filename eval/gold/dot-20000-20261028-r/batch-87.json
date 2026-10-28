@@ -1,0 +1,79 @@
+[
+ {
+  "doc_id": "670748",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "hop-nhat",
+    "target_document": "16/2012/QH13",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Luật Quảng cáo số 16/2012/QH13 ngày 21 tháng 6 năm 2012 của Quốc hội, có hiệu lực kể từ ngày 01 tháng 01 năm 2013, được sửa đổi, bổ sung bởi:"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "hop-nhat",
+    "target_document": "35/2018/QH14",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Luật số 35/2018/QH14 ngày 20 tháng 11 năm 2018 của Quốc hội sửa đổi, bổ sung một số điều của 37 luật có liên quan đến quy hoạch, có hiệu lực kể từ ngày 01 tháng 01 năm 2019;"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "hop-nhat",
+    "target_document": "42/2024/QH15",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Luật Quản lý, sử dụng vũ khí, vật liệu nổ và công cụ hỗ trợ số 42/2024/QH15 ngày 29 tháng 6 năm 2024 của Quốc hội, có hiệu lực kể từ ngày 01 tháng 01 năm 2025;"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "hop-nhat",
+    "target_document": "47/2024/QH15",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Luật Quy hoạch đô thị và nông thôn số 47/2024/QH15 ngày 26 tháng 11 năm 2024 của Quốc hội, có hiệu lực kể từ ngày 01 tháng 7 năm 2025;"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "hop-nhat",
+    "target_document": "75/2025/QH15",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Luật số 75/2025/QH15 ngày 16 tháng 6 năm 2025 của Quốc hội sửa đổi, bổ sung một số điều của Luật Quảng cáo, có hiệu lực kể từ ngày 01 tháng 01 năm 2026."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Văn bản hợp nhất: hợp nhất Luật Quảng cáo 16/2012/QH13 với 4 luật sửa đổi nêu ở phần đầu. Các chú thích 'được sửa đổi, bổ sung/bãi bỏ theo …' và các đơn vị '(được bãi bỏ)' là ghi chú lịch sử, không ghi. Điều 42 (Pháp lệnh 39/2001/PL-UBTVQH10 hết hiệu lực) là nội dung chép lại của Luật 16/2012/QH13; văn bản hợp nhất không phải Luật nên không tự bãi bỏ Pháp lệnh, không ghi."
+ },
+ {
+  "doc_id": "670751",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "hop-nhat",
+    "target_document": "20/2017/QH15",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Luật Quản lý nợ công số 20/2017/QH15 ngày 23 tháng 11 năm 2017 của Quốc hội, có hiệu lực kể từ ngày 01 tháng 7 năm 2018, được sửa đổi, bổ sung bởi:"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "hop-nhat",
+    "target_document": "90/2025/QH15",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Luật số 90/2025/QH15 ngày 25 tháng 6 năm 2025 của Quốc hội sửa đổi, bổ sung một số điều của Luật Đấu thầu, Luật Đầu tư theo phương thức đối tác công tư, Luật Hải quan, Luật Thuế giá trị gia tăng, Luật Thuế xuất khẩu, thuế nhập khẩu, Luật Đầu tư, Luật Đầu tư công, Luật Quản lý, sử dụng tài sản công, có hiệu lực kể từ 01 tháng 7 năm 2025."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Văn bản hợp nhất Luật Quản lý nợ công với Luật 90/2025/QH15. Số hiệu ghi theo văn bản là 20/2017/QH15 (số hiệu đúng của luật có thể là 20/2017/QH14). Điều 62 khoản 2 (Luật 29/2009/QH12 hết hiệu lực) là nội dung chép lại của Luật gốc; văn bản hợp nhất không tự bãi bỏ luật, không ghi. Chú thích và '(được bãi bỏ)' là ghi chú lịch sử."
+ }
+]

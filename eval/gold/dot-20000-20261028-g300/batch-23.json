@@ -1,0 +1,42 @@
+[
+ {
+  "doc_id": "665686",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 1 khoản 2 đóng (bãi bỏ) 1.547 mã định danh điện tử, đích là mã định danh, câu không nêu văn bản đích. Câu '(Các nội dung khác giữ nguyên theo Quyết định số 2478/QĐ-UBND ... và Quyết định số 1023/QĐ-UBND ...)' chỉ ngụ ý điều chỉnh, không nêu hành động lên phần nào của 2 quyết định đó: không ghi quan hệ."
+ },
+ {
+  "doc_id": "666534",
+  "relations": [
+   {
+    "source_path": "Điều 3",
+    "action": "thay-the",
+    "target_document": "570/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Quy trình nội bộ giải quyết TTHC tương ứng trong lĩnh vực lâm nghiệp và kiểm lâm, bảo tồn thiên nhiên và đa dạng sinh học",
+    "evidence": "Quyết định này có hiệu lực thi hành kể từ ngày ký và thay thế Quy trình nội bộ giải quyết TTHC tương ứng trong lĩnh vực lâm nghiệp và kiểm lâm, bảo tồn thiên nhiên và đa dạng sinh học đã được Chủ tịch Ủy ban nhân dân tỉnh phê duyệt tại các Quyết định: số 570/QĐ-UBND ngày 15 tháng 4 năm 2025; số 729/QĐ-UBND ngày 14 tháng 5 năm 2025; số 1093/QĐ-UBND ngày 27 tháng 6 năm 2025."
+   },
+   {
+    "source_path": "Điều 3",
+    "action": "thay-the",
+    "target_document": "729/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Quy trình nội bộ giải quyết TTHC tương ứng trong lĩnh vực lâm nghiệp và kiểm lâm, bảo tồn thiên nhiên và đa dạng sinh học",
+    "evidence": "Quyết định này có hiệu lực thi hành kể từ ngày ký và thay thế Quy trình nội bộ giải quyết TTHC tương ứng trong lĩnh vực lâm nghiệp và kiểm lâm, bảo tồn thiên nhiên và đa dạng sinh học đã được Chủ tịch Ủy ban nhân dân tỉnh phê duyệt tại các Quyết định: số 570/QĐ-UBND ngày 15 tháng 4 năm 2025; số 729/QĐ-UBND ngày 14 tháng 5 năm 2025; số 1093/QĐ-UBND ngày 27 tháng 6 năm 2025."
+   },
+   {
+    "source_path": "Điều 3",
+    "action": "thay-the",
+    "target_document": "1093/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Quy trình nội bộ giải quyết TTHC tương ứng trong lĩnh vực lâm nghiệp và kiểm lâm, bảo tồn thiên nhiên và đa dạng sinh học",
+    "evidence": "Quyết định này có hiệu lực thi hành kể từ ngày ký và thay thế Quy trình nội bộ giải quyết TTHC tương ứng trong lĩnh vực lâm nghiệp và kiểm lâm, bảo tồn thiên nhiên và đa dạng sinh học đã được Chủ tịch Ủy ban nhân dân tỉnh phê duyệt tại các Quyết định: số 570/QĐ-UBND ngày 15 tháng 4 năm 2025; số 729/QĐ-UBND ngày 14 tháng 5 năm 2025; số 1093/QĐ-UBND ngày 27 tháng 6 năm 2025."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 3 thay thế phần quy trình nội bộ tương ứng đã phê duyệt tại 3 quyết định. Phụ lục quy trình không có tác động; Quyết định 750/QĐ-UBND chỉ được dẫn mẫu."
+ }
+]

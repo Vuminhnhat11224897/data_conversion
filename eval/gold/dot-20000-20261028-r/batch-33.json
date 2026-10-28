@@ -1,0 +1,83 @@
+[
+ {
+  "doc_id": "662373",
+  "relations": [
+   {
+    "source_path": "Điều 36 Khoản 2 điểm a",
+    "action": "bai-bo",
+    "target_document": "23/2018/TT-NHNN",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thông tư số 23/2018/TT-NHNN ngày 14 tháng 9 năm 2018 của Thống đốc Ngân hàng Nhà nước quy định về tổ chức lại, thu hồi Giấy phép và thanh lý tài sản của quỹ tín dụng nhân dân;"
+   },
+   {
+    "source_path": "Điều 36 Khoản 2 điểm b",
+    "action": "bai-bo",
+    "target_document": "13/2019/TT-NHNN",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Điều 3 Thông tư số 13/2019/TT-NHNN ngày 21 tháng 8 năm 2019 của Thống đốc Ngân hàng Nhà nước sửa đổi, bổ sung một số điều của các Thông tư có liên quan đến việc cấp giấy phép, tổ chức và hoạt động của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài;"
+   },
+   {
+    "source_path": "Điều 36 Khoản 2 điểm c",
+    "action": "bai-bo",
+    "target_document": "24/2023/TT-NHNN",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 6"
+    ],
+    "doi_tuong": null,
+    "evidence": "Điều 6 Thông tư số 24/2023/TT-NHNN ngày 29 tháng 12 năm 2023 của Thống đốc Ngân hàng Nhà nước sửa đổi, bổ sung một số điều của các Thông tư liên quan đến việc nộp, xuất trình, cung cấp thông tin, giấy tờ về dân cư khi thực hiện thủ tục hành chính trong lĩnh vực thành lập và hoạt động ngân hàng."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Thông tư bãi bỏ ở Điều 36 Khoản 2 (câu dẫn 'Thông tư này bãi bỏ các quy định sau đây:'); mỗi điểm một quan hệ. Các chữ 'hết hiệu lực', 'sửa đổi, bổ sung Giấy phép' trong thân và mẫu phụ lục nói về Giấy phép, không phải văn bản."
+ },
+ {
+  "doc_id": "662406",
+  "relations": [
+   {
+    "source_path": "Điều 3 Khoản 2",
+    "action": "thay-the",
+    "target_document": "57/2021/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị quyết này thay thế Nghị quyết số 57/2021/NQ-HĐND ngày 09 tháng 12 năm 2021 của Hội đồng nhân dân tỉnh ban hành quy định phân cấp nguồn thu, nhiệm vụ chi giữa các cấp ngân sách thời kỳ ổn định ngân sách giai đoạn 2022-2025"
+   },
+   {
+    "source_path": "Điều 3 Khoản 2",
+    "action": "thay-the",
+    "target_document": "322/2023/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị quyết số 322/2023/NQ-HĐND ngày 08 tháng 12 năm 2023 của Hội đồng nhân dân tỉnh về quy định phân bố hạch toán thuế giá trị gia tăng đối với hoạt động xây dựng trên địa bàn tỉnh Hòa Bình"
+   },
+   {
+    "source_path": "Điều 3 Khoản 2",
+    "action": "thay-the",
+    "target_document": "324/2023/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị quyết số 324/2023/NQ-HĐND ngày 08 tháng 12 năm 2023 của Hội đồng nhân dân tỉnh về sửa đổi, bổ sung một số nội dung áp dụng cho thời kỳ ổn định ngân sách giai đoạn 2022 - 2025"
+   },
+   {
+    "source_path": "Điều 3 Khoản 2",
+    "action": "thay-the",
+    "target_document": "469/2024/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị quyết số 469/2024/NQ-HĐND ngày 06/12/2024 của Hội đồng nhân dân tỉnh sửa đổi, bổ sung khoản 6 Điều 1 Nghị quyết số 324/2023/NQ-HĐND ngày 08 tháng 12 năm 2023 của Hội đồng nhân dân tỉnh sửa đổi, bổ sung một số nội dung áp dụng cho thời kỳ ổn định ngân sách giai đoạn 2022-2025"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 3 Khoản 2 thay thế 4 nghị quyết; Nghị quyết 469/2024 thay thế cả văn bản (câu nêu khoản 6 Điều 1 NQ 324/2023 chỉ là tên của NQ 469/2024)."
+ }
+]

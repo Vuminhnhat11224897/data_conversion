@@ -1,0 +1,36 @@
+[
+ {
+  "doc_id": "670747",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "hop-nhat",
+    "target_document": "10/2022/QH15",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Luật Thực hiện dân chủ ở cơ sở số 10/2022/QH15 ngày 10 tháng 11 năm 2022 của Quốc hội, có hiệu lực kể từ ngày 01 tháng 7 năm 2023, được sửa đổi, bổ sung bởi:"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "hop-nhat",
+    "target_document": "47/2024/QH15",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "1. Luật Quy hoạch đô thị và nông thôn số 47/2024/QH15 ngày 26 tháng 11 năm 2024 của Quốc hội, có hiệu lực kể từ ngày 01 tháng 7 năm 2025;"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "hop-nhat",
+    "target_document": "97/2025/QH15",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "2. Luật số 97/2025/QH15 ngày 27 tháng 6 năm 2025 của Quốc hội sửa đổi, bổ sung một số điều của Luật Mặt trận Tổ quốc Việt Nam, Luật Công đoàn, Luật Thanh niên và Luật Thực hiện dân chủ ở cơ sở, có hiệu lực kể từ ngày 01 tháng 7 năm 2025."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Văn bản hợp nhất Luật 10/2022/QH15 với các luật sửa đổi 47/2024/QH15 và 97/2025/QH15 (phần đầu). Không ghi quan hệ cho Điều 90 khoản 2 (Pháp lệnh 34/2007/PL-UBTVQH11 và Nghị quyết 55/1998/NQ-UBTVQH10 hết hiệu lực): đây là câu chép lại của Luật 10/2022/QH15, văn bản hợp nhất không tự bãi bỏ. Các chú thích [n] 'được thay thế/được bỏ/được sửa đổi theo ...' và '(được bãi bỏ)' là ghi chú lịch sử, không phải quan hệ. Điều 22 chỉ quy định thẩm quyền sửa đổi, bãi bỏ quyết định của cộng đồng dân cư."
+ }
+]

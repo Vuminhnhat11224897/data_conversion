@@ -1,0 +1,717 @@
+[
+ {
+  "doc_id": "692726",
+  "relations": [
+   {
+    "source_path": "Điều 1",
+    "action": "quy-dinh-chi-tiet",
+    "target_document": "201/2025/QH15",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 9"
+    ],
+    "doi_tuong": null,
+    "evidence": "Quyết định này quy định chi tiết điều kiện về nhà ở để được mua, thuê mua nhà ở xã hội đối với trường hợp có nhà ở thuộc sở hữu của mình nhưng cách xa địa điểm làm việc trên địa bàn tỉnh An Giang theo quy định tại khoản 2 Điều 9 Nghị quyết số 201/2025/QH15"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên và lời dẫn 'quy định chi tiết' không nêu văn bản đích nên không có quan hệ Phần đầu."
+ },
+ {
+  "doc_id": "693020",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Nghị quyết thành lập Sở Tư pháp; không có tác động lên văn bản khác."
+ },
+ {
+  "doc_id": "693024",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Đặt tên đường, điều chỉnh lý trình; 'sau khi UBND ban hành Quyết định bãi bỏ QĐ 88/2007/QĐ-UB' là việc của văn bản khác, không phải tác động của Nghị quyết này."
+ },
+ {
+  "doc_id": "693367",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn trả lời; chỉ trích dẫn QĐ 27/2018/QĐ-TTg."
+ },
+ {
+  "doc_id": "626733",
+  "relations": [
+   {
+    "source_path": "Điều 11 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "05/2014/TT-NHNN",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thông tư số 05/2014/TT-NHNN ngày 12 tháng 3 năm 2014 của Thống đốc Ngân hàng Nhà nước Việt Nam hướng dẫn việc mở và sử dụng tài khoản vốn đầu tư gián tiếp để thực hiện hoạt động đầu tư gián tiếp nước ngoài tại Việt Nam hết hiệu lực kể từ ngày Thông tư này có hiệu lực thi hành."
+   },
+   {
+    "source_path": "Điều 11 Khoản 3 điểm a",
+    "action": "thay-cum-tu",
+    "target_document": "06/2019/TT-NHNN",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm b khoản 2 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “nhà đầu tư nước ngoài sở hữu từ 51% vốn điều lệ trở lên” bằng cụm từ “nhà đầu tư nước ngoài sở hữu trên 50% vốn điều lệ” tại điểm b khoản 2 Điều 3;"
+   },
+   {
+    "source_path": "Điều 11 Khoản 3 điểm b",
+    "action": "thay-cum-tu",
+    "target_document": "06/2019/TT-NHNN",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 6 Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “tỷ lệ sở hữu cổ phần, phần vốn góp của nhà đầu tư nước ngoài tại doanh nghiệp này xuống dưới 51%” bằng cụm từ “tỷ lệ sở hữu cổ phần, phần vốn góp của nhà đầu tư nước ngoài tại doanh nghiệp này bằng hoặc dưới 50%” tại điểm a khoản 6 Điều 5."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Các câu 'theo quy định tại Thông tư 06/2019 và các văn bản sửa đổi, bổ sung, thay thế' là dẫn chiếu."
+ },
+ {
+  "doc_id": "647939",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "905/QĐ-BYT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "VỀ VIỆC ĐIỀU CHỈNH QUYẾT ĐỊNH SỐ 905/QĐ-BYT NGÀY 18/3/2025 CỦA BỘ TRƯỞNG BỘ Y TẾ BAN HÀNH KẾ HOẠCH TRIỂN KHAI CHIẾN DỊCH TIÊM CHỦNG VẮC XIN PHÒNG, CHỐNG DỊCH SỞI NĂM 2025 ĐỢT 2"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "906/QĐ-BYT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "QUYẾT ĐỊNH SỐ 906/QĐ-BYT NGÀY 18/3/2025 CỦA BỘ TRƯỞNG BỘ Y TẾ VỀ VIỆC SỬA ĐỔI, BỔ SUNG “KẾ HOẠCH TIÊM CHỦNG MỞ RỘNG NĂM 2025”"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "905/QĐ-BYT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục 1 Phần III"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi mục 1. Thời gian tại Phần III như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "905/QĐ-BYT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục 2 Phần III"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi nội dung gạch đầu dòng thứ 3 mục 2. Đối tượng Phần III như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "bo-sung",
+    "target_document": "905/QĐ-BYT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục 1 Phần V"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung gạch đầu dòng thứ 3 mục 1. Điều tra, lập danh sách đối tượng tại Phần V như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 4",
+    "action": "bo-sung",
+    "target_document": "905/QĐ-BYT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục 3.1 Phần V"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung nội dung gạch đầu dòng thứ 5 mục 3.1. Loại vắc xin tại Phần V như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 5",
+    "action": "sua-doi",
+    "target_document": "905/QĐ-BYT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục 3.2 Phần V"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi mục 3.2. Nguồn vắc xin tại Phần V như sau:"
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "sua-doi",
+    "target_document": "906/QĐ-BYT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm e Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi điểm e Điều 1 của Quyết định số 906/QĐ-BYT ngày 18/3/2025 của Bộ trưởng Bộ Y tế"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 1 sửa Kế hoạch kèm theo QĐ 905; Điều 2 sửa điểm e Điều 1 QĐ 906. QĐ 1987/QĐ-BYT chỉ nêu trong tên QĐ 906, không phải đích."
+ },
+ {
+  "doc_id": "648849",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "42/2024/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA QUYẾT ĐỊNH SỐ 42/2024/QĐ-UBND NGÀY 07 THÁNG 11 NĂM 2024"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "42/2024/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA QUYẾT ĐỊNH SỐ 42/2024/QĐ-UBND NGÀY 07 THÁNG 11 NĂM 2024"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "42/2024/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 2 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "42/2024/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 2 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "42/2024/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục II"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Phụ lục II ban hành kèm theo Quyết định số 42/2024/QĐ-UBND ngày 07 tháng 11 năm 2024"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "42/2024/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục II"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Phụ lục II ban hành kèm theo Quyết định số 42/2024/QĐ-UBND ngày 07 tháng 11 năm 2024"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": ""
+ },
+ {
+  "doc_id": "649350",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn 'Đồng ý sửa đổi, bổ sung NĐ 92/2016/NĐ-CP và TT 01/2011/TT-BGTVT theo thủ tục rút gọn' là đồng ý đề xuất sẽ thực hiện bằng văn bản khác, không phải quan hệ."
+ },
+ {
+  "doc_id": "649547",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "33/2019/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Quy định Bảng giá các loại đất giai đoạn 2020 - 2024",
+    "evidence": "BỔ SUNG QUY ĐỊNH BẢNG GIÁ CÁC LOẠI ĐẤT GIAI ĐOẠN 2020 - 2024 TRÊN ĐỊA BÀN TỈNH CAO BẰNG BAN HÀNH KÈM THEO NGHỊ QUYẾT SỐ 33/2019/NQ-HĐND NGÀY 11 THÁNG 12 NĂM 2019"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "33/2019/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "bảng giá đất ở tại đô thị của thị trấn Đông Khê, huyện Thạch An",
+    "evidence": "Bổ sung bảng giá đất ở tại đô thị của thị trấn Đông Khê, huyện Thạch An, cụ thể:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "33/2019/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "bảng giá đất ở tại đô thị của thị trấn Quảng Uyên, thị trấn Hòa Thuận, huyện Quảng Hòa",
+    "evidence": "Bổ sung bảng giá đất ở tại đô thị của thị trấn Quảng Uyên, thị trấn Hòa Thuận, huyện Quảng Hòa, cụ thể:"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quy định kèm theo NQ 33/2019 'được sửa đổi, bổ sung tại NQ 58/2021/NQ-HĐND' là lịch sử; đích là NQ 33/2019."
+ },
+ {
+  "doc_id": "649601",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "47/2019/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG ĐIỀU 1 CỦA NGHỊ QUYẾT SỐ 47/2019/NQ-HĐND NGÀY 13 THÁNG 12 NĂM 2019"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "47/2019/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG ĐIỀU 1 CỦA NGHỊ QUYẾT SỐ 47/2019/NQ-HĐND NGÀY 13 THÁNG 12 NĂM 2019"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "sua-doi",
+    "target_document": "47/2019/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thống nhất sửa đổi, bổ sung Điều 1 Nghị quyết số 47/2019/NQ-HĐND ngày 13 tháng 12 năm 2019"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bo-sung",
+    "target_document": "47/2019/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thống nhất sửa đổi, bổ sung Điều 1 Nghị quyết số 47/2019/NQ-HĐND ngày 13 tháng 12 năm 2019"
+   },
+   {
+    "source_path": "Điều 3 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "22/2020/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị quyết số 22/2020/NQ-HĐND ngày 06 tháng 12 năm 2020 của Hội đồng nhân dân tỉnh khóa XII, kỳ họp thứ 13 ban hành sửa đổi, bổ sung Bảng giá các loại đất định kỳ 05 năm (năm 2020 - 2024) trên địa bàn tỉnh Bình Định và Nghị quyết số 30/2021/NQ-HĐND"
+   },
+   {
+    "source_path": "Điều 3 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "30/2021/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị quyết số 30/2021/NQ-HĐND ngày 11 tháng 12 năm 2021 của Hội đồng nhân dân tỉnh khóa XII, Kỳ họp thứ 14 ban hành sửa đổi, bổ sung Bảng giá các loại đất định kỳ 05 năm (năm 2020 - 2024) trên địa bàn tỉnh Bình Định hết hiệu lực kể từ ngày Nghị quyết này có hiệu lực thi hành."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 3 khoản 2 tuyên bố NQ 22/2020 và NQ 30/2021 hết hiệu lực."
+ },
+ {
+  "doc_id": "650256",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "08/2021/TT-BTTTT",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Phụ lục ban hành kèm theo",
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ NỘI DUNG TẠI PHỤ LỤC BAN HÀNH KÈM THEO THÔNG TƯ SỐ 08/2021/TT-BTTTT NGÀY 14 THÁNG 10 NĂM 2021"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "08/2021/TT-BTTTT",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Phụ lục ban hành kèm theo",
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ NỘI DUNG TẠI PHỤ LỤC BAN HÀNH KÈM THEO THÔNG TƯ SỐ 08/2021/TT-BTTTT NGÀY 14 THÁNG 10 NĂM 2021"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "sua-doi",
+    "target_document": "08/2021/TT-BTTTT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục 2",
+     "Phụ lục 10",
+     "Phụ lục 16"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung một số nội dung tại các Phụ lục 2, 10 và 16 ban hành kèm theo Thông tư số 08/2021/TT-BTTTT ngày 14 tháng 10 năm 2021"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bo-sung",
+    "target_document": "08/2021/TT-BTTTT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục 2",
+     "Phụ lục 10",
+     "Phụ lục 16"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung một số nội dung tại các Phụ lục 2, 10 và 16 ban hành kèm theo Thông tư số 08/2021/TT-BTTTT ngày 14 tháng 10 năm 2021"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 1",
+    "action": "sua-doi",
+    "target_document": "08/2021/TT-BTTTT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục 2"
+    ],
+    "doi_tuong": "nội dung số thứ tự 8 tại khoản 1",
+    "evidence": "Sửa đổi nội dung số thứ tự 8 tại khoản 1 như sau:"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 1",
+    "action": "bo-sung",
+    "target_document": "08/2021/TT-BTTTT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục 2"
+    ],
+    "doi_tuong": "số thứ tự 54a tại khoản 1; điểm 2.25 và 2.26 khoản 2",
+    "evidence": "Bổ sung nội dung số thứ tự 54a vào sau số thứ tự 54 tại khoản 1 như sau:"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 1",
+    "action": "bai-bo",
+    "target_document": "08/2021/TT-BTTTT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục 2"
+    ],
+    "doi_tuong": "nội dung số thứ tự 9 tại khoản 1",
+    "evidence": "Bãi bỏ nội dung số thứ tự 9 tại khoản 1;"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 2",
+    "action": "bo-sung",
+    "target_document": "08/2021/TT-BTTTT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục 10"
+    ],
+    "doi_tuong": "băng tần “5925 ÷ 6425 MHz” cho thiết bị mạng nội bộ không dây (WLAN/RLAN)",
+    "evidence": "Bổ sung băng tần “5925 ÷ 6425 MHz” cho thiết bị mạng nội bộ không dây (WLAN/RLAN) vào Phụ lục 10 ban hành kèm theo Thông tư số 08/2021/TT-BTTTT ngày 14 tháng 10 năm 2021"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục 3",
+    "action": "sua-doi",
+    "target_document": "08/2021/TT-BTTTT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục 16"
+    ],
+    "doi_tuong": "băng tần cho thiết bị sạc không dây",
+    "evidence": "Sửa đổi các băng tần “326,5 kHz, 340 kHz” và “353 ÷ 373,5 kHz” thành băng tần “315 ÷ 400 kHz” cho thiết bị sạc không dây tại Phụ lục 16 ban hành kèm theo Thông tư số 08/2021/TT-BTTTT ngày 14 tháng 10 năm 2021"
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "loai": "nhan_sai_dieu",
+    "ghi_chu": "Khoản 3 (phản ánh khó khăn, vướng mắc) thuộc Điều 2 (hiệu lực, tổ chức thực hiện); tiêu đề Điều 2 mất do toàn văn bị cắt"
+   },
+   {
+    "source_path": "Phụ lục 1",
+    "loai": "thieu_noi_dung",
+    "ghi_chu": "Phụ lục I (các mục 1-3 sửa đổi, bổ sung, bãi bỏ nội dung Phụ lục 2, 10, 16 của TT 08/2021) không có trong don_vi"
+   }
+  ],
+  "ghi_chu": "Toàn văn bị cắt ('Thành viên Pro'): mất đề mục 1 của Phụ lục I. Mục 1 (a-d) suy ra là Phụ lục 2 của TT 08/2021 vì Điều 1 nêu Phụ lục 2, 10, 16 và Mục 2, 3 là Phụ lục 10, 16. Có thể thiếu nội dung khác bị cắt."
+ },
+ {
+  "doc_id": "650759",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Công văn hướng dẫn thuế; chỉ trích dẫn văn bản."
+ },
+ {
+  "doc_id": "651232",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều chỉnh, bổ sung Chương trình lập pháp năm 2025 nhưng văn bản không nêu số hiệu nghị quyết ban hành Chương trình; các dự án 'sửa đổi, bổ sung' là tên dự án luật, nghị quyết."
+ },
+ {
+  "doc_id": "651276",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "342/2020/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Đề án “Tổ chức lực lượng huấn luyện, hoạt động và bảo đảm chế độ, chính sách cho dân quân tự vệ trên địa bàn tỉnh Hòa Bình giai đoạn 2021 - 2025”",
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ NỘI DUNG CỦA ĐỀ ÁN “TỔ CHỨC LỰC LƯỢNG HUẤN LUYỆN, HOẠT ĐỘNG VÀ BẢO ĐẢM CHẾ ĐỘ, CHÍNH SÁCH CHO DÂN QUÂN TỰ VỆ TRÊN ĐỊA BÀN TỈNH HÒA BÌNH GIAI ĐOẠN 2021 - 2025” BAN HÀNH KÈM THEO NGHỊ QUYẾT SỐ 342/2020/NQ-HĐND"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "342/2020/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Đề án “Tổ chức lực lượng huấn luyện, hoạt động và bảo đảm chế độ, chính sách cho dân quân tự vệ trên địa bàn tỉnh Hòa Bình giai đoạn 2021 - 2025”",
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ NỘI DUNG CỦA ĐỀ ÁN “TỔ CHỨC LỰC LƯỢNG HUẤN LUYỆN, HOẠT ĐỘNG VÀ BẢO ĐẢM CHẾ ĐỘ, CHÍNH SÁCH CHO DÂN QUÂN TỰ VỆ TRÊN ĐỊA BÀN TỈNH HÒA BÌNH GIAI ĐOẠN 2021 - 2025” BAN HÀNH KÈM THEO NGHỊ QUYẾT SỐ 342/2020/NQ-HĐND"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "342/2020/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm 2 khoản I Mục C Phần II",
+     "điểm 5 khoản I Mục C Phần II"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi điểm 2, điểm 5, khoản I Mục C - Phần II của Đề án ban hành kèm theo Nghị quyết số 342/2020/NQ-HĐND ngày 09 tháng 12 năm 2020"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "342/2020/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 1 Mục D Phần II"
+    ],
+    "doi_tuong": "kinh phí thực hiện Đề án",
+    "evidence": "Bổ sung kinh phí thực hiện Đề án quy định tại khoản 1 Mục D - Phần II của Đề án ban hành hành kèm theo Nghị quyết số 342/2020/NQ-HĐND ngày 09 tháng 12 năm 2020"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "bo-sung",
+    "target_document": "342/2020/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm 2 khoản II Phần III"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung điểm 2 khoản II - Phần III của Đề án ban hành hành kèm theo Nghị quyết số 342/2020/NQ-HĐND ngày 09 tháng 12 năm 2020"
+   },
+   {
+    "source_path": "Điều 1 Khoản 4",
+    "action": "bai-bo",
+    "target_document": "298/2020/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 5"
+    ],
+    "doi_tuong": "quy định về phụ cấp hàng tháng đối với Thôn đội trưởng (0,5 lần mức lương cơ sở/tháng)",
+    "evidence": "Bãi bỏ quy định về phụ cấp hàng tháng đối với đối tượng giữ chức vụ “Thôn đội trưởng hưởng mức phụ cấp 0,5 lần mức lương cơ sở/tháng” theo khoản 2, Điều 5 Nghị quyết số 298/2020/NQ-HĐND ngày 23 tháng 7 năm 2020"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 1 sửa Đề án kèm theo NQ 342/2020; khoản 4 bãi bỏ một phần khoản 2 Điều 5 NQ 298/2020."
+ },
+ {
+  "doc_id": "651547",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "08/2025/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "VỀ VIỆC SỬA ĐỔI ĐIỀU 2 CỦA QUYẾT ĐỊNH SỐ 08/2025/QĐ-UBND NGÀY 06/02/2025"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "sua-doi",
+    "target_document": "08/2025/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi Điều 2 của Quyết định số 08/2025/QĐ-UBND ngày 06/02/2025 của UBND tỉnh"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": ""
+ },
+ {
+  "doc_id": "651573",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "01/2011/TT-BGTVT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA THÔNG TƯ SỐ 01/2011/TT-BGTVT NGÀY 27 THÁNG 01 NĂM 2011"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "01/2011/TT-BGTVT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA THÔNG TƯ SỐ 01/2011/TT-BGTVT NGÀY 27 THÁNG 01 NĂM 2011"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "sua-doi",
+    "target_document": "01/2011/TT-BGTVT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản c Điều 3.030"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản c Điều 3.030 quy định tại Phần 3 Bộ Quy chế An toàn hàng không dân dụng lĩnh vực tàu bay và khai thác tàu bay ban hành kèm theo Thông tư số 01/2011/TT-BGTVT"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bo-sung",
+    "target_document": "01/2011/TT-BGTVT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản c Điều 3.030"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản c Điều 3.030 quy định tại Phần 3 Bộ Quy chế An toàn hàng không dân dụng lĩnh vực tàu bay và khai thác tàu bay ban hành kèm theo Thông tư số 01/2011/TT-BGTVT"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "'được sửa đổi tại Mục 1 Phụ lục II ... TT 21/2017/TT-BGTVT ... TT 03/2016/TT-BGTVT' là lịch sử, không phải đích."
+ },
+ {
+  "doc_id": "651896",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "19/2025/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA QUY ĐỊNH BAN HÀNH KÈM THEO QUYẾT ĐỊNH SỐ 19/2025/QĐ-UBND NGÀY 20 THÁNG 02 NĂM 2025"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "19/2025/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA QUY ĐỊNH BAN HÀNH KÈM THEO QUYẾT ĐỊNH SỐ 19/2025/QĐ-UBND NGÀY 20 THÁNG 02 NĂM 2025"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "19/2025/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm m khoản 14 Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung điểm m tại khoản 14 Điều 2 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "19/2025/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 4 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 4 Điều 3 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "19/2025/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 4 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 4 Điều 3 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "bo-sung",
+    "target_document": "19/2025/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 7 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung khoản 7 Điều 3 như sau:"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Câu dẫn Điều 1 (sửa đổi, bổ sung một số điều của Quy định kèm theo QĐ 19/2025) được ghi ở các khoản con."
+ },
+ {
+  "doc_id": "651997",
+  "relations": [],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 1",
+    "loai": "nhan_sai_dieu",
+    "ghi_chu": "Điều 1 là nội dung Thông tư 26/2015/TT-BTC được công văn trích dẫn, không phải Điều của văn bản này"
+   }
+  ],
+  "ghi_chu": "Công văn trả lời về thuế suất; chỉ trích dẫn TT 219/2013, TT 26/2015."
+ },
+ {
+  "doc_id": "652387",
+  "relations": [
+   {
+    "source_path": "Mục 2",
+    "action": "sua-doi",
+    "target_document": "3288/VPCP-CN",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "phân công địa điểm dự, chỉ đạo tại các điểm cầu",
+    "evidence": "Điều chỉnh địa điểm dự, chỉ đạo tại điểm cầu theo phân công tại Công văn số 3288/VPCP-CN ngày 17 tháng 4 năm 2025 của Văn phòng Chính phủ như sau:"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Mục 1 thay thời gian tại 'Điện Mật số 121 ngày 17/4/2025 của VPCP' – đích không có ký hiệu số hiệu đầy đủ nên không ghi quan hệ."
+ }
+]

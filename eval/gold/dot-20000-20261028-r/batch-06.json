@@ -1,0 +1,79 @@
+[
+ {
+  "doc_id": "650928",
+  "relations": [
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "quy-dinh-chi-tiet",
+    "target_document": "Luật Ban hành văn bản quy phạm pháp luật",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 59"
+    ],
+    "doi_tuong": null,
+    "evidence": "Nghị định này quy định chi tiết khoản 3 Điều 59 Luật Ban hành văn bản quy phạm pháp luật về trách nhiệm tổ chức thi hành, theo dõi, sơ kết, tổng kết việc thi hành văn bản quy phạm pháp luật"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "huong-dan",
+    "target_document": "Luật Ban hành văn bản quy phạm pháp luật",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị định này quy định các biện pháp thi hành Luật Ban hành văn bản quy phạm pháp luật về tổ chức thi hành pháp luật gồm:"
+   },
+   {
+    "source_path": "Điều 18 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "59/2012/NĐ-CP",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị định số 59/2012/NĐ-CP ngày 23 tháng 7 năm 2012 của Chính phủ về theo dõi tình hình thi hành pháp luật và Nghị định số 32/2020/NĐ-CP ngày 05 tháng 3 năm 2020 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 59/2012/NĐ-CP ngày 23 tháng 7 năm 2012 về theo dõi tình hình thi hành pháp luật hết hiệu lực thi hành từ ngày Nghị định này có hiệu lực thi hành"
+   },
+   {
+    "source_path": "Điều 18 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "32/2020/NĐ-CP",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị định số 59/2012/NĐ-CP ngày 23 tháng 7 năm 2012 của Chính phủ về theo dõi tình hình thi hành pháp luật và Nghị định số 32/2020/NĐ-CP ngày 05 tháng 3 năm 2020 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 59/2012/NĐ-CP ngày 23 tháng 7 năm 2012 về theo dõi tình hình thi hành pháp luật hết hiệu lực thi hành từ ngày Nghị định này có hiệu lực thi hành"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Luật Ban hành VBQPPL không nêu số hiệu trong văn bản. Điều 1 Khoản 2 'quy định các biện pháp thi hành Luật' ghi là huong-dan (chung, không vị trí). Điều 17 là chuyển tiếp, không phải quan hệ. Phụ lục chỉ là mẫu báo cáo."
+ },
+ {
+  "doc_id": "651110",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "41/2024/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực thi hành kể từ ngày 17 tháng 4 năm 2025 và thay thế Quyết định số 41/2024/QĐ-UBND ngày 16 tháng 8 năm 2024 của Ủy ban nhân dân tỉnh ban hành Quy trình thẩm định, phê duyệt, điều chỉnh Báo cáo kinh tế - kỹ thuật đầu tư xây dựng"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Phụ lục 1 Điều 7 chuyển tiếp theo Quy trình cũ, không phải quan hệ. Phụ lục 2 là mẫu tờ trình, căn cứ trong mẫu không phải quan hệ."
+ },
+ {
+  "doc_id": "651680",
+  "relations": [
+   {
+    "source_path": "Điều 2 Khoản 2",
+    "action": "thay-the",
+    "target_document": "22/2017/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này thay thế Quyết định số 22/2017/QĐ-UBND ngày 18 tháng 4 năm 2017 của Ủy ban nhân dân Thành phố Hồ Chí Minh ban hành Quy định về quản lý, sử dụng hành lang trên bờ sông, suối, kênh rạch, mương và hồ công cộng thuộc địa bàn Thành phố Hồ Chí Minh."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Phụ lục 1 Điều 18 nhắc QĐ 22/2017 hết hiệu lực (chuyển tiếp), không phải quan hệ riêng."
+ }
+]

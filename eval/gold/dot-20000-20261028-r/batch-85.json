@@ -1,0 +1,157 @@
+[
+ {
+  "doc_id": "664573",
+  "relations": [
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "quy-dinh-chi-tiet",
+    "target_document": "Luật Địa chất và khoáng sản",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 57",
+     "điểm đ khoản 2 Điều 59",
+     "điểm h khoản 2 Điều 59",
+     "điểm i khoản 2 Điều 59",
+     "điểm n khoản 2 Điều 59",
+     "khoản 2 Điều 63",
+     "khoản 6 Điều 64",
+     "khoản 3 Điều 69",
+     "điểm đ khoản 2 Điều 70",
+     "điểm g khoản 2 Điều 70",
+     "điểm i khoản 2 Điều 70",
+     "điểm n khoản 2 Điều 70",
+     "điểm a khoản 1 Điều 73",
+     "điểm d khoản 2 Điều 73",
+     "điểm h khoản 4 Điều 73",
+     "khoản 3 Điều 74",
+     "điểm c khoản 2 Điều 76"
+    ],
+    "doi_tuong": null,
+    "evidence": "Quy định chi tiết khoản 3 Điều 57; điểm đ, điểm h, điểm i và điểm n khoản 2 Điều 59; khoản 2 Điều 63; khoản 6 Điều 64; khoản 3 Điều 69; điểm đ, điểm g, điểm i và điểm n khoản 2 Điều 70; điểm a khoản 1, điểm d khoản 2 và điểm h khoản 4 Điều 73; khoản 3 Điều 74; điểm c khoản 2 Điều 76 của Luật Địa chất và khoáng sản."
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "quy-dinh-chi-tiet",
+    "target_document": "193/2025/NĐ-CP",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm b khoản 1 Điều 7",
+     "khoản 2 Điều 7",
+     "khoản 3 Điều 7",
+     "khoản 8 Điều 59",
+     "khoản 8 Điều 90",
+     "khoản 9 Điều 91",
+     "khoản 4 Điều 92",
+     "khoản 7 Điều 93",
+     "khoản 5 Điều 97",
+     "khoản 3 Điều 98"
+    ],
+    "doi_tuong": null,
+    "evidence": "Quy định chi tiết điểm b khoản 1, khoản 2, khoản 3 Điều 7; khoản 8 Điều 59; khoản 8 Điều 90; khoản 9 Điều 91; khoản 4 Điều 92; khoản 7 Điều 93; khoản 5 Điều 97; khoản 3 Điều 98 của Nghị định số 193/2025/NĐ-CP."
+   },
+   {
+    "source_path": "Điều 24 Khoản 2 điểm a",
+    "action": "bai-bo",
+    "target_document": "51/2015/TT-BTNMT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Kể từ ngày Thông tư này có hiệu lực thi hành, chấm dứt hiệu lực thi hành các Thông tư sau đây:"
+   },
+   {
+    "source_path": "Điều 24 Khoản 2 điểm b",
+    "action": "bai-bo",
+    "target_document": "45/2016/TT-BTNMT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Kể từ ngày Thông tư này có hiệu lực thi hành, chấm dứt hiệu lực thi hành các Thông tư sau đây:"
+   },
+   {
+    "source_path": "Điều 24 Khoản 2 điểm c",
+    "action": "bai-bo",
+    "target_document": "51/2017/TT-BTNMT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Kể từ ngày Thông tư này có hiệu lực thi hành, chấm dứt hiệu lực thi hành các Thông tư sau đây:"
+   },
+   {
+    "source_path": "Điều 24 Khoản 2 điểm d",
+    "action": "bai-bo",
+    "target_document": "17/2020/TT-BTNMT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Kể từ ngày Thông tư này có hiệu lực thi hành, chấm dứt hiệu lực thi hành các Thông tư sau đây:"
+   },
+   {
+    "source_path": "Điều 24 Khoản 2 điểm đ",
+    "action": "bai-bo",
+    "target_document": "19/2023/TT-BTNMT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Kể từ ngày Thông tư này có hiệu lực thi hành, chấm dứt hiệu lực thi hành các Thông tư sau đây:"
+   },
+   {
+    "source_path": "Điều 24 Khoản 2 điểm e",
+    "action": "bai-bo",
+    "target_document": "01/2025/TT-BTNMT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Kể từ ngày Thông tư này có hiệu lực thi hành, chấm dứt hiệu lực thi hành các Thông tư sau đây:"
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 24 Khoản 2 điểm b",
+    "loai": "thieu_noi_dung",
+    "ghi_chu": "Điểm b (Thông tư 45/2016/TT-BTNMT) thuộc câu dẫn chấm dứt hiệu lực nhưng không có trong don_vi."
+   },
+   {
+    "source_path": "Điều 24 Khoản 2 điểm d",
+    "loai": "thieu_noi_dung",
+    "ghi_chu": "Điểm d (Thông tư 17/2020/TT-BTNMT) thuộc câu dẫn chấm dứt hiệu lực nhưng không có trong don_vi."
+   }
+  ],
+  "ghi_chu": "Khoản 2 Điều 24 chấm dứt hiệu lực 6 thông tư (điểm đ chỉ Điều 1 của 19/2023/TT-BTNMT; điểm e có ngoại lệ chuyển tiếp). Điều 1 quy định chi tiết Luật Địa chất và khoáng sản (văn bản không nêu số hiệu luật) và NĐ 193/2025/NĐ-CP; câu dẫn Điều 1 không ghi riêng vì khoản 1, 2 nêu đủ vị trí. Điều 23 chỉ là chuyển tiếp."
+ },
+ {
+  "doc_id": "667039",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "hop-nhat",
+    "target_document": "24/2008/QH12",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Luật Quốc tịch Việt Nam số 24/2008/QH12 ngày 13 tháng 11 năm 2008 của Quốc hội, có hiệu lực kể từ ngày 01 tháng 7 năm 2009, được sửa đổi, bổ sung bởi:"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "hop-nhat",
+    "target_document": "56/2014/QH13",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Luật số 56/2014/QH13 ngày 24 tháng 6 năm 2014 của Quốc hội sửa đổi, bổ sung một số điều của Luật Quốc tịch Việt Nam, có hiệu lực kể từ ngày 26 tháng 6 năm 2014;"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "hop-nhat",
+    "target_document": "79/2025/QH15",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Luật số 79/2025/QH15 ngày 24 tháng 6 năm 2025 của Quốc hội sửa đổi, bổ sung một số điều của Luật Quốc tịch Việt Nam, có hiệu lực kể từ ngày 01 tháng 7 năm 2025."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Văn bản hợp nhất: phần đầu nêu luật gốc 24/2008/QH12 và 2 luật sửa đổi được hợp nhất (chữ 'hợp nhất' chỉ có ở tên và dòng xác thực). Điều 43 'Luật này thay thế Luật Quốc tịch Việt Nam ngày 20 tháng 5 năm 1998' là nội dung của luật gốc được chép lại, không phải hành động của văn bản hợp nhất; không ghi. Các chú thích '[n] được sửa đổi, bổ sung/bãi bỏ theo…' và '(được bãi bỏ)' là lịch sử."
+ }
+]

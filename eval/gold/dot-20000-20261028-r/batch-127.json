@@ -1,0 +1,1624 @@
+[
+ {
+  "doc_id": "662594",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "1343/QĐ-BNN-VP",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục"
+    ],
+    "doi_tuong": "số thứ tự VII.1-9 mục A phần I và nội dung cụ thể tương ứng phần II Phụ lục (9 thủ tục hành chính nội bộ)",
+    "evidence": "thay thế các nội dung công bố tại số thứ tự VII. 1, 2, 3, 4, 5, 6, 7, 8, 9 mục A phần I và nội dung cụ thể tương ứng của từng thủ tục hành chính này phần II Phụ lục kèm theo Quyết định số 1343/QĐ-BNN-VP ngày 04/04/2023"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 1 chỉ công bố TTHC nội bộ chuẩn hóa; chú thích [1]-[3] 'công bố mới theo Thông tư 25/2023/TT-BNNPTNT' không phải hành động."
+ },
+ {
+  "doc_id": "662829",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "101/2015/QH13",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quốc hội ban hành Luật sửa đổi, bổ sung một số điều của Bộ luật Tố tụng hình sự số 101/2015/QH13"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "101/2015/QH13",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quốc hội ban hành Luật sửa đổi, bổ sung một số điều của Bộ luật Tố tụng hình sự số 101/2015/QH13"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1 điểm a",
+    "action": "bo-sung",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm p khoản 1 Điều 4"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung điểm p vào sau điểm o khoản 1 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1 điểm b",
+    "action": "bo-sung",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm k khoản 2 Điều 4"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung điểm k vào sau điểm i khoản 2 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1 điểm c",
+    "action": "bai-bo",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 2 Điều 4",
+     "điểm d khoản 2 Điều 4",
+     "điểm g khoản 2 Điều 4"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ các điểm a, d và g khoản 2."
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 20"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 20 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 20"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 20 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "sua-doi",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 2 Điều 35",
+     "điểm b khoản 2 Điều 35",
+     "điểm c khoản 2 Điều 35",
+     "điểm d khoản 2 Điều 35",
+     "điểm đ khoản 2 Điều 35",
+     "điểm e khoản 2 Điều 35"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung các điểm a, b, c, d, đ và e khoản 2 Điều 35 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "bo-sung",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 2 Điều 35",
+     "điểm b khoản 2 Điều 35",
+     "điểm c khoản 2 Điều 35",
+     "điểm d khoản 2 Điều 35",
+     "điểm đ khoản 2 Điều 35",
+     "điểm e khoản 2 Điều 35"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung các điểm a, b, c, d, đ và e khoản 2 Điều 35 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 4",
+    "action": "sua-doi",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 4 Điều 36"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 4 Điều 36 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 4",
+    "action": "bo-sung",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 4 Điều 36"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 4 Điều 36 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 5",
+    "action": "bo-sung",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1a Điều 37"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung khoản 1a vào sau khoản 1 Điều 37 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 6",
+    "action": "sua-doi",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 4 Điều 41"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 4 và bổ sung khoản 5 vào sau khoản 4 Điều 41 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 6",
+    "action": "bo-sung",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 4 Điều 41",
+     "khoản 5 Điều 41"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 4 và bổ sung khoản 5 vào sau khoản 4 Điều 41 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 7",
+    "action": "bo-sung",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1a Điều 42"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung khoản 1a vào sau khoản 1 Điều 42 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 8",
+    "action": "sua-doi",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 4 Điều 44"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 4 và bổ sung khoản 5 vào sau khoản 4 Điều 44 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 8",
+    "action": "bo-sung",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 4 Điều 44",
+     "khoản 5 Điều 44"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 4 và bổ sung khoản 5 vào sau khoản 4 Điều 44 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 9",
+    "action": "bo-sung",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2a Điều 45"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung khoản 2a vào sau khoản 2 Điều 45 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 10",
+    "action": "sua-doi",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 4 Điều 75"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 4 Điều 75 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 10",
+    "action": "bo-sung",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 4 Điều 75"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 4 Điều 75 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 11 điểm a",
+    "action": "sua-doi",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 2 Điều 110",
+     "điểm b khoản 2 Điều 110"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm a và điểm b khoản 2 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 11 điểm a",
+    "action": "bo-sung",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 2 Điều 110",
+     "điểm b khoản 2 Điều 110"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm a và điểm b khoản 2 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 11 điểm b",
+    "action": "sua-doi",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 4 Điều 110"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 4 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 11 điểm b",
+    "action": "bo-sung",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 4 Điều 110"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 4 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 12",
+    "action": "sua-doi",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 113"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 Điều 113 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 12",
+    "action": "bo-sung",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 113"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 Điều 113 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 13",
+    "action": "bo-sung",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 5 Điều 131"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung khoản 5 vào sau khoản 4 Điều 131 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 14",
+    "action": "bo-sung",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 132"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung khoản 3 vào sau khoản 2 Điều 132 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 15 điểm a",
+    "action": "sua-doi",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "tên Điều 135"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa tên Điều như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 15 điểm b",
+    "action": "bo-sung",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 5 Điều 135"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung khoản 5 vào sau khoản 4 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 16",
+    "action": "sua-doi",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm d khoản 1 Điều 137"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm d khoản 1 Điều 137 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 16",
+    "action": "bo-sung",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm d khoản 1 Điều 137"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm d khoản 1 Điều 137 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 17",
+    "action": "sua-doi",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 141"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 141 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 17",
+    "action": "bo-sung",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 141"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 141 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 18",
+    "action": "sua-doi",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 149"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 Điều 149 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 18",
+    "action": "bo-sung",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 149"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 Điều 149 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 19",
+    "action": "sua-doi",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 150"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 Điều 150 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 19",
+    "action": "bo-sung",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 150"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 Điều 150 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 20",
+    "action": "sua-doi",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 5 Điều 163",
+     "điểm b khoản 5 Điều 163"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm a và điểm b khoản 5 Điều 163 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 20",
+    "action": "bo-sung",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 5 Điều 163",
+     "điểm b khoản 5 Điều 163"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm a và điểm b khoản 5 Điều 163 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 21 điểm a",
+    "action": "sua-doi",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 171"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 21 điểm a",
+    "action": "bo-sung",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 171"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 21 điểm b",
+    "action": "sua-doi",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 171"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 3 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 21 điểm b",
+    "action": "bo-sung",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 171"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 3 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 22",
+    "action": "sua-doi",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 5 Điều 172",
+     "điểm b khoản 5 Điều 172",
+     "điểm c khoản 5 Điều 172"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung các điểm a, b và c khoản 5 Điều 172 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 22",
+    "action": "bo-sung",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 5 Điều 172",
+     "điểm b khoản 5 Điều 172",
+     "điểm c khoản 5 Điều 172"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung các điểm a, b và c khoản 5 Điều 172 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 23",
+    "action": "sua-doi",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 3 Điều 173"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm a khoản 3 Điều 173 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 23",
+    "action": "bo-sung",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 3 Điều 173"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm a khoản 3 Điều 173 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 24",
+    "action": "sua-doi",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 193"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 Điều 193 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 24",
+    "action": "bo-sung",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 193"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 Điều 193 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 25",
+    "action": "sua-doi",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 208"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 Điều 208 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 25",
+    "action": "bo-sung",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 208"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 Điều 208 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 26",
+    "action": "sua-doi",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 225"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 Điều 225 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 26",
+    "action": "bo-sung",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 225"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 Điều 225 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 27",
+    "action": "sua-doi",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 233"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 233 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 27",
+    "action": "bo-sung",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 233"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 233 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 28",
+    "action": "sua-doi",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 239"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 Điều 239 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 28",
+    "action": "bo-sung",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 239"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 Điều 239 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 29",
+    "action": "sua-doi",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 243"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 243 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 29",
+    "action": "bo-sung",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 243"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 243 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 30",
+    "action": "sua-doi",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 262"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 Điều 262 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 30",
+    "action": "bo-sung",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 262"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 Điều 262 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 31",
+    "action": "sua-doi",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 268"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 268 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 31",
+    "action": "bo-sung",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 268"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 268 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 32",
+    "action": "sua-doi",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 269"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 Điều 269 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 32",
+    "action": "bo-sung",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 269"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 Điều 269 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 33",
+    "action": "sua-doi",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 2 Điều 290"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm a khoản 2 Điều 290 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 33",
+    "action": "bo-sung",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 2 Điều 290"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm a khoản 2 Điều 290 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 34",
+    "action": "sua-doi",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 344",
+     "khoản 2 Điều 344"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 và khoản 2 Điều 344 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 34",
+    "action": "bo-sung",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 344",
+     "khoản 2 Điều 344"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 và khoản 2 Điều 344 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 35",
+    "action": "sua-doi",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 346",
+     "khoản 2 Điều 346"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 và khoản 2 Điều 346 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 35",
+    "action": "bo-sung",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 346",
+     "khoản 2 Điều 346"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 và khoản 2 Điều 346 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 36",
+    "action": "sua-doi",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 347",
+     "khoản 2 Điều 347"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 và khoản 2 Điều 347 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 36",
+    "action": "bo-sung",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 347",
+     "khoản 2 Điều 347"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 và khoản 2 Điều 347 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 37",
+    "action": "sua-doi",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 352"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 và bổ sung khoản 3 vào sau khoản 2 Điều 352 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 37",
+    "action": "bo-sung",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 352",
+     "khoản 3 Điều 352"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 và bổ sung khoản 3 vào sau khoản 2 Điều 352 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 38 điểm a",
+    "action": "sua-doi",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm e khoản 1 Điều 367"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm e khoản 1 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 38 điểm a",
+    "action": "bo-sung",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm e khoản 1 Điều 367"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm e khoản 1 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 38 điểm b",
+    "action": "bo-sung",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 367"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung khoản 3 vào sau khoản 2 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 39",
+    "action": "sua-doi",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 372"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 Điều 372 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 39",
+    "action": "bo-sung",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 372"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 Điều 372 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 40 điểm a",
+    "action": "sua-doi",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 373"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 40 điểm a",
+    "action": "bo-sung",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 373"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 40 điểm b",
+    "action": "sua-doi",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 373"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 3 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 40 điểm b",
+    "action": "bo-sung",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 373"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 3 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 41",
+    "action": "sua-doi",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 382"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 382 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 41",
+    "action": "bo-sung",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 382"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 382 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 42",
+    "action": "sua-doi",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 400"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 3 Điều 400 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 42",
+    "action": "bo-sung",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 400"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 3 Điều 400 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 43",
+    "action": "sua-doi",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 474",
+     "khoản 3 Điều 474"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 và khoản 3 Điều 474 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 43",
+    "action": "bo-sung",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 474",
+     "khoản 3 Điều 474"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 và khoản 3 Điều 474 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 44",
+    "action": "sua-doi",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 475"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 Điều 475 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 44",
+    "action": "bo-sung",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 475"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 Điều 475 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 45",
+    "action": "sua-doi",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 476"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 476 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 45",
+    "action": "bo-sung",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 476"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 476 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 46",
+    "action": "sua-doi",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 477"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 477 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 46",
+    "action": "bo-sung",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 477"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 477 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 47",
+    "action": "sua-doi",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 481"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 Điều 481 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 47",
+    "action": "bo-sung",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 481"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 Điều 481 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 48",
+    "action": "sua-doi",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 483"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 Điều 483 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 48",
+    "action": "bo-sung",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 483"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 Điều 483 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 49",
+    "action": "sua-doi",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 2 Điều 485"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm a khoản 2 Điều 485 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 49",
+    "action": "bo-sung",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 2 Điều 485"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm a khoản 2 Điều 485 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 50",
+    "action": "sua-doi",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 487"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 3 Điều 487 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 50",
+    "action": "bo-sung",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 487"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 3 Điều 487 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 51 điểm a",
+    "action": "sua-doi",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 501"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 51 điểm a",
+    "action": "bo-sung",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 501"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 51 điểm b",
+    "action": "sua-doi",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 5 Điều 501",
+     "khoản 6 Điều 501",
+     "khoản 7 Điều 501"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung các khoản 5, 6 và 7 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 51 điểm b",
+    "action": "bo-sung",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 5 Điều 501",
+     "khoản 6 Điều 501",
+     "khoản 7 Điều 501"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung các khoản 5, 6 và 7 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 52",
+    "action": "sua-doi",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 502"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 3 Điều 502 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 52",
+    "action": "bo-sung",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 502"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 3 Điều 502 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 53",
+    "action": "sua-doi",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 503"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 Điều 503 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 53",
+    "action": "bo-sung",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 503"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 Điều 503 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 54",
+    "action": "bo-sung",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 506a"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung Điều 506a vào sau Điều 506 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 55",
+    "action": "bo-sung",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 134",
+     "khoản 1 Điều 332",
+     "khoản 3 Điều 333"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung cụm từ “, Trưởng phân trại thuộc trại tạm giam” vào sau cụm từ “Trưởng Nhà tạm giữ” tại khoản 2 Điều 134, khoản 1 Điều 332 và khoản 3 Điều 333"
+   },
+   {
+    "source_path": "Điều 1 Khoản 55",
+    "action": "bo-sung",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 454"
+    ],
+    "doi_tuong": null,
+    "evidence": "bổ sung cụm từ “hoặc có đủ khả năng nhận thức, đủ khả năng điều khiển hành vi” vào sau cụm từ “đã khỏi bệnh” tại khoản 2 Điều 454."
+   },
+   {
+    "source_path": "Điều 1 Khoản 56",
+    "action": "thay-cum-tu",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 111",
+     "khoản 3 Điều 112",
+     "khoản 3 Điều 146"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Công an xã, phường, thị trấn” bằng cụm từ “Công an cấp xã” tại khoản 3 Điều 111, khoản 3 Điều 112 và khoản 3 Điều 146."
+   },
+   {
+    "source_path": "Điều 1 Khoản 57",
+    "action": "thay-cum-tu",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 114",
+     "khoản 5 Điều 119",
+     "khoản 4 Điều 121",
+     "khoản 3 Điều 122",
+     "khoản 2 Điều 124",
+     "khoản 2 Điều 128",
+     "khoản 4 Điều 128",
+     "khoản 2 Điều 129",
+     "khoản 4 Điều 129",
+     "khoản 3 Điều 152",
+     "khoản 1 Điều 169",
+     "khoản 3 Điều 170",
+     "khoản 3 Điều 179",
+     "khoản 3 Điều 180",
+     "khoản 1 Điều 189",
+     "khoản 1 Điều 190",
+     "khoản 1 Điều 191",
+     "khoản 3 Điều 193",
+     "khoản 1 Điều 197",
+     "khoản 2 Điều 197",
+     "khoản 2 Điều 198",
+     "khoản 2 Điều 201",
+     "khoản 1 Điều 202",
+     "khoản 2 Điều 204",
+     "khoản 3 Điều 229",
+     "khoản 2 Điều 231",
+     "khoản 3 Điều 231",
+     "khoản 4 Điều 232",
+     "Điều 235",
+     "Điều 439",
+     "khoản 1 Điều 449",
+     "khoản 2 Điều 457"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Viện kiểm sát cùng cấp” bằng cụm từ “Viện kiểm sát có thẩm quyền” tại khoản 2 Điều 114"
+   },
+   {
+    "source_path": "Điều 1 Khoản 58",
+    "action": "thay-cum-tu",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 341"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Viện kiểm sát nhân dân cấp cao” bằng cụm từ “Viện kiểm sát nhân dân tối cao” tại khoản 1 Điều 341."
+   },
+   {
+    "source_path": "Điều 1 Khoản 59",
+    "action": "thay-cum-tu",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 113",
+     "Điều 116",
+     "khoản 6 Điều 119",
+     "khoản 1 Điều 120",
+     "khoản 2 Điều 121",
+     "khoản 5 Điều 123",
+     "khoản 6 Điều 123",
+     "khoản 4 Điều 128",
+     "khoản 2 Điều 138",
+     "khoản 3 Điều 138",
+     "khoản 2 Điều 182",
+     "điểm a khoản 3 Điều 185",
+     "khoản 1 Điều 195",
+     "khoản 2 Điều 195",
+     "khoản 3 Điều 195",
+     "khoản 1 Điều 198",
+     "khoản 4 Điều 202",
+     "khoản 1 Điều 262",
+     "khoản 8 Điều 368",
+     "khoản 2 Điều 369",
+     "khoản 2 Điều 395",
+     "điểm b khoản 3 Điều 437",
+     "khoản 2 Điều 440"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “chính quyền xã, phường, thị trấn” bằng cụm từ “Ủy ban nhân dân cấp xã” tại khoản 2 Điều 113"
+   },
+   {
+    "source_path": "Điều 1 Khoản 60",
+    "action": "thay-cum-tu",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm c khoản 1 Điều 90"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “chính quyền địa phương” bằng cụm từ “Ủy ban nhân dân” tại điểm c khoản 1 Điều 90."
+   },
+   {
+    "source_path": "Điều 1 Khoản 61",
+    "action": "thay-cum-tu",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 140",
+     "khoản 1 Điều 262",
+     "khoản 1 Điều 286"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Ủy ban nhân dân xã, phường, thị trấn” bằng cụm từ “Ủy ban nhân dân cấp xã” tại khoản 2 Điều 140, khoản 1 Điều 262, khoản 1 Điều 286."
+   },
+   {
+    "source_path": "Điều 1 Khoản 62",
+    "action": "thay-cum-tu",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 275",
+     "khoản 2 Điều 275"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Tòa án nhân dân cấp huyện” bằng cụm từ “Tòa án nhân dân khu vực” tại khoản 1 và khoản 2 Điều 275"
+   },
+   {
+    "source_path": "Điều 1 Khoản 62",
+    "action": "thay-cum-tu",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 452",
+     "khoản 2 Điều 452"
+    ],
+    "doi_tuong": null,
+    "evidence": "thay thế cụm từ “Tòa án nhân dân cấp tỉnh” bằng cụm từ “Tòa án nhân dân khu vực” tại khoản 1 và khoản 2 Điều 452."
+   },
+   {
+    "source_path": "Điều 1 Khoản 63",
+    "action": "thay-cum-tu",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 290",
+     "khoản 2 Điều 452"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “khỏi bệnh” bằng cụm từ “có kết luận khỏi bệnh hoặc có kết luận đủ khả năng nhận thức, đủ khả năng điều khiển hành vi” tại khoản 1 Điều 290, khoản 2 Điều 452"
+   },
+   {
+    "source_path": "Điều 1 Khoản 63",
+    "action": "thay-cum-tu",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 454",
+     "khoản 2 Điều 454"
+    ],
+    "doi_tuong": null,
+    "evidence": "thay thế cụm từ “cơ sở bắt buộc chữa bệnh tâm thần” bằng cụm từ “cơ sở khám bệnh, chữa bệnh” tại khoản 1 và khoản 2 Điều 454"
+   },
+   {
+    "source_path": "Điều 1 Khoản 63",
+    "action": "thay-cum-tu",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 454"
+    ],
+    "doi_tuong": null,
+    "evidence": "thay thế cụm từ “cơ sở bắt buộc chữa bệnh” bằng cụm từ “cơ sở khám bệnh, chữa bệnh” tại khoản 3 Điều 454."
+   },
+   {
+    "source_path": "Điều 1 Khoản 64",
+    "action": "thay-cum-tu",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 364",
+     "khoản 8 Điều 368",
+     "khoản 9 Điều 368",
+     "khoản 10 Điều 368"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “cơ quan thi hành án hình sự Công an cấp huyện” bằng cụm từ “cơ quan thi hành án hình sự Công an cấp tỉnh” tại khoản 3 Điều 364, các khoản 8, 9 và 10 Điều 368."
+   },
+   {
+    "source_path": "Điều 1 Khoản 65",
+    "action": "thay-cum-tu",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 404",
+     "khoản 3 Điều 404",
+     "khoản 1 Điều 405",
+     "khoản 2 Điều 405",
+     "Điều 406",
+     "khoản 2 Điều 407",
+     "khoản 3 Điều 407",
+     "khoản 5 Điều 407",
+     "Điều 408",
+     "điểm a khoản 2 Điều 411",
+     "Điều 412"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Ủy ban Tư pháp của Quốc hội” bằng cụm từ “Ủy ban Pháp luật và Tư pháp của Quốc hội” tại khoản 1 và khoản 3 Điều 404, khoản 1 và khoản 2 Điều 405, Điều 406, các khoản 2, 3 và 5 Điều 407, Điều 408, điểm a khoản 2 Điều 411 và Điều 412."
+   },
+   {
+    "source_path": "Điều 1 Khoản 66",
+    "action": "thay-cum-tu",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 380",
+     "khoản 3 Điều 380"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “cấp cao” bằng cụm từ “cấp tỉnh” tại khoản 2 và khoản 3 Điều 380."
+   },
+   {
+    "source_path": "Điều 1 Khoản 67",
+    "action": "thay-cum-tu",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 262"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Cơ quan điều tra cùng cấp” bằng cụm từ “Cơ quan điều tra có thẩm quyền” tại khoản 1 Điều 262."
+   },
+   {
+    "source_path": "Điều 1 Khoản 68",
+    "action": "thay-cum-tu",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm b khoản 2 Điều 4",
+     "điểm đ khoản 2 Điều 4",
+     "điểm h khoản 2 Điều 4",
+     "điểm c khoản 5 Điều 163",
+     "khoản 2 Điều 169",
+     "khoản 1 Điều 274",
+     "khoản 1 Điều 275",
+     "khoản 2 Điều 275"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “thành phố trực thuộc Trung ương” bằng cụm từ “thành phố” tại các điểm b, đ và h khoản 2 Điều 4, điểm c khoản 5 Điều 163, khoản 2 Điều 169, khoản 1 Điều 274, khoản 1 và khoản 2 Điều 275."
+   },
+   {
+    "source_path": "Điều 1 Khoản 69",
+    "action": "bai-bo",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 4 Điều 117",
+     "khoản 2 Điều 118",
+     "khoản 5 Điều 146",
+     "khoản 2 Điều 147",
+     "khoản 2 Điều 148",
+     "khoản 2 Điều 149",
+     "khoản 2 Điều 156",
+     "khoản 1 Điều 158"
+    ],
+    "doi_tuong": "cụm từ “Viện kiểm sát cùng cấp hoặc”",
+    "evidence": "Bỏ cụm từ “Viện kiểm sát cùng cấp hoặc” tại khoản 4 Điều 117, khoản 2 Điều 118, khoản 5 Điều 146, đoạn 2 khoản 2 Điều 147, khoản 2 Điều 148, khoản 2 Điều 149, khoản 2 Điều 156 và khoản 1 Điều 158."
+   },
+   {
+    "source_path": "Điều 1 Khoản 70",
+    "action": "bai-bo",
+    "target_document": "101/2015/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 147",
+     "khoản 4 Điều 481"
+    ],
+    "doi_tuong": "cụm từ “Viện trưởng Viện kiểm sát cùng cấp hoặc”",
+    "evidence": "Bỏ cụm từ “Viện trưởng Viện kiểm sát cùng cấp hoặc” tại đoạn 1 khoản 2 Điều 147 và khoản 4 Điều 481."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Đích là Bộ luật Tố tụng hình sự 101/2015/QH13 (lời dẫn). Tên văn bản và lời dẫn gộp 1 cặp quan hệ Phần đầu. Khoản có điểm: ghi ở điểm (con thay cha). Nhắc Luật 02/2021, 34/2024, 59/2024 là lịch sử, không ghi."
+ }
+]

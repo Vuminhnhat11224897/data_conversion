@@ -1,0 +1,27 @@
+[
+ {
+  "doc_id": "655501",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "4286/QĐ-TCHQ",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực thi hành kể từ ngày ký và thay thế Quyết định số 4286/QĐ-TCHQ ngày 31/12/2015 của Tổng cục trưởng Tổng cục Hải quan về việc ban hành Quy trình kiểm tra, xác định xuất xứ hàng hóa xuất khẩu, nhập khẩu"
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "136/QĐ-TCHQ",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 136/QĐ-TCHQ ngày 25/01/2016 bổ sung Quyết định số 4286/QĐ-TCHQ ngày 31/12/2015 của Tổng cục trưởng Cục Hải quan về việc ban hành Quy trình kiểm tra, xác định xuất xứ hàng hóa xuất khẩu, nhập khẩu"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Quy trình kèm theo chỉ dẫn chiếu văn bản khác (\"được sửa đổi, bổ sung tại\"), không có tác động. Điều 2 đoạn 2 là câu chung về văn bản dẫn chiếu."
+ }
+]

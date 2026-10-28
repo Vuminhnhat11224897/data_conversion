@@ -1,0 +1,30 @@
+[
+ {
+  "doc_id": "649548",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Ban hành Định mức kinh tế - kỹ thuật; không có câu bãi bỏ, thay thế, sửa đổi văn bản khác. Phụ lục chỉ là định mức."
+ },
+ {
+  "doc_id": "649982",
+  "relations": [
+   {
+    "source_path": "Mục VI",
+    "action": "thay-the",
+    "target_document": "3891/KH-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Kế hoạch này thay thế Kế hoạch số 3891/KH-UBND ngày 07 tháng 10 năm 2020 của UBND tỉnh"
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Mục VI",
+    "loai": "thieu_noi_dung",
+    "ghi_chu": "noi_dung của Mục VI thiếu khoản 6 và đoạn kết 'Trên đây là Kế hoạch ... Kế hoạch này thay thế Kế hoạch số 3891/KH-UBND' có trong toàn văn."
+   }
+  ],
+  "ghi_chu": "Câu thay thế nằm ở đoạn kết sau Mục VI, chỉ có trong toàn văn; ghi source_path Mục VI. Căn cứ Kế hoạch 3891/KH-UBND ở phần đầu không phải hành động."
+ }
+]

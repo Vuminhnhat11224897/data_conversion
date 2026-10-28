@@ -1,0 +1,1119 @@
+[
+ {
+  "doc_id": "664997",
+  "relations": [],
+  "loi_cau_truc": [],
+  "ghi_chu": "Phê duyệt phương án đơn giản hóa TTHC nội bộ; các câu \"Bãi bỏ/Sửa đổi, bổ sung ... Nghị định 20/2014/NĐ-CP, Thông tư 25/2023, 27/2023, 16/2022/TT-BGDĐT, Nghị định 125/2024/NĐ-CP\" trong phụ lục là kiến nghị thực thi, không phải quan hệ."
+ },
+ {
+  "doc_id": "665357",
+  "relations": [
+   {
+    "source_path": "Điều 3",
+    "action": "bai-bo",
+    "target_document": "878/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "quy trình số 01, 02",
+    "evidence": "Bãi bỏ quy trình số 01, 02 tại Quyết định số 878/QĐ-UBND ngày 23/3/2024"
+   },
+   {
+    "source_path": "Điều 3",
+    "action": "bai-bo",
+    "target_document": "1804/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Quy trình số 01, 02",
+    "evidence": "Quy trình số 01, 02 tại Quyết định số 1804/QĐ-UBND ngày 23/5/2024"
+   },
+   {
+    "source_path": "Điều 3",
+    "action": "bai-bo",
+    "target_document": "3180/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Quy trình số 01",
+    "evidence": "Quy trình số 01 tại Quyết định số 3180/QĐ-UBND ngày 13/8/2024"
+   },
+   {
+    "source_path": "Điều 3",
+    "action": "bai-bo",
+    "target_document": "4455/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Quy trình số 01, 02, 05",
+    "evidence": "Quy trình số 01, 02, 05 tại Quyết định số 4455/QĐ-UBND ngày 08/10/2024"
+   },
+   {
+    "source_path": "Điều 3",
+    "action": "bai-bo",
+    "target_document": "486/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Quy trình số 01, 02",
+    "evidence": "Quy trình số 01, 02 tại Quyết định số 486/QĐ-UBND ngày 07/02/2025"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 3 bãi bỏ các quy trình nội bộ theo số thứ tự tại 5 quyết định; Điều 2 khoản 2 điểm b là giao nhiệm vụ chung."
+ },
+ {
+  "doc_id": "665364",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "38/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "ĐIỀU CHỈNH, BỔ SUNG NGHỊ QUYẾT SỐ 38/NQ-HĐND NGÀY 11/12/2024 CỦA HỘI ĐỒNG NHÂN DÂN TỈNH PHÚ THỌ"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "38/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "ĐIỀU CHỈNH, BỔ SUNG NGHỊ QUYẾT SỐ 38/NQ-HĐND NGÀY 11/12/2024 CỦA HỘI ĐỒNG NHÂN DÂN TỈNH PHÚ THỌ"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "sua-doi",
+    "target_document": "38/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 1"
+    ],
+    "doi_tuong": "dự toán thu ngân sách trên địa bàn; dự toán thu, chi ngân sách địa phương; phương án phân bổ ngân sách cấp tỉnh năm 2025",
+    "evidence": "Điều chỉnh, bổ sung dự toán thu ngân sách trên địa bàn; dự toán thu, chi ngân sách địa phương; phương án phân bổ ngân sách cấp tỉnh năm 2025 tại khoản 1 Điều 1 Nghị quyết số 38/NQ-HĐND ngày 11 tháng 12 năm 2024 của Hội đồng nhân dân tỉnh"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bo-sung",
+    "target_document": "38/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 1"
+    ],
+    "doi_tuong": "dự toán thu ngân sách trên địa bàn; dự toán thu, chi ngân sách địa phương; phương án phân bổ ngân sách cấp tỉnh năm 2025",
+    "evidence": "Điều chỉnh, bổ sung dự toán thu ngân sách trên địa bàn; dự toán thu, chi ngân sách địa phương; phương án phân bổ ngân sách cấp tỉnh năm 2025 tại khoản 1 Điều 1 Nghị quyết số 38/NQ-HĐND ngày 11 tháng 12 năm 2024 của Hội đồng nhân dân tỉnh"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "\"Điều chỉnh\" ghi là sua-doi. Câu hành động là tên Điều 1 (đơn vị Điều 1 không có riêng trong don_vi, các khoản 1-4 chỉ là số liệu mới) nên source_path ghi Điều 1."
+ },
+ {
+  "doc_id": "665366",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "16/2021/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Hội đồng nhân dân ban hành Nghị quyết sửa đổi, bổ sung một số điều của Nghị quyết số 16/2021/NQ-HĐND ngày 09 tháng 12 năm 2021"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "16/2021/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Hội đồng nhân dân ban hành Nghị quyết sửa đổi, bổ sung một số điều của Nghị quyết số 16/2021/NQ-HĐND ngày 09 tháng 12 năm 2021"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "16/2021/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm 1.1 khoản 1 Điều 1"
+    ],
+    "doi_tuong": "tiết 1.1.1",
+    "evidence": "Sửa đổi, bổ sung quy định tại tiết 1.1.1 điểm 1.1 khoản 1 Điều 1 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "16/2021/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm 1.1 khoản 1 Điều 1"
+    ],
+    "doi_tuong": "tiết 1.1.1",
+    "evidence": "Sửa đổi, bổ sung quy định tại tiết 1.1.1 điểm 1.1 khoản 1 Điều 1 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "16/2021/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm 1.1 khoản 1 Điều 1"
+    ],
+    "doi_tuong": "quy định “- Thuế giá trị gia tăng, ... từ các Doanh nghiệp thuộc Khu vực kinh tế ngoài quốc doanh (không bao gồm Công ty cổ phần Bia Sài Gòn - Phú Thọ” tại tiết 1.1.2",
+    "evidence": "Bãi bỏ quy định “- Thuế giá trị gia tăng, Thuế thu nhập doanh nghiệp, Thuế tiêu thụ đặc biệt, Thuế tài nguyên, Thuế sử dụng đất phi nông nghiệp, Thu tiền thuê mặt đất, mặt nước từ các Doanh nghiệp thuộc Khu vực kinh tế ngoài quốc doanh (không bao gồm Công ty cổ phần Bia Sài Gòn - Phú Thọ” tại tiết 1.1.2 điểm 1.1 khoản 1 Điều 1."
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "16/2021/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 1",
+     "khoản 3 Điều 1",
+     "khoản 4 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ khoản 2,3,4 Điều 1 Nghị quyết số 16/2021/NQ-HĐND ngày 09 tháng 12 năm 2021"
+   },
+   {
+    "source_path": "Điều 3 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "16/2021/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung khoản 2 Điều 1 như sau:"
+   },
+   {
+    "source_path": "Điều 3 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "16/2021/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung khoản 3 Điều 1 như sau:"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên Điều 1 và Điều 3 là câu dẫn chung, quan hệ ghi ở từng khoản. Tiết 1.1.1/1.1.2 dừng ở điểm 1.1. Biểu kèm theo chỉ là tên biểu."
+ },
+ {
+  "doc_id": "665541",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "99/2019/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Hội đồng nhân dân tỉnh ban hành Nghị quyết sửa đổi, bổ sung, bãi bỏ một số nội dung Nghị quyết số 99/2019/NQ-HĐND ngày 12 tháng 6 năm 2019"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "99/2019/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Hội đồng nhân dân tỉnh ban hành Nghị quyết sửa đổi, bổ sung, bãi bỏ một số nội dung Nghị quyết số 99/2019/NQ-HĐND ngày 12 tháng 6 năm 2019"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bai-bo",
+    "target_document": "99/2019/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Hội đồng nhân dân tỉnh ban hành Nghị quyết sửa đổi, bổ sung, bãi bỏ một số nội dung Nghị quyết số 99/2019/NQ-HĐND ngày 12 tháng 6 năm 2019"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "sua-doi",
+    "target_document": "99/2019/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "một số nội dung phụ lục",
+    "evidence": "Sửa đổi, bổ sung, bãi bỏ một số nội dung phụ lục kèm theo Nghị quyết số 99/2019/NQ-HĐND ngày 12 tháng 6 năm 2019 của HĐND tỉnh."
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bo-sung",
+    "target_document": "99/2019/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "một số nội dung phụ lục",
+    "evidence": "Sửa đổi, bổ sung, bãi bỏ một số nội dung phụ lục kèm theo Nghị quyết số 99/2019/NQ-HĐND ngày 12 tháng 6 năm 2019 của HĐND tỉnh."
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bai-bo",
+    "target_document": "99/2019/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "một số nội dung phụ lục",
+    "evidence": "Sửa đổi, bổ sung, bãi bỏ một số nội dung phụ lục kèm theo Nghị quyết số 99/2019/NQ-HĐND ngày 12 tháng 6 năm 2019 của HĐND tỉnh."
+   },
+   {
+    "source_path": "Điều 3",
+    "action": "sua-doi",
+    "target_document": "99/2019/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "một số nội dung, mức chi tại phụ lục",
+    "evidence": "Nghị quyết này sửa đổi, bổ sung, bãi bỏ một số nội dung, mức chi tại phụ lục kèm theo Nghị quyết số 99/2019/NQ-HĐND ngày 12/6/2019"
+   },
+   {
+    "source_path": "Điều 3",
+    "action": "bo-sung",
+    "target_document": "99/2019/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "một số nội dung, mức chi tại phụ lục",
+    "evidence": "Nghị quyết này sửa đổi, bổ sung, bãi bỏ một số nội dung, mức chi tại phụ lục kèm theo Nghị quyết số 99/2019/NQ-HĐND ngày 12/6/2019"
+   },
+   {
+    "source_path": "Điều 3",
+    "action": "bai-bo",
+    "target_document": "99/2019/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "một số nội dung, mức chi tại phụ lục",
+    "evidence": "Nghị quyết này sửa đổi, bổ sung, bãi bỏ một số nội dung, mức chi tại phụ lục kèm theo Nghị quyết số 99/2019/NQ-HĐND ngày 12/6/2019"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 1",
+    "action": "sua-doi",
+    "target_document": "99/2019/NQ-HĐND",
+    "target_section": "khong_ro",
+    "vi_tri": [
+     "điểm b2 khoản 1.8.1 Mục 1"
+    ],
+    "doi_tuong": "đơn vị hành chính",
+    "evidence": "1. Sửa đổi đơn vị hành chính tại điểm b2 khoản 1.8.1 mục 1 Nghị quyết số 99/2019/NQ-HĐND của HĐND tỉnh Sơn La, thành:"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 2",
+    "action": "sua-doi",
+    "target_document": "99/2019/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 1.9.1 Mục 1 Phụ lục 01",
+     "khoản 1.9.2 Mục 1 Phụ lục 01",
+     "khoản 1.9.3 Mục 1 Phụ lục 01"
+    ],
+    "doi_tuong": null,
+    "evidence": "2. Sửa đổi khoản 1.9.1, khoản 1.9.2, khoản 1.9.3 mục 1 Phụ lục số 01, Nghị quyết số 99/2019/NQ-HĐND của HĐND tỉnh Sơn La, thành:"
+   },
+   {
+    "source_path": "Phụ lục 2 STT 1",
+    "action": "sua-doi",
+    "target_document": "99/2019/NQ-HĐND",
+    "target_section": "khong_ro",
+    "vi_tri": [
+     "điểm a khoản 1.3 Mục 1",
+     "điểm b khoản 1.3 Mục 1"
+    ],
+    "doi_tuong": "mức chi công tác phí",
+    "evidence": "1. Sửa đổi mức chi công tác phí tại điểm a, điểm b khoản 1.3 mục 1 Nghị quyết số 99/2019/NQ-HĐND của HĐND tỉnh Sơn La, thành:"
+   },
+   {
+    "source_path": "Phụ lục 2 STT 2",
+    "action": "sua-doi",
+    "target_document": "99/2019/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm a khoản 4.1 Mục 4 Phụ lục 02"
+    ],
+    "doi_tuong": null,
+    "evidence": "2. Sửa đổi điểm a khoản 4.1 mục 4; Phụ lục số 02, Nghị quyết số 99/2019/NQ-HĐND của HĐND tỉnh Sơn La, thành:"
+   },
+   {
+    "source_path": "Phụ lục 3",
+    "action": "sua-doi",
+    "target_document": "99/2019/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục 1 Phụ lục 03",
+     "khoản 2.1 Mục 2 Phụ lục 03",
+     "khoản 2.2 Mục 2 Phụ lục 03",
+     "khoản 2.4 Mục 2 Phụ lục 03"
+    ],
+    "doi_tuong": "một số chức danh và mức chi",
+    "evidence": "Sửa đổi một số chức danh và mức chi tại mục 1; khoản 2.1; khoản 2.2; khoản 2.4 mục 2 và thay thế phụ lục số 03 Nghị quyết số 99/2019/NQ-HĐND của HĐND tỉnh Sơn La"
+   },
+   {
+    "source_path": "Phụ lục 3",
+    "action": "thay-the",
+    "target_document": "99/2019/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục 03"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi một số chức danh và mức chi tại mục 1; khoản 2.1; khoản 2.2; khoản 2.4 mục 2 và thay thế phụ lục số 03 Nghị quyết số 99/2019/NQ-HĐND của HĐND tỉnh Sơn La"
+   },
+   {
+    "source_path": "Phụ lục 4",
+    "action": "sua-doi",
+    "target_document": "99/2019/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục 13 Phụ lục 04"
+    ],
+    "doi_tuong": "một số đơn vị hành chính; chức danh",
+    "evidence": "Sửa đổi, bổ sung, bãi bỏ một số đơn vị hành chính; chức danh tại mục thứ 13 Phụ lục số 04; Nghị quyết số 99/2019/NQ-HĐND của HĐND tỉnh Sơn La."
+   },
+   {
+    "source_path": "Phụ lục 4",
+    "action": "bo-sung",
+    "target_document": "99/2019/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục 13 Phụ lục 04"
+    ],
+    "doi_tuong": "một số đơn vị hành chính; chức danh",
+    "evidence": "Sửa đổi, bổ sung, bãi bỏ một số đơn vị hành chính; chức danh tại mục thứ 13 Phụ lục số 04; Nghị quyết số 99/2019/NQ-HĐND của HĐND tỉnh Sơn La."
+   },
+   {
+    "source_path": "Phụ lục 4",
+    "action": "bai-bo",
+    "target_document": "99/2019/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục 13 Phụ lục 04"
+    ],
+    "doi_tuong": "một số đơn vị hành chính; chức danh",
+    "evidence": "Sửa đổi, bổ sung, bãi bỏ một số đơn vị hành chính; chức danh tại mục thứ 13 Phụ lục số 04; Nghị quyết số 99/2019/NQ-HĐND của HĐND tỉnh Sơn La."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Hành động chi tiết nằm ở dòng đề mục trong bảng của 4 phụ lục (không thuộc don_vi). Dòng đề mục ở Phụ lục 3, 4 không có số thứ tự nên ghi Phụ lục 3, Phụ lục 4. Phụ lục 1 STT 1 và Phụ lục 2 STT 1 không nêu phụ lục nào của NQ 99 nên target_section khong_ro."
+ },
+ {
+  "doc_id": "665544",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "bai-bo",
+    "target_document": "25/2021/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "các nội dung, mức chi đối với cấp huyện",
+    "evidence": "Hội đồng nhân dân tỉnh ban hành Nghị quyết Bãi bỏ các nội dung, mức chi đối với cấp huyện tại Quy định ban hành kèm theo Nghị quyết số 25/2021/NQ-HĐND và Nghị quyết số 59/2023/NQ-HĐND của HĐND tỉnh Sơn La."
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bai-bo",
+    "target_document": "59/2023/NQ-HĐND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "các nội dung, mức chi đối với cấp huyện",
+    "evidence": "Hội đồng nhân dân tỉnh ban hành Nghị quyết Bãi bỏ các nội dung, mức chi đối với cấp huyện tại Quy định ban hành kèm theo Nghị quyết số 25/2021/NQ-HĐND và Nghị quyết số 59/2023/NQ-HĐND của HĐND tỉnh Sơn La."
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bai-bo",
+    "target_document": "25/2021/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "các nội dung, mức chi đối với cấp huyện",
+    "evidence": "Bãi bỏ các nội dung, mức chi đối với cấp huyện tại Quy định một số chế độ, định mức chi đảm bảo điều kiện hoạt động của Hội đồng nhân dân các cấp tỉnh Sơn La ban hành kèm theo Nghị quyết số 25/2021/NQ-HĐND."
+   },
+   {
+    "source_path": "Điều 1 Khoản 2 điểm a",
+    "action": "bai-bo",
+    "target_document": "59/2023/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm 1.1 khoản 1 Điều 1"
+    ],
+    "doi_tuong": "cụm từ “-Cấp huyện: 1.500.000 đồng/điểm”",
+    "evidence": "Bãi bỏ cụm từ “-Cấp huyện: 1.500.000 đồng/điểm” tại điểm 1.1 khoản 1 Điều 1 Nghị quyết số 59/2023/NQ-HĐND"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2 điểm b",
+    "action": "bai-bo",
+    "target_document": "59/2023/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm 1.6 khoản 1 Điều 1"
+    ],
+    "doi_tuong": "các cụm từ “Cấp huyện: 4.000.000 đồng/đại biểu/nhiệm kỳ”, “Cán bộ, công chức, người lao động trực tiếp phục vụ các hoạt động của HĐND thuộc Văn phòng HĐND-UBND cấp huyện: 2.000.000 đồng/người/nhiệm kỳ;”",
+    "evidence": "Bãi bỏ các cụm từ: “Cấp huyện: 4.000.000 đồng/đại biểu/nhiệm kỳ”, “Cán bộ, công chức, người lao động trực tiếp phục vụ các hoạt động của HĐND thuộc Văn phòng HĐND-UBND cấp huyện: 2.000.000 đồng/người/nhiệm kỳ;” tại điểm 1.6 khoản 1 Điều 1 Nghị quyết số 59/2023/NQ-HĐND"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2 điểm c",
+    "action": "bai-bo",
+    "target_document": "59/2023/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm 2.2 khoản 2 Điều 1"
+    ],
+    "doi_tuong": "các cụm từ “Cấp huyện:...” (6 mức chi cấp huyện)",
+    "evidence": "Bãi bỏ các cụm từ: “Cấp huyện:1.500.000 đồng/người/buổi”, “Cấp huyện: 100.000 đồng/người/buổi”, “Cấp huyện: 80.000 đồng/người/buổi”, “Cấp huyện: 70.000 đồng/người/buổi”, “Cấp huyện: 1.000.000 đồng/cuộc”, “Cấp huyện: 1.500.000 đồng/người/báo cáo\" tại điểm 2.2 khoản 2 Điều 1 Nghị quyết số 59/2023/NQ-HĐND."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên Điều 1 và câu dẫn khoản 2 là câu dẫn chung; quan hệ ghi ở khoản 1 và các điểm a, b, c. Câu tên văn bản không rõ cụm 'Quy định ban hành kèm theo' áp cho NQ 59/2023 nên khong_ro."
+ },
+ {
+  "doc_id": "665693",
+  "relations": [
+   {
+    "source_path": "Điều 3",
+    "action": "thay-the",
+    "target_document": "1177/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "các TTHC có số thứ tự từ số 27 đến số 33 và từ số 96 đến số 98",
+    "evidence": "Thay thế các TTHC có số thứ tự từ số 27 đến số 33 và từ số 96 đến số 98 Quyết định số 1177/QĐ-UBND ngày 24 tháng 5 năm 2023"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Phụ lục chỉ là danh mục TTHC, không có cột ghi chú tác động."
+ },
+ {
+  "doc_id": "665814",
+  "relations": [
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bai-bo",
+    "target_document": "11/2025/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 2"
+    ],
+    "doi_tuong": "nhiệm vụ “thanh tra”",
+    "evidence": "Bãi bỏ nhiệm vụ “thanh tra” quy định tại Điều 2"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bai-bo",
+    "target_document": "11/2025/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm b khoản 1 Điều 3"
+    ],
+    "doi_tuong": "“Thanh tra sở”",
+    "evidence": "bãi bỏ “Thanh tra sở” quy định tại điểm b, Khoản 1, Điều 3 Quyết định số 11/2025/QĐ-UBND"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "12/2025/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 2"
+    ],
+    "doi_tuong": "nhiệm vụ “thanh tra”",
+    "evidence": "Bãi bỏ nhiệm vụ “thanh tra” quy định tại Điều 2"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "12/2025/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm b khoản 1 Điều 3"
+    ],
+    "doi_tuong": "“Thanh tra sở”",
+    "evidence": "bãi bỏ “Thanh tra sở” quy định tại Điểm b, Khoản 1, Điều 3 Quyết định số 12/2025/QĐ-UBND"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "bai-bo",
+    "target_document": "13/2025/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 2"
+    ],
+    "doi_tuong": "nhiệm vụ “thanh tra”",
+    "evidence": "Bãi bỏ nhiệm vụ “thanh tra” quy định tại Điều 2"
+   },
+   {
+    "source_path": "Điều 1 Khoản 4",
+    "action": "bai-bo",
+    "target_document": "14/2025/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 2"
+    ],
+    "doi_tuong": "nhiệm vụ “thanh tra”",
+    "evidence": "Bãi bỏ nhiệm vụ “thanh tra” quy định tại Điều 2"
+   },
+   {
+    "source_path": "Điều 1 Khoản 4",
+    "action": "bai-bo",
+    "target_document": "14/2025/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm b khoản 1 Điều 3"
+    ],
+    "doi_tuong": "“Thanh tra sở”",
+    "evidence": "bãi bỏ “Thanh tra sở” quy định tại Điểm b, Khoản 1, Điều 3 Quyết định số 14/2025/QĐ-UBND"
+   },
+   {
+    "source_path": "Điều 1 Khoản 5",
+    "action": "bai-bo",
+    "target_document": "15/2025/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 2"
+    ],
+    "doi_tuong": "nhiệm vụ “thanh tra”",
+    "evidence": "Bãi bỏ nhiệm vụ “thanh tra” quy định tại Điều 2"
+   },
+   {
+    "source_path": "Điều 1 Khoản 5",
+    "action": "bai-bo",
+    "target_document": "15/2025/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm b khoản 1 Điều 3"
+    ],
+    "doi_tuong": "“Thanh tra sở”",
+    "evidence": "bãi bỏ “Thanh tra sở” quy định tại Điểm b, Khoản 1, Điều 3 Quyết định số 15/2025/QĐ-UBND"
+   },
+   {
+    "source_path": "Điều 1 Khoản 6",
+    "action": "bai-bo",
+    "target_document": "16/2025/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 2"
+    ],
+    "doi_tuong": "nhiệm vụ “thanh tra”",
+    "evidence": "Bãi bỏ nhiệm vụ “thanh tra” quy định tại Điều 2"
+   },
+   {
+    "source_path": "Điều 1 Khoản 6",
+    "action": "bai-bo",
+    "target_document": "16/2025/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm b khoản 1 Điều 3"
+    ],
+    "doi_tuong": "“Thanh tra sở”",
+    "evidence": "bãi bỏ “Thanh tra sở” quy định tại Điểm b, Khoản 1, Điều 3 Quyết định số 16/2025/QĐ-UBND"
+   },
+   {
+    "source_path": "Điều 1 Khoản 7",
+    "action": "bai-bo",
+    "target_document": "17/2025/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 2"
+    ],
+    "doi_tuong": "nhiệm vụ “thanh tra”",
+    "evidence": "Bãi bỏ nhiệm vụ “thanh tra” quy định tại Điều 2"
+   },
+   {
+    "source_path": "Điều 1 Khoản 7",
+    "action": "bai-bo",
+    "target_document": "17/2025/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm b khoản 1 Điều 3"
+    ],
+    "doi_tuong": "“Thanh tra sở”",
+    "evidence": "bãi bỏ “Thanh tra sở” quy định tại Điểm b, Khoản 1, Điều 3 Quyết định số 17/2025/QĐ-UBND"
+   },
+   {
+    "source_path": "Điều 1 Khoản 8",
+    "action": "bai-bo",
+    "target_document": "18/2025/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 2"
+    ],
+    "doi_tuong": "nhiệm vụ “thanh tra”",
+    "evidence": "Bãi bỏ nhiệm vụ “thanh tra” quy định tại Điều 2"
+   },
+   {
+    "source_path": "Điều 1 Khoản 8",
+    "action": "bai-bo",
+    "target_document": "18/2025/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm b khoản 1 Điều 3"
+    ],
+    "doi_tuong": "“Thanh tra sở”",
+    "evidence": "bãi bỏ “Thanh tra sở” quy định tại Điểm b, Khoản 1, Điều 3 Quyết định số 18/2025/QĐ-UBND"
+   },
+   {
+    "source_path": "Điều 1 Khoản 9",
+    "action": "bai-bo",
+    "target_document": "20/2025/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 2"
+    ],
+    "doi_tuong": "nhiệm vụ “thanh tra”",
+    "evidence": "Bãi bỏ nhiệm vụ “thanh tra” quy định tại Điều 2"
+   },
+   {
+    "source_path": "Điều 1 Khoản 9",
+    "action": "bai-bo",
+    "target_document": "20/2025/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm b khoản 1 Điều 3"
+    ],
+    "doi_tuong": "“Thanh tra sở”",
+    "evidence": "bãi bỏ “Thanh tra sở” quy định tại Điểm b, Khoản 1, Điều 3 Quyết định số 20/2025/QĐ-UBND"
+   },
+   {
+    "source_path": "Điều 1 Khoản 10",
+    "action": "bai-bo",
+    "target_document": "21/2025/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 2"
+    ],
+    "doi_tuong": "nhiệm vụ “thanh tra”",
+    "evidence": "Bãi bỏ nhiệm vụ “thanh tra” quy định tại Điều 2"
+   },
+   {
+    "source_path": "Điều 1 Khoản 10",
+    "action": "bai-bo",
+    "target_document": "21/2025/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm b khoản 1 Điều 3"
+    ],
+    "doi_tuong": "“Thanh tra sở”",
+    "evidence": "bãi bỏ “Thanh tra sở” quy định tại Điểm b, Khoản 1, Điều 3 Quyết định số 21/2025/QĐ-UBND"
+   },
+   {
+    "source_path": "Điều 1 Khoản 11",
+    "action": "bai-bo",
+    "target_document": "22/2025/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 2"
+    ],
+    "doi_tuong": "nhiệm vụ “thanh tra”",
+    "evidence": "Bãi bỏ nhiệm vụ “thanh tra” quy định tại Điều 2"
+   },
+   {
+    "source_path": "Điều 1 Khoản 11",
+    "action": "bai-bo",
+    "target_document": "22/2025/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm b khoản 1 Điều 3"
+    ],
+    "doi_tuong": "“Thanh tra sở”",
+    "evidence": "bãi bỏ “Thanh tra sở” quy định tại Điểm b, Khoản 1, Điều 3 Quyết định số 22/2025/QĐ-UBND"
+   },
+   {
+    "source_path": "Điều 1 Khoản 12",
+    "action": "bai-bo",
+    "target_document": "23/2025/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 2"
+    ],
+    "doi_tuong": "nhiệm vụ “thanh tra”",
+    "evidence": "Bãi bỏ nhiệm vụ “thanh tra” quy định tại Điều 2"
+   },
+   {
+    "source_path": "Điều 1 Khoản 12",
+    "action": "bai-bo",
+    "target_document": "23/2025/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm b khoản 1 Điều 3"
+    ],
+    "doi_tuong": "“Thanh tra sở”",
+    "evidence": "bãi bỏ “Thanh tra sở” quy định tại và Điểm b, Khoản 1, Điều 3 Quyết định số 23/2025/QĐ-UBND"
+   },
+   {
+    "source_path": "Điều 1 Khoản 13",
+    "action": "bai-bo",
+    "target_document": "24/2025/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 2"
+    ],
+    "doi_tuong": "nhiệm vụ “thanh tra”",
+    "evidence": "Bãi bỏ nhiệm vụ “thanh tra” quy định tại Điều 2"
+   },
+   {
+    "source_path": "Điều 1 Khoản 13",
+    "action": "bai-bo",
+    "target_document": "24/2025/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm b khoản 1 Điều 3"
+    ],
+    "doi_tuong": "“Thanh tra sở”",
+    "evidence": "bãi bỏ “Thanh tra sở” quy định tại Điểm b, Khoản 1, Điều 3 Quyết định số 24/2025/QĐ-UBND"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "13 khoản, mỗi khoản bãi bỏ nhiệm vụ thanh tra (Điều 2) và Thanh tra sở (điểm b khoản 1 Điều 3) của một quyết định; khoản 3 (QĐ 13/2025) chỉ bãi bỏ Điều 2. Tên Điều 1 là câu dẫn chung."
+ },
+ {
+  "doc_id": "665876",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "14/2020/TT-BGDĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Thông tư sửa đổi, bổ sung một số điều của Quy định phòng học bộ môn của cơ sở giáo dục phổ thông ban hành kèm theo Thông tư số 14/2020/TT-BGDĐT"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "14/2020/TT-BGDĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Thông tư sửa đổi, bổ sung một số điều của Quy định phòng học bộ môn của cơ sở giáo dục phổ thông ban hành kèm theo Thông tư số 14/2020/TT-BGDĐT"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "14/2020/TT-BGDĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 3 Điều 1",
+     "khoản 4 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung khoản 3 và khoản 4 Điều 1 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "14/2020/TT-BGDĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm đ khoản 1 Điều 4"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung điểm đ khoản 1 Điều 4 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "sua-doi",
+    "target_document": "14/2020/TT-BGDĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 2 Điều 4"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi khoản 2 Điều 4 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 4",
+    "action": "sua-doi",
+    "target_document": "14/2020/TT-BGDĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm a khoản 1 Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi điểm a khoản 1 Điều 5 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 5",
+    "action": "bo-sung",
+    "target_document": "14/2020/TT-BGDĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm đ khoản 1 Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung điểm đ khoản 1 Điều 5 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 1",
+    "action": "bai-bo",
+    "target_document": "14/2020/TT-BGDĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "toàn bộ"
+    ],
+    "doi_tuong": "cụm từ “Đa chức năng”",
+    "evidence": "Bỏ cụm từ “Đa chức năng” tại toàn bộ Quy định."
+   },
+   {
+    "source_path": "Điều 2 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "14/2020/TT-BGDĐT",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 4 Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ khoản 4 Điều 2."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Tên Điều 1, Điều 2 là câu dẫn chung; quan hệ ghi ở từng khoản."
+ },
+ {
+  "doc_id": "666005",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "1945/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "thay thế Quyết định số 1945/QĐUBND ngày 17/6/2019"
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "1801/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "thay thế Quyết định số 1945/QĐUBND ngày 17/6/2019 và Quyết định 1801/QĐ-UBND ngày 02/8/2023"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục B STT 1",
+    "action": "bai-bo",
+    "target_document": "1945/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Công bố cơ sở kinh doanh có tổ chức kệ thuốc",
+    "evidence": "Công bố cơ sở kinh doanh có tổ chức kệ thuốc | 1.001893 | Quyết định số 1945/QĐUBND ngày 17/6/2019 của Chủ tịch UBND tỉnh Khánh Hòa"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục B STT 2",
+    "action": "bai-bo",
+    "target_document": "1945/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Cấp Chứng chỉ hành nghề dược (bao gồm cả trường hợp cấp Chứng chỉ hành nghề dược nhưng Chứng chỉ hành nghề dược bị thu hồi theo quy định tại các khoản 1, 2, 4, 5, 6, 7, 8, 9, 10, 11 Điều 28 của Luật Dược) theo hình thức xét hồ sơ",
+    "evidence": "Cấp Chứng chỉ hành nghề dược (bao gồm cả trường hợp cấp Chứng chỉ hành nghề dược nhưng Chứng chỉ hành nghề dược bị thu hồi theo quy định tại các khoản 1, 2, 4, 5, 6, 7, 8, 9, 10, 11 Điều 28 của Luật Dược) theo hình thức xét hồ sơ | 1.004616 | Quyết định số 1945/QĐUBND ngày 17/6/2019 của Chủ tịch UBND tỉnh Khánh Hòa"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục B STT 3",
+    "action": "bai-bo",
+    "target_document": "1945/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Cấp Chứng chỉ hành nghề dược theo hình thức xét hồ sơ trong trường hợp Chứng chỉ hành nghề dược bị ghi sai do lỗi của cơ quan cấp Chứng chỉ hành nghề dược",
+    "evidence": "Cấp Chứng chỉ hành nghề dược theo hình thức xét hồ sơ trong trường hợp Chứng chỉ hành nghề dược bị ghi sai do lỗi của cơ quan cấp Chứng chỉ hành nghề dược | 1.004604 | Quyết định số 1945/QĐUBND ngày 17/6/2019 của Chủ tịch UBND tỉnh Khánh Hòa"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục B STT 4",
+    "action": "bai-bo",
+    "target_document": "1945/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Cấp lại Chứng chỉ hành nghề dược theo hình thức xét hồ sơ (trường hợp bị hư hỏng hoặc bị mất)",
+    "evidence": "Cấp lại Chứng chỉ hành nghề dược theo hình thức xét hồ sơ (trường hợp bị hư hỏng hoặc bị mất) | 1.004599 | Quyết định số 1945/QĐUBND ngày 17/6/2019 của Chủ tịch UBND tỉnh Khánh Hòa"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục B STT 5",
+    "action": "bai-bo",
+    "target_document": "1945/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Điều chỉnh nội dung Chứng chỉ hành nghề dược theo hình thức xét hồ sơ",
+    "evidence": "Điều chỉnh nội dung Chứng chỉ hành nghề dược theo hình thức xét hồ sơ | 1.004596 | Quyết định số 1945/QĐUBND ngày 17/6/2019 của Chủ tịch UBND tỉnh Khánh Hòa"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục B STT 6",
+    "action": "bai-bo",
+    "target_document": "1945/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Cấp lần đầu và cấp Giấy chứng nhận đủ điều kiện kinh doanh dược đối với trường hợp bị thu hồi Giấy chứng nhận đủ điều kiện kinh doanh dược thuộc thẩm quyền của Sở Y tế (Cơ sở bán buôn thuốc, nguyên liệu làm thuốc; Cơ sở bán lẻ thuốc bao gồm nhà thuốc, quầy thuốc, tủ thuốc trạm y tế xã, cơ sở chuyên bán lẻ dược liệu, thuốc dược liệu, thuốc cổ truyền)",
+    "evidence": "Cấp lần đầu và cấp Giấy chứng nhận đủ điều kiện kinh doanh dược đối với trường hợp bị thu hồi Giấy chứng nhận đủ điều kiện kinh doanh dược thuộc thẩm quyền của Sở Y tế (Cơ sở bán buôn thuốc, nguyên liệu làm thuốc; Cơ sở bán lẻ thuốc bao gồm nhà thuốc, quầy thuốc, tủ thuốc trạm y tế xã, cơ sở chuyên bán lẻ dược liệu, thuốc dược liệu, thuốc cổ truyền) | 1.004593 | Quyết định số 1945/QĐUBND ngày 17/6/2019 của Chủ tịch UBND tỉnh Khánh Hòa"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục B STT 7",
+    "action": "bai-bo",
+    "target_document": "1945/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Cấp Giấy chứng nhận đủ điều kiện kinh doanh dược cho cơ sở thay đổi loại hình kinh doanh hoặc phạm vi kinh doanh dược mà có thay đổi điều kiện kinh doanh, thay đổi địa điểm kinh doanh thuộc thẩm quyền của Sở Y tế (Cơ sở bán buôn thuốc, nguyên liệu làm thuốc; Cơ sở bán lẻ thuốc bao gồm nhà thuốc, quầy thuốc, tủ thuốc trạm y tế xã, cơ sở chuyên bán lẻ dược liệu, thuốc dược liệu, thuốc cổ truyền)",
+    "evidence": "Cấp Giấy chứng nhận đủ điều kiện kinh doanh dược cho cơ sở thay đổi loại hình kinh doanh hoặc phạm vi kinh doanh dược mà có thay đổi điều kiện kinh doanh, thay đổi địa điểm kinh doanh thuộc thẩm quyền của Sở Y tế (Cơ sở bán buôn thuốc, nguyên liệu làm thuốc; Cơ sở bán lẻ thuốc bao gồm nhà thuốc, quầy thuốc, tủ thuốc trạm y tế xã, cơ sở chuyên bán lẻ dược liệu, thuốc dược liệu, thuốc cổ truyền) | 1.004585 | Quyết định số 1945/QĐUBND ngày 17/6/2019 của Chủ tịch UBND tỉnh Khánh Hòa"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục B STT 8",
+    "action": "bai-bo",
+    "target_document": "1945/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Cấp lại Giấy chứng nhận đủ điều kiện kinh doanh dược thuộc thẩm quyền của Sở Y tế (Cơ sở bán buôn thuốc, nguyên liệu làm thuốc; Cơ sở bán lẻ thuốc bao gồm nhà thuốc, quầy thuốc, tủ thuốc trạm y tế xã, cơ sở chuyên bán lẻ dược liệu, thuốc dược liệu, thuốc cổ truyền)",
+    "evidence": "Cấp lại Giấy chứng nhận đủ điều kiện kinh doanh dược thuộc thẩm quyền của Sở Y tế (Cơ sở bán buôn thuốc, nguyên liệu làm thuốc; Cơ sở bán lẻ thuốc bao gồm nhà thuốc, quầy thuốc, tủ thuốc trạm y tế xã, cơ sở chuyên bán lẻ dược liệu, thuốc dược liệu, thuốc cổ truyền) | 1.004576 | Quyết định số 1945/QĐUBND ngày 17/6/2019 của Chủ tịch UBND tỉnh Khánh Hòa"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục B STT 10",
+    "action": "bai-bo",
+    "target_document": "1945/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Thông báo hoạt động bán lẻ thuốc lưu động",
+    "evidence": "Thông báo hoạt động bán lẻ thuốc lưu động | 1.004557 | Quyết định số 1945/QĐUBND ngày 17/6/2019 của Chủ tịch UBND tỉnh Khánh Hòa"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục B STT 11",
+    "action": "bai-bo",
+    "target_document": "1945/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Cho phép hủy thuốc gây nghiện, thuốc hướng thần, thuốc tiền chất, nguyên liệu làm thuốc là dược chất gây nghiện, dược chất hướng thần, tiền chất dùng làm thuốc thuộc thẩm quyền của Sở Y tế",
+    "evidence": "Cho phép hủy thuốc gây nghiện, thuốc hướng thần, thuốc tiền chất, nguyên liệu làm thuốc là dược chất gây nghiện, dược chất hướng thần, tiền chất dùng làm thuốc thuộc thẩm quyền của Sở Y tế | 1.004532 | Quyết định số 1945/QĐUBND ngày 17/6/2019 của Chủ tịch UBND tỉnh Khánh Hòa"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục B STT 12",
+    "action": "bai-bo",
+    "target_document": "1945/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Cho phép mua thuốc gây nghiện, thuốc hướng thần, thuốc tiền chất thuộc thẩm quyền của Sở Y tế",
+    "evidence": "Cho phép mua thuốc gây nghiện, thuốc hướng thần, thuốc tiền chất thuộc thẩm quyền của Sở Y tế | 1.004529 | Quyết định số 1945/QĐUBND ngày 17/6/2019 của Chủ tịch UBND tỉnh Khánh Hòa"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục B STT 13",
+    "action": "bai-bo",
+    "target_document": "1945/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Cấp phép xuất khẩu thuốc phải kiểm soát đặc biệt thuộc hành lý cá nhân của tổ chức, cá nhân xuất cảnh gửi theo vận tải đơn, hàng hóa mang theo người của tổ chức, cá nhân xuất cảnh để điều trị bệnh cho bản thân người xuất cảnh và không phải nguyên liệu làm thuốc phải kiểm soát đặc biệt",
+    "evidence": "Cấp phép xuất khẩu thuốc phải kiểm soát đặc biệt thuộc hành lý cá nhân của tổ chức, cá nhân xuất cảnh gửi theo vận tải đơn, hàng hóa mang theo người của tổ chức, cá nhân xuất cảnh để điều trị bệnh cho bản thân người xuất cảnh và không phải nguyên liệu làm thuốc phải kiểm soát đặc biệt | 1.004449 | Quyết định số 1945/QĐUBND ngày 17/6/2019 của Chủ tịch UBND tỉnh Khánh Hòa"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục B STT 14",
+    "action": "bai-bo",
+    "target_document": "1945/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Cấp phép nhập khẩu thuốc thuộc hành lý cá nhân của tổ chức, cá nhânnhập cảnhgửi theo vận tải đơn, hàng hóa mang theo người của tổ chức, cá nhân nhập cảnh để điều trị bệnh cho bản thân người nhập cảnh",
+    "evidence": "Cấp phép nhập khẩu thuốc thuộc hành lý cá nhân của tổ chức, cá nhânnhập cảnhgửi theo vận tải đơn, hàng hóa mang theo người của tổ chức, cá nhân nhập cảnh để điều trị bệnh cho bản thân người nhập cảnh | 1.004087 | Quyết định số 1945/QĐUBND ngày 17/6/2019 của Chủ tịch UBND tỉnh Khánh Hòa"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục B STT 15",
+    "action": "bai-bo",
+    "target_document": "1945/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Cấp giấy xác nhận nội dung thông tin thuốc theo hình thức hội thảo giới thiệu thuốc",
+    "evidence": "Cấp giấy xác nhận nội dung thông tin thuốc theo hình thức hội thảo giới thiệu thuốc | 1.003963 | Quyết định số 1945/QĐUBND ngày 17/6/2019 của Chủ tịch UBND tỉnh Khánh Hòa"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục B STT 16",
+    "action": "bai-bo",
+    "target_document": "1945/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Cấp Giấy chứng nhận đủ điều kiện kinh doanh dược cho cơ sở kinh doanh thuốc phải kiểm soát đặc biệt thuộc thẩm quyền của Sở Y tế",
+    "evidence": "Cấp Giấy chứng nhận đủ điều kiện kinh doanh dược cho cơ sở kinh doanh thuốc phải kiểm soát đặc biệt thuộc thẩm quyền của Sở Y tế | 1.002399 | Quyết định số 1945/QĐUBND ngày 17/6/2019 của Chủ tịch UBND tỉnh Khánh Hòa"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục B STT 17",
+    "action": "bai-bo",
+    "target_document": "1801/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Cho phép bán lẻ thuốc thuộc Danh mục thuốc hạn chế bán lẻ đối với cơ sở chưa được cấp Giấy chứng nhận đủ điều kiện kinh doanh dược",
+    "evidence": "Cho phép bán lẻ thuốc thuộc Danh mục thuốc hạn chế bán lẻ đối với cơ sở chưa được cấp Giấy chứng nhận đủ điều kiện kinh doanh dược | 1.004516 | Quyết định 1801/QĐ-UBND ngày 02/8/2023 của Chủ tịch UBND tỉnh Khánh Hòa"
+   },
+   {
+    "source_path": "Phụ lục 1 Mục B STT 18",
+    "action": "bai-bo",
+    "target_document": "1801/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Cho phép bán lẻ thuốc thuộc Danh mục thuốc hạn chế bán lẻ đối với cơ sở đã được cấp Giấy chứng nhận đủ điều kiện kinh doanh dược",
+    "evidence": "Cho phép bán lẻ thuốc thuộc Danh mục thuốc hạn chế bán lẻ đối với cơ sở đã được cấp Giấy chứng nhận đủ điều kiện kinh doanh dược | 1.004459 | Quyết định 1801/QĐ-UBND ngày 02/8/2023 của Chủ tịch UBND tỉnh Khánh Hòa"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Mục B phụ lục: danh mục TTHC bị bãi bỏ, mỗi dòng nêu quyết định công bố; dòng STT 9 không nêu quyết định công bố nên không ghi. Số hiệu ghi trong văn bản là '1945/QĐUBND' (thiếu gạch), chuẩn hóa thành 1945/QĐ-UBND."
+ },
+ {
+  "doc_id": "666054",
+  "relations": [
+   {
+    "source_path": "Điều 1",
+    "action": "bai-bo",
+    "target_document": "2882/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 2882/QĐ-UBND ngày 16 tháng 12 năm 2015 về việc công bố thủ tục hành chính mới ban hành thuộc phạm vi quản lý của Sở Nội vụ tỉnh Sóc Trăng"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bai-bo",
+    "target_document": "176/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 176/QĐ-UBND ngày 31 tháng 01 năm 2024 về việc công bố thủ tục hành chính mới ban hành lĩnh vực Chính quyền địa phương"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 1",
+    "action": "bai-bo",
+    "target_document": "2882/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Thủ tục phân loại đơn vị hành chính cấp xã",
+    "evidence": "| Quyết định số 2882/QĐ-UBND ngày 16/12/2015 | | Thực hiện theo Quyết định số 319/QĐ-BNV ngày 08/4/2025 của Bộ trưởng Bộ Nội vụ |\n| 1 | Thủ tục phân loại đơn vị hành chính cấp xã |"
+   },
+   {
+    "source_path": "Phụ lục 1 STT 1",
+    "action": "bai-bo",
+    "target_document": "176/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "Thủ tục thành lập thôn mới, tổ dân phố mới",
+    "evidence": "| Quyết định số 176/QĐ-UBND ngày 31/01/2024 | | |\n| 1 | Thủ tục thành lập thôn mới, tổ dân phố mới |"
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 1",
+    "loai": "thieu_noi_dung",
+    "ghi_chu": "don_vi Điều 1 chỉ có câu dẫn 'Bãi bỏ các Quyết định ... cụ thể:', mất khoản 1, 2 liệt kê QĐ 2882/QĐ-UBND và 176/QĐ-UBND."
+   }
+  ],
+  "ghi_chu": "Chữ hành động ở câu dẫn Điều 1, văn bản đích ở khoản 1, 2 (lấy từ toàn văn). Phụ lục: danh mục TTHC bãi bỏ chia theo quyết định công bố, mỗi nhóm có STT 1."
+ },
+ {
+  "doc_id": "666310",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "2915/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 2915/QĐ-UBND ngày 05 tháng 11 năm 2018 của UBND tỉnh về việc công bố Danh mục thủ tục hành chính thuộc thẩm quyền giải quyết của Sở Thông tin và Truyền thông"
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "2917/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 2917/QĐ-UBND ngày 05 tháng 11 năm 2018 của UBND tỉnh về việc công bố Danh mục thủ tục hành chính thuộc thẩm quyền giải quyết và phạm vi quản lý của Sở Khoa học và Công nghệ"
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 2",
+    "loai": "thieu_noi_dung",
+    "ghi_chu": "don_vi Điều 2 chỉ có 'Quyết định này có hiệu lực thi hành kể từ ngày ký và bãi bỏ:', mất khoản 1, 2 liệt kê QĐ 2915/QĐ-UBND và 2917/QĐ-UBND."
+   }
+  ],
+  "ghi_chu": "Văn bản đích lấy từ toàn văn khoản 1, 2 Điều 2. Cột 'Quyết định công bố' trong phụ lục chỉ là thông tin, không phải hành động."
+ }
+]

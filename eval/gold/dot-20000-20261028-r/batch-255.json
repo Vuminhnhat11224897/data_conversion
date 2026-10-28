@@ -1,0 +1,1379 @@
+[
+ {
+  "doc_id": "660530",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "63/2014/QH13",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quốc hội ban hành Luật sửa đổi, bổ sung một số điều của Luật Tổ chức Viện kiểm sát nhân dân số 63/2014/QH13."
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "63/2014/QH13",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quốc hội ban hành Luật sửa đổi, bổ sung một số điều của Luật Tổ chức Viện kiểm sát nhân dân số 63/2014/QH13."
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "63/2014/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm c khoản 3 Điều 4"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm c khoản 3 Điều 4 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "63/2014/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm c khoản 3 Điều 4"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm c khoản 3 Điều 4 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "63/2014/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 Điều 7 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "63/2014/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 Điều 7 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "sua-doi",
+    "target_document": "63/2014/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 23"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 3 Điều 23 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "bo-sung",
+    "target_document": "63/2014/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 23"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 3 Điều 23 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 4",
+    "action": "sua-doi",
+    "target_document": "63/2014/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 28"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 28 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 4",
+    "action": "bo-sung",
+    "target_document": "63/2014/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 28"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 28 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 5",
+    "action": "sua-doi",
+    "target_document": "63/2014/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 36"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 36 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 5",
+    "action": "bo-sung",
+    "target_document": "63/2014/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 36"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 36 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 6",
+    "action": "sua-doi",
+    "target_document": "63/2014/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 40"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 40 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 6",
+    "action": "bo-sung",
+    "target_document": "63/2014/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 40"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 40 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 7",
+    "action": "sua-doi",
+    "target_document": "63/2014/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 41"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 41 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 7",
+    "action": "bo-sung",
+    "target_document": "63/2014/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 41"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 41 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 8 điểm a",
+    "action": "sua-doi",
+    "target_document": "63/2014/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm d khoản 1 Điều 42"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm d khoản 1 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 8 điểm a",
+    "action": "bo-sung",
+    "target_document": "63/2014/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm d khoản 1 Điều 42"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm d khoản 1 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 8 điểm b",
+    "action": "sua-doi",
+    "target_document": "63/2014/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 42"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 8 điểm b",
+    "action": "bo-sung",
+    "target_document": "63/2014/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 42"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 9",
+    "action": "sua-doi",
+    "target_document": "63/2014/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 43"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 Điều 43 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 9",
+    "action": "bo-sung",
+    "target_document": "63/2014/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 43"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 Điều 43 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 10",
+    "action": "sua-doi",
+    "target_document": "63/2014/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 47"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 3 Điều 47 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 10",
+    "action": "bo-sung",
+    "target_document": "63/2014/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Điều 47"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 3 Điều 47 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 11",
+    "action": "sua-doi",
+    "target_document": "63/2014/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 48"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 48 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 11",
+    "action": "bo-sung",
+    "target_document": "63/2014/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 48"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 48 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 12",
+    "action": "sua-doi",
+    "target_document": "63/2014/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 49"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 49 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 12",
+    "action": "bo-sung",
+    "target_document": "63/2014/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 49"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 49 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 13",
+    "action": "sua-doi",
+    "target_document": "63/2014/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm d khoản 3 Điều 53",
+     "điểm đ khoản 3 Điều 53"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm d và điểm đ khoản 3 Điều 53 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 13",
+    "action": "bo-sung",
+    "target_document": "63/2014/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm d khoản 3 Điều 53",
+     "điểm đ khoản 3 Điều 53"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm d và điểm đ khoản 3 Điều 53 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 14",
+    "action": "sua-doi",
+    "target_document": "63/2014/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm c khoản 3 Điều 55",
+     "điểm d khoản 3 Điều 55"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm c và điểm d khoản 3 Điều 55 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 14",
+    "action": "bo-sung",
+    "target_document": "63/2014/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm c khoản 3 Điều 55",
+     "điểm d khoản 3 Điều 55"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm c và điểm d khoản 3 Điều 55 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 15 điểm a",
+    "action": "bo-sung",
+    "target_document": "63/2014/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm e khoản 1 Điều 58"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung điểm e vào sau điểm đ khoản 1 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 15 điểm b",
+    "action": "bo-sung",
+    "target_document": "63/2014/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 4 Điều 58"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung khoản 4 vào sau khoản 3 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 16 điểm a",
+    "action": "sua-doi",
+    "target_document": "63/2014/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 5 Điều 63"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 5 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 16 điểm a",
+    "action": "bo-sung",
+    "target_document": "63/2014/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 5 Điều 63"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 5 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 16 điểm b",
+    "action": "sua-doi",
+    "target_document": "63/2014/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 7 Điều 63"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 7 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 16 điểm b",
+    "action": "bo-sung",
+    "target_document": "63/2014/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 7 Điều 63"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 7 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 17",
+    "action": "sua-doi",
+    "target_document": "63/2014/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 2 Điều 66",
+     "điểm b khoản 2 Điều 66",
+     "điểm c khoản 2 Điều 66"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung các điểm a, b và c khoản 2 Điều 66 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 17",
+    "action": "bo-sung",
+    "target_document": "63/2014/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 2 Điều 66",
+     "điểm b khoản 2 Điều 66",
+     "điểm c khoản 2 Điều 66"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung các điểm a, b và c khoản 2 Điều 66 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 18",
+    "action": "sua-doi",
+    "target_document": "63/2014/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 67"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 67 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 18",
+    "action": "bo-sung",
+    "target_document": "63/2014/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 67"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 67 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 19",
+    "action": "sua-doi",
+    "target_document": "63/2014/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 68"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 68 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 19",
+    "action": "bo-sung",
+    "target_document": "63/2014/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 68"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 68 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 20",
+    "action": "sua-doi",
+    "target_document": "63/2014/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 74"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 74 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 20",
+    "action": "bo-sung",
+    "target_document": "63/2014/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 74"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 74 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 21",
+    "action": "bo-sung",
+    "target_document": "63/2014/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 76a"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung Điều 76a vào sau Điều 76 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 22 điểm a",
+    "action": "bai-bo",
+    "target_document": "63/2014/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm d khoản 1 Điều 78"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ điểm d khoản 1;"
+   },
+   {
+    "source_path": "Điều 1 Khoản 22 điểm b",
+    "action": "sua-doi",
+    "target_document": "63/2014/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 78"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 22 điểm b",
+    "action": "bo-sung",
+    "target_document": "63/2014/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 78"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 23 điểm a",
+    "action": "bai-bo",
+    "target_document": "63/2014/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm d khoản 1 Điều 79"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ điểm d khoản 1;"
+   },
+   {
+    "source_path": "Điều 1 Khoản 23 điểm b",
+    "action": "sua-doi",
+    "target_document": "63/2014/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 79"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 23 điểm b",
+    "action": "bo-sung",
+    "target_document": "63/2014/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 2 Điều 79"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 24",
+    "action": "sua-doi",
+    "target_document": "63/2014/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 81"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 81 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 24",
+    "action": "bo-sung",
+    "target_document": "63/2014/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 81"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 81 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 25",
+    "action": "sua-doi",
+    "target_document": "63/2014/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 82"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 82 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 25",
+    "action": "bo-sung",
+    "target_document": "63/2014/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 82"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 82 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 26",
+    "action": "sua-doi",
+    "target_document": "63/2014/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 93"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 93 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 26",
+    "action": "bo-sung",
+    "target_document": "63/2014/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 93"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 93 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 27",
+    "action": "sua-doi",
+    "target_document": "63/2014/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 97"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 97 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 27",
+    "action": "bo-sung",
+    "target_document": "63/2014/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 97"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung Điều 97 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 28",
+    "action": "bo-sung",
+    "target_document": "63/2014/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm a khoản 2 Điều 22",
+     "điểm c khoản 2 Điều 22",
+     "khoản 1 Điều 24"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung cụm từ “phân trại thuộc trại tạm giam,” vào sau cụm từ “trực tiếp kiểm sát tại nhà tạm giữ,” tại điểm a khoản 2 Điều 22; “Trưởng phân trại thuộc trại tạm giam,” vào sau cụm từ “Trưởng nhà tạm giữ,” tại điểm c khoản 2 Điều 22, khoản 1 Điều 24."
+   },
+   {
+    "source_path": "Điều 1 Khoản 29",
+    "action": "bo-sung",
+    "target_document": "63/2014/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Điều 37",
+     "khoản 3 Điều 52",
+     "điểm b khoản 3 Điều 60",
+     "điểm c khoản 2 Điều 69",
+     "khoản 3 Điều 92",
+     "khoản 1 Điều 95",
+     "khoản 2 Điều 95",
+     "khoản 3 Điều 95",
+     "khoản 2 Điều 96",
+     "khoản 3 Điều 98"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung cụm từ “Cán bộ điều tra, Giám định viên kỹ thuật hình sự,” vào sau cụm từ “Kiểm tra viên,” tại khoản 1 Điều 37; “Cán bộ điều tra,” vào sau cụm từ “Điều tra viên,” tại khoản 3 Điều 52, điểm b khoản 3 Điều 60; “, Cán bộ điều tra” vào sau cụm từ “Điều tra viên” tại điểm c khoản 2 Điều 69, khoản 3 Điều 92; “, Cán bộ điều tra” vào sau cụm từ “Kiểm tra viên” tại các khoản 1, 2, 3 Điều 95, tại khoản 2 Điều 96 và khoản 3 Điều 98."
+   },
+   {
+    "source_path": "Điều 1 Khoản 30",
+    "action": "thay-cum-tu",
+    "target_document": "63/2014/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm b khoản 2 Điều 25",
+     "điểm a khoản 1 Điều 60",
+     "khoản 2 Điều 60"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “tỉnh, thành phố trực thuộc trung ương” bằng cụm từ “tỉnh, thành phố” tại điểm b khoản 2 Điều 25, điểm a khoản 1 và khoản 2 Điều 60."
+   },
+   {
+    "source_path": "Điều 1 Khoản 31",
+    "action": "bai-bo",
+    "target_document": "63/2014/QH13",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 44",
+     "Điều 45",
+     "Điều 65"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ các điều 44, 45 và 65."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Luật sửa đổi Luật Tổ chức VKSND 63/2014/QH13. Khoản 8, 15, 16, 22, 23 có điểm: ghi ở điểm (con thay cha). Khoản 28, 29 bổ sung cụm từ ghi bo-sung."
+ },
+ {
+  "doc_id": "660713",
+  "relations": [
+   {
+    "source_path": "Điều 3",
+    "action": "thay-the",
+    "target_document": "3799/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "các thủ tục hành chính được công bố",
+    "evidence": "Quyết định này có hiệu lực thi hành kể từ ngày ký và thay thế các thủ tục hành chính được công bố tại: Quyết định số 3799/QĐ-UBND ngày 29/10/2021 của UBND tỉnh về việc công bố danh mục TTHC"
+   },
+   {
+    "source_path": "Điều 3",
+    "action": "thay-the",
+    "target_document": "3753/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "các thủ tục hành chính được công bố",
+    "evidence": "Quyết định số 3753/QĐ-UBND ngày 19/12/2024 của UBND tỉnh về việc công bố danh mục thủ tục hành chính mới ban hành"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 3 thay thế các TTHC công bố tại hai Quyết định; câu không nêu số thứ tự. Phụ lục chỉ là danh mục TTHC chuẩn hóa, không có cột ghi chú tác động."
+ },
+ {
+  "doc_id": "660827",
+  "relations": [
+   {
+    "source_path": "Điều 4 Khoản 3 điểm a",
+    "action": "thay-cum-tu",
+    "target_document": "18/2018/TT-BYT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 4 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Đối với những quận, huyện, thị xã, thành phố thuộc tỉnh” tại khoản 4 Điều 1 Thông tư số 18/2018/TT-BYT ngày 22 tháng 8 năm 2018 của Bộ trưởng Bộ Y tế sửa đổi, bổ sung một số điều của Thông tư số 52/2017/TT-BYT ngày 29 tháng 12 năm 2017 của Bộ trưởng Bộ Y tế quy định về đơn thuốc và việc kê đơn thuốc hóa dược, sinh phẩm trong điều trị ngoại trú bằng cụm từ “Đối với những xã, phường, đặc khu”."
+   },
+   {
+    "source_path": "Điều 4 Khoản 3 điểm b",
+    "action": "thay-cum-tu",
+    "target_document": "35/2016/TT-BYT",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "STT 15 - Phẫu thuật nội soi có Robot, Danh mục 1 - Dịch vụ kỹ thuật y tế (DVKT) có quy định cụ thể điều kiện, tỷ lệ và mức giá thanh toán",
+    "evidence": "Thay thế cụm từ “huyện đảo” tại điểm đ khoản 2 cột Điều kiện thanh toán, STT 15 - Phẫu thuật nội soi có Robot, trong Danh mục 1 - Dịch vụ kỹ thuật y tế (DVKT) có quy định cụ thể điều kiện, tỷ lệ và mức giá thanh toán của Thông tư số 35/2016/TT-BYT ngày 28 tháng 9 năm 2016 của Bộ trưởng Bộ Y tế ban hành Danh mục và tỷ lệ, điều kiện thanh toán đối với dịch vụ kỹ thuật y tế thuộc phạm vi được hưởng của người tham gia bảo hiểm y tế và tại Điểm d khoản 2 Điều 7 Thông tư số 01/2025/TT-BYT ngày 01 ngày 01 năm 2025 của Bộ trưởng Bộ Y tế quy định chi tiết và hướng dẫn thi hành một số điều của Luật Bảo hiểm y tế bằng cụm từ “đặc khu”."
+   },
+   {
+    "source_path": "Điều 4 Khoản 3 điểm b",
+    "action": "thay-cum-tu",
+    "target_document": "01/2025/TT-BYT",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm d khoản 2 Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “huyện đảo” tại điểm đ khoản 2 cột Điều kiện thanh toán, STT 15 - Phẫu thuật nội soi có Robot, trong Danh mục 1 - Dịch vụ kỹ thuật y tế (DVKT) có quy định cụ thể điều kiện, tỷ lệ và mức giá thanh toán của Thông tư số 35/2016/TT-BYT ngày 28 tháng 9 năm 2016 của Bộ trưởng Bộ Y tế ban hành Danh mục và tỷ lệ, điều kiện thanh toán đối với dịch vụ kỹ thuật y tế thuộc phạm vi được hưởng của người tham gia bảo hiểm y tế và tại Điểm d khoản 2 Điều 7 Thông tư số 01/2025/TT-BYT ngày 01 ngày 01 năm 2025 của Bộ trưởng Bộ Y tế quy định chi tiết và hướng dẫn thi hành một số điều của Luật Bảo hiểm y tế bằng cụm từ “đặc khu”."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 2, 3 phân cấp thẩm quyền theo TTLT 34/2012 và TT 09/2015 nhưng không dùng từ sửa đổi, thay thế: không ghi. Khoản 4 'tiếp tục được áp dụng' không phải tác động. Điều 4 khoản 2 tự hết hiệu lực."
+ },
+ {
+  "doc_id": "661076",
+  "relations": [
+   {
+    "source_path": "Điều 1",
+    "action": "sua-doi",
+    "target_document": "419/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục 01"
+    ],
+    "doi_tuong": null,
+    "evidence": "Điều chỉnh biên chế công chức trong cơ quan của Hội đồng nhân dân, Ủy ban nhân dân cấp tỉnh, cấp huyện; tổng số lượng người làm việc (viên chức) hưởng lương từ ngân sách nhà nước và hợp đồng lao động trong đơn vị sự nghiệp công lập tự bảo đảm một phần chi thường xuyên, đơn vị sự nghiệp công lập do ngân sách nhà nước đảm bảo chi thường xuyên và các hội quần chúng được Đảng, Nhà nước giao nhiệm vụ năm 2025 tại Phụ lục số 01 ban hành kèm theo Quyết định số 419/QĐ-UBND ngày 10/5/2025 của Ủy ban nhân dân tỉnh về việc sửa đổi một số nội dung của Quyết định số 23/QĐ-UBND ngày 13/01/2025(1) và Quyết định số 174/QĐ-UBND ngày 06/3/2025(2) của Ủy ban nhân dân tỉnh Ninh Bình."
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 1",
+    "loai": "thieu_noi_dung",
+    "ghi_chu": "Câu chính của Điều 1 bị đưa vào ten_dieu và bị cắt, mất đoạn 'tại Phụ lục số 01 ban hành kèm theo Quyết định số 419/QĐ-UBND'; noi_dung chỉ còn '(Chi tiết tại Phụ lục số 01)'."
+   }
+  ],
+  "ghi_chu": "Điều 1 điều chỉnh biên chế tại Phụ lục 01 kèm theo QĐ 419/QĐ-UBND: ghi sua-doi. Tên văn bản không nêu văn bản đích."
+ },
+ {
+  "doc_id": "661199",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "02/2024/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Ủy ban nhân dân Thành phố Hồ Chí Minh ban hành Quyết định sửa đổi, bổ sung một số điều của Quy chế phối hợp giữa các cơ quan chức năng trên địa bàn Thành phố Hồ Chí Minh trong quản lý nhà nước đối với doanh nghiệp, liên hiệp hợp tác xã, hợp tác xã, hộ kinh doanh sau đăng ký thành lập ban hành kèm theo Quyết định số 02/2024/QĐ-UBND ngày 10 tháng 01 năm 2024 của Ủy ban nhân dân Thành phố Hồ Chí Minh."
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "02/2024/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Ủy ban nhân dân Thành phố Hồ Chí Minh ban hành Quyết định sửa đổi, bổ sung một số điều của Quy chế phối hợp giữa các cơ quan chức năng trên địa bàn Thành phố Hồ Chí Minh trong quản lý nhà nước đối với doanh nghiệp, liên hiệp hợp tác xã, hợp tác xã, hộ kinh doanh sau đăng ký thành lập ban hành kèm theo Quyết định số 02/2024/QĐ-UBND ngày 10 tháng 01 năm 2024 của Ủy ban nhân dân Thành phố Hồ Chí Minh."
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "sua-doi",
+    "target_document": "02/2024/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 2 Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 Điều 7 của Quy chế phối hợp giữa các cơ quan chức năng trên địa bàn Thành phố Hồ Chí Minh trong quản lý nhà nước đối với doanh nghiệp, liên hiệp hợp tác xã, hợp tác xã, hộ kinh doanh sau đăng ký thành lập ban hành kèm theo Quyết định số 02/2024/QĐ-UBND ngày 10 tháng 01 năm 2024 của Ủy ban nhân dân Thành phố Hồ Chí Minh như sau:"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bo-sung",
+    "target_document": "02/2024/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 2 Điều 7"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2 Điều 7 của Quy chế phối hợp giữa các cơ quan chức năng trên địa bàn Thành phố Hồ Chí Minh trong quản lý nhà nước đối với doanh nghiệp, liên hiệp hợp tác xã, hợp tác xã, hộ kinh doanh sau đăng ký thành lập ban hành kèm theo Quyết định số 02/2024/QĐ-UBND ngày 10 tháng 01 năm 2024 của Ủy ban nhân dân Thành phố Hồ Chí Minh như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 1",
+    "action": "thay-cum-tu",
+    "target_document": "02/2024/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Sở Kế hoạch và Đầu tư’’ bằng cụm từ “Sở Tài chính” tại Điều 3 Quyết định số 02/2024/QĐ-UBND."
+   },
+   {
+    "source_path": "Điều 2 Khoản 2",
+    "action": "thay-cum-tu",
+    "target_document": "02/2024/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 2 Điều 3",
+     "khoản 1 Điều 5",
+     "khoản 1 Điều 7",
+     "khoản 2 Điều 7",
+     "khoản 1 Điều 8",
+     "khoản 2 Điều 8",
+     "khoản 5 Điều 14",
+     "Điều 15",
+     "Điều 16",
+     "khoản 2 Điều 17",
+     "khoản 5 Điều 18",
+     "khoản 1 Điều 20",
+     "khoản 2 Điều 23",
+     "khoản 4 Điều 23",
+     "Điều 25"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Sở Kế hoạch và Đầu tư” bằng cụm từ “Sở Tài chính” tại khoản 2 Điều 3: khoản 1 Điều 5; khoản 1, khoản 2 Điều 7; khoản 1, khoản 2 Điều 8; khoản 5 Điều 14; Điều 15; Điều 16; khoản 2 Điều 17; khoản 5 Điều 18; khoản 1 Điều 20; khoản 2, khoản 4 Điều 23 và Điều 25 của Quy chế phối hợp của các cơ quan chức năng trên địa bàn Thành phố Hồ Chí Minh trong quản lý nhà nước đối với doanh nghiệp, liên hiệp hợp tác xã, hợp tác xã, hộ kinh doanh sau đăng ký thành lập ban hành kèm theo Quyết định số 02/2024/QĐ-UBND ngày 10 tháng 01 năm 2024."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 2 khoản 1 tác động Điều 3 của chính QĐ 02/2024; khoản 2 tác động Quy chế kèm theo."
+ },
+ {
+  "doc_id": "661200",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "33/2024/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Ủy ban nhân dân tỉnh ban hành Quyết định sửa đổi, bổ sung một số điều của Quy định một số chỉ tiêu cụ thể khi áp dụng phương pháp định giá đất theo Nghị định 71/2024/NĐ-CP ngày 27/6/2024 của Chính phủ trên địa bàn tỉnh Hà Nam ban hành kèm theo Quyết định số 33/2024/QĐ-UBND ngày 01/8/2024 của Ủy ban nhân dân tỉnh Hà Nam."
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "33/2024/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Ủy ban nhân dân tỉnh ban hành Quyết định sửa đổi, bổ sung một số điều của Quy định một số chỉ tiêu cụ thể khi áp dụng phương pháp định giá đất theo Nghị định 71/2024/NĐ-CP ngày 27/6/2024 của Chính phủ trên địa bàn tỉnh Hà Nam ban hành kèm theo Quyết định số 33/2024/QĐ-UBND ngày 01/8/2024 của Ủy ban nhân dân tỉnh Hà Nam."
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "33/2024/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 10a Điều 4"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung khoản 10a Điều 4 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2 điểm a",
+    "action": "bo-sung",
+    "target_document": "33/2024/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 2a Mục A Phụ lục II"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung khoản 2a Mục A Phụ lục II:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2 điểm b",
+    "action": "sua-doi",
+    "target_document": "33/2024/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 3 Mục A Phụ lục II"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi gạch đầu dòng thứ nhất khoản 3 Mục A Phụ lục II:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2 điểm c",
+    "action": "sua-doi",
+    "target_document": "33/2024/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm a khoản 3 Mục B Phụ lục II"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi điểm a khoản 3 Mục B Phụ lục II:"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Khoản 2 'Sửa đổi, bổ sung Phụ lục II' ghi ở các điểm a, b, c. Điểm b sửa gạch đầu dòng thứ nhất: dừng ở khoản 3 Mục A."
+ },
+ {
+  "doc_id": "661301",
+  "relations": [
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "44/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 1"
+    ],
+    "doi_tuong": "dự toán thu ngân sách địa phương năm 2025",
+    "evidence": "Bổ sung dự toán thu ngân sách địa phương năm 2025"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "44/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 1"
+    ],
+    "doi_tuong": "dự toán chi ngân sách địa phương năm 2025",
+    "evidence": "Bổ sung dự toán chi ngân sách địa phương năm 2025"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "sua-doi",
+    "target_document": "44/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 1"
+    ],
+    "doi_tuong": "dự toán chi trả nợ gốc ngân sách địa phương năm 2025",
+    "evidence": "Điều chỉnh dự toán chi trả nợ gốc ngân sách địa phương năm 2025"
+   },
+   {
+    "source_path": "Điều 1 Khoản 4",
+    "action": "sua-doi",
+    "target_document": "44/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Điều 1"
+    ],
+    "doi_tuong": "dự toán thu tiền thuê đất",
+    "evidence": "Điều chỉnh nội dung dự toán thu tiền thuê đất như sau"
+   },
+   {
+    "source_path": "Điều 1 Khoản 4",
+    "action": "sua-doi",
+    "target_document": "44/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Phụ lục I",
+     "Phụ lục II",
+     "Phụ lục III",
+     "Phụ lục IV"
+    ],
+    "doi_tuong": null,
+    "evidence": "- Phụ lục I: Điều chỉnh, bổ sung Phụ lục I của Nghị quyết số 44/NQ-HĐND của Hội đồng nhân dân thành phố.\n\n- Phụ lục II: Điều chỉnh, bổ sung Phụ lục II của Nghị quyết số 44/NQ-HĐND của Hội đồng nhân dân thành phố.\n\n- Phụ lục III: Điều chỉnh, bổ sung Phụ lục III của Nghị quyết số 44/NQ-HĐND của Hội đồng nhân dân thành phố.\n\n- Phụ lục IV: Điều chỉnh, bổ sung Phụ lục IV của Nghị quyết số 44/NQ-HĐND của Hội đồng nhân dân thành phố."
+   },
+   {
+    "source_path": "Điều 1 Khoản 4",
+    "action": "bo-sung",
+    "target_document": "44/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "Phụ lục I",
+     "Phụ lục II",
+     "Phụ lục III",
+     "Phụ lục IV"
+    ],
+    "doi_tuong": null,
+    "evidence": "- Phụ lục I: Điều chỉnh, bổ sung Phụ lục I của Nghị quyết số 44/NQ-HĐND của Hội đồng nhân dân thành phố.\n\n- Phụ lục II: Điều chỉnh, bổ sung Phụ lục II của Nghị quyết số 44/NQ-HĐND của Hội đồng nhân dân thành phố.\n\n- Phụ lục III: Điều chỉnh, bổ sung Phụ lục III của Nghị quyết số 44/NQ-HĐND của Hội đồng nhân dân thành phố.\n\n- Phụ lục IV: Điều chỉnh, bổ sung Phụ lục IV của Nghị quyết số 44/NQ-HĐND của Hội đồng nhân dân thành phố."
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 1 Khoản 4",
+    "loai": "gop_sai",
+    "ghi_chu": "Đoạn 'Chi tiết tại các phụ lục đính kèm' (điều chỉnh, bổ sung Phụ lục I-IV của NQ 44) là phần chung của Điều 1 nhưng bị gộp vào khoản 4."
+   }
+  ],
+  "ghi_chu": "Tên Điều 1 nêu 'Điều chỉnh, bổ sung dự toán ... tại Điều 1 Nghị quyết số 44/NQ-HĐND'; điều chỉnh ghi sua-doi. Tên văn bản không nêu số hiệu nên không ghi Phần đầu."
+ },
+ {
+  "doc_id": "661364",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "02/2021/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Ủy ban nhân dân tỉnh ban hành Quyết định sửa đổi, bổ sung một số điều của Quy chế ban hành kèm theo Quyết định số 02/2021/QĐ-UBND ngày 03 tháng 02 năm 2021 của Ủy ban nhân dân tỉnh ban hành Quy chế phối hợp trong công tác thanh tra, kiểm tra, giám sát hoạt động kinh doanh theo phương thức đa cấp trên địa bàn tỉnh Bạc Liêu, cụ thể như sau."
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "02/2021/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Ủy ban nhân dân tỉnh ban hành Quyết định sửa đổi, bổ sung một số điều của Quy chế ban hành kèm theo Quyết định số 02/2021/QĐ-UBND ngày 03 tháng 02 năm 2021 của Ủy ban nhân dân tỉnh ban hành Quy chế phối hợp trong công tác thanh tra, kiểm tra, giám sát hoạt động kinh doanh theo phương thức đa cấp trên địa bàn tỉnh Bạc Liêu, cụ thể như sau."
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "02/2021/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 1 Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 Điều 5 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "02/2021/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 1 Điều 5"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 Điều 5 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "02/2021/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 1 Điều 6"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 Điều 6 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "02/2021/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 1 Điều 6"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1 Điều 6 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "bo-sung",
+    "target_document": "02/2021/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 3 Điều 13"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung khoản 3 vào sau khoản 2 Điều 13 như sau:"
+   },
+   {
+    "source_path": "Điều 2 Khoản 1",
+    "action": "thay-cum-tu",
+    "target_document": "02/2021/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 12"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Sở Nông nghiệp và Phát triển nông thôn” bằng cụm từ “Sở Nông nghiệp và Môi trường” tại Điều 12."
+   },
+   {
+    "source_path": "Điều 2 Khoản 2",
+    "action": "thay-cum-tu",
+    "target_document": "02/2021/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 13"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “Sở Giáo dục, Khoa học và Công nghệ” bằng cụm từ “Sở Khoa học và Công nghệ” tại Điều 13."
+   },
+   {
+    "source_path": "Điều 2 Khoản 3",
+    "action": "thay-cum-tu",
+    "target_document": "02/2021/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 17"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “ Cục thuế tỉnh” bằng cụm từ “Chi cục thuế khu vực XX” tại Điều 17."
+   },
+   {
+    "source_path": "Điều 2 Khoản 4",
+    "action": "thay-cum-tu",
+    "target_document": "02/2021/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 2 Điều 2",
+     "khoản 2 Điều 5",
+     "khoản 2 Điều 8",
+     "khoản 1 Điều 10",
+     "khoản 2 Điều 10",
+     "khoản 7 Điều 10",
+     "khoản 1 Điều 11",
+     "khoản 1 Điều 12",
+     "khoản 2 Điều 12",
+     "khoản 3 Điều 12",
+     "khoản 1 Điều 13",
+     "khoản 1 Điều 17",
+     "khoản 3 Điều 17",
+     "khoản 4 Điều 18"
+    ],
+    "doi_tuong": null,
+    "evidence": "Thay thế cụm từ “doanh nghiệp hoạt động kinh doanh theo phương thức đa cấp” bằng cụm từ “doanh nghiệp bán hàng đa cấp” tại khoản 2 Điều 2; khoản 2 Điều 5; khoản 2 Điều 8; khoản 1, khoản 2, khoản 7 Điều 10; khoản 1 Điều 11; khoản 1, khoản 2, khoản 3 Điều 12; khoản 1 Điều 13; khoản 1, khoản 3 Điều 17; khoản 4 Điều 18."
+   },
+   {
+    "source_path": "Điều 2 Khoản 5",
+    "action": "bai-bo",
+    "target_document": "02/2021/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 14",
+     "Điều 15"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ Điều 14, Điều 15."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "lời dẫn bị lặp một đoạn 'Bạc Liêu tại Tờ trình số 61/TTr-SCT...'."
+ },
+ {
+  "doc_id": "661433",
+  "relations": [
+   {
+    "source_path": "Điều 2 Khoản 2 điểm a",
+    "action": "bai-bo",
+    "target_document": "34/2008/QĐ-TTg",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này bãi bỏ:\n\na) Quyết định số 34/2008/QĐ-TTg ngày 03 tháng 3 năm 2008 của Thủ tướng Chính phủ về việc thành lập Ủy ban Giám sát tài chính Quốc gia;"
+   },
+   {
+    "source_path": "Điều 2 Khoản 2 điểm b",
+    "action": "bai-bo",
+    "target_document": "79/2009/QĐ-TTg",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "b) Quyết định số 79/2009/QĐ-TTg ngày 18 tháng 5 năm 2009 của Thủ tướng Chính phủ ban hành Quy chế tổ chức và hoạt động của Ủy ban Giám sát tài chính Quốc gia;"
+   },
+   {
+    "source_path": "Điều 2 Khoản 2 điểm c",
+    "action": "bai-bo",
+    "target_document": "15/2015/QĐ-TTg",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "c) Quyết định số 15/2015/QĐ-TTg ngày 22 tháng 5 năm 2015 của Thủ tướng Chính phủ về việc sửa đổi, bổ sung một số điều của Quyết định số 34/2008/QĐ-TTg ngày 03 tháng 3 năm 2008 của Thủ tướng Chính phủ về việc thành lập Ủy ban Giám sát tài chính Quốc gia và Quy chế tổ chức và hoạt động của Ủy ban Giám sát tài chính Quốc gia kèm theo Quyết định số 79/2009/QĐ-TTg ngày 18 tháng 5 năm 2009 của Thủ tướng Chính phủ."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Câu dẫn 'Quyết định này bãi bỏ:' cho 3 điểm. Đề án kèm theo chỉ kể lịch sử."
+ },
+ {
+  "doc_id": "661481",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "35/2024/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Ủy ban nhân dân ban hành Quyết định sửa đổi, bổ sung một số điều của Quy định ban hành kèm theo Quyết định số 35/2024/QĐ-UBND ngày 06 tháng 9 năm 2024 của Ủy ban nhân dân tỉnh Bạc Liêu ban hành Quy định chức năng, nhiệm vụ, quyền hạn, cơ cấu tổ chức và mối quan hệ công tác của Sở Công Thương tỉnh Bạc Liêu."
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "35/2024/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Ủy ban nhân dân ban hành Quyết định sửa đổi, bổ sung một số điều của Quy định ban hành kèm theo Quyết định số 35/2024/QĐ-UBND ngày 06 tháng 9 năm 2024 của Ủy ban nhân dân tỉnh Bạc Liêu ban hành Quy định chức năng, nhiệm vụ, quyền hạn, cơ cấu tổ chức và mối quan hệ công tác của Sở Công Thương tỉnh Bạc Liêu."
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "sua-doi",
+    "target_document": "35/2024/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 1 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1, Điều 1 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "35/2024/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 1 Điều 1"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 1, Điều 1 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "sua-doi",
+    "target_document": "35/2024/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm d khoản 1 Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm d, khoản 1 Điều 2 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "35/2024/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm d khoản 1 Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm d, khoản 1 Điều 2 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "sua-doi",
+    "target_document": "35/2024/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm i khoản 5 Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm i, khoản 5 Điều 2 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 3",
+    "action": "bo-sung",
+    "target_document": "35/2024/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "điểm i khoản 5 Điều 2"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung điểm i, khoản 5 Điều 2 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 4",
+    "action": "sua-doi",
+    "target_document": "35/2024/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 2 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2, Điều 3 như sau:"
+   },
+   {
+    "source_path": "Điều 1 Khoản 4",
+    "action": "bo-sung",
+    "target_document": "35/2024/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 2 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 2, Điều 3 như sau:"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": ""
+ },
+ {
+  "doc_id": "661515",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "2722/QĐ-UBND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "các TTHC nội bộ số 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14 mục A; số 2, 3 mục B",
+    "evidence": "Thay thế các TTHC nội bộ số 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14 mục A; số 2, 3 mục B tại Quyết định số 2722/QĐ-UBND ngày 21 tháng 10 năm 2024 của UBND thành phố về việc công bố thủ tục hành chính nội bộ lĩnh vực giáo dục và đào tạo thuộc phạm vi chức năng quản lý của Sở Giáo dục và Đào tạo."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Thay thế các TTHC nội bộ theo số thứ tự mục A, B của danh mục tại QĐ 2722/QĐ-UBND; vi_tri để rỗng, ghi doi_tuong. Phụ lục chỉ là tệp đính kèm, không có nội dung."
+ }
+]

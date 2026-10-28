@@ -1,0 +1,448 @@
+[
+ {
+  "doc_id": "669314",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "596/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "tên các cơ sở khám bệnh, chữa bệnh tại các Phụ lục",
+    "evidence": "SỬA ĐỔI TÊN CÁC CƠ SỞ KHÁM BỆNH, CHỮA BỆNH TẠI CÁC PHỤ LỤC KÈM THEO NGHỊ QUYẾT SỐ 596/NQ-HĐND NGÀY 14 THÁNG 12 NĂM 2024 CỦA HỘI ĐỒNG NHÂN DÂN TỈNH"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "sua-doi",
+    "target_document": "596/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "tên các cơ sở khám bệnh, chữa bệnh tại các Phụ lục",
+    "evidence": "Sửa đổi tên các cơ sở khám bệnh, chữa bệnh tại các Phụ lục kèm theo Nghị quyết số 596/NQ-HĐND ngày 14 tháng 12 năm 2024 của Hội đồng nhân dân tỉnh"
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 1",
+    "loai": "thieu_noi_dung",
+    "ghi_chu": "Câu hành động 'Sửa đổi tên các cơ sở…' của Điều 1 bị đưa vào ten_dieu; noi_dung chỉ còn câu 'Các nội dung khác giữ nguyên…'."
+   }
+  ],
+  "ghi_chu": "Phụ lục là bảng đổi 54 tên cơ sở (tên cũ → tên sau sửa đổi); văn bản gọi là 'sửa đổi tên', không nêu số hiệu Phụ lục cụ thể của NQ 596. Lời dẫn 'Xét Tờ trình… đề nghị ban hành' là đề nghị, không ghi."
+ },
+ {
+  "doc_id": "670362",
+  "relations": [
+   {
+    "source_path": "Điều 3",
+    "action": "sua-doi",
+    "target_document": "1564/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "mã định danh điện tử của các cơ quan, đơn vị, địa phương",
+    "evidence": "Quyết định này có hiệu lực thi hành kể từ ngày ký. Quyết định này bổ sung, điều chỉnh mã định danh điện tử của các cơ quan, đơn vị, địa phương tại Quyết định số 1564/QĐ-UBND ngày 22 tháng 7 năm 2021 của Ủy ban nhân dân thành phố."
+   },
+   {
+    "source_path": "Điều 3",
+    "action": "bo-sung",
+    "target_document": "1564/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "mã định danh điện tử của các cơ quan, đơn vị, địa phương",
+    "evidence": "Quyết định này có hiệu lực thi hành kể từ ngày ký. Quyết định này bổ sung, điều chỉnh mã định danh điện tử của các cơ quan, đơn vị, địa phương tại Quyết định số 1564/QĐ-UBND ngày 22 tháng 7 năm 2021 của Ủy ban nhân dân thành phố."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "'Điều chỉnh' = sửa đổi. Điều 1 (Bổ sung, điều chỉnh mã định danh… theo Phụ lục) không nêu văn bản đích, tên văn bản cũng không nêu; đích chỉ có ở Điều 3. Cột ghi chú phụ lục chỉ ghi 'Điều chỉnh'/'Cấp mới', không nêu văn bản."
+ },
+ {
+  "doc_id": "670607",
+  "relations": [
+   {
+    "source_path": "Điều 4 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "33/2024/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ Nghị quyết số 33/2024/NQ-HĐND ngày 10 tháng 12 năm 2024 của Hội đồng nhân dân tỉnh Ninh Thuận (trước hợp nhất) quy định thẩm quyền quyết định đầu tư, mua sắm các hoạt động ứng dụng công nghệ thông tin sử dụng kinh phí chi thường xuyên nguồn vốn ngân sách nhà nước thuộc phạm vi quản lý của tỉnh Ninh Thuận."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 1, Điều 3 khoản 1 chỉ dẫn chiếu Nghị định 82/2024, 73/2019 (đã được sửa đổi), không phải hành động."
+ },
+ {
+  "doc_id": "671258",
+  "relations": [
+   {
+    "source_path": "Điều 1",
+    "action": "sua-doi",
+    "target_document": "97/2020/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 4 Điều 12"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 4 của Điều 12"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bo-sung",
+    "target_document": "97/2020/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 4 Điều 12"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 4 của Điều 12"
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "sua-doi",
+    "target_document": "97/2020/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 5 Điều 21"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 5 của Điều 21"
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "bo-sung",
+    "target_document": "97/2020/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 5 Điều 21"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 5 của Điều 21"
+   },
+   {
+    "source_path": "Điều 3",
+    "action": "sua-doi",
+    "target_document": "99/2020/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 4 Điều 29"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 4 của Điều 29"
+   },
+   {
+    "source_path": "Điều 3",
+    "action": "bo-sung",
+    "target_document": "99/2020/TT-BTC",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 4 Điều 29"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung khoản 4 của Điều 29"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Đích lấy từ tên Chương I (97/2020/TT-BTC) và Chương II (99/2020/TT-BTC). Tên văn bản và lời dẫn chỉ nói 'các Thông tư…', không nêu số hiệu: không ghi Phần đầu."
+ },
+ {
+  "doc_id": "673759",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "bai-bo",
+    "target_document": "44/2017/NQ-HĐND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "một số nội dung",
+    "evidence": "BÃI BỎ MỘT SỐ NỘI DUNG QUY ĐỊNH TẠI NGHỊ QUYẾT SỐ 44/2017/NQ-HĐND NGÀY 21/7/2017 CỦA HĐND TỈNH"
+   },
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bai-bo",
+    "target_document": "44/2017/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "tiểu điểm 2 điểm 1.1 khoản 1 Điều 1"
+    ],
+    "doi_tuong": "cụm từ “cấp huyện”",
+    "evidence": "Bãi bỏ cụm từ “cấp huyện” tại gạch đầu dòng thứ 2 điểm 1.1."
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "44/2017/NQ-HĐND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "tiểu điểm 2 điểm 1.2 khoản 1 Điều 1"
+    ],
+    "doi_tuong": "cụm từ “cấp huyện”",
+    "evidence": "Bãi bỏ cụm từ “cấp huyện” tại gạch đầu dòng thứ 2 điểm 1.2."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Bỏ cụm từ: ghi bai-bo + doi_tuong. Vị trí khoản 1 Điều 1 lấy từ tên Điều 1; điểm 1.1, 1.2 thuộc khoản 1 Điều 1 NQ 44/2017."
+ },
+ {
+  "doc_id": "673828",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "32/2024/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 12"
+    ],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI ĐIỀU 12 QUY ĐỊNH VỀ MỘT SỐ NỘI DUNG THUỘC LĨNH VỰC ĐẤT ĐAI TRÊN ĐỊA BÀN THÀNH PHỐ ĐÀ NẴNG BAN HÀNH KÈM THEO QUYẾT ĐỊNH SỐ 32/2024/QĐ-UBND NGÀY 07/10/2024 CỦA UBND THÀNH PHỐ ĐÀ NẴNG"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "sua-doi",
+    "target_document": "32/2024/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Điều 12"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi Điều 12 Quy định về một số nội dung thuộc lĩnh vực đất đai trên địa bàn thành phố Đà Nẵng ban hành kèm theo Quyết định số 32/2024/QĐ-UBND ngày 07/10/2024 của UBND thành phố Đà Nẵng, như sau:"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Các quyết định 42/2014, 29/2018, 31/2020 nằm trong nội dung mới trong ngoặc kép: không ghi."
+ },
+ {
+  "doc_id": "674165",
+  "relations": [
+   {
+    "source_path": "Điều 3 Khoản 2",
+    "action": "thay-the",
+    "target_document": "23/2024/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này thay thế Quyết định số 23/2024/QĐ-UBND ngày 08 tháng 8 năm 2024 của Ủy ban nhân dân tỉnh về việc ban hành số lượng, chủng loại, phương thức quản lý xe ô tô phục vụ công tác chung và tiêu chuẩn, định mức xe ô tô chuyên dùng của các cơ quan, tổ chức, đơn vị thuộc phạm vi quản lý của tỉnh Lạng Sơn."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": ""
+ },
+ {
+  "doc_id": "674318",
+  "relations": [
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bo-sung",
+    "target_document": "41/2019/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [],
+    "doi_tuong": "Bảng giá các loại đất định kỳ 05 năm giai đoạn 2020 - 2024 trên địa bàn tỉnh Cà Mau",
+    "evidence": "Bổ sung giá đất tại 233 đoạn, tuyến đường trong các dự án khu đô thị mới, khu dân cư, khu thương mại vào Bảng giá các loại đất định kỳ 05 năm giai đoạn 2020 - 2024 trên địa bàn tỉnh Cà Mau ban hành kèm theo Quyết định số 41/2019/QĐ-UBND ngày 20 tháng 12 năm 2019 của Ủy ban nhân dân tỉnh"
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bo-sung",
+    "target_document": "28/2021/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bổ sung giá đất tại 11 đoạn, tuyến đường trong các dự án khu dân cư, khu thương mại của xã Hòa Bình vào Phụ lục số 3 ban hành kèm theo Quyết định số 28/2021/QĐ-UBND ngày 26 tháng 7 năm 2021"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Các quyết định 33/2021, 23/2023, 42/2024, 69/2024, 40/2023, 023/2025 chỉ được nêu là 'được sửa đổi, bổ sung tại' (lịch sử), không là đích. Tên văn bản không nêu số hiệu đích."
+ },
+ {
+  "doc_id": "674879",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "34/2025/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm b khoản 2 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI ĐIỂM B KHOẢN 2 ĐIỀU 3 QUYẾT ĐỊNH SỐ 34/2025/QĐ-UBND NGÀY 08 THÁNG 4 NĂM 2025 CỦA ỦY BAN NHÂN DÂN TỈNH"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "sua-doi",
+    "target_document": "34/2025/QĐ-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "điểm b khoản 2 Điều 3"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi điểm b khoản 2 Điều 3 Quyết định số 34/2025/QĐ-UBND ngày 08 tháng 4 năm 2025 của Ủy ban nhân dân tỉnh Quảng Ninh"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": ""
+ },
+ {
+  "doc_id": "675282",
+  "relations": [
+   {
+    "source_path": "Điều 13 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "16/2024/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 16/2024/QĐ-UBND ngày 21 tháng 02 năm 2024 của Ủy ban nhân dân thành phố Hà Nội ban hành quy định về phương thức quản lý và thẩm quyền quyết định các nội dung về khoán kinh phí sử dụng xe ô tô phục vụ công tác chung tại các cơ quan, tổ chức, đơn vị thuộc phạm vi quản lý của thành phố Hà Nội hết hiệu lực kể từ ngày Quyết định này có hiệu lực thi hành."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "'Hết hiệu lực kể từ ngày Quyết định này có hiệu lực' do văn bản này tuyên bố: bai-bo."
+ },
+ {
+  "doc_id": "675502",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "2776/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực thi hành kể từ ngày ký và thay thế: Quyết định số 2776/QĐ-UBND ngày 25/10/2024 của Chủ tịch Ủy ban nhân dân tỉnh Khánh Hòa"
+   },
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "2653/QĐ-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 4 Mục II Phụ lục I",
+     "khoản 18 Mục II Phụ lục I"
+    ],
+    "doi_tuong": "số thứ tự 18 đến 20, 24 đến 35 khoản 18 Mục II Phụ lục I",
+    "evidence": "Khoản 4, mục II, phục lục I ban hành kèm theo Quyết định số 2653/QĐ-UBND ngày 06/11/2023 của Chủ tịch Ủy ban nhân dân tỉnh Khánh Hòa; số thứ tự 18 đến 20, 24 đến 35, khoản 18, mục II, phục lục I ban hành kèm theo Quyết định số 2653/QĐ-UBND ngày 06/11/2023 của Chủ tịch Ủy ban nhân dân tỉnh Khánh Hòa."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 1 chỉ công bố danh mục, không phải hành động. Với 2653/QĐ-UBND: thay thế toàn bộ khoản 4 Mục II Phụ lục I và các dòng STT 18–20, 24–35 của khoản 18 Mục II Phụ lục I."
+ },
+ {
+  "doc_id": "675598",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "308/KH-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "một số nhiệm vụ",
+    "evidence": "ĐIỀU CHỈNH, BỔ SUNG MỘT SỐ NHIỆM VỤ TẠI KẾ HOẠCH SỐ 308/KH-UBND NGÀY 25/10/2024 CỦA UBND THÀNH PHỐ VỀ TỔ CHỨC ĐẠI HỘI THỂ DỤC THỂ THAO THỦ ĐÔ LẦN THỨ XI NĂM 2025"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "308/KH-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "một số nhiệm vụ",
+    "evidence": "ĐIỀU CHỈNH, BỔ SUNG MỘT SỐ NHIỆM VỤ TẠI KẾ HOẠCH SỐ 308/KH-UBND NGÀY 25/10/2024 CỦA UBND THÀNH PHỐ VỀ TỔ CHỨC ĐẠI HỘI THỂ DỤC THỂ THAO THỦ ĐÔ LẦN THỨ XI NĂM 2025"
+   },
+   {
+    "source_path": "Mục III",
+    "action": "sua-doi",
+    "target_document": "308/KH-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "nhiệm vụ cho một số Sở, ngành, UBND các xã, phường",
+    "evidence": "Bổ sung, điều chỉnh một số nhiệm vụ cho một số Sở, ngành,UBND các xã, phường, cụ thể như sau:"
+   },
+   {
+    "source_path": "Mục III",
+    "action": "bo-sung",
+    "target_document": "308/KH-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": "nhiệm vụ cho một số Sở, ngành, UBND các xã, phường",
+    "evidence": "Bổ sung, điều chỉnh một số nhiệm vụ cho một số Sở, ngành,UBND các xã, phường, cụ thể như sau:"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "'Điều chỉnh' = sửa đổi. Mục III không nêu đích; lấy 308/KH-UBND từ tên văn bản. Mục II nêu lại trình tự tổ chức Đại hội, không có câu hành động riêng nên không ghi."
+ },
+ {
+  "doc_id": "676503",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "22/2022/NQ-HĐND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "định mức phân bổ chi ngân sách thành phố Hà Nội",
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ QUY ĐỊNH VỀ ĐỊNH MỨC PHÂN BỔ CHI NGÂN SÁCH THÀNH PHỐ HÀ NỘI TẠI NGHỊ QUYẾT SỐ 22/2022/NQ-HĐND NGÀY 08 THÁNG 12 NĂM 2022"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "22/2022/NQ-HĐND",
+    "target_section": "khong_ro",
+    "vi_tri": [],
+    "doi_tuong": "định mức phân bổ chi ngân sách thành phố Hà Nội",
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ QUY ĐỊNH VỀ ĐỊNH MỨC PHÂN BỔ CHI NGÂN SÁCH THÀNH PHỐ HÀ NỘI TẠI NGHỊ QUYẾT SỐ 22/2022/NQ-HĐND NGÀY 08 THÁNG 12 NĂM 2022"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "sua-doi",
+    "target_document": "22/2022/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 1 Mục IV Phần B Phụ lục 02"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung định mức khoán chi thường xuyên ngân sách xã quy định tại khoản l Mục IV Phần B Phụ lục số 02 ban hành kèm theo Nghị quyết số 22/2022/NQ-HĐND"
+   },
+   {
+    "source_path": "Điều 1",
+    "action": "bo-sung",
+    "target_document": "22/2022/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "khoản 1 Mục IV Phần B Phụ lục 02"
+    ],
+    "doi_tuong": null,
+    "evidence": "Sửa đổi, bổ sung định mức khoán chi thường xuyên ngân sách xã quy định tại khoản l Mục IV Phần B Phụ lục số 02 ban hành kèm theo Nghị quyết số 22/2022/NQ-HĐND"
+   },
+   {
+    "source_path": "Điều 2 Khoản 1",
+    "action": "bai-bo",
+    "target_document": "22/2022/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phần A Phụ lục 02"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ Phần A về định mức phân bổ nguồn vốn đầu tư xây dựng cơ bản phân cấp cho các quận, huyện, thị xã tại Phụ lục số 02 kèm theo Nghị quyết số 22/2022/NQ-HĐND ngày 08 tháng 12 năm 2022 của Hội đồng nhân dân Thành phố."
+   },
+   {
+    "source_path": "Điều 2 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "22/2022/NQ-HĐND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Mục III Phần B Phụ lục 02"
+    ],
+    "doi_tuong": null,
+    "evidence": "Bãi bỏ Mục III về định mức phân bổ chi thường xuyên ngân sách cấp quận, huyện, thị xã tại Phần B Phụ lục số 02 kèm theo Nghị quyết số 22/2022/NQ- HĐND ngày 08 tháng 12 năm 2022 của Hội đồng nhân dân Thành phố đã được sửa đổi, bổ sung bởi Nghị quyết số 20/2023/NQ-HĐND ngày 08 tháng 12 năm 2023 của Hội đồng nhân dân Thành phố."
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "loai": "tach_sai",
+    "ghi_chu": "'1. Định mức khoán chi thường xuyên ngân sách xã, phường' là nội dung mới trong ngoặc kép (thay cho khoản 1 Mục IV Phần B Phụ lục 02), bị nhận thành khoản 1 của Điều 1."
+   }
+  ],
+  "ghi_chu": "Câu hành động của Điều 1 bị đặt trong dấu ngoặc kép mở nhưng là câu dẫn của Điều, không phải nội dung mới. NQ 20/2023 chỉ là lịch sử sửa đổi, không là đích. 'khoản l' trong văn bản là khoản 1."
+ }
+]

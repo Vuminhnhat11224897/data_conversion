@@ -1,0 +1,94 @@
+[
+ {
+  "doc_id": "647149",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "hop-nhat",
+    "target_document": "32/2012/NĐ-CP",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị định số 32/2012/NĐ-CP ngày 12 tháng 4 năm 2012 của Chính phủ về quản lý xuất khẩu, nhập khẩu văn hóa phẩm không nhằm mục đích kinh doanh, có hiệu lực thi hành kể từ ngày 01 tháng 6 năm 2012, được sửa đổi, bổ sung bởi:"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "hop-nhat",
+    "target_document": "22/2022/NĐ-CP",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị định số 22/2022/NĐ-CP ngày 25 tháng 3 năm 2022 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 32/2012/NĐ-CP ngày 12 tháng 4 năm 2012 của Chính phủ về quản lý xuất khẩu, nhập khẩu văn hóa phẩm không nhằm mục đích kinh doanh, có hiệu lực từ ngày 10 tháng 5 năm 2022."
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "hop-nhat",
+    "target_document": "131/2022/NĐ-CP",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị định số 131/2022/NĐ-CP ngày 31 tháng 12 năm 2022 của Chính phủ quy định chi tiết một số điều của Luật Điện ảnh, có hiệu lực thi hành từ ngày 01 tháng 01 năm 2023."
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "hop-nhat",
+    "target_document": "31/2025/NĐ-CP",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị định số 31/2025/NĐ-CP ngày 24 tháng 02 năm 2025 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 32/2012/NĐ-CP ngày 12 tháng 4 năm 2012 của Chính phủ về quản lý xuất khẩu, nhập khẩu văn hóa phẩm không nhằm mục đích kinh doanh, có hiệu lực từ ngày 12 tháng 4 năm 2025."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Văn bản hợp nhất: chỉ ghi quan hệ hop-nhat ở Phần đầu với NĐ gốc 32/2012 và 3 văn bản sửa đổi được nêu. Câu 'Nghị định này thay thế Nghị định số 88/2002/NĐ-CP' (Điều 17 khoản 2) và các chú thích '[n] ... được bãi bỏ/sửa đổi theo ...', điều khoản thi hành của NĐ 22/2022, 131/2022, 31/2025 trong chú thích là hành động của văn bản gốc/sửa đổi, không phải của văn bản hợp nhất: không ghi."
+ },
+ {
+  "doc_id": "654325",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "hop-nhat",
+    "target_document": "57/2014/QH13",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Luật Tổ chức Quốc hội số 57/2014/QH13 ngày 20 tháng 11 năm 2014 của Quốc hội, có hiệu lực kể từ ngày 01 tháng 01 năm 2016, được sửa đổi, bổ sung bởi:"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "hop-nhat",
+    "target_document": "65/2020/QH14",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Luật số 65/2020/QH14 ngày 19 tháng 6 năm 2020 của Quốc hội sửa đổi, bổ sung một số điều của Luật Tổ chức Quốc hội, có hiệu lực kể từ ngày 01 tháng 01 năm 2021;"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "hop-nhat",
+    "target_document": "96/2023/QH15",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Nghị quyết số 96/2023/QH15 ngày 23 tháng 6 năm 2023 của Quốc hội về việc lấy phiếu tín nhiệm, bỏ phiếu tín nhiệm đối với người giữ chức vụ do Quốc hội, Hội đồng nhân dân bầu hoặc phê chuẩn, có hiệu lực kể từ ngày 01 tháng 7 năm 2023;"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "hop-nhat",
+    "target_document": "62/2025/QH15",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Luật số 62/2025/QH15 ngày 17 tháng 02 năm 2025 của Quốc hội sửa đổi, bổ sung một số điều của Luật Tổ chức Quốc hội, có hiệu lực kể từ ngày 17 tháng 02 năm 2025."
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 80 Khoản 1a",
+    "loai": "gop_sai",
+    "ghi_chu": "Khoản 1 Điều 80 bị gộp vào khoản 1a (khoản 1a đứng trước khoản 1 trong văn bản hợp nhất)."
+   }
+  ],
+  "ghi_chu": "Văn bản hợp nhất: chỉ ghi hop-nhat ở Phần đầu với Luật gốc 57/2014/QH13 và 3 văn bản sửa đổi được nêu. Câu 'Luật tổ chức Quốc hội số 30/2001/QH10 ... hết hiệu lực kể từ ngày Luật này có hiệu lực' (Điều 102 khoản 2) và các dấu '(được bãi bỏ)' kèm chú thích là nội dung của văn bản gốc/sửa đổi, không phải hành động của văn bản hợp nhất: không ghi."
+ }
+]

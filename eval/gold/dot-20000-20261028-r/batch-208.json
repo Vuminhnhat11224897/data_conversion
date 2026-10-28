@@ -1,0 +1,236 @@
+[
+ {
+  "doc_id": "689164",
+  "relations": [
+   {
+    "source_path": "Phần đầu",
+    "action": "sua-doi",
+    "target_document": "526/KH-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ NỘI DUNG KẾ HOẠCH SỐ 526/KH-UBND NGÀY 11/11/2024 CỦA ỦY BAN NHÂN DÂN TỈNH VỀ CẢI THIỆN VÀ NÂNG CAO CHỈ SỐ ĐỔI MỚI SÁNG TẠO CẤP ĐỊA PHƯƠNG (PII) TỈNH HÀ TĨNH NĂM 2024 VÀ NHỮNG NĂM TIẾP THEO"
+   },
+   {
+    "source_path": "Phần đầu",
+    "action": "bo-sung",
+    "target_document": "526/KH-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "SỬA ĐỔI, BỔ SUNG MỘT SỐ NỘI DUNG KẾ HOẠCH SỐ 526/KH-UBND NGÀY 11/11/2024 CỦA ỦY BAN NHÂN DÂN TỈNH VỀ CẢI THIỆN VÀ NÂNG CAO CHỈ SỐ ĐỔI MỚI SÁNG TẠO CẤP ĐỊA PHƯƠNG (PII) TỈNH HÀ TĨNH NĂM 2024 VÀ NHỮNG NĂM TIẾP THEO"
+   },
+   {
+    "source_path": "Mục I",
+    "action": "sua-doi",
+    "target_document": "526/KH-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Mục 1 Phần II"
+    ],
+    "doi_tuong": null,
+    "evidence": "1. Sửa đổi, bổ sung khoản 3 mục 1 Phần II như sau:"
+   },
+   {
+    "source_path": "Mục I",
+    "action": "bo-sung",
+    "target_document": "526/KH-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 3 Mục 1 Phần II"
+    ],
+    "doi_tuong": null,
+    "evidence": "1. Sửa đổi, bổ sung khoản 3 mục 1 Phần II như sau:"
+   },
+   {
+    "source_path": "Mục I",
+    "action": "sua-doi",
+    "target_document": "526/KH-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Mục 2 Phần II"
+    ],
+    "doi_tuong": null,
+    "evidence": "2. Sửa đổi, bổ sung nội dung tại khoản 1 mục 2 phần II như sau:"
+   },
+   {
+    "source_path": "Mục I",
+    "action": "bo-sung",
+    "target_document": "526/KH-UBND",
+    "target_section": "quyet_dinh",
+    "vi_tri": [
+     "khoản 1 Mục 2 Phần II"
+    ],
+    "doi_tuong": null,
+    "evidence": "2. Sửa đổi, bổ sung nội dung tại khoản 1 mục 2 phần II như sau:"
+   },
+   {
+    "source_path": "Mục I",
+    "action": "sua-doi",
+    "target_document": "526/KH-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục"
+    ],
+    "doi_tuong": null,
+    "evidence": "3. Sửa đổi, bổ sung một số nội dung tại Phụ lục chi tiết kèm theo Kế hoạch, như sau:"
+   },
+   {
+    "source_path": "Mục I",
+    "action": "bo-sung",
+    "target_document": "526/KH-UBND",
+    "target_section": "kem_theo",
+    "vi_tri": [
+     "Phụ lục"
+    ],
+    "doi_tuong": null,
+    "evidence": "3. Sửa đổi, bổ sung một số nội dung tại Phụ lục chi tiết kèm theo Kế hoạch, như sau:"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Kế hoạch sửa đổi, bổ sung KH 526/KH-UBND: Phần II (khoản 3 mục 1, khoản 1 mục 2) và Phụ lục chi tiết kèm theo KH. Lời dẫn phần đầu cũng nêu cùng hành động (gộp vào quan hệ Phần đầu). Mục II chỉ nói phần còn lại giữ nguyên."
+ },
+ {
+  "doc_id": "366797",
+  "relations": [
+   {
+    "source_path": "Điều 7 Khoản 1",
+    "action": "thay-the",
+    "target_document": "28/2014/QĐ-TTg",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực thi hành kể từ ngày ký ban hành, thay thế Quyết định số 28/2014/QĐ-TTg ngày 07 tháng 4 năm 2014 của Thủ tướng Chính phủ quy định về cơ cấu biểu giá bán lẻ điện"
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 6 chỉ chuyển tiếp (QĐ 28/2014 tiếp tục áp dụng), không phải hành động."
+ },
+ {
+  "doc_id": "621225",
+  "relations": [
+   {
+    "source_path": "Điều 11 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "27/2008/QH12",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Luật Thuế tiêu thụ đặc biệt số 27/2008/QH12 đã được sửa đổi, bổ sung một số điều theo Luật số 70/2014/QH13, Luật số 71/2014/QH13, Luật số 106/2016/QH13 và Luật số 03/2022/QH15 hết hiệu lực kể từ ngày Luật này có hiệu lực thi hành."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Luật 27/2008/QH12 hết hiệu lực; các Luật 70/2014, 71/2014, 106/2016, 03/2022 chỉ nêu lịch sử sửa đổi. 'Chính phủ quy định chi tiết Điều này' là giao nhiệm vụ, không ghi."
+ },
+ {
+  "doc_id": "622932",
+  "relations": [
+   {
+    "source_path": "Điều 8 Khoản 1",
+    "action": "thay-the",
+    "target_document": "38/2020/TT-BGDĐT",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thông tư này có hiệu lực thi hành từ ngày 05 tháng 05 năm 2025 và thay thế Thông tư số 38/2020/TT-BGDĐT ngày 06 tháng 10 năm 2020 của Bộ trưởng Bộ Giáo dục và Đào tạo quy định về liên kết đào tạo với nước ngoài trình độ đại học, thạc sĩ, tiến sĩ theo hình thức trực tuyến và hình thức trực tiếp kết hợp trực tuyến."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": ""
+ },
+ {
+  "doc_id": "647679",
+  "relations": [
+   {
+    "source_path": "Điều 1 Khoản 1",
+    "action": "bai-bo",
+    "target_document": "74/2016/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 74/2016/QĐ-UBND ngày 29/12/2016 của Ủy ban nhân dân tỉnh về việc ban hành Quy định quản lý nhiệm vụ khoa học và công nghệ cấp tỉnh trên địa bàn tỉnh Bình Phước."
+   },
+   {
+    "source_path": "Điều 1 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "10/2019/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định số 10/2019/QĐ-UBND ngày 21/01/2019 của Ủy ban nhân dân tỉnh về việc Ban hành Quy định quản lý nhiệm vụ khoa học và công nghệ cấp cơ sở trên địa bàn tỉnh Bình Phước."
+   }
+  ],
+  "loi_cau_truc": [
+   {
+    "source_path": "Điều 1",
+    "loai": "thieu_noi_dung",
+    "ghi_chu": "noi_dung Điều 1 chỉ có câu dẫn; khoản 1 (QĐ 74/2016/QĐ-UBND) và khoản 2 (QĐ 10/2019/QĐ-UBND) chỉ có trong toàn văn."
+   }
+  ],
+  "ghi_chu": "Câu dẫn Điều 1 'Bãi bỏ toàn bộ 02 Quyết định…'; đích và evidence lấy từ toàn văn Điều 1 khoản 1, 2. Tên VB 'BÃI BỎ 02 QUYẾT ĐỊNH…' không nêu số hiệu nên không ghi Phần đầu."
+ },
+ {
+  "doc_id": "647732",
+  "relations": [
+   {
+    "source_path": "Điều 4",
+    "action": "thay-the",
+    "target_document": "912/QĐ-BVHTTDL",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực thi hành kể từ ngày ký và thay thế Quyết định số 912/QĐ-BVHTTDL ngày 11 tháng 04 năm 2023 của Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Cục Bản quyền tác giả."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": ""
+ },
+ {
+  "doc_id": "647988",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "bai-bo",
+    "target_document": "08/2018/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực thi hành kể từ ngày 01 tháng 4 năm 2025 và bãi bỏ Quyết định số 08/2018/QĐ-UBND ngày 18 tháng 4 năm 2018 của Ủy ban nhân dân tỉnh Nam Định ban hành Quy định về tiêu chuẩn chức danh người đứng đầu, cấp phó của người đứng đầu các đơn vị thuộc Sở Giáo dục và Đào tạo; Trưởng phòng, Phó Trưởng phòng Giáo dục và Đào tạo thuộc Ủy ban nhân dân các huyện, thành phố."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Các dẫn chiếu Nghị định trong Quy định là áp dụng, không phải hành động."
+ },
+ {
+  "doc_id": "647996",
+  "relations": [
+   {
+    "source_path": "Điều 2",
+    "action": "thay-the",
+    "target_document": "03/2019/QĐ-UBND",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Quyết định này có hiệu lực thi hành kể từ ngày 25 tháng 3 năm 2025 và thay thế Quyết định số 03/2019/QĐ-UBND ngày 18 tháng 02 năm 2019 của Ủy ban nhân dân tỉnh ban hành Quy chế quản lý, vận hành và sử dụng mạng truyền số liệu chuyên dùng cấp II của các cơ quan Đảng, Nhà nước trên địa bàn tỉnh Bình Dương."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": ""
+ },
+ {
+  "doc_id": "648172",
+  "relations": [
+   {
+    "source_path": "Điều 7 Khoản 2",
+    "action": "bai-bo",
+    "target_document": "19/2022/TT-BTC",
+    "target_section": "khong_ap_dung",
+    "vi_tri": [],
+    "doi_tuong": null,
+    "evidence": "Thông tư này bãi bỏ Thông tư số 19/2022/TT-BTC ngày 23 tháng 3 năm 2022 của Bộ trưởng Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí dịch vụ duy trì hệ thống kiểm tra trạng thái chứng thư số."
+   }
+  ],
+  "loi_cau_truc": [],
+  "ghi_chu": "Điều 7 khoản 3, 4 chỉ dẫn chiếu văn bản áp dụng."
+ }
+]
