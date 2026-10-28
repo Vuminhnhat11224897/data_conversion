@@ -2,7 +2,7 @@
 
 Tài liệu này giải thích mọi giá trị enum của v2, v3 và hợp đồng v4. Mỗi giá trị có: nghĩa, lúc công cụ gán, ví dụ thật.
 
-Các giá trị của luồng 4 tầng (`extraction`, `resolution_status`, `resolution_reason`, `target_section`, `detection_mode = llm`) chỉ có từ hợp đồng v4. Số đếm của chúng lấy từ lượt chạy thử, vì index `-v4` chưa ghi lại.
+Các giá trị của luồng 4 tầng (`extraction`, `resolution_status`, `resolution_reason`, `target_section`, `detection_mode = llm`) chỉ có từ hợp đồng v4. Số đếm của chúng lấy từ lượt chạy thử. Số đếm trên index `-v4` ở [09](09-hop-dong-du-lieu-v4.md).
 
 ## 6.1. Cách đọc bảng
 
@@ -238,10 +238,10 @@ Mức chi tiết của quan hệ. Thứ tự xét ở [09, mục 9.10.8](09-hop-
 
 | Giá trị | Nghĩa | `vi_tri` | Số v3 | Ví dụ |
 | --- | --- | --- | --- | --- |
-| `vi_tri` | Quan hệ nêu một vị trí: Điều, khoản, điểm, tiểu điểm, tên Điều, phụ lục (kể cả phụ lục chứa mẫu biểu). Câu nằm ở Điều, lời dẫn hay tiêu đề đều vậy. | Một phần tử | 859 | `602450_1`; `intro_564293_0` (lời dẫn) |
+| `vi_tri` | Quan hệ nêu một vị trí: Điều, khoản, điểm, tiểu điểm, tên Điều, phụ lục (kể cả phụ lục chứa mẫu biểu). Câu nằm ở Điều, lời dẫn hay tiêu đề đều vậy. Hợp đồng v4 (code `8b023ca`, 27/10/2026): phần nêu bằng tên thuộc phụ lục cũng có giá trị này, ví dụ thủ tục, danh mục, biểu mẫu. `vi_tri` là phụ lục chứa phần đó, tên giữ ở `doi_tuong` ([09, mục 9.5.1](09-hop-dong-du-lieu-v4.md#951-quy-ước-phụ-lục)). Vị trí ngoài thân văn bản ("Mục IV", "Mục II Phần B Phụ lục I") cũng thành phụ lục; chữ gốc ghi ở `chi_tiet_vi_tri`. | Một phần tử | 859 | `602450_1`; `intro_564293_0` (lời dẫn); lượt `fix9-H56`, `685249_0`: `vi_tri = ["Phụ lục"]`, có `doi_tuong` |
 | `van_ban` | Quan hệ ở cấp cả văn bản: thay thế, bãi bỏ toàn bộ; lời dẫn "sửa đổi một số điều"; hướng dẫn, hợp nhất không nêu điều khoản; câu hết hiệu lực. | `["toàn bộ"]` hoặc rỗng | 94 | `241415_0` |
-| `van_ban_kem_theo` | Phần ban hành kèm theo văn bản đích, chỉ nêu bằng tên ("đơn giá … ban hành kèm theo Quyết định X"). Tên nằm ở `doi_tuong`. | Rỗng | 9 | `662238_17` |
-| `noi_dung` | Phần chỉ nêu bằng tên, không ban hành kèm theo ("bảng giá ca máy công bố tại Văn bản X"; "phần căn cứ"). Tên nằm ở `doi_tuong`. | Rỗng | 5 | `383494_0` |
+| `van_ban_kem_theo` | Phần ban hành kèm theo văn bản đích, chỉ nêu bằng tên ("đơn giá … ban hành kèm theo Quyết định X"). Tên nằm ở `doi_tuong`. Hợp đồng v4: chỉ phần nêu bằng tên không thuộc phụ lục. | Rỗng | 9 | `662238_17`; `legal-changed-v4/696606_0` |
+| `noi_dung` | Phần chỉ nêu bằng tên, không ban hành kèm theo ("bảng giá ca máy công bố tại Văn bản X"; "phần căn cứ"). Tên nằm ở `doi_tuong`. Hợp đồng v4: chỉ phần nêu bằng tên không thuộc phụ lục. | Rỗng | 5 | `383494_0`; `legal-changed-v4/676559_0` |
 | `chua_xac_dinh` | Thay đổi cấp điều khoản, công cụ không tìm được vị trí. Cần rà tay. | Rỗng | 2 | `449124_1` |
 
 ### `detection_mode`
@@ -295,20 +295,22 @@ Lượt chạy thử `eval-llm-blind` (15/10/2026, 759 quan hệ): `llm+rules` 4
 | --- | --- | --- |
 | `vi_tri_chua_xac_dinh` | Câu nêu tác động một phần nhưng không nêu vị trí, không nêu tên phần. | Tầng 3, hoặc bước cấp quan hệ |
 | `phan_kem_theo_chua_ro` | Vị trí có thể thuộc văn bản đích hoặc Quy định kèm theo. Câu không nói rõ. | Tầng 3 |
-| `khong_xac_dinh_van_ban_dich` | LLM không nêu được văn bản đích. | Tầng 3 |
+| `khong_xac_dinh_van_ban_dich` | LLM không nêu được văn bản đích. Tầng 4 loại hàng này với lý do `khong_co_van_ban_dich`. Giá trị này không có trong ES. | Tầng 3 gán, tầng 4 loại |
 | `van_ban_dich_khong_co_trong_nguon` | Số hiệu đích không có trong đoạn nguồn LLM đọc. | Tầng 4 |
 | `dich_chua_gan_cau_thuc_hien` | Có câu nêu hành động, đích có trong nguồn, nhưng cấu trúc không gắn câu với đích (từ 21/10/2026). | Tầng 4 |
 | `vi_tri_khong_co_trong_nguon` | Số của vị trí không có trong đoạn nguồn. | Tầng 4 |
 | `vi_tri_ngoai_dinh_dang` | Không sinh từ 19/10/2026. Vị trí ngoài định dạng chuyển sang `doi_tuong`. | — |
 
-Hàng tầng 4 loại hẳn không thành quan hệ. Lý do loại ở [08, mục 8.2.2](08-quan-he-4-tang-va-danh-gia.md#822-trạng-thái-của-quan-hệ).
+Hàng tầng 4 loại hẳn không thành quan hệ. Lý do loại ở [08, mục 8.2.2](08-quan-he-4-tang-va-danh-gia.md#822-trạng-thái-của-quan-hệ). Lý do `ghi_chu_lich_su`: đích chỉ có tên trong ghi chú lịch sử, hoặc trong danh sách đi sau ghi chú ([09, mục 9.10.7](09-hop-dong-du-lieu-v4.md#9107-trạng-thái-cạnh-và-nhánh-dò)).
 
 ### `doi_tuong_loai` (hợp đồng v4, từ 20/10/2026)
 
 | Giá trị | Nghĩa | Ví dụ |
 | --- | --- | --- |
 | `van_ban` | Quan hệ tác động lên văn bản đích hoặc một phần của nó (Điều, khoản, phụ lục, phần nêu bằng tên). | `669756_0`: thay thế Quyết định 08/2014/QĐ-UBND |
-| `thu_tuc_hanh_chinh` | Quan hệ tác động lên thủ tục hành chính do văn bản đích công bố. `doi_tuong` là tên thủ tục. `ma_thu_tuc` có khi dòng ghi mã. | `587301`, `Phụ lục 1 Mục B STT 1`: bãi bỏ thủ tục "Thành lập Trung tâm dịch vụ việc làm …" công bố tại `3443/QĐ-UBND`, mã `2.000164` |
+| `thu_tuc_hanh_chinh` | Quan hệ tác động lên thủ tục hành chính do văn bản đích công bố. `doi_tuong` là tên thủ tục. `ma_thu_tuc` có khi dòng ghi mã. Hợp đồng v4 (code `8b023ca`, 27/10/2026): `vi_tri` là phụ lục chứa thủ tục ([09, mục 9.5.1](09-hop-dong-du-lieu-v4.md#951-quy-ước-phụ-lục)). | `587301`, `Phụ lục 1 Mục B STT 1`: bãi bỏ thủ tục "Thành lập Trung tâm dịch vụ việc làm …" công bố tại `3443/QĐ-UBND`, mã `2.000164` |
+
+Công cụ gán `thu_tuc_hanh_chinh` khi `doi_tuong` gọi phần đó là thủ tục ("thủ tục hành chính", "TTHC", "Thủ tục …"). Công cụ cũng gán giá trị này cho dòng bảng khi tiêu đề phụ lục hoặc đề mục trên dòng nêu thủ tục hành chính. Code: `resolver.object_kind`. Trường hợp khác là `van_ban`.
 
 Ví dụ lấy từ lượt chạy thử `q11q12-check` (20/10/2026).
 
@@ -321,7 +323,7 @@ Ví dụ lấy từ lượt chạy thử `q11q12-check` (20/10/2026).
 | `khong_ro` | Văn bản đích có phần kèm theo, câu không nói vị trí thuộc phần nào. Quan hệ thành `unresolved` với `phan_kem_theo_chua_ro` khi có vị trí số. | "Bãi bỏ quy định … tại phần B, Điều 1 của Quyết định số 288/2006/QĐ-UBND" (`194135_0`) |
 | `khong_ap_dung` | Tác động lên cả văn bản, hoặc hướng dẫn chung. | "Quyết định này thay thế Quyết định số 08/2014/QĐ-UBND" (`669756_0`) |
 
-Ví dụ lấy từ lượt chạy thử `r3-holdout3` (20/10/2026). Index `-v4` chưa có trường này.
+Ví dụ lấy từ lượt chạy thử `r3-holdout3` (20/10/2026). Index `-v4` có trường này từ ngày 21/10/2026.
 
 ### Giá trị đặc biệt của `scope`
 

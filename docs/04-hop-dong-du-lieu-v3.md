@@ -462,7 +462,7 @@ Mapping khai báo `dan_chieu` là `object`, không phải `nested`. Truy vấn E
 - "Sửa đổi, bổ sung" trên một vị trí cho 2 quan hệ riêng: `sua-doi` và `bo-sung`. Công cụ không gộp.
 - Tiêu đề, lời dẫn và từng Điều có quan hệ riêng, kể cả khi cùng văn bản đích.
 - Quan hệ dò từ câu chữ đã qua QA bằng model LLM `qwen-legal`. Quan hệ hướng dẫn (`hd_`) lấy bằng quy tắc, không qua QA.
-- v3 có một số tác động suy ra lên đơn vị cha hoặc đơn vị con ([09, mục 9.2](09-hop-dong-du-lieu-v4.md#92-khác-với-v3-hiện-có)). Chưa đo số lượng.
+- v3 có một số tác động suy ra lên đơn vị cha hoặc đơn vị con ([05, mục 5.4.1](05-phien-ban-v2-v3-v4.md#541-dữ-liệu)). Chưa đo số lượng.
 - Khi ghi lại một văn bản, công cụ xóa mọi quan hệ có `source_id` của văn bản đó rồi ghi lại.
 
 ### 4.8.1. Ví dụ: `legal-changed-v3/602450_1`
@@ -678,7 +678,7 @@ v3 có một số tác động suy ra lên đơn vị cha hoặc đơn vị con 
 
 ## 4.10. Khác với hợp đồng đích và lỗi đã biết
 
-Hợp đồng đích là [09-hop-dong-du-lieu-v4.md](09-hop-dong-du-lieu-v4.md). Ghi lại v3 cần được duyệt ([09, mục 9.1.3](09-hop-dong-du-lieu-v4.md#913-cách-đưa-v4-về-đúng-hợp-đồng)).
+Hợp đồng đích là [09-hop-dong-du-lieu-v4.md](09-hop-dong-du-lieu-v4.md). Ghi lại v3 cần được duyệt ([02, "Ghi thử vào v4"](02-luong-hoat-dong.md#ghi-thử-vào-v4-trước-khi-ghi-lại-v3)).
 
 Các dòng 1–16 hết khi ghi lại v3 bằng luồng chốt ngày 20/10/2026. Dòng 17 **không** hết.
 

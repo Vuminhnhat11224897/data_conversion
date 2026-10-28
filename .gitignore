@@ -10,8 +10,16 @@ work/
 # Tài liệu cũ và dữ liệu mẫu, chỉ giữ cục bộ
 archive/
 
-# Ứng dụng so sánh Gốc · v3 · v4: công cụ cục bộ, không thuộc luồng sản phẩm (dữ liệu chụp từ ES ~15 MB)
+# Trang đánh giá thủ công (Gốc · -v4, bản cũ Gốc · v3 · v4): công cụ cục bộ, không thuộc luồng sản phẩm (dữ liệu chụp từ ES)
 frontend/
+
+# Thống kê toàn kho và mẫu 1.100 văn bản agent đọc cho thống kê: không phải bộ đánh giá của luồng
+/statistic/
+eval/gold/toan-kho-1100-*/
+eval/sets/toan-kho-1100-*
+
+# Báo cáo rà soát một lần ở gốc
+/loi_du_lieu_v4_*.md
 
 # Khảo sát format cục bộ: module độc lập, cache toàn văn và CSV rà soát
 /format_survey_local/
@@ -19,9 +27,10 @@ frontend/
 # Kết quả benchmark và cache model (~4,6 GB), chỉ giữ cục bộ
 /bernmark/
 
-# Bảng xuất ở gốc để rà soát thủ công
+# Bảng xuất ở gốc để rà soát thủ công, và tệp khóa LibreOffice khi đang mở
 /*.xlsx
 /*.csv
+.~lock.*#
 
 # Đánh giá: chỉ giữ code, rubric, danh sách bộ và nhãn đã khóa.
 # Gói gán nhãn chứa toàn văn, tạo lại bằng python -m eval.packets; bản nháp phân xử đã gộp vào eval/gold/*-adj.

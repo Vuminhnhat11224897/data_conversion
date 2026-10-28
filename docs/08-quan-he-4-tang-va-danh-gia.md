@@ -5,6 +5,7 @@ Tài liệu này mô tả chế độ `llm` (luồng 4 tầng) và bộ đánh g
 - 15/10/2026: thêm chế độ `llm`.
 - 20/10/2026: chốt luồng. Chế độ `llm` là mặc định (mục 8.8.4). Kết quả độc lập ở mục 8.8.3.
 - 22/10/2026: chốt luồng với quy tắc 1–19 (code `2911b77`) và ghi lại 11.000 văn bản `-v4` (mục 8.15). Benchmark 500 văn bản ở mục 8.13–8.14.
+- 26–27/10/2026: văn bản sửa đổi đi kèm, quy ước phụ lục, hold-out 300 (mục 8.16–8.17). Code chốt `8b023ca`. Dữ liệu `-v4` chưa ghi lại bằng code này.
 - So sánh với v2 và v3 ở [05](05-phien-ban-v2-v3-v4.md).
 
 ## 8.1. Vì sao đổi
@@ -64,7 +65,7 @@ Mỗi trường có `description` trong schema (`extract.SCHEMA`). Code đưa c�
 | `phan_kem_theo_chua_ro` | "khoản 7 Điều 3" có thể thuộc Quyết định hoặc Quy định kèm theo. Câu không nói rõ. |
 | `van_ban_dich_khong_co_trong_nguon` | Văn bản đích không có trong đoạn nguồn LLM đọc. |
 | `vi_tri_khong_co_trong_nguon` | Số của vị trí không có trong đoạn nguồn. |
-| `khong_xac_dinh_van_ban_dich` | LLM không nêu được văn bản đích có số hiệu hoặc tên luật. |
+| `khong_xac_dinh_van_ban_dich` | LLM không nêu được văn bản đích có số hiệu hoặc tên luật. Tầng 3 gán lý do này. Tầng 4 loại hàng với lý do `khong_co_van_ban_dich`, nên lý do này không có trong ES. |
 
 Từ 19/10/2026, vị trí ngoài định dạng không còn là lý do chờ duyệt. Công cụ chuyển vị trí đó sang `doi_tuong` (lý do cũ `vi_tri_ngoai_dinh_dang`).
 
@@ -769,7 +770,7 @@ Từ đây luồng chốt với code của mục này. Các thay đổi chỉ �
 | --- | --- | --- |
 | Ghi chú lịch sử "… đã được sửa đổi, bổ sung bởi/theo/tại …" phủ hết danh sách văn bản đi sau nó, kể cả vị trí của từng mục ("khoản 23 Điều 1 Thông tư A và khoản 1 Điều 12 Thông tư B"). Trước đây chỉ xét 80 ký tự, nên các văn bản ở cuối danh sách dài bị ghi làm đích. | `validate.history_spans`, `only_in_history` | Lỗi C4/B8c: luật sửa nhiều luật ghi cả các luật sửa đổi đi kèm làm đích |
 | Cùng luật trên cho quan hệ của nhánh quy tắc, sau QA | `convert.model_relations` | Không đổi đầu vào của model |
-| Vị trí không theo điều – khoản – điểm ghi thành phụ lục chứa nó ("Phụ lục II", hoặc "Phụ lục" khi không nêu số); chữ gốc giữ ở `doi_tuong` | `resolver.appendix_scope` | Quy ước phụ lục (dưới đây) |
+| Vị trí không theo điều – khoản – điểm ghi thành phụ lục chứa nó ("Phụ lục II", hoặc "Phụ lục" khi không nêu số). Phần nêu bằng tên (`doi_tuong`, không có vị trí) cũng thành phụ lục; chữ gốc giữ ở `doi_tuong`. Chữ của vị trí gốc chỉ còn trong `evidence`. | `resolver.appendix_scope` | Quy ước phụ lục (dưới đây). Mục 8.17 thu hẹp phần nêu bằng tên. |
 | Luật bỏ phiếu trong một câu không còn biến phần LLM đọc được thành cả văn bản; khi nhánh quy tắc ghi "toàn bộ" mà LLM nêu tên phần, giữ tên phần | `convert.model_relations` | Một quan hệ cả văn bản sai là tốn kém nhất |
 
 **Quy ước chấm** (`eval/score.py`, áp cho mọi lệnh chấm):
@@ -803,3 +804,92 @@ Từ đây luồng chốt với code của mục này. Các thay đổi chỉ �
 Bước sau: sửa prompt (bắt chọn rõ cả văn bản hay một phần, TTHC, các cặp hành động). Phải hỏi lại LLM.
 
 **Đánh giá theo đợt:** cứ mỗi 10.000 văn bản mới, lấy mẫu 1.000 văn bản bằng `python -m eval.sample_batch` và chấm bằng `eval.strata` (xem `eval/README.md`).
+
+### 8.17. Thu hẹp quy ước phụ lục, ghi chú lịch sử ở đơn vị bị cắt (27/10/2026)
+
+Từ đây luồng chốt với code commit `8b023ca`. Mốc trung gian trong ngày là `8ccb1da` (hai dòng đầu của bảng dưới). Các thay đổi chỉ ở bước sau LLM. Khóa cache không đổi: chạy lại chặt cả 9 bộ, 0 câu trả lời thiếu.
+
+**Ba lỗi của code 26/10:**
+
+| Lỗi | Ví dụ | Sửa | File |
+| --- | --- | --- | --- |
+| Quy ước phụ lục đổi mọi phần nêu bằng tên thành "Phụ lục", kể cả phần không thuộc phụ lục. | `676559_0`: "một số điều của các Thông tư …" ghi thành `vi_tri = ["Phụ lục"]`. | Phần nêu bằng tên chỉ thành phụ lục khi chữ nêu thứ phụ lục chứa: danh mục, thủ tục, biểu mẫu, mẫu số, phương án, quy trình nội bộ, Mục hoặc Phần có số, số thứ tự. Thủ tục hành chính và dòng của phụ lục cũng thành phụ lục. Phần khác giữ tên. Bộ chấm dùng cùng phép thử. | `resolver.appendix_like`, `eval/score.place` |
+| Luật ghi chú lịch sử không bắt được đích khi đơn vị dài bị cắt thành phần. Phần sau mất đoạn ghi chú, nên luật ghi các luật sửa đổi đi kèm làm đích. | 675210, Điều 86 khoản 4: "… Luật Phí và lệ phí số 97/2015/QH13 đã được sửa đổi, bổ sung … theo Luật số 09/2017/QH14, …, Luật số 89/2025/QH15". Phần thứ hai ghi `sua-doi`, `bo-sung` tới 35/2024/QH15 và 89/2025/QH15. | Mỗi phần giữ toàn văn đơn vị ở `_noi_dung_goc`. LLM không thấy khóa này. Tầng 4 kiểm ghi chú lịch sử trên toàn văn. Câu lấy từ phần bị cắt được coi là câu của chính đơn vị. | `extract.list_parts`, `validate.only_noted` |
+| Quy ước phụ lục chỉ chạy ở cuối bước gộp. Vị trí tính sau đó không qua quy ước: vị trí nhánh quy tắc đọc từ `scope`, dòng danh mục, `cum_tu[].vi_tri`. Quy ước cũng đổi nhầm "tên văn bản", "tên Mục 1" thành "Phụ lục". Chữ vị trí gốc bị mất. | Lượt `fix7-H56` + `fix7-ho`: 57/9.759 quan hệ `validated` còn "Mục I Phụ lục I", "Mục IV". 6 quan hệ có `doi_tuong` thuộc phụ lục mà không có vị trí. | Áp quy ước thêm một lần trong `tidy_positions` (chế độ `llm`), cho cả `cum_tu`. Giữ vị trí của phần thân: có "điểm", "khoản", "Điều", "Chương", và "tên văn bản", "tên Mục <n>". "Mục <n>" đứng một mình vẫn thành phụ lục (683435: "Mục 89" của phụ lục một quyết định). Chữ vị trí gốc ghi vào `chi_tiet_vi_tri` của cạnh tới phụ lục ("Mục IV Phụ lục I; số thứ tự 01"). Bộ chấm dùng cùng phép thử. | `resolver.body_place`, `resolver.appendix_scope`, `convert.tidy_positions`, `eval/score.place` |
+
+**Bộ chấm chính thức** từ ngày này là `eval/score.py` của `8b023ca`. Bộ chấm thu hẹp quy ước phụ lục như code. Số ở mục 8.16 dùng quy ước rộng, nên không so trực tiếp được với số dưới đây.
+
+**Kết quả** (cùng câu trả lời LLM, chấm bằng bộ chấm 27/10; hold-out bỏ văn bản 675259):
+
+| Bộ | Code 26/10 (`fix5-*`): phát hiện F1 / phạm vi F1 | Code `8b023ca` (`fix9-*`): phát hiện P / R / F1 | Code `8b023ca`: phạm vi P / R / F1 |
+| --- | --- | --- | --- |
+| 7 bộ cũ | 0,905 / 0,809 | 0,923 / 0,888 / 0,905 | 0,861 / 0,792 / 0,825 |
+| H5 + H6 | 0,884 / 0,801 | 0,895 / 0,873 / 0,884 | 0,833 / 0,773 / 0,801 |
+| Hold-out 300 | 0,876 / 0,683 | 0,900 / 0,861 / 0,880 | 0,711 / 0,673 / 0,691 |
+| Stress C4/B8c | 0,751 / 0,654 | 0,915 / 0,909 / 0,912 | 0,677 / 0,794 / 0,731 |
+
+Code `8ccb1da` (`fix7-*`) cho cùng số, trừ phạm vi hold-out 0,710 / 0,672 / 0,690.
+
+- Thu hẹp phụ lục: phạm vi F1 của 7 bộ cũ từ 0,809 lên 0,825. Ở lượt `fix-ho` (hold-out 300 và bộ stress, 375 văn bản), 229 quan hệ có `doi_tuong`; số quan hệ đổi thành phụ lục từ 160 xuống 99.
+- Ghi chú lịch sử: bỏ 101 quan hệ, không thêm quan hệ nào. Cả 101 quan hệ ở 10 văn bản: 8 văn bản của bộ stress (665870, 666020, 675210, 681550, 682798, 687426, 688193, 697177) và 2 văn bản của hold-out 300 (658530, 687890). Recall của mọi bộ không đổi. 7 bộ cũ và H5 + H6 không đổi.
+- 675210 thuộc bộ stress và đã dùng để dò lỗi. Vì vậy mức tăng ở bộ stress không hoàn toàn độc lập.
+- Hold-out 300 vẫn có nhãn do agent gán, chưa qua người duyệt. Khi người duyệt xong (`bernmark/ho300/duyet_ho300.csv`), chấm lại để có số chính thức.
+- Lỗi thứ ba không đổi điểm, vì bộ chấm áp quy ước cho cả nhãn và công cụ. Lỗi này đổi dữ liệu ghi ES: ở `fix9-H56` + `fix9-ho` (876 văn bản, 9.760 quan hệ `validated`), 0 vị trí lọt quy ước; 557 quan hệ có vị trí chỉ gồm phụ lục, 196 trong số đó có `chi_tiet_vi_tri`; 4 quan hệ giữ "tên văn bản" hoặc "tên Mục <n>" không nêu Chương.
+- Bảng đầy đủ: `bernmark/fix3/ket_qua_fix7.txt`.
+
+**Giới hạn còn lại của quy ước phụ lục:**
+
+- "Phụ lục" không số chưa chỉ tới một node phụ lục. Đo trên lượt `fix9-H56` và `fix9-ho` (876 văn bản): 292/9.760 quan hệ `validated` có `vi_tri = ["Phụ lục"]`. Câu hỏi cho bên Graph ở [11](11-cau-hoi-graph.md).
+
+### 8.18. Làm sạch dữ liệu 32 văn bản (27/10/2026)
+
+Mục này ghi các thay đổi code sau `8b023ca`, ngày 27/10/2026. Code nằm ở nhánh `tich-hop/20261027` (worktree `/home/ad/data_vbpl_v3-scope`). Nhánh chưa vào master, chưa push. Mọi lượt thử chạy `--dry-run`, ES đích trỏ tới cổng giả (`TARGET_ES_URL=http://127.0.0.1:9`). Không lượt nào ghi ES.
+
+**Thành phần của nhánh:**
+
+| Commit | Nội dung |
+| --- | --- |
+| `f5ef0a7` (nhánh `fix/kiem-pham-vi`) | Tầng 4 kiểm vị trí sau bước gộp (`validate.check_positions`): Điều lấy nhầm số Điều của đơn vị nguồn (672540); cả văn bản khi câu gắn vị trí vào đích (685741); thêm vị trí câu nêu mà quan hệ thiếu. Mục danh sách nêu tên phần giữ tên phần LLM đọc. "<văn bản> này sửa đổi, bổ sung <văn bản> số X" là mức văn bản. "N thủ tục hành chính" là tên phần. Bỏ vị trí rộng khi đơn vị con nêu vị trí hẹp. Số hiệu thiếu chữ Đ ("NQ-HDND"). |
+| `c394162` (nhánh `exp/phu-luc-chia-doan`) | Biểu mẫu trong phụ lục không giữ Điều. Đoạn tìm kiếm cho phụ lục và đề mục dài (`phu_luc_doan`, `muc_doan`). |
+| `57b9033` | Embedding qua API bge-m3 kiểu OpenAI (`EMBEDDING_URL` kết thúc bằng `/v1`), vector đủ độ dài. Đoạn tìm kiếm: phụ lục 300 từ, đề mục 150 từ. Cấu hình từ chối `EMBEDDING_REUSE=yes` khi vector không cắt ở 256 token. |
+| `9dc5f55` | Quyết định R1: một cạnh một lần (`convert.distinct_edges`). |
+
+**Điểm trên 11 bộ chấm** (chạy lại chặt, cùng câu trả lời LLM; F1):
+
+| Bộ | `8b023ca`: phát hiện / phạm vi | Nhánh (`9dc5f55`): phát hiện / phạm vi |
+| --- | --- | --- |
+| 7 bộ cũ | 0,905 / 0,825 | 0,916 / 0,839 |
+| H5 + H6 | 0,884 / 0,801 | 0,886 / 0,814 |
+| Hold-out 300 | 0,880 / 0,691 | 0,879 / 0,700 |
+| Hold-out 300, 218 nhãn danh mục đọc là cả văn bản | 0,880 / 0,815 | 0,879 / 0,824 |
+| Stress | 0,912 / 0,731 | 0,912 / 0,745 |
+
+- So với `8b023ca`: 0 mục đúng bị mất ở cả 11 bộ, cả mức phát hiện và mức phạm vi.
+- Hold-out 300 có 218 nhãn sai ở 4 văn bản danh mục (680144, 681033, 681390, 682335). Nhãn ghi `doi_tuong = "văn bản số thứ tự N Phụ lục …"`. Đây là chỗ văn bản nguồn liệt kê đích, không phải một phần của đích. Nhãn chờ người duyệt sửa.
+- Văn bản 685741 và 672540 thuộc hold-out và đã dùng để sửa. Mức tăng ở hold-out không hoàn toàn độc lập.
+
+**Đánh giá 32 văn bản của `loi_du_lieu_v4_32_van_ban.md`** (258 phát hiện; script trong scratchpad của phiên: `eval32.py`, `compare32.py`). Quan hệ đi vào (dòng của văn bản khác trỏ tới 32 văn bản) đo bằng cách chạy riêng văn bản nguồn của chúng:
+
+| Code | Đã hết | Một phần | Còn | Lỗi dữ liệu nguồn |
+| --- | --- | --- | --- | --- |
+| `8b023ca` | 37 | 2 | 208 | 11 |
+| Nhánh, trước R1 | 40 | 5 | 202 | 11 |
+| Nhánh, sau R1 (`9dc5f55`) | 53 | 14 (chưa xem tay) | 180 | 11 |
+
+| Phép kiểm từng dòng, 32 văn bản | `-v4` (code `2911b77`) | Nhánh `9dc5f55` |
+| --- | --- | --- |
+| Số dòng quan hệ | 5.741 | 3.456 |
+| Dòng trùng (cùng hành động, đích, vị trí, cụm từ, khác đơn vị) | 1.317 | 81 |
+| Cụm từ cũ không có trong evidence của chính dòng | 1.335 | 37 |
+| `thay-cum-tu` có `cum_tu` rỗng | 123 | 82 |
+| "Bãi bỏ" ghi thành `sua-doi` hoặc `bo-sung` | 58 | 55 |
+| Evidence không nguyên văn | 8 | 2 |
+
+**Vì sao còn nhiều lỗi:** bộ chấm chỉ so tập (hành động, đích, vị trí). Bộ chấm gộp dòng trùng, không so `cum_tu`, evidence, ngày của từng dòng và metadata. Vì vậy các vòng sửa trước không thấy các lỗi này. 32 văn bản phần lớn là luật, nghị định sửa nhiều văn bản (146/2025 có 3.255 dòng). Loại văn bản này ít có trong bộ chấm. 37 quan hệ thiếu do LLM không trả về; code ở tầng sau không tạo được quan hệ.
+
+**Kế hoạch:**
+
+1. Làm R2–R15 ([07, mục 7.4](07-gioi-han-va-can-chot.md#74-quyết-định-đã-chốt)) và các lỗi thật còn lại: tách phụ lục nhầm (14/2026, 15/2026), dòng đúng bị để `unresolved`, ngày hết hiệu lực lấy nhầm (122/2025, 305/2025), hiệu lực riêng, đích sai, `has_tail`/`grade`. Sau mỗi bước: chạy 32 văn bản và 11 bộ chấm, kiểm không mất mục đúng.
+2. Tìm nguyên nhân 37 quan hệ thiếu; có thể phải hỏi lại LLM.
+3. Viết bộ eval chất lượng dữ liệu (việc B ở [07, mục 7.5](07-gioi-han-va-can-chot.md#75-việc-còn-lại-ở-bên-dữ-liệu)).
+4. Ghi lại `-v4` (dùng lại vector `-v4`), chạy 10.000 văn bản mới.
