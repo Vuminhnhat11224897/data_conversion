@@ -4,6 +4,7 @@ from dataclasses import dataclass
 import os
 from pathlib import Path
 import re
+import time
 
 from dotenv import load_dotenv
 
@@ -17,6 +18,9 @@ STAGES = {'v3', 'v4'}
 
 def load(env_file=None):
     load_dotenv(env_file or HOME / '.env')
+    # TZ from .env decides the day/night LLM limit (llm.concurrency): apply it, the process started with the host's zone.
+    if hasattr(time, 'tzset'):
+        time.tzset()
 
 
 def required(name):

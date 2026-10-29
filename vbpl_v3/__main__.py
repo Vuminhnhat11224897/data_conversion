@@ -1,4 +1,4 @@
-"""Command line: python -m vbpl_v3 {check,init,convert,report,analyze}."""
+"""Command line: python -m vbpl_v3 {check,init,convert,auto,report,analyze}."""
 
 import argparse
 import dataclasses
@@ -9,6 +9,7 @@ import sys
 
 import requests
 
+from . import auto
 from . import config as settings
 from .analyze import analyze
 from .convert import run, select_ids
@@ -125,6 +126,9 @@ def main(argv=None):
     convert.add_argument('--extractor', choices=['rules', 'llm'], help='Cách dò quan hệ; mặc định theo RELATION_EXTRACTOR (llm, chốt 20/10/2026)')
     convert.add_argument('--dry-run', action='store_true', help='Chạy đủ các bước nhưng không ghi ES; kết quả ở work/<run>/dry-run')
     convert.add_argument('--redo', action='store_true', help='Chạy lại cả văn bản đã xong trong lượt này (ví dụ sau khi thêm trường mới)')
+    loop = commands.add_parser('auto', help='Chạy liên tục: chuyển văn bản nguồn chưa có ở đích theo từng lô; quét lại nguồn mỗi AUTO_RESCAN_HOURS giờ')
+    loop.add_argument('--once', action='store_true', help='Chạy một lô rồi dừng')
+    loop.add_argument('--scan-only', action='store_true', help='Chỉ quét nguồn, lập hàng đợi ở work/auto/ rồi dừng; không chuyển')
     summary = commands.add_parser('report', help='So nguồn với v3 cho các văn bản đã chuyển, chỉ đọc')
     summary.add_argument('--run', required=True)
     survey = commands.add_parser('analyze', help='Đo độ phủ metadata cho đồ thị trên văn bản nguồn; chỉ đọc, không gọi AI')
@@ -153,6 +157,9 @@ def main(argv=None):
         if args.extractor:
             config = dataclasses.replace(config, extractor=args.extractor)
         return run(config, source, target, args)
+    if args.command == 'auto':
+        settings.required('EMBEDDING_URL')
+        return auto.forever(config, source, target, once=args.once, scan_only=args.scan_only)
     if args.command == 'analyze':
         args.all, args.from_date, args.to_date = False, None, None
         ids = select_ids(config, source, args)

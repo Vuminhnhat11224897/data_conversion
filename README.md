@@ -94,6 +94,25 @@ export EMBEDDING_REUSE=target LLM_CONCURRENCY_DAY=2 LLM_CONCURRENCY_NIGHT=8
 - Chạy đợt lớn sau 22h. Server LLM nhận 10 lời gọi cùng lúc ban đêm, 3 ban ngày (`.env.example`). Đêm 27/10/2026, người dùng cho mở 20.
 - Chạy một lượt một lúc. ES đích, ES nguồn và máy embedding đều đi qua VPN `tun0` (khoảng 2,5 MB/s, đo 27/10/2026).
 
+## Chạy liên tục v2 → v4 (`auto`, 29/10/2026)
+
+Lệnh `auto` chạy mãi: chuyển văn bản nguồn chưa có ở đích, từng lô nhỏ. Chi tiết trong docstring `vbpl_v3/auto.py`.
+
+- Mỗi `AUTO_RESCAN_HOURS` giờ (24) quét toàn bộ nguồn, lập hàng đợi = nguồn − đích − văn bản đã loại. Văn bản mới từ lần quét trước đứng đầu, rồi theo `issuance_date` mới → cũ.
+- Trước mỗi lô tra lại đích theo `_id`: văn bản đã có ở đích không bao giờ chạy lại.
+- Số luồng = số lời gọi LLM cùng lúc: `LLM_CONCURRENCY_DAY=1` (6h–22h), `LLM_CONCURRENCY_NIGHT=12` (22h–6h). Lô = 25 văn bản mỗi luồng.
+- Văn bản bị bỏ qua (`skipped`) thì loại hẳn; văn bản lỗi xuống cuối hàng đợi, lỗi 3 lần thì loại. Danh sách loại: `work/auto/excluded.json`.
+- Trạng thái và nhật ký từng lô: `work/auto/` (`queue.json`, `history.jsonl`). Mỗi lô là một lượt `work/auto-<giờ>/`.
+- Chỉ một tiến trình `auto` chạy được một lúc (khóa `work/auto/lock`). Muốn chạy `convert` tay thì dừng `auto` trước.
+
+```bash
+docker run --rm --network host --user "$(id -u):$(id -g)" --env-file .env -v "$PWD/work:/app/work" vbpl-v3 auto --scan-only  # chỉ lập hàng đợi
+docker run -d --name vbpl-auto --restart unless-stopped --stop-timeout 600 --network host --user "$(id -u):$(id -g)" \
+  --env-file .env -v "$PWD/work:/app/work" vbpl-v3 auto
+docker logs -f vbpl-auto      # theo dõi
+docker stop vbpl-auto         # dừng êm: văn bản đang chạy làm xong, văn bản chưa bắt đầu ở lại hàng đợi
+```
+
 ## Tài liệu
 
 | Tài liệu | Nội dung |

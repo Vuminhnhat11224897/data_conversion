@@ -726,10 +726,15 @@ def run(config, source, target, args, caller=None):
         todo = todo[:args.limit]
     mode = 'DRY-RUN, không ghi ES' if args.dry_run else 'ghi ' + ', '.join(config.target.values())
     print(f'Lượt {args.run}: {len(ids)} văn bản đã chọn, {len(done)} đã xong, {len(todo)} sẽ chạy ({mode})', flush=True)
-    source.use_number_index(config.source['documents'], config.workdir)
+    # auto keeps the table it loaded and refreshes it once per source scan: the source count changes all day long.
+    if not (getattr(args, 'keep_number_index', False) and source.numbers and source.numbers[0] == config.source['documents']):
+        source.use_number_index(config.source['documents'], config.workdir)
     lock, failures, started = threading.Lock(), [], time.time()
+    stop = getattr(args, 'stop', None)
 
     def work(doc_id):
+        if stop is not None and stop.is_set():
+            return None  # stopping: a document not started yet stays undone for the next run
         try:
             record = convert_document(doc_id, config, source, target, meta['run_id'], root, qa=not args.no_qa, dry_run=args.dry_run, caller=caller)
         except Exception as exc:
