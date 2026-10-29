@@ -324,8 +324,8 @@ Mục này mô tả bản ghi `legal-docs-v4`. Danh sách trường đầy đủ
 | Trường | Cách lấy |
 | --- | --- |
 | `document_number` | `document_number` nguồn qua `convert.clean_number` (mục 12.2.4). |
-| `title`, `legal_type`, `issuing_authority`, `issuance_date`, `signers`, `tom_tat`, `action`, `url`, `pdf_minio_path`, `pdf_vbpl_id` | Chép nguyên khi nguồn có giá trị. |
-| `legal_sectors` | Chép nguyên. Nguồn thiếu: `[]`. |
+| `title`, `legal_type`, `issuing_authority`, `issuance_date`, `signers`, `tom_tat`, `action`, `url`, `pdf_minio_path`, `pdf_vbpl_id` | Chép nguyên khi nguồn có giá trị. Nguồn thiếu: đọc lại từ `full_content`, trừ `url`, `pdf_minio_path`, `pdf_vbpl_id` (docs/09, `metadata_fill`). |
+| `legal_sectors` | Chép nguyên. Nguồn thiếu: model chọn 1–3 giá trị trong danh mục nguồn. |
 | `embedding` | Chép vector nguồn. Nguồn thiếu: công cụ gọi embedding cho `title`. |
 | `origin` | Chép. Nguồn thiếu: `legacy`. |
 | `text_source` | Chép. Nguồn thiếu: `source_full_content`. |

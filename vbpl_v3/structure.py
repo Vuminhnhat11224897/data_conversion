@@ -12,7 +12,9 @@ CLOSING = re.compile(r'^(?:XÁC THỰC VĂN BẢN HỢP NHẤT|(?:Nghị quyết
 CLAUSE = re.compile(r'^(\d{1,3})([a-zđ]{0,2})\.\s+(.*)$')
 POINT = re.compile(r'^([a-zđ][a-zđ0-9]?)\)\s+(.*)$')
 CHAPTER = re.compile(r'^(Chương|CHƯƠNG|Mục|MỤC)\s+([IVXLCDM]+|\d+)\b\s*[.:–—-]?\s*(.*)$')
-APPENDIX = re.compile(r'^(?:PHỤ LỤC|PHU LUC|Phụ lục)(?:\s+(?:SỐ\s+|số\s+)?([IVXLCDM]+|\d+[A-Za-z]?))?\s*[.:]?\s*(.*)$')
+# A Roman label is a whole word: "PHỤ LỤC DANH SÁCH", "PHỤ LỤC MẪU" have no label (not D, M). I/V/X may carry a sub-label
+# ("PHỤ LỤC IA", "PHỤ LỤC Vb", "PHỤ LỤC I4"); a word such as "MA TRẬN" is no label.
+APPENDIX = re.compile(r'^(?:PHỤ LỤC|PHU LUC|Phụ lục)(?:\s+(?:SỐ\s+|số\s+)?((?:[IVX]+(?:[A-Ha-h]|\d{1,2})|[IVXLCDM]+)(?!\w)|\d+[A-Za-z]?))?\s*[.:]?\s*(.*)$')
 ATTACHED = re.compile(r'^(?:QUY ĐỊNH|QUY CHẾ|QUY TRÌNH|QUY TẮC|QUY CHUẨN|QUY HOẠCH|DANH MỤC|DANH SÁCH|BẢNG|ĐỀ ÁN|ĐỀ CƯƠNG|CHƯƠNG TRÌNH|ĐIỀU LỆ|NỘI QUY|BIỂU MẪU|MẪU SỐ|PHỤ BIỂU|TIÊU CHÍ|KẾ HOẠCH|THUYẾT MINH|HƯỚNG DẪN|TIÊU CHUẨN)\b')
 BASIS_DOCUMENT = re.compile(r'^(?:Bộ\s+luật|Luật|Pháp\s+lệnh|Nghị\s+định|Nghị\s+quyết|Quyết\s+định|Thông\s+tư)\s')
 # A signature with no TM./KT. and no "Nơi nhận": the signer's title alone on its line, or the passing sentence of a law.
@@ -47,7 +49,19 @@ def appendix_header(line):
     if m and re.match(r'^(?:kèm theo|ban hành kèm theo|của|tại|quy định tại)\b',m[2],re.I):return False
     # "Phụ lục (Ban hành kèm theo .................(1))": a line of a printed form, whose document is still a blank.
     if m and re.match(r'^\(\s*(?:ban hành\s+)?kèm theo\s*[.…]{3,}', m[2], re.I):return False
+    # "Phụ lục I.1; các bộ, ngành là cơ quan chủ trì.": a label right before ";" cites an appendix in a list (a cell of a flattened
+    # table, audit 29/10/2026, 730744); a heading never goes on after its label with ";".
+    if m and m[1] and re.match(r'^[\d.]*\s*;', m[2]):return False
     return bool(m and (line.isupper() or not m[2] or m[2].isupper() or len(line) < 60))
+
+
+def signature_cut(item):
+    """A recipient item up to a blank line followed by a line in capitals of two words or more: the signer's title ("BỘ TRƯỞNG")."""
+    for m in re.finditer(r'\n[ \t]*\n[ \t]*([^\n]*)', item):
+        line = m[1].strip()
+        if line.isupper() and len(re.findall(r'\w{2,}', line)) >= 2:
+            return item[:m.start()]
+    return item
 
 
 def attached_heading(lines, i):
@@ -537,7 +551,11 @@ def parse(text, untitled=frozenset(), parts=None, positions=False):
         for item in re.split(r'(?:\n\s*-|;)', re.sub(r'^.*?Nơi nhận\s*:', '', signed, flags=re.S | re.I)):
             if TAIL.match(item.strip()) or not item.strip():
                 continue
-            value = re.split(r'\n(?:KT\.|TM\.|T/M|K/T)', item, maxsplit=1)[0]
+            # The signature ends the last recipient: "KT./TM./TL./TUQ./Q." on a new line, or after a blank line a line with no
+            # lower-case letter and two capitalised words ("BỘ TRƯỞNG", "CỤC TRƯỞNG", "BỘ TƯ PHÁP"). A single line break may
+            # continue a recipient in capitals ("Cục:\nKTTH, PL"), so a bare title counts only after a blank line.
+            value = re.split(r'\n(?:KT\.|TM\.|T/M|K/T|TL\.|TUQ\.|Q\.\s)', item, maxsplit=1)[0]
+            value = signature_cut(value)
             # Recipients and the signature side by side in a table row ("Lưu: VT. | TM. ỦY BAN NHÂN DÂN … Nguyễn Văn Đảm"): the
             # recipients are the first cell only.
             value = re.split(r'\s*\|\s*', value.strip().strip('|'), maxsplit=1)[0].strip().strip('- ;.,')

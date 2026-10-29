@@ -123,6 +123,35 @@ class ConvertCheck(unittest.TestCase):
         self.assertEqual(self.target.indices['legal-chunk-section-v3']['900_d2']['embedding'], kept)
         self.assertEqual(record['vectors_reused'], 1)
 
+    def metadata_run(self):
+        """Convert 900 with no tom_tat and no sectors in the source; the metadata payloads sent to the model."""
+        self.source.indices['legal-docs']['900'] = {**SOURCE_DOC, 'tom_tat': None, 'legal_sectors': []}
+        asked = []
+
+        def caller(prompt, payload, folder, **options):
+            if 'khoi_chu_ky' in json.loads(payload):
+                asked.append(options.get('schema', {}).get('required'))
+                return json.dumps({'tom_tat': 'Quyết định ban hành quy định quản lý chi phí.', 'legal_sectors': ['Tài chính nhà nước']}), {}
+            return model(prompt, payload, folder, **options)
+        with patch('vbpl_v3.convert.embed', side_effect=fake_embed):
+            record = convert_document('900', config(workdir=self.root), self.source, self.target, 'run1', self.root, caller=caller)
+        return record, asked
+
+    def test_metadata_asked_when_missing(self):
+        record, asked = self.metadata_run()
+        document = self.target.indices['legal-docs-v3']['900']
+        self.assertEqual(len(asked), 1)
+        self.assertEqual((document['tom_tat'], document['legal_sectors']), ('Quyết định ban hành quy định quản lý chi phí.', ['Tài chính nhà nước']))
+        self.assertEqual(set(record['metadata_boc_lai']), {'tom_tat', 'legal_sectors'})
+
+    def test_metadata_kept_from_target(self):
+        # A rewrite keeps the summary and sectors the target already holds: no model call for them (29/10/2026).
+        self.target.indices['legal-docs-v3']['900'] = {'tom_tat': 'Tóm tắt lượt trước.', 'legal_sectors': ['Thuế - Phí - Lệ Phí']}
+        record, asked = self.metadata_run()
+        document = self.target.indices['legal-docs-v3']['900']
+        self.assertEqual(asked, [])
+        self.assertEqual((document['tom_tat'], document['legal_sectors']), ('Tóm tắt lượt trước.', ['Thuế - Phí - Lệ Phí']))
+
     def test_english_full_text_is_skipped(self):
         # 39074: an English translation stored as the full text. Skipped before any model or embedding call, nothing written.
         english = ('THE GOVERNMENT\nDECREE\nISSUING THE REGULATION ON SOCIAL INSURANCE\nDECREES:\n'

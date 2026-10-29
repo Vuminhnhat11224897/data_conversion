@@ -130,6 +130,16 @@ def opens_list(lead):
     return bool(plain) and bool(OPENER.search(plain)) and bool(COLLECTIVE.search(plain)) and not PROVISION.search(plain)
 
 
+# A lead whose act on whole documents stands right before the colon ("Quyết định này bãi bỏ:"): its object is the list below.
+# Used only to tie the act to an item; opens_list (what goes to the model) is unchanged (audit 29/10/2026, 730798).
+BARE_ACT = re.compile(r'\b(?:b[ãả]i\s*bỏ|h(?:uỷ|ủy|uy)\s*bỏ|thay\s*thế)(?:\s+toàn\s+bộ)?\s*:\s*$', re.I)
+
+
+def bare_list_lead(lead):
+    plain = ' '.join(strip_quotes(lead or '').split())
+    return bool(BARE_ACT.search(plain)) and not PROVISION.search(plain)
+
+
 def clause_of_article(path):
     return bool(re.fullmatch(r'(?:Phụ lục \d+ )?(?:Văn bản kèm theo \d+ )?Điều \S+ Khoản \S+', path or ''))
 
@@ -284,7 +294,7 @@ def performer(row, verb, target=''):
                 # The same sentence names the target; or it opens a list in the unit that names it ("Bổ sung, sửa đổi 13 thủ tục hành
                 # chính như sau: - … Quyết định số X"); or the heading states the act of the body that names it; or the opening
                 # (title and issuing sentence) is one statement.
-                if names(sentence, target) or above or in_list or (opens_list(sentence) and names(rest, target)) \
+                if names(sentence, target) or above or in_list or ((opens_list(sentence) or bare_list_lead(sentence)) and names(rest, target)) \
                         or (name == 'ten_dieu' and names(f['don_vi'], target)) or (row.get('source_path') == 'Phần đầu' and names(text, target)):
                     return name, sentence, kind, True
             loose = loose or (name, sentence_at(text, hits[0].start(), hits[0].end()), kind, False)

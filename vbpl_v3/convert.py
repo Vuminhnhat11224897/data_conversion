@@ -18,6 +18,7 @@ from .references import amended_targets, guidance, law_by_name, law_named, link_
 from .extract import extract
 from .relations import consolidation, detect, lookup_numbers, resolve, row_holders, stamp
 from .resolver import appendix_scope, object_kind, resolve_row
+from .metadata_fill import LLM_FIELDS, by_code, by_model
 from .text import join_split, language, number_key
 from .validate import check_positions, only_in_history, own_quotes, validate
 from .structure import APPENDIX, NUMBER, appendix_label, build_chunks, normalize, parse
@@ -247,9 +248,15 @@ def distinct_edges(relations):
     def edge(row):
         return (row.get('action'), number_key(row.get('target_doc') or ''), tuple(row.get('vi_tri') or []), row.get('doi_tuong'),
                 json.dumps(sorted((p.get('cu') or '', p.get('moi') or '') for p in row.get('cum_tu') or []), ensure_ascii=False))
-    lower, acted, worded = {}, {}, {}
+    lower, acted, worded, settled = {}, {}, {}, {}
+
+    def pending(row):
+        # Left for review now or by settle() later: not validated, or with no position, part or document level (level()).
+        return row.get('resolution_status') != 'validated' or level({'scope': '', **row}) == 'chua_xac_dinh'
     for record in relations:
         row = record['_source']
+        if not pending(row):
+            settled.setdefault((row.get('action'), number_key(row.get('target_doc') or '')), set()).add(row.get('source_path') or '')
         if row.get('resolution_status') == 'validated':
             lower.setdefault(edge(row), set()).add(row.get('source_path') or '')
             if row.get('cum_tu'):
@@ -270,6 +277,12 @@ def distinct_edges(relations):
             continue
         bare = not row.get('vi_tri') and not row.get('doi_tuong') and not row.get('cum_tu')
         if path and bare and any(p.startswith(path + ' ') for p in acted.get((row.get('action'), number_key(row.get('target_doc') or '')), ())):
+            continue
+        # A bare reading left for review, in a unit where it, or the unit above, holds the same act on the same document checked
+        # ("2. Quyết định này bãi bỏ: a) Quyết định số X …" read on Khoản 2 and again, with no position, on its điểm a): nothing to add
+        # (audit 29/10/2026, 730798).
+        if path and bare and pending(row) and any(
+                p == path or path.startswith(p + ' ') for p in settled.get((row.get('action'), number_key(row.get('target_doc') or '')), ())):
             continue
         same = at.get((k, path))
         if same is None:
@@ -470,14 +483,45 @@ def convert_document(doc_id, config, source, target, run_id, root, qa=True, dry_
     # Skipped before any model call, like a document before START_YEAR (20/10/2026).
     if language(full) == 'en':
         return {'doc_id': doc_id, 'skipped': 'tieng_anh', 'ngon_ngu': 'en', 'dry_run': dry_run, 'seconds': round(time.time() - started, 2)}
-    issued = src.get('issuance_date')
-    is_normative, normative_how = normative(src)
-    effect = effective_date(full, src.get('legal_type'), issued, is_normative)
+    # Catalogue fields the source left empty are read from the text: by code now, by the model once the document is in scope.
+    src = {**src, **by_code(src, full)}
+    filled = [k for k in META if not hit['_source'].get(k) and src.get(k)]
     first_day = f'{config.start_year:04d}-01-01'
-    # In scope when signed/issued, or in effect, on or after 1 Jan START_YEAR; checked before any model call.
-    if (issued or '') and issued < first_day and not ((effect.get('ngay_hieu_luc') or '') >= first_day):
+
+    def scope():
+        issued = src.get('issuance_date')
+        is_normative, normative_how = normative(src)
+        effect = effective_date(full, src.get('legal_type'), issued, is_normative)
+        # In scope when signed/issued, or in effect, on or after 1 Jan START_YEAR; checked before any model call.
+        out = bool(issued) and issued < first_day and not ((effect.get('ngay_hieu_luc') or '') >= first_day)
+        return issued, is_normative, normative_how, effect, out
+
+    def skipped(issued, effect):
         return {'doc_id': doc_id, 'skipped': 'truoc_nam_bat_dau', 'start_year': config.start_year, 'issuance_date': issued,
                 'ngay_hieu_luc': effect.get('ngay_hieu_luc'), 'dry_run': dry_run, 'seconds': round(time.time() - started, 2)}
+    issued, is_normative, normative_how, effect, out = scope()
+    if out:
+        return skipped(issued, effect)
+    # A field still empty that the target document already holds (the model's answer of an earlier run) is kept; the model is asked
+    # only for the rest. Not in a dry run: its target is not read.
+    kept = {}
+    if not dry_run:
+        try:
+            prior = (target.get(config.target['documents'], doc_id) or {}).get('_source') or {}
+        except Exception:  # an unreachable target only costs a model call
+            prior = {}
+        kept = {k: prior[k] for k in LLM_FIELDS if not src.get(k) and prior.get(k)}
+    src = {**src, **kept}
+    try:
+        asked = by_model(src, full, root / 'cache' / doc_id, caller=caller)
+    except Exception as exc:  # the document goes on without the fields the model could not give
+        asked, filled = {}, filled + [f'loi_llm: {type(exc).__name__}']
+    src = {**src, **asked}
+    filled += list(kept) + list(asked)
+    if {'issuance_date', 'legal_type'} & (set(kept) | set(asked)):
+        issued, is_normative, normative_how, effect, out = scope()
+        if out:
+            return skipped(issued, effect)
     parsed, stats = refine(text, root / 'cache' / doc_id, title=src.get('title'), caller=caller)
     meta = {k: src.get(k) for k in META}
     meta['document_number'] = clean_number(meta.get('document_number'))
@@ -620,7 +664,7 @@ def convert_document(doc_id, config, source, target, run_id, root, qa=True, dry_
                 target.bulk(config.target['changes'], relations)
 
     ai = stats['structure_ai']
-    return {'doc_id': doc_id, 'legal_type': src.get('legal_type'), 'n_dieu_source': src.get('n_dieu'),
+    return {'doc_id': doc_id, 'legal_type': src.get('legal_type'), 'n_dieu_source': src.get('n_dieu'), 'metadata_boc_lai': filled,
             'n_dieu': stats['n_dieu'], 'n_dieu_total': stats['n_dieu_total'], 'grade': stats['grade'], 'tail_dieu': stats['tail_dieu'],
             'chunks': len(chunks), 'vectors_reused': len(chunks) - len(fresh), 'vectors_new': len(fresh),
             'empty_dieu': sum(1 for c in chunks if c['_source']['chunk_type'] == 'dieu' and not c['_source']['noi_dung'].strip()),

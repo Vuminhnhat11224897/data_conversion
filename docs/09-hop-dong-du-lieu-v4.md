@@ -365,17 +365,27 @@ Chuỗi dài giữ phần đầu và "…". Mảng dài giữ phần tử đầu
 
 Công cụ chép các trường này từ `legal-docs` nguồn. Công cụ chỉ sửa `document_number` (dòng của trường).
 
+Nguồn để trống một trường thì công cụ đọc lại trường đó từ `full_content` (`vbpl_v3/metadata_fill.py`, 29/10/2026). Trường nguồn có giá trị thì giữ nguyên. Không có trường đánh dấu cách lấy.
+
+- Code đọc: `document_number` (dòng "Số:"), `issuance_date` (dòng "…, ngày … tháng … năm …"; Luật: câu "thông qua ngày"), `legal_type` (dòng tên loại, dòng "V/v", mã trong số hiệu), `issuing_authority` (cơ quan thấp nhất ở khối tên cơ quan), `signers` (tên ở khối chữ ký, không có mã), `title` (dạng "<loại> <số> năm <năm> <trích yếu>"), `action`.
+- Model đọc (một lời gọi cho một văn bản, chỉ hỏi trường còn thiếu): `tom_tat`, `legal_sectors` (1–3 giá trị trong danh mục nguồn), và trường code không đọc được trong các trường `issuing_authority`, `issuance_date`, `signers`, `document_number`, `legal_type`. Tên người ký và số hiệu phải có nguyên văn trong `full_content`.
+- Không đọc lại: `url`, `pdf_minio_path`, `pdf_vbpl_id`, mã người ký. Các giá trị này thuộc hệ thống thu thập.
+- Dùng lại: trước khi hỏi model, công cụ đọc văn bản cùng `_id` ở index đích. Trường còn thiếu mà index đích đã có giá trị thì công cụ lấy giá trị đó, không hỏi model. Model chỉ trả lời các trường còn lại. Lượt `--dry-run` không đọc index đích. Câu trả lời của model cũng lưu ở `cache/<doc_id>/metadata/`; lượt sau cùng thư mục work và cùng đầu vào thì dùng lại câu trả lời đó.
+- Code đọc lại ở mỗi lượt. Kết quả không đổi khi `full_content` không đổi.
+
+Độ đúng của code so với giá trị nguồn, 4.000 văn bản `legal-docs` (29/10/2026): `legal_type` 99,4%, `document_number` 97,5%, `issuance_date` 95,1%, `action` 95,0%, `issuing_authority` 94,1%, `signers` 94,1% (so tên, bỏ mã).
+
 | Trường | Kiểu | Có | Quy tắc | Đo 28/10 |
 | --- | --- | --- | --- | --- |
 | `_id` | chuỗi | Mọi văn bản | Chỉ có chữ số. Bằng `_id` nguồn. | 30.988 |
 | `document_number` | keyword | Mọi văn bản | Khác rỗng. Không duy nhất. Công cụ đổi chữ Kirin giống chữ Latin thành chữ Latin (`CР` → `CP`), bỏ ký tự không có độ rộng, gộp khoảng trắng (`convert.clean_number`, R15). | 30.988 |
 | `title` | text | Mọi văn bản | Khác rỗng. Tên lưu ở nguồn. Công cụ chỉ dùng trường này cho tìm kiếm, đối chiếu và `source_title`. | 30.988 |
 | `legal_type` | keyword | Mọi văn bản | Khác rỗng. | 20 giá trị. Nhiều nhất: Quyết định 19.586, Nghị quyết 3.110, Công văn 3.046, Kế hoạch 1.733, Thông tư 867. |
-| `legal_sectors` | mảng keyword | Có khi nguồn có | Mỗi phần tử khác rỗng. | 30.988 |
+| `legal_sectors` | mảng keyword | Mọi văn bản | Mỗi phần tử khác rỗng. Nguồn thiếu: model chọn trong danh mục nguồn. | 30.988 |
 | `issuing_authority` | keyword | Mọi văn bản | Khác rỗng. | 30.988 |
 | `issuance_date` | date | Mọi văn bản | Là Ngày. | 30.988 |
-| `signers` | keyword, không index | Có khi nguồn có | Dạng `Tên:mã`. Nhiều người cách nhau bằng dấu phẩy. Văn bản tải lên chỉ có tên. | 30.978 |
-| `tom_tat` | text | Mọi văn bản | Khác rỗng. | 30.988 |
+| `signers` | keyword, không index | Có khi nguồn có hoặc văn bản có khối chữ ký | Dạng `Tên:mã`. Nhiều người cách nhau bằng dấu phẩy. Văn bản tải lên và giá trị đọc lại chỉ có tên. | 30.978 |
+| `tom_tat` | text | Mọi văn bản | Khác rỗng. Nguồn thiếu: model tóm tắt. | 30.988 |
 | `action` | keyword | Mọi văn bản | Phân loại văn bản ở nguồn. **Không là** hành động của quan hệ. | 30.988 |
 | `url` | keyword, không index | Mọi văn bản | `legacy`: bắt đầu bằng `https://thuvienphapluat.vn/`. `user_upload`: `upload://<_id>` (`900000017`). | 30.988 |
 | `pdf_minio_path` | keyword | Có khi nguồn có | `tvpl-pdf/…_<_id>.pdf` hoặc `legal-upload/pdf/<sha256>.pdf`. | 20.269 |

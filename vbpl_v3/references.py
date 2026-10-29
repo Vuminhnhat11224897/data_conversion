@@ -16,8 +16,9 @@ SELF_DOC = re.compile(POSITION + r'\s+(?:của\s+)?' + DOC_TYPE + r'\s+này\b', 
 OTHER_DOC = re.compile(POSITION + r'\s+(?:của\s+)?' + DOC_TYPE + r'\s+(?:số\s+)?(' + NUMBER.pattern + ')', re.I)
 OTHER_LAW = re.compile(POSITION + r'\s+(?:của\s+)?(Bộ\s+luật|Luật|Pháp\s+lệnh)\s+(?!này\b|số\b)([A-ZĐÀ-Ỹ][^,.;()\n]{1,60}?)'
                        r'(?=\s+(?:và|thì|được|đã|có|về|năm|số|ngày|hoặc|để)\b|\s*[,.;()\n]|\s*$)')
+# (?!\w): the whole number, so that "Điều 149 Luật …" is not read as "Điều 14" of this document (audit 29/10/2026, 730743).
 IMPLICIT = re.compile(r'(?:theo|tại|nêu\s+tại|nêu\s+ở|như)\s+(?:quy\s+định\s+tại\s+)?' + POSITION
-                      + r'(?!\s+(?:của\s+)?(?:' + DOC_TYPE + r'|này\b|số\b|năm\b))', re.I)
+                      + r'(?!\w)(?!\s+(?:của\s+)?(?:' + DOC_TYPE + r'|này\b|số\b|năm\b))', re.I)
 SAME_ARTICLE = re.compile(r'((?:điểm\s+[a-zđ]\w?\s+)?khoản\s+\d+[a-zđ]?|điểm\s+[a-zđ]\w?)\s+Điều\s+này\b', re.I)
 SAME_CLAUSE = re.compile(r'(điểm\s+[a-zđ]\w?)\s+khoản\s+này\b', re.I)
 

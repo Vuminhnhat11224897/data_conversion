@@ -20,7 +20,7 @@ Trạng thái ngày 28/10/2026. Code chạy hiện hành là commit `1117e63` (2
 | Ngày hiệu lực riêng chỉ có khi câu nêu điều khoản cụ thể. | Câu chỉ mô tả nội dung ("Quy định về các ngành, nghề … có hiệu lực từ ngày …") không gán được cho điều khoản. Câu có điều kiện ("Đối với các TCPHT là tổ chức tín dụng được kiểm soát đặc biệt, …") không ghi vào chunk; câu nằm ở `hieu_luc_rieng[].ngay_hieu_luc_trich`. | `509618`: khoản 1–6 Điều 1 có ngày riêng `2023-10-19` |
 | QA hành động dùng model LLM (`LITELLM_MODEL`). Câu kể hoặc câu bị động đi qua model. | Model có thể loại sai một quan hệ. Câu mở đầu bằng chính hành động và nêu rõ vị trí không qua model. | — |
 | Dịch vụ embedding cũ cắt đầu vào ở 256 token. Từ 26/10/2026, `-v4` có vector đủ độ dài. v2, v3 vẫn cắt 256 token. | Ở v2, v3, phần đuôi chunk dài không tìm được bằng vector. | — |
-| `signers` (447 văn bản), `legal_sectors` (4 văn bản) còn thiếu ở nguồn. | v3 chép nguyên. Chưa có lệnh điền. | — |
+| `signers` (447 văn bản), `legal_sectors` (4 văn bản) còn thiếu ở nguồn. Kho mới thu thập (10.1.10.23) thiếu thêm `tom_tat`, `signers` (47.807 văn bản), `issuance_date` (14.895), `issuing_authority` (13.274). | Từ 29/10/2026 công cụ đọc lại trường thiếu từ `full_content` (`metadata_fill`, docs/09). | — |
 
 Giới hạn thêm ngày 27/10/2026, của quy ước phụ lục (mục 7.4 bảng 3). Index `-v4` có giới hạn này từ 28/10/2026 (code `1117e63`).
 
@@ -213,7 +213,7 @@ Việc mới sau đợt 20.000 (28/10/2026). Mọi việc chờ người dùng q
 | Văn bản có toàn văn tiếng Anh (`39074`) | Đã làm 20/10/2026: công cụ bỏ qua (`skipped = tieng_anh`) |
 | Lỗi `n_table_rows` của `132723_pl0` | Chưa sửa |
 | Danh mục số thứ tự, bảng định mức, mục `1.2.2` làm node (C4) | Chưa làm theo quyết định. Từ code 27/10/2026, vị trí là phụ lục chứa dòng (Q13). |
-| Điền `signers`, `legal_sectors` còn thiếu bằng model, có dẫn chứng | Chưa có lệnh |
+| Điền `signers`, `legal_sectors` còn thiếu bằng model, có dẫn chứng | Có từ 29/10/2026 (`metadata_fill`): code trước, model sau |
 | Chuẩn hóa: số hiệu "không số" (846 văn bản) thành rỗng; gộp nhãn `legal_type` gần trùng (`Điều ước` / `Điều ước quốc tế`, `Văn bản WTO` / `WTO_Văn bản`) | Cần duyệt |
 | Giới hạn 256 token của embedding: tăng `max_length` (đặt `EMBEDDING_REUSE=no`) hoặc thêm chunk con | Đã làm: vector đủ độ dài qua API bge-m3 kiểu OpenAI (`57b9033`), đoạn tìm kiếm cho phụ lục (300 từ) và đề mục (150 từ) (`c394162`, `57b9033`). Có trong `-v4` từ 28/10/2026. `.env` dùng chung vẫn để API cũ; lượt chạy đặt biến trong `work/.embedding.env` (kiểm 28/10/2026). |
 | Báo bên đọc: ID chunk văn bản kèm theo đổi từ `_s<s>_` sang `_pl<i>_`; mỗi quan hệ chỉ còn một vị trí; chỉ dựng cạnh khi `resolution_status = validated`; từ code 27/10/2026 có vị trí `Phụ lục` không số; chunk `phu_luc_doan`, `muc_doan` là đoạn tìm kiếm, không là node | Cần báo |
