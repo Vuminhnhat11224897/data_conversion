@@ -27,6 +27,7 @@ class GuardCheck(unittest.TestCase):
         with patch('vbpl_v3.es.requests.request') as network:
             for call in (lambda: source.put('legal-docs', '1', {}), lambda: source.bulk('legal-docs-v3', [{'_id': '1', '_source': {}}]),
                          lambda: source.remove_group('legal-docs', 'doc_id', '1'), lambda: source.create_index('legal-docs-v3', {}),
+                         lambda: source.request('POST', '/legal-docs/_delete_by_query', {'query': {'match_all': {}}}),
                          lambda: source.request('DELETE', '/legal-docs')):
                 with self.assertRaises(WriteRefused):
                     call()
@@ -60,3 +61,24 @@ class GuardCheck(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
+
+
+class BulkRetryCheck(unittest.TestCase):
+    def test_batch_sent_again_after_dropped_connection(self):
+        # E1 (03/11/2026): the VPN drops packets; a lost batch is sent again instead of failing the document.
+        import requests
+        target = Cluster('http://target:9200', writable={'legal-chunk-section-v4'})
+        ok = unittest.mock.Mock(status_code=200, content=b'{}', json=lambda: {'errors': False, 'items': [{'index': {}}]})
+        ok.raise_for_status = lambda: None
+        with patch('vbpl_v3.es.BULK_RETRY_WAITS', (0, 0)), \
+                patch.object(target.session, 'request', side_effect=[requests.ConnectionError('reset'), requests.Timeout('slow'), ok]) as send:
+            target.bulk('legal-chunk-section-v4', [{'_id': 'a', '_source': {'doc_id': '1'}}])
+        self.assertEqual(send.call_count, 3)
+
+    def test_gives_up_after_the_last_wait(self):
+        import requests
+        target = Cluster('http://target:9200', writable={'legal-chunk-section-v4'})
+        with patch('vbpl_v3.es.BULK_RETRY_WAITS', (0,)), \
+                patch.object(target.session, 'request', side_effect=requests.ConnectionError('down')) as send, self.assertRaises(requests.ConnectionError):
+            target.bulk('legal-chunk-section-v4', [{'_id': 'a', '_source': {}}])
+        self.assertEqual(send.call_count, 2)

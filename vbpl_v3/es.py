@@ -18,6 +18,11 @@ TARGET_FIELDS = ['document_number', 'title', 'issuing_authority', 'issuance_date
 NUMBER_INDEX_AGE = 7 * 86400  # seconds: the local table of document numbers is rebuilt at least weekly
 
 
+# Waits before sending a bulk batch again after a dropped connection, a timeout or a busy cluster (seconds).
+BULK_RETRY_WAITS = (5, 15, 30, 60)
+RETRY_STATUS = {429, 502, 503, 504}
+
+
 class WriteRefused(RuntimeError):
     """A request would modify an index outside the allowed set."""
 
@@ -163,12 +168,28 @@ class Cluster:
         return self.request('PUT', f'/{index}/_doc/{quote(str(doc_id), safe="")}', source)
 
     def bulk(self, index, records):
+        def post(raw):
+            # A batch indexes by _id, so sending it again changes nothing that was already written. The VPN to the cluster drops
+            # 20-33% of packets; one lost batch used to leave a document with its first 300, 600 … chunks only (E1, 03/11/2026).
+            for wait in (*BULK_RETRY_WAITS, None):
+                try:
+                    return self.request('POST', '/_bulk', raw=raw)
+                except (requests.ConnectionError, requests.Timeout) as error:
+                    failure = error
+                except requests.HTTPError as error:
+                    if error.response.status_code not in RETRY_STATUS:
+                        raise
+                    failure = error
+                if wait is None:
+                    raise failure
+                time.sleep(wait)
+
         def send(batch):
             lines = []
             for record in batch:
                 lines += [json.dumps({'index': {'_index': index, '_id': record['_id']}}), json.dumps(record['_source'], ensure_ascii=False)]
             try:
-                result = self.request('POST', '/_bulk', raw='\n'.join(lines) + '\n')
+                result = post('\n'.join(lines) + '\n')
             except requests.HTTPError as error:
                 if error.response.status_code != 413 or len(batch) == 1:
                     raise
@@ -188,6 +209,16 @@ class Cluster:
             size += length
         if batch:
             send(batch)
+
+    def remove_stale(self, index, field, value, keep):
+        """Delete the records of one document (field = value) whose _id is not in keep: what a rewrite no longer produces. Run after
+        the new records are written, so a failure part way leaves the old records, never a document with part of its chunks."""
+        query = {'bool': {'filter': [{'term': {field: value}}], 'must_not': [{'ids': {'values': sorted(keep)}}] if keep else []}}
+        if not self.count(index, query):
+            return
+        result = self.request('POST', f'/{index}/_delete_by_query?refresh=true&conflicts=abort', {'query': query})
+        if result.get('version_conflicts'):
+            raise RuntimeError('Delete-by-query version conflict')
 
     def remove_group(self, index, field, value):
         result = self.request('POST', f'/{index}/_delete_by_query?refresh=true&conflicts=abort', {'query': {'term': {field: value}}})

@@ -652,16 +652,16 @@ def convert_document(doc_id, config, source, target, run_id, root, qa=True, dry_
         (root / 'dry-run').mkdir(exist_ok=True)
         (root / 'dry-run' / f'{doc_id}.json').write_text(json.dumps(preview, ensure_ascii=False, indent=1), encoding='utf-8')
     else:
-        if target.count(config.target['chunks'], {'term': {'doc_id': doc_id}}):
-            target.remove_group(config.target['chunks'], 'doc_id', doc_id)
+        # New records first (indexed by _id, over the old ones), the document next, the records a rewrite no longer has last:
+        # a write that fails part way keeps the document's old chunks and relations instead of losing them (E1, 03/11/2026).
         if chunks:
             target.bulk(config.target['chunks'], chunks)
         target.put(config.target['documents'], doc_id, document)
+        target.remove_stale(config.target['chunks'], 'doc_id', doc_id, {c['_id'] for c in chunks})
         if qa:
-            if target.count(config.target['changes'], {'term': {'source_id': int(doc_id)}}):
-                target.remove_group(config.target['changes'], 'source_id', int(doc_id))
             if relations:
                 target.bulk(config.target['changes'], relations)
+            target.remove_stale(config.target['changes'], 'source_id', int(doc_id), {r['_id'] for r in relations})
 
     ai = stats['structure_ai']
     return {'doc_id': doc_id, 'legal_type': src.get('legal_type'), 'n_dieu_source': src.get('n_dieu'), 'metadata_boc_lai': filled,

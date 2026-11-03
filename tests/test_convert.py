@@ -52,6 +52,9 @@ class Memory:
     def remove_group(self, index, field, value):
         self.indices[index] = {k: v for k, v in self.indices[index].items() if v.get(field) != value}
 
+    def remove_stale(self, index, field, value, keep):
+        self.indices[index] = {k: v for k, v in self.indices[index].items() if v.get(field) != value or k in keep}
+
     def bulk(self, index, records):
         self.indices.setdefault(index, {}).update({r['_id']: r['_source'] for r in records})
 
@@ -111,6 +114,20 @@ class ConvertCheck(unittest.TestCase):
         self.convert()
         self.assertEqual(len(self.target.indices['legal-chunk-section-v3']), len(chunks))
         self.assertEqual(len(self.target.indices['legal-changed-v3']), 1)
+
+    def test_failed_write_keeps_old_chunks(self):
+        # E1 (03/11/2026): a write that fails part way must not leave the document with part of its chunks.
+        old = {'900_d9': {'doc_id': '900', 'tieu_de': 'cũ', 'noi_dung': 'cũ'}, '900_d1': {'doc_id': '900', 'tieu_de': 'cũ', 'noi_dung': 'cũ'}}
+        self.target.indices['legal-chunk-section-v3'].update(old)
+        with patch.object(Memory, 'bulk', side_effect=RuntimeError('ES bulk failed')), self.assertRaises(RuntimeError):
+            self.convert()
+        self.assertEqual(self.target.indices['legal-chunk-section-v3'], old)
+        self.assertNotIn('900', self.target.indices['legal-docs-v3'])
+        # A write that succeeds replaces them and drops the one the new parse no longer has.
+        self.convert()
+        chunks = self.target.indices['legal-chunk-section-v3']
+        self.assertNotIn('900_d9', chunks)
+        self.assertNotEqual(chunks['900_d1']['noi_dung'], 'cũ')
 
     def test_target_vectors_reused_when_rewriting(self):
         # EMBEDDING_REUSE=target (rewriting -v4, 27/10/2026): an unchanged chunk keeps the target's own vector, not the source's.
