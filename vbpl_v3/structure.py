@@ -39,6 +39,7 @@ def refs(text):
 # language from text.language (E16).
 PAYWALL = re.compile(r'^(?:Bạn phải đăng nhập hoặc đăng ký Thành Viên TVPL Pro\b.*|Mọi chi tiết xin liên hệ:.*0906 22 99 66.*)$', re.I)
 ELIDED = re.compile(r'^(?:\.{3}|…)$')
+TABLED_ARTICLE = re.compile(r'^\|\s*(Điều\s+\d+[a-zđ]?\s*[.:][^|]*?)\s*\|(?:\s*\|)*\s*$')
 
 
 def paywalled(text):
@@ -52,6 +53,9 @@ def normalize(text):
     text = text.replace('\u200b', '').replace('\ufeff', '').replace('\xa0', ' ')
     text = re.sub(r'(?<=[A-ZĐ])-\s*\n\s*(?=[A-ZĐ])', '-', text)
     lines = [re.sub(r'[ \t]+', ' ', line).strip() for line in text.replace('\f', '\n').splitlines()]
+    # "| Điều 6. Cơ quan phối hợp | |": a PDF page read as a table put an article heading in a row whose other cells are empty; the
+    # heading is a line of its own (E6, 10100962). A row with text in another cell is a real table (a comparison of articles).
+    lines = [m[1].strip() if (m := TABLED_ARTICLE.match(line)) else line for line in lines]
     if any(PAYWALL.match(line) for line in lines):
         # The notice and the "..." lines that stand for hidden text are no content; a dotted blank of a form ("Số: ......") stays.
         lines = [line for line in lines if not PAYWALL.match(line) and not ELIDED.match(line)]

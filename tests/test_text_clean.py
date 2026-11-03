@@ -28,3 +28,14 @@ class PaywallCheck(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
+
+
+class TabledArticleCheck(unittest.TestCase):
+    def test_heading_in_empty_row_becomes_line(self):
+        # E6 (03/11/2026, 10100962): the article heading of a page read as a table.
+        text = 'Điều 5. Cơ quan đầu mối\n| Điều 6. Cơ quan phối hợp | |\n| 1. Sở Tư pháp; | cơ quan chuyên môn |'
+        self.assertEqual(normalize(text).splitlines()[1], 'Điều 6. Cơ quan phối hợp')
+
+    def test_real_table_row_kept(self):
+        row = '| Điều 5. Phạm vi | Sửa đổi khoản 2 |'
+        self.assertEqual(normalize(row), row)
