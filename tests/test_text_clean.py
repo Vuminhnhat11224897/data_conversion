@@ -39,3 +39,15 @@ class TabledArticleCheck(unittest.TestCase):
     def test_real_table_row_kept(self):
         row = '| Điều 5. Phạm vi | Sửa đổi khoản 2 |'
         self.assertEqual(normalize(row), row)
+
+
+class ClosingSentenceCheck(unittest.TestCase):
+    def test_adoption_sentence_kept_apart(self):
+        # E9 (03/11/2026): the closing sentence belongs to no article, and is kept as loi_ket.
+        from vbpl_v3.structure import parse
+        text = ('NGHỊ QUYẾT\n\nĐiều 1. Phạm vi\n\nNghị quyết này quy định mức chi.\n\nĐiều 2. Tổ chức thực hiện\n\nGiao Ủy ban nhân dân tỉnh thực hiện.\n\n'
+                'Nghị quyết này đã được Hội đồng nhân dân tỉnh khóa XI, kỳ họp thứ 3 thông qua ngày 17 tháng 6 năm 2026./.\n\n'
+                'Nơi nhận:\n- Như Điều 2;\n- Lưu: VT.\n\nCHỦ TỊCH\n\nNguyễn Văn A')
+        parsed, _ = parse(normalize(text))
+        self.assertEqual(parsed['loi_ket'], 'Nghị quyết này đã được Hội đồng nhân dân tỉnh khóa XI, kỳ họp thứ 3 thông qua ngày 17 tháng 6 năm 2026./.')
+        self.assertNotIn('thông qua', parsed['dieu_luat'][-1]['noi_dung'])

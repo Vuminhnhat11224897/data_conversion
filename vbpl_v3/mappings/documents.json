@@ -63,6 +63,10 @@
         "type": "text",
         "analyzer": "vi_std"
       },
+      "loi_ket": {
+        "type": "text",
+        "analyzer": "vi_std"
+      },
       "issuance_date": {
         "type": "date",
         "format": "yyyy-MM-dd"

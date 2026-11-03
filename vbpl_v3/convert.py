@@ -27,7 +27,7 @@ from .temporal import SUSPENSIONS, TEMPORAL_EFFECT, effective_date, finer_parts,
 
 META = ('document_number', 'title', 'legal_type', 'legal_sectors', 'issuing_authority', 'issuance_date', 'signers', 'tom_tat', 'action', 'url')
 COPIED = META + ('pdf_minio_path', 'pdf_vbpl_id', 'embedding')
-PARSED = ('can_cu', 'can_cu_refs', 'intro', 'noi_nhan', 'phu_luc', 'has_tail')
+PARSED = ('can_cu', 'can_cu_refs', 'intro', 'loi_ket', 'noi_nhan', 'phu_luc', 'has_tail')
 
 
 def within(path, places):

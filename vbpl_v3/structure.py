@@ -585,8 +585,14 @@ def parse(text, untitled=frozenset(), parts=None, positions=False):
         first_article = intro_end = min(first_article, section_start)
         intro = '\n'.join(main[basis_end:intro_end]).strip()
     head_end = next((i for i in range(first_article) if main[i].startswith('Căn cứ ')), first_article)
+    # The adopted text's closing sentence ("Nghị quyết này đã được Hội đồng nhân dân tỉnh … thông qua ngày …") belongs to no article,
+    # but it is the text's own record of its adoption: kept apart, as intro is for the opening (E9, 03/11/2026).
+    closing_text = ''
+    if closing is not None and not probe[closing].startswith('XÁC THỰC'):
+        stop = next((i for i in range(closing + 1, len(probe)) if not probe[i].strip() or TAIL.match(probe[i]) or probe[i].isupper()), len(probe))
+        closing_text = ' '.join(probe[closing:stop]).strip()
     result = {'phan_dau': '\n'.join(main[:head_end]).strip(), 'can_cu': basis, 'can_cu_refs': refs(' '.join(basis)), 'intro': intro,
-              'dieu_luat': articles, 'noi_nhan': places, 'phu_luc': appendices,
+              'loi_ket': closing_text, 'dieu_luat': articles, 'noi_nhan': places, 'phu_luc': appendices,
               'has_tail': any(TAIL.match(line) or './.' in line or SIGNED.search(line) for line in lines)}
     if not articles:
         # A letter's bases and quoted rules are part of its reasoning, not a removable preamble.
