@@ -34,6 +34,17 @@ def refs(text):
     return list(dict.fromkeys(re.sub(r'\s+','',m.group()) for m in NUMBER.finditer(text)))
 
 
+# The site's notice in a page shown to visitors without an account (E5, 03/11/2026): the text is cut, "..." stands for the hidden
+# parts. 18.576 source documents carry it, most of them standards; in an English translation its Vietnamese letters also hid the
+# language from text.language (E16).
+PAYWALL = re.compile(r'^(?:Bạn phải đăng nhập hoặc đăng ký Thành Viên TVPL Pro\b.*|Mọi chi tiết xin liên hệ:.*0906 22 99 66.*)$', re.I)
+ELIDED = re.compile(r'^(?:\.{3}|…)$')
+
+
+def paywalled(text):
+    return any(PAYWALL.match(line.strip()) for line in (text or '').splitlines())
+
+
 def normalize(text):
     # PDF extraction can emit NULs; PostgreSQL text/JSONB cannot store them.
     text = text.replace('\x00', '')
@@ -41,6 +52,9 @@ def normalize(text):
     text = text.replace('\u200b', '').replace('\ufeff', '').replace('\xa0', ' ')
     text = re.sub(r'(?<=[A-ZĐ])-\s*\n\s*(?=[A-ZĐ])', '-', text)
     lines = [re.sub(r'[ \t]+', ' ', line).strip() for line in text.replace('\f', '\n').splitlines()]
+    if any(PAYWALL.match(line) for line in lines):
+        # The notice and the "..." lines that stand for hidden text are no content; a dotted blank of a form ("Số: ......") stays.
+        lines = [line for line in lines if not PAYWALL.match(line) and not ELIDED.match(line)]
     return re.sub(r'\n{3,}', '\n\n', '\n'.join(lines)).strip()
 
 

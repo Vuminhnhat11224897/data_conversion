@@ -21,7 +21,7 @@ from .resolver import appendix_scope, object_kind, resolve_row
 from .metadata_fill import LLM_FIELDS, by_code, by_model
 from .text import join_split, language, number_key
 from .validate import check_positions, only_in_history, own_quotes, validate
-from .structure import APPENDIX, NUMBER, appendix_label, build_chunks, normalize, parse
+from .structure import APPENDIX, NUMBER, appendix_label, build_chunks, normalize, parse, paywalled
 from .structure_ai import refine
 from .temporal import SUSPENSIONS, TEMPORAL_EFFECT, effective_date, finer_parts, in_format, normalize_scope, positions
 
@@ -479,10 +479,13 @@ def convert_document(doc_id, config, source, target, run_id, root, qa=True, dry_
     if not text.strip():
         raise ValueError('Văn bản nguồn không có full_content')
     full = normalize(text)
+    if not full:
+        raise ValueError('Văn bản nguồn chỉ có thông báo của trang, không có nội dung')
     # An English translation stored as the full text ("Article 1.-", 39074): no Vietnamese structure or relation can be read from it.
     # Skipped before any model call, like a document before START_YEAR (20/10/2026).
     if language(full) == 'en':
-        return {'doc_id': doc_id, 'skipped': 'tieng_anh', 'ngon_ngu': 'en', 'dry_run': dry_run, 'seconds': round(time.time() - started, 2)}
+        return {'doc_id': doc_id, 'skipped': 'tieng_anh', 'ngon_ngu': 'en', 'noi_dung_bi_cat': paywalled(text), 'dry_run': dry_run,
+                'seconds': round(time.time() - started, 2)}
     # Catalogue fields the source left empty are read from the text: by code now, by the model once the document is in scope.
     src = {**src, **by_code(src, full)}
     filled = [k for k in META if not hit['_source'].get(k) and src.get(k)]
@@ -669,7 +672,7 @@ def convert_document(doc_id, config, source, target, run_id, root, qa=True, dry_
             'chunks': len(chunks), 'vectors_reused': len(chunks) - len(fresh), 'vectors_new': len(fresh),
             'empty_dieu': sum(1 for c in chunks if c['_source']['chunk_type'] == 'dieu' and not c['_source']['noi_dung'].strip()),
             'routed': ai['routed_articles'], 'untitled': len(ai['untitled_lines']), 'layout': ai['layout'], 'ai_warnings': ai['warnings'],
-            'ngon_ngu': language(src.get('full_content') or ''),
+            'ngon_ngu': language(full), 'noi_dung_bi_cat': paywalled(text),
             'ngay_hieu_luc': document['ngay_hieu_luc'], 'ngay_hieu_luc_cach': document['ngay_hieu_luc_cach'],
             'la_vbqppl': is_normative, 'la_vbqppl_cach': normative_how, 'cap_hieu_luc': rank_number,
             'cap_hieu_luc_ghi_chu': rank_note, 'ngay_het_hieu_luc': document['ngay_het_hieu_luc'], 'hoi_to': document['hoi_to'],
