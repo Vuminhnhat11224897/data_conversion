@@ -129,6 +129,23 @@ class ConvertCheck(unittest.TestCase):
         self.assertNotIn('900_d9', chunks)
         self.assertNotEqual(chunks['900_d1']['noi_dung'], 'cũ')
 
+    def test_copy_of_target_document_skipped(self):
+        # E10 (03/11/2026): the crawler copy of a document the target holds is not converted again.
+        copy = {'document_number': SOURCE_DOC['document_number'], 'issuance_date': SOURCE_DOC['issuance_date'],
+                'issuing_authority': SOURCE_DOC['issuing_authority'], 'full_content': 'Văn bản khác hẳn, chỉ trùng số hiệu.'}
+        # Same number, date and issuer but another text (a standard cut by the site, two decisions under one number): both stay.
+        self.target.indices['legal-docs-v3']['10100129'] = dict(copy)
+        self.assertNotIn('skipped', self.convert())
+        del self.target.indices['legal-docs-v3']['900']
+        self.target.indices['legal-docs-v3']['10100129'] = dict(copy, full_content=unicodedata.normalize('NFC', TEXT))
+        record = self.convert()
+        self.assertEqual((record['skipped'], record['trung_voi']), ('trung_lap', '10100129'))
+        self.assertNotIn('900', self.target.indices['legal-docs-v3'])
+        # The document itself (same id) is no copy: a rewrite goes on.
+        del self.target.indices['legal-docs-v3']['10100129']
+        self.target.indices['legal-docs-v3']['900'] = dict(self.target.indices['legal-docs-v3'].get('900') or {}, **{'document_number': SOURCE_DOC['document_number']})
+        self.assertNotIn('skipped', self.convert())
+
     def test_target_vectors_reused_when_rewriting(self):
         # EMBEDDING_REUSE=target (rewriting -v4, 27/10/2026): an unchanged chunk keeps the target's own vector, not the source's.
         kept = [0.7] * 1024

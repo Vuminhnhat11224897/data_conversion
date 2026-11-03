@@ -2,12 +2,14 @@
 
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime, timezone
+import difflib
 import hashlib
 import json
 import re
 from pathlib import Path
 import threading
 import time
+import unicodedata
 
 import requests
 
@@ -237,6 +239,32 @@ LOOKALIKE = str.maketrans('АВЕКМНОРСТХаеорсух', 'ABEKMHOPCTXae
 
 def clean_number(value):
     return ' '.join(value.translate(LOOKALIKE).split()) if value else value
+
+
+def same_text(a, b, words=3000, alike=0.9):
+    """Two full texts of one document: their first words agree at least `alike` (layout, spacing and case aside)."""
+    a, b = (re.findall(r'\w+', unicodedata.normalize('NFC', t or '').casefold())[:words] for t in (a, b))
+    return bool(a and b) and difflib.SequenceMatcher(None, a, b, autojunk=False).ratio() >= alike
+
+
+def duplicate_of(target, index, doc_id, src, full):
+    """Another document of the target that is this one (E10, 03/11/2026): the source holds a crawler copy (vbpl.vn, id 101…) beside the
+    older copy of the same document. Same number, issuance date and issuer, or the same full text. A number without a digit
+    ("Khongso") tells nothing. Returns the other id, or None."""
+    issued, number = src.get('issuance_date'), number_key(clean_number(src.get('document_number') or ''))
+    authority = ' '.join((src.get('issuing_authority') or '').casefold().split())
+    if issued and re.search(r'\d', number) and authority:
+        for hit in target.scan(index, {'term': {'issuance_date': issued}}, ['document_number', 'issuing_authority']):
+            other = hit.get('_source') or {}
+            if hit['_id'] != doc_id and number_key(clean_number(other.get('document_number') or '')) == number \
+                    and ' '.join((other.get('issuing_authority') or '').casefold().split()) == authority:
+                # The same catalogue data is not enough: a standard cut by the site's notice and its full copy, or two decisions
+                # the source filed under one number, differ in text (03/11/2026: 5-20% alike). The text must agree too.
+                text = ((target.get(index, hit['_id']) or {}).get('_source') or {}).get('full_content') or ''
+                if same_text(full, text):
+                    return hit['_id']
+    sha = hashlib.sha256(join_split(full).encode('utf-8')).hexdigest()
+    return next((hit['_id'] for hit in target.scan(index, {'term': {'content_sha256': sha}}, False) if hit['_id'] != doc_id), None)
 
 
 def distinct_edges(relations):
@@ -505,6 +533,12 @@ def convert_document(doc_id, config, source, target, run_id, root, qa=True, dry_
     issued, is_normative, normative_how, effect, out = scope()
     if out:
         return skipped(issued, effect)
+    # A copy of a document the target already holds is not converted again (E10); checked before any model call. Not in a dry run,
+    # whose target is not read: a scored set keeps every document.
+    if not dry_run:
+        twin = duplicate_of(target, config.target['documents'], doc_id, src, full)
+        if twin:
+            return {'doc_id': doc_id, 'skipped': 'trung_lap', 'trung_voi': twin, 'dry_run': dry_run, 'seconds': round(time.time() - started, 2)}
     # A field still empty that the target document already holds (the model's answer of an earlier run) is kept; the model is asked
     # only for the rest. Not in a dry run: its target is not read.
     kept = {}
