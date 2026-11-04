@@ -68,6 +68,8 @@ Lệnh cho việc khác:
 | Chạy theo khoảng ngày ban hành | `convert --run nam-2020 --all --from-date 2020-01-01 --to-date 2020-12-31` | Có |
 | Chạy toàn kho | `convert --run toan-kho --all` | Có |
 | Thêm trường mới cho văn bản đã chuyển | `init`, rồi `convert --run <lượt cũ> --redo --limit 100` | Có |
+| Nối lại văn bản đích cho quan hệ chưa nối | `relink --out <file.jsonl>` (chỉ đọc, in số đếm), rồi `relink --write` | Chỉ với `--write`: cập nhật trường nối đích của quan hệ |
+| Liệt kê văn bản ghi dở | `integrity --out <file>` | Không |
 
 ### Ghi thử vào v4 trước khi ghi lại v3
 
@@ -258,15 +260,17 @@ flowchart TD
 | 12 | Tính thời gian. Kiểm vị trí sau gộp. Chuẩn hóa vị trí. Tách mỗi vị trí thành một quan hệ. Bỏ cạnh lặp. Đặt `evidence` nguyên văn. Đánh số lại `_id`. Tính `cap_quan_he` và trạng thái cạnh (mục 2.5.6). | `convert.py`, `validate.py`, `temporal.py` | — | Quan hệ hoàn chỉnh |
 | 13 | Ghi ES đích theo thứ tự ở dưới. | `es.py` | ES đích | 3 index đích |
 
-Thứ tự ghi ở bước 13:
+Thứ tự ghi ở bước 13 (`convert.write_document`):
 
-1. Xóa chunk cũ có `doc_id = <id>`.
-2. Ghi chunk mới (bulk).
-3. Ghi bản ghi văn bản (`PUT`, ghi đè).
-4. Trừ khi có `--no-qa`: xóa quan hệ cũ có `source_id = <id>`.
-5. Trừ khi có `--no-qa`: ghi quan hệ mới (bulk).
+1. Ghi chunk mới (bulk). Chunk ghi đè chunk cùng `_id`. Công cụ không xóa gì trước khi ghi.
+2. Trừ khi có `--no-qa`: ghi quan hệ mới (bulk), ghi đè theo `_id`.
+3. Ghi bản ghi văn bản (`PUT`, ghi đè). Bản ghi mang `ingest_job_id` của lượt. Bản ghi này là dấu "đã ghi xong" của chunk và quan hệ.
+4. Xóa chunk có `doc_id = <id>` mà bản mới không còn. Trừ khi có `--no-qa`: xóa quan hệ có `source_id = <id>` mà bản mới không còn.
+5. Đọc lại (`_mget`, không cần refresh). Mọi chunk và quan hệ mới phải có mặt và mang `ingest_job_id` của lượt. Không còn bản ghi cũ nào của văn bản. Sai thì văn bản lỗi (`WriteIncomplete`).
 
-Lỗi giữa chừng thì văn bản không vào `documents.jsonl`. Chạy lại cùng lượt thì công cụ ghi lại văn bản đó từ đầu.
+Bulk gửi lô tối đa 300 bản ghi và khoảng `ES_BULK_BYTES` byte (mặc định 4 MB). Công cụ gửi lại lô khi đứt kết nối, hết giờ chờ, hoặc ES trả 429, 502, 503, 504. Công cụ chờ 5, 15, 30, 60 giây, cộng thêm tới 30% ngẫu nhiên. Mục bị từ chối 429 hoặc 503 trong một lô được gửi lại riêng. Mục bị từ chối vì lý do khác làm văn bản lỗi. Ghi theo `_id` nên gửi lại không tạo bản ghi trùng.
+
+Lỗi giữa chừng thì văn bản không vào `documents.jsonl`. Chunk và quan hệ cũ chưa bị xóa, nên không mất đơn vị nào. Chunk hoặc quan hệ của lượt khác bản ghi văn bản cho biết lượt ghi dừng giữa chừng (lệnh `integrity`, mục 2.7). Chạy lại cùng lượt thì công cụ ghi lại văn bản đó từ đầu. `auto` tự chạy lại văn bản ghi dở ở mỗi lần quét nguồn.
 
 ## 2.5. Luồng con
 
@@ -337,15 +341,25 @@ Công cụ tra số hiệu trong một bảng cục bộ (`es.Cluster.use_number
 
 Công cụ áp các bộ lọc theo thứ tự:
 
-1. Số hiệu khớp chính xác (bỏ khoảng trắng, không phân biệt hoa thường, bỏ số 0 đầu). Không có thì công cụ thử dạng bỏ năm: `1941/2008/QĐ-UBND` thành `1941/QĐ-UBND` ban hành năm 2008.
+1. Số hiệu khớp chính xác (bỏ khoảng trắng, không phân biệt hoa thường, bỏ số 0 đầu). Không có thì công cụ thử dạng bỏ năm: `1941/2008/QĐ-UBND` thành `1941/QĐ-UBND` ban hành năm 2008. Công cụ tra số hiệu dạng `<số>/…` và dạng có gạch ngang trước loại văn bản (`338-QĐ/TW`, `36-CP`, `19-BYT/TT`, `relations.is_number`). Luật nêu bằng tên nối ở bước 10.
 2. Đích có `_id` là số, khác văn bản nguồn, ngày ban hành không sau ngày ban hành nguồn.
-3. Câu trích dẫn có ngày: chỉ giữ đích cùng ngày. Không có đích cùng ngày và số hiệu có năm: chấp nhận một đích duy nhất cùng năm. Công cụ ghi `target_match_note = lech_ngay_trich_dan`.
+3. Câu trích dẫn có ngày ngay sau số hiệu (kể cả số hiệu có gạch ngang, "12 -HD/BTCTW, ngày 06/7/2018"): chỉ giữ đích cùng ngày. Không có đích cùng ngày và số hiệu có năm: chấp nhận một đích duy nhất cùng năm. Công cụ ghi `target_match_note = lech_ngay_trich_dan`. Dạng bỏ năm của bộ lọc 1 không được chấp nhận theo năm: phải cùng ngày (`28/2014/QĐ-TTg` ngày 07/4/2014 không nối `28/QĐ-TTg` ngày 06/01/2014).
 4. Câu trích dẫn nêu cơ quan: chỉ giữ đích cùng cơ quan.
 5. Số hiệu địa phương (`UBND`, `HĐND`, `UB`) không nêu cơ quan: chỉ giữ đích cùng cơ quan với văn bản nguồn. Công cụ không nối sang tỉnh khác.
 6. Còn nhiều đích: giữ đích cùng cơ quan với nguồn. Không có thì bỏ hết.
-7. Còn nhiều đích: giữ đích có ngày ban hành gần nhất.
+7. Còn nhiều đích, số hiệu có gạch ngang, câu không có ngày: bỏ hết. Văn bản Đảng dùng lại số hiệu qua nhiều khóa.
+8. Còn nhiều đích: giữ đích có ngày ban hành gần nhất.
 
 Còn đúng một đích thì `target_matched_id` là `_id` của đích đó. Còn lại thì `target_matched_id = null`.
+
+Nguồn tra cứu là `legal-docs` trên `SOURCE_ES_URL` (chốt 04/11/2026: `http://10.1.10.23:9200`). Trước mỗi lượt và mỗi lần `auto` quét nguồn, công cụ kiểm nguồn (`vbpl_v3/source_guard.py`):
+
+- Mỗi số hiệu trong `SOURCE_CANARIES` phải trả về đúng ID đã ghi. Mặc định: `08/2015/NĐ-CP=263815;156/2018/NĐ-CP=379366;98/2020/TT-BTC=461197`. Ba văn bản này có trên `10.1.10.23` và không có trên `10.1.10.10` (518.261 văn bản, đo 04/11/2026).
+- Số văn bản nguồn không ít hơn `SOURCE_MIN_DOCUMENTS` và không ít hơn 99% số của lần kiểm trước trên cùng cụm và cùng index.
+
+Sai một điều thì lượt dừng trước khi chuyển văn bản nào (`SourceCheckFailed`). Kết quả kiểm ở `work/source-check.json` và `work/<run>/source.json`. `SOURCE_CANARIES=off` tắt phần tra số hiệu.
+
+Quan hệ chưa nối được (`target_matched_id` thiếu) được nối lại bằng lệnh `relink`. Lệnh dùng các trường đã lưu và các bộ lọc trên. Lệnh không gọi model và không đọc lại văn bản nguồn. Lệnh cập nhật `target_matched_id`, `target_candidates_count` và, khi đổi, `target_issuance_date`, `target_issuing_authority`, `target_match_note`. Mỗi cập nhật mang `_seq_no` của quan hệ lúc đọc: quan hệ đã được ghi lại từ lúc đó thì từ chối cập nhật (409), công cụ chỉ đếm. `auto` chạy `relink` sau mỗi lần quét nguồn (`AUTO_RELINK=1`).
 
 ### 2.5.4. QA quan hệ (nhánh quy tắc)
 
@@ -595,6 +609,7 @@ Một lượt giữ danh sách văn bản ở `work/<run>/ids.json`. Công cụ 
 | Code thêm trường mới | Chạy `init`. Chạy `convert --run <lượt cũ> --redo --limit 100` để thử. Kiểm kết quả. Chạy lại không có `--limit`. |
 | Code đổi, cần ghi lại cả lượt | Chạy `convert --run <lượt cũ> --redo`. Công cụ dùng câu trả lời model đã lưu. Chỉ đơn vị có đầu vào mới gọi model. Cách khác, dùng cho `-v4` ngày 28/10/2026: tạo lượt mới, chép cache của lượt cũ, đặt `EMBEDDING_REUSE=target` (lượt `v4-2710`, mục 2.1.2). |
 | Đo thay đổi code, không gọi model | Chạy lại chặt (dưới đây). |
+| Văn bản ghi dở: chunk hoặc quan hệ khác lượt với bản ghi văn bản, chunk không có văn bản, văn bản không có chunk | `integrity --out ids.txt`, rồi `convert --run <lượt mới> --ids ids.txt`. `auto` tự làm việc này ở mỗi lần quét nguồn. |
 | Cần quay lại hoàn toàn | Xóa tay 3 index đích. Chạy `init`. |
 
 - `--redo` chạy lại cả danh sách `ids.json`. Không dùng `--redo` để chạy lại văn bản lỗi.
@@ -615,6 +630,20 @@ Một lượt giữ danh sách văn bản ở `work/<run>/ids.json`. Công cụ 
 - Sửa prompt hoặc mô tả trường JSON làm mọi câu trả lời đã lưu hết hiệu lực: khóa cache gồm mã băm của prompt. Khi đó phải hỏi lại model.
 
 ## 2.7. Kiểm tra sau mỗi đợt
+
+### `integrity`
+
+`integrity` đọc 3 index đích và liệt kê văn bản ghi chưa xong (`vbpl_v3/integrity.py`). Văn bản ghi xong khi mọi chunk và quan hệ của nó mang cùng `ingest_job_id` với bản ghi văn bản.
+
+| Loại | Nghĩa | Cách sửa |
+| --- | --- | --- |
+| `chunk_khac_luot`, `quan_he_khac_luot` | Chunk hoặc quan hệ của lượt khác bản ghi văn bản: lượt ghi dừng trước hoặc sau bản ghi | Chạy lại văn bản |
+| `chunk_khong_van_ban`, `quan_he_khong_van_ban` | Có chunk hoặc quan hệ, không có bản ghi văn bản | Chạy lại văn bản |
+| `van_ban_khong_chunk` | Có bản ghi văn bản, không có chunk | Chạy lại văn bản |
+
+- Một lượt đang ghi cũng có các dấu này trong vài giây. Chạy `integrity` khi không có lượt nào ghi.
+- Văn bản chạy với `--no-qa` giữ quan hệ của lượt cũ, nên có trong `quan_he_khac_luot`.
+- Lệnh mất khoảng 5 phút qua VPN trên 236.506 văn bản (đo 04/11/2026). `eval/kiem_ghi_v4.py` chạy cùng phép kiểm.
 
 ### `report`
 

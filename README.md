@@ -90,6 +90,8 @@ export EMBEDDING_REUSE=target LLM_CONCURRENCY_DAY=2 LLM_CONCURRENCY_NIGHT=8
 ```
 
 - Trước lần chạy lại văn bản lỗi, đổi tên `failures.jsonl` thành `failures-1.jsonl`. Không dùng `--redo`.
+- Văn bản ghi dở: `.venv/bin/python -m vbpl_v3 integrity --out work/ghi-do.txt`, rồi `convert --run <lượt mới> --ids work/ghi-do.txt`.
+- Quan hệ chưa nối văn bản đích: `.venv/bin/python -m vbpl_v3 relink --out work/relink.jsonl` (chỉ đọc), rồi `relink --write`. Không gọi model.
 - Lượt ghi lại chép trước `cache/`, `extract/`, `qa/` của lượt cũ (`bernmark/cache/v4-2210`) vào thư mục lượt mới.
 - Chạy đợt lớn sau 22h. Server LLM nhận 10 lời gọi cùng lúc ban đêm, 3 ban ngày (`.env.example`). Đêm 27/10/2026, người dùng cho mở 20.
 - Chạy một lượt một lúc. ES đích, ES nguồn và máy embedding đều đi qua VPN `tun0` (khoảng 2,5 MB/s, đo 27/10/2026).
@@ -98,8 +100,11 @@ export EMBEDDING_REUSE=target LLM_CONCURRENCY_DAY=2 LLM_CONCURRENCY_NIGHT=8
 
 Lệnh `auto` chạy mãi: chuyển văn bản nguồn chưa có ở đích, từng lô nhỏ. Chi tiết trong docstring `vbpl_v3/auto.py`.
 
-- Mỗi `AUTO_RESCAN_HOURS` giờ (24) quét toàn bộ nguồn, lập hàng đợi = nguồn − đích − văn bản đã loại. Văn bản mới từ lần quét trước đứng đầu, rồi theo `issuance_date` mới → cũ.
-- Trước mỗi lô tra lại đích theo `_id`: văn bản đã có ở đích không bao giờ chạy lại.
+- Mỗi `AUTO_RESCAN_HOURS` giờ (24) quét toàn bộ nguồn, lập hàng đợi = nguồn − đích − văn bản đã loại, cộng văn bản ghi dở ở đích.
+- Thứ tự hàng đợi: văn bản ghi dở (`work/auto/repair.json`), văn bản mới từ lần quét trước, rồi theo `issuance_date` mới → cũ.
+- Mỗi lần quét: kiểm nguồn trước (`SOURCE_CANARIES`; sai thì auto dừng chuyển và thử lại sau 1–30 phút), rồi quét toàn vẹn 3 index đích (khoảng 5 phút), rồi nối lại văn bản đích cho quan hệ chưa nối (`AUTO_RELINK`, `work/auto/relink.json`).
+- Văn bản ghi dở: chunk hoặc quan hệ khác lượt với bản ghi văn bản, hoặc văn bản không có chunk ([docs/02, mục 2.7](docs/02-luong-hoat-dong.md#27-kiểm-tra-sau-mỗi-đợt)). `scan.json` có số đếm từng loại (`integrity`) và `orphans_excluded`: chunk mồ côi của văn bản đã bị loại, cần người xem.
+- Trước mỗi lô tra lại đích theo `_id`: văn bản đã có ở đích không chạy lại, trừ văn bản ghi dở.
 - Số luồng = số lời gọi LLM cùng lúc: `LLM_CONCURRENCY_DAY=1` (6h–22h), `LLM_CONCURRENCY_NIGHT=12` (22h–6h). Lô = 25 văn bản mỗi luồng.
 - Văn bản bị bỏ qua (`skipped`) thì loại hẳn; văn bản lỗi xuống cuối hàng đợi, lỗi 3 lần thì loại. Danh sách loại: `work/auto/excluded.json`.
 - Trạng thái và nhật ký từng lô: `work/auto/` (`queue.json`, `history.jsonl`). Mỗi lô là một lượt `work/auto-<giờ>/`.

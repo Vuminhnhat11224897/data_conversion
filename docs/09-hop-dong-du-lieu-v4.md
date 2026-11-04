@@ -46,7 +46,13 @@ Tài liệu này là hợp đồng dữ liệu của 3 index v4 trên ES đích 
 | Vector văn bản | Văn bản ghi bằng `1117e63` có vector chép từ `legal-docs` nguồn (mục 9.8.2). 7 văn bản trên có vector của `title`, tạo lại ngày 26/10/2026. | Không ảnh hưởng nối. |
 | `thay-cum-tu` thiếu `cum_tu` | 205/11.042 quan hệ `thay-cum-tu`. | Sai bất biến 18. |
 
-Khi ghi lại, công cụ xóa chunk và quan hệ cũ trước, rồi ghi bản mới (mục 9.2). Văn bản lỗi giữa chừng có thể mất chunk như 682498, 685655. Chạy lại văn bản đó để sửa.
+Code từ 04/11/2026 ghi bản mới trước, ghi bản ghi văn bản, rồi mới xóa bản ghi cũ không còn dùng (mục 9.2). Lượt ghi lỗi giữa chừng không làm mất chunk. Dữ liệu ghi trước đó còn văn bản ghi dở. Đo 04/11/2026 bằng `python -m vbpl_v3 integrity`:
+
+- 5 văn bản có chunk của lượt mới hơn bản ghi văn bản, bị cắt ở bội của 300: 679994, 686325, 694929, 694935, 696357.
+- 2 văn bản không có chunk: 682498, 685655.
+- 27 `doc_id` có chunk mà không có bản ghi văn bản (lượt `auto` 31/10–03/11/2026, phần lớn đúng 300 hoặc 600 chunk).
+
+`auto` chạy lại các văn bản này ở lần quét nguồn đầu tiên sau khi triển khai code 04/11/2026. 711458 (300 chunk) và 695845 (1.800 chunk) đủ chunk; số chunk trùng bội 300 là ngẫu nhiên.
 
 ## 9.2. Luồng tạo dữ liệu
 
@@ -98,8 +104,10 @@ Quan hệ đi qua các bước sau, theo thứ tự. Chi tiết ở [02, mục 2
 
 Bước 14 chỉ chạy ở chế độ `llm`.
 
-- Công cụ ghi theo thứ tự: chunk, văn bản, quan hệ.
-- Khi ghi lại một văn bản, công cụ xóa chunk và quan hệ cũ của văn bản đó. Chunk khớp theo `doc_id`. Quan hệ khớp theo `source_id`. Sau đó công cụ ghi bản ghi mới.
+- Công cụ ghi theo thứ tự: chunk, quan hệ, văn bản (`convert.write_document`). Bản ghi văn bản ghi sau cùng và là dấu đã ghi xong.
+- Chunk và quan hệ ghi đè theo `_id`. Công cụ không xóa gì trước khi ghi. Sau khi ghi bản ghi văn bản, công cụ xóa chunk có `doc_id` và quan hệ có `source_id` của văn bản mà bản mới không còn.
+- Công cụ đọc lại sau khi ghi: mọi bản ghi mới có mặt và mang `ingest_job_id` của lượt; không còn bản ghi cũ. Sai thì văn bản lỗi và không vào nhật ký lượt.
+- Văn bản ghi xong khi mọi chunk và quan hệ của nó mang cùng `ingest_job_id` với bản ghi văn bản (bất biến 1a, mục 9.12).
 - Văn bản hợp nhất không qua nhánh LLM. Quan hệ duy nhất của văn bản hợp nhất là `hop-nhat`.
 
 ## 9.3. Phạm vi và quy ước
@@ -136,7 +144,7 @@ Quy tắc chung:
 | chunk `phu_luc_uid` | node phụ lục | Mọi chunk của phần thứ `i` có `phu_luc_uid = <doc>_pl<i>`: chunk `phu_luc`, `phu_luc_doan`, chunk Điều trong phụ lục. | 28/10/2026: 701.376 chunk có trường này, bằng số chunk có `in_phu_luc`. | `674935_pl0_doan2` → `674935_pl0` |
 | chunk `muc_uid` | node đề mục | Chunk `muc` và `muc_doan` của một đề mục có `muc_uid` bằng `_id` của chunk `muc`. | 28/10/2026: 20.717 `muc`, 101.033 `muc_doan` có trường này. | `674626_mI_doan2` → `674626_mI` |
 | quan hệ `source_id` | văn bản `_id` | Văn bản nguồn luôn có trong `legal-docs-v4`. `source_id` là số nguyên. `_id` là chuỗi. | 28/10/2026: 13.627 văn bản nguồn | `694952_4` → `694952` |
-| quan hệ `target_matched_id` | `legal-docs._id` nguồn | Văn bản đích có trong v4 chỉ khi văn bản đó nằm trong 30.988 văn bản của mục 9.1. | 28/10/2026: 64.277 quan hệ có đích, 19.318 đích khác nhau. 9.164 quan hệ có đích trong v4 (2.956 đích). | `694952_4` → `legal-docs/643741` |
+| quan hệ `target_matched_id` | `legal-docs._id` nguồn | Nguồn là `legal-docs` trên `SOURCE_ES_URL`, chốt 04/11/2026: `10.1.10.23` (569.828 văn bản; chứa mọi `_id` của `legal-docs` trên `10.1.10.10`, cùng số hiệu). Công cụ kiểm nguồn trước mỗi lượt ([02, mục 2.5.3](02-luong-hoat-dong.md#253-khớp-văn-bản-đích)). Trường có thể được điền sau khi quan hệ đã ghi: lệnh `relink` nối lại quan hệ chưa nối khi nguồn có thêm văn bản; `ingest_job_id`, `ingested_at` không đổi. Văn bản đích có trong v4 chỉ khi văn bản đó nằm trong 30.988 văn bản của mục 9.1. | 28/10/2026: 64.277 quan hệ có đích, 19.318 đích khác nhau. 9.164 quan hệ có đích trong v4 (2.956 đích). | `694952_4` → `legal-docs/643741` |
 | chunk `dan_chieu[].target_id` | `legal-docs._id` nguồn | Như `target_matched_id`. `null` khi công cụ chưa nối được. | 21/10/2026: 1.395/6.469 dẫn chiếu `ngoai`, `van_ban_bi_sua` có `null` | `697023_d22_k3` → `legal-docs/657421` |
 
 ## 9.5. Vị trí
@@ -851,7 +859,7 @@ Quy tắc:
 | Trường | Kiểu | Có | Quy tắc | Đo |
 | --- | --- | --- | --- | --- |
 | `target_doc` | keyword | Luôn | Số hiệu đích như câu nguồn in, bỏ khoảng trắng: `70/2025/UBTVQH15`, `36-CP` (`900000015_0`). Luật nêu bằng tên không có số hiệu: tên luật, ví dụ `Luật Thi đua, khen thưởng`. | 28/10: 5.295 quan hệ có tên luật hoặc bộ luật |
-| `target_matched_id` | integer \| `null` | Luôn | `_id` đích ở `legal-docs` nguồn. `null` khi công cụ chưa nối được. Khác `null` thì: khác `source_id`; ngày ban hành đích không sau `source_issuance_date`. | 28/10: `null` 11.229 (14,9%) |
+| `target_matched_id` | integer \| `null` | Luôn | `_id` đích ở `legal-docs` nguồn. `null` khi công cụ chưa nối được; `relink` có thể điền sau (mục 9.4). Khác `null` thì: khác `source_id`; ngày ban hành đích không sau `source_issuance_date`. | 28/10: `null` 11.229 (14,9%) |
 | `target_candidates_count` | integer | Luôn | Số văn bản có cùng số hiệu, gồm dạng bỏ năm. Từ 1 khi `target_matched_id` khác `null`. | — |
 | `target_issuance_date` | date | Có khi câu trích có ngày | Ngày ban hành đích theo câu trích. Đích đã nối thì bằng `issuance_date` của đích, trừ khi có `target_match_note`. | 28/10: 58.564 |
 | `target_issuing_authority` | keyword | Có khi câu trích nêu cơ quan | Cơ quan ban hành đích theo câu trích. | 28/10: 9.924 |
@@ -1031,6 +1039,7 @@ Cột "Kết quả 28/10" là kết quả đếm bằng truy vấn ES (chỉ đ�
 | # | Bất biến | Kết quả 28/10 |
 | --- | --- | --- |
 | 1 | Mọi chunk có `doc_id` trong `legal-docs-v4`. Mọi văn bản có ít nhất một chunk. | Không đạt: `doc_id` 672275 (1.500 chunk) không có văn bản. 682498, 685655 không có chunk (mục 9.1). |
+| 1a | Mọi chunk và quan hệ của một văn bản mang `ingest_job_id` của bản ghi văn bản. Ngoại lệ: văn bản chạy `--no-qa` giữ quan hệ của lượt cũ. Lệnh `python -m vbpl_v3 integrity`. | Không đạt 04/11/2026: 5 văn bản chunk khác lượt, 2 văn bản không chunk, 27 `doc_id` chunk không có văn bản (mục 9.1). |
 | 2 | `tieu_de + noi_dung` của chunk khác rỗng. | Chưa đo |
 | 3 | `_id` chunk bắt đầu bằng `dieu_uid`. `in_phu_luc` ⇔ `_id` có `_pl<i>`. `segment > 0` ⇔ `_id` có `_s<s>`. | Chưa đo |
 | 3a | `phu_luc_uid` và `loai_phan` có ⇔ `in_phu_luc`. `muc_uid` và `so_muc` có ⇔ `chunk_type` là `muc` hoặc `muc_doan`. `so_doan` có ở mọi `phu_luc_doan`, `muc_doan`. | Đạt: 701.376 chunk có `in_phu_luc`, cùng số chunk có `phu_luc_uid` và `loai_phan`. 121.750 chunk có `muc_uid`. |
@@ -1063,7 +1072,8 @@ Cột "Kết quả 28/10" là kết quả đếm bằng truy vấn ES (chỉ đ�
 | Giới hạn | Ảnh hưởng | Chi tiết |
 | --- | --- | --- |
 | v4 chỉ có văn bản ban hành từ 12/03/2025 đến 30/09/2026. | Phần lớn văn bản đích chưa có trong v4. Node đích chưa có chunk. Đo 28/10/2026: 9.164/64.277 quan hệ có đích trong v4. | Mục 9.1. Đợt tiếp theo chưa có lệnh chạy. |
-| Ghi lại một văn bản xóa chunk và quan hệ cũ trước khi ghi bản mới. | Văn bản lỗi giữa chừng mất chunk. Đo 28/10/2026: 682498, 685655 không có chunk; 5 văn bản khác có thể thiếu chunk. | Mục 9.1. Chạy lại các văn bản này. |
+| Ghi một văn bản không nguyên tử trên nhiều bản ghi. ES không có giao dịch qua nhiều document. | Lượt ghi lỗi giữa chừng để lại chunk hoặc quan hệ lẫn bản cũ và bản mới, cho tới khi văn bản được chạy lại. Không mất đơn vị nào. | Mục 9.1, 9.2. `integrity` phát hiện; `auto` chạy lại ở lần quét nguồn sau. |
+| `target_matched_id` có thể được điền sau khi quan hệ đã ghi. | Bên Graph đọc lại quan hệ định kỳ, không chỉ đọc quan hệ mới. `relink` không đổi `ingest_job_id`, `ingested_at`. | Mục 9.4 |
 | Chunk `phu_luc` rất dài vẫn là một chunk. | Máy chủ embedding nhận tối đa 8.192 token. Phần sau giới hạn không có trong vector của chunk `phu_luc`. Tìm nội dung phụ lục bằng `phu_luc_doan` (mục 9.9.5). | Mục 9.9.6 |
 | Thủ tục hành chính không có node. | Quan hệ lên thủ tục trỏ vào văn bản đã công bố thủ tục, `vi_tri` là phụ lục chứa thủ tục. Bên Graph dùng `doi_tuong_loai` để tách cạnh lên thủ tục. | Mục 9.5.1, 9.10.6, 9.11.4 |
 | `Phụ lục` không ký hiệu không chỉ tới một node phụ lục. | Bên Graph chưa nối được cạnh vào một phụ lục cụ thể. Đo 28/10/2026: 10.990/70.954 quan hệ `validated`, 7.904 quan hệ trong số đó còn `doi_tuong`. | Mục 9.5.1, 9.11.2, [11, mục 11.6](11-cau-hoi-graph.md#116-việc-3-cạnh-vào-phụ-lục-không-nêu-ký-hiệu) |

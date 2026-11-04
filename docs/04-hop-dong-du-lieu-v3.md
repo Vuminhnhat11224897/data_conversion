@@ -475,7 +475,7 @@ Mapping khai báo `dan_chieu` là `object`, không phải `nested`. Truy vấn E
 - Tiêu đề, lời dẫn và từng Điều có quan hệ riêng, kể cả khi cùng văn bản đích.
 - Quan hệ dò từ câu chữ đã qua QA bằng model LLM `qwen-legal`. Quan hệ hướng dẫn (`hd_`) lấy bằng quy tắc, không qua QA.
 - v3 có một số tác động suy ra lên đơn vị cha hoặc đơn vị con ([05, mục 5.4.1](05-phien-ban-v2-v3-v4.md#541-dữ-liệu)). Chưa đo số lượng.
-- Khi ghi lại một văn bản, công cụ xóa mọi quan hệ có `source_id` của văn bản đó rồi ghi lại.
+- Khi ghi lại một văn bản, công cụ ghi quan hệ mới trước, ghi bản ghi văn bản, rồi xóa quan hệ có `source_id` của văn bản đó mà bản mới không còn ([09, mục 9.2](09-hop-dong-du-lieu-v4.md#92-luồng-tạo-dữ-liệu)).
 
 ### 4.8.1. Ví dụ: `legal-changed-v3/602450_1`
 

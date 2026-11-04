@@ -56,9 +56,13 @@ flowchart LR
 
 | Module | Vai trò | Dịch vụ ngoài |
 | --- | --- | --- |
-| `__main__.py` | Dòng lệnh: `check`, `init`, `convert`, `report`, `analyze`. Tham số chung `--env <file>`. | — |
+| `__main__.py` | Dòng lệnh: `check`, `init`, `convert`, `auto`, `relink`, `integrity`, `report`, `analyze`. Tham số chung `--env <file>`. | — |
 | `config.py` | Đọc `.env`. Kiểm URL, tên index và tổ hợp biến embedding (mục 1.6). | — |
-| `es.py` | Client ES. Chặn mọi lệnh ghi lên nguồn. Chỉ cho ghi 3 index đích. | ES |
+| `es.py` | Client ES. Chặn mọi lệnh ghi lên nguồn. Chỉ cho ghi 3 index đích. Bulk gửi lại khi đứt kết nối hoặc ES bận. Đọc lại sau khi ghi (`verify_written`). | ES |
+| `auto.py` | Lệnh `auto`: chuyển liên tục theo lô; chạy lại văn bản ghi dở; nối lại văn bản đích sau mỗi lần quét nguồn. | ES, Server LLM |
+| `integrity.py` | Tìm văn bản ghi dở: chunk, quan hệ khác lượt với bản ghi văn bản; chunk không có văn bản; văn bản không có chunk. Chỉ đọc. | ES |
+| `source_guard.py` | Kiểm nguồn trước mỗi lượt: số hiệu mẫu, số văn bản. | ES |
+| `relink.py` | Lệnh `relink`: nối lại văn bản đích cho quan hệ chưa nối, từ trường đã lưu. Không gọi model. | ES |
 | `convert.py` | Điều phối một lượt và một văn bản. Gộp nhánh LLM và nhánh quy tắc. Chuẩn hóa vị trí. Bỏ cạnh lặp (`distinct_edges`). Chạy song song. Làm tiếp khi bị ngắt. | ES |
 | `structure.py` | Parser quy tắc: phần đầu, căn cứ, lời dẫn, Điều, khoản, điểm, tiểu điểm, Nơi nhận, phụ lục. Dựng chunk. Chia phụ lục và đề mục dài thành đoạn tìm kiếm (`phu_luc_doan` 300 từ, `muc_doan` 150 từ). | — |
 | `structure_ai.py` | Hybrid: hỏi model LLM ca mơ hồ. Kiểm câu trả lời trước khi áp dụng. | Server LLM |
@@ -107,7 +111,10 @@ Các phần sau không thuộc image Docker và không thuộc luồng chạy:
 | --- | --- | --- |
 | ES nguồn chỉ đọc | Client nguồn không có index ghi được. Client chỉ cho `GET`, `HEAD`, `POST` tới `_search`, `_count`, `_mget`, scroll. Lệnh khác bị từ chối trước khi gửi. | `es.py` `Cluster.allowed` |
 | ES đích chỉ 3 index | Client đích chỉ ghi được 3 index cấu hình. Lệnh bulk có một dòng sang index khác thì bị từ chối cả lệnh. | `es.py` `Cluster.allowed` |
-| Không xóa index | `DELETE` chỉ được dùng cho scroll. Công cụ xóa chunk và quan hệ cũ bằng `_delete_by_query` theo `doc_id` hoặc `source_id`. | `es.py` `remove_group` |
+| Không xóa index | `DELETE` chỉ được dùng cho scroll. Sau khi ghi bản mới, công cụ xóa chunk và quan hệ cũ mà bản mới không còn, bằng `_delete_by_query` theo `doc_id` hoặc `source_id`. | `es.py` `remove_stale` |
+| Ghi lỗi giữa chừng không mất dữ liệu | Ghi chunk, quan hệ, rồi bản ghi văn bản; xóa bản cũ sau cùng; đọc lại để kiểm. Gửi lại lô khi đứt kết nối hoặc ES bận. | `convert.py` `write_document`, `es.py` `bulk`, `verify_written` |
+| Văn bản ghi dở được tìm ra | So `ingest_job_id` của chunk, quan hệ với bản ghi văn bản. `auto` chạy lại văn bản ghi dở. | `integrity.py`, `auto.py` |
+| Nguồn tra đích đúng | Kiểm số hiệu mẫu và số văn bản nguồn trước mỗi lượt. | `source_guard.py` |
 | Tên index đích | 3 tên khác nhau, cùng đuôi `-v3`, hoặc cùng đuôi `-v4` (bản thử). Không tên nào trùng `legal-docs`, `legal-chunk-section-v2`, `legal-changed-v2`. | `config.py` `Config.validate` |
 | Mapping | `init` chỉ thêm trường mới. `init` không sửa trường đã có. | `__main__.py` `init` |
 | Quay lại | Xóa tay 3 index v3 (Kibana hoặc `curl -X DELETE`). Chạy `init`. Dữ liệu nguồn không đổi. | — |
@@ -120,12 +127,14 @@ Chép `.env.example` thành `.env`. Đặt quyền `600`. Không đặt dấu nh
 
 - Công cụ đọc `data_vbpl_v3/.env`, hoặc file nêu ở `--env <file>`.
 - Biến của shell thắng giá trị trong `.env`. Vì vậy `export TARGET_*_INDEX=…-v4` đổi index đích mà không sửa `.env` ([02, "Ghi thử vào v4"](02-luong-hoat-dong.md#ghi-thử-vào-v4-trước-khi-ghi-lại-v3)).
-- Bảng dưới đối chiếu với `.env.example` và code ngày 28/10/2026.
+- Bảng dưới đối chiếu với `.env.example` và code ngày 04/11/2026.
 - Script của một lượt có thể nạp thêm biến. Ví dụ: hai lượt đêm 27/10/2026 nạp `work/.embedding.env` ([02, mục 2.1.2](02-luong-hoat-dong.md#212-quy-trình-một-đợt-chuyển-đổi)).
 
 | Biến | Mặc định | Nghĩa |
 | --- | --- | --- |
-| `SOURCE_ES_URL` | — (bắt buộc) | URL ES nguồn. Dạng `http(s)://host:port`. |
+| `SOURCE_ES_URL` | — (bắt buộc) | URL ES nguồn. Dạng `http(s)://host:port`. Nguồn chuẩn (chốt 04/11/2026): `http://10.1.10.23:9200`. `legal-docs` trên `10.1.10.10` thiếu 51.567 văn bản. |
+| `SOURCE_CANARIES` | `08/2015/NĐ-CP=263815;156/2018/NĐ-CP=379366;98/2020/TT-BTC=461197` | Số hiệu phải tra ra đúng ID trước mỗi lượt ([02, mục 2.5.3](02-luong-hoat-dong.md#253-khớp-văn-bản-đích)). Sai thì lượt dừng. `off`: bỏ phần kiểm này. |
+| `SOURCE_MIN_DOCUMENTS` | `0` | Số văn bản nguồn tối thiểu. Công cụ cũng dừng khi nguồn còn dưới 99% số của lần kiểm trước (`work/source-check.json`). |
 | `SOURCE_DOCUMENT_INDEX`, `SOURCE_CHUNK_INDEX`, `SOURCE_CHANGE_INDEX` | `legal-docs`, `legal-chunk-section-v2`, `legal-changed-v2` | Tên 3 index nguồn. |
 | `TARGET_ES_URL` | — (bắt buộc) | URL ES đích. |
 | `TARGET_DOCUMENT_INDEX`, `TARGET_CHUNK_INDEX`, `TARGET_CHANGE_INDEX` | `legal-docs-v3`, `legal-chunk-section-v3`, `legal-changed-v3` | Tên 3 index đích. Cùng đuôi `-v3`, hoặc cùng đuôi `-v4` để ghi thử ([02, "Ghi thử vào v4"](02-luong-hoat-dong.md#ghi-thử-vào-v4-trước-khi-ghi-lại-v3)). |
@@ -143,6 +152,8 @@ Chép `.env.example` thành `.env`. Đặt quyền `600`. Không đặt dấu nh
 | `EMBEDDING_REUSE` | `yes` | Chunk có cùng chuỗi `tieu_de + " " + noi_dung` với một chunk đã có vector thì dùng lại vector đó. `yes`: vector của chunk nguồn v2. `target`: vector của index chunk đích. `no`: không dùng lại. |
 | `V3_WORKDIR` | `work` | Thư mục nhật ký và cache. Đường dẫn tương đối tính từ `data_vbpl_v3/`. Image Docker đặt `/app/work`. |
 | `QA_MAX_TOKENS`, `QA_SCOPE_MAX_TOKENS` | `512` (128..4096), `1024` (256..4096) | Giới hạn độ dài câu trả lời QA. |
+| `ES_BULK_BYTES` | `4194304` | Cỡ tối đa một lô bulk ghi ES đích. Mỗi lô còn giới hạn 300 bản ghi. |
+| `AUTO_BATCH_PER_WORKER`, `AUTO_RESCAN_HOURS`, `AUTO_MAX_ATTEMPTS`, `AUTO_RELINK` | `25`, `24`, `3`, `1` | Lệnh `auto`: cỡ lô mỗi luồng, giờ giữa hai lần quét nguồn, số lần lỗi trước khi loại, nối lại văn bản đích sau mỗi lần quét (`0`: tắt). |
 
 Vector của chunk nguồn v2 là vector của 256 token đầu. Vector của `-v4` là vector của cả chunk: ngày 26/10/2026, bên dữ liệu embed lại toàn bộ `-v4`. `config.py` từ chối tổ hợp trộn hai loại vector:
 
@@ -161,6 +172,8 @@ Vector của chunk nguồn v2 là vector của 256 token đầu. Vector của `-
 | Đường dẫn | Nội dung |
 | --- | --- |
 | `work/<run>/run.json` | Cấu hình lượt: `run_id`, URL nguồn, URL đích, index đích, cách chọn văn bản. |
+| `work/<run>/source.json`, `work/source-check.json` | Kết quả kiểm nguồn của lượt và của lần kiểm gần nhất: URL, index, số văn bản, giờ. |
+| `work/auto/repair.json`, `work/auto/relink.json` | `auto`: văn bản ghi dở còn chờ chạy lại; kết quả nối lại văn bản đích lần gần nhất. |
 | `work/<run>/ids.json` | Danh sách ID đã chọn. Công cụ tạo một lần. Lần chạy sau bỏ qua `--sample`, `--ids`, `--all`. |
 | `work/<run>/documents.jsonl` | Một dòng cho mỗi văn bản xong, kể cả văn bản bị bỏ qua (`skipped`). Dòng mới nhất của một ID có hiệu lực. |
 | `work/<run>/failures.jsonl` | Văn bản lỗi, kèm thông báo lỗi. Công cụ ghi nối tiếp. |
