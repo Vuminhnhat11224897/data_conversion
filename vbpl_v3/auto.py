@@ -1,15 +1,17 @@
 """Continuous migration: convert the source documents missing from the target, in small batches, until stopped.
 
 Every AUTO_RESCAN_HOURS the queue is rebuilt from one scan of the source: every source _id that is not in the target documents
-index and not excluded. Documents new since the previous scan come first, then the rest by issuance_date, newest first; undated
-last. Before each batch its ids are looked up in the target again, so a document already there is never converted twice.
+index and not excluded, plus every document of the target whose last write stopped part way (integrity.broken), which goes first.
+Documents new since the previous scan come next, then the rest by issuance_date, newest first; undated last. Before each batch its
+ids are looked up in the target again, so a document already there is never converted twice, unless it is one to repair.
+Each scan checks the source first (source_guard) and then links again the relations whose target was missing (relink, AUTO_RELINK).
 
 Workers follow llm.concurrency(): LLM_CONCURRENCY_DAY by day, LLM_CONCURRENCY_NIGHT in LLM_NIGHT_HOURS. A batch holds
 AUTO_BATCH_PER_WORKER documents per worker, so the day/night switch waits at most one batch. A skipped document (English, before
 START_YEAR) is excluded for good. A failed one goes to the end of the queue and is excluded after AUTO_MAX_ATTEMPTS failures. When
 half a batch of 4 or more fails, a service is down: attempts are not counted, the batch stays first and the loop waits.
 
-State in work/auto/: queue.json, seen.json.gz (source ids of the last scan), scan.json, attempts.json, excluded.json
+State in work/auto/: queue.json, repair.json, seen.json.gz (source ids of the last scan), scan.json, relink.json, attempts.json, excluded.json
 (id -> reason), history.jsonl (one line per batch), batches/<run>.txt. Each batch is a convert run work/auto-<time>/.
 SIGTERM/SIGINT: documents not started yet stay queued; the ones in flight finish (docker stop --time 600).
 """
@@ -24,8 +26,9 @@ import time
 from argparse import Namespace
 from datetime import datetime
 
-from . import llm
+from . import integrity, llm, source_guard
 from .convert import run
+from .relink import relink
 
 
 def setting(name, default):
@@ -56,19 +59,32 @@ def order(rows, present, excluded, seen):
 
 
 def scan(config, source, target, state):
-    present = {h['_id'] for h in target.scan(config.target['documents'], {'match_all': {}}, False, size=10000)}
+    """Rebuild the queue. A document in the target whose last write stopped part way (integrity.broken: chunks or relations of
+    another run than its record, no chunk) is not done: it goes first, and the dedup before each batch keeps it (repair.json)."""
+    # Documents new in the source must become resolvable relation targets: refresh the number table once per scan, then check that
+    # the source can be trusted for targets before anything is queued (A2, 04/11/2026).
+    source.use_number_index(config.source['documents'], config.workdir)
+    source_guard.check(config, source)
+    jobs = integrity.document_jobs(target, config.target['documents'])
+    present = set(jobs)
+    report = integrity.broken(target, config, jobs)
+    excluded = load(state / 'excluded.json', {})
+    repair = integrity.to_rewrite(report) - set(excluded)
     rows = [(h['_id'], (h.get('_source') or {}).get('issuance_date'))
             for h in source.scan(config.source['documents'], {'match_all': {}}, ['issuance_date'], size=10000)]
     seen = load(state / 'seen.json.gz', None)
     seen = set(seen) if seen is not None else None
-    queue = order(rows, present, load(state / 'excluded.json', {}), seen)
+    queue = order(rows, present - repair, excluded, seen)
+    queue = [i for i in queue if i in repair] + [i for i in queue if i not in repair]
     info = {'at': time.time(), 'time': datetime.now().astimezone().isoformat(timespec='seconds'), 'source': len(rows), 'target': len(present),
-            'queue': len(queue), 'new': 0 if seen is None else sum(1 for i, _ in rows if i not in seen and i not in present)}
+            'queue': len(queue), 'new': 0 if seen is None else sum(1 for i, _ in rows if i not in seen and i not in present),
+            'repair': len(repair & set(queue)), 'integrity': {kind: len(ids) for kind, ids in report.items()},
+            # Records with no document record whose document is excluded (failed too often): left for a person to look at.
+            'orphans_excluded': sorted(integrity.without_record(report) & set(excluded))}
     save(state / 'queue.json', queue)
+    save(state / 'repair.json', sorted(repair & set(queue)))
     save(state / 'seen.json.gz', [i for i, _ in rows])
     save(state / 'scan.json', info)
-    # Documents new in the source must become resolvable relation targets: refresh the number table once per scan.
-    source.use_number_index(config.source['documents'], config.workdir)
     return queue, info
 
 
@@ -110,9 +126,17 @@ def forever(config, source, target, once=False, scan_only=False):
             if scan_only or queue is None or time.time() - info.get('at', 0) >= rescan:
                 queue, info = scan(config, source, target, state)
                 print(f'auto: quét nguồn {info["time"]}: nguồn {info["source"]}, đích {info["target"]}, mới {info["new"]}, '
-                      f'hàng đợi {info["queue"]}', flush=True)
+                      f'hàng đợi {info["queue"]} (ghi dở cần chạy lại {info["repair"]}, kiểm toàn vẹn {info["integrity"]})', flush=True)
                 if scan_only:
                     return 0
+                if setting('AUTO_RELINK', 1):
+                    # The source may have gained the targets some relations could not find: link them again, no model call.
+                    try:
+                        linked = relink(config, source, target, write=True)
+                        save(state / 'relink.json', linked)
+                        print(f'auto: nối lại văn bản đích {linked}', flush=True)
+                    except Exception as exc:  # the batches go on; the next scan tries again
+                        print(f'auto: nối lại văn bản đích lỗi {type(exc).__name__}: {str(exc)[:300]}', flush=True)
             attempts, excluded = load(state / 'attempts.json', {}), load(state / 'excluded.json', {})
             workers = llm.concurrency()
             batch = queue[:workers * per_worker]
@@ -120,7 +144,8 @@ def forever(config, source, target, once=False, scan_only=False):
                 # Dedup at the last moment: whatever reached the target since the scan is dropped from the queue.
                 hits = target.request('POST', f"/{config.target['documents']}/_search",
                                       {'size': len(batch), '_source': False, 'query': {'ids': {'values': batch}}})['hits']['hits']
-                present = {h['_id'] for h in hits}
+                # A document to repair is in the target on purpose: its record is there, its write is not complete.
+                present = {h['_id'] for h in hits} - set(load(state / 'repair.json', []))
                 if present:
                     queue = [i for i in queue if i not in present]
                     save(state / 'queue.json', queue)
@@ -150,6 +175,7 @@ def forever(config, source, target, once=False, scan_only=False):
                 retry = [i for i in batch if i in failed and i not in excluded]
                 queue = [i for i in queue if i not in done and i not in failed and i not in excluded] + retry
             save(state / 'queue.json', queue)
+            save(state / 'repair.json', [i for i in load(state / 'repair.json', []) if i not in done and i not in excluded])
             save(state / 'attempts.json', attempts)
             save(state / 'excluded.json', excluded)
             entry = {'at': datetime.now().astimezone().isoformat(timespec='seconds'), 'run': name, 'workers': workers, 'batch': len(batch), 'done': len(done), 'failed': len(failed), 'outage': outage,

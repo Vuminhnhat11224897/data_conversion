@@ -13,12 +13,13 @@ import unicodedata
 
 import requests
 
+from . import source_guard
 from .embedding import chunk_input, embed
 from .qa import verify
 from .legal_status import expiry, normative, provision_effects, rank, retroactive, unit_dates, unit_of, unit_of_path
 from .references import amended_targets, guidance, law_by_name, law_named, link_references
 from .extract import extract
-from .relations import consolidation, detect, lookup_numbers, resolve, row_holders, stamp
+from .relations import consolidation, detect, is_number, lookup_numbers, resolve, row_holders, stamp
 from .resolver import appendix_scope, object_kind, resolve_row
 from .metadata_fill import LLM_FIELDS, by_code, by_model
 from .text import join_split, language, number_key
@@ -478,7 +479,7 @@ def model_relations(doc_id, meta, parsed, candidates, root, lookup, provenance, 
         stamp(row, doc_id, meta)
         row['detection_mode'] = 'llm'
         # Only a document number is looked up; a law named by name is matched later (law_named), anything else stays unresolved.
-        if NUMBER.fullmatch(row['target_doc']):
+        if is_number(row['target_doc']):
             resolve(row, lookup(lookup_numbers([row['target_doc']])))
         else:
             row.update(target_matched_id=None, target_candidates_count=0)
@@ -493,6 +494,30 @@ def model_relations(doc_id, meta, parsed, candidates, root, lookup, provenance, 
     for record in records:
         appendix_scope(record['_source'])  # the appendix convention, for the edges of both paths
     return records, errors, rejected
+
+
+def write_document(target, config, doc_id, document, chunks, relations):
+    """Write one document so that a failure at any step loses nothing and is found later (E1, 03/11–04/11/2026).
+
+    1. Chunks, then relations, written by _id over the old records: nothing is deleted first.
+    2. The document record last of the three: it carries this run's ingest_job_id and is the mark that the document's chunks and
+       relations are complete. Until it is written the old record stays, and chunks or relations of a newer run than the record
+       show that the write stopped (integrity.broken; auto converts such a document again).
+    3. The records the rewrite no longer has are removed, then everything is read back (es.verify_written): a missing record, a
+       record of another run or an old record left raises, and the run logs the document as failed.
+    relations=None (--no-qa): the relations are not touched."""
+    job = document['ingest_job_id']
+    if chunks:
+        target.bulk(config.target['chunks'], chunks)
+    if relations:
+        target.bulk(config.target['changes'], relations)
+    target.put(config.target['documents'], doc_id, document)
+    target.remove_stale(config.target['chunks'], 'doc_id', doc_id, {c['_id'] for c in chunks})
+    if relations is not None:
+        target.remove_stale(config.target['changes'], 'source_id', int(doc_id), {r['_id'] for r in relations})
+    target.verify_written(config.target['chunks'], 'doc_id', doc_id, chunks, job)
+    if relations is not None:
+        target.verify_written(config.target['changes'], 'source_id', int(doc_id), relations, job)
 
 
 def convert_document(doc_id, config, source, target, run_id, root, qa=True, dry_run=False, caller=None):
@@ -689,16 +714,7 @@ def convert_document(doc_id, config, source, target, run_id, root, qa=True, dry_
         (root / 'dry-run').mkdir(exist_ok=True)
         (root / 'dry-run' / f'{doc_id}.json').write_text(json.dumps(preview, ensure_ascii=False, indent=1), encoding='utf-8')
     else:
-        # New records first (indexed by _id, over the old ones), the document next, the records a rewrite no longer has last:
-        # a write that fails part way keeps the document's old chunks and relations instead of losing them (E1, 03/11/2026).
-        if chunks:
-            target.bulk(config.target['chunks'], chunks)
-        target.put(config.target['documents'], doc_id, document)
-        target.remove_stale(config.target['chunks'], 'doc_id', doc_id, {c['_id'] for c in chunks})
-        if qa:
-            if relations:
-                target.bulk(config.target['changes'], relations)
-            target.remove_stale(config.target['changes'], 'source_id', int(doc_id), {r['_id'] for r in relations})
+        write_document(target, config, doc_id, document, chunks, relations if qa else None)
 
     ai = stats['structure_ai']
     return {'doc_id': doc_id, 'legal_type': src.get('legal_type'), 'n_dieu_source': src.get('n_dieu'), 'metadata_boc_lai': filled,
@@ -766,6 +782,10 @@ def run(config, source, target, args, caller=None):
     # auto keeps the table it loaded and refreshes it once per source scan: the source count changes all day long.
     if not (getattr(args, 'keep_number_index', False) and source.numbers and source.numbers[0] == config.source['documents']):
         source.use_number_index(config.source['documents'], config.workdir)
+    # Targets are linked in this source: a smaller or wrong source leaves relations with no target_matched_id (A2, 04/11/2026).
+    checked = source_guard.check(config, source)
+    if checked:
+        (root / 'source.json').write_text(json.dumps(checked, ensure_ascii=False, indent=1))
     lock, failures, started = threading.Lock(), [], time.time()
     stop = getattr(args, 'stop', None)
 

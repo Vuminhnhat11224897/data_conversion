@@ -55,11 +55,17 @@ class Memory:
     def remove_stale(self, index, field, value, keep):
         self.indices[index] = {k: v for k, v in self.indices[index].items() if v.get(field) != value or k in keep}
 
-    def bulk(self, index, records):
+    def bulk(self, index, records, action='index', skip_status=()):
         self.indices.setdefault(index, {}).update({r['_id']: r['_source'] for r in records})
+        return []
 
     def put(self, index, doc_id, source):
         self.indices.setdefault(index, {})[str(doc_id)] = source
+
+    def verify_written(self, index, field, value, records, job):
+        rows, ids = self.indices.get(index, {}), {r['_id'] for r in records}
+        if any(rows.get(i, {}).get('ingest_job_id') != job for i in ids) or any(v.get(field) == value and k not in ids for k, v in rows.items()):
+            raise RuntimeError('write incomplete')
 
 
 def model(prompt, payload, folder, **options):

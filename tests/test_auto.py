@@ -26,6 +26,14 @@ class Cluster:
 
     def request(self, method, path, body=None):
         index = path.strip('/').split('/')[0]
+        if 'aggs' in body:  # integrity.group_jobs: one page of (key, ingest_job_id) buckets
+            sources = body['aggs']['c']['composite']['sources']
+            field = sources[0]['k']['terms']['field']
+            counts = {}
+            for row in self.indices.get(index, {}).values():
+                key = (row.get(field), row.get('ingest_job_id'))
+                counts[key] = counts.get(key, 0) + 1
+            return {'aggregations': {'c': {'buckets': [{'key': {'k': k, 'j': j}, 'doc_count': n} for (k, j), n in counts.items()]}}}
         ids = body['query']['ids']['values']
         return {'hits': {'hits': [{'_id': i} for i in ids if i in self.indices.get(index, {})]}}
 
@@ -75,7 +83,9 @@ class Forever(unittest.TestCase):
         self.config = config(workdir=self.root)
         docs = {str(i): {'issuance_date': f'2026-01-{i:02d}'} for i in range(1, 8)}
         self.source = Cluster({self.config.source['documents']: docs})
-        self.target = Cluster({self.config.target['documents']: {'7': {}}})
+        # 7 is complete in the target: its record and its chunk carry the same run.
+        self.target = Cluster({self.config.target['documents']: {'7': {'ingest_job_id': 'v3:a'}},
+                               self.config.target['chunks']: {'7_d1': {'doc_id': '7', 'ingest_job_id': 'v3:a'}}})
         self.runs = []
 
     def fake_run(self, config, source, target, args):
@@ -93,7 +103,7 @@ class Forever(unittest.TestCase):
 
     def once(self):
         with patch('vbpl_v3.auto.run', side_effect=self.fake_run), patch('vbpl_v3.auto.llm.concurrency', return_value=1), \
-                patch.dict('os.environ', {'AUTO_BATCH_PER_WORKER': '3'}), patch('builtins.print'), patch('signal.signal'):
+                patch.dict('os.environ', {'AUTO_BATCH_PER_WORKER': '3', 'AUTO_RELINK': '0'}), patch('builtins.print'), patch('signal.signal'):
             return auto.forever(self.config, self.source, self.target, once=True)
 
     def test_batches_skip_target_and_move_failures_to_the_end(self):
@@ -109,6 +119,18 @@ class Forever(unittest.TestCase):
         self.once()
         self.assertEqual(self.runs[-1][0], ['5'])
         self.assertEqual(json.loads((self.root / 'auto' / 'attempts.json').read_text()), {'5': 2})
+
+    def test_a_half_written_document_goes_first_and_is_not_dropped_as_present(self):
+        # A1 (04/11/2026): 7 keeps its old record while its chunks are of a newer run (the write stopped before the record); 3 has
+        # a record and no chunk. Both are converted again first, though they are in the target.
+        docs, chunks = self.config.target['documents'], self.config.target['chunks']
+        self.target.indices[chunks]['7_d2'] = {'doc_id': '7', 'ingest_job_id': 'v3:b'}
+        self.target.indices[docs]['3'] = {'ingest_job_id': 'v3:a'}
+        self.once()
+        self.assertEqual(self.runs[-1][0], ['7', '3', '6'])
+        scan = json.loads((self.root / 'auto' / 'scan.json').read_text())
+        self.assertEqual((scan['repair'], scan['integrity']['chunk_khac_luot'], scan['integrity']['van_ban_khong_chunk']), (2, 1, 1))
+        self.assertEqual(json.loads((self.root / 'auto' / 'repair.json').read_text()), [])  # both done
 
     def test_a_second_process_is_refused(self):
         (self.root / 'auto').mkdir()

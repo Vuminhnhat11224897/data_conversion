@@ -589,6 +589,19 @@ def year_variant(number):
     return (m[1],m[2]) if m else (None,None)
 
 
+# A number with a dash before its type: party documents ("338-QĐ/TW"), old ones ("36-CP", "19-BYT/TT", "21-LCT/HĐNN8"). NUMBER starts
+# with "\d/" and does not take them, so their targets were never looked up: 445 relations to such documents had no target, 368 of them
+# present in the source (A2, 04/11/2026).
+DASH_NUMBER=re.compile(r'\d{1,6}[a-z]?-[A-ZĐ][A-Za-zÀ-ỹĐ0-9]*(?:[-./][A-Za-zÀ-ỹĐ0-9]+)*')
+# In a quote the dash may stand between spaces ("Hướng dẫn số 12 -HD/BTCTW, ngày 06/7/2018").
+CITED_DASH=re.compile(r'(?<![\w:/])\d{1,6}[a-z]?[ \t]*-[ \t]*[A-ZĐ][A-Za-zÀ-ỹĐ0-9]*(?:[-./][A-Za-zÀ-ỹĐ0-9]+)*')
+
+
+def is_number(text):
+    """A document number to look up in the source (a law named by name is matched elsewhere)."""
+    return bool(NUMBER.fullmatch(text or '') or DASH_NUMBER.fullmatch(text or ''))
+
+
 def lookup_numbers(numbers):
     """Numbers to fetch for resolve(): each cited number plus its year-less registration variant."""
     return list(dict.fromkeys([*numbers,*(v for v in (year_variant(n)[0] for n in numbers) if v)]))
@@ -606,7 +619,9 @@ def resolve(candidate,hits):
     eligible=[h for h in hits if h['_id'].isdigit() and int(h['_id'])!=candidate['source_id'] and
               h['_source'].get('issuance_date') and candidate.get('source_issuance_date') and h['_source']['issuance_date']<=candidate['source_issuance_date']]
     evidence=candidate.get('_evidence','')
-    cited=next((m for m in NUMBER.finditer(evidence) if number_key(m.group())==number_key(candidate['target_doc'])),None)
+    # The cited day follows the number in the quote; a dash number ("338-QĐ/TW, ngày 26/11/2010") is found by its own pattern, else a
+    # number reused over the years is linked to the latest one (A2, 04/11/2026).
+    cited=next((m for pattern in (NUMBER,CITED_DASH) for m in pattern.finditer(evidence) if number_key(m.group())==number_key(candidate['target_doc'])),None)
     citation=evidence[cited.end():cited.end()+240] if cited else ''
     cited_date=candidate.get('target_issuance_date')
     match=re.search(r'ngày\s+(\d{1,2})(?:\s+tháng\s+|[/-])(\d{1,2})(?:\s+năm\s+|[/-])(\d{4})',citation,re.I)
@@ -616,9 +631,11 @@ def resolve(candidate,hits):
     if cited_date:
         candidate['target_issuance_date']=cited_date
         dated=[h for h in eligible if h['_source']['issuance_date']==cited_date]
-        if not dated and re.match(r'\s*\d+\s*/\s*(?:19|20)\d{2}\s*/',candidate['target_doc']):
+        if not dated and not variant and re.match(r'\s*\d+\s*/\s*(?:19|20)\d{2}\s*/',candidate['target_doc']):
             # A number carrying its year names one document per issuer; the cited day is sometimes mistyped
             # (cited 19/12/2008, registered 22/12/2008). Accept only a single same-year match, same issuer for local numbers.
+            # Not for the year-less registration (variant): "28/QĐ-TTg" of 06/01/2014 is another decision than the cited
+            # "28/2014/QĐ-TTg" of 07/04/2014; numbers without a year repeat within a year (A2, 04/11/2026).
             pool=[h for h in eligible if h['_source']['issuance_date'][:4]==cited_date[:4]]
             if re.search(r'(?:UBND|HĐND|UB)\b',candidate['target_doc']):
                 issuer=authority_key(candidate.get('target_issuing_authority') or candidate.get('source_issuing_authority'))
@@ -644,6 +661,10 @@ def resolve(candidate,hits):
         same=[h for h in eligible if authority_key(h['_source'].get('issuing_authority'))==authority_key(candidate.get('source_issuing_authority'))]
         if same:eligible=same
         else:eligible=[]
+    if len(eligible)>1 and DASH_NUMBER.fullmatch(candidate['target_doc']) and not cited_date:
+        # Party and old numbers ("338-QĐ/TW", "89-TC/TCT") come back term after term: without a cited day the latest one is a guess,
+        # and a wrong target costs more than a missing one (A2, 04/11/2026).
+        eligible=[]
     if len(eligible)>1:
         nearest=max(h['_source']['issuance_date'] for h in eligible)
         eligible=[h for h in eligible if h['_source']['issuance_date']==nearest]

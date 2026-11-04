@@ -1,20 +1,22 @@
-"""Command line: python -m vbpl_v3 {check,init,convert,auto,report,analyze}."""
+"""Command line: python -m vbpl_v3 {check,init,convert,auto,relink,integrity,report,analyze}."""
 
 import argparse
 import dataclasses
 import json
 import os
+from pathlib import Path
 import statistics
 import sys
 
 import requests
 
-from . import auto
+from . import auto, integrity, source_guard
 from . import config as settings
 from .analyze import analyze
 from .convert import run, select_ids
 from .embedding import chunk_input, cosine, embed, health
 from .es import Cluster
+from .relink import relink
 from .report import report
 
 MAPPINGS = settings.HOME / 'vbpl_v3' / 'mappings'
@@ -129,6 +131,12 @@ def main(argv=None):
     loop = commands.add_parser('auto', help='Chạy liên tục: chuyển văn bản nguồn chưa có ở đích theo từng lô; quét lại nguồn mỗi AUTO_RESCAN_HOURS giờ')
     loop.add_argument('--once', action='store_true', help='Chạy một lô rồi dừng')
     loop.add_argument('--scan-only', action='store_true', help='Chỉ quét nguồn, lập hàng đợi ở work/auto/ rồi dừng; không chuyển')
+    link = commands.add_parser('relink', help='Nối lại văn bản đích cho quan hệ chưa có target_matched_id, từ trường đã lưu; '
+                                              'không gọi AI. Mặc định chỉ đọc; --write mới ghi')
+    link.add_argument('--write', action='store_true', help='Ghi target_matched_id vào index quan hệ đích')
+    link.add_argument('--out', help='File JSONL: mỗi dòng một quan hệ nối được')
+    integrity_cli = commands.add_parser('integrity', help='Liệt kê văn bản ghi dở ở index đích (chunk, quan hệ khác lượt với văn bản…); chỉ đọc')
+    integrity_cli.add_argument('--out', help='File ID cần chuyển lại, mỗi dòng một ID')
     summary = commands.add_parser('report', help='So nguồn với v3 cho các văn bản đã chuyển, chỉ đọc')
     summary.add_argument('--run', required=True)
     survey = commands.add_parser('analyze', help='Đo độ phủ metadata cho đồ thị trên văn bản nguồn; chỉ đọc, không gọi AI')
@@ -160,6 +168,20 @@ def main(argv=None):
     if args.command == 'auto':
         settings.required('EMBEDDING_URL')
         return auto.forever(config, source, target, once=args.once, scan_only=args.scan_only)
+    if args.command == 'relink':
+        if not args.write:
+            target = Cluster(config.target_url)  # read-only: no index is writable
+        source.use_number_index(config.source['documents'], config.workdir)
+        source_guard.check(config, source)
+        print(json.dumps(relink(config, source, target, write=args.write, out=args.out), ensure_ascii=False))
+        return 0
+    if args.command == 'integrity':
+        report_ = integrity.broken(Cluster(config.target_url), config)
+        print(json.dumps({kind: len(ids) for kind, ids in report_.items()}, ensure_ascii=False))
+        print(json.dumps({kind: ids[:10] for kind, ids in report_.items()}, ensure_ascii=False, indent=1))
+        if args.out:
+            Path(args.out).write_text(''.join(f'{i}\n' for i in sorted(integrity.to_rewrite(report_) | integrity.without_record(report_))))
+        return 0
     if args.command == 'analyze':
         args.all, args.from_date, args.to_date = False, None, None
         ids = select_ids(config, source, args)

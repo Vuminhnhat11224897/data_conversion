@@ -8,6 +8,8 @@ import time
 
 from dotenv import load_dotenv
 
+from .source_guard import canaries
+
 HOME = Path(__file__).resolve().parent.parent
 # Source index names that must never receive a v3 write, on any cluster.
 PROTECTED = {'legal-docs', 'legal-chunk-section-v2', 'legal-changed-v2'}
@@ -55,6 +57,9 @@ class Config:
     embedding_model: str = 'bge-m3'
     embedding_truncate: int | None = None
     embedding_reuse_target: bool = False
+    # Checks of the source before a run (source_guard): known numbers that must resolve, and a floor on its document count.
+    source_canaries: tuple = ()
+    source_min_documents: int = 0
 
     @property
     def embedding_options(self):
@@ -85,6 +90,8 @@ class Config:
             embedding_model=os.getenv('EMBEDDING_MODEL', 'bge-m3').strip(),
             embedding_truncate=number('EMBEDDING_TRUNCATE', 0, 0, 8192) or None if os.getenv('EMBEDDING_TRUNCATE', '').strip() else None,
             embedding_reuse_target=os.getenv('EMBEDDING_REUSE') == 'target',
+            source_canaries=canaries(),
+            source_min_documents=number('SOURCE_MIN_DOCUMENTS', 0, 0, 100_000_000),
         ).validate()
 
     def validate(self):

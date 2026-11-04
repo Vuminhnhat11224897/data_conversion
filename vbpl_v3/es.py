@@ -4,6 +4,7 @@ import gzip
 import json
 import os
 from pathlib import Path
+import random
 import re
 import time
 from urllib.parse import quote
@@ -18,9 +19,22 @@ TARGET_FIELDS = ['document_number', 'title', 'issuing_authority', 'issuance_date
 NUMBER_INDEX_AGE = 7 * 86400  # seconds: the local table of document numbers is rebuilt at least weekly
 
 
-# Waits before sending a bulk batch again after a dropped connection, a timeout or a busy cluster (seconds).
+# Waits before sending a bulk batch again after a dropped connection, a timeout or a busy cluster (seconds). Each wait gets up to
+# 30% more at random, so workers that failed together do not all send again at the same moment.
 BULK_RETRY_WAITS = (5, 15, 30, 60)
 RETRY_STATUS = {429, 502, 503, 504}
+# A batch holds at most 300 records and about ES_BULK_BYTES bytes: 300 chunks with their vectors are near 7 MB, too much for one
+# request over the lossy VPN in 120 seconds (04/11/2026).
+BULK_RECORDS = 300
+BULK_BYTES = int(os.getenv('ES_BULK_BYTES', str(4 * 1024 * 1024)))
+
+
+class WriteIncomplete(RuntimeError):
+    """Records read back after a write are missing, from another run, or old records of the document are still there."""
+
+
+def pause(wait):
+    time.sleep(wait * (1 + random.uniform(0, 0.3)))
 
 
 class WriteRefused(RuntimeError):
@@ -44,7 +58,8 @@ class Cluster:
         if method == 'DELETE':
             return False  # never drop an index or delete outside the scroll API
         if path.split('?')[0] == '/_bulk':
-            targets = {json.loads(line)['index']['_index'] for line in raw.decode('utf-8').splitlines()[0::2] if line.strip()}
+            # Every action line (index, update) names its index; a line without one is refused.
+            targets = {next(iter(json.loads(line).values())).get('_index') for line in raw.decode('utf-8').splitlines()[0::2] if line.strip()}
             return bool(targets) and targets <= self.writable
         return path.lstrip('/').split('/')[0].split('?')[0] in self.writable
 
@@ -73,14 +88,16 @@ class Cluster:
     def count(self, index, query=None):
         return self.request('POST', f'/{index}/_count', {'query': query} if query else None)['count']
 
-    def scan(self, index, query, source=True, size=500):
+    def scan(self, index, query, source=True, size=500, seq_no=False):
         """Every hit of the query, in index order. One request when the hits fit in one page; a scroll otherwise (a scroll costs two
-        more requests: the empty last page and its release)."""
-        page = self.request('POST', f'/{index}/_search', {'size': size, 'sort': ['_doc'], 'query': query, '_source': source})
+        more requests: the empty last page and its release). seq_no: each hit carries _seq_no and _primary_term, for a write that
+        must not land on a record changed since it was read."""
+        body = {'size': size, 'sort': ['_doc'], 'query': query, '_source': source, **({'seq_no_primary_term': True} if seq_no else {})}
+        page = self.request('POST', f'/{index}/_search', body)
         if len(page['hits']['hits']) < size:
             yield from page['hits']['hits']
             return
-        result = self.request('POST', f'/{index}/_search?scroll=5m', {'size': size, 'sort': ['_doc'], 'query': query, '_source': source})
+        result = self.request('POST', f'/{index}/_search?scroll=5m', body)
         scroll = result.get('_scroll_id')
         try:
             while result['hits']['hits']:
@@ -167,9 +184,14 @@ class Cluster:
     def put(self, index, doc_id, source):
         return self.request('PUT', f'/{index}/_doc/{quote(str(doc_id), safe="")}', source)
 
-    def bulk(self, index, records):
+    def bulk(self, index, records, action='index', skip_status=()):
+        """Write records {'_id', '_source'} in batches. action 'update': _source is the partial document, and a record may carry
+        if_seq_no / if_primary_term so the update never lands on a record rewritten since it was read. Returns the _id of the
+        records refused with a status in skip_status (409 for such an update); any other refusal raises once retries are spent."""
+        skipped = []
+
         def post(raw):
-            # A batch indexes by _id, so sending it again changes nothing that was already written. The VPN to the cluster drops
+            # A batch writes by _id, so sending it again changes nothing that was already written. The VPN to the cluster drops
             # 20-33% of packets; one lost batch used to leave a document with its first 300, 600 … chunks only (E1, 03/11/2026).
             for wait in (*BULK_RETRY_WAITS, None):
                 try:
@@ -177,38 +199,81 @@ class Cluster:
                 except (requests.ConnectionError, requests.Timeout) as error:
                     failure = error
                 except requests.HTTPError as error:
-                    if error.response.status_code not in RETRY_STATUS:
+                    if error.response is None or error.response.status_code not in RETRY_STATUS:
                         raise
                     failure = error
                 if wait is None:
                     raise failure
-                time.sleep(wait)
+                pause(wait)
+
+        def lines(record):
+            head = {'_index': index, '_id': record['_id'], **{k: record[k] for k in ('if_seq_no', 'if_primary_term') if k in record}}
+            body = {'doc': record['_source']} if action == 'update' else record['_source']
+            return [json.dumps({action: head}), json.dumps(body, ensure_ascii=False)]
 
         def send(batch):
-            lines = []
-            for record in batch:
-                lines += [json.dumps({'index': {'_index': index, '_id': record['_id']}}), json.dumps(record['_source'], ensure_ascii=False)]
-            try:
-                result = post('\n'.join(lines) + '\n')
-            except requests.HTTPError as error:
-                if error.response.status_code != 413 or len(batch) == 1:
-                    raise
-                send(batch[:len(batch) // 2])
-                send(batch[len(batch) // 2:])
-                return
-            errors = [item for item in result.get('items', []) if next(iter(item.values())).get('error')]
-            if result.get('errors') or errors or len(result.get('items', [])) != len(batch):
-                raise RuntimeError('ES bulk failed: ' + json.dumps(errors[:3], ensure_ascii=False))
+            waits = iter(BULK_RETRY_WAITS)
+            while batch:
+                try:
+                    result = post('\n'.join(line for record in batch for line in lines(record)) + '\n')
+                except requests.HTTPError as error:
+                    if error.response is None or error.response.status_code != 413 or len(batch) == 1:
+                        raise
+                    send(batch[:len(batch) // 2])
+                    send(batch[len(batch) // 2:])
+                    return
+                items = result.get('items', [])
+                if len(items) != len(batch):
+                    raise RuntimeError(f'ES bulk failed: {len(items)} kết quả cho {len(batch)} bản ghi')
+                # HTTP 200 with errors=true: each item says whether it was written. A busy shard (429, 503) refuses some items only;
+                # those are sent again, the others stand.
+                retry, fatal, refused = [], [], 0
+                for record, item in zip(batch, items):
+                    status = next(iter(item.values()))
+                    if not status.get('error'):
+                        continue
+                    refused += 1
+                    if status.get('status') in skip_status:
+                        skipped.append(record['_id'])
+                    elif status.get('status') in RETRY_STATUS:
+                        retry.append(record)
+                    else:
+                        fatal.append(status)
+                if fatal:
+                    raise RuntimeError('ES bulk failed: ' + json.dumps(fatal[:3], ensure_ascii=False))
+                if result.get('errors') and not refused:
+                    raise RuntimeError('ES bulk failed: errors=true nhưng không item nào báo lỗi')
+                if retry:
+                    wait = next(waits, None)
+                    if wait is None:
+                        raise RuntimeError(f'ES bulk failed: {len(retry)} bản ghi vẫn bị từ chối sau {len(BULK_RETRY_WAITS)} lần gửi lại')
+                    pause(wait)
+                batch = retry
+
         batch, size = [], 0
         for record in records:
             length = len(json.dumps(record['_source'], ensure_ascii=False).encode('utf-8')) + 100
-            if batch and (len(batch) >= 300 or size + length > 8 * 1024 * 1024):
+            if batch and (len(batch) >= BULK_RECORDS or size + length > BULK_BYTES):
                 send(batch)
                 batch, size = [], 0
             batch.append(record)
             size += length
         if batch:
             send(batch)
+        return skipped
+
+    def verify_written(self, index, field, value, records, job):
+        """Read back the records one document's write produced: each is there with this run's ingest_job_id (a realtime get, no
+        refresh needed), and no other record of the document is left (remove_stale runs first). Raises WriteIncomplete."""
+        ids = [r['_id'] for r in records]
+        bad = []
+        for start in range(0, len(ids), 1000):
+            docs = self.request('POST', f'/{index}/_mget?_source_includes=ingest_job_id', {'ids': ids[start:start + 1000]})['docs']
+            bad += [d['_id'] for d in docs if not d.get('found') or (d.get('_source') or {}).get('ingest_job_id') != job]
+        left = self.count(index, {'bool': {'filter': [{'term': {field: value}}], 'must_not': [{'ids': {'values': ids}}] if ids else []}})
+        if bad or left:
+            raise WriteIncomplete(f'{index} {field}={value}: {len(bad)} bản ghi thiếu hoặc khác lượt (ví dụ {bad[:3]}), '
+                                  f'{left} bản ghi cũ còn lại')
 
     def remove_stale(self, index, field, value, keep):
         """Delete the records of one document (field = value) whose _id is not in keep: what a rewrite no longer produces. Run after
