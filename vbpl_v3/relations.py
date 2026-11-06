@@ -242,15 +242,18 @@ def scope(text):
     if fee:return fee[1].strip(),False
     # "đoạn 3, điểm a, khoản 2, Điều 4" is one position, "điểm a khoản 2 Điều 4"; "Mục I, Phần I Phụ lục" is "Mục I Phần I Phụ lục".
     text=levels(text)
+    # Explicit separators avoid exponential backtracking on long lists without an Điều.
+    # Regression: document 299233 (30/2015/TT-NHNN), 06/11/2026.
+    separator=r'(?:\s*,\s*(?:và\s+)?|\s+và\s+|\s+)'
     patterns=[r'tiểu\s+điểm\s+\d+\s+điểm\s+[a-zđ]\w?\s+khoản\s+\d+[a-zđ]?\s+điều\s+\d+[a-zđ]?',
         r'điểm\s+\d+(?:\.\d+)+\s+khoản\s+\d+\s+điều\s+\d+',
         # "toàn bộ nội dung số thứ tự 51", "toàn bộ Điều 5": a part, not the whole document.
         r'toàn (?:bộ|văn)(?!\s+(?:nội\s+dung|các|điều|khoản|điểm|chương|mục|phần|phụ\s+lục|số\s+thứ\s+tự|danh\s+mục|thủ\s+tục)\b)',
         r'(?:số )?thứ tự\s+[\d, và]+',IN_APPENDIX.pattern,r'phụ lục\s+[IVXLCDM\d]+',
         r'phụ lục(?=\s+(?:được\s+)?(?:ban hành\s+)?kèm theo)',
-        r'điểm\s+[a-zđ](?:\s*[, và]+\s*(?:điểm\s+)?[a-zđ])*\s+khoản\s+\d+[a-zđ]?\s+điều\s+\d+[a-zđ]?',
-        r'khoản\s+\d+[a-zđ]?(?:\s*[, và]+\s*(?:khoản\s+)?\d+[a-zđ]?)*\s+điều\s+\d+[a-zđ]?',
-        r'điều\s+\d+[a-zđ]?(?:\s*[, và]+\s*\d+[a-zđ]?)*',r'khoản\s+\d+[a-zđ]?(?:\s*[, và]+\s*\d+[a-zđ]?)*',
+        rf'điểm\s+[a-zđ](?:{separator}(?:điểm\s+)?[a-zđ])*\s+khoản\s+\d+[a-zđ]?\s+điều\s+\d+[a-zđ]?',
+        rf'khoản\s+\d+[a-zđ]?(?:{separator}(?:khoản\s+)?\d+[a-zđ]?)*\s+điều\s+\d+[a-zđ]?',
+        rf'điều\s+\d+[a-zđ]?(?:{separator}\d+[a-zđ]?)*',rf'khoản\s+\d+[a-zđ]?(?:{separator}\d+[a-zđ]?)*',
         r'mục\s+'+SECTION+r'(?:\s+(?:của\s+)?chương\s+[IVXLCDM\d]+)?',r'chương\s+[IVXLCDM\d]+',
         ]
     for pattern in patterns:

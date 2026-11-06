@@ -872,6 +872,8 @@ So cơ quan bằng `text.authority_key`: bỏ dấu, `đ` thành `d`, "UBND" th�
 | `Mục <ký hiệu> (Phần <ký hiệu>) Phụ lục (<ký hiệu>)` | `Mục D.2 Phụ lục I` |
 | `tên văn bản`, `toàn bộ` | — |
 
+**Danh sách trong phạm vi quy tắc** (`relations.scope`, OPS1, 06/11/2026): dấu phân cách là dấu phẩy (có thể kèm "và"), từ "và", hoặc khoảng trắng khi nguồn thiếu dấu phẩy. Danh sách khoản dài nhưng không có Điều theo sau vẫn giữ phần khoản nguyên văn; không suy ra Điều. Các regex danh sách dùng nhánh phân cách tách biệt để tránh quay lui quá nhiều khi thiếu cấp tiếp theo.
+
 **Tách chữ thành vị trí** (`temporal.positions`):
 
 | Chữ | Vị trí |
