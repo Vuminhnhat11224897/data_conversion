@@ -9,13 +9,14 @@ Each scan checks the source first (source_guard) and then links again the relati
 Workers follow llm.concurrency(): LLM_CONCURRENCY_DAY by day, LLM_CONCURRENCY_NIGHT in LLM_NIGHT_HOURS. A batch holds
 AUTO_BATCH_PER_WORKER documents per worker, so the day/night switch waits at most one batch. A skipped document (English, before
 START_YEAR) is excluded for good. A failed one goes to the end of the queue and is excluded after AUTO_MAX_ATTEMPTS failures. When
-half a batch of 4 or more fails, a service is down: attempts are not counted, the batch stays first and the loop waits.
+half a batch of 4 or more fails, a service is down: attempts are not counted, the batch stays first and auto stops.
 
 State in work/auto/: queue.json, repair.json, seen.json.gz (source ids of the last scan), scan.json, relink.json, attempts.json, excluded.json
 (id -> reason), history.jsonl (one line per batch), batches/<run>.txt. Each batch is a convert run work/auto-<time>/.
 SIGTERM/SIGINT: documents not started yet stay queued; the ones in flight finish (docker stop --time 600).
-A document past DOC_TIMEOUT_SECONDS counts as failed; once its batch is settled and saved the process exits (code 75) so that
-Docker (--restart unless-stopped) starts it again without the thread that hung.
+Stops for a person to look at and start again by hand (06/11/2026, the container has no restart policy): a document past
+DOC_TIMEOUT_SECONDS (counted as failed, its batch settled and saved first; exit 75, the hung thread goes with the process), a service
+down (exit 3) or an error of the loop itself (exit 4). A single failed document does not stop it (about 1% of documents fail).
 """
 
 import fcntl
@@ -32,7 +33,7 @@ from . import integrity, llm, source_guard
 from .convert import TIMED_OUT, run
 from .relink import relink
 
-RESTART = 75  # exit code after a document timed out: the restart policy brings the process back clean
+STOP_TIMEOUT, STOP_OUTAGE, STOP_ERROR = 75, 3, 4  # exit codes; each one waits for a start by hand
 
 
 def setting(name, default):
@@ -123,7 +124,7 @@ def forever(config, source, target, once=False, scan_only=False):
     for sig in (signal.SIGTERM, signal.SIGINT):
         signal.signal(sig, lambda *_: stop.set())
     rescan, per_worker = setting('AUTO_RESCAN_HOURS', 24) * 3600, setting('AUTO_BATCH_PER_WORKER', 25)
-    max_attempts, wait = setting('AUTO_MAX_ATTEMPTS', 3), 60
+    max_attempts = setting('AUTO_MAX_ATTEMPTS', 3)
     while not stop.is_set():
         try:
             info, queue = load(state / 'scan.json', {}), load(state / 'queue.json', None)
@@ -189,19 +190,19 @@ def forever(config, source, target, once=False, scan_only=False):
                 stream.write(json.dumps(entry, ensure_ascii=False) + '\n')
             print(f'auto: {entry}', flush=True)
             if code == TIMED_OUT:
-                print('auto: có văn bản quá DOC_TIMEOUT_SECONDS, đã ghi lỗi; thoát để Docker khởi động lại, bỏ luồng bị kẹt', flush=True)
-                os._exit(RESTART)
+                print('auto: DỪNG, có văn bản quá DOC_TIMEOUT_SECONDS (đã ghi lỗi, xem failures.jsonl của lượt trên); '
+                      'kiểm tra rồi khởi động tay: docker start vbpl-auto', flush=True)
+                os._exit(STOP_TIMEOUT)  # the hung thread would keep the interpreter alive
+            if outage:
+                print(f'auto: DỪNG, {len(failed)}/{len(batch)} văn bản lỗi, coi là dịch vụ trục trặc; lô giữ đầu hàng đợi. '
+                      'Kiểm tra LLM/embedding/ES rồi khởi động tay: docker start vbpl-auto', flush=True)
+                return STOP_OUTAGE
             if once:
                 return 1 if failed else 0
-            wait = min(wait * 2, 1800) if outage else 60
-            if outage:
-                print(f'auto: {len(failed)}/{len(batch)} văn bản lỗi, coi là dịch vụ trục trặc; chờ {wait} giây', flush=True)
-                stop.wait(wait)
         except Exception as exc:
-            print(f'auto: lỗi {type(exc).__name__}: {str(exc)[:300]}; thử lại sau {wait} giây', flush=True)
+            print(f'auto: DỪNG, lỗi {type(exc).__name__}: {str(exc)[:300]}; kiểm tra rồi khởi động tay: docker start vbpl-auto', flush=True)
             if once or scan_only:
                 raise
-            stop.wait(wait)
-            wait = min(wait * 2, 1800)
+            return STOP_ERROR
     print('auto: dừng theo yêu cầu', flush=True)
     return 0

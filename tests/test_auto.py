@@ -202,7 +202,7 @@ class Timeout(unittest.TestCase):
         finally:
             release.set()
 
-    def test_auto_saves_the_batch_then_exits_for_a_clean_restart(self):
+    def test_auto_saves_the_batch_then_stops(self):
         case = Forever()
         case.setUp()
 
@@ -215,11 +215,40 @@ class Timeout(unittest.TestCase):
                 patch('signal.signal'), patch('vbpl_v3.auto.os._exit', side_effect=SystemExit) as exit_:
             with self.assertRaises(SystemExit):
                 auto.forever(case.config, case.source, case.target)
-        exit_.assert_called_once_with(auto.RESTART)
+        exit_.assert_called_once_with(auto.STOP_TIMEOUT)
         state = case.root / 'auto'
         self.assertEqual(json.loads((state / 'attempts.json').read_text()), {'5': 1})  # counted before the exit
         self.assertEqual(json.loads((state / 'queue.json').read_text()), ['3', '2', '1', '5'])
         self.assertEqual(len((state / 'history.jsonl').read_text().splitlines()), 1)
+
+
+class StopsForAPerson(unittest.TestCase):
+    """06/11/2026: no restart policy; a service down or an error of the loop stops auto until it is started by hand."""
+
+    def forever(self, side_effect):
+        case = Forever()
+        case.setUp()
+        with patch('vbpl_v3.auto.run', side_effect=side_effect), patch('vbpl_v3.auto.llm.concurrency', return_value=1), \
+                patch.dict('os.environ', {'AUTO_BATCH_PER_WORKER': '4', 'AUTO_RELINK': '0'}), patch('builtins.print'), \
+                patch('signal.signal'), patch('vbpl_v3.auto.time.sleep'):
+            return case, auto.forever(case.config, case.source, case.target)
+
+    def test_a_service_down_stops_and_keeps_the_batch_first(self):
+        def all_fail(config, source, target, args):
+            folder = config.workdir / args.run
+            folder.mkdir()
+            ids = Path(args.ids).read_text().split()
+            (folder / 'failures.jsonl').write_text(''.join(json.dumps({'doc_id': i, 'error': 'x'}) + '\n' for i in ids))
+            return 1
+
+        case, code = self.forever(all_fail)
+        self.assertEqual(code, auto.STOP_OUTAGE)
+        self.assertEqual(json.loads((case.root / 'auto' / 'queue.json').read_text())[:4], ['6', '5', '4', '3'])
+        self.assertFalse((case.root / 'auto' / 'attempts.json').read_text().strip('{}'))
+
+    def test_an_error_of_the_loop_stops(self):
+        case, code = self.forever(RuntimeError('es down'))
+        self.assertEqual(code, auto.STOP_ERROR)
 
 
 if __name__ == '__main__':

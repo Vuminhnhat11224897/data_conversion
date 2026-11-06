@@ -102,19 +102,19 @@ Lệnh `auto` chạy mãi: chuyển văn bản nguồn chưa có ở đích, t�
 
 - Mỗi `AUTO_RESCAN_HOURS` giờ (24) quét toàn bộ nguồn, lập hàng đợi = nguồn − đích − văn bản đã loại, cộng văn bản ghi dở ở đích.
 - Thứ tự hàng đợi: văn bản ghi dở (`work/auto/repair.json`), văn bản mới từ lần quét trước, rồi theo `issuance_date` mới → cũ.
-- Mỗi lần quét: kiểm nguồn trước (`SOURCE_CANARIES`; sai thì auto dừng chuyển và thử lại sau 1–30 phút), rồi quét toàn vẹn 3 index đích (khoảng 5 phút), rồi nối lại văn bản đích cho quan hệ chưa nối (`AUTO_RELINK`, `work/auto/relink.json`).
+- Mỗi lần quét: kiểm nguồn trước (`SOURCE_CANARIES`; sai thì auto dừng hẳn (mã 4), chờ khởi động tay), rồi quét toàn vẹn 3 index đích (khoảng 5 phút), rồi nối lại văn bản đích cho quan hệ chưa nối (`AUTO_RELINK`, `work/auto/relink.json`).
 - Văn bản ghi dở: chunk hoặc quan hệ khác lượt với bản ghi văn bản, hoặc văn bản không có chunk ([docs/02, mục 2.7](docs/02-luong-hoat-dong.md#27-kiểm-tra-sau-mỗi-đợt)). `scan.json` có số đếm từng loại (`integrity`) và `orphans_excluded`: chunk mồ côi của văn bản đã bị loại, cần người xem.
 - Trước mỗi lô tra lại đích theo `_id`: văn bản đã có ở đích không chạy lại, trừ văn bản ghi dở.
 - Số luồng = số lời gọi LLM cùng lúc: `LLM_CONCURRENCY_DAY=1` (6h–22h), `LLM_CONCURRENCY_NIGHT=12` (22h–6h). Lô = 25 văn bản mỗi luồng.
 - Văn bản bị bỏ qua (`skipped`) thì loại hẳn; văn bản lỗi xuống cuối hàng đợi, lỗi 3 lần thì loại. Danh sách loại: `work/auto/excluded.json`.
 - Trạng thái và nhật ký từng lô: `work/auto/` (`queue.json`, `history.jsonl`). Mỗi lô là một lượt `work/auto-<giờ>/`.
-- Một văn bản xử lý quá `DOC_TIMEOUT_SECONDS` (mặc định 1200 giây) thì ghi lỗi `DocumentTimeout`, lô chạy tiếp; hết lô `auto` thoát mã 75 để Docker khởi động lại, bỏ luồng bị kẹt ([docs/07, mục 7.6](docs/07-gioi-han-va-can-chot.md)).
+- Một văn bản xử lý quá `DOC_TIMEOUT_SECONDS` (mặc định 1200 giây) thì ghi lỗi `DocumentTimeout`, lô chạy tiếp; hết lô `auto` **dừng** (mã 75). Dịch vụ trục trặc (nửa lô lỗi) thì dừng mã 3, lỗi vòng auto thì dừng mã 4. Container không có restart policy: xem `docker logs vbpl-auto`, xử lý, rồi khởi động tay `docker start vbpl-auto`. Văn bản lỗi lẻ (khoảng 1%) không làm dừng ([docs/07, mục 7.6](docs/07-gioi-han-va-can-chot.md)).
 - Giới hạn tài nguyên (06/11/2026, máy dùng chung): 8 CPU, 8 GiB RAM, không swap, 512 tiến trình/thread, log 5×20 MB. Tăng `LLM_CONCURRENCY_NIGHT` quá 24 thì xem lại `--cpus`/`--pids-limit`.
 - Chỉ một tiến trình `auto` chạy được một lúc (khóa `work/auto/lock`). Muốn chạy `convert` tay thì dừng `auto` trước.
 
 ```bash
 docker run --rm --network host --user "$(id -u):$(id -g)" --env-file .env -v "$PWD/work:/app/work" vbpl-v3 auto --scan-only  # chỉ lập hàng đợi
-docker run -d --name vbpl-auto --restart unless-stopped --stop-timeout 600 --network host --user "$(id -u):$(id -g)" \
+docker run -d --name vbpl-auto --restart no --stop-timeout 600 --network host --user "$(id -u):$(id -g)" \
   --cpus 8 --memory 8g --memory-swap 8g --pids-limit 512 --log-opt max-size=20m --log-opt max-file=5 \
   --env-file .env -v "$PWD/work:/app/work" vbpl-v3 auto
 docker logs -f vbpl-auto      # theo dõi
