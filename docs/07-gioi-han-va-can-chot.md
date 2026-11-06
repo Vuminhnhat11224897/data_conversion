@@ -219,3 +219,11 @@ Việc mới sau đợt 20.000 (28/10/2026). Mọi việc chờ người dùng q
 | Giới hạn 256 token của embedding: tăng `max_length` (đặt `EMBEDDING_REUSE=no`) hoặc thêm chunk con | Đã làm: vector đủ độ dài qua API bge-m3 kiểu OpenAI (`57b9033`), đoạn tìm kiếm cho phụ lục (300 từ) và đề mục (150 từ) (`c394162`, `57b9033`). Có trong `-v4` từ 28/10/2026. `.env` dùng chung vẫn để API cũ; lượt chạy đặt biến trong `work/.embedding.env` (kiểm 28/10/2026). |
 | Báo bên đọc: ID chunk văn bản kèm theo đổi từ `_s<s>_` sang `_pl<i>_`; mỗi quan hệ chỉ còn một vị trí; chỉ dựng cạnh khi `resolution_status = validated`; từ code 27/10/2026 có vị trí `Phụ lục` không số; chunk `phu_luc_doan`, `muc_doan` là đoạn tìm kiếm, không là node | Cần báo |
 | Ca parser sai đã biết (`315654`, `128228`) | Duyệt tay sau khi chuyển |
+
+## 7.6. Sự cố regex danh sách khoản (OPS1, 06/11/2026)
+
+Lượt `auto-20261106-050511` dừng tiến triển sau 240/300 văn bản, từ khoảng 05h10 giờ Việt Nam. Văn bản 299233 (`30/2015/TT-NHNN`) có danh sách dài "Khoản 2, 3, …, 43 Thông tư số" không có Điều theo sau. `relations.scope` dùng các lượng từ khoảng trắng chồng nhau trong nhóm lặp; regex quay lui quá nhiều và giữ GIL, làm các thread còn lại chờ. Container vẫn chạy, không bị OOM; LLM, embedding và ES vẫn phản hồi.
+
+Đã sửa bốn mẫu danh sách trong `scope`: dấu phẩy, từ "và" và khoảng trắng được nhận diện thành các nhánh tách biệt. Giữ khả năng đọc danh sách thiếu dấu phẩy và không tự thêm Điều còn thiếu. Kiểm thử `tests/test_scope_lists.py` chạy ca tái hiện trong tiến trình riêng với giới hạn 3 giây. Không thay đổi giới hạn luồng hoặc hợp đồng dữ liệu.
+
+Chặn kiểu treo này cho mọi nguyên nhân (OPS2, 06/11/2026): `convert.run` theo dõi giờ bắt đầu từng văn bản; quá `DOC_TIMEOUT_SECONDS` (mặc định 1200 giây, gấp hơn 3 lần ca chậm nhất 380 giây trên 37.140 văn bản) thì ghi `failures.jsonl` lỗi `DocumentTimeout`, lô chạy tiếp với các luồng còn lại và không chờ luồng bị kẹt. Python không ngắt được một thread, nên `auto` chốt lô như thường (văn bản quá giờ tính một lần lỗi, `AUTO_MAX_ATTEMPTS` lần thì loại) rồi thoát mã 75; Docker (`--restart unless-stopped`) khởi động lại tiến trình sạch. `convert` chạy tay thì thoát mã 1 sau khi ghi tóm tắt. Container còn giới hạn tài nguyên trên máy dùng chung (README): 8 CPU, 8 GiB RAM, không swap, 512 tiến trình/thread, log 5×20 MB.

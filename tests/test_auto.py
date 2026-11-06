@@ -173,5 +173,54 @@ class Stop(unittest.TestCase):
         self.assertFalse((root / 'r' / 'documents.jsonl').exists())
 
 
+class Timeout(unittest.TestCase):
+    """06/11/2026: a regex hung on 299233 for 5 hours and the whole batch waited. A document past DOC_TIMEOUT_SECONDS fails alone."""
+
+    def test_a_hung_document_fails_and_the_batch_goes_on(self):
+        root = Path(tempfile.mkdtemp())
+        (root / 'r').mkdir()
+        (root / 'r' / 'ids.json').write_text(json.dumps(['1', '2', '3']))
+        release = threading.Event()
+
+        def convert(doc_id, *a, **k):
+            if doc_id == '1':
+                release.wait(30)  # stands for a thread no one can interrupt
+            return {'doc_id': doc_id}
+
+        args = Namespace(run='r', ids=None, sample=None, seed=1, all=False, from_date=None, to_date=None, legal_type=None, redo=False,
+                         limit=None, workers=2, no_qa=False, dry_run=False, return_on_timeout=True)
+        try:
+            with patch('vbpl_v3.convert.convert_document', side_effect=convert), patch('builtins.print'), \
+                    patch.dict('os.environ', {'DOC_TIMEOUT_SECONDS': '0.5'}):
+                self.assertEqual(run(config(workdir=root), Cluster({}), Cluster({}), args), auto.TIMED_OUT)
+            done = [json.loads(line)['doc_id'] for line in (root / 'r' / 'documents.jsonl').read_text().splitlines()]
+            failed = [json.loads(line) for line in (root / 'r' / 'failures.jsonl').read_text().splitlines()]
+            self.assertEqual(sorted(done), ['2', '3'])
+            self.assertEqual([f['doc_id'] for f in failed], ['1'])
+            self.assertTrue(failed[0]['error'].startswith('DocumentTimeout'))
+            self.assertEqual(json.loads((root / 'r' / 'summary.json').read_text())['timed_out'], ['1'])
+        finally:
+            release.set()
+
+    def test_auto_saves_the_batch_then_exits_for_a_clean_restart(self):
+        case = Forever()
+        case.setUp()
+
+        def timed_out(config, source, target, args):
+            case.fake_run(config, source, target, args)
+            return auto.TIMED_OUT
+
+        with patch('vbpl_v3.auto.run', side_effect=timed_out), patch('vbpl_v3.auto.llm.concurrency', return_value=1), \
+                patch.dict('os.environ', {'AUTO_BATCH_PER_WORKER': '3', 'AUTO_RELINK': '0'}), patch('builtins.print'), \
+                patch('signal.signal'), patch('vbpl_v3.auto.os._exit', side_effect=SystemExit) as exit_:
+            with self.assertRaises(SystemExit):
+                auto.forever(case.config, case.source, case.target)
+        exit_.assert_called_once_with(auto.RESTART)
+        state = case.root / 'auto'
+        self.assertEqual(json.loads((state / 'attempts.json').read_text()), {'5': 1})  # counted before the exit
+        self.assertEqual(json.loads((state / 'queue.json').read_text()), ['3', '2', '1', '5'])
+        self.assertEqual(len((state / 'history.jsonl').read_text().splitlines()), 1)
+
+
 if __name__ == '__main__':
     unittest.main()

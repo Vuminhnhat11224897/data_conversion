@@ -14,6 +14,8 @@ half a batch of 4 or more fails, a service is down: attempts are not counted, th
 State in work/auto/: queue.json, repair.json, seen.json.gz (source ids of the last scan), scan.json, relink.json, attempts.json, excluded.json
 (id -> reason), history.jsonl (one line per batch), batches/<run>.txt. Each batch is a convert run work/auto-<time>/.
 SIGTERM/SIGINT: documents not started yet stay queued; the ones in flight finish (docker stop --time 600).
+A document past DOC_TIMEOUT_SECONDS counts as failed; once its batch is settled and saved the process exits (code 75) so that
+Docker (--restart unless-stopped) starts it again without the thread that hung.
 """
 
 import fcntl
@@ -27,8 +29,10 @@ from argparse import Namespace
 from datetime import datetime
 
 from . import integrity, llm, source_guard
-from .convert import run
+from .convert import TIMED_OUT, run
 from .relink import relink
+
+RESTART = 75  # exit code after a document timed out: the restart policy brings the process back clean
 
 
 def setting(name, default):
@@ -165,9 +169,10 @@ def forever(config, source, target, once=False, scan_only=False):
             ids_file = state / 'batches' / f'{name}.txt'
             ids_file.write_text('\n'.join(batch) + '\n')
             args = Namespace(run=name, ids=str(ids_file), sample=None, seed=0, all=False, from_date=None, to_date=None, legal_type=None,
-                             limit=None, workers=workers, no_qa=False, dry_run=False, redo=False, keep_number_index=True, stop=stop)
+                             limit=None, workers=workers, no_qa=False, dry_run=False, redo=False, keep_number_index=True, stop=stop,
+                             return_on_timeout=True)
             started = time.time()
-            run(config, source, target, args)
+            code = run(config, source, target, args)
             done, failed, outage = settle(config.workdir / name, batch, attempts, excluded, max_attempts)
             if outage:  # keep the batch where it is: it goes first again once the service is back
                 queue = [i for i in queue if i not in done and i not in excluded]
@@ -183,6 +188,9 @@ def forever(config, source, target, once=False, scan_only=False):
             with (state / 'history.jsonl').open('a', encoding='utf-8') as stream:
                 stream.write(json.dumps(entry, ensure_ascii=False) + '\n')
             print(f'auto: {entry}', flush=True)
+            if code == TIMED_OUT:
+                print('auto: có văn bản quá DOC_TIMEOUT_SECONDS, đã ghi lỗi; thoát để Docker khởi động lại, bỏ luồng bị kẹt', flush=True)
+                os._exit(RESTART)
             if once:
                 return 1 if failed else 0
             wait = min(wait * 2, 1800) if outage else 60

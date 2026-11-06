@@ -1,10 +1,11 @@
 """Convert source documents into the v3 indices: rule parser + qwen-legal for routed cases, chunks, vectors, QA'd relations."""
 
-from concurrent.futures import ThreadPoolExecutor, as_completed
+from concurrent.futures import FIRST_COMPLETED, ThreadPoolExecutor, wait
 from datetime import datetime, timezone
 import difflib
 import hashlib
 import json
+import os
 import re
 from pathlib import Path
 import threading
@@ -758,6 +759,9 @@ def select_ids(config, source, args):
     return [h['_id'] for h in source.scan(config.source['documents'], query, False, size=5000)]
 
 
+TIMED_OUT = 2  # run() result when a document passed DOC_TIMEOUT_SECONDS and its thread was abandoned
+
+
 def run(config, source, target, args, caller=None):
     root = config.workdir / args.run
     root.mkdir(parents=True, exist_ok=True)
@@ -788,28 +792,60 @@ def run(config, source, target, args, caller=None):
         (root / 'source.json').write_text(json.dumps(checked, ensure_ascii=False, indent=1))
     lock, failures, started = threading.Lock(), [], time.time()
     stop = getattr(args, 'stop', None)
+    # A document can hang in pure Python, which no thread can interrupt (06/11/2026: a regex backtracked for 5 hours on 299233 and
+    # the whole batch waited). Past DOC_TIMEOUT_SECONDS it is recorded as failed, the batch goes on without it, the thread is left.
+    limit, running, timed_out = float(os.getenv('DOC_TIMEOUT_SECONDS', 1200)), {}, set()
+
+    def fail(doc_id, error):
+        failure = {'doc_id': doc_id, 'error': error, 'at': datetime.now(timezone.utc).isoformat()}
+        with lock, (root / 'failures.jsonl').open('a', encoding='utf-8') as stream:
+            stream.write(json.dumps(failure, ensure_ascii=False) + '\n')
+            failures.append(failure)
 
     def work(doc_id):
         if stop is not None and stop.is_set():
             return None  # stopping: a document not started yet stays undone for the next run
+        with lock:
+            running[doc_id] = time.time()
         try:
             record = convert_document(doc_id, config, source, target, meta['run_id'], root, qa=not args.no_qa, dry_run=args.dry_run, caller=caller)
         except Exception as exc:
-            failure = {'doc_id': doc_id, 'error': f'{type(exc).__name__}: {str(exc)[:500]}', 'at': datetime.now(timezone.utc).isoformat()}
-            with lock, (root / 'failures.jsonl').open('a', encoding='utf-8') as stream:
-                stream.write(json.dumps(failure, ensure_ascii=False) + '\n')
-            failures.append(failure)
+            if doc_id not in timed_out:
+                fail(doc_id, f'{type(exc).__name__}: {str(exc)[:500]}')
             return None
+        finally:
+            with lock:
+                running.pop(doc_id, None)
         with lock, log.open('a', encoding='utf-8') as stream:
             stream.write(json.dumps(record, ensure_ascii=False) + '\n')
         return record
 
-    with ThreadPoolExecutor(args.workers) as pool:
-        for n, _ in enumerate(as_completed([pool.submit(work, i) for i in todo]), 1):
+    pool = ThreadPoolExecutor(args.workers)
+    futures = {pool.submit(work, i): i for i in todo}
+    pending, n = set(futures), 0
+    while pending:
+        finished, pending = wait(pending, timeout=min(30, limit), return_when=FIRST_COMPLETED)
+        for _ in finished:
+            n += 1
             if n % 25 == 0 or n == len(todo):
                 print(f'{n}/{len(todo)} sau {time.time() - started:.0f} giây, lỗi {len(failures)}', flush=True)
+        now = time.time()
+        with lock:
+            late = [d for d, at in running.items() if now - at >= limit and d not in timed_out]
+        for doc_id in late:
+            timed_out.add(doc_id)
+            fail(doc_id, f'DocumentTimeout: quá {limit:.0f} giây, bỏ luồng xử lý')
+            print(f'Văn bản {doc_id} quá {limit:.0f} giây: ghi lỗi, lô chạy tiếp', flush=True)
+        if pending and all(futures[f] in timed_out for f in pending):
+            break  # only abandoned documents are left
+    pool.shutdown(wait=not timed_out, cancel_futures=bool(timed_out))
     summary = {'run_id': meta['run_id'], 'selected': len(ids), 'attempted': len(todo), 'failures': len(failures),
-               'seconds': round(time.time() - started), 'dry_run': args.dry_run}
+               'timed_out': sorted(timed_out), 'seconds': round(time.time() - started), 'dry_run': args.dry_run}
     (root / 'summary.json').write_text(json.dumps(summary, indent=1))
     print(f'Xong: {summary}. Nhật ký ở {root}', flush=True)
+    if timed_out:
+        if not getattr(args, 'return_on_timeout', False):
+            # The abandoned thread would keep the interpreter from exiting; every log line is already written and closed.
+            os._exit(1)
+        return TIMED_OUT
     return 1 if failures else 0

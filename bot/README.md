@@ -25,6 +25,7 @@ Chạy bằng image `vbpl-v3` (bot không nằm trong image, gắn vào chỉ đ
 cd /data/data_conversion
 mkdir -p work/bot-state
 docker run -d --name vbpl-bot --restart unless-stopped --network host --user "$(id -u):$(id -g)" --env-file .env \
+  --cpus 0.5 --memory 512m --memory-swap 512m --pids-limit 128 --log-opt max-size=10m --log-opt max-file=3 \
   -e BOT_STATE_DIR=/app/state -v "$PWD/bot:/app/bot:ro" -v "$PWD/work:/app/work:ro" -v "$PWD/work/bot-state:/app/state" \
   --entrypoint python vbpl-v3 /app/bot/main.py
 docker logs --tail 30 vbpl-bot
