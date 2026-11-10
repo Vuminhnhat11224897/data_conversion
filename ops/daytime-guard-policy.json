@@ -1,0 +1,9 @@
+{
+  "armed": true,
+  "interval_seconds": 30,
+  "scope": "vbpl-auto only",
+  "day_hours": "06:00-22:00 Asia/Ho_Chi_Minh",
+  "day_workers": 3,
+  "fallback_day_workers": 1,
+  "night_workers": 12
+}

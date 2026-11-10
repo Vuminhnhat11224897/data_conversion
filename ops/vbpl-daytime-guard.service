@@ -1,0 +1,18 @@
+[Unit]
+Description=Capacity guard for vbpl-auto daytime workers only
+
+[Service]
+Type=simple
+WorkingDirectory=/data/data_conversion
+ExecStart=/usr/bin/python3 /data/data_conversion/ops/daytime_guard.py --monitor
+Environment=PYTHONUNBUFFERED=1
+Restart=on-failure
+RestartSec=10
+CPUQuota=5%
+MemoryMax=128M
+TasksMax=32
+Nice=10
+IOSchedulingClass=idle
+
+[Install]
+WantedBy=default.target

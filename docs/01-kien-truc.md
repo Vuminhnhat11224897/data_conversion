@@ -253,6 +253,12 @@ Chỉ luồng chính được triển khai. Image Docker chỉ chứa `vbpl_v3/`
 
 **Mạng.** Công cụ cần đường tới ES nguồn (đọc), ES đích (ghi), server LLM và dịch vụ embedding.
 
+Triển khai ngày 09/11/2026 trên `dell-ai`: ES nguồn và đích dùng NetBird `http://10.66.163.142:9200` (peer `ubuntu-163-142`). Địa chỉ này và địa chỉ Tailscale cũ `http://100.77.4.35:9200` trả cùng cluster UUID `_s94MeNyR56GAMf6EI5PbA`; ba văn bản kiểm nguồn đều khớp. Cập nhật cả `.env` và môi trường container `vbpl-auto`; giữ nguyên image, tài nguyên, index, hàng đợi và cache. Bản sao cấu hình trước khi đổi nằm trong `work/netbird-switch-20261109T044046Z/` (chứa bí mật, không đưa vào git).
+
+Embedding được chuyển tiếp sang NetBird `http://10.66.183.29:9999/v1` (peer `spark-627f`) lúc 13:09 ngày 09/11/2026, thay cho `http://100.72.221.56:9999/v1`. Kiểm cùng đầu vào trả vector 1.024 chiều giống hệt nhau (cosine 1, sai khác lớn nhất 0); giữ nguyên model `bge-m3`, batch và khóa. Cập nhật `.env` và container; cấu hình cũ nằm trong `work/embedding-netbird-switch-20261109T060945Z/`. Lúc 16:31 cùng ngày nâng lịch worker lên 3 từ 06h–22h và 12 từ 22h–06h, giờ Việt Nam; giữ nguyên 8 CPU/8 GiB. Bộ theo dõi `vbpl-daytime-guard.service` có thể hạ riêng luồng này về 1 worker ban ngày khi dịch vụ dùng chung có dấu hiệu quá tải ([ops/README.md](../ops/README.md)).
+
+Đo trước khi chuyển: NetBird trả yêu cầu nhỏ khoảng 19–22 ms, đọc 20 văn bản (1,27 MB) trong 0,13 giây. Tailscale tới cùng cụm qua relay Hong Kong có lúc mất khoảng 3 giây cho yêu cầu gốc và timeout khi đọc dữ liệu. Benchmark embedding ngày 09/11: 16 đoạn qua Tailscale mất trung vị 0,80 giây, qua NetBird 0,12 giây. Đây là phép đo tại thời điểm kiểm tra, không phải tốc độ bảo đảm cho toàn bộ luồng. Các số đo trong bảng dưới là lịch sử tháng 10/2026.
+
 | Đích | Đường đi | Đo |
 | --- | --- | --- |
 | Server LLM `100.91.202.88:8012` (máy `dell-ai`) | Mạng Tailscale. Máy chạy luồng hiện tại nằm sau NAT, không mở cổng được, nên đường đi qua relay DERP (Singapore). | 77–892 ms (25–26/10/2026). 82–86 ms qua DERP (sin), chưa có đường trực tiếp (`tailscale ping`, 27/10/2026). |
